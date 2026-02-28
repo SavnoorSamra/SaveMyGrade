@@ -175,7 +175,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0yNjQzNA==,26434,Imin,Chen,Mathematics,3.2,3.6,117,62.7119,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNjM3NDA0,2637404,Connie,Liu,Business Administration,1.9,3.6,106,16.9811,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNjE0NDM4,2614438,Mehdi,Ghotboddini,Business Administration,2.9,3.4,70,45.7143,False
-,Simon Fraser University,,,,VGVhY2hlci0yMDQ0MTY4,2044168,Stephanie,Vlachos,Molecular Biology  Biochemistry,3.9,3.5,64,74.5455,False
+,Simon Fraser University,,,,VGVhY2hlci0yMDQ0MTY4,2044168,Stephanie,Vlachos,Molecular Biology & Biochemistry,3.9,3.5,64,74.5455,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMzQyMzA=,234230,Steven,Kates,Business Administration,1.9,3.6,62,14.2857,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNzE1NTIy,2715522,Cleusa,Yamamoto,Business Administration,3.7,2.9,12,66.6667,False
 ,Simon Fraser University,,,,VGVhY2hlci0zMDQ5MDQ5,3049049,Erique,Zhang,Communication,5,2.5,2,100,False
@@ -237,7 +237,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci01OTg3OTU=,598795,Michael,Sjoerdsma,Engineering,3.2,3.1,49,89.4737,False
 ,Simon Fraser University,,,,VGVhY2hlci03OTI5OA==,79298,Richard,Lockhart,Statistics,3.1,3.7,42,44.4444,False
 ,Simon Fraser University,,,,VGVhY2hlci0xMDY1NTU4,1065558,Karel,Hrazdil,Accounting,3.3,3.6,28,57.1429,False
-,Simon Fraser University,,,,VGVhY2hlci0yNDcwMjA1,2470205,Timothy,Audas,Molecular Biology amp Biochemistry,3.8,4,21,71.4286,False
+,Simon Fraser University,,,,VGVhY2hlci0yNDcwMjA1,2470205,Timothy,Audas,Molecular Biology & Biochemistry,3.8,4,21,71.4286,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMzg5NjE4,2389618,Bryan,Kinney,Criminology,3.2,1.9,16,56.25,False
 ,Simon Fraser University,,,,VGVhY2hlci0zMDg4ODYx,3088861,Jocelyn,Minns ,Computer & Informational Tech.,4.7,2.5,16,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0zMDgxNzI2,3081726,Lucas,Villagra Torcomian,Mathematics,2.5,4.2,13,46.1538,False
@@ -293,7 +293,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci04MjUzNjA=,825360,John Michael,Stockie,Mathematics,2.6,4,129,33.3333,False
 ,Simon Fraser University,,,,VGVhY2hlci02ODY3NzY=,686776,Karen,Ruckman,Business Administration,4.2,3.3,115,82.2222,False
 ,Simon Fraser University,,,,VGVhY2hlci03NTczNQ==,75735,Hogan,Yu,Science,3.3,3.1,82,42.8571,False
-,Simon Fraser University,,,,VGVhY2hlci0yMTc5NTg4,2179588,Lindsey,Freeman,Sociology  Anthropology,3.2,3.1,48,56.25,False
+,Simon Fraser University,,,,VGVhY2hlci0yMTc5NTg4,2179588,Lindsey,Freeman,Sociology & Anthropology,3.2,3.1,48,56.25,False
 ,Simon Fraser University,,,,VGVhY2hlci0yODEwMzY4,2810368,Sharan,Vaswani,Computer Science,3.5,4.5,29,65.5172,False
 ,Simon Fraser University,,,,VGVhY2hlci0zMDM5MjQ4,3039248,Felix,Lo,Computer Science,2.2,2.5,26,26.9231,False
 ,Simon Fraser University,,,,VGVhY2hlci01NTg3NDE=,558741,Bonnie,Gray,Engineering,3.7,3.2,17,100,False
@@ -338,7 +338,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0zMDE3ODYw,3017860,Mohamad,Karami,Business Administration,4,3.5,2,50,False
 ,Simon Fraser University,,,,VGVhY2hlci0zMDgyMDU3,3082057,Angela,Bessa,Archaeology,2.8,3.6,5,40,False
 ,Simon Fraser University,,,,VGVhY2hlci0xODc1Mzk1,1875395,Ashley,Trimble,Linguistics,4.1,3.3,24,75,False
-,Simon Fraser University,,,,VGVhY2hlci0yMjAzMzM1,2203335,Leanne,Ramer,Biomedical Physiology  Kinesiology,2.5,3.9,86,32.9412,False
+,Simon Fraser University,,,,VGVhY2hlci0yMjAzMzM1,2203335,Leanne,Ramer,Biomedical Physiology & Kinesiology,2.5,3.9,86,32.9412,False
 ,Simon Fraser University,,,,VGVhY2hlci0zNTAzNTI=,350352,Thomas,Kuehn,History,3.2,3.8,64,38.4615,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNDgxNTUz,2481553,Engida,Gebre,Education,1.5,3,6,16.6667,False
 ,Simon Fraser University,,,,VGVhY2hlci0xODA4MzA1,1808305,Eirini,Kotsovili,Humanities,4.7,3.2,29,100,False
@@ -376,7 +376,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0yNzI4OTE4,2728918,Darren,Francis,Business Administration,4.5,3.6,23,86.9565,False
 ,Simon Fraser University,,,,VGVhY2hlci0zMTExNTk5,3111599,Bridget,Disini,Psychology,1.7,4.6,16,18.75,False
 ,Simon Fraser University,,,,VGVhY2hlci0xMzUyMTQ0,1352144,Shahin,Dashtgard,Earth Science,1.7,4.4,13,9.0909,False
-,Simon Fraser University,,,,VGVhY2hlci0yMjUwMDky,2250092,Trevor,Battye,Publishing  Printing,4.3,2,3,66.6667,False
+,Simon Fraser University,,,,VGVhY2hlci0yMjUwMDky,2250092,Trevor,Battye,Publishing & Printing,4.3,2,3,66.6667,False
 ,Simon Fraser University,,,,VGVhY2hlci0zMTEyMzk2,3112396,Joel,Rivera,Business Administration,5,1,2,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0zMDYwOA==,30608,Anil,Hira,Political Science,3.7,4.1,61,61.1111,False
 ,Simon Fraser University,,,,VGVhY2hlci00NTQ4Nw==,45487,Anthony,Chan,Business Administration,3.6,2.9,48,37.5,False
@@ -542,7 +542,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0yMzg4MjQ3,2388247,Trevor,Block,Linguistics,5,2.8,34,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMzMxMzgy,2331382,Steve,Ruuth,Mathematics,3.2,3.6,32,65.625,False
 ,Simon Fraser University,,,,VGVhY2hlci0xMjUyNTY1,1252565,Cynthia,Xie,Linguistics,4.3,2.6,16,90.9091,False
-,Simon Fraser University,,,,VGVhY2hlci0yMTAyNzcy,2102772,Dave,Clarke,Biomedical Physiology  Kinesiology,2.7,4.9,13,25,False
+,Simon Fraser University,,,,VGVhY2hlci0yMTAyNzcy,2102772,Dave,Clarke,Biomedical Physiology & Kinesiology,2.7,4.9,13,25,False
 ,Simon Fraser University,,,,VGVhY2hlci0xODg2NDgy,1886482,Dan,Gibson,Earth Science,3.7,4.1,12,80,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNDc4MzQ4,2478348,KangKang,Yin,Computer Science,4.1,3.3,9,88.8889,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMTU4Mw==,21583,Paul,Budra,English,4.4,2.8,159,85.7143,False
@@ -586,7 +586,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0yMzk3NjUy,2397652,Robert,Weston,Business Administration,4.5,2.4,32,90.625,False
 ,Simon Fraser University,,,,VGVhY2hlci0xMTMwNTMw,1130530,Rekha,Krishnan,Business Administration,3.4,2.7,24,53.3333,False
 ,Simon Fraser University,,,,VGVhY2hlci0xNzM2ODA1,1736805,M.,Hasan,Business Economics,4.5,3.2,243,90.7407,False
-,Simon Fraser University,,,,VGVhY2hlci0yMDQ2OTUz,2046953,Nadine,Wicks,Biomedical Physiology  Kinesiology,4.1,3.7,65,79.6875,False
+,Simon Fraser University,,,,VGVhY2hlci0yMDQ2OTUz,2046953,Nadine,Wicks,Biomedical Physiology & Kinesiology,4.1,3.7,65,79.6875,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMjUzMDAx,2253001,Lauren,Rossi,History,3.5,3.9,29,62.069,False
 ,Simon Fraser University,,,,VGVhY2hlci0xNDc4Nzk3,1478797,Charles,Krieger,Kinesiology,3.1,3.9,14,25,False
 ,Simon Fraser University,,,,VGVhY2hlci0yOTc4ODM5,2978839,Mariam,Georgis,Gender Studies,4.4,3.3,7,85.7143,False
@@ -645,7 +645,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0yMzM5NTQy,2339542,Kenneth,Seigneurie,Literature,3.8,3.3,18,72.2222,False
 ,Simon Fraser University,,,,VGVhY2hlci0zMDg0NjEz,3084613,Nigare,Raheem,Science,4.3,2.8,6,83.3333,False
 ,Simon Fraser University,,,,VGVhY2hlci0zMDYzNjkx,3063691,Yuri,Reis Rodrigues,Engineering,4,2.5,4,75,False
-,Simon Fraser University,,,,VGVhY2hlci0yMzg0MzEw,2384310,Pamela,Stern,Sociology amp Anthropology,3.3,4,3,33.3333,False
+,Simon Fraser University,,,,VGVhY2hlci0yMzg0MzEw,2384310,Pamela,Stern,Sociology & Anthropology,3.3,4,3,33.3333,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNjI2NDg=,262648,Amir,Rubin,Business Administration,2.5,3.4,57,18.75,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNDYyNjQw,2462640,Anthony,Okuchi,Business Administration,5,3.5,32,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0yODQ3NDgy,2847482,Gregory,Lauro,Philosophy,4.7,2.8,19,100,False
@@ -705,7 +705,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0zMDY1OTg5,3065989,Chris,Shaw,Computer Science,1,4.3,4,0,False
 ,Simon Fraser University,,,,VGVhY2hlci0yOTIxMzM3,2921337,Mackenzie,Carr,Mathematics,4.7,2.9,23,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0xNzA1OTc=,170597,Brian,Krauth,Economics,3.5,3.3,92,81.25,False
-,Simon Fraser University,,,,VGVhY2hlci0xOTk0MjI1,1994225,Suk,Choi,Art  Design,2,4.3,61,24.0741,False
+,Simon Fraser University,,,,VGVhY2hlci0xOTk0MjI1,1994225,Suk,Choi,Art & Design,2,4.3,61,24.0741,False
 ,Simon Fraser University,,,,VGVhY2hlci0xNzg1NDEy,1785412,Kevin,Lam,Biology,4.7,3.3,156,93.3333,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNTU2ODE=,255681,Tony,Williams,Biology,3,3.7,147,35,False
 ,Simon Fraser University,,,,VGVhY2hlci01OTMxOQ==,59319,Andrew,Bennet,Chemistry,2.7,3.5,117,43.956,False
@@ -803,14 +803,14 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0yNzE4Mg==,27182,Jeff,Sugarman,Education,3.9,3.3,133,57.1429,False
 ,Simon Fraser University,,,,VGVhY2hlci0zMDE5MDAy,3019002,Yiwen,Liu,Social Science,2.3,4,3,33.3333,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMDIzMDk5,2023099,Navid,Alaei,Mathematics,3.2,3.7,40,71.4286,False
-,Simon Fraser University,,,,VGVhY2hlci0yMzQzODg1,2343885,Emily,Ip,Art amp Design,2.7,3.6,24,41.6667,False
+,Simon Fraser University,,,,VGVhY2hlci0yMzQzODg1,2343885,Emily,Ip,Art & Design,2.7,3.6,24,41.6667,False
 ,Simon Fraser University,,,,VGVhY2hlci02MzU4NTk=,635859,Scott,Pai,Statistics,2.6,3.7,280,25.6757,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNDIyMzkz,2422393,Gretchen,Ferguson,Geography,3.5,2.3,19,63.1579,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNzc0Mjky,2774292,Brianne,Kent,Psychology,4.3,3.5,8,87.5,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMTk1Mzcx,2195371,Kel,Mcdowell,Education,4.4,2.2,5,80,False
 ,Simon Fraser University,,,,VGVhY2hlci00OTM2Mg==,49362,Suki,Badh,Economics,2.7,3.5,163,83.3333,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMjg4ODM4,2288838,Sarah,Ganter,Communication,3.3,3.8,12,58.3333,False
-,Simon Fraser University,,,,VGVhY2hlci0yMjc4NTk4,2278598,Christine Leanne,Johnson,Publishing  Printing,2,2.4,5,20,False
+,Simon Fraser University,,,,VGVhY2hlci0yMjc4NTk4,2278598,Christine Leanne,Johnson,Publishing & Printing,2,2.4,5,20,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMTAxNjY5,2101669,Suzanna,Crage,Sociology,2.8,3.2,67,50,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNzYwNDg3,2760487,Steven,Bergner,Computer Science,1.8,3.4,40,20,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNjg3MjU5,2687259,Robert,Bandringa,Indigenous Studies,4.6,2.6,16,87.5,False
@@ -1105,7 +1105,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0yNDMzMTM2,2433136,Anita,Tino,Engineering,4.6,4.1,21,90.4762,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMzA0NDAx,2304401,Joseph,Clark,Culinary Arts,3.6,2.6,5,60,False
 ,Simon Fraser University,,,,VGVhY2hlci0xMjAwMjA0,1200204,Deanna,Reder,English,2.9,3,37,33.3333,False
-,Simon Fraser University,,,,VGVhY2hlci0yMjczNDgy,2273482,Amanda,Watson,Sociology  Anthropology,4.3,3.1,28,75,False
+,Simon Fraser University,,,,VGVhY2hlci0yMjczNDgy,2273482,Amanda,Watson,Sociology & Anthropology,4.3,3.1,28,75,False
 ,Simon Fraser University,,,,VGVhY2hlci01NDU2NDQ=,545644,Rosalie,Tung,International Business,3.3,3.3,11,50,False
 ,Simon Fraser University,,,,VGVhY2hlci0xMTQyMTcx,1142171,Steven,Weldon,Political Science,3.4,3.9,46,71.4286,False
 ,Simon Fraser University,,,,VGVhY2hlci00MzI0MjQ=,432424,Gerardo,Otero,Sociology,3.3,3.5,30,33.3333,False
@@ -1199,7 +1199,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0yMjQ0NTI0,2244524,Livia,Poljak,French,4.4,2.3,9,88.8889,False
 ,Simon Fraser University,,,,VGVhY2hlci0yODAyNDg4,2802488,Tao,Wang,Computer Science,2.7,3.9,13,46.1538,False
 ,Simon Fraser University,,,,VGVhY2hlci02OTIwNA==,69204,Chung-Hye,Han,Languages,4,2.5,33,87.5,False
-,Simon Fraser University,,,,VGVhY2hlci0yMzU4MDE2,2358016,Lisa,Poole,Sociology amp Anthropology,3.7,4,3,66.6667,False
+,Simon Fraser University,,,,VGVhY2hlci0yMzU4MDE2,2358016,Lisa,Poole,Sociology & Anthropology,3.7,4,3,66.6667,False
 ,Simon Fraser University,,,,VGVhY2hlci0xMDkwNDY4,1090468,Lesley,Shannon,Engineering,2.5,3.7,36,60,False
 ,Simon Fraser University,,,,VGVhY2hlci0yOTMwMzcz,2930373,Aron,Weir,Biology,4.9,2.4,8,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0zMDA0MTM5,3004139,Timothy,Van den Brink,Political Science,5,3.5,2,100,False
@@ -1220,7 +1220,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0zMDEzMDY3,3013067,Fatemah,Tehrani,Education,0,0,0,-1,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMjMwNzE=,223071,Kate,Scheel,English,4.3,2.8,23,85.7143,False
 ,Simon Fraser University,,,,VGVhY2hlci0yOTYzNjA5,2963609,Valerie,Liao,Finance,2,4.2,5,40,False
-,Simon Fraser University,,,,VGVhY2hlci0yMzU3NzMy,2357732,Dylan,Cooke,Biomedical Physiology amp Kinesiology,1.4,4.6,30,10,False
+,Simon Fraser University,,,,VGVhY2hlci0yMzU3NzMy,2357732,Dylan,Cooke,Biomedical Physiology & Kinesiology,1.4,4.6,30,10,False
 ,Simon Fraser University,,,,VGVhY2hlci0xOTI0MTMx,1924131,Francesco,Berna,Archaeology,3.7,2.3,21,71.4286,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNzkxNjEx,2791611,Mackenzie,Hart,Criminology,5,3,2,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0xMDE1OTUz,1015953,Sherryl,Bisgrove,Biology,4.3,3,28,81.25,False
@@ -1255,7 +1255,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0yODQwNzA4,2840708,Serena,Canaan,Economics,4,2.5,2,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0yOTk3NzQw,2997740,Katen,Kelly,Biomedical Physiology & Kinesiology,5,2.5,2,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0xOTczOTk2,1973996,Laurence,Gauvreau,French,2.8,3.5,6,60,False
-,Simon Fraser University,,,,VGVhY2hlci0xOTMyNjAx,1932601,Suzanne,Norman,Publishing  Printing,3,2.4,26,75,False
+,Simon Fraser University,,,,VGVhY2hlci0xOTMyNjAx,1932601,Suzanne,Norman,Publishing & Printing,3,2.4,26,75,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNTg4MzY2,2588366,Melissa,Panjer,Business Administration,4.4,2.4,5,80,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNTE3NTA2,2517506,Claudette,Lauzon,Art,1,4.5,2,0,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNjI2NTk=,262659,Oliver,Schulte,Computer Science,3,2.8,38,53.8462,False
@@ -1298,7 +1298,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0yOTUzODMz,2953833,Remya,Neela,Business Administration,1.5,4.3,10,10,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNzI0OTU5,2724959,Dongwoo,Kim,Economics,3.4,4.6,5,60,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNTY3MTk2,2567196,Norbert,Haunerland,Biology,2.9,4,49,38.7755,False
-,Simon Fraser University,,,,VGVhY2hlci0yMTk0NDY1,2194465,Jim,Carter,Biomedical Physiology  Kinesiology,4.9,3.3,10,100,False
+,Simon Fraser University,,,,VGVhY2hlci0yMTk0NDY1,2194465,Jim,Carter,Biomedical Physiology & Kinesiology,4.9,3.3,10,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0yOTc4MTcz,2978173,Vera,Lucci,TA,1,4,1,0,False
 ,Simon Fraser University,,,,VGVhY2hlci0xNDU2Njg2,1456686,Peter,Chow-White,Communication,3.8,2.6,9,75,False
 ,Simon Fraser University,,,,VGVhY2hlci0xMjY1MzAw,1265300,Yupin,Yang,Business Administration,2.8,3.1,18,50,False
@@ -1484,7 +1484,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0yODQxNTE0,2841514,Dina,Sadeghi,TA,1.5,5,2,0,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMTgxNzY3,2181767,Naghmeh,Jahangir-Tafreshi,Psychology,5,2,1,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0xNzM0NzM2,1734736,Shauna,Johnes,Business Administration,1,3,1,0,False
-,Simon Fraser University,,,,VGVhY2hlci0xOTgzMjA1,1983205,Caitlin,Gordon-Walker,Sociology  Anthropology,2.8,2.9,14,40,False
+,Simon Fraser University,,,,VGVhY2hlci0xOTgzMjA1,1983205,Caitlin,Gordon-Walker,Sociology & Anthropology,2.8,2.9,14,40,False
 ,Simon Fraser University,,,,VGVhY2hlci0yODEwMDg3,2810087,Michael,Rosenblat,Biomedical Physiology & Kinesiology,1,5,2,0,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNTIyMzg3,2522387,Phil,Winne,Education,1.5,1.5,2,0,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMDQ4OTQz,2048943,Scott,Bursey,Religion,4.2,2.4,9,100,False
@@ -1506,7 +1506,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0yODE0ODYz,2814863,Nathan,Gock,Health Science,5,2,1,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMjAwNjk5,2200699,Daniel,Hooley,Philosophy,3.3,3.1,20,40,False
 ,Simon Fraser University,,,,VGVhY2hlci05NjQ1MA==,96450,Paul,Hibbitts,Computer Science,4.3,3,44,66.6667,False
-,Simon Fraser University,,,,VGVhY2hlci0yNDQ2NDQ2,2446446,Servet,Ulas,Art amp Design,5,2.3,9,100,False
+,Simon Fraser University,,,,VGVhY2hlci0yNDQ2NDQ2,2446446,Servet,Ulas,Art & Design,5,2.3,9,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMzg1NzI3,2385727,Orlando,Vera,Earth Science,4.3,2.6,7,85.7143,False
 ,Simon Fraser University,,,,VGVhY2hlci00MjcxNjQ=,427164,Yue,Wang,Languages,2.9,2.8,33,50,False
 ,Simon Fraser University,,,,VGVhY2hlci0xODYyMDUy,1862052,Jason,Starnes,English,3.9,3,8,80,False
@@ -1611,7 +1611,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0xNjE2OTc2,1616976,Natt,Hongdilokkul,Economics,3.3,3,5,66.6667,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMjcxMzE2,2271316,Matthew,Greaves,Communication,3.4,3,12,50,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNDE3MzU5,2417359,Christina,Giovas,Anthropology,4.3,2.8,4,100,False
-,Simon Fraser University,,,,VGVhY2hlci0yNzQxNzI2,2741726,Ashu,Adhikari,Art amp Design,2.5,3,2,0,False
+,Simon Fraser University,,,,VGVhY2hlci0yNzQxNzI2,2741726,Ashu,Adhikari,Art & Design,2.5,3,2,0,False
 ,Simon Fraser University,,,,VGVhY2hlci0xNjc0MTIx,1674121,Anne,Rimrott,Linguistics,3.6,3.3,66,75,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNTQzMjM=,254323,Barbara,Frisken,Physics,1.8,4.2,29,50,False
 ,Simon Fraser University,,,,VGVhY2hlci0xNzAzMDE4,1703018,Marela,Dichupa,Education,3.3,3.1,19,80,False
@@ -1950,7 +1950,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0xMDQ4NDk3,1048497,Elizabeth,MacDonald,Communication,2.6,3.7,6,0,False
 ,Simon Fraser University,,,,VGVhY2hlci0xOTgxMzc2,1981376,Kyungjae,Lee,Computer Science,4.2,2.3,6,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMDkxMzM2,2091336,Stefano,Gulmanelli,Political Science,1.8,3.8,5,20,False
-,Simon Fraser University,,,,VGVhY2hlci0yMTI0MjM3,2124237,Samantha,May,Sociology  Anthropology,2.9,3,5,100,False
+,Simon Fraser University,,,,VGVhY2hlci0yMTI0MjM3,2124237,Samantha,May,Sociology & Anthropology,2.9,3,5,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0xMzM3NTkz,1337593,Kari,Marken,Education,4.5,2.3,3,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMjE2NDE=,221641,Ted,Kirkpatrick,Computer Science,3.4,2.3,41,50,False
 ,Simon Fraser University,,,,VGVhY2hlci0xNTc5OTU3,1579957,Wang,Yue,Not Specified,5,3,1,100,False
@@ -1987,7 +1987,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0yMjcwNzA4,2270708,Richard,Parent,Criminology,1,4,1,0,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMzgzNzU4,2383758,Kai,Bu,Computer Science,4,2,2,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNDAwNDE4,2400418,Yusuf,Tuncer,Mathematics,2.2,3,5,20,False
-,Simon Fraser University,,,,VGVhY2hlci0yNDA4MzIx,2408321,Adam,Barlev,Molecular Biology amp Biochemistry,3.2,3.7,13,69.2308,False
+,Simon Fraser University,,,,VGVhY2hlci0yNDA4MzIx,2408321,Adam,Barlev,Molecular Biology & Biochemistry,3.2,3.7,13,69.2308,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMjkwNzg1,2290785,Teo,Penkov,Biology,4.8,1.4,7,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0zMzcwMw==,33703,Rick,Gruneau,Communication,4,3.4,41,0,False
 ,Simon Fraser University,,,,VGVhY2hlci0xMjAxNzUx,1201751,Masoud,Shadnam,Business Administration,3.6,2.3,3,100,False
@@ -2040,7 +2040,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0xODA2MjQy,1806242,Maggie,MacAulay,Communication,4,2.5,11,62.5,False
 ,Simon Fraser University,,,,VGVhY2hlci0zOTAwMQ==,39001,Meguido,Zola,Education,2.7,2.9,63,100,False
 ,Simon Fraser University,,,,VGVhY2hlci01NjcyMg==,56722,Sj,Ruuth,Mathematics,3.7,2.7,43,33.3333,False
-,Simon Fraser University,,,,VGVhY2hlci0yMzQ4ODE2,2348816,Jiarui,Li,Molecular Biology amp Biochemistry,3,4,7,71.4286,False
+,Simon Fraser University,,,,VGVhY2hlci0yMzQ4ODE2,2348816,Jiarui,Li,Molecular Biology & Biochemistry,3,4,7,71.4286,False
 ,Simon Fraser University,,,,VGVhY2hlci01OTM3MA==,59370,Ron,Zitron,Business Administration,3.6,3.7,79,28.5714,False
 ,Simon Fraser University,,,,VGVhY2hlci01MTY1OTU=,516595,William,Davidson,Molecular Biosciences,4.2,3.3,28,50,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMjIyNDkw,2222490,Jeannette,Paschen,Business Administration,3,2.8,10,50,False
@@ -2235,7 +2235,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0yMDI4MTMw,2028130,Alan,Jones,Business Administration,2.7,3.9,7,0,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMTEyNTE1,2112515,Ali,Madooei,Computer Science,5,2,2,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0xOTk3MTAw,1997100,Debopam,Das,Linguistics,1.8,4.4,14,100,False
-,Simon Fraser University,,,,VGVhY2hlci0yMTMxOTg0,2131984,Tasneem,Pirani-Sheriff,Biomedical Physiology  Kinesiology,2,1,1,100,False
+,Simon Fraser University,,,,VGVhY2hlci0yMTMxOTg0,2131984,Tasneem,Pirani-Sheriff,Biomedical Physiology & Kinesiology,2,1,1,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0xMDg4NjQ=,108864,Richard,Harris,Economics,2.7,3.4,29,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0xMTE2ODc1,1116875,Mehrdad,Moallem,Engineering,3.9,3.3,4,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0zNTAzNDY=,350346,Alexander,Dawson,History,4,3.3,39,100,False
@@ -2259,11 +2259,11 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0xMjYzMzA=,126330,Terri,Evans,Geography,3.8,2.5,12,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0xNTk5NDg3,1599487,Roberto,Dosil,Not Specified,4.1,2.4,5,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0xODQ5NzQ3,1849747,Scott,Kristjanson,Computer Science,4.7,1.8,13,100,False
-,Simon Fraser University,,,,VGVhY2hlci0yMTYyNzE2,2162716,John,Manning,Biomedical Physiology  Kinesiology,5,3,1,100,False
+,Simon Fraser University,,,,VGVhY2hlci0yMTYyNzE2,2162716,John,Manning,Biomedical Physiology & Kinesiology,5,3,1,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMTQwOTY1,2140965,Sean,Broadbent,Geography,4.3,3,2,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMTg3ODg1,2187885,Sitara,Thobani,Gender Studies,3,4,1,0,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMTU0OTc1,2154975,Michael,Gordon,Education,5,1,1,100,False
-,Simon Fraser University,,,,VGVhY2hlci0yMTgwOTc1,2180975,Sitara,Thobani,Sociology  Anthropology,5,1,1,100,False
+,Simon Fraser University,,,,VGVhY2hlci0yMTgwOTc1,2180975,Sitara,Thobani,Sociology & Anthropology,5,1,1,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMDQ0NjM4,2044638,Bryan,Monk,Criminology,4.8,2.5,2,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0yODYwMg==,28602,Robert,Menzies,Criminal Justice,3.5,3.3,39,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0yNTQ0MDE=,254401,Michael,Eikerling,Chemistry,3,3.4,30,0,False
@@ -2279,7 +2279,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0xNjUwNjI2,1650626,Catherine,Wilson,Psychology,3.7,1.9,8,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0xNDQ0MzUz,1444353,Barry,Worsfold,Gerontology,2.5,3.2,6,0,False
 ,Simon Fraser University,,,,VGVhY2hlci0xODk4ODE5,1898819,Ozlem,Sensoy,Education,3.2,4.3,7,100,False
-,Simon Fraser University,,,,VGVhY2hlci0yMTYyNDIx,2162421,Dianna,Mawson,Counseling  Educational Psych,5,4,1,100,False
+,Simon Fraser University,,,,VGVhY2hlci0yMTYyNDIx,2162421,Dianna,Mawson,Counseling & Educational Psych,5,4,1,100,False
 ,Simon Fraser University,,,,VGVhY2hlci02NTIxNQ==,65215,Stephen,Duguid,Humanities,3.5,3.3,16,100,False
 ,Simon Fraser University,,,,VGVhY2hlci03ODAxMTE=,780111,Sasha,Colby,English,4.7,3,14,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMDAzNzQ4,2003748,Julian,Brooks,History,4.7,3,5,100,False
@@ -2301,7 +2301,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0xMDU2MDE1,1056015,Carole,Gerson,English,4.5,2.6,8,-1,False
 ,Simon Fraser University,,,,VGVhY2hlci0xMDg3MTE5,1087119,Dirk,Kirste,Earth Science,3.4,3.3,22,-1,False
 ,Simon Fraser University,,,,VGVhY2hlci0xMzY3MTkx,1367191,Angela,Brooks-Wilson,Kinesiology,4.8,2.4,5,-1,False
-,Simon Fraser University,,,,VGVhY2hlci0xOTYyOTEx,1962911,Yen ,Cheng,Biomedical Physiology  Kinesiology,4.1,3.9,9,-1,False
+,Simon Fraser University,,,,VGVhY2hlci0xOTYyOTEx,1962911,Yen ,Cheng,Biomedical Physiology & Kinesiology,4.1,3.9,9,-1,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMTI5OTEw,2129910,Jacqueline,Jordan,Design,1.5,1,1,-1,False
 ,Simon Fraser University,,,,VGVhY2hlci0xNzUyNjkw,1752690,Akin,Akinwumi,Geography,4.3,3.2,13,-1,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMTM2NTE5,2136519,Jenny,Steinke,French,4.5,2,1,-1,False
@@ -2987,7 +2987,7 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0xMzAwNDg0,1300484,Jeremy,Hall,Business Administration,4,3,1,-1,False
 ,Simon Fraser University,,,,VGVhY2hlci0xOTU2ODc4,1956878,Naoko,Kato,Asian Studies,4.5,2,1,-1,False
 ,Simon Fraser University,,,,VGVhY2hlci0xOTQzMjc4,1943278,Isabella ,Graf,Mathematics,1,5,1,-1,False
-,Simon Fraser University,,,,VGVhY2hlci0xOTg5MzUz,1989353,Luca,Doria,Physics  Chemistry,5,1,1,-1,False
+,Simon Fraser University,,,,VGVhY2hlci0xOTg5MzUz,1989353,Luca,Doria,Physics Chemistry,5,1,1,-1,False
 ,Simon Fraser University,,,,VGVhY2hlci0xOTg5NjM0,1989634,Brianne,Layden,Psychology,5,3,1,-1,False
 ,Simon Fraser University,,,,VGVhY2hlci0xOTAwMjg1,1900285,Jiacheng,Wang,Engineering,4,2,1,-1,False
 ,Simon Fraser University,,,,VGVhY2hlci0xOTY2MTM1,1966135,Noa ,Grass,History,5,1,1,-1,False
@@ -3200,13 +3200,13 @@ legacy_school_id,school_name,school_city,school_state,school_country,professor_i
 ,Simon Fraser University,,,,VGVhY2hlci0yNDkwNTYz,2490563,Julie,Leinis,Chemistry,0,0,0,-1,False
 ,Simon Fraser University,,,,VGVhY2hlci0yODUwMDcx,2850071,Lena,Richardson,Education,0,0,0,-1,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMjY4ODY5,2268869,T'ea,Dong,Science,0,0,0,-1,False
-,Simon Fraser University,,,,VGVhY2hlci0yMjUwMDkx,2250091,Susmita,Dey,Publishing  Printing,0,0,0,-1,False
+,Simon Fraser University,,,,VGVhY2hlci0yMjUwMDkx,2250091,Susmita,Dey,Publishing & Printing,0,0,0,-1,False
 ,Simon Fraser University,,,,VGVhY2hlci0xNjA0MTIw,1604120,Tom,Brown,Business Administration,0,0,0,-1,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMzQ2Mjg5,2346289,Lisa,Donovan,Education,0,0,0,-1,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMTY4MDQy,2168042,Annie,Ross,Philosophy,0,0,0,-1,False
-,Simon Fraser University,,,,VGVhY2hlci0yMTYzODA4,2163808,Sarah,Rudrum,Sociology  Anthropology,0,0,0,-1,False
+,Simon Fraser University,,,,VGVhY2hlci0yMTYzODA4,2163808,Sarah,Rudrum,Sociology & Anthropology,0,0,0,-1,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMTYyNDI3,2162427,Roger,Frei,Psychology,0,0,0,-1,False
-,Simon Fraser University,,,,VGVhY2hlci0yMDIyNDY5,2022469,Stephen,Brown,Biomedical Physiology  Kinesiology,0,0,0,-1,False
+,Simon Fraser University,,,,VGVhY2hlci0yMDIyNDY5,2022469,Stephen,Brown,Biomedical Physiology & Kinesiology,0,0,0,-1,False
 ,Simon Fraser University,,,,VGVhY2hlci0yMDE5MDQ2,2019046,John,Fountain,Economics,0,0,0,-1,False
 ,Simon Fraser University,,,,VGVhY2hlci0xMTk2Mzg3,1196387,Kevin,Williams,Communication,0,0,0,-1,False
 ,Simon Fraser University,,,,VGVhY2hlci05MDYzNTc=,906357,H.,Antecol,Economics,0,0,0,-1,False
