@@ -12,7 +12,7 @@ SaveMyGrade helps students discover lower-difficulty courses by combining:
 The frontend lives in `frontend/` and is already wired to call:
 - `POST /api/recommendations`
 
-When running locally, Vite proxies `/api/*` to `http://localhost:5000`, so your Flask backend should run there during development.
+When running locally, Vite proxies `/api/*` to `http://localhost:5050` by default, so your Flask backend should run there during development.
 
 ### Run locally
 
@@ -32,6 +32,21 @@ npm run dev
 3. Open the app:
 
 `http://localhost:5173`
+
+## Environment Setup
+
+Create your local env file:
+
+```bash
+cp .env.example .env
+```
+
+Then update `.env` with your real secrets, especially:
+- `GOOGLE_API_KEY`
+
+Important:
+- `.env` is git-ignored and should never be committed.
+- `.env.example` is safe to commit and contains placeholders only.
 
 ## Current stack
 
