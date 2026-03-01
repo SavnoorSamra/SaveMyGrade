@@ -1,0 +1,37 @@
+Professor: Ardeshir Zamani
+Professor Legacy ID: 3112397
+Professor ID: VGVhY2hlci0zMTEyMzk3
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 1.5
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS346
+Date: 2025-12-12 09:54:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He didn't properly follow the submission guidelines that he posted, so I'm not sure how he marked things. Consistently puts students' grades on the slides. Hard to reach after and outside of class. Terrible lectures and slides, textbook needed. Weird power complex. Frequently tells students that they will fail. Definitely not fit to teach.
+
+--- Rating #2 ---
+Class: BUS346
+Date: 2025-11-12 01:57:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+He is a good person, and the course difficulty is easy, but many of us comment that he is not suited to teach...

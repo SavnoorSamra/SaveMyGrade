@@ -1,0 +1,141 @@
+Professor: Ahlem Bensari
+Professor Legacy ID: 2374215
+Professor ID: VGVhY2hlci0yMzc0MjE1
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 1.6
+Avg Difficulty: 4.5
+Num Ratings: 10
+Would Take Again Percent: 20
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: CHEM1213
+Date: 2021-06-14 15:01:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+If you see she is going to be your prof RUN. Rude to students when they ask for help, not a good lecturer, does not take students concerns seriously. Gave a test that was way too long for the time given and then told us to manage our time better when no one was able to finish on time.
+
+--- Rating #2 ---
+Class: CHEM1012
+Date: 2021-05-02 20:18:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Do not take a class with this prof if you want to maintain your will to live
+
+--- Rating #3 ---
+Class: CHEM1012
+Date: 2021-04-29 04:49:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I had her for chemistry 1012 and honestly I have never had a more terrible professor. She is very unprofessional and she is very rude to her students. She does not care if you have things in your life going on she will still be hard on you. I would not recommend to anybody and if you have to take her class drop it ASAP.
+
+--- Rating #4 ---
+Class: CHEM121
+Date: 2019-08-24 07:19:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is a very nice lady, and her tests and quizzes are challenging, but doable if you are willing to study hard. She is not the best at explaining certain topics, so if you don't understand I recommend asking questions and clarifying with her.
+
+--- Rating #5 ---
+Class: CHEM123
+Date: 2019-08-15 07:13:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+she's a very nice lady but she can't teach and her tests are very hard.
+
+--- Rating #6 ---
+Class: CHEM282
+Date: 2018-07-10 10:58:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She's a nice lady, but she just can't teach this course. A lot of technical issues in lecture had her pushing the two exams a week after the scheduled time. Because she doesn't know the curriculum, she expects you to know reactions not in 281. Thick accent and very hard to follow in lecture.
+
+--- Rating #7 ---
+Class: CHEM282
+Date: 2018-07-09 16:42:39 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Bensari is one of those people who are very educated but suck at educating. She would almost always start the class early before many people were able to get to the lecture hall, she does not post the notes she makes in class, and references a lot of reactions that were not covered in CHEM 281. Do not expect a practice exam :')
+
+--- Rating #8 ---
+Class: CHEM282
+Date: 2018-07-08 03:32:09 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+study lots! Everything is based on exams and they can be difficult
+
+--- Rating #9 ---
+Class: CHEM282
+Date: 2018-07-08 01:01:16 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+sweet lady, extremely difficult exams
+
+--- Rating #10 ---
+Class: CHEM282
+Date: 2018-07-07 00:10:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+CHEM282 is notorious for being very hard and it doesn't help to have a prof like Dr. Bensari teaching it. Lectures are extremely hard to follow. The 60% final is exponentially harder than any of her practice problems or anything from the textbook. Expects you to know things not in the prerequisite courses. Often starts class early and ends late.

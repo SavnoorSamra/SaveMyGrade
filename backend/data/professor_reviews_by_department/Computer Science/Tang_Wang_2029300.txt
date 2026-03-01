@@ -1,0 +1,24 @@
+Professor: Wang Tang
+Professor Legacy ID: 2029300
+Professor ID: VGVhY2hlci0yMDI5MzAw
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: CMPT165
+Date: 2015-07-22 14:03:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+The best part of this course is that you will feel computer science is so funny to learn and easy to pass! I am so glad I can take my first CMPT 165 with this professor. Good luck guys.

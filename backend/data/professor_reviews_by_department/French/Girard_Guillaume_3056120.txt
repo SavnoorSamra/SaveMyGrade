@@ -1,0 +1,180 @@
+Professor: Guillaume Girard
+Professor Legacy ID: 3056120
+Professor ID: VGVhY2hlci0zMDU2MTIw
+Department (CSV): French
+Department (Fetched): French
+Avg Rating: 4.3
+Avg Difficulty: 2.9
+Num Ratings: 13
+Would Take Again Percent: 84.6154
+
+Ratings Count Returned: 13
+
+--- Rating #1 ---
+Class: FREN203
+Date: 2026-01-06 21:04:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He genuinely cares about his students and puts in the effort to make sure his students succeed to the best of their abilities. His class is tough but worth it. The content was extremely interesting and the discussions were insightful and helpful. I recommend doing the non-graded work in order to receive higher grades on exams.
+
+--- Rating #2 ---
+Class: FREN203
+Date: 2025-11-21 01:46:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Guillaume is extremely caring, it's clear he wants his students to succeed. His class is interesting and he is a very captivating professor. There are many occasions where he gives constructive feedback to prepare for exams. He is one of the kindest professors I've ever had and couldn't recommend his class more.
+
+--- Rating #3 ---
+Class: FREN203
+Date: 2025-11-20 23:01:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Guillaume is a passionate professor and really cares about his students. The quizzes every week are based on the reading of the week and are quite simple. The evaluations have really good feedback and he is highly approachable. I highly recommend Guillaume!
+
+--- Rating #4 ---
+Class: FREN355
+Date: 2025-11-20 21:32:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Guillaume is a fantastic professor and I have had classes with him many times. He really cares about his students and this class was very fascinating. For assignments, book a Zoom meeting before, and he will walk you through everything, and you'll get an A. Such a fantastic professor.
+
+--- Rating #5 ---
+Class: FREN203
+Date: 2025-10-31 03:34:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+An amazing prof! Would totally recommend- gives great feedback and is caring
+
+--- Rating #6 ---
+Class: FREN301
+Date: 2025-06-19 05:55:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Guillaume is the best teacher you'll ever have. He gives the most amazing and thoughtful feedback on assignments, which is guaranteed to greatly improve your writing skills across just one semester. His comments are always constructive, detailed, and encouraging, helping you grow not just as a student, but as a thinker. He is simply fabulous.
+
+--- Rating #7 ---
+Class: FREN340
+Date: 2025-04-11 04:53:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+The texts chosen for this class were clearly chosen from a place of love, and if you too love queer feminist literature you need to take this class. His expectations for the writing assignments are quite high, as far as structure goes, but he gives ample time, so definitely take advantage of office hours! Give this man an award.
+
+--- Rating #8 ---
+Class: FREN340
+Date: 2025-03-19 10:55:28 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very kind-hearted person. Class near-identical to FREN245 structure-wise (not Jorge woo!). As a trans person, way too much of the material is queer-focused and now boring. You can do well on the other 90% of the class (1800 words total lol) without attending at all, making worrying about participation not really necessary for a good B to B+ grade.
+
+--- Rating #9 ---
+Class: FREN340
+Date: 2025-03-13 02:42:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is such a sweet person, is always available, and provides feedback to students when asked. If you are into Qu&#233;becois literature and theatre pieces, then take this course. Unfortunately for me, I was not a fan. I also wasn't not a fan of his assignments too, which were basically the same ones in 245, but longer and his marking was more critical.
+
+--- Rating #10 ---
+Class: FREN245
+Date: 2025-03-05 22:14:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The homework (ungraded) consists of weekly readings with questions and sometimes an additional paragraph to be written as practice for the upcoming take-home writes. These were discussed in-class (participation = 10%). I recommend doing the practice paragraphs, then asking for feedback in his office hours. He's very kind, and I enjoyed his class.
+
+--- Rating #11 ---
+Class: FREN203
+Date: 2025-01-18 07:42:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Really nice guy who is willing to help correct and go over your papers before handing them in. There's a lot of homework, but it is supposed to help you with your POL classes.
+
+--- Rating #12 ---
+Class: FREN203
+Date: 2025-01-10 05:59:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He was a great teacher and helps you a lot when you ask him questions.
+
+--- Rating #13 ---
+Class: FREN203
+Date: 2025-01-09 21:25:46 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Didn't feel comfortable in the class, he's an alright teacher just doesn't make the lecture as interesting as it could be.

@@ -1,0 +1,115 @@
+Professor: Tim Takaro
+Professor Legacy ID: 1059547
+Professor ID: VGVhY2hlci0xMDU5NTQ3
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 3.6
+Avg Difficulty: 2.5
+Num Ratings: 8
+Would Take Again Percent: -1
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: HSCI130
+Date: 2014-08-04 00:13:04 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Very easy exams, just read the lectures. The tutorials were useless but you had to go for marks. Lecture was boring but overall easy to do well
+
+--- Rating #2 ---
+Class: HSCI130
+Date: 2014-06-28 16:34:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Lectures were boring, but interesting. The midterms were extremely easy and were mostly based on the lecture slides as well as the videos shown in class. The assignments were worth a large % too, but it really depends on your TA (if they're a hard marker or not).
+
+--- Rating #3 ---
+Class: BPK140
+Date: 2014-04-04 20:43:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Mike is a good teacher! He is very knowledgeable on the subject. He does not require a textbook for the course and he gives you all his notes. I would recommend him.
+
+--- Rating #4 ---
+Class: HSCI130
+Date: 2014-04-04 20:36:25 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Lectures are very boring and he uses iclicker so you have to attend because participation is 20%. The assignments are clear but he does not come to class a lot so the TA's teach or we have a boring guest lecture. I would never take a class with him again.
+
+--- Rating #5 ---
+Class: HSCI212
+Date: 2010-04-28 17:34:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+An easy class, with easy exams, and a relaxed grading scheme. Easy GPA booster if you put a little effort into it. Lectures do have too much information in them, but it's not a big deal.
+
+--- Rating #6 ---
+Class: HSCI212
+Date: 2008-12-13 21:16:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+his lectures are very dry and he includes too much information and details which are not necessary. wording on the exam is unclear and is misinterpreted by everyone, even TA's.
+
+--- Rating #7 ---
+Class: HSCI212
+Date: 2008-04-14 18:55:15 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I will NEVER take another class with him again! He's not a mean person or anything, but he's just very dry. I could hardly stay awake in classes and most of the time when he lectured I was playing games on my laptop or DS =S
+
+--- Rating #8 ---
+Class: HSCI212
+Date: 2007-12-25 04:42:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+No Comments

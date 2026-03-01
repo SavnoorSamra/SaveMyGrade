@@ -1,0 +1,128 @@
+Professor: Lance Castonguay
+Professor Legacy ID: 2554049
+Professor ID: VGVhY2hlci0yNTU0MDQ5
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 3.9
+Avg Difficulty: 2.7
+Num Ratings: 9
+Would Take Again Percent: 77.7778
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: EDUC371W
+Date: 2025-01-10 07:44:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Was difficult to follow and he did not explain well. He seemed to care more about quantity over quality and doesn't seem like he grades easy.
+
+--- Rating #2 ---
+Class: EDUC370
+Date: 2024-12-05 03:44:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Horrible Prof, a monkey can teach better than he can. VERY lazy.
+
+--- Rating #3 ---
+Class: EDUC371W
+Date: 2024-01-15 21:39:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lance is the best SFU prof! Each class consists of small interactive games to get to know your classmates, a short lecture from Lance, group discussions or activities, and 2-3 lesson plan presentations from your classmates. I only looked in my textbook a few times as we never really needed it for anything in class or for papers. But buy SPARK.
+
+--- Rating #4 ---
+Class: EDUC371W
+Date: 2023-04-04 07:24:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+lance is such a cool guy and 371w has been the most fun of a class ive had at sfu. truly such a gem :))) so kind, fun, and funny
+
+--- Rating #5 ---
+Class: EDUC371W
+Date: 2022-12-07 20:04:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+As someone who took it as an elective, Lance was very nice and caring about his students. Main advice is to pick the grade you want to teach early on so it makes it easier to design your unit plan. Example unit plans he provides is helpful. No need to buy the textbook, but lectures are important for participation.
+
+--- Rating #6 ---
+Class: EDUC371W
+Date: 2022-01-16 07:14:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Im taking the time to come back and write as a student who completed PDP and is now teaching in schools: take this class with Lance. This class was the most helpful course for my time in PDP, getting the practice of designing unit/lesson plans. I cant say enough positive things about Lance, very approachable a fair grader, and actually cares.
+
+--- Rating #7 ---
+Class: EDUC370
+Date: 2021-12-26 06:48:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Lance was a wonderful prof! His lectures were engaging and on important topics about health. His passion is apparent and cares for his students. There's no exams but instead there's a big unit plan you have to make which will take a lot of time but it's definitely doable.
+
+--- Rating #8 ---
+Class: EDUC371W
+Date: 2021-12-24 00:39:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lance is nice and cares about his students. It seems that he has favourites, but he still respects everyone. He knows the material well because he was one of the creators of the PHE curriculum! His grading and feedback were confusing, so we never quite knew where we were stood in the class. There were many types of assignments to cater to everyone.
+
+--- Rating #9 ---
+Class: EDUC371W
+Date: 2019-12-12 20:42:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Lance was phenomenal! He got to know each student and was willing to help in any way he could. He shown a different light upon becoming a teacher, and made the each class a lot of fun, even if the content was boring. He gave detailed rubrics for each assignment and continued with detailed feedback. I would definitely take another course with him!!

@@ -1,0 +1,76 @@
+Professor: Lilach Marom
+Professor Legacy ID: 2279477
+Professor ID: VGVhY2hlci0yMjc5NDc3
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.8
+Avg Difficulty: 1.6
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: EDUC100W
+Date: 2023-05-26 04:47:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The class was very straightforward, if you did what is requested of you then you'll do well. Lilach makes everything clear and is open to questions. LOTS of class discussions. Some topics were interesting some were very boring. Overall an okay class with simple assignments.
+
+--- Rating #2 ---
+Class: EDUC1100
+Date: 2022-11-20 06:19:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is super caring. Even though I took EDUC100 as an elective, she made me want to double major in Education. 300-500 words discussion and reading weekly are bearable and super easy. No final, only one midterm and a paper. She gives two deadline extensions for weekly discussions as well. Overall, taking class with her is inspirational.
+
+--- Rating #3 ---
+Class: EDUC1100
+Date: 2019-03-27 18:04:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She is best ever.
+
+--- Rating #4 ---
+Class: EDU1100
+Date: 2018-07-07 21:50:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Shes one of best prof. Full of life and really very understanding. You cant complain. I would highly recommend her.
+
+--- Rating #5 ---
+Class: EDUC382
+Date: 2017-09-08 13:53:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She's amazing. Best prof I've come across at SFU so far in 5 years. I don't usually write these professor ratings, but I had to do it for her. Weekly discussions, Group project, and Small short paper. You can't complain.

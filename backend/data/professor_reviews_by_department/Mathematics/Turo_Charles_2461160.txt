@@ -1,0 +1,76 @@
+Professor: Charles Turo
+Professor Legacy ID: 2461160
+Professor ID: VGVhY2hlci0yNDYxMTYw
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 5
+Avg Difficulty: 3.4
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: MACM201
+Date: 2019-05-02 23:16:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great instructor. Amazing notes and super clear course materials through Canvas.
+
+--- Rating #2 ---
+Class: MACM201
+Date: 2019-04-27 05:22:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Charles is the most thorough and caring instructor Ive ever had. Beyond having incredibly informative and helpful lectures, he was very passionate about making sure students understood the material and didnt leave a student until they understood a question completely, approaching it in loads of different ways. Also very accessible outside of class
+
+--- Rating #3 ---
+Class: MACM201
+Date: 2019-04-24 22:35:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Tests are fair and the lecture notes he posted online were very useful. He also does a review session before each midterm/final where the important stuff to know is mentioned. Would highly recommend.
+
+--- Rating #4 ---
+Class: MACM201
+Date: 2019-04-01 02:53:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Turo is great! He explains concepts very well, works through examples for every topic, and takes questions throughout. He makes the homework/tests/lectures consistent, works through problems in the lab with students 2 hours a week, and posts notes and worked out feedback for tests online. He wants you to succeed. Would recommend for sure!
+
+--- Rating #5 ---
+Class: MACM201
+Date: 2019-02-02 21:46:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Although the contents of this course are not quite easy for studying and understanding, charles makes the lecture very clear and organized, feel free to ask questions during the lecture. Exams are fair, if u do the assigned questions in your weekly assignemnt, you will find the questions in the exam are really straightforward. Recommand him.

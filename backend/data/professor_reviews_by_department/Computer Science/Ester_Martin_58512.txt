@@ -1,0 +1,282 @@
+Professor: Martin Ester
+Professor Legacy ID: 58512
+Professor ID: VGVhY2hlci01ODUxMg==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.7
+Avg Difficulty: 3.1
+Num Ratings: 45
+Would Take Again Percent: 57.6923
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT354
+Date: 2025-01-10 01:16:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is a bit old, which means lectures can often be a bit slow. However, he does pay a lot of attention to details, and tries to answer interesting questions students have in class.
+
+--- Rating #2 ---
+Class: CMPT354
+Date: 2024-12-13 02:57:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+he gave me A+  so hes my king
+
+--- Rating #3 ---
+Class: CMPT354
+Date: 2024-12-03 00:03:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lecture slides explain things badly and he just reads off of them the whole time. Assignment guidelines, sample outputs, and due dates also keep getting changed, requiring re-submissions. Midterm questions were printed weird so it was hard to find where the multiple choice answers actually were. Everything is disorganized, and wastes your time.
+
+--- Rating #4 ---
+Class: CMPT354
+Date: 2024-11-05 00:16:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+shows up to office hours late and ends them early. in class he just reads off slides.
+
+--- Rating #5 ---
+Class: CMPT459
+Date: 2024-06-01 23:16:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Data mining is Martin's bread and butter. Must take course when he is teaching it.
+
+--- Rating #6 ---
+Class: CMPT459
+Date: 2024-05-03 20:39:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Good experience
+
+--- Rating #7 ---
+Class: CMPT354
+Date: 2023-12-22 21:03:53 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+final median 55 and he did not curved
+
+--- Rating #8 ---
+Class: CMPT354
+Date: 2023-12-09 03:49:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+To the people commented below, exam is tomorrow. How do you know your letter grade already?
+
+--- Rating #9 ---
+Class: CMPT354
+Date: 2023-12-08 11:38:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Avoid him , he's a master of jargons... He might be a "nice" guy, but at this age he's not good as prof. He can't explain materials clearly, lecture notes are full of jargons ... John edgar is your only good prof for cmpt 354
+
+--- Rating #10 ---
+Class: CMPT354
+Date: 2023-11-23 22:23:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very nice guy. Sometimes could be a little more clear on lectures but he knows what he is talking about and is happy to answer questions. I got the sense he wanted more class participation. Also some of his slides use kind of outdated SQL practices but he is fairly lenient on tests so it's fine.
+
+--- Rating #11 ---
+Class: CMPT354
+Date: 2023-11-14 00:30:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+to be honest, at this age he shouldn't teach anymore. I can't even understand what he's saying in lectures, mostly due to his age and accent. He's mostly read from lecture slides, and very useless lectures. I have to copy each of his slides to chatgpt to explain me what exactly this prof is saying. Avoid him, not much I learned from this course...
+
+--- Rating #12 ---
+Class: CMPT354
+Date: 2023-11-01 00:01:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Genuinely just not a great professor. There was homework every single week of the semester, each time, new homework was released the day before the previous was due. Just feels like poor care for the students.
+
+I asked him to put complete lecture slides on the canvas page and he refused stating that students must come to class. Exams are 8/10 hard.
+
+--- Rating #13 ---
+Class: CMPT459
+Date: 2022-12-15 02:34:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He knows his stuff and it's interesting to learn from the guy who invented DBSCAN. The average for all the midterms were < 50% though...
+
+--- Rating #14 ---
+Class: CMPT459
+Date: 2022-12-06 18:55:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Dr. Ester isn't charismatic, but he is caring and knowledgeable.
+
+For a world-renowned Computer Scientist, I was surprised to hear him asking how we mere undergrads were doing every lecture.
+
+The course requires intellectual interest. If not interested in Data Mining, you'll fall asleep.
+
+Otherwise, you'll be learning from the best.
+
+--- Rating #15 ---
+Class: CMPT459454
+Date: 2022-07-04 22:00:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+terrrible!
+
+--- Rating #16 ---
+Class: CMPT459
+Date: 2022-04-06 04:43:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Always goes overtime and short 5 min breaks. Do not take with class immediately after, unless in same room.
+Many technical slides, and does not cover in depth. I learned nearly nothing during lectures.
+Many technical difficulties. Many computer issues, which distracts learning.
+Brutal marking on short answer on midterms.
+
+--- Rating #17 ---
+Class: CMPT459
+Date: 2021-02-24 06:31:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Extremely time consuming with multiple midterms, group project and multiple assignments. Each of the assignments and group project milestones take at least a few days to finish and are grueling to finish or even get working (first &quot;easy&quot;ssignment code took over 300 lines of code for me and 5 days of working it on it all day) unreal expectations
+
+--- Rating #18 ---
+Class: CMPT459
+Date: 2020-12-24 22:25:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Ester authored some of the seminal papers in Data Mining in the past, so he's def very knowledgeable. The class is not the most engaging however, sometimes we're just given algorithms without any theoretical motivation. Open-book quiz and final project are extremely easy - overall a grade booster as an online class.
+
+--- Rating #19 ---
+Class: CMPT354
+Date: 2019-12-22 02:43:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr Ester is the best professor I have ever seen. He respects every student in his class. And he is willing to give students partial marks even the answer is not correct. His lecture is boring but the exam is very fair, everything is from either slides or assignments. I would take more database topic courses with him.
+
+--- Rating #20 ---
+Class: CMPT354
+Date: 2019-12-12 23:07:42 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+SOOOOOOO BORING, he is smart and know everything but just not good at teaching, bad lecture bad slices, I stopped attending the lecture after midterm, just learn by yourself to get an easy A

@@ -1,0 +1,63 @@
+Professor: Richard Wong
+Professor Legacy ID: 2801901
+Professor ID: VGVhY2hlci0yODAxOTAx
+Department (CSV): Accounting
+Department (Fetched): Accounting
+Avg Rating: 5
+Avg Difficulty: 2.5
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: BUS330
+Date: 2025-01-03 19:55:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Loves his job, pretty fun and lectures are super helpful. Lots of material medium difficulty so takes a good amount of work, exams are fair but hard. Decent amount of assignments etc to get your grade up a bit. (BUS 251)
+
+--- Rating #2 ---
+Class: BUS330
+Date: 2024-12-11 07:23:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+One of the best Financial Accojntjng teachers you can get. GOAT. All I can say.
+
+--- Rating #3 ---
+Class: BUS330
+Date: 2022-08-16 00:03:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Not an easy course but way more tolerable than I expected. Richard was a big reason for that. Hope he teaches more courses at SFU!
+
+--- Rating #4 ---
+Class: BUS330
+Date: 2022-07-31 00:26:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great tax prof - I had heard terrible things about tax prior to taking it. Tax is tough - but Richard made it more bearable. Be careful, there are 2 Richard Wong's that BUS courses @ SFU. One teaches accounting, the other teaches computing systems. I almost unenrolled b/c of the ratings on RateMyProfs. But you'll want to go look him up at UBC.

@@ -1,0 +1,274 @@
+Professor: A. George Alder
+Professor Legacy ID: 37495
+Professor ID: VGVhY2hlci0zNzQ5NQ==
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 3.6
+Avg Difficulty: 2.9
+Num Ratings: 348
+Would Take Again Percent: 58.8235
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PSYC100
+Date: 2024-08-26 08:33:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Engaging lectures, but prepare ahead - he talks fast. Textbook is key, plus unstuckstudy ai is great for study prep. Fair grading, no final, drops lowest quizzes. Overall a solid class.
+
+--- Rating #2 ---
+Class: PSYC100
+Date: 2023-11-22 18:17:42 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Chill guy, decent lectures, very reliant on TAs so if you have a bad grade, it's because of your TA. No final exam + takes off your worst 2 quizzes, but he annoyingly curves your grade in the end (only 10% get A). You can survive just off the textbook
+
+--- Rating #3 ---
+Class: PSYC100
+Date: 2023-06-19 05:35:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+no final exam and he takes off your worst 1 test and 2 worst quizzes, lectures are long and he talks fairly fast so prepare notes ahead of time if you type slow but if you can type fast, don't worry about it. make sure to read the textbook and write notes from that because his lectures do not cover the entire chapter, chill guy though
+
+--- Rating #4 ---
+Class: PSYC201
+Date: 2023-02-19 05:47:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Everything substantial about this course is thanks to the TAs. His lectures are NOT helpful for weekly quizzes and exams. I recommend leaving after the weekly quiz and basing your notes off textbook. The many assignment deadlines overlap each other, and the cumulative quiz was an exam, impossibly hard unless you already took Psyc Stats.
+
+--- Rating #5 ---
+Class: PSYC100
+Date: 2023-01-31 07:13:34 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+- A lot of students, and graded on a harsh curve (only 10% are allowed A)
+- Lectures are not mandatory and literally are just bad summaries of the textbook
+- The course is pretty much entirely weighted on quizzes/tests which are not too bad, just read the textbook
+- In general, it is like the textbook is the course.
+
+--- Rating #6 ---
+Class: PSY100
+Date: 2023-01-25 01:02:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I really enjoyed George as a professor. He is funny and uses lots of interactive demonstrations or real life scenarios when lecturing. He reminded me of a grandpa who tries to act tough but is really just a teddy bear. Exams and quizzes were straightforward, and assignments really easy. He does lecture fast though.
+
+--- Rating #7 ---
+Class: PSYC100
+Date: 2023-01-12 00:01:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Graded by the curve, but didn't share my actual mark until a week before the final unit exam, so I didn't know how the curve affected my grades for too long. He gives lots of hints for tests and has involved experiences during class. Plus, he always wears cool shirts :)
+
+--- Rating #8 ---
+Class: 100
+Date: 2023-01-10 18:37:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+weekly quizzes on chapters. lectures were kind of hard to follow. read the textbook!
+
+--- Rating #9 ---
+Class: PYSC100
+Date: 2023-01-02 02:59:26 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Terrible pdf slides, they were not engaging at all, tbh the worst I've seen. Make sure to buy the textbook and read that thoroughly. Tests are very real-life-based questions, and his "practice quizzes" are bad, do not rely on them to study. If you took psychology AP in high school, this class will be straightforward.
+
+--- Rating #10 ---
+Class: PSYC100
+Date: 2022-12-30 03:09:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Overall prepare to read chapters almost every week because there are quizzes to follow up on. Alder is quite funny but lectures quite fast so try your best to keep up but if not whatever you missed will be in the textbook anyways. Don't fall behind and end up studying two chapters a day before the test.
+
+--- Rating #11 ---
+Class: PSYC201
+Date: 2022-12-18 01:33:49 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures are very confusing. I understood absolutely nothing from them. However, thankfully he assigned us a great textbook that explained everything really well. His papers are easy to do, his quizzes were tough.
+
+--- Rating #12 ---
+Class: PSYC201W
+Date: 2022-12-16 06:19:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I like George except his grading is a little harsh. Only top 10% of the class gets an A, he restricts how many students can receive a certain letter grade pretty much. he does clicker quizzes every class and the course itself is extremely boring and a lotttt of work, but not hard. my TA was troy and was the best TA I've ever had.
+
+--- Rating #13 ---
+Class: PSYC100
+Date: 2022-12-14 05:19:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Alder is a nice guy. He managed to make lectures engaging despite the course content not always being my thing. Clearly just a veteran professor who knows his stuff and likes what he does.
+
+--- Rating #14 ---
+Class: PSYC100
+Date: 2022-12-14 02:45:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He was a good professor and taught the topics clearly. I recommend reading the textbook and maybe writing a few things down before class because he talks at a faster pace (which I liked) and you will be able to get more from the lecture if you do this. His quizzes are straightforward for the most part and he drops the two lowest marks.
+
+--- Rating #15 ---
+Class: PSY100
+Date: 2022-12-10 23:38:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Really funny guy. His lectures are great. Talks a little fast but totally manageable if you focus on what he's saying vs what's already written on the slides (slides are posted online anyways.) Exams and quizzes are fair just make sure you read the textbook and you'll be fine.
+
+--- Rating #16 ---
+Class: PSY100
+Date: 2022-12-07 04:40:44 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+George is funny. His tests and quizzes are very much textbook based, and often times the questions are so random that I never heard of the words before. I thought it'd be a lot easier, but the class material itself puts me to sleep. Some BIO12 and PSYC12 review from hs. Dont buy an clicker, he offers paper each quiz if you "forgot".
+
+--- Rating #17 ---
+Class: PSY100
+Date: 2022-12-05 00:19:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+George was great, he had really engaging lectures. Really funny. I did not put much work into this class and it went pretty well. There are weekly quizzes but they are completely based off his lecture slides. He lays out exactly what you need to do to do well on assignments. I never read the textbook and did totally fine.
+
+--- Rating #18 ---
+Class: PSYC100
+Date: 2022-12-05 00:13:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I put the bare minimum into this class and I scraped by pretty well. His lecture slides are always on canvas. I read the textbook for the first test and did horribly on it, I never read the textbook ever again and did quite well on the rest of the tests. iClicker quizzes are easy, and he tells you exactly what the essay portion on the tests will be
+
+--- Rating #19 ---
+Class: 100
+Date: 2022-12-03 02:44:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+George makes me feel like I am being lectured by my grandpa (in a good way) I don't think he talks fast; his slides are pretty easy to follow. He is clear about what the essay questions are about on the midterms. He is funny, I like that he tries to connect with his students. Read the textbook and do the flashcards in the textbook. It is not hard.
+
+--- Rating #20 ---
+Class: PSYC100
+Date: 2022-12-02 20:19:12 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Talks too fast in lectures. Someone brought it up and he said it's an average speed and that he wouldn't change it. There was an option to write answers on paper for quizzes, so iClickers aren't really necessary if you don't want to spend $50 (you can just pretend you forgot it). Pretty funny guy. Nice Hawaiian shirts.

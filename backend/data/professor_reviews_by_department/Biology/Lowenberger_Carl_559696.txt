@@ -1,0 +1,180 @@
+Professor: Carl Lowenberger
+Professor Legacy ID: 559696
+Professor ID: VGVhY2hlci01NTk2OTY=
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 3.9
+Avg Difficulty: 3.3
+Num Ratings: 13
+Would Take Again Percent: 50
+
+Ratings Count Returned: 13
+
+--- Rating #1 ---
+Class: BISC318
+Date: 2021-04-13 15:08:29 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Hes fairly good at explaining concepts, but lectures can be slow and repetitive. Tests are tough but not because of the material: questions are worded in a way thats meant to trick you, so read them carefully. I found the lab to be much easier and lab exams were very straightforward.
+
+--- Rating #2 ---
+Class: BISC318
+Date: 2017-02-22 14:29:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Lowenberger is the best professor that I have EVER had. He is extremely intelligent and helpful. His tests and grading are more than fair. He makes the material very interesting and easy to learn. I would HIGHLY recommend taking his class. Make sure you participate, as he will remember that when it comes to your grade. The lab is difficult.
+
+--- Rating #3 ---
+Class: BISC318
+Date: 2016-04-17 00:42:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Carl is a decent professor who encourages discussion and participation. Tests were tough but fair. Although he is good in many ways, he has no sympathy or understanding towards his students and can be outright mean at times  (had a very bad experience with a group project).  Don't take his class if you are scared of being put on the spot!
+
+--- Rating #4 ---
+Class: BISC318
+Date: 2014-07-11 16:30:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Carl is the best prof I've had at SFU. He is so entertaining in class and provides clear notes. He is very passionate about parasites and definitely changed my view of the world. Critical thinking is key in his class. Highly recommend this course with him!
+
+--- Rating #5 ---
+Class: BISC318
+Date: 2014-05-06 11:20:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Carl is an enthusiastic individual who genuinely loves the field he works in. He is sarcastic, funny at times, and always engages students during lecture. Parasitology turned out to be the most enjoyable class for me last semester. Attendance is mandatory and taking notes is a must to pass his exams. I got a B+ without purchasing any textbooks.
+
+--- Rating #6 ---
+Class: BISC318
+Date: 2014-04-08 23:24:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Carl is one of the best profs that I've ever had. He was very clear and interested in the course material. After taking the course, he changed my life. Taught me how to think outside the box and overall gave amazing advice about life itself. Loved the course and loved the prof. Will miss the class and lab section!
+
+--- Rating #7 ---
+Class: BISC418
+Date: 2013-04-18 02:24:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Carl's such a cool prof, his advice for us at the end of semester almost made me cry, it was sweet. Best thing about the class is his enthusiasm about the parasites, but he also cares about critical thinking. His questioning can be a bit intimidating, but if you take this class you'll learn to think outside the box & probly even be a better person!
+
+--- Rating #8 ---
+Class: BISC418
+Date: 2008-04-22 17:12:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+One of the best profs I've had in a really long time. I've been up at SFU for 4 years now, and I'd put him in my top 3. Very involved in his field of research and passionate about what he teaches. It's a 9:30am class - which for me is early... but Carl always had my full attention, he made the class so interesting! I came into the class kinda appre
+
+--- Rating #9 ---
+Class: BISC472
+Date: 2006-04-02 03:12:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Carl is one of the best prof in the biology department.He is very funny and approachable.He doesn't make students feel stupid when we ask him questions.The marking scheme and the exams are totally fair.He makes every class so interesting.This course is recommended for people who goes to class regularly.
+
+--- Rating #10 ---
+Class: BISC372
+Date: 2005-09-29 20:25:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I thought he was a good prof... maybe a bit disorganized with respect to lecture notes, but his actual classes were very interesting and get the main concepts across.  I would definately recommend taking parasitology with him.  He can be super easy to talk to one on one, or super difficult, but he always encouraged dialouge in his actual class.
+
+--- Rating #11 ---
+Class: BISC472
+Date: 2005-09-07 20:52:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Carl was an excellent, fair, funny and approachable prof.  The parasitology class is small so its easy to ask questions and steer discussions toward your interests.  He is a very intelligent man that actually cares about students.  Lecture notes are online, and tests correlate directly to them. I HIGHLY recommend this course, so interesting!!
+
+--- Rating #12 ---
+Class: BISC472
+Date: 2005-05-17 17:43:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+doesnt lay out the notes for the lazy student.
+
+--- Rating #13 ---
+Class: PARASITOLOGY
+Date: 2005-05-08 14:02:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+lazy, confusing, makes you feel stupid, boring, dry, ultimate treatment for insomnia, egotistical, put too much useless info on notes, WORST EVER!! AVOID AT ALL COSTS

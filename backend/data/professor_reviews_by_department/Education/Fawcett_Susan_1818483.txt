@@ -1,0 +1,24 @@
+Professor: Susan Fawcett
+Professor Legacy ID: 1818483
+Professor ID: VGVhY2hlci0xODE4NDgz
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 5
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: EDUC426
+Date: 2013-05-11 19:20:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+This was one of the most enlightening classes that I have had the pleasure to attend over my entire student career at SFU. Professor Fawcett is very passionate about what she teaches and has a great sense of humor. She makes her class fun and gives her students opportunities to explore and get hands on experience. I learned so much - great class!

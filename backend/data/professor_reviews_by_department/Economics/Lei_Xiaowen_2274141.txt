@@ -1,0 +1,37 @@
+Professor: Xiaowen Lei
+Professor Legacy ID: 2274141
+Professor ID: VGVhY2hlci0yMjc0MTQx
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 5
+Avg Difficulty: 4
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: ECON305
+Date: 2017-11-08 01:31:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Lecture material was too difficulty for students who don't preview it. Go to the tutorial all the time, and try the past exam by your own.
+
+--- Rating #2 ---
+Class: ECON305
+Date: 2017-08-26 22:42:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Prof Xiaowen was great, always answered emails and helped me a lot outside class.  Make sure to go to the class, since some materials in the final is only covered in the lecture but not textbook.

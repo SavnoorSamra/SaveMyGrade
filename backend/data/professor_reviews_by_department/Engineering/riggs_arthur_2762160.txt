@@ -1,0 +1,11 @@
+Professor: arthur riggs
+Professor Legacy ID: 2762160
+Professor ID: VGVhY2hlci0yNzYyMTYw
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

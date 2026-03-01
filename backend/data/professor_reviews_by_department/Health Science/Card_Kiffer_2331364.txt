@@ -1,0 +1,167 @@
+Professor: Kiffer Card
+Professor Legacy ID: 2331364
+Professor ID: VGVhY2hlci0yMzMxMzY0
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 4.4
+Avg Difficulty: 3.5
+Num Ratings: 12
+Would Take Again Percent: 91.6667
+
+Ratings Count Returned: 12
+
+--- Rating #1 ---
+Class: HSCI345
+Date: 2019-04-15 06:10:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The tests are hard in this course but if you attend class and study the slides you should do fine. The lectures were interesting and lots of participation so its not just lecture. Tutorial attendance is a must for the assignments as they show you how to do it.
+
+--- Rating #2 ---
+Class: HSCI345
+Date: 2019-03-29 23:18:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+The midterm was extremely hard, average was about 70% which 60% is the C- for the course. He tested on our memory and understanding of the readings.
+
+--- Rating #3 ---
+Class: HSCI432
+Date: 2018-12-15 00:53:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+great prof. hard course tho.
+
+--- Rating #4 ---
+Class: HSCI432
+Date: 2018-12-14 01:55:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This course is difficult. There is a lot of work and it is challenging with time-consuming assignments (26 pages and then 18 pages), however Kiffer tried to do his best to help. He is SO nice and actually wants students to do well. This course is not an easy A-, even though the class average was an A-. He really made us work for our grades
+
+--- Rating #5 ---
+Class: HSCI432
+Date: 2018-12-09 21:46:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Kiffer is amazing. I wish all professor at SFU were like him. HSCI432 was the best course i have ever taken. Highly recommend !
+
+--- Rating #6 ---
+Class: HSCI432
+Date: 2018-12-07 13:35:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This class was one of the few epi courses at SFU that wasn't a waste of time. You actually do things like learn how to code in R and the only other major assignment was to write a fellowship proposal that you could use for a masters program! The R textbook that Dr. Card developed for the course was really helpful.
+
+--- Rating #7 ---
+Class: HSCI345
+Date: 2018-06-23 14:44:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Favorite Professor at SFU! Would definitely take another course from him! All of his instructions are very thorough as he wants students to succeed. His lectures are very interesting and engaging.
+
+--- Rating #8 ---
+Class: HSCI345
+Date: 2018-04-19 10:00:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This was one of my favourite classes at SFU. The lectures are very interesting and Kiffer kept us engaged throughout. There was basically just two big writing projects and participation points.
+
+--- Rating #9 ---
+Class: HSCI345
+Date: 2018-04-16 17:05:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Didn't like: having to buy top-hat when we barely used it. Lectures are not mandatory but great to wrack up participation points - which counts for 20% of the grade. Assignments weight a lot, very tedious work as it is ongoing throughout the semester, however the clear grading criteria makes good grades attainable. interesting topics discussed.
+
+--- Rating #10 ---
+Class: HSCI345
+Date: 2018-04-13 02:29:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Lectures were interesting but covered a ton of material. Didn't really test on specific details which was good. He required TopHat but didn't really use it except on a few quizzes. Assignment-wise: It's mostly a lot of busy work with two big writing assignments, which were graded on a rubric with clear examples so it was pretty easy.
+
+--- Rating #11 ---
+Class: HSCI345
+Date: 2018-04-11 16:35:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Professor Kiffer is nice and is very accommodating and understanding. He gives very interesting lectures but requires a lot of participation. There werent any tests, just two big writing assignments. Tutorials are easy well. Readings are basically optional though.
+
+--- Rating #12 ---
+Class: HSCI345
+Date: 2018-03-04 18:01:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Lots of writing but very detailed syllabus. Lectures were engaging.

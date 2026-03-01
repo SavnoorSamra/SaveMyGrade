@@ -1,0 +1,76 @@
+Professor: Alamgir Hossain
+Professor Legacy ID: 2432865
+Professor ID: VGVhY2hlci0yNDMyODY1
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.8
+Avg Difficulty: 2.8
+Num Ratings: 5
+Would Take Again Percent: 80
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: MATH154
+Date: 2019-12-14 04:26:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Alamgir Hossain is a great professor. All of his midterms were very fair, everything that was tested was taught in lecture. It's possible to do very well in his class if you put in the effort. I would take calc with him again. Notes are also proper and if he feels like the class does not understand a certain concept, he will go over it again.
+
+--- Rating #2 ---
+Class: MATH154
+Date: 2019-11-05 21:48:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He has a strong ability in the math field. He helps me with MathXL in Open Lab. His Quizzes and Midterm are fair and it's not hard to do well in this course if you put time in.
+
+--- Rating #3 ---
+Class: MATH154
+Date: 2019-11-04 23:44:48 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Alamgir Hossain is jokes. Teaches well too. I think for first year students, Alamgir is a good teacher to learn calc for first time. Highly recommend. He sometimes does confuse you, but midterms are easy, and if you keep up with the work. Your gonna be fine.
+
+--- Rating #4 ---
+Class: MATH154
+Date: 2019-10-21 16:28:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This prof managed to confuse me on concepts I already knew (I took Calc 12). Would not recommend it, but in case you have to have him - good luck. Midterms weren't that hard, his lectures were just brutal to sit through.
+
+--- Rating #5 ---
+Class: MATH154
+Date: 2019-09-24 05:33:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very thorough notes. You don't need to show up to class because he uploads all the notes onto Canvas. If you don't understand a concept, he will review it in more depth.

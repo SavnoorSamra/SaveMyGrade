@@ -1,0 +1,193 @@
+Professor: Alexandra Fedorova
+Professor Legacy ID: 1120181
+Professor ID: VGVhY2hlci0xMTIwMTgx
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.3
+Avg Difficulty: 3.4
+Num Ratings: 14
+Would Take Again Percent: 0
+
+Ratings Count Returned: 14
+
+--- Rating #1 ---
+Class: CPEN331
+Date: 2019-12-08 19:54:29 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Mediocre lecturer at most. Unreachable other than the class day, even on piazza. The course is built around an OS designed for teaching. Whether you can gain some insights into general OSs from the assignments is debatable. No written exam, but easy marks from clickers and an oral exam. Overall a weirdly designed course. Dont think I learned much.
+
+--- Rating #2 ---
+Class: CPEN331
+Date: 2016-04-24 22:33:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+If this course isn't changed, it'll be an infamous killer for CPEN students. I'm not exaggerating when I say assnt4&5 will take about 40 hours, and assnt6 60+. The course is based off of the OS course taught at Harvard. Your task is essentially to complete an operating system. Resources such as videos from other schools will be helpful.
+
+--- Rating #3 ---
+Class: CPEN331
+Date: 2016-04-16 05:26:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+She is bad.
+
+--- Rating #4 ---
+Class: 571B
+Date: 2016-01-06 02:36:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+A lot of paper reading. But she is an awesome person. Class average was 88.
+
+--- Rating #5 ---
+Class: CMPT886
+Date: 2015-05-27 22:49:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I would say this is a good quality and at the meantime challenging course for a undergraduate student. I made every effort and devote more than 8 hours a week to read assigned papers and prepare for in lecture presentation. With all these being done, I got a relatively good result as I expected.
+
+--- Rating #6 ---
+Class: CMPT886
+Date: 2015-05-27 22:45:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+The course content is very useful and the lecture is great. You will need to make lots of effort to keep your pace with the instructor. Digging deep into the material is necessary and rewarding.
+
+--- Rating #7 ---
+Class: 886
+Date: 2015-05-21 13:48:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Don't take her course unless you have to. Quiz are not useful, Lecture turns out to be Communication classes. She was not clear about most of the paper which she gave us to read.
+
+--- Rating #8 ---
+Class: CMPT431
+Date: 2014-12-10 21:05:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+One of my favorite profs. Assignments are long but challenging - you actually use this stuff in real life. The grading is fair, and she helps out when you need it. Interesting papers to read, and fun in class activities. Doesn't try to actively fail you, which is refreshing :)
+
+--- Rating #9 ---
+Class: CMPT431
+Date: 2014-12-03 00:09:14 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+She is unclear in her marking scheme. Half way through the semester she changes her quiz weight and gives us online "marking quizzes" without putting it on her website about the timesdates. The assignments were long, but I did learn a lot. Also, two scholar papers to read weekly that were unrelated to the assignments.
+
+--- Rating #10 ---
+Class: 431
+Date: 2014-10-26 21:58:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+One of the best instructors at SFU. No reading 100s of pages of useless, outdated material. Everything assigned is on point and relevant. Assignments are not trivial and require thinking, but she gives you a lot of freedom. If you think they're hardunfair you're in the wrong field. Completing them properly will make you a better programmer.
+
+--- Rating #11 ---
+Class: CMPT431
+Date: 2009-08-18 12:25:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Exams are not hard, just study her notes. However, the assignments are *very* time consuming - start early! I've never had an assignment as long as hers. Oh, and she's so hot so don't get distracted!
+
+--- Rating #12 ---
+Class: CMPT431
+Date: 2009-07-30 02:49:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I found this class pretty hard.  The exams are not too bad, as long as you study her lecture notes you should be able to do well on them.  The hardest part of the class are the programming assignments.  I found them to be really challenging and long.
+
+--- Rating #13 ---
+Class: CMPT401
+Date: 2008-04-23 20:20:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+not bad
+
+--- Rating #14 ---
+Class: CMPT401
+Date: 2008-04-13 22:51:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Study her lecture notes only and participate in discussions and you should be fine with exams.

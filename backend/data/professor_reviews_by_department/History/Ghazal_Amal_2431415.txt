@@ -1,0 +1,50 @@
+Professor: Amal Ghazal
+Professor Legacy ID: 2431415
+Professor ID: VGVhY2hlci0yNDMxNDE1
+Department (CSV): History
+Department (Fetched): History
+Avg Rating: 3.3
+Avg Difficulty: 3.3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: HIST350
+Date: 2020-04-27 07:43:42 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Ghazal takes a straightforward approach in teaching and grading. Given that she teaches primarily 3rd and 4th year courses she expects students to perform their best in papers and writing. She values concision in writing. Visit her office hours to learn what she expects from you. Gives precise feedback, overall a good prof
+
+--- Rating #2 ---
+Class: HIST350
+Date: 2019-06-14 06:30:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Interesting lectures, but her style of teaching can be a mixed bag sometimes. Be prepared to take some initiative if you want to get a good grade.
+
+--- Rating #3 ---
+Class: HIST151
+Date: 2018-12-03 18:59:53 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I found her a little bit opinionated for the content and a little dry. she should speak louder too.

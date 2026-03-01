@@ -1,0 +1,11 @@
+Professor: Adrian Debruyn
+Professor Legacy ID: 1890000
+Professor ID: VGVhY2hlci0xODkwMDAw
+Department (CSV): Resource Management
+Department (Fetched): Resource Management
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

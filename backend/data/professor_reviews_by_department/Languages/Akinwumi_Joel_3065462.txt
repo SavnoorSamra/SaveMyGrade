@@ -1,0 +1,37 @@
+Professor: Joel Akinwumi
+Professor Legacy ID: 3065462
+Professor ID: VGVhY2hlci0zMDY1NDYy
+Department (CSV): Languages
+Department (Fetched): Languages
+Avg Rating: 4.5
+Avg Difficulty: 1.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: WL100
+Date: 2025-04-03 08:51:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Joel is an incredible professor; he's fairly new but can still amazingly deliver his content. He sets clear expectations, and his classes are usually more discussion-based than lecture-based. I only wish he were a bit clearer on how he presents his material, as it can get hard to understand. Other than that, I would highly recommend his class!
+
+--- Rating #2 ---
+Class: WL100
+Date: 2024-12-22 23:31:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Really fun professor, made the lectures really engaging and had very clear expectations and deliverables. His choice of media was well thought out and presented a fair bit of variety and the tests were fairly easy and straightforward providing a lot of leeway. However his tutorials sometimes felt like they dragged on slightly too much.

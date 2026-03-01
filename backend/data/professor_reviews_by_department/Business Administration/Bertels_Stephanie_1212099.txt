@@ -1,0 +1,63 @@
+Professor: Stephanie Bertels
+Professor Legacy ID: 1212099
+Professor ID: VGVhY2hlci0xMjEyMDk5
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.4
+Avg Difficulty: 2.8
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: BUS735
+Date: 2017-02-08 00:15:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+uses story telling to create interest in the subject. very engaging class.  in class exercises are great.
+
+--- Rating #2 ---
+Class: 716
+Date: 2014-11-22 14:41:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Her stories are the best. She once dated Elon Musk!
+
+--- Rating #3 ---
+Class: BUS303
+Date: 2013-12-14 18:34:08 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Good prof
+
+--- Rating #4 ---
+Class: BUS303
+Date: 2008-12-15 18:58:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Possibly the BEST prof at SFU! Quirky, fun, knowledgeable about things way beyond business ethics, and gives a lot of relevant info and stories. Very clear on what she wants from essays and assignments. Exams are easy, she practically gives you the answers.

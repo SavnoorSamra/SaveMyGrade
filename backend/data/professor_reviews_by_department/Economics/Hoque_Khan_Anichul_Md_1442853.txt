@@ -1,0 +1,11 @@
+Professor: Anichul Md Hoque Khan
+Professor Legacy ID: 1442853
+Professor ID: VGVhY2hlci0xNDQyODUz
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 1.5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

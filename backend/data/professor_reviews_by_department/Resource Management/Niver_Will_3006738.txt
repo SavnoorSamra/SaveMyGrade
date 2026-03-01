@@ -1,0 +1,89 @@
+Professor: Will Niver
+Professor Legacy ID: 3006738
+Professor ID: VGVhY2hlci0zMDA2NzM4
+Department (CSV): Resource Management
+Department (Fetched): Resource Management
+Avg Rating: 5
+Avg Difficulty: 1.5
+Num Ratings: 6
+Would Take Again Percent: 100
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: REM350
+Date: 2025-12-18 07:18:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The best elective I have taken, course material is very interesting if youre into energy systems and prof is clearly passionate! :D
+
+--- Rating #2 ---
+Class: REM-320W
+Date: 2025-08-14 01:03:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The best professor. Sounds like Markiplier. Says hello everyone at the start of the class. makes him sound more like markiplier. take this class 10/10
+
+--- Rating #3 ---
+Class: REM350
+Date: 2025-04-22 05:01:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Absolute beauty. Take his class.
+
+--- Rating #4 ---
+Class: REM350
+Date: 2024-12-21 04:17:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Goated. Lectures were unfortunately 3 hours once a week from 5:30-8:20 but Will somehow managed to still make them engaging. Test heavy (2 miderms + final) but pretty easy / high averages. He was super nice, genuine, and passionate about the topic. The course itself is also great.
+
+--- Rating #5 ---
+Class: REM350
+Date: 2024-09-07 06:22:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Will is the best prof! Take his courses, you won't regret it.
+
+--- Rating #6 ---
+Class: REM-320W
+Date: 2024-07-16 00:51:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Will always ensures that he engages his class with every lecture and assessment he conducts. Very charismatic, compassionate and open-minded. When I took REM 320W I began to take any course he taught because of how amazing of an instructor he is.

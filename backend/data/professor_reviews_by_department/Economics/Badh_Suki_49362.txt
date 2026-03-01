@@ -1,0 +1,271 @@
+Professor: Suki Badh
+Professor Legacy ID: 49362
+Professor ID: VGVhY2hlci00OTM2Mg==
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 2.7
+Avg Difficulty: 3.5
+Num Ratings: 163
+Would Take Again Percent: 83.3333
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: 102
+Date: 2025-07-04 22:31:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Do the questions
+
+--- Rating #2 ---
+Class: ECON103
+Date: 2025-06-05 16:55:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Not easy to get a hold off. Knows his economics and policy
+
+--- Rating #3 ---
+Class: 210
+Date: 2023-05-06 23:40:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Enjoyed his lectures.
+
+--- Rating #4 ---
+Class: ECON
+Date: 2023-01-21 18:56:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great class
+
+--- Rating #5 ---
+Class: ECON1101
+Date: 2022-05-04 05:30:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His is terrible.
+
+--- Rating #6 ---
+Class: ECON2350
+Date: 2017-09-05 21:15:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Slightly off track lectures. Ask questions and he will spend as much time as needed to explain th answer.
+
+--- Rating #7 ---
+Class: ECON201
+Date: 2012-05-06 01:06:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+The best prof i have ever had, was really helpful. If you need help than go in and ask, if you go in he knows you care and will give you a good mark
+
+--- Rating #8 ---
+Class: ECON105
+Date: 2010-08-26 16:25:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Very interesting and worthwhile class and prof. Quizzes and exams are challenging, but are doable by explaining thoughts of material from class. TA is helpful. Marks scaled up later. Sit back for half the lecture about random stuff with econ remarks, picking on students, or silly jokes. Being a well paid goalie beats 5 bucks a day plus food coupons
+
+--- Rating #9 ---
+Class: ECON210
+Date: 2010-03-30 15:06:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great, learned alot:)
+
+--- Rating #10 ---
+Class: ECON201
+Date: 2010-03-30 15:04:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Awsome Prof! Actually makes lectures intresting to go to! Watch for hints about exams. Overall very good!
+
+--- Rating #11 ---
+Class: ECON210
+Date: 2010-03-22 16:03:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Good Prof, knows his stuff, and is willing to help if u dont understand...the best econ prof i hav had at sfu and kwantlen!!Def shud attend class cuz it makes a huge difference, also really funny and tlks about ligit stuff that u need to move on
+
+--- Rating #12 ---
+Class: ADS222
+Date: 2008-03-24 14:39:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Awesome teacher!!!! one of the best... Very clear, writing wise and speaking wise...and funny. You actually learn a lot in this class!
+
+--- Rating #13 ---
+Class: ECON2350
+Date: 2008-03-17 19:08:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He gave us an over look of how his stocks doing every class. Then we had some political discussions. After, he would joke about stripe club specially the one beside Douglas College. We talk about every thing except economy. At the end he would go over some course material. His lectures and his hand writing were terrible.
+
+--- Rating #14 ---
+Class: ECON3
+Date: 2007-06-06 02:39:40 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #15 ---
+Class: ECON301
+Date: 2007-05-05 19:47:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+awsome prof, the best
+
+--- Rating #16 ---
+Class: ECON301
+Date: 2007-04-20 19:56:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+learned lots and lots  take him only if you wish to undertand real life
+
+--- Rating #17 ---
+Class: ECON103
+Date: 2007-03-24 22:48:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He brings in  much policy issues and outside world issues
+
+--- Rating #18 ---
+Class: ECON200
+Date: 2007-01-27 20:04:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+great
+
+--- Rating #19 ---
+Class: ECONO101
+Date: 2006-12-20 18:17:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very informative lectures, talks about markets alot, interested in the subject.
+
+--- Rating #20 ---
+Class: ECON210
+Date: 2006-12-15 16:28:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+worst instructor in sfu!!!!

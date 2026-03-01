@@ -1,0 +1,271 @@
+Professor: Petra Berenbrink
+Professor Legacy ID: 36606
+Professor ID: VGVhY2hlci0zNjYwNg==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2
+Avg Difficulty: 3.6
+Num Ratings: 29
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMP307
+Date: 2019-07-02 07:39:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Nice person, but maybe a little disconnected from what is the students level
+
+--- Rating #2 ---
+Class: CMPT300
+Date: 2014-10-19 20:00:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took CMPT 300 with her. Midterm and final exam is based on the assignments. Our TA was Hoda, she was an easy marker and gave answers to all the questions you got wrong . MAKE SURE TO DO THE OPTIONAL THEORY QUESTIONS!!! Those questions will be there for the midterm and final.
+
+--- Rating #3 ---
+Class: CMPT307
+Date: 2013-08-27 06:31:20 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Run the other direction! This class almost destroyed me. The textbook is definitely a must. Petra does not know how to teach and this course is hard enough as it is. Her assignments do NOT have solutions and cannot be easily extracted from her notes or the textbook and midterm and some of final is based off of them. Take CMPT 307 with someone else!
+
+--- Rating #4 ---
+Class: CMPT300
+Date: 2012-08-23 20:23:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+If you manage to understand her accent, the class will be very easy. Just read her slides, and the textbook if you do not understand sth. The exams are very long, but the questions are very easy and sometimes taken from the hw. I recommend.
+
+--- Rating #5 ---
+Class: CMPT300
+Date: 2012-08-18 21:33:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Midterm questions are directly from homework, which is easy. You simply do the homework and you will get a good mark. Exam is pretty long, but the questions are not difficult. I didn't even buy the textbook and got a B. Her TA Hodaa was helpful and an easy marker.
+
+--- Rating #6 ---
+Class: CMPT300
+Date: 2011-08-24 02:45:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+She is one of the professors to avoid for CMPT 300. All of her notes are summarized points from the textbook. Her lecture slides has no pictures, just plain text. It is full of typos, mistakes and is not even complete. Her exams are pure memorization. The final exam consisted of rewriting blocks of text from the textbook. AVOID!!
+
+--- Rating #7 ---
+Class: CMPT300
+Date: 2011-08-23 20:07:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Pros: material is pure memorization Cons: she is hard to understand, her notes suck, and the material is boring and long. So avoid skipping classes
+
+--- Rating #8 ---
+Class: CMPT300
+Date: 2011-06-13 17:26:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Do not take this class with Prof Berenbrink unless you strongly dislike learning. Had difficulty responding to students questions.
+
+--- Rating #9 ---
+Class: CMPT300
+Date: 2011-04-16 21:32:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I am a student from asia. It is horrible to understand her course with a strong european accent. Spelling mistakes happening in each slides. The programming assignments with no clue are assigned. But basically she is a nice person.
+
+--- Rating #10 ---
+Class: CMPT307
+Date: 2009-10-20 20:59:44 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Lectures are brutal, her english is very difficult to understand. But her notes are actually pretty decent since they are just notes off the textbook. SUPER easy! 3 midterms, 2 of them are questions from the homework word for word (which isn't for marks or particularly difficult btw). Meaning memorize 8 hw Qs per midterm = 100%.
+
+--- Rating #11 ---
+Class: 307
+Date: 2006-06-11 22:58:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Absolutely horrible. I've never dropped below an A- in any class taken so far (half-way through third year) and I finished with a C+. Most arrogant person I've ever had to deal with. Lectures were painfully disorganized, tests were completely unfair. She's not just hard, she's malicious. Take the class with someone else.
+
+--- Rating #12 ---
+Class: CMPT307
+Date: 2006-04-26 18:37:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+avoid, the worst prof i have ever had
+
+--- Rating #13 ---
+Class: CMPT307
+Date: 2005-07-18 19:02:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Worst Prof among the worst. waste of time and money.
+
+--- Rating #14 ---
+Class: CMPT307
+Date: 2005-04-21 17:10:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+agree other peers comments abusolutely
+
+--- Rating #15 ---
+Class: CMPT307
+Date: 2005-04-18 19:39:01 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Poor ability to communicate in English. Absolutely brutal lectures. I would never take a class from her again. Worst prof I've had here.
+
+--- Rating #16 ---
+Class: CMPT307
+Date: 2005-04-17 12:16:50 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+You better you know your stuff very well cause that's what she expects and there is no exception what so ever. She can be great help one on one but class enviroment doesn't work very well. Good luck
+
+--- Rating #17 ---
+Class: CMPT307
+Date: 2005-04-11 08:05:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+When you think she couldn't be any worse, she proves you wrong. absolutely horrible. She is unclear and always says &quot;You should know this&quot; ... and if u don't know &quot;this&quot; she won't bother explain ... I've had bad teachers, but she's on a whole new level of bad
+
+--- Rating #18 ---
+Class: CMPT307
+Date: 2005-02-17 10:48:31 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Uses someone else's notes (written permission I guess) but sometimes gets lost in them. doesn't explain things too good ... lets hope I pass huh&#63;
+
+--- Rating #19 ---
+Class: CMP307
+Date: 2004-07-20 21:22:03 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #20 ---
+Class: CMPT405
+Date: 2004-03-18 11:19:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: Y
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I took this honour's course on a whim and had a pleasant surprise - it was actually rather interesting. Petra was quite enveloped in the material and guided us along at a wicked pace. Sadly, the fun ended at the exams, as she really makes them difficult.

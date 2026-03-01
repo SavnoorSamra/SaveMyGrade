@@ -1,0 +1,271 @@
+Professor: Don Sinclair
+Professor Legacy ID: 155557
+Professor ID: VGVhY2hlci0xNTU1NTc=
+Department (CSV): Science
+Department (Fetched): Science
+Avg Rating: 3.6
+Avg Difficulty: 3
+Num Ratings: 64
+Would Take Again Percent: 37.5
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: DATT2050
+Date: 2022-01-09 05:17:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Lectures were entertaining to watch Don show off different tools in Max. Max is not my favourite program, but Don made it somewhat bearable. Don seems to really care about his students as if you asked to re-explain something in lecture or lab, he would take the time to make sure you understood it. Made all examples available for further tests
+
+--- Rating #2 ---
+Class: BIOL2341
+Date: 2021-12-09 01:39:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+He doesn't give you part marks at all, not very understanding and doesn't care about your success, will reject your claim at all costs. Tough grader and does not seem to be interested in conveying subject matter in an understandable fashion. Bad professor in terms of helping students when seeking help.
+
+--- Rating #3 ---
+Class: BIOL2341
+Date: 2021-06-04 19:41:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+This prof is useless. He has next to 0 knowledge on how to answer student's questions. If it is not on his answer key he simply does not know. He has not once answered a question clearly. He will make you do redos on all assignments then wait a week before you write an exam to provide feedback on all the redos. The final exam is a joke. Good luck!
+
+--- Rating #4 ---
+Class: MBB221
+Date: 2020-12-01 05:57:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+He is super unclear with what he wants or does not want from you, and fails to provide feedback on numerous avenues for assignments. Midterms and finals are super unfair and he criticizes any answer you get. GOOD LUCK
+
+--- Rating #5 ---
+Class: BISC202
+Date: 2020-12-01 05:55:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He is unbelievably unprofessional and does not provide clear guidance to his work. He does not teach the course and uses an answer guide to mark essay questions. It does not matter if your answers are correct or not, if he does not see your answers on his answer guide he will mark you incorrect.
+
+--- Rating #6 ---
+Class: BIOL2341
+Date: 2020-07-06 18:25:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I had Sinclair for two online courses. He is probably the most difficult but rewarding biology prof I've ever had. He is a tough marker but really cares about his students - for instance, he always allowed me to resubmit questions for full marks after telling me exactly what I did wrong. Very nice, quick to mark homework and exams.
+
+--- Rating #7 ---
+Class: BISC202
+Date: 2018-04-23 15:01:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Dr. Sinclair is a great instructor. The course itself was really hard combined with his hard marking, but you learn all of the topics in depth. His feedback is really helpful and helps you understand the content. He is also approachable by email and is willing to clarify any issues. After hard studying and memorizing, the exams are fair.
+
+--- Rating #8 ---
+Class: BISC202
+Date: 2016-11-03 00:20:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Horrible! I didn't do so well on the midterm so I went to see him to see what I can do to improve. And he basically just shrugged his shoulders and said that people who get lower marks contribute to the distribution. I finished the course but I had a sour taste for genetics. 2 years later I went on to get an A in Genetic Analysis with a better prof
+
+--- Rating #9 ---
+Class: BISC202
+Date: 2015-01-05 23:58:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+There's no doubt his lectures are boring, but he's a really nice prof! I was just under the cut-off for the next grade and he bumped me up because i did significantly better on the final exam than the midterms! I don't know any other prof that would have done that. He seems to really care about his students and wants them to do well.
+
+--- Rating #10 ---
+Class: MBB222
+Date: 2014-05-06 04:08:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+His exam questions are usually from the lecture notes and the tutorial questions. That being said, this is not an easy class because there is A LOT of memorization! However, his notes are really good so you don't need the textbook. He is always open to helping people with any questions. Nice guy, he's sort of like a cute grandpa.
+
+--- Rating #11 ---
+Class: MBB222
+Date: 2014-04-24 21:40:40 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+His ability to lecture is not so great (boring) however he is a very nice professor - seems to be willing to help students succeed. His tests are based on his PowerPoint slides, as well as tutorial assignments, so really pay attention to those! Midterm and final was fair, not too hard, but not too easy. Having a good memory would definitely help.
+
+--- Rating #12 ---
+Class: MBB222
+Date: 2014-04-20 00:56:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Overly detailed lecture slides and ridiculously dry lectures. If you are an auditory learner avoid taking the class with him. That being said his tests were very fair, and he posted great review packages. One of those classes where you need to learn everything outside of lecture.
+
+--- Rating #13 ---
+Class: MBB222
+Date: 2014-03-14 17:11:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Really nice prof! He really cares about his students and puts a lot thought into his lectures. His exams are also straightforward and easy to do well on if you study his lecture notes.
+
+--- Rating #14 ---
+Class: BISC202
+Date: 2014-01-08 00:10:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+A GREAT prof! Tells you exactly what he expects you to know on the exams. Notes are fairly concise and to the point. Some lectures can be fairly dry, but ultimately if the material at times is dry, then that's to be expected. He's overall quite generous with marks,and his exam are very fair.
+
+--- Rating #15 ---
+Class: BISC202
+Date: 2014-01-06 23:43:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: N
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He is generous with marking and his test is very straight forward from the lecture slides  (but the exams are not easy). In Genetics, spend more time on problem solving and go to your tutorial. Dr.Sinclaire doesn't try to trick you in the exams. Everything is in the notes and he tells you what things you should study. This is why I like him.
+
+--- Rating #16 ---
+Class: BISC202
+Date: 2013-12-15 04:06:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Course is so easy, just listen to recorded lectures online (because its nearly impossible to stay awake during class) and your good to go.
+
+--- Rating #17 ---
+Class: BISC202
+Date: 2013-12-04 23:56:13 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+He's such a cute old man!  His midterms weren't too bad, but he's really picky with stuff. Study the practice midterms he gives out because a lot of his exam questions are based on those.  Overall all this course was okay.
+
+--- Rating #18 ---
+Class: 202
+Date: 2013-11-17 17:01:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+This is the worst class I have ever take. I wont take anymore courses with him I thought i did well on my midterm and i ended up failing after all my hard work. if you miss one small thing big marks are taken off. It is not fair at all
+
+--- Rating #19 ---
+Class: MBB222
+Date: 2013-08-06 22:50:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great course, great professor, although his lectures are a bit on the dry side. If you fall asleep easy, you may want to stick to another professor. But on the bright side, he records his lectures so that helps A LOT! Warning: TA's will be your biggest obstacle. Tutorial questions very difficult. Good practice for exams though. Like!
+
+--- Rating #20 ---
+Class: BISC202
+Date: 2013-04-10 02:22:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+easy course, very easy marking....

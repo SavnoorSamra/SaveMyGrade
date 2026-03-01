@@ -1,0 +1,273 @@
+Professor: Saba Alimadadi
+Professor Legacy ID: 2572569
+Professor ID: VGVhY2hlci0yNTcyNTY5
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.1
+Avg Difficulty: 2.9
+Num Ratings: 41
+Would Take Again Percent: 56.0976
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT276
+Date: 2025-12-18 10:16:28 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She NEVER replies your emails. No sample exams, nothing helpful will be post before exams.
+
+--- Rating #2 ---
+Class: CMPT276
+Date: 2025-07-04 00:19:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Saba is my personal GOAT of SFU. If you just ask questions and show up (and maybe carry your group project) it is SUUUUPER free. Midterms were graded pretty fairly, group project too.
+
+Just be ready to do pop quizzes tbh.
+
+--- Rating #3 ---
+Class: CMPT276
+Date: 2025-04-27 15:40:56 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Saba's lectures were kinda boring and sometimes difficult to follow. This class has a group project and that ofc depends massively on group RNG but is generally ok. There were also pop quizzes but if you showed up and just copied whatever she wrote during the discussion afterwards you got 100% on those. Overall ok-ish
+
+--- Rating #4 ---
+Class: CMPT276
+Date: 2025-04-07 19:51:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Saba was great. She has pop quizzes based on lectures but you are pretty much guaranteed 100% on them if you just follow along in class.
+
+--- Rating #5 ---
+Class: CMPT276
+Date: 2025-04-05 18:14:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures were boring, I haven't learned a lot from the lectures. I only went in case there was a pop quiz. Aside from that, her course was structured well, although the grading scheme held a bit more emphasis on midterms and assignments rather than the group project that took up the majority of the time. Overall great prof and fun group project.
+
+--- Rating #6 ---
+Class: CMPT276
+Date: 2024-12-12 21:59:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Saba's lectures felt dry and boring, I didn't learn much in this course. We had a group project, but it was mostly unrelated to the lecture material and we were forced to do everything on our own, including organizing in our groups. The midterms are just random questions from the slides, they are simple tests of memorization.
+
+--- Rating #7 ---
+Class: CMPT276
+Date: 2024-11-07 23:12:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Come on you guys, you cant give Jane Mcdonald a 2 and give Saba anything less than a 5. She is chill, caring and she knows a lot. Shes great.
+
+--- Rating #8 ---
+Class: CMPT276
+Date: 2024-11-07 23:08:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+she has pop quiz, but they are just directly from the most recent lecture. Classes are engaging, fair exams. Can't complain.
+
+--- Rating #9 ---
+Class: CMPT276
+Date: 2024-11-07 23:06:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+10/10 would take classes with her again. Awesome human.
+
+--- Rating #10 ---
+Class: CMPT276
+Date: 2024-11-07 23:06:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+good prof. Caring, consider and knowledgeable. Fun lectures.
+
+--- Rating #11 ---
+Class: CMPT276
+Date: 2024-11-07 22:55:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+And also, be comfortable with Java. Why not? Java is heavily used for OOP in industry, and if you go to school just to be in your comfort zone, maybe dont do comp sci? If you have a good foundational knowledge of C++, you will understand that Java helps not reinvent the wheel, auto cleans garbage and focus on good coding practice, that's all..
+
+--- Rating #12 ---
+Class: CMPT276
+Date: 2024-11-07 22:50:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I am a current 276 student w Saba F24, and she is knowledgeable, supportive, engaging, funny, accessible outside office, fantastic lectures, exams are highly correlated with what taught in class. The dude who said her lecture is dry PROBABLY NEVER SHOWED UP AT LECTURE AT ALL?. Anyways, I am grateful to have been her student. Learnt a lot so far!
+
+--- Rating #13 ---
+Class: CMPT276
+Date: 2024-06-28 22:36:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good prof
+
+--- Rating #14 ---
+Class: CMPT276
+Date: 2024-04-29 20:06:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She makes us learn Java when she has very little Java knowledge. Unclear grading as TAs do not provide any feedback so they can arbitrarily deduct marks. Takes forever to release marks and also does not release midterms so will have no idea what went wrong.
+
+--- Rating #15 ---
+Class: CMPT276
+Date: 2024-04-22 22:26:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Saba is a good instructor. She provides clear and constant instructions, and has good lectures.
+
+--- Rating #16 ---
+Class: CMPT276
+Date: 2024-02-19 03:26:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is the best prof I have ever had in my WHOLE life! Stronly recomand this prof. Saw some comments sayin shes bad, they are jokers. Super easy course and easy A+. Do not mind others comments just take this prof and you will get a exceptional good grade! What a gem!
+
+--- Rating #17 ---
+Class: CMPT276
+Date: 2023-12-03 00:50:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+She was very great! Everything was organized, and the lectures were not dry at all. There could be some pop quizzes so attendance is kind of mandatory. She was also helpful outside the class, and the grading was not tough at all. Overall, I enjoyed my semester with her. She definitely does not deserve 2.5. For me, she was 4.
+
+--- Rating #18 ---
+Class: CMPT276
+Date: 2023-08-13 19:57:49 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She just added 2 assignments on the last 2 weeks of the semester, which is just ridiculous, when there are finals we need to study for. She did not release a grading scheme until halfway in the semester. The lectures, don't get me started, she does not add any useful information in class. Overall, this was poorly organized and I am dissatisfied.
+
+--- Rating #19 ---
+Class: CMPT276
+Date: 2023-04-22 21:20:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Exams are marked very hard, the average for the second midterm was 50% before scale. Her lectures are terrible, very dry and you do not learn much but she has pop quizzes so you kinda need to to go. Overall, she is a horrible teacher and had a bad experience in this course.
+
+--- Rating #20 ---
+Class: CMPT276
+Date: 2023-03-02 07:40:13 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+disorganized and does pop quizzes but shes not the worst

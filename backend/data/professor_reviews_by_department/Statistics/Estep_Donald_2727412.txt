@@ -1,0 +1,50 @@
+Professor: Donald Estep
+Professor Legacy ID: 2727412
+Professor ID: VGVhY2hlci0yNzI3NDEy
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 4.7
+Avg Difficulty: 3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: STAT851
+Date: 2025-12-14 22:22:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+A really good professor and tries to accomodate students in the best way he can. Though, I felt like the course and lectures covered way too much material, and I find slides not to be an effective teaching method for quantitative courses, as it makes learning very passive. He responds to emails very quickly and tries to help as much as he can.
+
+--- Rating #2 ---
+Class: STAT485
+Date: 2022-01-10 20:53:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+really good professor, set course well for student lack stat experiences  I am from stat minor
+
+--- Rating #3 ---
+Class: STAT485
+Date: 2021-10-21 20:51:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Prof Estep is a very caring professor. He pays very close attention to how his students are doing in his class and always adjusts the content and pace of his lectures to better accommodate his students. He gave 0 exams and instead the grades were all from projects - which he thoroughly helps his students to complete.

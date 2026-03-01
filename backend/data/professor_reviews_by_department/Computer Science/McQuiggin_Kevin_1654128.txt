@@ -1,0 +1,63 @@
+Professor: Kevin McQuiggin
+Professor Legacy ID: 1654128
+Professor ID: VGVhY2hlci0xNjU0MTI4
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.9
+Avg Difficulty: 2
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: CMPT120
+Date: 2012-04-25 22:20:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Interesting prof! better attend lectures tho not necessary. He gives lectures in an interesting way. Homework is straight forward and attending lecture helps. However, marking scheme is unclear.
+
+--- Rating #2 ---
+Class: CMPT123
+Date: 2012-04-16 23:24:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+This is my first computing science class! I am getting a good mark because he makes the course material so interesting. His exams and quizzes are fairly easy as long as you go over the slices! He is the best prof i have ever had in sfu!
+
+--- Rating #3 ---
+Class: CMPT120
+Date: 2012-03-11 23:06:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Attendance recommended, but not mandatory. Doesn't control class very well, too nice to tell everyone to shut up or leave. Assignments were helpful, however the marking scheme is very unclear. Midterm was very fair.
+
+--- Rating #4 ---
+Class: COMP101
+Date: 2012-02-15 21:40:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Amazing Instructor!

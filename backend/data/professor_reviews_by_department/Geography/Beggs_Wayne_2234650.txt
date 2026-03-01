@@ -1,0 +1,63 @@
+Professor: Wayne Beggs
+Professor Legacy ID: 2234650
+Professor ID: VGVhY2hlci0yMjM0NjUw
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 2.3
+Avg Difficulty: 3.5
+Num Ratings: 4
+Would Take Again Percent: 25
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: GEOG383
+Date: 2017-08-21 16:18:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Wayne was an interesting lecturer and brought a lot of relevant examples to the class that helps you remember the concepts. His exams are fair and marked fairly. He was very considerate and kept asking for constructive feedback throughout the course. He has a deep knowledge of Indigenous community planning and shared a lot with us. Fascinating!
+
+--- Rating #2 ---
+Class: GEOG362
+Date: 2017-04-06 16:52:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Wayne is a dull lecturer and shows little interest towards student. Reads right off his slides and loses his train of thought constantly. Gives irrelevant instructions for assignments then instructs us to disregard them and follow new instructions that have no content. DO NOT TAKE, would not recommend. Assignments are time consuming, worth little.
+
+--- Rating #3 ---
+Class: GEOG362
+Date: 2017-04-06 16:42:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Boring, unenthusiastic lecturer. Doesn't seem to care very much for his students. Unfair marker and does not provide sufficient feedback. Really doesn't seem to be a very experienced prof.
+
+--- Rating #4 ---
+Class: GEOG362
+Date: 2017-04-04 03:09:09 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Wayne is dull, he seems more like a professional rather than a professor because he assumes his class is the only one students are taking. His assignments that are worth very little take hours to complete and he just repeats course readings in class so what's the point in reading? But he seems like a nice guy otherwise.

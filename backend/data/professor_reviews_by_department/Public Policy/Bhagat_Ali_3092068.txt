@@ -1,0 +1,37 @@
+Professor: Ali  Bhagat
+Professor Legacy ID: 3092068
+Professor ID: VGVhY2hlci0zMDkyMDY4
+Department (CSV): Public Policy
+Department (Fetched): Public Policy
+Avg Rating: 3.3
+Avg Difficulty: 3
+Num Ratings: 3
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: PLCY200
+Date: 2025-04-24 04:21:05 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+The lecture videos were well put together and a diverse array of readings was provided. One of the biggest issues was that 70% of our grade isn't released until after final grades are posted, with no explanation for mark deductions. Also, the discussion boards were also poorly explained and there was no feedback provided for anything.
+
+--- Rating #2 ---
+Class: PLCY200
+Date: 2025-04-23 00:11:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Best online class I've taken! Dr. Bhagat took the time to make sure lectures are clear and easily understandable which made learning easy. The one thing I disliked about this course was that we were told discussion posts weren't going to be graded till the end, and then they just ended up not grading them at all. Otherwise, it's a great class!!!

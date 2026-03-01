@@ -1,0 +1,274 @@
+Professor: Joanna Woo
+Professor Legacy ID: 2517476
+Professor ID: VGVhY2hlci0yNTE3NDc2
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 4.3
+Avg Difficulty: 2.7
+Num Ratings: 50
+Would Take Again Percent: 84
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PHYS190
+Date: 2026-01-02 21:40:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+I love Joanna! She is such a sweet and passionate professor. This course is very interesting, but the content can be a bit difficult at times, so it is important to go to the lectures, participate in the bonus questions, go to the easy labs and do the homework. If you're struggling with the hw, watch the zoom as the answers are likely to be there.
+
+--- Rating #2 ---
+Class: PHYS190
+Date: 2025-12-30 11:09:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Joanna is very passionate, friendly, and always open to questions. The class is NOT hard to do well speaking as an arts student who hasn't touched any science courses for years. You should be fine if you show up and pay attention. Lectures are recorded and some extra credits available. Labs are fun and graded based on participation.
+
+--- Rating #3 ---
+Class: PHYS190
+Date: 2025-11-25 22:50:17 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Joanna is nice and her lectures were interesting. Her homework is hard, but the labs are participation only which was nice. I went to her office hours for feedback and advice because I was struggling in her class, and the only response I got was "oh no." I had to teach myself most of the material. The exams are hard with a very low average.
+
+--- Rating #4 ---
+Class: PHYS190
+Date: 2024-05-08 02:07:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Joanna was very engaging and passionate but some of her material was hard to comprehend. The labs were a little confusing too but overall not hard to do well in her class. Many labs were just participation marks. She recorded class and uploaded the videos which was very helpful. You also get a cheat sheet for exams.
+
+--- Rating #5 ---
+Class: PHYS190
+Date: 2024-04-24 04:16:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great professor, content of the class was super interesting and engaging. All of the tests were very fair and the assignments, with really fun labs. Also lots of bonus marks during lecture in the class, which also help you to retain and learn material. Highly reccomend!
+
+--- Rating #6 ---
+Class: PHYS190
+Date: 2024-04-16 23:27:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very kind and funny prof. She cares about the class doing well and genuinely loves her job. Highly recommend.
+
+--- Rating #7 ---
+Class: PHYS190
+Date: 2024-01-07 04:00:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Joanna wants everyone to do well and enjoy the content. There's bonus questions every class and she does give us more information during lectures so I would say attendance is mandatory if you want a high grade. Labs are done in groups and were really easy and fun, I don't think I will enjoy a lab in university this much ever again.
+
+--- Rating #8 ---
+Class: PHYS190
+Date: 2023-12-24 08:45:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The worst course. I taught this course to myself. Nothing personally against Joanna, she might know a lot about Astronomy but she is not gifted with teaching skills. Her knowledge doesn't transfer well in the classroom, she seems confused about her concepts, she stifles through her slides like she doesn't know what her slides entail. Never again
+
+--- Rating #9 ---
+Class: PHYS190
+Date: 2023-04-29 05:35:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Easy course with an easy prof. If you want a good grade, go to lectures and do a little bit of review. She's incredibly passionate about her field which makes lectures very engaging. She's great in so many ways, there's not even enough text to be able to fit it all. You've seen the ratings, just take her if you are at all interested :)
+
+--- Rating #10 ---
+Class: PHYS190
+Date: 2023-04-22 09:15:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Joanna is incredibly nice and her lectures are always super interesting and filled with lots of puns. She lets you use a cheat sheet for all of the 3 terms tests which are fairly easy if you do the homework and go to the labs (which are actually fun). I had a great time in her course and learnt so much.
+
+--- Rating #11 ---
+Class: PHYS190
+Date: 2023-01-31 08:16:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+- Joanna was very friendly and caring and looked like she genuinely liked teaching.
+- The lectures were interesting and helped a lot in preparation for the tests.
+- As long as you did the homework, she allowed a cheat sheet for every test so it was not too difficult to get a high mark.
+- If you don't know much about astronomy I highly recommend.
+
+--- Rating #12 ---
+Class: PHYS190
+Date: 2023-01-28 10:13:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Joanna is awesome. She has amazing lectures and kept the class engaged by doing lecture polls and bringing enthusiasm daily. For exams, just remember the important formulas and info from the lecture slides.
+
+--- Rating #13 ---
+Class: PHYS190
+Date: 2023-01-06 04:33:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Joanna is a great professor, I looked forward to attending her class even though it was the only class that I had that day. She makes her lectures really interested and keeps her students on her toes by having her lecture polls which are worth ~bonus~ marks!! She lets you have cheat sheets for quizterms which were honestly lifesavers for me.
+
+--- Rating #14 ---
+Class: PHYS190
+Date: 2022-12-13 06:47:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Joanna is wonderful! She never judges anybody for asking questions. She is also extremely generous with the in-class poll bonus. Her passion for astronomy is obvious. Couldn't have asked for a better professor! If you have ANY questions, go to her office hours. Also, be prepared for a lot of bad (but funny) astronomy jokes!
+
+--- Rating #15 ---
+Class: PHYS190
+Date: 2022-11-19 17:20:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Joanna has made this class very fun. She cares about her students and wants everyone to learn and do well. She records her lectures which was a huge help to watch back and study from. The class isn't easy, but if you put in some work even I got a good mark. Very knowledgeable prof and great person. I wish all my profs were as good as her.
+
+--- Rating #16 ---
+Class: PHYS190
+Date: 2022-08-22 06:04:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Kind professor. Class was graded perfectly with 5 homework assignments, a few group assignments, and 3 midterms (of which only the top 2 counted). Bonus of up to 5% of grade by doing daily polls in class. Incredibly passionate about her field and supplied daily images of space to the class before we started.
+
+--- Rating #17 ---
+Class: PHYS101
+Date: 2022-05-12 00:01:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+She's a great prof, super caring and a fair grader. She wants her students to do well as it is a reflection of her teaching! She is very clear about what will be on the midterms and gives plenty of examples. Some problems on the exams come straight from the homework so do your review. 10/10 a great professor!
+
+--- Rating #18 ---
+Class: PHYS190
+Date: 2022-04-20 09:09:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Joanna's care for students and enthusiasm made her lectures enjoyable. Material is not too difficult and only involves very simple math. The homework and tests were completely fair. Great course.
+
+--- Rating #19 ---
+Class: PHYS190
+Date: 2022-04-15 02:50:00 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great class and enthusiasm but her slides are too broad and hard to follow
+
+--- Rating #20 ---
+Class: PHYS101
+Date: 2022-02-08 04:22:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is an amazing prof, took the time to explain complicated topics and ensured all students understood the concepts. One of the best I've had at SFU, gave plenty of opportunities for additional learning :) Physics is one of my weaker subjects and I still managed to enjoy lectures

@@ -1,0 +1,24 @@
+Professor: Kivanc Tatar
+Professor Legacy ID: 2124435
+Professor ID: VGVhY2hlci0yMTI0NDM1
+Department (CSV): Fine Arts
+Department (Fetched): Fine Arts
+Avg Rating: 2.5
+Avg Difficulty: 1
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: FPA149
+Date: 2016-04-05 21:44:33 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+This class felt like a joke. Midterm and Final are online and open book/internet use allowed. When students didn't understand he would just repeat the same phrase rather than trying to explain in a different way. Often seemed to forget we don't all have a masters in sound production and are total beginners. Easy credits and a few easy assignments.

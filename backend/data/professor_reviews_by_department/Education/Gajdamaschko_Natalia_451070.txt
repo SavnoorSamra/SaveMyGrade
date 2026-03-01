@@ -1,0 +1,271 @@
+Professor: Natalia Gajdamaschko
+Professor Legacy ID: 451070
+Professor ID: VGVhY2hlci00NTEwNzA=
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.5
+Avg Difficulty: 2.1
+Num Ratings: 28
+Would Take Again Percent: 71.4286
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: EDUC370
+Date: 2025-09-09 04:22:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Natalia is a kind person, but I feel as though prospective students should be informed on what she endorses. This professor is vocally pro generative AI, to the point that she stated it was mandatory for assignments & to ask it questions class discussions. She encourages pasting chatGPT summaries of material to canvas. I find this morally wrong.
+
+--- Rating #2 ---
+Class: EDU823
+Date: 2025-01-02 19:35:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+An amazing Vygotskian scholar and child psychologist. The best professor I have had in my masters program. I would highly recommend her.
+
+--- Rating #3 ---
+Class: EDUC471
+Date: 2024-11-20 05:10:18 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+she rambles too much and it's easy to snooze in her lecture (which can be very long btw). She's a super super easy marker. attendence is mandatory but it feels like a waste of time to even go (but i recommend just sitting there and doing other coursework). Particpation matters in class just cuz it'll be quiet otherwise and not fun
+
+--- Rating #4 ---
+Class: EDUC471
+Date: 2024-08-13 02:22:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+best prof ever
+
+--- Rating #5 ---
+Class: EDUC471
+Date: 2024-07-16 03:42:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Natalia is a wonderful professor who cares deeply about not only the material she teaches but also the students themselves. I learned a ton in her class through her practical applications of the educational curriculums we were taught, with the roleplays and group work we did in seminars. The readings provided excellent discussions in class as well.
+
+--- Rating #6 ---
+Class: EDUC879
+Date: 2022-08-24 14:15:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+It was a pleasure to take her class. I found the material extremely difficult since I had training in other areas (i.e. Economics). However, she knows the content well, and it is easy to grasp after her explanations and guided discussions. She is a very rare Professor as she has a deep understanding of Marxism, politics, and philosophy in general.
+
+--- Rating #7 ---
+Class: EDUC471
+Date: 2017-08-22 12:41:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Really enjoyed the class. She knows her stuff!
+
+--- Rating #8 ---
+Class: EDUC471
+Date: 2013-01-04 12:54:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I'm not an Education major, but I learned so much from Natalia.  She opened my eyes to different types of culture of curriculums.  Don't be afraid that she does not have lecture notes for class, she doesn't need them! Its refreshing to have a prof like her.  It's a really fun class and you'll learn things beyond the classroom.
+
+--- Rating #9 ---
+Class: EDUC471
+Date: 2012-12-17 14:11:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+She is an amazing teacher; my major is not education, but she really opened up my eyes to curriculum and implementing change. One of the best profs in my University career, seriously, don't take this class with anyone else.
+
+--- Rating #10 ---
+Class: EDUC471
+Date: 2012-11-01 14:59:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+You don't need to do very much work outside of class to do well, it's mostly just in-class participation. So impressive though, completely made me rethink my views on education - for the better!
+
+--- Rating #11 ---
+Class: EDUC471
+Date: 2012-07-17 14:38:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+One of the best course I've taken at SFU. Love the way the class is structured where it is not time-consuming and a great deal of concepts is learned! Prof is funny, kind and caring!
+
+--- Rating #12 ---
+Class: EDUC816
+Date: 2012-07-09 15:06:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great course!
+
+--- Rating #13 ---
+Class: EDUC471
+Date: 2012-06-24 19:51:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+This is the best class I've taken in my 4 years of undergraduate studies. I've learned the most from this professor than any others and she not only taught from her book, but she taught us from her life. Her life experience is one of the most interesting and educational to learn from. She is also a great mentor, always wishing the best for students
+
+--- Rating #14 ---
+Class: EDUC471
+Date: 2012-04-26 02:35:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+THE BEST class I have ever taken at SFU. This is the only time I can say that my $600 was well spent at SFU. She is the most caring, generous, and knowledgeable professor I have ever had the privilege to learn from. The text was a bore, but she brought it to life in her comedy filled lectures. The hardest part of the course: registering for it!
+
+--- Rating #15 ---
+Class: EDUC471
+Date: 2011-07-21 22:32:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She's very easy-marking.  Attend all her classes and read the textbook, you'll be no problem.
+
+--- Rating #16 ---
+Class: EDUC471
+Date: 2011-06-24 00:38:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Awesome prof, I would recommend taking her class just because she is great!
+
+--- Rating #17 ---
+Class: EDUC471
+Date: 2011-06-08 19:01:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She's Great!!!
+
+--- Rating #18 ---
+Class: EDUC471
+Date: 2011-06-06 19:50:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+great prof I ever had! enjoy her class so much and had a good result at the end of the term:)
+
+--- Rating #19 ---
+Class: EDUC471
+Date: 2010-12-08 19:13:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She is the most amazing professor I've ever had in post-secondary. She has very strong opinion about few things but she likes the challenge so you can make a nice discussion session. Highly recommend to take class with her.
+
+--- Rating #20 ---
+Class: EDU823
+Date: 2009-11-16 00:49:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+So incredibly inspiring. Natalia walked into class with littel else than her coffee (or apple juice) and her years of experience to provoke the most stimulating conversation and to challenge our spontaneous conceptions of the meaning of education.

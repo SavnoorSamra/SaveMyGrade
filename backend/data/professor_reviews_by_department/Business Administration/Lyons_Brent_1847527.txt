@@ -1,0 +1,273 @@
+Professor: Brent Lyons
+Professor Legacy ID: 1847527
+Professor ID: VGVhY2hlci0xODQ3NTI3
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.1
+Avg Difficulty: 2.2
+Num Ratings: 38
+Would Take Again Percent: 79.3103
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ORGS2100
+Date: 2025-08-02 04:17:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Highly overrated !!
+
+--- Rating #2 ---
+Class: ORGS2010
+Date: 2025-07-18 19:52:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His style of teaching did not work for me! At times I was not sure where to find the information from he was presenting in his lectures. 
+
+Maybe he was okay for others but I found it difficult to cross reference some of his material.
+
+--- Rating #3 ---
+Class: ORGS2010
+Date: 2025-07-04 02:40:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The professor's style didn't really work for me&#8212;he could come off a bit indirect or hard to read, which made it tough to know where I stood at times. It sometimes felt like certain students got more attention, and feedback wasn't always clear. Might work better for others, but I personally struggled to feel supported.
+
+--- Rating #4 ---
+Class: ORGS2100
+Date: 2025-02-02 22:31:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Really bad professor, by far one of the most overrated, toughest grading professors. Makes up his own questions for the sole purpose of tricking students for the two M/C exams. Avoid at all costs, he makes an easy course hard.
+
+--- Rating #5 ---
+Class: ORGS2010
+Date: 2025-01-12 22:36:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Brent was an amazing prof, cared about his students and was not a hard grader. As long as you participated at least once every class you will do well in his course. Will be looking for his name to take his classes in the future
+
+--- Rating #6 ---
+Class: ORGS2100
+Date: 2025-01-08 16:40:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Brent is so kind and caring. Definitely the better professor for ORGS 2100.
+
+--- Rating #7 ---
+Class: ORGS2100
+Date: 2025-01-03 09:42:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Clear, respectful and tests mostly from what he teaches in class. Pay attention in class and you're sorted for the midterm and final.
+
+--- Rating #8 ---
+Class: ORGS2010
+Date: 2024-09-15 20:27:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+By far one of the most overrated Profs at Schulich. Hard marker, the final exam was difficult, and I did not like his way of teaching.
+
+--- Rating #9 ---
+Class: ORGS2010
+Date: 2024-04-30 20:37:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Thought the teacher was too easy! Not challenging at all! I was very disappointed in his course
+
+--- Rating #10 ---
+Class: ORGS2100
+Date: 2024-01-05 05:16:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very caring and easy to ask questions to. However, the course is not set up well. Lots of overlap between module and textbook but you still have to read both for the 20% that the other does not have.
+
+--- Rating #11 ---
+Class: ORGS2100
+Date: 2019-12-23 23:32:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+One of the better profs for the course
+
+--- Rating #12 ---
+Class: ORGS2010
+Date: 2019-12-06 05:15:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Brent is a really sweet and caring professor, who is ready to accommodate every single one of your needs. He is passionate about the subject he teaches and in turn grasps the attention of his students. I hope I can have him as a professor in the future as well.
+
+--- Rating #13 ---
+Class: ORGS2100
+Date: 2019-08-29 21:43:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The best prof at Schulich peiriodT
+
+--- Rating #14 ---
+Class: ORGS2100
+Date: 2018-12-13 00:00:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+The best
+
+--- Rating #15 ---
+Class: ORGS2100
+Date: 2018-12-10 23:06:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The best in Schulich, if you're in his class consider yourself to be soo lucky.
+
+--- Rating #16 ---
+Class: ORGS2100
+Date: 2018-12-10 23:02:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Chill guy, best ORGS prof. 10000/10 would take again
+
+--- Rating #17 ---
+Class: ORGS2100
+Date: 2018-12-08 15:35:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Brent's incredibly sweet, and genuinely cares about his students. He swiftly accommodated anything I needed, and is my favourite professor at Schulich by far.
+
+--- Rating #18 ---
+Class: ORGS2100
+Date: 2018-10-04 16:29:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+such a sweet guy
+
+--- Rating #19 ---
+Class: ORGS2100
+Date: 2018-02-02 11:03:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+If you need help, he will genuinely try his best to help you out. Just actually show that you are trying hard and you'll get whatever help/ grade you deserve.
+
+--- Rating #20 ---
+Class: BUS381
+Date: 2017-07-03 22:59:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great prof! Engaging lectures and made me love coming to class.

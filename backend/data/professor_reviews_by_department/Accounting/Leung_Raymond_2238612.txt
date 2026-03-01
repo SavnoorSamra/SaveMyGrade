@@ -1,0 +1,63 @@
+Professor: Raymond Leung
+Professor Legacy ID: 2238612
+Professor ID: VGVhY2hlci0yMjM4NjEy
+Department (CSV): Accounting
+Department (Fetched): Accounting
+Avg Rating: 1
+Avg Difficulty: 4
+Num Ratings: 4
+Would Take Again Percent: 0
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: BUS249
+Date: 2021-04-09 20:08:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Would not recommend unless you want to learn the entire coarse on your own after class. Learnt nothing in the lectures and they were completely painful to get through... save yourself the misery and dont take this class with him
+
+--- Rating #2 ---
+Class: BUS254
+Date: 2017-03-17 17:20:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I never write reviews but Raymond is so unimaginably inadequate, you must be warned before taking any class with him. he takes 254, an otherwise easy class, distorts it and makes everything seem more complicated than it is. The book gives clearer methods, yet he will profusely argue his incorrect answers despite the answer key proving him wrong.
+
+--- Rating #3 ---
+Class: BUS254
+Date: 2017-03-17 16:21:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Raymond seems very knowledgeable and passionate about accounting, however he is not a great teacher.  It is very difficult to stay focused during lectures and his explanations in tutorial are lengthy and often very confusing.
+
+--- Rating #4 ---
+Class: BUS254
+Date: 2017-03-17 16:05:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This prof is so baffling. I have never met such an inadequate teacher in my life. He will go out of his way to disagree with the answer key in the textbook. There was one question where the entire class argued with him because he disagreed with the right answer. His exams have nothing to do with his homework. He contradicts himself a lot.

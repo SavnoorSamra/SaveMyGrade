@@ -1,0 +1,89 @@
+Professor: Stephanie Simmons
+Professor Legacy ID: 2434768
+Professor ID: VGVhY2hlci0yNDM0NzY4
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 2.3
+Avg Difficulty: 3.7
+Num Ratings: 6
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: PHYS285
+Date: 2022-01-01 04:45:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Great teacher who knows how to maximize the advantages afforded by online delivery. Course is asynchronous with great lecture material that is a mix of text, video, and web-based demos. Homework and exams are closely coupled with lecture, which promote good understanding of lecture knowledge. Enthusiastic and energetic which affect students too.
+
+--- Rating #2 ---
+Class: PHYS285
+Date: 2021-07-02 23:12:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Poor instructor that have zero capability to teach. You will often see her avoid a question by providing some sort of vague answer to it (even though she claim to be an expert). I think it is just better for her to do her research work than to teach. Do yourself a favour and avoid this person at all cost!
+
+--- Rating #3 ---
+Class: PHYS285
+Date: 2021-06-03 20:14:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+When you ask her a question, she typically likes to evade it for some reason or she gives a really vague answer. And some of the comments as noted is true like where she tried to implement a change in the overall passing of the course in the middle of the semester LOL. Wish she wasn't the one teaching the course, honestly.
+
+--- Rating #4 ---
+Class: PHYS285
+Date: 2021-05-13 03:33:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Never met a prof like her that is so unprofessional. She tried to change the course grading system in the middle of the semester by saying students have to pass the final to pass the course. She also told the TA not to go over practice problems. Can't believe such a prof exists. Just don't take her course, guys.
+
+--- Rating #5 ---
+Class: PHYS285
+Date: 2021-04-01 05:16:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Stay away from this professor unless you want to self-learn. Textbook is pretty useless and prof generally doesn't give the best responses to students' questions (nor does she care). No office hours were offered so really you are left on your own. Again, she only has time for her research work and not for students.
+
+--- Rating #6 ---
+Class: PHYS255
+Date: 2018-12-04 02:51:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+After Andrei Frolov's medical leave, Stephanie was a blessing. Her class was very well developed and organized. It felt like she was really paying attention to the needs of the students. There were fun demos every class.

@@ -1,0 +1,271 @@
+Professor: John Whatley
+Professor Legacy ID: 78350
+Professor ID: VGVhY2hlci03ODM1MA==
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 3.6
+Avg Difficulty: 3
+Num Ratings: 24
+Would Take Again Percent: 60
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENGL205
+Date: 2020-04-18 00:32:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+His lectures were very long, and a night class, but he cares so much about his students that it almost forgives that. His lectures are quite dry, but the material is really interesting, and he gives you so much feedback, plus, he's a decent marker. He is a nice person, and honestly wants his student's input and response!
+
+--- Rating #2 ---
+Class: ENGL357
+Date: 2019-04-30 00:44:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Whatley loves to use the full four hours for lectures. The lectures are really boring and the only really teaches you two concepts in 13 weeks. He is really nice and understanding and gives realy good feedback. Only two essays and a final. He also chooses really good books to read but the lectures are really dry.
+
+--- Rating #3 ---
+Class: ENGL357
+Date: 2019-04-24 06:06:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+John was passionate, brilliant, gave great feedback, open about the final exam, was approachable and available to help,wanted us to do well. The only things is the lectures were dense, but he included group discussions too. Lots of readings, but I actually learned a lot about theory. Overall he is a great teacher who wants you to succeed.
+
+--- Rating #4 ---
+Class: ENGL216
+Date: 2018-04-03 18:08:01 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+terrible class, boring and dry material. The prof sits there to read through his slides. Basically makes you suffer in all ways.
+
+--- Rating #5 ---
+Class: ENGL216
+Date: 2017-04-15 11:15:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+There were a lot of readings for the course, but they were all relevant to the course content.  John clearly lays out material and explains the concepts thoroughly; ask questions as they are encouraged and some of the material is complex and dense.  Of all the English courses I've taken (I've taken a fair few), John is the best prof I've had.
+
+--- Rating #6 ---
+Class: ENGL102
+Date: 2015-04-20 12:16:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: True
+Comment:
+Our TA had some sort of personal crisis plus computer trouble and didn't bother to get someone to cover him.  The prof was MIA and didn't seem to care that the TA wasn't doing his job, despite many of us trying to contact him for support.  Worst educational experience of my adult life.
+
+--- Rating #7 ---
+Class: CRIM384
+Date: 2011-03-29 21:50:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Useless is right, someone said arrogant and I think that is kind, thinks he is MR CRIM - he's NOT! Take anything else, if Brockman or Davies are teaching take a course with them!!!
+
+--- Rating #8 ---
+Class: CRIM384
+Date: 2009-12-16 21:47:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Honestly the nicest prof ever! Super helpful, open to opinions on literature, and very approachable. Extremely lenient on crim students who do not have English Lit backgrounds. Made me love Dostoevsky! Would take him a class with him again in a heartbeat
+
+--- Rating #9 ---
+Class: CRIM3XX
+Date: 2009-09-18 21:23:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Pompous! Sets meetings and then doesn't show. Two hours on the bus twice and both times he didn't show. Condescending when trying to arrange the third attempt.
+
+--- Rating #10 ---
+Class: CRIM384
+Date: 2008-07-10 18:59:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Apart from his extremely sooth-me-to-sleep voice, he's a relatively good prof. Basically creates a great group discussion, but he does require that everyone talk at some point or another, but no embarrasing pointing fingers if you didn't do the reading. Highly recommended.
+
+--- Rating #11 ---
+Class: ENGL315
+Date: 2007-02-12 14:22:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Oh wow absoultely fabulous. Could you  ask for anyone better. The bomb. Take his class he is so nice and helpful.
+
+--- Rating #12 ---
+Class: ENGLSECT
+Date: 2006-12-16 05:59:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Whatley is an amazingly skilled teacher. I took a few courses with him years ago, and I still find myself realizing now and then the things I learned from him that have made me a better writer. He genuinely cares about students, and will bend over backwards to help you if you show a sincere interest. One of the best professors I've had.
+
+--- Rating #13 ---
+Class: ENG3263
+Date: 2006-05-30 23:11:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+prof. whatley completely reaffirmed my love of poetry, romantic poetry in particular. this man is an absolute genius at helping his students realize the deepest meanings in the most complex poems, and he's also a really kind, caring man. if you think he's pompous you're not paying attention.
+
+--- Rating #14 ---
+Class: CRIM417
+Date: 2006-02-25 19:14:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Took Crime in Literature with him over summer and found him to be a very personable teacher, open to questions/comments/suggestions, and exceptionally lenient with the Crim students (for a literature class). He treats students with respect and is a fair grader, no suprises if you come prepared for discussion.
+
+--- Rating #15 ---
+Class: ENGL325
+Date: 2006-02-23 04:32:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I found the class tedious and boring- he would just read over poetry forever in monotone. We all had to give 20-25 minute presentations which took up a lot of class time and were a waste of time. BUT he is a very easy marker. If you can handle extremely boring classes, then take him just for the marking.
+
+--- Rating #16 ---
+Class: ENG
+Date: 2004-12-24 22:43:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+i found his pompous as hell and didnt enjoy the clas a bit but that was a couple of years ago, wouldnt take anything else with him
+
+--- Rating #17 ---
+Class: CRIM416
+Date: 2004-11-11 18:21:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Knows his lit. Not a crim. expert and you may loose credit if he doesn't fully understand your applications of crim theory. Entertaining though, and he is knowledgable in a very wide range of topics.
+
+--- Rating #18 ---
+Class: ENGL322
+Date: 2004-06-03 20:06:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very nice. Knows his stuff. Be sure that your essay is flawless interms of format, gram. and MLA.
+
+--- Rating #19 ---
+Class: CRIM418
+Date: 2004-03-17 12:40:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very helpful and understanding. Easy to talk to and down to earth. Encouraging. Not a crim expert thats for sure though.
+
+--- Rating #20 ---
+Class: ENGL325
+Date: 2004-02-12 01:22:29 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I think I know how you've come to interpret him as a pompous personality, but that impression isn't all the way to his core.  There is a sense of humour there and, if you pay close enough attention, even some self-deprecation.

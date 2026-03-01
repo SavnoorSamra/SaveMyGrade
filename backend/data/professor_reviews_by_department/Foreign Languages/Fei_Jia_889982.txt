@@ -1,0 +1,271 @@
+Professor: Jia Fei
+Professor Legacy ID: 889982
+Professor ID: VGVhY2hlci04ODk5ODI=
+Department (CSV): Foreign Languages
+Department (Fetched): Foreign Languages
+Avg Rating: 4.8
+Avg Difficulty: 2
+Num Ratings: 25
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CHIN330
+Date: 2025-05-24 07:00:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is so nice! Highly recommend her guys!
+
+--- Rating #2 ---
+Class: CHIN460
+Date: 2024-09-29 18:18:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Best prof.
+
+--- Rating #3 ---
+Class: CHIN330
+Date: 2023-04-05 20:59:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+best prof
+
+--- Rating #4 ---
+Class: CHIN151
+Date: 2018-12-01 21:23:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Best prof ever.
+
+--- Rating #5 ---
+Class: CHIN330
+Date: 2018-01-15 16:15:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Like most language classes, there was attendance taken and lots of homework + projects (not that it was hard, just tedious). Its an easy course to B in, but hard enough so she doesn't hand out a lot of As. Jia is very specific on what an &quot;A&quot; is, but she says in person doesn't always match what's on canvas. Be aware, she'll still take marks off.
+
+--- Rating #6 ---
+Class: CHIN100
+Date: 2017-07-21 00:44:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She's really nice, lectures are super active and very interesting, definitely recommend this prof! (And it's a good gpa booster too)
+
+--- Rating #7 ---
+Class: CHIN100
+Date: 2016-12-28 20:46:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I, without any hesitation, hold back, or reservation,  recommend taking any class that this professor holds.  She is a professor's Professor.  Laoshi Jia Fei rocks!  PS  Jia is a great credit to SFU!
+
+--- Rating #8 ---
+Class: CHIN101
+Date: 2016-11-06 22:38:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Chin 101 is SO MUCH HARDER than chin 100. She's very picky about the little things. Other than that, nice prof.
+
+--- Rating #9 ---
+Class: CHIN100
+Date: 2015-11-09 17:37:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Every day I look forward to Jia Fei's classes! She shows that she genuinely cares about her students and even does things like tell a little story about every Chinese character to help you memorize them. She has a good sense of humour and CHIN100 with her was an easy A+!!  In addition to learning a ton, I got a great grade and had fun!!
+
+--- Rating #10 ---
+Class: CHIN152
+Date: 2013-11-14 19:43:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She is very kind, helpful and fair. Weekly quizzes are easy as long as you memorized the vocabs. Midterm is an open topic. If you are taking chinese 152, take with her!
+
+--- Rating #11 ---
+Class: CHIN153
+Date: 2012-06-04 03:26:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+She is a awesome teacher and lecturer, I would say she really cares about student. She is reeally couraging and I can see her as a very nice and warmhearted young lady.
+
+--- Rating #12 ---
+Class: CHIN100
+Date: 2012-04-16 02:10:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She is such a great teacher! Her class will help any beginner. There are weekly quizes which are a spelling test and grammar test which are fair game. She is always available to help you understand.
+
+--- Rating #13 ---
+Class: CHIN151
+Date: 2010-07-28 01:07:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+1 word: Awesome
+
+--- Rating #14 ---
+Class: CHIN100
+Date: 2009-11-28 19:08:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Awesome professor! Has an EXCELLENT ear, she can clearly find out who is fluent in Mandarin and kicked 1/4 of the people who thought they were so smug that they got into the class. She takes her time to help students with pronunciation. Really nice too!
+
+--- Rating #15 ---
+Class: CHIN100
+Date: 2009-07-12 22:22:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Ms. Jia Fei is a sweetie - extremely helpful, approachable, and friendly. She teaches quite well. The workload is more than fair (though there is a quiz practically every class). Not a fast paced class - suitable for beginners. The textbook is simple and straight forward. A bit of practice and review of textbook will yield an enjoyable experience!
+
+--- Rating #16 ---
+Class: CHIN100
+Date: 2009-01-01 11:01:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Nice teacher with awesome personality! Extremely helful when it comes to answering questions. Enjoy the small fun class atmosphere. Material tends to be somewhat repititive sometimes. A time-consuming course but an excellent GPA booster!
+
+--- Rating #17 ---
+Class: CHIN100
+Date: 2008-01-07 19:35:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+This class made me want to continue studying chinese!
+
+--- Rating #18 ---
+Class: CHIN201
+Date: 2007-04-22 15:41:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Fairly easy, quite strict marker on quizzes. Oral presentation/exam was fairly marked. Final wasn't too hard if you study the textbook. This prof gives a lot of assignments. 1 textbook 1 workbook every week for 10% of the course. 10% participation,  10% quizzes (7 in total), 20% oral presen, 20% oral exam, and 30% Final exam.
+
+--- Rating #19 ---
+Class: CHIN152
+Date: 2007-01-11 05:05:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+If you know some Mandarin before taking this course, it shouldn't be a hard course. Workload is very heavy for a 3 credit course, the work (mostly prepare orals, excercise, or dictations) is time-consuming but it does not kill braincells. Very easy to get C+ or above, impossible to get higher than A-. She is a great prof for this course.
+
+--- Rating #20 ---
+Class: CHIN151
+Date: 2006-12-16 03:33:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+good course & great learning atmosphere, this course can improve your mandarin speaking skill.

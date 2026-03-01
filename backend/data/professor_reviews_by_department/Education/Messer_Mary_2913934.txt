@@ -1,0 +1,24 @@
+Professor: Mary Messer
+Professor Legacy ID: 2913934
+Professor ID: VGVhY2hlci0yOTEzOTM0
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 1
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: EDUC473
+Date: 2024-02-02 23:38:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Takes forever to mark. Unpleasant attitude with 1- 1 help

@@ -1,0 +1,271 @@
+Professor: Bill Havens
+Professor Legacy ID: 26438
+Professor ID: VGVhY2hlci0yNjQzOA==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.7
+Avg Difficulty: 3.3
+Num Ratings: 31
+Would Take Again Percent: -1
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT120
+Date: 2010-12-04 23:22:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Overall I enjoyed this course and learned a lot about basic programming concepts from Dr. Havens.  The assignments were interesting and challenging.  However this isn't a course you can leave until the last minute and cram for.  If you study diligently and attend classes regularly, it's not too hard to succeed in this course.
+
+--- Rating #2 ---
+Class: CMPT120
+Date: 2010-12-03 22:00:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He's such a terrible prof. Seriously save your money and time by taking this course with another prof. Assignments are really difficult and his exams are tough. If you plan on taking this course with him you should take a light course load or drop it before it's too late.
+
+--- Rating #3 ---
+Class: CMPT125
+Date: 2010-12-03 21:31:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+His midterms are difficult considering the amount of time given and his assignments are beyond the scope of completion. Amongst all that, he schedules his office hours during our lab time. Basically all he does is reiterate what is already in the book. He'll just basically read everything off of the screen. Avoid him and take it with someone else.
+
+--- Rating #4 ---
+Class: CMPT827
+Date: 2006-03-06 00:42:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He's a very nice prof. We had two programming projects and both were very interesting. You'll enjoy his lecture even if you are not really into the materials.
+
+--- Rating #5 ---
+Class: MASTERS
+Date: 2005-11-22 11:18:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Excellent Prof. If you are interested in a masters this is the guy to be a student for. He treats his masters students like friends and works hard to help them achieve. All his students go on to do great things....
+
+--- Rating #6 ---
+Class: CMPT417
+Date: 2004-12-14 21:21:19 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Havens flip flops more than John Kerry. If you ask him how he grades an assignment, get it in writing, because its likely he'll forget what he said to you. Also, he's an american who wants to be a canadian.
+
+--- Rating #7 ---
+Class: CMPT417
+Date: 2004-12-07 18:34:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Excellent professor.  Very enjoyable class.
+
+--- Rating #8 ---
+Class: CMPT201
+Date: 2004-09-13 10:25:04 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+hard assignments, easy exams given you have a very very good understanding of his notes.
+
+--- Rating #9 ---
+Class: CMPT201
+Date: 2004-04-19 18:23:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Bill is a great teacher for this course and actually has tried to teach programming, not just copying code samples.  Yes, the course isn't easy, but at least unlike every other course I've taken, he teaches it in a fun way with interesting assignments
+
+--- Rating #10 ---
+Class: CMPT201
+Date: 2004-04-16 22:31:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Too Hard. An assignment was given about Constraints Satisfaction Problem (CSP) which is a upper division AI's problem.
+
+--- Rating #11 ---
+Class: CMPT201
+Date: 2003-07-03 14:25:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Great Prof.  Was able to communicate quite well. Lectures were usually well structured..
+
+--- Rating #12 ---
+Class: CMPT201
+Date: 2003-05-06 23:25:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He's pretty good, his final was okay I guess... except that I wish I could stay awake in his classes though zZz :)
+
+--- Rating #13 ---
+Class: CMPT201
+Date: 2003-04-21 13:28:43 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #14 ---
+Class: CMPT201
+Date: 2003-04-18 01:07:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Great lectures, unclear assignments. Doesn't put enough time into his assignments/prep.
+
+--- Rating #15 ---
+Class: CMPT201
+Date: 2003-02-28 19:56:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #16 ---
+Class: CMPT201
+Date: 2003-02-11 03:47:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+So far so good. I enjoy the class, he makes it interesting
+
+--- Rating #17 ---
+Class: CMPT201
+Date: 2002-12-12 00:37:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+good prof~~
+
+--- Rating #18 ---
+Class: CMPT201
+Date: 2002-12-11 04:50:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+one of the best CS prof i've had in SFU
+
+--- Rating #19 ---
+Class: CMPT101
+Date: 2002-11-13 00:42:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #20 ---
+Class: CMPT101
+Date: 2002-10-31 07:00:40 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Knows his stuff, can't convey the knowledge. Beware of Harold Hophozophen.

@@ -1,0 +1,26 @@
+Professor: Stephen Smith
+Professor Legacy ID: 2747682
+Professor ID: VGVhY2hlci0yNzQ3Njgy
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 1
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: educ371
+Date: 2024-06-05 06:35:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Took this class last year. A great class to take if you want your insomnia cured or interested in the paranormal pseudoscience
+
+The textbook is a better teacher and has concise information albeit from an American context.

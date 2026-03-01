@@ -1,0 +1,24 @@
+Professor: Gilliam Smith
+Professor Legacy ID: 2039996
+Professor ID: VGVhY2hlci0yMDM5OTk2
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: EDUC423
+Date: 2015-09-09 20:43:15 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This class is fantastic! Gilliam is one of the best prof that I ever had! The class is more like applying the knowledge you learn and use the skills to be a counsellor. Taping is interesting and you can learn so much from it. The prof is nice and always being helpful.

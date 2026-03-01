@@ -1,0 +1,24 @@
+Professor: Genevieve Brisson
+Professor Legacy ID: 2512135
+Professor ID: VGVhY2hlci0yNTEyMTM1
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: EDUC480
+Date: 2019-08-20 22:12:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+An awesome prof! I would recommend this prof to anyone who wants to learn about teaching French. EDUC 480 is a great course for STs who are scared of teaching Core French. Made a safe environment for learning. Gave a LOT of PRACTICAL and very useful resources for the practicum! Best methodology course for PDP coursework.

@@ -1,0 +1,37 @@
+Professor: Paul Lee
+Professor Legacy ID: 1592875
+Professor ID: VGVhY2hlci0xNTkyODc1
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 4
+Avg Difficulty: 2
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: KIN142
+Date: 2012-01-22 13:25:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Awesome guy. One of the most helpful and encouraging people I've ever met. I didn't find him difficult to understand. He has a bit of an accent, but his English is very good.
+
+--- Rating #2 ---
+Class: KIN142
+Date: 2011-06-21 18:44:15 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Lectures are fill in the black, so you have to show up. Isnt very clear due to language barrier, but seems to really want to help. Midterm and Final prep was good, but exams still turned out to be very difficult.

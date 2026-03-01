@@ -1,0 +1,271 @@
+Professor: Fiona Brinkman
+Professor Legacy ID: 423023
+Professor ID: VGVhY2hlci00MjMwMjM=
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 2.8
+Avg Difficulty: 3
+Num Ratings: 24
+Would Take Again Percent: 53.8462
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MBB342
+Date: 2026-02-07 07:44:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+super nice prof, very kind and respectful and cares about everyone. she tells you what to focus on for the exams, so studying is a lot easier
+
+--- Rating #2 ---
+Class: MBB342
+Date: 2025-12-20 05:12:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Didnt wanna take 342 due to past reviews, but I think Dr Brinkman has changed the course since the last time she taught it to make it more digestible. That being said, she is a passionate, proactive, and caring prof whose exams are very fair. She does optional quizzes in class to supplement learning, and even brought snacks for the class every week
+
+--- Rating #3 ---
+Class: MBB342
+Date: 2025-12-15 21:59:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Fiona's such a kind and helpful person.I was on the fence about taking the class initially but I'm so glad I went ahead and did. She makes sure everyone understands the concepts and is pretty clear about what will be on the exams. The lecture content is a bit dry but that's out of her control. The TA was also super helpful and accommodating.
+
+--- Rating #4 ---
+Class: MBB342
+Date: 2025-12-05 17:55:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Its not her, it the course materials that boring. She's actually pretty nice and helps clarifying. The TA was nice too and helpful and the assignments for labs were straightforward. Just need to review and understand and be on top of the materials.
+
+--- Rating #5 ---
+Class: MBB342
+Date: 2025-12-04 01:13:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Brinkman is really caring and easy to approach. Every week, she would bring snacks ( some that she baked herself that were allergy-friendly) just in case anyone was hungry. As a lecturer, she does a good job explaining difficult material and highlighting what is important information. Overall, I would take any class with her again.
+
+--- Rating #6 ---
+Class: MBB342
+Date: 2024-12-13 21:39:18 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Brinkman is the nice lady who tries to go through main points. I can see her trying to do better. But, the lecture materials are too content heavy with 76 pages in 1.5hours lecture. I would recommend her to emphasize things are critical rather than dumping too much slides. Hope she slows down since she goes way too fast.
+
+--- Rating #7 ---
+Class: MBB342
+Date: 2024-12-12 21:52:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Brinkman is one of the best profs I've had in MBB. She's very approachable and you can tell she tries her best to ensure the students are doing ok in her class. Her exams are not that hard as long as you reviewed bc everything is on the slide. The lab has step by step instructions that's pretty clear. Lab assignment is also not heavy load
+
+--- Rating #8 ---
+Class: MBB441
+Date: 2024-09-08 05:00:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took Bioinformatics with Dr. Brinkman. She is incredibly inspiring, bringing in various SMEs so we could engage directly with leading minds in the field. Her confident, clear lectures made complex topics easy to grasp, and I also admired her great sense of style. I wish I could take more courses with her!
+
+--- Rating #9 ---
+Class: BIOINFORMATICS
+Date: 2024-01-21 16:30:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I was so looking forward to the course but Dr. Brinkman completely disappointed.   Uninspiring class and professor.  I have nothing good to say about the course except I was happy when it was done.
+
+--- Rating #10 ---
+Class: MBB342
+Date: 2023-04-03 05:24:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Brinkman is really a nice and caring person but not good at teaching MBB 342. Perhaps the course is really boring and it is hard for students to memorize all the materials without really experiencing those techniques mentioned.
+
+--- Rating #11 ---
+Class: MBB342
+Date: 2022-11-09 22:28:26 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She seems nice enough but this course is so boring that it is making me rethink my major. Lab assignments are weighted very heavily with minimal guidance from the TA.
+
+--- Rating #12 ---
+Class: MBB342
+Date: 2020-07-07 06:35:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Mean, pretentious and unaccommodating. She will refuse to provide a logical reason for an arbitrary decision. If possible, I would pass on her courses.
+
+--- Rating #13 ---
+Class: MBB342
+Date: 2017-12-14 02:41:26 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She is really boring, but the course was also really boring. The grading is really weird because 40% of the grade comes from 56 marks worth of assignments. Of course the TA will not help much if at all. If this was an online course at least the teacher would not make relatively dry material more exhausting to understand. Very distracted in class.
+
+--- Rating #14 ---
+Class: MBB342
+Date: 2015-01-15 12:33:27 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Class was pretty easy, final exam was straightforward, she gives lots of hints over the semester. She cares about students and wants to make material relevant, but sometimes she blitzes over material too fast. Audio notes help. Take assignments seriously cause they're a big part of your grade. Nice lady.
+
+--- Rating #15 ---
+Class: BIOINFORMATICS
+Date: 2014-04-29 12:10:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Can be downright mean sometimes.  Not very fair either.
+
+--- Rating #16 ---
+Class: MBB342
+Date: 2014-04-23 18:44:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+As a whole, I think she is a good prof, and 342 was fairly easy. However, holy slides batman! She throws in like 75+ slides in a 1.5hr lecture, I think the important material could probably be communicated in half that. The course gives a good intro to bioinformatics, but really only scratches the surface.
+
+--- Rating #17 ---
+Class: MBB222
+Date: 2008-08-29 22:07:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She can be monotone at times but she is very nice and always asks for student feedback and responds accordingly.
+
+--- Rating #18 ---
+Class: MBB441
+Date: 2006-05-04 02:58:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+The course suppose to be helpful and easy, but somehow the logic doesn't really make sense. However, the average is A-, so i guess it's still worth to take...
+
+--- Rating #19 ---
+Class: MBB441
+Date: 2006-02-27 04:40:34 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+she doesn't explain things well, but who cares&#63;  the class avg was A-, so it's a must-take.
+
+--- Rating #20 ---
+Class: MBB441
+Date: 2005-12-09 03:36:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+confusing... unorganized teaching...

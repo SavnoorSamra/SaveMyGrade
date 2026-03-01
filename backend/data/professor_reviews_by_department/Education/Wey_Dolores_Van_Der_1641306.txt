@@ -1,0 +1,24 @@
+Professor: Dolores Van Der Wey
+Professor Legacy ID: 1641306
+Professor ID: VGVhY2hlci0xNjQxMzA2
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: EDUC837
+Date: 2017-12-29 16:23:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Honestly, a fairly easy class. Shes incredibly intelligent, but a little bit of a dull course. You get very, very little feedback on your work. If youre picking something for an elective in you MEd, keep that in mind.

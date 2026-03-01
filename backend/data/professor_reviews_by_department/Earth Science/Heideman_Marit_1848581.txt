@@ -1,0 +1,89 @@
+Professor: Marit Heideman
+Professor Legacy ID: 1848581
+Professor ID: VGVhY2hlci0xODQ4NTgx
+Department (CSV): Earth Science
+Department (Fetched): Earth Science
+Avg Rating: 1.7
+Avg Difficulty: 4
+Num Ratings: 6
+Would Take Again Percent: -1
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: EASC104
+Date: 2014-04-12 02:02:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I honestly don't understand these horrible ratings. I found her lectures interesting, they were easy to follow (and they were 3 hours long). What I did realize though is how many people underestimate the course itself. It is not quite the same as in highschool, only similar. Pay attention in class, and you won't really need the textbook much.
+
+--- Rating #2 ---
+Class: EASC101
+Date: 2013-12-16 16:12:40 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Not clear about expectations and the midterm was mostly complex questions about concepts she didn't even understand fully. Her final was much better for a 100 level class. Still, her attitude was very strict and unhelpful. For a 100 level course she honestly expected everyone to read the entire 19 chapter book and take notes on it. Avoid.
+
+--- Rating #3 ---
+Class: EASC101
+Date: 2013-12-07 20:17:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Terrible professor. Doesn't post lectures online for a course that is strictly memorization of information and figures. Average for the midterm is 50% but there is no scaling? What kind of 100 level course is this? AVOID AT ALL COSTS.
+
+--- Rating #4 ---
+Class: EASC101
+Date: 2013-12-07 20:14:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Pretty useless overall. Every time she went over something in lecture and someone asked a question about it, she would just repeat what she said earlier and to take a look at the book. Questions didn't feel encouraged during class at all. She also asks pretty tough questions for how briefly she goes over topics in class.
+
+--- Rating #5 ---
+Class: EASC101
+Date: 2013-12-03 20:27:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She seemed like she didnt want to be teaching, especially this class. I think she would be better in research or something that does not require much contact with students. It was difficult course to get a good grade in even though the material was not that complicated. Would not recommend taking any of her classes.
+
+--- Rating #6 ---
+Class: EASC101
+Date: 2013-12-02 15:46:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+By far the worst prof I have had. She often had no idea what she was talking about and confused everyone when she would try to explain herself. She did not respond well to questions and always avoided giving clear answers. Avoid this class like the plague. Never take a class with Marit. Labs were excellent and I owe my passing grade to the TA's.

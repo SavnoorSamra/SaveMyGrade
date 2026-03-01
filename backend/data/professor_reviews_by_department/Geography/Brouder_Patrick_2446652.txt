@@ -1,0 +1,37 @@
+Professor: Patrick Brouder
+Professor Legacy ID: 2446652
+Professor ID: VGVhY2hlci0yNDQ2NjUy
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 3.5
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: GEOG327
+Date: 2021-05-14 19:44:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+I really enjoyed this class. The switch to online was a bit tricky at first but I found that in all of my classes. I would recommend this prof and class to my friends.
+
+--- Rating #2 ---
+Class: GEOG327
+Date: 2020-04-30 04:27:15 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Patrick came across as a very nice and caring prof but did not end up living up to first impressions. He provided zero feedback on any assignment, marked unfairly, took a very long time to return deliverables, and did not respect students time. He dropped the ball during the change to online classes, and provided very little communication.

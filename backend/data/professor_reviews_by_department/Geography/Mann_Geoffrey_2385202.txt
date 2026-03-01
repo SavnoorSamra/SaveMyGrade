@@ -1,0 +1,11 @@
+Professor: Geoffrey Mann
+Professor Legacy ID: 2385202
+Professor ID: VGVhY2hlci0yMzg1MjAy
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

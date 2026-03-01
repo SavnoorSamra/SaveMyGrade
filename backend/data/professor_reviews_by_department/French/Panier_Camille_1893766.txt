@@ -1,0 +1,89 @@
+Professor: Camille Panier
+Professor Legacy ID: 1893766
+Professor ID: VGVhY2hlci0xODkzNzY2
+Department (CSV): French
+Department (Fetched): French
+Avg Rating: 4.3
+Avg Difficulty: 2.3
+Num Ratings: 6
+Would Take Again Percent: -1
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: FREN210
+Date: 2015-05-02 02:09:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Great Prof. Fun Lectures and very helpful. She is also very Pretty! Tests are still hard you have to pay attention to a lot of detail.
+
+--- Rating #2 ---
+Class: FREN210
+Date: 2014-12-09 01:25:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I love French classes in general but Camille was so sweet, kind and funny! She's really passionate about the language and I loved how she also learned English, so it's easy to communicate with her when you need clarification. I actually enjoyed coming to class twice a week - it helps that I had a small class as well. Would love to have her again!
+
+--- Rating #3 ---
+Class: FREN210
+Date: 2014-10-20 01:46:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great prof, never had so much fun in a class before.
+
+--- Rating #4 ---
+Class: FRENCH210
+Date: 2014-09-03 21:06:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Camille is a lovely teacher. She's super warm and friendly. She always made French class a lot of fun and even made us crepes for the last day. I hope I have her again in the future because she is so great
+
+--- Rating #5 ---
+Class: FREN210
+Date: 2014-04-26 15:00:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Camille is such an enthusiastic, helpful, and friendly prof. She comes to class every day with a smile and excitedness to teach, and she provides such easy to follow notes and exercises. Would take another class with her in a heart beat!
+
+--- Rating #6 ---
+Class: FREN210
+Date: 2014-04-22 23:22:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great class, great prof.  Really enjoyed the course.  The text book was expensive & we seemed to jump from chapter to chapter in an illogical order but apart from that, nothing to complain about.  The exams are fair, just need to study. Would recommend this prof for any French course!

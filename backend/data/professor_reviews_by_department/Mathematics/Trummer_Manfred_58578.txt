@@ -1,0 +1,271 @@
+Professor: Manfred Trummer
+Professor Legacy ID: 58578
+Professor ID: VGVhY2hlci01ODU3OA==
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2.2
+Avg Difficulty: 3.9
+Num Ratings: 100
+Would Take Again Percent: 32
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MACM316
+Date: 2020-08-21 05:55:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Caring, inspirational professor who cares about his students and the material presented. Spend time on the material he teaches, be curious, ask questions - he will be there to help you. Steep learning curve, but overall, best course I have ever taken. Learned a lot.
+
+--- Rating #2 ---
+Class: MACM316
+Date: 2020-08-18 05:40:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He is kind and cares about our success. His lectures aren't very comprehensible from the first go, however upon rewatching youtube videos at 1.5x speed the material becomes clear. Have I taken macm316 live I would probably be totally lost. Trummer is very considerate and he made sure we do OK during this hard covid time.
+
+--- Rating #3 ---
+Class: MACM316
+Date: 2020-08-18 01:00:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Certainly not really good at teaching but the course is quite difficult so don't expect to score great without studying. He is really considerate and goes out of his way to help the students!
+
+--- Rating #4 ---
+Class: MACM316
+Date: 2020-08-17 17:30:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Lectures were hard to followed, but if you read through the text, thing became clear. Quizzes,Midterm,Final were not difficult as long as you done Homework. The course itself was supposed to be hard, but our class average was much higher than previous classes. Expect spending more than 10 hours a week to get an solid A+.
+
+--- Rating #5 ---
+Class: MACM316
+Date: 2020-08-16 21:41:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+It is not an easy course but if you study hard, you can do a beautiful job. People can not expect a desired result if they don't even put effort on it. Go to office hour and tutorials, and post your questions on canvas discussions, Prof and TAs will come to help you very soon! They are quite supportive.
+
+--- Rating #6 ---
+Class: MACM316
+Date: 2020-08-16 21:34:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+First lectures regarding computer arithmetic were relatively hard to follow, however course content became a lot clearer when it came to the linear algebra and ODE sections. A very kind professor with regards to grading and the grade cutoff ranges were more than generous. Quizzes were a hit-or-miss, as some were very easy, while some very hard.
+
+--- Rating #7 ---
+Class: MACM316
+Date: 2020-08-16 21:26:03 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Not a really good lecturer to be very honest, but he's a caring and understanding guy. 4/10 teaching 10/10 boomer humour
+
+--- Rating #8 ---
+Class: MACM316
+Date: 2020-08-16 21:18:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I came in with very low expectations due to the reviews on here, but ended up having a great learning experience. THE most caring and generous professors I've ever had. His lectures can be difficult to follow and he does often assume his students know more than they do. But he makes up for this with generous office hours and grading.
+
+--- Rating #9 ---
+Class: MACM316
+Date: 2020-08-15 22:32:23 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Although his lectures were a little fast, and some things could be explained better, he was a wonderful person overall. If you have any questions, he's always willing to go over things in more detail, which in my eyes makes up for the sometimes questionable lecture quality.
+
+--- Rating #10 ---
+Class: MACM316
+Date: 2020-08-07 17:27:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+4/10 Teaching 9/10 Boomer humor
+
+--- Rating #11 ---
+Class: MACM316
+Date: 2020-07-07 18:32:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Incredibly hard to follow the lecture, prof does outright horrible job of explaining subject matter. Logical leaps are often made and he takes it for granted that students understand the material better than they do in reality. First math course I have ever had difficulty with. Textbook is written by him and still awful, but better than lecture.
+
+--- Rating #12 ---
+Class: MACM316
+Date: 2020-06-17 18:06:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Greater researcher; terrible lecturer. He's a nice guy, but he teaches the material like you already know it. Lectures are mandatory for iClicker marks, but otherwise useless. The class textbook is written him and skips many crucial details and explanations. I'm staying afloat by using YouTube. Take MACM 316 with literally anyone else.
+
+--- Rating #13 ---
+Class: MACM316
+Date: 2020-06-08 20:00:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+While he is a very nice man he has made this class a nightmare. His lectures are only useful for the iclicker marks. His assignments are difficult and marked extremely hard. His textbook is by him and will skip steps with &quot;we can easily see that X becomes Y&quot; so it is as worthless as the lectures. He makes an already difficult class impossible.
+
+--- Rating #14 ---
+Class: MACM316
+Date: 2020-06-06 08:10:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He comes off as a very nice and friendly person. But sometimes I wonder if he is just inept at teaching or trying to sabotage my learning experience. During lectures, he would be mumbling and twisting the simplest concepts or algorithms into something completely incoherent. Same goes for his lecture notes and his textbook. Avoid him at all cost!
+
+--- Rating #15 ---
+Class: MACM316
+Date: 2020-05-30 02:56:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is a nice guy personally, but not good at explaining concepts. He uses his own textbook, written by him which has lots of confusing words. I used to be A+ in calculus and algebra. His course is not self-learnable. No thorough explanations, poor choice of textbook, no way to check how hw&amp;quiz answers are derive. Don't gamble with this instructor!
+
+--- Rating #16 ---
+Class: MACM316
+Date: 2020-05-24 21:13:55 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Honestly a very nice and lovely man. it was such a shame that some students were fooling around in the chats and distracted his lectures sometimes (online class). however he doesn't explain everything. my suggestion for people who are gonna take a course with him is to DEFINITELY read textbook BEFORE EACH LECTURE to understand. ITS CRITICAL TO DO!!
+
+--- Rating #17 ---
+Class: MACM316
+Date: 2020-05-22 17:23:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I have started this class and I can already see this man cannot teach. He clearly knows what he is doing but he is completely inept at transferring that knowledge to others. His textbook (written by him) is the same incoherent mess he calls lecture notes so the internet is required. Stick to research Manfred, leave teaching to better professors.
+
+--- Rating #18 ---
+Class: MACM316
+Date: 2020-05-20 18:40:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He does'nt teach well dont take him EVER Period
+
+--- Rating #19 ---
+Class: MATH152
+Date: 2019-05-26 00:34:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Manfred is not a very good prof if you are someone who learns better when someone is delivering the material to you. He doesn't speak clearly and I can understand why a lot of people did not do very well in this class. I was able to pull off a decent grade by studying on my own and using the textbook.
+
+--- Rating #20 ---
+Class: MATH152
+Date: 2019-04-10 13:22:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+There is literally no point in attending Trummer's lectures (besides the clicker marks). He has the handwriting of your family physician even though his course is a severe detriment to your health. His extremely unconcise explanations leave you more confused than before. Worse yet, Webassign cannot make a decent video to save their life.

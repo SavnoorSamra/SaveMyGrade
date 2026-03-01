@@ -1,0 +1,167 @@
+Professor: Lisa Sterling
+Professor Legacy ID: 1195049
+Professor ID: VGVhY2hlci0xMTk1MDQ5
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 2.9
+Avg Difficulty: 3.7
+Num Ratings: 12
+Would Take Again Percent: -1
+
+Ratings Count Returned: 12
+
+--- Rating #1 ---
+Class: EDUC464
+Date: 2011-01-07 16:11:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Although it is a &quot;seminar&quot; course, she makes it seem like a lecture class. So if you don't want to talk, there isn't a pressure. Her classes can be boring but her exams are super easy. She tells you what to study for and there are no surprises in her exam. Take her class. It could be your GPA booster!
+
+--- Rating #2 ---
+Class: EDUC464
+Date: 2010-12-10 22:02:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Lisa, is a really nice person. She is highly educated (she went to harvard!). However, classes where extremely boring and you learn very little. Just read the book, and you will be fine. She means really well. Fantastic lady!
+
+--- Rating #3 ---
+Class: ECE464
+Date: 2010-11-03 22:56:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+course is interesting, and prof really cares about students!
+
+--- Rating #4 ---
+Class: ECE464
+Date: 2010-10-30 18:39:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+very student centered, best teacher i ever had!
+
+--- Rating #5 ---
+Class: EDUC464
+Date: 2010-10-30 18:30:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+great professor
+
+--- Rating #6 ---
+Class: EDUC464
+Date: 2010-10-30 18:29:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+best teacher i ever had!!!
+
+--- Rating #7 ---
+Class: EDUC220
+Date: 2010-10-30 18:21:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+excellent
+
+--- Rating #8 ---
+Class: EDUC464
+Date: 2009-07-24 22:37:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+she is the reason why university profs should have a teaching degree! she can not teach! very unclear. shes confused all the time, very disorganized, doesn't listen to the students and keeping pushing her put. talks about how educated she is! doesnt seem to understand what she is trying to teach. AVOID HER! I warned you!
+
+--- Rating #9 ---
+Class: EDUC464
+Date: 2009-07-21 16:02:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+OMG! I cant believe they let her teach! She talks about how she went to NY film academy all the time. She is disorganized and can not teach. Very confusing to understand what her expectations are for the exams, in class activities or research paper. She doesn't listen and is very Confused! do not take a class with her!!
+
+--- Rating #10 ---
+Class: EDUC220
+Date: 2009-03-29 14:49:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+The lectures were absolutely useless, they came straight from the textbook, even her examples. She barely seemed to understand what she was teaching - a student could have done a better job. Ironically, she's teaching students how to teach... well, here's a tip - don't take any lessons from her!!!
+
+--- Rating #11 ---
+Class: EDUC220
+Date: 2009-02-11 15:52:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Lisa is a terrible lecturer. She uses the word &quot;um&quot; a lot and cannot go one sentence without saying it. Her resume is very good but when it comes to teaching, she doesnt sound like she knows what she's talking about and makes you wonder how she even went to a high end university.
+
+--- Rating #12 ---
+Class: EDUCEDUC
+Date: 2008-12-15 09:38:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Lisa has an incredible resume. However, her teaching ability does not reflect it in the least. She has a pleasant personality but her lecturing is convoluted and innane. She doesn't make eye contact and doesn't seem to have any true grasp or understanding of what she is teaching.

@@ -1,0 +1,89 @@
+Professor: Dennis Krebs
+Professor Legacy ID: 305138
+Professor ID: VGVhY2hlci0zMDUxMzg=
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 4.7
+Avg Difficulty: 2.8
+Num Ratings: 6
+Would Take Again Percent: -1
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: PSYC482
+Date: 2009-06-18 19:10:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Dr. Krebs is one of the best teachers I've ever had. He is genuinely enthusiastic about the material, and teaching it. You can tell he wants to bring out the best in all his students. He is respectful of everyone's opinion, and likes a good discussion. SFU is lucky to have such a wonderful professor, I wish I could take another class with him!
+
+--- Rating #2 ---
+Class: PSYC385
+Date: 2009-04-28 16:37:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great prof. Absolutely fantastic and very fair marking. Pretty funny too. The course is a lot of material tough so be prepared to read and make sure you understand all the concepts. To be fair he's probably one of the best profs I've ever had.
+
+--- Rating #3 ---
+Class: PSYC491
+Date: 2007-05-05 17:30:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+One of the very best professors I have ever had. Extremely helpful, and you learn a lot. I'm going to miss him!
+
+--- Rating #4 ---
+Class: PSYC491
+Date: 2006-09-29 14:01:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+AMAZING prof! Probably the best I've ever had. He is very open to other views and encourages critiques of his work. I asked him a question about a particular topic and he came back the next class with a whole article on it photocopied for me! Very caring, very clear, and amazing overall:)
+
+--- Rating #5 ---
+Class: PSYC452
+Date: 2005-04-10 01:23:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Amazing prof.  Too bad he is leaving for a while, because I would take another class from him in a second.  Made this class very interesting and I actually learned a lot.  I totoally recommend him!!
+
+--- Rating #6 ---
+Class: PSYCH482
+Date: 2003-12-01 14:24:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Dr. Krebs knows his stuff inside, outside, backwards, and in the dark. Make sure you have done your readings if you disagree with his point of view. Great class

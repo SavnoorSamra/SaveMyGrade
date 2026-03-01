@@ -1,0 +1,271 @@
+Professor: Serdar Kaya
+Professor Legacy ID: 1909385
+Professor ID: VGVhY2hlci0xOTA5Mzg1
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 3.2
+Avg Difficulty: 3.6
+Num Ratings: 40
+Would Take Again Percent: 45.4545
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: lbst201
+Date: 2025-12-06 23:33:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Serdar is a outstanding professor, who excels both academically and personally! Serdar is very knowledgeable, and you can learn a lot of knowledge in his classes. The feedback given on the assignments was very insightful. Serdar is also very patient with his students.
+
+--- Rating #2 ---
+Class: IS210
+Date: 2025-05-02 04:42:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Gives good feedback
+
+--- Rating #3 ---
+Class: IS210
+Date: 2025-03-22 18:29:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Honestly an embarrassment for SFU. Most disorganized, confusing, stressful online class I've ever taken. Super vague criteria. Expects students to dedicate their whole lives to a 3 credit course. Midterm took 9 hours and a lot of crying. Don't take it you value your mental health because it's clear he doesn't value the health of students.
+
+--- Rating #4 ---
+Class: IS210
+Date: 2025-02-20 07:22:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+The most vague criteria I've ever experienced in any class. Literally gives one line rubrics and always expects students to go so above and beyond for an A grade. Such limited word limits and limited criteria. Words the assignments so confusing too. Ruined my mental health and gave me several breakdowns.
+
+--- Rating #5 ---
+Class: IS300
+Date: 2023-04-09 18:01:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Taking this course with professor Kaya was one of the most informative courses ive ever taken during my university career. His lecture style is super engaging and he has a great sense of humour. Also great taste in music! Hes an amazing professor and I recommend taking a course with him if you can. He is a very fair grader as long as you work hard.
+
+--- Rating #6 ---
+Class: IS300
+Date: 2023-02-04 22:43:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Developed heart pain and severe anxiety as a result of the stress i got from this class. Had to go to the hospital from the amount of stress i was feeling.
+
+--- Rating #7 ---
+Class: IS300
+Date: 2023-02-04 22:41:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Worst professor ive ever had in my IS degree. Felt so anxious going to every single one of his classes, he is extremely old school. NO electronics, no raising ur hand, dont come 1 minute late, extremely non-leanient with his grading. Has a sense of humour but youll never laugh at any of his jokes because of how depressed you'll feel in that class.
+
+--- Rating #8 ---
+Class: IS300
+Date: 2022-05-23 22:05:06 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor Kaya made sure to get the point across that students often aren't taught to write research papers or write in general until it necessary which I would agree. Lectures are not the most fulfilling and often have to use office hours to get a clearer understanding. Zoom appointments outside office hours were not made an option for me.
+
+--- Rating #9 ---
+Class: IS300
+Date: 2021-04-27 01:16:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+No clear criteria, bunch of readings (irrelevant to the course material), never accessible outside class (request for zoom office hour? you'd never get it). please avoid
+
+--- Rating #10 ---
+Class: POL100
+Date: 2020-12-20 06:50:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+his lectures are not very engaging and kind of hard to understand. I don't think his marking was bad (he only marked the final), if you follow the criteria you should get a good mark. Marks were based on tutorial participation, a presentation, and the rest were all writing assignments, so it was not too hard to get a good mark if you worked hard.
+
+--- Rating #11 ---
+Class: POL100
+Date: 2020-09-03 00:38:44 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Nice guy and knows his material well. His lectures are boring but its a politics class so it is expected. Tutorial consisted of 2 presenters a week and small groups answering a question then reporting back to the class. Really tough grading for a first-year class but that is more the TA's. Overall mediocre class.
+
+--- Rating #12 ---
+Class: POL100
+Date: 2020-08-13 18:04:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures were monotone and assignments were graded harder than my 4th year classes. Made up fake SFU protocols so he didnt have to tell us more info about the final. Told us many times that he was trying to prepare us for upper level classes but as someone who has taken many of those, his class was one of the hardest Ive ever done.
+
+--- Rating #13 ---
+Class: IS210
+Date: 2020-05-13 08:59:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+His lectures were not clear and easy to understand. Read the textbook! He made funny jokes in lectures which made everyone giggle. I recommend doing the practice questions he assigns for the midterm to do well. All assignments were graded very strictly making it difficult to get more than a pass. This was the hardest IS course I've taken so far.
+
+--- Rating #14 ---
+Class: IS210
+Date: 2020-05-08 23:08:25 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Professor Kaya is a good professor! He's passionate about what he's teaching and wants you to succeed. I found the lectures interesting, he sometimes goes off on tangents, but pay attention as he makes very good points. I found the class to be difficult, but fair. Make sure to start working on any research paper he assigns ahead of time.
+
+--- Rating #15 ---
+Class: IS210
+Date: 2020-05-05 09:46:29 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Not the best lecturer, most lectures are based off reading of slides. Found lectures to be sometimes tedious and long however I do respect the amount of breaks he gave us. Tough grader, probably did the worst I've ever done in an IS course.
+
+--- Rating #16 ---
+Class: IS210
+Date: 2020-05-01 22:41:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+My favorite prof in IS so far! He's a really nice guy and I enjoyed his lectures so much. The class was very interesting and I learned a lot from him. Lecture slides are not as detailed so you really have to come to class to take full notes. Overall a great experience for me.
+
+--- Rating #17 ---
+Class: IS210
+Date: 2020-04-05 23:46:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Professor is difficult to listen to (in the sense that his presentation is not engaging). Not as detailed in his lectures in comparison to other IS professors/courses. Attending lectures felt irrelevant and a waste of time. When asked questions he did not seem to be fully equipped to answer them. Nice guy, but not the greatest lecturer.
+
+--- Rating #18 ---
+Class: POLI1125
+Date: 2020-04-04 06:26:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Best teacher in my life, very respectful and very funny. the lecture is kind of bored but he is a good teacher that really care about his students. will take his class again, test is quiet hard but he is very supportive and will take his time talk to students. love him
+
+--- Rating #19 ---
+Class: IS210
+Date: 2020-02-19 03:16:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Awesome and very learned professor.
+
+--- Rating #20 ---
+Class: POLI1120
+Date: 2019-12-05 19:24:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+One of the best profs I've ever had! He is a fantastic teacher; he prepares his classes really well and explains everything making sure everybody understands it. His feedbacks are well detailed, and he is helpful when answering questions in class/office hours. I learned a lot from him, and I'd definitely take another course. Also, he is funny :)

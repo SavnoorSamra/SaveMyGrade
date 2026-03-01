@@ -1,0 +1,141 @@
+Professor: Ena Lee
+Professor Legacy ID: 1803893
+Professor ID: VGVhY2hlci0xODAzODkz
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.6
+Avg Difficulty: 2.4
+Num Ratings: 10
+Would Take Again Percent: 83.3333
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: EDUC382
+Date: 2023-04-28 20:02:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ena is a very caring and kind hearted prof in many aspects. She created a fantastic learning environment that everyone benefited from. The only downside to Ena was that she disapproves the use of Canvas for some reason and makes everything hard copy/in-person to which I didn't like. Despite all this, she is great prof and I thoroughly recommend
+
+--- Rating #2 ---
+Class: EDUC382
+Date: 2022-08-05 17:20:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Best professor I've ever had!  Dr.Lee is so incredibly passionate and knowledgeable.  The way she approaches education is refreshing and makes you want to lean in to any subject she speaks about.  I would100% recommend taking anything she teaches, it will change you!
+
+--- Rating #3 ---
+Class: EDUC382
+Date: 2021-12-26 07:01:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Ena gives wonderful feedback and is a fair marker. I had her during the height of the pandemic and she was extremely accomodating and caring! she did a lot of breakout room times to promote discussion about the readings. she's a passionate and extremely positive person.
+
+--- Rating #4 ---
+Class: EDUC382
+Date: 2020-12-15 03:31:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+educ 382 was such a great class! ena was a wonderful professor, she understands the struggles that students go through and caters everything for us. she even cancelled an assignment for us because the majority of the class was flooded with assignments and exams from various classes! she also gives amazing feedback on your papers
+
+--- Rating #5 ---
+Class: FALX99
+Date: 2019-11-26 03:11:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Ena is one of my favorite professor at SFU. She is very kind and passionate about the classes she teaches. Moreover, she is not only dedicated to ensuring that you become successful in her class but throughout your writing in your academic career. Going to her office hours helped a lot as she'll clarify mistakes and errors in your writing.
+
+--- Rating #6 ---
+Class: FALX99
+Date: 2018-08-18 12:20:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Too into identity politics. Talks too much about one point. Lots of passion though.
+
+--- Rating #7 ---
+Class: FALX99
+Date: 2016-04-05 04:31:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Ena gives A LOT OF GREAT FEEDBACK and encourages you to ask any questions you have. She is really kind & helpful, and she gives clear grading criteria on assessments. If I could, I would take a course with her again. Overall, she can be your instructor, your counsellor, AND even your friend. Best prof I've met so far at SFU! Totes recommend! :)
+
+--- Rating #8 ---
+Class: FALX99
+Date: 2013-09-07 01:19:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Best FAL NA
+
+--- Rating #9 ---
+Class: FALX99
+Date: 2013-09-05 02:29:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She's very nice and very helpful
+
+--- Rating #10 ---
+Class: FALX99
+Date: 2013-07-03 00:43:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+best prof , very down to earth , willing to explain anything you don't understand even if it has nothing to do with the material. one of those prof that would never make you feel stupid , truly cares about each and every student .

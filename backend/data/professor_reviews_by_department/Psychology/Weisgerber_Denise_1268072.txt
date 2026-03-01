@@ -1,0 +1,11 @@
+Professor: Denise Weisgerber
+Professor Legacy ID: 1268072
+Professor ID: VGVhY2hlci0xMjY4MDcy
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

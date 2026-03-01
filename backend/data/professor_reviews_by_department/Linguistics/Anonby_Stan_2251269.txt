@@ -1,0 +1,24 @@
+Professor: Stan Anonby
+Professor Legacy ID: 2251269
+Professor ID: VGVhY2hlci0yMjUxMjY5
+Department (CSV): Linguistics
+Department (Fetched): Linguistics
+Avg Rating: 4
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: LING160
+Date: 2017-04-26 10:10:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Professor Anonby is very passionate and knowledgable about sociolinguistics. However, he is a little disorganized, and some of his ideas are quite obviously biased. He does have a lot of really interesting stories though, and a lot of experience in the field. I would recommend him if you are interested in this area.

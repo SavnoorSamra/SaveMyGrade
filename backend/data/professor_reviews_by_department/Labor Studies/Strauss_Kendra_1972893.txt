@@ -1,0 +1,193 @@
+Professor: Kendra  Strauss
+Professor Legacy ID: 1972893
+Professor ID: VGVhY2hlci0xOTcyODkz
+Department (CSV): Labor Studies
+Department (Fetched): Labor Studies
+Avg Rating: 4.4
+Avg Difficulty: 2.2
+Num Ratings: 14
+Would Take Again Percent: 100
+
+Ratings Count Returned: 14
+
+--- Rating #1 ---
+Class: LBST100W
+Date: 2025-12-10 06:25:14 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Kendra was a kind professor, and the course content was easy to grasp. Lectures can be difficult to follow, but they mainly cover the readings anyway. Participation (as in discussion posts) and attendance are weighted heavily, so I would definitely recommend going to class. Honestly, if you understand the gist of the course it's easy to do well
+
+--- Rating #2 ---
+Class: LBST101
+Date: 2024-12-15 19:09:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Kendra Strauss is a decent prof. Much of the course is participation and easy marks, but the final is 2 essays in a 36 hour timeframe before the semester is even over, which is ridiculous. That aside, the course is really reading and writing heavy, and the readings are overall pretty boring tbh. Course should really be labelled LBST 101W
+
+--- Rating #3 ---
+Class: LBST101
+Date: 2024-12-14 23:17:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Amazing. Absolutely amazing. Coming from a STEM background, Dr. Strauss's teaching style made concepts stick in my brain. I found myself reflecting on my day to day life, and Kendra really emphasized reflection and application of course concepts. if you take notes, finish assignments on time, its easy to do well.
+
+--- Rating #4 ---
+Class: LBST306
+Date: 2024-04-21 22:43:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+(for 311) Kendra is an excellent professor who really cares about her students and the subjects she teaches. Her lectures are very engaging and interesting. She is a generous marker and rewards effort. Some of the readings are heavy but she puts extra effort on these in the lectures.
+
+--- Rating #5 ---
+Class: LBST101
+Date: 2022-12-07 18:25:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Professor Strauss is an excellent and knowledgeable instructor. Her passion for her subjects is contagious, her lectures are relevant and interesting. HIghly recommend taking any of her classes.
+
+--- Rating #6 ---
+Class: LBST100W
+Date: 2021-12-11 22:11:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+This class was super interesting and Dr. Strauss is probably one of my favourite profs!! She is super caring, approachable and gives good feedback. Her marking is fair as long as you put effort into your work. Would highly recommend this course if you are interested in the issues that arise from capitalism and how it impacts inequalities at work.
+
+--- Rating #7 ---
+Class: GEOG328
+Date: 2019-10-22 20:55:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Kendra is hands down my favourite SFU prof. She's always accessible for extra help, and puts in the work both in and out of class to make sure students understand the material. While there are a lot of readings, the subject matter is interesting and current (think entrepreneurs in Silicon Valley). Would take all courses with her if possible.
+
+--- Rating #8 ---
+Class: LBST101
+Date: 2019-04-12 06:56:58 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Online class with excessive amounts of readings each week. 4 textbooks but you can go through the class without opening 3 of them until the open book final. Papers and discussion questions allow for easy marks.
+
+--- Rating #9 ---
+Class: GEOG328
+Date: 2017-12-13 02:13:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Kendra's lectures are very informative and she connects a lot of lectures to the readings, so make sure you're on top of them. She's an excellent speaker, very clear and concise and she simplifies theories or ideas that are hard to grasp. Her feedback on all assignments and tests given were understandable and she really tells you how to improve.
+
+--- Rating #10 ---
+Class: LBST306
+Date: 2017-04-19 19:41:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Kendra is wonderful prof. Although the course is reading-intensive, she makes the subject matter interesting. She is always available for help, and makes sure that you understand the subject  before moving on. Her feedback on graded work is extensive, and is geared towards helping you improve and succeed in the class.
+
+--- Rating #11 ---
+Class: LBST306
+Date: 2015-12-14 21:41:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor Strauss is the best professor I ever had in SFU. She explains her lectures very clearly and she is really friendly that wants her students to do well. The way she marks your midterms or final paper gives you a sense of encouragement that makes you want to do better every time. Highly Recommend this professor!
+
+--- Rating #12 ---
+Class: LBST101
+Date: 2015-06-26 20:19:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Kendra is wonderful!!!! One of the best profs and best classes I've ever had. She is incredibly smart, kind, clear and helpful. I loved LBST 101 - it was so interesting and so easy.
+
+--- Rating #13 ---
+Class: LBST101
+Date: 2015-03-08 20:38:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Kendra is an amazing lady. You can tell how smart she is. You really feel like she's teaching you. She's friendly and helpful. Everything is clear, the assignments and tests are literally so easy. She makes you think about labour and work in a different way.
+
+--- Rating #14 ---
+Class: LBST101
+Date: 2015-01-05 04:40:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+EASY TO GET A.

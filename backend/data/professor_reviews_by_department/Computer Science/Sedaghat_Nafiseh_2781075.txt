@@ -1,0 +1,230 @@
+Professor: Nafiseh Sedaghat
+Professor Legacy ID: 2781075
+Professor ID: VGVhY2hlci0yNzgxMDc1
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1
+Avg Difficulty: 4.4
+Num Ratings: 16
+Would Take Again Percent: 6.25
+
+Ratings Count Returned: 16
+
+--- Rating #1 ---
+Class: CMPT310
+Date: 2022-04-20 04:19:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I had so much motivation coming into this course to learn about AI and this prof has put a bad taste in my mouth. This course felt like a scam and I did not learn anything. Most of the lectures and assignments were an exact copy of UC Berkeley CS 188 and it wasn't even taught well by this prof, I had to watch UC Berkley's lectures on YouTube.
+
+--- Rating #2 ---
+Class: CMPT310
+Date: 2022-04-17 01:26:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very disappointed with the course and with SFU for having her teach it. I was excited to learn more around the topic of AI but this professor made it a terrible experience. Stay away at all costs.
+
+--- Rating #3 ---
+Class: CMPT310
+Date: 2022-04-15 23:49:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She did not invest any effort in teaching this course, she copied all her lecture material from UCB and her english is so bad you can't understand a word in her lectures.There is no use of attending her class, she does not care at all about her students and her teaching. She is a copy-paste being,SFU ruined the future of this course by hiring her.
+
+--- Rating #4 ---
+Class: CMPT310
+Date: 2022-04-08 00:49:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sedaghat: I get paid for ctrl-c and ctrl-v.
+Nelsen: Pathetic, I get paid terrorizing broke university students
+
+--- Rating #5 ---
+Class: CMPT310
+Date: 2022-04-07 23:01:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Do yourself a favour and stay away from her. SFU should know better than to hire unknowledgeable and 
+inexperienced professors to teach a 3rd-year course. She is unorganized and unresponsive and not accessible after class. She can't even teach the lectures she directly copies from UC Berkeley, not to mention her English is mid at best.
+
+--- Rating #6 ---
+Class: CMPT310
+Date: 2022-04-07 22:07:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+1) Instructions for assignments are vague. Can be changed on a whim, depending on her mood. Example: announcing mandatory presentations two days in advance. 
+
+2) Lectures aren't engaging or very helpful. You will need to learn material on your own with outside resources. 
+
+3.) Assignments are stupidly long and difficult. Prepare to cry.
+
+--- Rating #7 ---
+Class: CMPT310
+Date: 2022-04-07 06:25:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Shes very unorganized with her scheduling, not only with lectures, but also assignments. She released a 18 page assignment covering things she never taught in the last week.
+She's also not accommodating at all during COVID times, and doesn't accept sick notes from non SFU doctors.
+
+--- Rating #8 ---
+Class: CMPT310
+Date: 2022-04-07 00:14:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The prof copies her entire lecture from UC Berkely CS 188 but in an extremly dry, uninteresting and rough way. As a result, assignments are a pain to slog through. In addition to surprise group presentations with 2 days notice.
+
+She's not cruel or malicious, just inexperienced. Which makes this course a terrible experience
+
+--- Rating #9 ---
+Class: CMPT310
+Date: 2022-04-06 19:50:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Material was copied from UC Berkeley and had minimal to no changes. The pacing in the beginning was very slow and we took that for granted, at the end she speed ran the rest of the material.  Beware of pop final project presentations. Also sent a really long homework out of nowhere that is on very rushed material, which is also due during finals
+
+--- Rating #10 ---
+Class: CMPT310
+Date: 2022-04-06 19:49:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She's the most unorganized and unengaged prof I have ever had. She just copies slides from other universities and still can't teach the material. Save your money and google the material, you'll learn more than she could ever teach. She ran out of time at the end of the term and loaded us with a 20-page assignment on material she hasn't taught yet.
+
+--- Rating #11 ---
+Class: CMPT310
+Date: 2022-04-06 18:45:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+This is the most immersive class I have ever taken. They actually got an AI to teach us intro to AI. Unfortunately, this AI is clearly still in its early stages of training. Can't recommend her to anyone until she has finished her training. Shame on SFU for making us the training set.
+
+--- Rating #12 ---
+Class: CMPT310
+Date: 2022-04-06 10:01:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+A waste of time and money
+
+inst,eecs,berkeley,edu
+
+--- Rating #13 ---
+Class: CMPT310
+Date: 2022-04-06 04:51:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+First off she copies everything from CS188 from Berkeley, including all her slides and assignments. Unfortunately, the quality of teaching was nowhere near that level. Furthermore, we were given less than a days  notice that we had to give a live presentation of our final project. PainChamp
+
+--- Rating #14 ---
+Class: CMPT310
+Date: 2022-04-06 04:47:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Offers no educational value. Lectures didn't help with assignments had to google a lot of them or other classes just taught them better. It was more useful to watch youtube videos than attend her lectures that the majority of the class just didn't attend. Made last-minute changes to presentations a day before and didn't publicly announce them.
+
+--- Rating #15 ---
+Class: CMPT310
+Date: 2022-04-06 03:23:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+She teaches very little in class, and few people actually go to class. She uses UC Berkeley's class materials directly, but she teaches poorly. The exam was very difficult.
+
+--- Rating #16 ---
+Class: CMPT310
+Date: 2022-03-23 00:41:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+First, her English is so bad that her browser's favorites even have the folder Learning English. Secondly, the course content is an exact copy of UC Berkeley's CS188. Third, she cannot explain the content in UC Berkeley's slides. Fourth, the content is very easy based on what she teaches, but the assignments and exams are very difficult.

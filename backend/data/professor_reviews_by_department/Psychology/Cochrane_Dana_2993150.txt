@@ -1,0 +1,50 @@
+Professor: Dana Cochrane
+Professor Legacy ID: 2993150
+Professor ID: VGVhY2hlci0yOTkzMTUw
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 3.7
+Avg Difficulty: 1.3
+Num Ratings: 3
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: PSYC391D300
+Date: 2024-08-05 04:10:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dana is one of the best profs I've had at SFU. She's fair and I can tell she cares about her students. I didn't have any problem understanding the material/lectures, very straightforward. She discussed a lot about grad school for clinical psyc and tips which is very helpful and not many profs do that. Feedback/questions were encouraged
+
+--- Rating #2 ---
+Class: PSYC391D300
+Date: 2024-08-02 17:50:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+391 with dana was one of the easiest UD psyc courses I've taken. Lectures are kind of boring but the assignments are super easy! only 3 exams non cumulative and no final! She emphasizes the textbook for the exams, but I didn't read a single page and got above average. dana and raj are both super nice. Highly recommend!!
+
+--- Rating #3 ---
+Class: PSYC391D300
+Date: 2024-07-31 14:57:04 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dana wasn't that nice compared to Raj (TA) like when you approach her to ask questions she gave off a degrading attitude. She also just reads off her notes for 3 hours. Every week you're expected to submit a freewrite of minimum 150 words for participation, but she allows 4 skips which is pretty lenient.

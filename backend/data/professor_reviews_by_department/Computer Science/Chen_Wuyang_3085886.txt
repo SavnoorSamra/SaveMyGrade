@@ -1,0 +1,11 @@
+Professor: Wuyang Chen
+Professor Legacy ID: 3085886
+Professor ID: VGVhY2hlci0zMDg1ODg2
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 5
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

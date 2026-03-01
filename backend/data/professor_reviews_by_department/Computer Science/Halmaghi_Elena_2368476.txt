@@ -1,0 +1,37 @@
+Professor: Elena Halmaghi
+Professor Legacy ID: 2368476
+Professor ID: VGVhY2hlci0yMzY4NDc2
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3
+Avg Difficulty: 4
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: MATH151
+Date: 2022-07-07 06:36:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is the worst teacher one can have for math. Gives long assignments filled with lengthy questions, then asks tough questions on the exam and refuses to elaborate on the criteria based on which she assigns students marks. She blatantly asks us to watch videos of another prof at SFU named Jamie, even during class. Nothing is covered during class.
+
+--- Rating #2 ---
+Class: MATH151
+Date: 2021-04-19 18:58:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great

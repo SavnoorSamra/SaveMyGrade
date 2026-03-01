@@ -1,0 +1,279 @@
+Professor: Halil Erhan
+Professor Legacy ID: 1366292
+Professor ID: VGVhY2hlci0xMzY2Mjky
+Department (CSV): Interactive Media Design
+Department (Fetched): Interactive Media Design
+Avg Rating: 1.8
+Avg Difficulty: 4.1
+Num Ratings: 42
+Would Take Again Percent: 16.2162
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: IAT106
+Date: 2025-12-15 02:53:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He has highly unrealistic standards for first years, especially for a class that he is not very qualified to teach. The final project was less spatial thinking and more engineering knowledge-based, and his feedback just made the projects worse rather than improving them. GL
+
+--- Rating #2 ---
+Class: IAT106
+Date: 2025-12-09 01:45:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Abysmal communication between professor, TA, and students. Randomly changes project guidelines a week from the deadline. He seems knowledgeable in his field but is incapable of effectively teaching with expectations far too high for first-years. Very few topics on the final were actually covered extensively in assignments.
+
+--- Rating #3 ---
+Class: IAT106
+Date: 2025-12-07 06:17:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This course has been disorganized, stressful, and not supportive. Expectations are too high for first-year students, deadlines are tight, and guidance is unclear. The final exam even included topics that were never taught. It feels like we were set up to fail instead of being given a fair chance to learn. Not to add the high ego the guy carries.
+
+--- Rating #4 ---
+Class: IAT106
+Date: 2025-12-07 04:10:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Majority of the class failed the final project. Bad professor.
+
+--- Rating #5 ---
+Class: IAT106
+Date: 2025-12-07 04:10:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Nah this guy might be the biggest college student opp known the man. whole class failed this guys class cause he's genuinely just an ass prof. avoid at all costs. !!!!
+
+--- Rating #6 ---
+Class: IAT106
+Date: 2025-12-06 09:45:01 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I believe Halil has the capacity to be a good, even, great instructor, but he needs to be more practical about expectations and his own lessons. If your entire class is unable to meet the basic requirement of your final project, that is clearly an issue with your own instructions. Don't expect to get tangible feedback. Rely on readings.
+
+--- Rating #7 ---
+Class: IAT106
+Date: 2025-12-06 05:17:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's a good person but HORRIBLE professor. He told us to solve the problem ourself and give a very bad critique. For his CAD quiz, it's hard (for me) and he told us to make a walker with a rubber band and the lecture slides is not clear
+
+--- Rating #8 ---
+Class: IAT106
+Date: 2025-12-05 02:14:43 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Halil shows poor communication skills that often left us wondering about project specifications. He commonly claims to have discussed assignment details in class that were never actually brought up. Feedback as well is inconsistent, with little actual advice/clarification given. The course itself is interesting, but made unenjoyable by the prof.
+
+--- Rating #9 ---
+Class: IAT106
+Date: 2025-12-03 22:10:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Poor communication, high expectations. Sent us to a CAD tutorial that didn't exist,  clarified in response to my email about it, but never made a larger correction in Canvas or class. Overly ambitious final project, not easily doable with the amount of instruction given in class. Regularly answers questions with "use your spatial thinking skills."
+
+--- Rating #10 ---
+Class: IAT106
+Date: 2025-12-03 02:17:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+DO NOT TAKE ANY COURSES WITH THIS PROFESSOR. I hope I fail this fall and get to retake IAT106 again because there were many topics that interested me. 
+
+
+
+Another comment. I also got a comment from one of my assignments that just said "no" with a mark of 0/5 so that was some very awesome and nice feedback.
+
+--- Rating #11 ---
+Class: IAT106
+Date: 2025-12-01 20:45:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Halil is a nice person, but a HORRIBLE prof. His final project was literally impossible (a wooden robot powered by a rubber band) with zero examples or guidance, which no one could achieve. Homework is extremely time-consuming, with no answer keys and little online help. Never taking a class with him again.
+
+--- Rating #12 ---
+Class: IAT233
+Date: 2025-10-30 05:51:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Descriptions for assignments are very unclear and unorganized ("Thats just life you don't get all the instructions" - Halil ). Lectures are dull, hard to follow. Tutorials for Rhino and Grasshopper were highk CHOPPED and vague. It would be a good class, content/projects are interesting but he's just straight cheeks bru.
+
+--- Rating #13 ---
+Class: IAT106
+Date: 2025-06-20 23:00:49 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Halil was not too bad of a professor. He seemed like a nice guy, but he was just not the best at thoroughly explaining concepts. The projects themselves were fine, however the final was very confusing. Some of the questions that were asked were never discussed in lecture and were worded very weirdly.
+
+--- Rating #14 ---
+Class: IAT106
+Date: 2025-01-14 23:38:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+weird grading
+
+--- Rating #15 ---
+Class: IAT106
+Date: 2025-01-06 06:15:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I would advise that if you have him for 106, get a critique from your TA for your final project before submitting, as Halil likes to make up last minute specifics that weren't clearly outlined in the rubric. Try to do your best everywhere else because your grade is gonna go down after the final because it looks nothing like the assigned lectures.
+
+--- Rating #16 ---
+Class: IAT233
+Date: 2024-12-15 20:17:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Halil is definitely one of those prof where you either had an awful experience or you thought it was okay.
+
+Imo, he seems to be more aware that most of us are here for SIAT, not architecture. So things were great until the A7 critiques, which were harsh.
+
+As for 106, I blame the bad ratings on the course itself, so you just gotta pull through it.
+
+--- Rating #17 ---
+Class: IAT233
+Date: 2024-12-12 19:38:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Just do not take any courses with him if you have choices! He is so rude and never cares students. He is passive aggressive in his email, rude and cut people off when presenting. Also, he never makes his requirements clear, no one understand what he wants and gives low strict grades to students. mentally and physically in pain!!!!!(insert bad words
+
+--- Rating #18 ---
+Class: IAT233
+Date: 2024-12-12 19:15:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I took 106 with him before, and while it was hard, it was manageable. However, 233 is worse. His expectations are too high for non-architecture students. He doesn't adjust for canceled Monday classes and gives overlapping deadlines. The TAs are unhelpful due to poor communication on his side, assignments are vague, and he marks extremely hard.
+
+--- Rating #19 ---
+Class: IAT106
+Date: 2024-12-11 00:24:13 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This guy thinks he's so funny. He thinks he's the riddler. A true jester at that. Had way too high expectations for the projects, like I'm sorry I'm not a passionate architecture bro. TAs weren't helpful either. His final exam literally felt like those class vs homework vs exam memes. It consisted more of english comprehension/MACM than 106 itself.
+
+--- Rating #20 ---
+Class: IAT106
+Date: 2024-12-01 06:33:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Feels like Halil doesn't really care about his students. He doesn't notice when they have fallen behind, and doesn't seem to put any efforts into potentially helping them. He is condescending towards students' work, and is unhelpful when you ask for help or feedback. Both his and the TAs overall demeanour is discouraging.The class could've been fun

@@ -1,0 +1,11 @@
+Professor: Samuel Hanson
+Professor Legacy ID: 2380115
+Professor ID: VGVhY2hlci0yMzgwMTE1
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

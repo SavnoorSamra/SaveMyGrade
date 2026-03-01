@@ -1,0 +1,50 @@
+Professor: Justine Gauthier
+Professor Legacy ID: 2362313
+Professor ID: VGVhY2hlci0yMzYyMzEz
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4
+Avg Difficulty: 3.3
+Num Ratings: 3
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: MATH150
+Date: 2020-07-31 17:24:01 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Got together with a few former classmates from SFU last weekend - great fun. Of course we spoke of our favourite classes, profs and instructors from that time. Ms. Gauthier was NOT one of them. She had a tremendous grasp of the subject but lacked in her ability to inspire.
+
+--- Rating #2 ---
+Class: MATH150
+Date: 2018-04-20 18:28:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This might be the first time Justine is teaching at SFU since there weren't any prior reviews and low enrollments. I must say Justine has been an excellent professor and does a great job at explaining the materials. There are weekly online assignments and quizzes. Don't let the lack of reviews discourage you from taking her course.
+
+--- Rating #3 ---
+Class: MATH150
+Date: 2018-04-19 00:24:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Justine was a great math prof, very charismatic and explains well to help students understand. Had a really organized canvas page with lots of helpful links. A high grade is achievable if you put in the work! Would definitely recommend taking math 150 with her, super chill prof.

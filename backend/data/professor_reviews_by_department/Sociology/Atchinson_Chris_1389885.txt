@@ -1,0 +1,76 @@
+Professor: Chris Atchinson
+Professor Legacy ID: 1389885
+Professor ID: VGVhY2hlci0xMzg5ODg1
+Department (CSV): Sociology
+Department (Fetched): Sociology
+Avg Rating: 3.6
+Avg Difficulty: 4
+Num Ratings: 5
+Would Take Again Percent: -1
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: SA255
+Date: 2014-04-18 02:14:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Really passionate professor, so lectures are interesting. Taking notes is a waste of time. The exams are easy if you read carefully and study the material - slides are all posted online. Returns assignments with a huge amount of helpful comments. Friendly, but can be intimidating - takes teaching very seriously.
+
+--- Rating #2 ---
+Class: SA255
+Date: 2012-11-14 15:39:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Good prof
+
+--- Rating #3 ---
+Class: SA255
+Date: 2012-05-28 17:17:10 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is very opinionated about research stuff and owns his own research firm. He's talkative and amusing to listen to and easy to understand. He was helpful in his tutorials if you asked for help but tutorials seemed like a lecture. The course though is kinda hard. Midterm was hard, final was easier. Overall, I enjoyed being in his class.
+
+--- Rating #4 ---
+Class: SA255
+Date: 2010-11-22 18:34:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+a horrible man! i saw him make fun of student's &quot;dumb&quot; questions and poor test marks. is available for extra help but isn't very helpful. unfortunately this class is a req for soc major but if you can avoid taking it with him do it!
+
+--- Rating #5 ---
+Class: SA255
+Date: 2010-02-12 02:55:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Chris was always available for extra help and wants his students to succeed. His standards are high and forces you to think through many details, particularly for research proposals, but the skills gained from that are invaluable.

@@ -1,0 +1,24 @@
+Professor: Mathew Fleury
+Professor Legacy ID: 2846865
+Professor ID: VGVhY2hlci0yODQ2ODY1
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: HSCI340
+Date: 2022-12-19 00:51:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He clearly cares about the issues he teaches and invests a ton of time and effort into his students. The content was comprehensive yet digestible. He has a great sense of humour and made the class fun, but had clear expectations. Definitely important to participate. Would take any of his classes.

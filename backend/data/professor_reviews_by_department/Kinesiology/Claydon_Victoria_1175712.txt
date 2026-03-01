@@ -1,0 +1,180 @@
+Professor: Victoria Claydon
+Professor Legacy ID: 1175712
+Professor ID: VGVhY2hlci0xMTc1NzEy
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 3.4
+Avg Difficulty: 4.4
+Num Ratings: 13
+Would Take Again Percent: 50
+
+Ratings Count Returned: 13
+
+--- Rating #1 ---
+Class: BPK444
+Date: 2024-04-29 04:28:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Victoria was a nice prof, but her course was quite unpleasant because her slides were not reflective of her exams. Other reviews have mentioned its important to practice ECG but she really does post anything on canvas. The ECGs that we would practice in tutorials were so easy compared to what showed up on exams.
+
+--- Rating #2 ---
+Class: BPK444
+Date: 2024-04-28 18:08:33 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+While Dr. Claydon is a nice instructor, this course was brutal in many ways. Her lecture slides did not reflect her expectations of the exams, and the marking for her exams was, in my opinion, harsh and unfair.
+
+--- Rating #3 ---
+Class: BPK444
+Date: 2024-04-26 09:28:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She was nice throughout the semester, but I do think her slides and tutorials were not the best in terms of exam prep. For her exams she tested things that were barely covered in class and wanted extensive details.
+
+--- Rating #4 ---
+Class: BPK444
+Date: 2024-04-24 01:47:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The course had so much potential to be great, but it was just so disorganized. If you do take this course be prepared to allocate a lot of time towards this course to make up for the lack of organization.
+
+--- Rating #5 ---
+Class: BPK444
+Date: 2023-04-20 06:01:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I love victoria, she is so sweet and down to-earth! The course material can be difficult, but her exams were fair!
+
+--- Rating #6 ---
+Class: BPK444
+Date: 2020-06-17 08:25:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr Claydon is one of the best lecturers that I have had in my 5 years at SFU. She knows her stuff inside and out, and is able to communicate it in lectures very clearly, and is great at answering questions. Her midterm was difficult, however, the grading was kind of iffy and I felt as though somethings were a bit of a reach. The labs were great!
+
+--- Rating #7 ---
+Class: KIN305
+Date: 2018-12-14 07:20:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great professor, great conveyer of information, but extremely harsh marker. Unfortunately because of this memorization is a better way to go than actually learning because you'll lose marks if you aren't writing the exact words out of the slides.
+
+--- Rating #8 ---
+Class: BPK444
+Date: 2018-08-02 18:23:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great prof, expects you to practise a lot so get ready to be interpret hundreds of ECGs to do well. During lectures she gives a lot of information regarding the physiology of the arrhythmias, so make sure you go to class to get the most info out of it. Expects you to know everything on the exam and wants specifics, so be prepared to be prepared!
+
+--- Rating #9 ---
+Class: BPK444
+Date: 2016-01-06 14:44:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Vic is a pretty amazing prof, the course is excellently planned and really interesting. That being said be prepared to work for a good grade in this class. If you've had Tom Claydon her exam style is really similar (long answer).  Practice as many ECG readings you can! But define toy have to work hard in this class.
+
+--- Rating #10 ---
+Class: BPK444
+Date: 2015-07-20 16:37:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Vic is one of my favourite profs. She is extremely knowledgable and you learn valuable skills in the lab. Her lectures are enjoyable to listen to and are very detailed. She's very approachable and wants you to succeed. My only issue was that she liked to ask 20-mark questions on cardiac pathologies that take up only 1-2 slides in her lectures.
+
+--- Rating #11 ---
+Class: KINKIN
+Date: 2011-07-26 02:33:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+For kin 444. Seems like she knows her stuff, but if you listen carefully you'll hear her contradict herself. This is present in her PPT too. Goes through material rather casually and vaguely then gives you a vague test question and expects you to recite a text book. NOT WORTH THE AGGRAVATION.
+
+--- Rating #12 ---
+Class: KIN305
+Date: 2009-10-22 01:35:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+She knows her stuff! Come to class and memorize every detail and know all the pathways and components. Easy enough if you have plenty of time on your hands. Be prepared to know the notes inside and out.
+
+--- Rating #13 ---
+Class: KIN305
+Date: 2009-06-22 14:27:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+She's a great prof who is really helpful during her office hours, but her expectations for exams are very high. Anticipate lots of integrated questions and include detail!!

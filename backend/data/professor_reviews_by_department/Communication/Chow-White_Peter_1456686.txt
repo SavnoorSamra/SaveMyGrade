@@ -1,0 +1,130 @@
+Professor: Peter Chow-White
+Professor Legacy ID: 1456686
+Professor ID: VGVhY2hlci0xNDU2Njg2
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 3.8
+Avg Difficulty: 2.6
+Num Ratings: 9
+Would Take Again Percent: 75
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: CMNS353
+Date: 2024-01-09 06:59:06 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The class is okay, not hard material or anything. 
+He is knowledgeable of his material but he is so full of himself, he gives Troy Bolton's dad vibe, idk, I have mixed feelings with his cocky attitude. 
+The TA was terrible, what we covered in tutorials vs. in-class had nothing to do with each other. Lame project.
+
+--- Rating #2 ---
+Class: CMNS353
+Date: 2022-11-27 07:09:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Peter is such a great prof, you can tell hes really passionate about his work. His concepts are easy to understand and what he expects from you is really clear. I would definitely take another class with him if I had the chance!
+
+--- Rating #3 ---
+Class: CMNS353
+Date: 2018-01-14 00:11:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Peter was a decent prof. Good lecturer, but sometimes I felt like he talked more than he needed to (perhaps to fill the time), and so a lot of what I was listening to in the lecture was just supplementary to the readings. The readings are key in this course. Not many assignments which was nice, and overall he's a cool guy.
+
+--- Rating #4 ---
+Class: CMNS353
+Date: 2017-09-08 16:01:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Peter was awesome! Extremely engaging in lectures, which helps because a lot of the important information is only learnt through lecture.
+
+--- Rating #5 ---
+Class: CMNS353
+Date: 2015-12-07 05:06:14 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Towards the end, the only reason I dragged myself to lectures was because I rationalized that some youth my age didn't have the right or opportunity to an education. I really don't think any university attending student with high marks should feel this way about attending lecture, especially if they want to learn.
+
+--- Rating #6 ---
+Class: CMNS353
+Date: 2014-04-10 02:18:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Cool prof. He's very clear in his statements during lecture which is what a great prof should have. Concepts are relatively easy to grasp. Overall, this is one of the more interesting cmns courses if you're interested in the new media, the Internet, etc.
+
+--- Rating #7 ---
+Class: CMNS353
+Date: 2014-04-07 02:26:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He genuinely cares about his students and has never made a student feel dumb about asking a question. He is always encouraging and open minded. It was very refreshing taking a class with him! And his TA Becky is wonderful. She's a hard marker, but a perfect TA. Overall, great class.
+
+--- Rating #8 ---
+Class: CMNS353
+Date: 2012-04-19 06:38:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+A brilliant professor who teaches a course that is mind opening.
+
+--- Rating #9 ---
+Class: COMM302
+Date: 2010-11-23 23:05:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+helpful, fair in marks and easy going class is always jam packed with students. good teacher

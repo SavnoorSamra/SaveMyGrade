@@ -1,0 +1,271 @@
+Professor: Jarko Jalava
+Professor Legacy ID: 64475
+Professor ID: VGVhY2hlci02NDQ3NQ==
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 4.2
+Avg Difficulty: 2.8
+Num Ratings: 55
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CRIM111
+Date: 2023-09-22 03:56:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jarkko is a fabulous lecturer with a profound grasp on his field and plenty of personal experiences to share with the class and use as examples, which make for really interesting lectures. He cares about his students and their success in his class, his lectures are straightforward, and he is very easy to reach outside of class.
+
+--- Rating #2 ---
+Class: CRIM111
+Date: 2021-12-08 09:51:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Jarko has by far the most interesting life story that translated perfectly into what was being discussed in class. Such a caring, polite person who clearly values his work and the students he teaches. Jarko has a brilliant way of explaining concepts and incorporating class comments into his lecture. I would recommend Jarko to anyone who asks.
+
+--- Rating #3 ---
+Class: CRIM111
+Date: 2016-12-22 22:59:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+A very entertaining professor to have. It was exciting going to his class, as he didn't teach verbatim from the textbook. His midterm was difficult as it felt really random what was on it, but we were very well prepared for the final. Only thing I didn't like was watching videos all class occasionally because I came from out of town for his classes
+
+--- Rating #4 ---
+Class: CRIM240
+Date: 2012-10-25 15:05:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Jarko makes me want to never leave college, he's the best professor in the world.
+
+--- Rating #5 ---
+Class: CRIM111
+Date: 2010-02-11 19:16:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Very interesting lectures. Likes students to think and debate and discuss, and encourages and is respectful of opinions. Helpful in assignments, and gives a lot of examples, so you actually usually do understand what he's teaching. Makes a lot of jokes and is cheerful, and doesn't use confusing terms.  A really good prof.
+
+--- Rating #6 ---
+Class: PSYC207
+Date: 2007-07-06 18:19:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Messy writing, talks too fast, textbook is absolute crap - too detailed, confusing, unnecessary fancy writing.
+
+--- Rating #7 ---
+Class: PSYC207
+Date: 2007-06-18 18:43:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Jarkko is one of my favorite profs. He is intelligent, open-minded yet very humble. He has amazing public speaking skills, with short & sweet intriguing tangents.
+
+--- Rating #8 ---
+Class: PSYC207
+Date: 2006-11-16 19:54:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+hands down, prof JJ is one of the best profs i've ever had in my 7 semesters here at sfu. i hate taking history courses but psyc207 turned out to be fun, enjoyable, and totally worthwhile -- and i took it during intersession! he's funny, he's smart, he's spontaneous, he's a great teacher. period. oh, and he's totally a fox too. ;-) (is he retired&#63;)
+
+--- Rating #9 ---
+Class: PSYC307
+Date: 2006-07-25 20:53:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Interesting Class~ Nice Prof.
+
+--- Rating #10 ---
+Class: PSYC207
+Date: 2006-06-18 06:07:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Jarkko is awesome!! i didn't expect i will enjoy this class but it turns out that it was one of the best class i've every had. He is definitely knowlegeable and fun. The text was hard but i managed to get a B without reading the text but focused on his and the ta's notes.
+
+--- Rating #11 ---
+Class: PSYC207
+Date: 2006-05-07 21:09:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Amazing professor; one of the best I've ever had.  He's so passionate about his work that it inspires myself and others.  He took a boring class and made it one of my favourites.  You won't miss a class because his lectures are so interesting.  The text book sucks, but if you take notes and go to tutorials you'll do well.
+
+--- Rating #12 ---
+Class: PSYC207
+Date: 2006-04-25 22:14:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+The midterm was difficult but the final exam was a breeze. Attend all lectures-tutorial seemed to be a waste of time. The textbook was awful so make use of TA notes. However, sometimes the notes the TA supplied weren't that helpful. This was one of my least favourite Psychology courses that I have taken.
+
+--- Rating #13 ---
+Class: PSYC207
+Date: 2006-04-25 21:37:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I was surprized by how interesting this class was!!! I thought it would be boring but it's not.  Great lectures and tutorials!!! Don't bother with the text.  Make GOOD notes, study from those and don't miss a lecture.
+
+--- Rating #14 ---
+Class: PSYC207
+Date: 2006-04-04 22:49:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Makes the class fun with his jokes, and he explains things very well.
+
+--- Rating #15 ---
+Class: PSYC207
+Date: 2006-03-31 01:47:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Organization could use some work, but he is obviously brilliant. I'd like to see him fight with Mark Blair. Perferably it a battle of wits. Tests and assignments were fair.
+
+--- Rating #16 ---
+Class: 207
+Date: 2006-03-04 02:09:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+take this course with him. my advice is to not read the text and ONLY read the lecture notes and what he talks about in class.
+
+--- Rating #17 ---
+Class: PSYC207
+Date: 2005-12-14 15:37:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+one of the best psyc classes at sfu in regards to the prof, tutorials, and textbook. jalva really cares about what he is teaching which is refreshing.
+
+--- Rating #18 ---
+Class: PSYC207
+Date: 2005-12-08 01:20:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He explains everything very logically and clearly.  He made the course material interesting with his wit and examples.
+
+--- Rating #19 ---
+Class: PSYC207
+Date: 2005-08-06 13:14:27 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very clear & friendly. Seems to know what he's talking about & is a fiar grader
+
+--- Rating #20 ---
+Class: 207
+Date: 2005-07-21 11:33:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Best prof ever! very clear and always repeating himself to ensure everybody's got it. exams are not hard as long as you go to class & study the notes and the practice questions in tutorials!

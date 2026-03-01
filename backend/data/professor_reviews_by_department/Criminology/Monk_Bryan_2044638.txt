@@ -1,0 +1,37 @@
+Professor: Bryan Monk
+Professor Legacy ID: 2044638
+Professor ID: VGVhY2hlci0yMDQ0NjM4
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 4.8
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: CRIM135
+Date: 2016-10-07 21:18:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He's difinitely a good TA n knows what he's talking about! Also he's really cute!!
+
+--- Rating #2 ---
+Class: CRIM480
+Date: 2015-09-30 18:30:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He really helped me learn about the subject. I thought I would be lingering in the library, studying until my soul gave out but going to Bryans office hours helped me a lot. He has an intangible quality about him, he taught me the virtue of creating an effective study plan. When my thoughts were seized up he helped me lessen the duress I was under,

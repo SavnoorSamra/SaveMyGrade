@@ -1,0 +1,50 @@
+Professor: Matt Stewart
+Professor Legacy ID: 3088211
+Professor ID: VGVhY2hlci0zMDg4MjEx
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 5
+Avg Difficulty: 2.7
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: ENSC-351
+Date: 2025-11-30 07:24:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the most genuine professors at SFU. His lectures are a bit slow, but its due to his inexperience, so expect that to get better. He is extremely knowledgeable, understanding, and helpful. One of the best Engineering professors!
+
+--- Rating #2 ---
+Class: ENSC-351
+Date: 2025-11-29 22:21:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great professor who really cares. kinda unconfident in lectures, but if you ask questions, he really knows the subjects. My gooning GOAT
+
+--- Rating #3 ---
+Class: ENSC-351
+Date: 2025-11-29 03:01:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great prof, bit of a hiccup with handing out lab kits at the beginning of the semester which pushed back assignments, but was not entirely his fault. Was really understanding of pushing back deadlines because we had other assignments/exams do at the same time. 100% would take again.

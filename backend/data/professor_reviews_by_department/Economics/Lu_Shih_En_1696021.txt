@@ -1,0 +1,271 @@
+Professor: Shih En Lu
+Professor Legacy ID: 1696021
+Professor ID: VGVhY2hlci0xNjk2MDIx
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 2.9
+Avg Difficulty: 4.7
+Num Ratings: 75
+Would Take Again Percent: 44.4444
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ECON302
+Date: 2026-01-10 19:24:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's a great professor. He had useful and well-structured slides, practice midterm and final exams with detailed answer keys, and lecture recording from previous years.
+
+--- Rating #2 ---
+Class: ECON302
+Date: 2025-05-09 08:11:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Do ALL the homework and don't miss classes, even if you do not follow or do not understand. The extra points from assignments and attendance puts you SO MUCH ahead of everyone else, especially if you score around the class average on exams. Strict but very clear on structure and grading. Compared to before questions are clearer.
+
+--- Rating #3 ---
+Class: ECO302
+Date: 2025-04-26 23:38:16 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Well. I felt really struggled before the midterm cuz I just got really bad score on it. But if you make sure you understand the all practice final exams. You will get really perfect grades on final. Good professor but strict.
+
+--- Rating #4 ---
+Class: ECON302
+Date: 2025-04-16 22:34:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I was scared at first because of old reviews saying he's tough, but Shih En is actually very kind and supportive. He added attendance scores not to fail students from low exam grade and always listens to students. He never ignores even &#8220;stupid&#8221; questions and explains concepts really well. Don't be spooked by old reviews! He is the best prof at SFU.
+
+--- Rating #5 ---
+Class: ECON302
+Date: 2025-04-11 21:19:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is someone who is very passionate about economics and game theory in particular. Lectures were 3hours long, which is just tough. He does have recorded lectures from 2020, which were a massive help. Exams are incredibly hard. Felt like I ran a marathon after. Definitely hurts the soul a bit. Nice guy tho. Midterm avg = 48% Final avg = (wait).
+
+--- Rating #6 ---
+Class: ECON302
+Date: 2025-02-28 00:57:27 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Typical arrogant PHD who thinks he is better than everyone, but he teaches well.
+
+--- Rating #7 ---
+Class: ECO302
+Date: 2024-05-09 13:17:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's a well-known professor at SFU, famous among students for his rigorous academic approach and the challenging nature of his courses. He's incredibly smart and the TAs are awesome too, all PhDs from SFU. As long as you put in the effort (e=1), you're 100% to succeed in this class (s=1), that is u(s=1|e=1)=1.
+
+--- Rating #8 ---
+Class: ECON302
+Date: 2024-04-24 02:56:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Shih En has an obvious passion for the subject. If you don't plan on cheating in the class you'll be fine. He is one of the few profs that actually want in depth criticisms of his course and I appreciate that. Definitely knowledgeable and going to his office hours was worth. 10/10 ate and left no crumbs.
+
+--- Rating #9 ---
+Class: ECO302
+Date: 2024-01-11 18:03:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Awesome Prof. if you obey his rules,you will get the best grade.
+
+--- Rating #10 ---
+Class: ECON302
+Date: 2023-12-14 03:55:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This prof is passionate about Econ, you can tell he puts a LOT of care into this course. He explains concepts very clearly but in very mathematical terms. I recommend taking this course if you want to understand Econ concepts at a deep level. I learned so much from him. Don't take it if you just want to pass the course. It's really difficult.
+
+--- Rating #11 ---
+Class: ECON222
+Date: 2023-12-13 08:36:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Fairly easy course, game theory is by definition mathematically intense and Shih En did a good job of teaching it. The course runs biannually and he makes previous exams w/ solutions available. Averages on exams were low (midterm: 30.5%, final: 36.5%), exams were fair. Course was taught like a standard MATH course, comparable to MATH 240/MACM 101.
+
+--- Rating #12 ---
+Class: ECON282
+Date: 2023-11-05 02:47:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Terrible at explaining. Asking questions in lecture is pretty useless, he can only explain things in mathematical terms. Speaks extremely unconfidently. Biggest pet peeve is that he frequently uses 'uhh' 'you know' to conjunct his sentences. Like bro, no, i DONT KNOW. Thats why im here. Expects you to understand things instantly. Not good.
+
+--- Rating #13 ---
+Class: ECO302
+Date: 2023-11-01 01:59:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+.
+
+--- Rating #14 ---
+Class: ECO302
+Date: 2023-01-31 22:48:14 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+extremely hard class. lectures are sometimes pretty engaging though. plan to spend hours and hours on problem sets. you can get a good grade if you get 100% on problem sets, do well on essay and participate. everyone does poorly on midterm/final. I got an A in the class with 68% on midterm and 55% on final (beat avg by aprox. 20% on both of them).
+
+--- Rating #15 ---
+Class: ECON282
+Date: 2022-12-24 00:13:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Awful prof, irrelevant lectures, belittles everyone, and micromanages.
+
+--- Rating #16 ---
+Class: ECO302
+Date: 2022-05-06 01:45:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very bad prof, take the course with someone else if possible. His lectures are nothing like his exams or problem sets. Has this ridiculous grading criteria. Even if you find the answer right (in different way) he tries to take marks off. Pretty much everyone does bad in his class and he makes sure to make you feel stupid all the time.
+
+--- Rating #17 ---
+Class: ECON302
+Date: 2022-02-22 04:52:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+sum: talented person but a horrible teacher. Extremly hard but fun contents. He is a smart guy immersing in his own world and ignoring the absorption ability of students. The biggest problem is the exam is 0-correlated with problem set. if the diffculty of problem set is 1,then the the diffculty of exam is 100.
+
+--- Rating #18 ---
+Class: ECO302
+Date: 2021-03-15 23:23:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He graduated from Harvard. Very smart guys but his exams are all based on postgraduate level. He'll mark you zero if you solved the question in math but not the economic way. Oh lord, I am just good at math and I can use integral or derivative or matrix or whatever to solve them but thanks to you I got zero.
+
+--- Rating #19 ---
+Class: ECON302
+Date: 2021-03-14 22:04:18 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He graduated from Harvard, he is a very intelligent person, logically clear and rigorous, but you will never understand your mid-term final exam. The average score for all exams is almost 20 to 30%. You can imagine how frustrated you will be after exams.
+
+--- Rating #20 ---
+Class: ECON302
+Date: 2021-01-12 02:59:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+If you like econ and dont mind spending 3 hours before moving onto part b of question 1, Shih En is your guy. This is a challenging course but he gives you all the necessary tools to understand whats going on. Wish all econ courses were taught like this tbh

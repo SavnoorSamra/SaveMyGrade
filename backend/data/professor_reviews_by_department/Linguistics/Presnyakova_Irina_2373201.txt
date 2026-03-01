@@ -1,0 +1,63 @@
+Professor: Irina Presnyakova
+Professor Legacy ID: 2373201
+Professor ID: VGVhY2hlci0yMzczMjAx
+Department (CSV): Linguistics
+Department (Fetched): Linguistics
+Avg Rating: 4.5
+Avg Difficulty: 2.5
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: LING220
+Date: 2020-05-01 08:39:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I took LING220 and 282W back in Fall 2019 and Spring 2020. Irina was the TA for both courses, and she was BRILLIANT. She communicated really well between the professor and the students. She was always enthusiastic, and always down to answer questions. She was a fair marker, and gave helpful feedback on written assignments. Thanks Irina! :)
+
+--- Rating #2 ---
+Class: LING160
+Date: 2019-04-18 23:34:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Irina is an engaging professor. Her class was always interesting which made it easy to attend 3 hr lectures. Lots of group work and assignments but they're really easy-mostly for completion and to help relate to the material which essentially helps with the exams. The exams were the most difficult because it all application questions.
+
+--- Rating #3 ---
+Class: LING160
+Date: 2019-02-26 05:26:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Her lectures are pretty fun but the attendance is mandatory
+
+--- Rating #4 ---
+Class: LING160
+Date: 2018-06-19 14:23:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The course is very interesting and the prof is enthusiastic.

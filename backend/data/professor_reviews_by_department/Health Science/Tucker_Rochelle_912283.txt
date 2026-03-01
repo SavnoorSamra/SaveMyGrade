@@ -1,0 +1,271 @@
+Professor: Rochelle Tucker
+Professor Legacy ID: 912283
+Professor ID: VGVhY2hlci05MTIyODM=
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 3.2
+Avg Difficulty: 3.2
+Num Ratings: 289
+Would Take Again Percent: 70.0787
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: HSCI130
+Date: 2026-01-20 21:12:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+How many cases of HIV was there in 2021? How am I supposed to remember that random ahh number&#128557;&#128557;&#128557;&#128557;
+
+--- Rating #2 ---
+Class: HSCI207
+Date: 2026-01-10 20:39:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I love Dr. Ro. She's amazing. We had a lot of assignments due, but they were manageable, and my TA was really nice. Make sure you talk to them. I would also recommend starting the final assignment early rather than leaving it until the end. The exams were fairly easy, and the review session was helpful.
+
+--- Rating #3 ---
+Class: HSCI130
+Date: 2026-01-10 12:53:16 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+need to know almost everything in the course to do well on her exams. Studying only lecture material is not enough. Exams draw heavily from films, assigned readings, the textbook, and guest speakers. While this encourages thorough engagement with the course, the workload is very overwhelming sometimes.
+
+--- Rating #4 ---
+Class: HSCI207
+Date: 2026-01-07 23:57:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is the only prof that actually cares about how her students do. her exams were very fair they were based on her learning objectives. if you want a good grade with a caring and engaging prof take her class, any class that she offers
+
+--- Rating #5 ---
+Class: HSCI130
+Date: 2026-01-06 21:54:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Ro is a fair prof and genuinely cares for her students. She makes it clear what you need to do to succeed, and gives away exam questions in lectures so as long as you attend and study you can good in the class. She also gives lots of opportunities for you to boost your grade with bonus marks and provides zoom prep sessions before exams
+
+--- Rating #6 ---
+Class: HSCI130
+Date: 2025-12-20 08:28:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Dr. Ro is amazing! If you go to lectures and midterm/final review sessions you are guaranteed to succeed. Dr. Ro genuinely cares about her students and the content was also quite interesting. Would definitely take again.
+
+--- Rating #7 ---
+Class: HSCI207
+Date: 2025-12-18 02:46:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The course load and amount of assignments was a lot for a 200 level course. Lectures are quite heavy, tests are super fair, but assignments were a drag to do, considering how little they were weighted for the amount of work they were. All-in-all very informative class with a very kind professor, unfortunately the material was just not it.
+
+--- Rating #8 ---
+Class: HSCI130
+Date: 2025-12-10 07:15:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Ro is definitely one of my favourite professors; super kind, and caring! Lectures are VERY material heavy, however if you put in the efforts to attend lectures and tutorials, you'll breeze through. Additionally, she is super supportive by offering Q&As, which provides information for what is on tests. She is undoubtedly an amazing professor.
+
+--- Rating #9 ---
+Class: HSCI1130
+Date: 2025-12-09 18:26:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Amazing teacher, super approachable for any doubts. Her Tucker talks are very helpful, especially the ones she talks about med school and volunteer opportunities. I enjoyed her lecs, will definitely take another course with her
+
+--- Rating #10 ---
+Class: HSCI207
+Date: 2025-11-25 06:26:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Love Dr. Tucker. She's fantastic. Had her as a prof twice now. HSCI 207 has an optional final. Slay
+
+--- Rating #11 ---
+Class: HSCI207
+Date: 2025-11-21 17:05:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Her lectures are boring. She was biased towards certain students. Her quizzes are okay. She does a Zoom on the Sunday before our quizzes and explains what's going to be on the quiz and what we need to know. In my opinion, search her online before you take her class... #FreePalestine
+
+--- Rating #12 ---
+Class: HSCI130
+Date: 2025-11-17 21:04:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Ro is very passionate and obviously cares about what she's teaching. lectures can go buy really quickly tho and it's hard to keep up a lot of the time. but she has q&a's before each exam and is very friendly and approachable. i look forward to taking more classes with her in the future.
+
+--- Rating #13 ---
+Class: HSCI130
+Date: 2025-10-30 02:41:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She was a great in the lectures, clearly knows her stuff. She is kind in her office hours and you can tell she truly cares.
+
+--- Rating #14 ---
+Class: HSCI481
+Date: 2025-06-30 21:09:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+no one teaches this class better than Dr Ro. she chose such an interesting topic for this class and the discussions and class activities were very engaging. overall such a fun class especially during the facilitated discussion weeks. doing this as an intersession was quite intense tho so prepare to read a lot and participate a lot in class.
+
+--- Rating #15 ---
+Class: HSCI130
+Date: 2025-06-16 00:10:07 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Saw those posters&#8230; Free Palestine
+
+--- Rating #16 ---
+Class: HSCI207
+Date: 2025-05-07 19:08:46 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She's kind. Course was trying to do too much  - there was a question about a YouTube clip we watched in tutorial. Not sure if that shows learning the subject or just good memory. The TAs mostly seemed overwhelmed and they do all the marking (harshly). Just an odd experience and not really looking forward to her in the future.
+
+--- Rating #17 ---
+Class: HSCI207
+Date: 2025-04-30 09:34:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Ro offers a Zoom review session where she explains all the short-answer questions on the midterm. All you have to do is memorize it and then get lucky on the multiple-choice question. I was able to get an A- by studying only the night before on all three midterms and the final.
+
+--- Rating #18 ---
+Class: HSCI345
+Date: 2025-04-30 06:29:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Ro is a great lecturer who tries her best to help students succeed (provides exam guidance/hints, lots of opportunities for incomplete/complete assignments). However, she is extremely disorganized and often unclear. A lot of instructions/exam hints were given VERBALLY in class and rarely in writing, making it unsettling/confusing at times
+
+--- Rating #19 ---
+Class: HSCI207
+Date: 2025-04-30 03:47:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Ro is a very caring professor. She did an amazing job teaching research methods. She commented that she changed the structure of the course, and it turned out to be excellent. There was a lot of engagement in the class, and it was interactive. She is very caring and accessible!
+
+--- Rating #20 ---
+Class: HSCI207
+Date: 2025-04-30 02:55:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+she is such a sweet prof and actually wants her students to do well. she holds q&a's before every test and tells you exactly what she is looking for. if you keep up with lectures you will do well in class

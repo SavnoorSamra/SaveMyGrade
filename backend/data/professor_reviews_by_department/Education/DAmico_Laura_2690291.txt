@@ -1,0 +1,24 @@
+Professor: Laura D'Amico
+Professor Legacy ID: 2690291
+Professor ID: VGVhY2hlci0yNjkwMjkx
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: EDUC482
+Date: 2021-04-24 16:13:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Laura was a great, caring, and knowledgeable instructor. The materials she provided on Canvas (readings and lecture videos) were very thorough and engaging. She's a tough marker, but gives students plenty of opportunities to revise their assignments and do additional works for extra credits. I really had to work hard to get an A+ in her class.

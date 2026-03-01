@@ -1,0 +1,245 @@
+Professor: Jack Stockholm
+Professor Legacy ID: 1360063
+Professor ID: VGVhY2hlci0xMzYwMDYz
+Department (CSV): Interactive Media Design
+Department (Fetched): Interactive Media Design
+Avg Rating: 3.5
+Avg Difficulty: 2.9
+Num Ratings: 18
+Would Take Again Percent: -1
+
+Ratings Count Returned: 18
+
+--- Rating #1 ---
+Class: IAT235
+Date: 2013-03-26 21:52:11 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Low marks
+
+--- Rating #2 ---
+Class: IAT167
+Date: 2012-08-24 18:28:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Difficult class though both the instructors and TA were very accessible and cleared up my questions in office hours.  Lots of people didn't show up to lectures, don't expect this class to be easy if you aren't there. We repeated the exact problems on the exam at least three times throughout the term in homework and lectures.
+
+--- Rating #3 ---
+Class: IAT167
+Date: 2012-08-10 21:35:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Jumps into topics too quickly & doesn't give time for understanding & covers way to much material!yes it's uni, but this guy seems to think this is the only course u r taking. Assignments are absolutely over the top for a first year course! and I'm only in my 2nd semester. don't take a programming class with him.. seriously..don't. DON'T.you'll cry
+
+--- Rating #4 ---
+Class: IAT100
+Date: 2012-08-04 19:11:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Interesting lectures, marks are on quality not quantity and definitely not on effort. Tutorial videos are clear, except for the flash assignment. TA (Diliara) was helpful and nice, marking was fair.
+
+--- Rating #5 ---
+Class: IAT167
+Date: 2012-06-08 02:13:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+If you wanna have a good sleep,enjoy your IAT life and a good GPA, then don't think about his course. He is talented,but definitly is not a good teacher. He makes many students hates programing. The assignments are so hard and you can't imagaine they are from a 100 level course.
+
+--- Rating #6 ---
+Class: SIAT167
+Date: 2012-06-08 01:59:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+NEVER take his course, you will regret it, definitely. Never understand what he's taking in class, either in the assignment requirement.
+
+--- Rating #7 ---
+Class: IAT167
+Date: 2012-05-07 18:14:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Class was designed to be an intermediate programming course unfortunately the pre req for it focused on a totally different programming language leaving most students who didn't hobby program before hand clueless as to what was going on. It was confusing and hard to follow but he did make an effort to try to get us up to speed.
+
+--- Rating #8 ---
+Class: IAT100
+Date: 2011-05-09 15:52:49 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Gives good advice during office but gets frustrated with students too quickly. His lectures have nothing to do with assignments but are regardless interesting. Avoid his TA ( Arefe) like the plague. 3.5/5.
+
+--- Rating #9 ---
+Class: IAT100
+Date: 2010-09-18 17:14:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Very Helpful TA for the most part. Clear instruction and decent marking scheme. On the other hand though IAT100 is never designed to be a overwhelmingly difficult course.
+
+--- Rating #10 ---
+Class: IAT100
+Date: 2010-09-14 03:46:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I was luck to have him as my TA. He is a nice guy. If you want to get an A, go for his office hours and e-mail to him about your projects. He is willing to give you many suggestions to enhance your projects.
+
+--- Rating #11 ---
+Class: IAT100
+Date: 2010-08-13 20:09:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I had him as a TA and he was extremely helpful. He has a lot of experience with the software programs too. If you JUST GO TO him for questions and get feedback on your work you will do great.
+
+--- Rating #12 ---
+Class: IAT100
+Date: 2010-05-06 20:56:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+This class is a great introduction to basic Adobe suit but can be difficult to follow for those completely new to it. However, Jack's lectures are extremely boring and sometimes having the slides are enough; might be why half-way through the course most people stopped showing up.
+
+--- Rating #13 ---
+Class: IAT100
+Date: 2010-04-29 01:47:21 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+this class is easy if you like to use comp software like photoshop, dreamweaver, and flash. HOWEVER, i personally found this class very time consuming and tough! labs are a must in order to understand the basics of the software. let the ta/prof review your work before submission, accept criticque and change it and you are guarantee a good mark gpa
+
+--- Rating #14 ---
+Class: IAT100
+Date: 2010-01-06 02:26:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+I recommend you to take this class with him! He is always helpful and gives very clear advice on how we can improve our works.&#12288;I had almost no interest on the subject before taking his class, but now I became quite interested in IAT! :)
+
+--- Rating #15 ---
+Class: IAT100
+Date: 2009-12-14 05:56:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+:)
+
+--- Rating #16 ---
+Class: IAT100
+Date: 2009-12-04 22:58:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Cool guy.
+
+--- Rating #17 ---
+Class: IAT100
+Date: 2009-12-04 22:57:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #18 ---
+Class: IAT100
+Date: 2009-12-04 22:56:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Blunt and tells it like it is. Great sense of humour. Really helpful.

@@ -1,0 +1,24 @@
+Professor: Jane McDonald
+Professor Legacy ID: 2921579
+Professor ID: VGVhY2hlci0yOTIxNTc5
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 1
+Avg Difficulty: 5
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: MACM316
+Date: 2023-08-21 23:52:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Avoid this professor at all costs

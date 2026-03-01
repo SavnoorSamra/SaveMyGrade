@@ -1,0 +1,258 @@
+Professor: Sarah Coupland
+Professor Legacy ID: 2275361
+Professor ID: VGVhY2hlci0yMjc1MzYx
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 3.9
+Avg Difficulty: 3.8
+Num Ratings: 19
+Would Take Again Percent: 73.6842
+
+Ratings Count Returned: 19
+
+--- Rating #1 ---
+Class: PSYC100
+Date: 2022-01-13 02:35:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+If you get the chance to take a course with Dr. Coupland you should! She was absolutely amazing and such a good professor when it came to explaining and teaching the material.
+
+--- Rating #2 ---
+Class: PSYC100
+Date: 2022-01-13 00:06:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She's very good at explaining the material and providing support and additional explanations if needed. I overall felt comfortable approaching her with questions I had, and I have a good experience with this class
+
+--- Rating #3 ---
+Class: PSYC100
+Date: 2022-01-04 18:21:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+really enjoyed the prof and her teaching style. class was fun for the most part
+
+--- Rating #4 ---
+Class: PSYC100
+Date: 2021-12-30 03:12:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I really liked going to lectures to get a better understanding of what we were learning that day. She was able to talk in lectures in a way that I could understand/ write down what she was saying.
+
+--- Rating #5 ---
+Class: PSYC100
+Date: 2021-12-28 07:18:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+VERY PASSIONATE ABOUT HER FIELD AND IS VERY ENGAGING IN LECTURE. MAKES LECTURE VERY ENGAGING AND ENJOYABLE. HOWEVER, TESTS WERE EXTREMELY DIFFICULT AND WOULD OFTEN HAVE NOTHING TO DO WITH CONTENT LEARNED IN LECTURE. MUST READ THE TEXTBOOK
+
+--- Rating #6 ---
+Class: PSYC100
+Date: 2021-12-27 00:10:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The professor did a great job at executing engaging lectures. I enjoyed attending lectures due to the professor's encouraging student questions and her fun personality. she also did a good job at explaining course material in the textbook in a more easy to understand way.
+
+--- Rating #7 ---
+Class: PSYC100
+Date: 2021-12-21 07:50:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Shes a great prof! I was worried the whole semester that I wasnt going to do well but then I ended up getting an A - everyones grade went way up at the end. I loved lectures and I really liked that our lowest exam grade doesnt count towards our final grade.
+
+--- Rating #8 ---
+Class: PSYC100
+Date: 2021-12-15 07:41:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Coupland is an amazing prof who cares about her students. Her lectures are light and they usually supplement the textbook material. Yes, you do have to read the textbook in this class but thats the reality with most university courses. You do need to pay attention to do well but if you do pay attention and do the readings, you can do well.
+
+--- Rating #9 ---
+Class: PSYC100
+Date: 2021-12-15 03:39:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+i don't know where everyone else in the class went to highschool but this wasn't a super hard class? i definitely didn't do great (though i know our marks will get curved so i'm sure it's not that bad), but people need to chill out. this is university, it's supposed to require work.
+
+--- Rating #10 ---
+Class: PSYC100
+Date: 2021-12-14 15:05:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+She knows majority of her students are first years and she still does not go easy on the exams. She will make them very difficult no matter how much you read the textbook. The one assignment she had given will boost up your grade but to do well on the exams you will need to memorize each and every word in the textbook.
+
+--- Rating #11 ---
+Class: PSYC100
+Date: 2021-12-07 19:16:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Honestly a great prof! One of the best I've taken at SFU. Easy to approach and seems to care if you do well. She's engaging and genuinely makes the content interesting (at least to an engineering student). Exams in person so be ready to study (and read the textbook), but easy MCQ.
+
+--- Rating #12 ---
+Class: PSYC100
+Date: 2021-12-01 04:35:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+for those other reviewers that are saying she's a bad prof, they've clearly never taken a university class. You're supposed to read in university and learn the material! Her exams are fair and she said lectures were intended to supplement the textbook, so don't blame her for not reading the syllabus
+
+--- Rating #13 ---
+Class: PSYC100
+Date: 2021-11-18 03:07:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Doesnt go over half the material in the textbook during lectures but everything ( all textbook material + lecture material ) is fair game for the exam. The questions are multiple choice but extremely difficult. Would not recommend taking it with this professor.
+
+--- Rating #14 ---
+Class: PSYC100
+Date: 2021-11-10 02:46:56 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+although she's a good prof. she gives clear real-life examples during lectures and the lectures are interesting. she picks the best 3 out of the 4 exams. the exams are extremely hard. although they are multiple-choice. it is mostly scenario-based + it's not fairly given. I would recommend taking another prof but if u have no choice, then go for her
+
+--- Rating #15 ---
+Class: PSYC100
+Date: 2021-11-06 07:05:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Coupland is a very professional, easy to understand teacher who makes concepts fairly easy to understand. The exams happen to not be very fair as they are standardized testing and focus on topics in the textbook that did not get covered in class. Exams include concepts that would be easily missed in the textbook.
+
+--- Rating #16 ---
+Class: PSYC100
+Date: 2021-11-03 22:35:50 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Coupland is good at teaching the concepts and they are easy to understand, however the exams are not fair. The exam mostly covers topics in the textbook that aren't even mentioned during the lectures and they're really focused on statistics or minor details that are really easy to miss rather than what you would assume is important.
+
+--- Rating #17 ---
+Class: PSYC391
+Date: 2020-06-29 22:11:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great class + the content was interesting! Though the exams were difficult, I was able to get a B! The assignment looks scary (worth 40%) but it was fun &amp; can easily boost your grade! I did mine in 1 day and got 88% &amp; class average was 77%! She gives examples in class for the paper as well! Highly recommend if you want to learn about IPV/stalking!
+
+--- Rating #18 ---
+Class: PSYC391
+Date: 2020-04-29 22:59:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Sarah was super nice. Amidst the covid-19 pandemic, she was accommodating and communicated frequently. She is definitely a tough grader and expects a lot for her exams. Other than that, I really enjoyed her class: shes a greater lecturer and brought her own research into the course.
+
+--- Rating #19 ---
+Class: PSYC391
+Date: 2017-09-10 15:51:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I loved this class! I learned a tremendous amount and now have a much better understanding of IPV and stalking. Sarah expected a lot from students, but readings were provided through canvas and lectures were recorded.

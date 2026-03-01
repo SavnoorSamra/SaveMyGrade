@@ -1,0 +1,50 @@
+Professor: Richard Gbedoah
+Professor Legacy ID: 2649999
+Professor ID: VGVhY2hlci0yNjQ5OTk5
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 3.7
+Avg Difficulty: 2
+Num Ratings: 3
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: POL121
+Date: 2025-05-09 10:12:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Prof Gbedoah is an amazing lecturer. He is always ready to help students outside the classroom.
+
+--- Rating #2 ---
+Class: POL121
+Date: 2025-05-09 10:09:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Prof Richard is one the best professors I have ever met. He gives clear instructions on assignments with good feedback. Always ready to go the extra mile to make all students are on the same page.
+
+--- Rating #3 ---
+Class: POL121
+Date: 2020-12-08 22:43:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I found that Richard was particularly harsh as a TA this semester. He seems like a nice guy, but the way he marked assignments was vastly different from the prof, resulting in a grade cleavage within the class. Additionally, he is one of those instructors that brags about never giving out A+ grades which seems rather pointless.

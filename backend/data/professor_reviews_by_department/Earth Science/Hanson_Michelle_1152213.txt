@@ -1,0 +1,11 @@
+Professor: Michelle Hanson
+Professor Legacy ID: 1152213
+Professor ID: VGVhY2hlci0xMTUyMjEz
+Department (CSV): Earth Science
+Department (Fetched): Earth Science
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

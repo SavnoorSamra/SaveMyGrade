@@ -1,0 +1,37 @@
+Professor: Edward Hung
+Professor Legacy ID: 3021096
+Professor ID: VGVhY2hlci0zMDIxMDk2
+Department (CSV): Management
+Department (Fetched): Management
+Avg Rating: 3.5
+Avg Difficulty: 4
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: MGMT420
+Date: 2026-02-18 03:24:15 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+This course is extremely boring and your grade is just dependent on extremely lengthy research assignments. By far the most boring course and the assignments feel more like a thesis project than short learning activities.
+
+--- Rating #2 ---
+Class: MGMT420
+Date: 2024-06-30 17:51:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+I found Ed to be a really great instructor. Key to success in his class is attending his office hours every week.

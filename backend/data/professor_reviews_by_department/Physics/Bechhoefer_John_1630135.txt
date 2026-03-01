@@ -1,0 +1,50 @@
+Professor: John Bechhoefer
+Professor Legacy ID: 1630135
+Professor ID: VGVhY2hlci0xNjMwMTM1
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 1.8
+Avg Difficulty: 4.3
+Num Ratings: 3
+Would Take Again Percent: 0
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: PHYS231
+Date: 2024-01-23 14:55:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Arrogant against international students.
+
+--- Rating #2 ---
+Class: PHYS211
+Date: 2018-12-04 02:43:35 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I went beyond expectations, doing extra practice, and I still didn't feel adequately prepared for his exams. You are at the mercy of his choices for questions: which can be difficult and unrelated to the practice. The average on the second midterm was 40%. I wish there were more demos.
+
+--- Rating #3 ---
+Class: PHYS231
+Date: 2011-10-23 23:16:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+he seems always in a rush when explaining things, as though he just want's to get it over with and get on with his own things. his notes are terrible (not to mention his horrid handwriting), and he doesn't really demo anything. you're pretty much on your own.

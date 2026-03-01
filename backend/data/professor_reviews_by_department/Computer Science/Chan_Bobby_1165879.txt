@@ -1,0 +1,271 @@
+Professor: Bobby Chan
+Professor Legacy ID: 1165879
+Professor ID: VGVhY2hlci0xMTY1ODc5
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.8
+Avg Difficulty: 3.2
+Num Ratings: 151
+Would Take Again Percent: 60.8247
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT276
+Date: 2025-05-21 20:48:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+clear lectures, knows what he is talking about, will get you interested in the material and the software space. make sure you are going for the employer project. he is accessible outisde of the lecture. will help you if you ask. the TAs are also good. You need to know the code for the Final and midterm and the theology for software developement.
+
+--- Rating #2 ---
+Class: CMPT276
+Date: 2024-12-12 06:30:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+(from Spring 2024) Bobby is very approachable and kind. Lectures are mostly conceptual, sometimes a little dense. He gives a few coding tutorials but you'll need to do some self-learning for the project. The lecture content and structure of the group project are extremely relevant to real-world software development. I really liked his curriculum.
+
+--- Rating #3 ---
+Class: CMPT272
+Date: 2024-11-14 07:11:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Assignments are engaging, but lectures can be disorganized. Bobby is helpful when asked questions. Unstuck ai was a lifesaver for exam prep. Overall, a solid course if you put in the work.
+
+--- Rating #4 ---
+Class: CMPT276
+Date: 2024-10-24 01:38:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Majority of the grade is based around one group project, this was clearly laid out and communicated. The project itself depends on how ambitious you want to be, need to find the goldilocks zone between being innovative enough and having the least amount of work without losing grades. Very nice prof overall and would recommend taking if you can.
+
+--- Rating #5 ---
+Class: CMPT276
+Date: 2024-10-08 21:00:38 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is good at teaching lectures, and the theory knowledge is interesting. But because 276 is a course that includes way too much workload, there are situations where he feels unhelpful. The feedback for projects are also very lacking, and it's confusing on how to do them better.
+
+--- Rating #6 ---
+Class: CMPT276
+Date: 2024-08-15 16:52:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is a good teacher, available and eager to assist students beyond regular office hours.
+
+--- Rating #7 ---
+Class: CMPT276
+Date: 2024-08-14 17:25:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is a nice prof I would say
+
+--- Rating #8 ---
+Class: CMPT276
+Date: 2024-08-08 04:40:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good prof, this class is very heavy in memorization and projects.
+
+--- Rating #9 ---
+Class: CMPT372
+Date: 2024-06-04 18:26:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+He was very kind and nice in lectures and while conducting himself with students. His course is more practical than theory based which is good for leaning. Assignments are fun but can take a little time and there was a group project where we got to implement our own ideas. I recommend the course for others!
+
+--- Rating #10 ---
+Class: CMPT372
+Date: 2024-05-28 05:48:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Kind guy. Explains things really well in class. There's a group project, he is not nit picky about things and just wants to see you actually learn in the course. Exams have stuff he's talked about/demoed in class so I highly recommend going in person.
+
+--- Rating #11 ---
+Class: CMPT276
+Date: 2024-04-26 06:37:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The main focus of the class is the project and is worth 40%. Bobby bases the project on web development, although the course material isn't explicitly about web development. He does however give a few tutorials during class and has a playlist on the basics of html, css, javascript and java spring which is enough to get started. Overall hes good.
+
+--- Rating #12 ---
+Class: CMPT120
+Date: 2024-04-18 02:13:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very difficult grader.
+
+--- Rating #13 ---
+Class: MACM101
+Date: 2024-04-13 17:26:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Simple assignment and exams, you may not need to spend lots of time on this course. Remeber to take notes, read textbook and do homework.
+
+--- Rating #14 ---
+Class: CMPT120
+Date: 2024-03-21 00:27:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great Professor, probably one of the only professors who asks to write midterm and final code on computer, which is really helpful as you can check your program by running it. Gives partial credit for almost everything, so write something and don't leave any questions.
+
+--- Rating #15 ---
+Class: CMPT372
+Date: 2024-03-01 04:07:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Bobby has a good attitude and is knowledgeable. He is very nice and it is easy to ask him questions and get extra help. The assignments are fun and practical plus there is a group project. Exams arent the easiest but a good professor none the less. Would recommend him!
+
+--- Rating #16 ---
+Class: CMPT372
+Date: 2024-02-27 02:33:29 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's a nice guy with good assignments and projects. His lectures are not that good however and his demos leave you clueless as to what's going on. He just fires off random examples of code that co-pilot writes for him and doesn't explain much about it. His slides are largely unhelpful and his exams are tough as well. Its a good course ig.
+
+--- Rating #17 ---
+Class: CMPT272
+Date: 2023-12-21 07:39:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Assignments will make you learn a lot and encourage searching finding answers online or through other sources. Bobby is very nice and gives great feedback and is very helpful when asked questions. Exams are usually slide & assignment based, very manageable if your review lectures or do good on assignments
+
+--- Rating #18 ---
+Class: CMPT272
+Date: 2023-12-06 00:42:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great professor. He taught everything slowly and understandably in a very rigorous manner. The assignments were fun and not too serious, and he was very responsive to emails and questions. He does not speed through the course; rather, he stops at every part to make sure everyone understands. Amazing professor, strongly recommend.
+
+--- Rating #19 ---
+Class: CMPT272
+Date: 2023-12-02 21:30:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Bobby does mostly demos in class and posts them to GitHub which I liked. He is passionate about web dev which kept lectures engaging and is always available for Q's. This course had a LOT of material and was quite overwhelming at times but I learned a lot! Def not a GPA booster course but would recommend if ur interested in web dev.
+
+--- Rating #20 ---
+Class: CMPT272
+Date: 2023-11-14 22:25:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Awful at explaining topics. His lecture notes are tested on yet he does not cover them in class which makes no sense. He instead does demo's and hardly explains what hes coding since he is just looking at another monitor with the code hes gonna write. He seems nice but SFU needs another prof teaching the course.

@@ -1,0 +1,279 @@
+Professor: Vanja (VJ) Terzic
+Professor Legacy ID: 3030154
+Professor ID: VGVhY2hlci0zMDMwMTU0
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.5
+Avg Difficulty: 2.9
+Num Ratings: 54
+Would Take Again Percent: 55.5556
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS240
+Date: 2026-01-09 02:18:58 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor is very skillful in making the lectures engaging for students, especially for a course this dull. However, assignments were brutal. Unreasonable quality expectations, given the questions were as easy as "What did you enjoy from today's lecture?" and it was literally impossible to get full marks on them. Horribly ambiguous criteria
+
+--- Rating #2 ---
+Class: BUS240
+Date: 2025-12-27 17:23:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great professor. Cares for his students. Grading is ambiguous and tough.
+
+--- Rating #3 ---
+Class: BUS240
+Date: 2025-12-23 20:30:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great instructor for this class! VJ is incredibly passionate, and it is clear that he cares about the success of his students. He does an amazing job of creating space for open dialogue and reflection, encouraging students to get out of their comfort zone. He values participation greatly; however, TA grading is very tough.
+
+--- Rating #4 ---
+Class: BUS240
+Date: 2025-12-23 19:39:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+VJ is an engaging professor who genuinely wants students to grow. Classes are meaningful, and the course is manageable with effort. Group projects can affect your grade depending on your group. Take advantage of office hours!!!. Support is always available, and poor results usually come from a lack of effort.
+
+--- Rating #5 ---
+Class: BUS240
+Date: 2025-12-23 13:41:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great professor who cares about students. VJ is always willing to help and accommodate with your schedule, take advantage of office hours so you can get the most out of this class. If you did not do as well in this class as expected it is simply due to a lack of effort on your end as there are many opportunities VJ offers to help students succeed.
+
+--- Rating #6 ---
+Class: BUS240
+Date: 2025-12-23 04:14:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+VJ is a super engaging prof who r genuinely wants to help students find their way and challenge their way of thinking. The work isn't super difficult but because of how tight the curve is you do have to try hard. Workload was light until the end but always manageable if you have a decent group. Super fun class if you participate!
+
+--- Rating #7 ---
+Class: BUS240
+Date: 2025-12-23 03:22:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+VJ is a really great professor who wants his students not only to understand the course materials, but also to help students understand themselves and help them achieve their goals. He creates an environment where learning feels meaningful, supportive, and engaging, encouraging students to ask questions and think critically.
+
+--- Rating #8 ---
+Class: BUS240
+Date: 2025-12-23 01:17:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Bus240 was overall a straight forward class, as long as you put the effort in. Group project assignments were not too difficult, but depend heavily on how your group members are. If you get unlucky, a singular part in the rubric can lower the grade you receive. Attend office hours, discuss questions with VJ, participate in class and you'll be good.
+
+--- Rating #9 ---
+Class: BUS240
+Date: 2025-12-22 02:09:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This class is straightforward if you attend regularly, as assignments and reflections are based on in-class material, with no major exams and only weekly quizzes. Only critique would be group projects, as you essentially have to get lucky. Attend class, put effort into assignments, and communicate with VJ if issues arise, and you'll do well.
+
+--- Rating #10 ---
+Class: BUS240
+Date: 2025-12-21 21:25:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I would say that the best thing that you can do is to make sure that you reach out to your professor as much as possible. GO TO OFFICE HOURS! If you want to do well make sure that you stay ON TOP OF YOUR HOMEWORK! Spend lots of time on the weekly assignments. I had to work hard for my grade and I believe your effort level is reflected in the grade.
+
+--- Rating #11 ---
+Class: BUS240
+Date: 2025-12-17 20:25:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Worst class in terms of grading ever
+
+--- Rating #12 ---
+Class: BUS240
+Date: 2025-12-15 22:42:46 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Do not take this course with VJ and especially if the TA is Daniel Kim. Extremely unfair grading and way to strict. Daniel and VJ have no idea how to grade and take off marks for the smallest things. The workload is crazy for 3 credit course and you might as well dedicate your life to innovation if you choose to take this class with these two.
+
+--- Rating #13 ---
+Class: BUS240
+Date: 2025-12-09 22:55:08 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's a chill guy don't get it twisted, but this guy is tryna make innovation my major. I never had this much course load for a 3 credit course, especially near finals. Buddy dropped 4 extra assignments after the final project. DO NOT TAKE VJ.
+
+--- Rating #14 ---
+Class: BUS240
+Date: 2025-12-09 03:12:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great guy but way too much work
+
+--- Rating #15 ---
+Class: BUS240
+Date: 2025-12-09 03:03:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Don't get me wrong VJ is a very nice guy and professor, however his courseload is way to much for a 3 credit course. He's giving way too many assignments due during finals season, and its very crowded. It's as if he thinks he has the only class at SFU and has no regard for students with multiple finals.
+
+--- Rating #16 ---
+Class: BUS240
+Date: 2025-10-19 08:08:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+VJ is a nice prof but the class was horribly structure. No real way to measure knowledge. Not worth it, rather have finals than depending heavely on getting good teamates and not missing a single quiz (2 per week). Just participate, really dont matter what you say, but do so as thats the only way to add points.
+
+--- Rating #17 ---
+Class: BUS240
+Date: 2025-05-15 20:38:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very nice professor 
+If you fall below the curve it's on you
+
+--- Rating #18 ---
+Class: BUS240
+Date: 2025-04-24 08:40:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures are 3hrs long, but there actually isn't much content. 
+No attendance, but he does randomly pick people off his list and if you're not there to answer then he marks you off. 
+I was lucky enough to have a decent group but there were slackers so be prepared to cover. 
+No finals but that means the weight is on all your assignments.
+
+--- Rating #19 ---
+Class: BUS240
+Date: 2025-04-24 05:07:46 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+VJ: great guy and cares about his students. Quick to respond to emails. Very approachable. 100% has favourites and does not hide it. 4.5/5
+
+TA's: horrible at grading, brutal at responding to emails and very unqualified. 0/5
+
+Class: average was a 83% so that becomes a B-. Group assignments are everything. No joke, 5% chance you get a good group. 1/5
+
+--- Rating #20 ---
+Class: BUS240
+Date: 2025-04-24 02:14:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He truly does care for his students, ta marking was very unnecessarily strict. Prof was amazing, he really is knowledgeable and helpful to everyone, he does have favourites and is lowkey scary.

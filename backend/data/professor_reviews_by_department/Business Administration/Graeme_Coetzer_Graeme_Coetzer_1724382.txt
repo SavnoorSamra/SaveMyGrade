@@ -1,0 +1,24 @@
+Professor: Graeme Coetzer Graeme Coetzer
+Professor Legacy ID: 1724382
+Professor ID: VGVhY2hlci0xNzI0Mzgy
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 1
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BUS272
+Date: 2012-08-18 23:15:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+aviod him at all cost. he doesnt teach the material but expects you to know what he thinks is required to do.

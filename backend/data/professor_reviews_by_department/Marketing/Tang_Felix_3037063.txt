@@ -1,0 +1,24 @@
+Professor: Felix Tang
+Professor Legacy ID: 3037063
+Professor ID: VGVhY2hlci0zMDM3MDYz
+Department (CSV): Marketing
+Department (Fetched): Marketing
+Avg Rating: 3
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BUS447
+Date: 2024-10-21 19:29:40 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Interesting prof

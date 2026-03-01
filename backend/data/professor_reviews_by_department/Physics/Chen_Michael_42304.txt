@@ -1,0 +1,272 @@
+Professor: Michael Chen
+Professor Legacy ID: 42304
+Professor ID: VGVhY2hlci00MjMwNA==
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 3.5
+Avg Difficulty: 2.8
+Num Ratings: 170
+Would Take Again Percent: 75
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PHYS101
+Date: 2025-06-26 00:51:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The goat. Funny and fair. Fair grading schemes and fair content on exams. W Chen
+
+--- Rating #2 ---
+Class: PHYS101
+Date: 2025-03-27 23:17:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Bro doesn't scale and removed iclicker to put more weight on final. Shame.... physics hard enough
+
+--- Rating #3 ---
+Class: PHYS101
+Date: 2025-01-22 03:55:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Horrible prof, no other words...
+
+--- Rating #4 ---
+Class: PHYS101
+Date: 2025-01-22 03:54:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He was a headache to understand in lecture with that thick accent. No wonder 2/3s of the class stopped coming after midterm 1. His class also didn't have any iclickers like past physics classes making the final worth more. While he was a kind guy, I would recommend taking it with a different prof as all the material will be self taught
+
+--- Rating #5 ---
+Class: PHYS101
+Date: 2025-01-08 19:29:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Chen is a very caring prof and I wish I could take another course with him again. I think he may have unfortunately retired as he is no longer listed the SFU physics department. He made awkward jokes which were pretty comical at times. The achieve homework was a lot at times but I think it makes sense for physics. Love this guy, he was so chill
+
+--- Rating #6 ---
+Class: PHYS101
+Date: 2025-01-03 08:45:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Michael Chen was a great guy himself, while it was hard to follow through with his lectures due to his accent he genuinely wanted to see his students succeed in the course. There is lots of homework so try to stay on track of that. He omits your midterm marks if you do better on the final and his exam written questions are from his lecture slides.
+
+--- Rating #7 ---
+Class: PHY101
+Date: 2024-12-19 23:49:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Attendance was very low, but he would often say which questions would be included in exams during lectures, and always had small demos, so I recommend going to class.  Written questions on exams were often very similar to questions in his slides or questions from the achieve homework.
+
+--- Rating #8 ---
+Class: PHY101
+Date: 2024-12-18 19:44:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Chen is an alright professor, however he is sometimes unclear during lectures and doesn't explain concepts fully. First midterm was very similar to the practice midterm given, second midterm was the complete opposite. The final was fair in my opinion. Class was scaled one letter grade at the end. Average was a B-.
+
+--- Rating #9 ---
+Class: PHY101
+Date: 2024-12-18 09:36:26 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's a good guy in general and sometimes funny in the lectures. 
+The thing is he doesn't do the calculations or doesn't go in depth for the problems. I did a lot of self study as my physics is not good. His exams are easy and so much like his lecture examples.
+
+--- Rating #10 ---
+Class: PHY101
+Date: 2024-12-17 08:40:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His accent & English pronunciation might be difficult to understand at times. Lectures are straightforward but some of the materials are easier to understand using other sources. Just make sure to do your homework and understand the concept, and you will be fine. His tests are very similar & sometimes copy and paste from homework & past exams.
+
+--- Rating #11 ---
+Class: PHY100
+Date: 2024-10-30 23:59:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Michael Chen's class is a mixed bag - lectures can be hard to follow, but his exams are very fair. Practice questions are key, and Unstuck ai was super helpful for test prep. Overall, not too difficult if you put in the work.
+
+--- Rating #12 ---
+Class: PHYS100
+Date: 2024-10-03 05:10:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+pretty good prof he explains things really well just do the practice exams because they are exactly like the actual exams
+
+--- Rating #13 ---
+Class: PHYS121
+Date: 2024-08-21 12:52:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+not an easy grader. tests are usually from homework or tutorial problems but the hardest ones from there. so u wont see anything unusual but definitely practice them. also very repetitive on questions so previous year papers are a way to go too
+
+--- Rating #14 ---
+Class: PHYS121
+Date: 2024-08-19 17:56:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Thanks to professor Michael Chen, I have finally received my credit for physics 121 on my second attempt! He curved grades in the end allowing me to pass with a c-! Failed the final with a 32% and still passed! Michael Chen THE G.O.A.T
+
+--- Rating #15 ---
+Class: PHYS121
+Date: 2024-08-12 19:08:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Michael Chen is the goat that's all that needs to be said. Fair midterms and fair final, you will never see anything beyond the scope of the material seen in class, homework and tutorials. This class is purely effort dependent. Also, Michael is a funny, he played the piano before a midterm to get us ready. Lectures are dry though, not gonna lie.
+
+--- Rating #16 ---
+Class: PHYS121
+Date: 2024-07-13 17:28:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+he's nice
+
+--- Rating #17 ---
+Class: PHY100
+Date: 2024-04-30 05:21:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ngl I barely listened during any lecture and just read the textbook. Midterms were super easy, questions were practically identical to past midterm questions. Hilarious, made everyone laugh a lot. He finished teaching the course like two weeks early. Chen was great
+
+--- Rating #18 ---
+Class: PHYS100
+Date: 2023-12-16 06:03:20 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I stopped going to lectures cuz genuinely his tone of voice would put me to sleep. all his midterms and finals are practically identical to his old 2018 practice ones so study those and you will do good. his lectures are optional for a reason. I stopped going and taught myself the material and it worked better for me.
+
+--- Rating #19 ---
+Class: PHY100
+Date: 2023-01-16 04:08:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+shits free if u study and dont fall behind; exams are super easy, he gives old practiced midterms/final exams online which are pretty much the exact same one youll take
+
+--- Rating #20 ---
+Class: 100
+Date: 2022-09-18 02:50:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I'm gonna be honest and not exaggerate anything- this prof does not know how to teach

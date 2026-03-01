@@ -1,0 +1,37 @@
+Professor: Donna Gerdts
+Professor Legacy ID: 1298761
+Professor ID: VGVhY2hlci0xMjk4NzYx
+Department (CSV): Linguistics
+Department (Fetched): Linguistics
+Avg Rating: 5
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: LING222
+Date: 2009-12-17 15:01:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Her grading scale is pretty high, but it is not that difficult to get a good grade in her syntax lecture as long as you do your homework and attend. Her lectures are not totally interesting but she is very helpful and understanding.
+
+--- Rating #2 ---
+Class: LIING222
+Date: 2009-11-27 12:17:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She is a very helpful professor and makes sure you understand the material! She truly cares about her students.

@@ -1,0 +1,271 @@
+Professor: Roger Hayter
+Professor Legacy ID: 72618
+Professor ID: VGVhY2hlci03MjYxOA==
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 2.9
+Avg Difficulty: 3.2
+Num Ratings: 27
+Would Take Again Percent: 0
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: GEOG323
+Date: 2016-06-18 23:59:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+boring class. out of dated materials, heavy lecture. Exams are all theories. Take it if you are good at memorizing.
+
+--- Rating #2 ---
+Class: GEOG221
+Date: 2016-04-14 01:28:53 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Easy A.
+
+--- Rating #3 ---
+Class: GEOG221
+Date: 2013-07-09 00:15:27 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+really boring, hard tests, easy essays but he doesn't mark them the TA does, textbook is boring,uses ancient charts and writes on overhead, extremely outdated but knows his stuff
+
+--- Rating #4 ---
+Class: GEOG221
+Date: 2013-05-20 14:56:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is a nice guy, relatively straight forward class. The TA marks the essays a bit hard considering the instructions were so vague. The exams are a lot of memorization, so make sure to study hard! If you have taken Micro or Macro this course will be an Easy A. It can be hard though, but overall not that bad.
+
+--- Rating #5 ---
+Class: GEOG221
+Date: 2012-12-08 21:03:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He's a super nice professor, and extremely helpful whenever you make an effort to go to him. The exam's are just memorizing the terms and concepts, pretty straight forward stuff. Not too hard to get an A.
+
+--- Rating #6 ---
+Class: GEOG221
+Date: 2010-10-15 05:19:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I don't know why people were saying this class was hard.  I put a decent amount of effort into it and managed to get an A+.  Exams were straight memorization of terms/main concepts and extremely fair.  The paper took quite a bit of work, but the subject matter involved was very interesting.  I would definitely take another class with Roger.
+
+--- Rating #7 ---
+Class: GEOG221
+Date: 2010-05-13 04:02:34 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Not sure how I ended up with a C in the course because I did work reasonably hard. But the class was just really hard to follow and almost a chore to actively participate in. The textbook was full of typos and grammatical errors that obscured its actual contents. Exams were fair. Professor is nice and knowledgeable, but not the best educator.
+
+--- Rating #8 ---
+Class: GEOG221
+Date: 2010-04-26 00:34:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+One of the worst class i have ever taken at SFU . Avoid all professors who use the book they wrote. We had to read his entire damn book that was as thick as a phone book! Had to buy the non refundable $90 custom courseware, unedited useless book. The exams are mostly MC, easy if you read and memorized the whole book which is near impossible!
+
+--- Rating #9 ---
+Class: GEOG221
+Date: 2006-11-09 01:29:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+what a brutal class.. prof still writing the text, we had to buy it chapter by chapter! exams were fair, but class torturous (boring, and Hayter all over the place, disorganized).  I'd reccommendthe class based on content, but not with this prof
+
+--- Rating #10 ---
+Class: GEOG221
+Date: 2006-08-25 02:37:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Honestly, Roger could make any subject interesting. He's interesting to listen to, has a great amount of knowledge, and is really interested in the material. It was an early morning class and he kept me awake the whole time!
+
+--- Rating #11 ---
+Class: GEOG221
+Date: 2005-10-15 17:58:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+not the most organized...but pretty hilarious. Class was easy to follow; he seems to really know his stuff.
+
+--- Rating #12 ---
+Class: 497FEILDENG
+Date: 2005-03-18 00:44:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+SO much fun. And he's hilarious.
+
+--- Rating #13 ---
+Class: GEOGFEILDSTUD
+Date: 2005-03-09 18:59:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+All the people that went loved Roger, though he had a tendancy to get lost more often than not... he kept things interesting, and our spirits high even on the most earliest and wettests of days.
+
+--- Rating #14 ---
+Class: GEOG221
+Date: 2004-03-27 17:43:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+he's got good stories .... lectures were kinda boring exams were easy.
+
+--- Rating #15 ---
+Class: GEO221
+Date: 2003-12-09 17:39:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very easy to follow and listen to.  Well carried lectures. Exam were easy!!! Would take another class with him for sure!
+
+--- Rating #16 ---
+Class: 221
+Date: 2003-11-21 04:03:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Brutal teacher, no textbook, poor organization..NEVER take a class with this dude!!
+
+--- Rating #17 ---
+Class: GEOG323
+Date: 2003-10-10 19:40:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+A great professor who has a lot of great stories about his past.  Sure he wanders but it stirs up the lectures a bit.  Field trip was awesome!  Exams and papers were fair.  I would recommend this course to anyone interested in economic geography!
+
+--- Rating #18 ---
+Class: GEOG426
+Date: 2003-09-19 03:06:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+This course on the Restructuring of BC's Forest Economy was one of the best I've taken in Geography. The class size was small allowing for good interaction and there's a cool field trip to the island. Roger teaches the course very well and is helpful.
+
+--- Rating #19 ---
+Class: GEOG220
+Date: 2003-07-20 22:15:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He called me stupid when I went to question him on a mark that he gave me.  He also proceeded to tell me he didn't know how I ever made it into Simon Fraser University!!!
+
+--- Rating #20 ---
+Class: GEOG221
+Date: 2003-05-11 21:02:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Almost too knowledgeable. Funny on the one hand, difficult to keep track of what he is trying to teach on the other. His knowledge was more interesting than the subject he was trying to teach (Economic Geography).

@@ -1,0 +1,76 @@
+Professor: Tony Wilson
+Professor Legacy ID: 1828120
+Professor ID: VGVhY2hlci0xODI4MTIw
+Department (CSV): Criminal Justice
+Department (Fetched): Criminal Justice
+Avg Rating: 2.4
+Avg Difficulty: 3.8
+Num Ratings: 5
+Would Take Again Percent: -1
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: CRIM135
+Date: 2013-12-15 14:12:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Tony is great if you are genuinely interested in the legal profession, or like a good story, but his teaching skills are seriously lacking. He is unorganized with his notes and the midterm exam was long and unfair. Interesting guy but would not recommend him.
+
+--- Rating #2 ---
+Class: CRIM135
+Date: 2013-11-27 13:43:55 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Tony is an alright prof.  Hes not super clear, but he definitely knows what hes talking about.  Make no mistake, this is a VERY hard class (especially for 100 level).  You need to know everything to do well.  However, you don't need the textbook too much, as everything on the exam is covered on the in class notes.  Just be prepared to write a lot!
+
+--- Rating #3 ---
+Class: CRIM135
+Date: 2013-11-02 18:30:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Awful prof and class. He talks too fast, covers too much material, and when asked to clarify just makes it worse. He makes rude comments and bad jokes. Told us this is his hobby since he make so much during his day job. Awful midterm. Too many questions and too much expect from 1st yrs. My TA (Sarah) is the only part I like about this class.
+
+--- Rating #4 ---
+Class: CRIM135
+Date: 2013-10-19 16:36:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Unreasonable hard class. Said that students told him he was too easy last year so he's making it harder now. Midterm was 30 short answer questions and 2 essay to be completed in 2 hours. Completely unreasonable. Courtroom assignment is 2,000 words (longer than most CRIM term papers) yet only worth 10%? Just avoid this class
+
+--- Rating #5 ---
+Class: CRIM135
+Date: 2013-07-08 01:25:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Took him in Fall 2012. A little disorganized but overall a great prof. The course wasn't overly difficult or time consuming, only had two exams and no essays.

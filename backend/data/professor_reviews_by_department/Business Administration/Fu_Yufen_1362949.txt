@@ -1,0 +1,24 @@
+Professor: Yufen Fu
+Professor Legacy ID: 1362949
+Professor ID: VGVhY2hlci0xMzYyOTQ5
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BUS312
+Date: 2009-11-27 02:09:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+great TA. very helpful and always available for help. definitely recommend seeing her if you have any questions!

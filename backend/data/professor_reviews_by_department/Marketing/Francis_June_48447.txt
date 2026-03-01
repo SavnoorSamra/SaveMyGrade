@@ -1,0 +1,258 @@
+Professor: June Francis
+Professor Legacy ID: 48447
+Professor ID: VGVhY2hlci00ODQ0Nw==
+Department (CSV): Marketing
+Department (Fetched): Marketing
+Avg Rating: 2.8
+Avg Difficulty: 3.5
+Num Ratings: 19
+Would Take Again Percent: 14.2857
+
+Ratings Count Returned: 19
+
+--- Rating #1 ---
+Class: BUS447
+Date: 2023-08-18 23:05:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Kind professor with an engaging teaching style. Makes marketing applicable to real life. Some students were sour about workload they thought was too heavy, and the fact that she makes you think critically.
+
+--- Rating #2 ---
+Class: BUS447
+Date: 2020-11-27 02:40:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+June is so disorganized. I have no clue what I was supposed to learn from this class. The project is super confusing and we have no idea what she expects of us. Avoid if you can.
+
+--- Rating #3 ---
+Class: BUS447
+Date: 2020-11-21 00:22:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+June is a very nice and approachable prof. However, she gives very loose to no expectations on assignments but then marks on a very specific rubric (never provided). She springs deadlines on you, gives very difficult feedback and is very disorganized. I wasn't sure what I've learned or what I was supposed to learn in this course.
+
+--- Rating #4 ---
+Class: BUS447
+Date: 2020-11-18 00:43:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+June tries to make the class engaging, and encourages everyone to participate. However, she is super disorganized in terms of assigning work, and the grading seems to be very random. There are no clear guidelines for any of the assignments we do. Great person, not-so-great professor.
+
+--- Rating #5 ---
+Class: BUS447
+Date: 2020-11-13 01:37:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+June is so unorganized, the class is a total mess. The content of the class and the ideas she wants to convey are great. It's unfortunate that she is so unclear and last minute in all her assignments and group projects. Great realistic curriculum, completely unrealistic expectations and deadlines. She also interrupts students constantly.
+
+--- Rating #6 ---
+Class: BUS447
+Date: 2019-11-29 07:08:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Honestly June is super unorganized and I feel like grades are assigned random. She takes forever to respond to emails, no office hours, unclear grading criteria, and gives you instructions for a group project week before its due. She criticizes every little thing you say or write to the point you'll start questioning your own sanity.
+
+--- Rating #7 ---
+Class: BUS447
+Date: 2019-09-20 22:07:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The worst professor I've ever had at SFU.
+
+--- Rating #8 ---
+Class: BUS447
+Date: 2011-01-11 01:08:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Honestly this is the most useful class you'll take in Marketing. It covers everything you ever learn, its a good way to round off your fourth year. Francis is clear and concise, she gives her students a realistic perspective of what a working environment is like. You'll get exactly what you put in to this class out of it!
+
+--- Rating #9 ---
+Class: BUS447
+Date: 2008-04-26 14:06:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+June's only legitimate weakness is that she is unorganized. She forgets about appointments, deliverable dates, etc. Otherwise, June is an awesome prof and this class is great. A lot of work, but it is worth it.
+
+--- Rating #10 ---
+Class: BUS447
+Date: 2008-02-19 15:33:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+REDICULOUS amount of work in this class.  not very open to student opinion and ideas.  very ****y when you try and express your opinion.  The projects are super big...3 credit class it really should be a 6 credit class.  take a different teacher or avoid class altogether
+
+--- Rating #11 ---
+Class: BUS447
+Date: 2007-12-06 17:24:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Too much things to do...but I get to learn a lot during the process but again.. High workload. found myself either catching up reading, doing paper, doing research, preparing  presentation, ok more research, doing paper...
+
+--- Rating #12 ---
+Class: BUS447
+Date: 2006-04-05 00:50:29 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Ok, prof. she is telling to many boring stories about her self in earlier life instead of teaching.
+
+--- Rating #13 ---
+Class: BUS447
+Date: 2006-01-13 01:44:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Excellent professor ever!!!
+
+--- Rating #14 ---
+Class: BUS447
+Date: 2005-12-21 05:14:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+very clear in lecture. somewhat interesting classes but not many new concepts learned from the course. very good hands on project that requires a lot of time so be prepared and put a good effort into it. very very nice prof that tries to relate and understand her students.
+
+--- Rating #15 ---
+Class: BUS447
+Date: 2005-01-14 08:47:54 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Biggest workload of any SFU Bus course. Assignments and projects are very demanding and time consuming. She is very picky in her marking. Although her lectures are interesting, I recomend to take bus 447  with another prof if you want to have time for other courses...
+
+--- Rating #16 ---
+Class: BUS447
+Date: 2004-08-26 02:37:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+interesting prof...you will enjoy listen to her...but the outline of her assignment is not very clear...anyway, she is a nice prof for marketing :)
+
+--- Rating #17 ---
+Class: MBA
+Date: 2003-09-19 20:42:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #18 ---
+Class: BUS343
+Date: 2003-08-22 19:22:20 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+great egs and very interesting to listen to
+
+--- Rating #19 ---
+Class: 343
+Date: 2002-06-18 02:42:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+she's cool

@@ -1,0 +1,37 @@
+Professor: Kitty Corbett
+Professor Legacy ID: 1150334
+Professor ID: VGVhY2hlci0xMTUwMzM0
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 3
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: HSCI301
+Date: 2010-12-14 22:21:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I think she is brilliant, I enjoyed attending her class. She was easy going, understanding, and helpful. I had trouble giving a presentation because I cannot do public speaking, and she was very encouraging and made me feel confident :)
+
+--- Rating #2 ---
+Class: HSCI9000
+Date: 2010-05-04 16:22:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+It appears she is more concerned about protocol than the learning of her students; she appears out of touch with the needs and desires of HSCI students, as most bureaucrats tend to be. It is regrettable, because she is a nice woman.

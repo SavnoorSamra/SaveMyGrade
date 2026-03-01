@@ -1,0 +1,89 @@
+Professor: Taeyoung Kim
+Professor Legacy ID: 2511273
+Professor ID: VGVhY2hlci0yNTExMjcz
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 4
+Avg Difficulty: 3
+Num Ratings: 6
+Would Take Again Percent: 50
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: CMNS202
+Date: 2022-04-22 20:13:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Although the content is quite dense and lots of reading, Taeyoung is a pleasant instructor in the sense that he tries his absolute best to make sure he's making sense to students and the class is not TOO dull. Very accessible, care about students (he notices if people seem to be tired and hurries to get us out to eat) Totally recommend
+
+--- Rating #2 ---
+Class: CMNS202
+Date: 2022-04-04 03:53:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I have to say this course is not friendly to students whose English is a second language because the TA will assume that you already know many terms that some "common" senses about doing research in the Western culture. preparing to read a lot of papers!! and write three difficult assignments. Also, there are many lab assignments!!! Good Luck!!
+
+--- Rating #3 ---
+Class: CMNS202
+Date: 2022-03-17 04:00:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: True
+Comment:
+This course is not difficult, but your grades depend on your TA
+
+--- Rating #4 ---
+Class: CMNS202
+Date: 2021-03-18 19:48:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+The lectures are a bit boring but he does his best to bring in interesting examples to liven up the content. The assignments are very well explained and lots of warning before a quiz and even opportunities for bonus marks! It is obvious he cares for students to do well.
+
+--- Rating #5 ---
+Class: CMNS202
+Date: 2021-03-18 19:12:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+The lecture material is dense but I believe Taeyoung did what he could to make the best out of the situation with examples and assignments. He was always accessible for questions, even before the semester had officially started. His quizzes and assignments were straight forward and came directly from lectures, readings, and tutorial.
+
+--- Rating #6 ---
+Class: CMNS202
+Date: 2021-02-06 01:40:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Lecture recordings are very boring and dull

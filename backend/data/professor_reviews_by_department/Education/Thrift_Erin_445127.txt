@@ -1,0 +1,154 @@
+Professor: Erin Thrift
+Professor Legacy ID: 445127
+Professor ID: VGVhY2hlci00NDUxMjc=
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.7
+Avg Difficulty: 2.5
+Num Ratings: 11
+Would Take Again Percent: 100
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: EDUC327
+Date: 2020-12-23 02:53:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Super supportive and willing to work with students outside of class. Lectures are optional, but super helpful for understanding the material. Highlights the main points of each article through a list of no more than 15 questions, which are discussed in class. Requires a one page summary of each week's readings, marked for completion only.
+
+--- Rating #2 ---
+Class: EDUC328
+Date: 2020-11-16 00:55:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Erin is one of my favourite profs. I took Self, Psychology and Education with her and Career Development and Career Counselling. Her level of knowledge is unparalleled, she is communicative, engaging, interesting, and just wonderful. I cannot say enough about her.
+
+--- Rating #3 ---
+Class: EDUC328
+Date: 2020-08-12 22:01:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Erin is a great prof. She makes her grading criteria clear and tried her best to make her class as accessible as she could despite the pandemic. She is kind and straightforward, lectures are not mandatory but will be helpful for the final paper. Grades are distributed well to different assignments. There is a group project, so keep that in mind.
+
+--- Rating #4 ---
+Class: EDUC328
+Date: 2019-08-01 02:40:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Erin is one of the kindest profs I have encountered at SFU. She is very helpful and will go above and beyond for students. Erin's projects were interesting and fun. One of my favorite profs, definitely take a class with her!
+
+--- Rating #5 ---
+Class: EDUC327
+Date: 2019-04-12 22:51:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Took educ 327 with Erin last Fall. She was excellent! Always there for students that needed help. Some of the readings were really dense but she's really good at going over the main points. Go to class! The seminar discussions were very helpful (boring some weeks though depending on the reading). Would totally take a class with her again!
+
+--- Rating #6 ---
+Class: EDUC327
+Date: 2019-04-05 22:29:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Erin is a phenomenal professor, I have nothing but good things to say about her. The class readings and assignments are very difficult, but Erin is always accessible for extra help. You can tell she really cares about her students and is passionate about teaching.
+
+--- Rating #7 ---
+Class: EDU400
+Date: 2011-07-15 22:33:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Great instructor, very helpful, and wants to see her students succeed-- in school and afterwards as well. Have her look at your resume, she will give great feedback. Lastly, it doesn't hurt that she's easy on the eyes as well... Recommended!
+
+--- Rating #8 ---
+Class: EDUC328
+Date: 2011-04-14 15:54:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Awesome Prof! A lot of work, project-wise but fair and straight forward!
+
+--- Rating #9 ---
+Class: EDUC328
+Date: 2007-05-11 17:19:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Very nice prof. she's helpful and is clear on the assignments. Some of the materials in this course is boring but overall a good course.
+
+--- Rating #10 ---
+Class: EDUC328
+Date: 2007-04-13 01:19:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Good prof, very interested in the subject. Tough marker and deducts marks for poor grammar, but willing to help students write their papers. Overall, good course, good prof.
+
+--- Rating #11 ---
+Class: EDUC328
+Date: 2004-08-15 02:44:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+interesting course. very nice prof. she's young & cute. she's a fair marker but picky on grammatical errors. the m/c final exam wasn't too hard & there was plenty of time (3 hrs) to do it.

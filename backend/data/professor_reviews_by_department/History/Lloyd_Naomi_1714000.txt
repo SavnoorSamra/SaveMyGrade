@@ -1,0 +1,11 @@
+Professor: Naomi Lloyd
+Professor Legacy ID: 1714000
+Professor ID: VGVhY2hlci0xNzE0MDAw
+Department (CSV): History
+Department (Fetched): History
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

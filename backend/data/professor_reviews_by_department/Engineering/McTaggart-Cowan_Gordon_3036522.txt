@@ -1,0 +1,11 @@
+Professor: Gordon McTaggart-Cowan
+Professor Legacy ID: 3036522
+Professor ID: VGVhY2hlci0zMDM2NTIy
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

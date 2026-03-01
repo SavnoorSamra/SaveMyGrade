@@ -1,0 +1,24 @@
+Professor: Olha Farion
+Professor Legacy ID: 3116469
+Professor ID: VGVhY2hlci0zMTE2NDY5
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 5
+Avg Difficulty: 5
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: PHYS121
+Date: 2025-11-20 06:39:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures were alright and tutorials were useless but Olha genuinely seemed to take notice of topics students struggled with & spent more time on them rather than skimming over them like most profs. Exams were very difficult and had low averages she ended up having to bring down the required grade boundary on our final exam from a 45 to like 37.

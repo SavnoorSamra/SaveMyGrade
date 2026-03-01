@@ -1,0 +1,65 @@
+Professor: Clifford Atleo
+Professor Legacy ID: 2793651
+Professor ID: VGVhY2hlci0yNzkzNjUx
+Department (CSV): Resource Management
+Department (Fetched): Resource Management
+Avg Rating: 4.8
+Avg Difficulty: 2.3
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: REM-207
+Date: 2025-07-15 01:55:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Atleo is extremely knowledgeable and his lectures are creative and engaging. The readings he assigns while sometimes long, offer many important histories and perspectives about what "Resource and Environmental Management" actually means. If you are interested in this subject you should take the opportunity to learn from such a great professor.
+
+--- Rating #2 ---
+Class: REM-207
+Date: 2025-04-15 06:12:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good lecturer, passionate about what he teaches but the readings are definitely long and dry, and the final exam for 207 had some pretty brutal short answer.  Tutorial is worth 20% of your grade, but the quizzes were never overly difficult.  Overall pretty great prof, would definitely have him again.
+
+--- Rating #3 ---
+Class: REM-207
+Date: 2025-04-10 08:18:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great lecturer, very charismatic. I could listen to him talk about current events for hours. Definitely cares about the stuff he is teaching which is nice.
+
+Quizzes are easy and fair, but tutorials are worth 20% of your mark, and are based on readings can be a little dry and long.
+
+--- Rating #4 ---
+Class: REM-207
+Date: 2024-10-22 00:54:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Atleo is great but for 207 the material is super easy you dont even have to go to lecture he just posts everything. The final was brutal in the written section as it required you to answer stuff like this author said these 3 things. When you have tons of readings to cover i feel that is super unfair. But he is a great prof overall.

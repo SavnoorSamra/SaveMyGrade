@@ -1,0 +1,37 @@
+Professor: Saman Harirchian-Saei
+Professor Legacy ID: 1740475
+Professor ID: VGVhY2hlci0xNzQwNDc1
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 5
+Avg Difficulty: 1.5
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: CHEM121
+Date: 2012-08-21 22:34:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+An awesome young prof!
+
+--- Rating #2 ---
+Class: CHEM121
+Date: 2012-08-13 04:21:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Dr. Saman Harirchian-Saei was awesome. Hands down, the best prof I've ever had. She always explained things clearly and she genuinely wanted her students to do well in the course. I thought the exams were fair and they weren't to difficult if you knew your stuff/studied well. She's a fantastic professor!

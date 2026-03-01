@@ -1,0 +1,76 @@
+Professor: Karen Palmer
+Professor Legacy ID: 1297434
+Professor ID: VGVhY2hlci0xMjk3NDM0
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 4.4
+Avg Difficulty: 3.8
+Num Ratings: 5
+Would Take Again Percent: -1
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: HSCI305
+Date: 2012-12-11 21:15:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+One of the best classes I've taken in university thus far. She's a tough marker, and you need to do thorough research to get a good grade. A lot of readings! But I guarantee you will definitely learn something in this class. Highly recommend Dr. Palmer!!
+
+--- Rating #2 ---
+Class: HSCI305
+Date: 2012-03-07 18:04:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Really nice professor. The topic is boring but Karen tires hard to make it interesting. There are a lot of readings and papers but the final is open book which is great!
+
+--- Rating #3 ---
+Class: HSCI305
+Date: 2011-12-08 17:56:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She's one of my fav profs now. She's clear what she wants in the assignments, and you can always feel free to ask her after class if you want clarification. She is very knowledgeable about what she's teaching, so it gets interesting when there's discussions in class. If you wanna do well in this class, work hard, and you'll be rewarded for it =)
+
+--- Rating #4 ---
+Class: HSCI305
+Date: 2010-04-27 22:45:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+I really appreciated the fact we worked hard and she had high expectations of us. Lots of reading, but very interesting material. If you're on her good side, she'll really support you. If not, she'll let you know!
+
+--- Rating #5 ---
+Class: HSCI305
+Date: 2010-01-06 03:35:27 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+karen is a great prof i really enjoyed this class. She knows her stuff and has a strong opinions, readily available for extra help.  Her assignments are fair, need to do a lot of research.  A LOT OF READINGS!! find ppl to split them up with and you'll be fine for the final exam! i would def recommend taking this class with Karen

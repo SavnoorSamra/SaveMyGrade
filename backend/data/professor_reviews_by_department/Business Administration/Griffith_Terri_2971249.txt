@@ -1,0 +1,37 @@
+Professor: Terri Griffith
+Professor Legacy ID: 2971249
+Professor ID: VGVhY2hlci0yOTcxMjQ5
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 1
+Avg Difficulty: 4
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS750
+Date: 2025-05-26 03:03:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: True
+Comment:
+Not recommended
+
+--- Rating #2 ---
+Class: BUS750
+Date: 2023-12-19 02:53:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Completely inconsistent grading, won't tell you what she wants because I don't she even knows. Pretty sure she doesn't read the assignments handed in.

@@ -1,0 +1,37 @@
+Professor: Russel Days
+Professor Legacy ID: 1652518
+Professor ID: VGVhY2hlci0xNjUyNTE4
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 1
+Avg Difficulty: 3.5
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: PSYC100
+Date: 2021-11-16 21:46:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Russel is a really nice guy and he always plays music at the start of class which is awesome however I dont like his teaching style. You basically have to teach yourself everything and the class is very overwhelming. The TAs are really hard markers and pretty much every class you either have a quiz, writing assignment or exam.
+
+--- Rating #2 ---
+Class: PSYCH100
+Date: 2021-09-25 00:37:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Does not go over real context, describes outline of each chapter and lets you read textbook on your own. Gives quizzes in tricky wording that fools unless you memorized the entire textbook. For example he would give you two answers that would be correct but you have to guess which is in his favour.

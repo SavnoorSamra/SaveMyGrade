@@ -1,0 +1,271 @@
+Professor: Neil Alberding
+Professor Legacy ID: 26410
+Professor ID: VGVhY2hlci0yNjQxMA==
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 3
+Avg Difficulty: 2.7
+Num Ratings: 109
+Would Take Again Percent: 50
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PHYS141
+Date: 2024-12-29 21:40:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best university prof I ever had. Everyone says he's a bad prof, but they never even bother to ask for help. He was very knowledgeable, you just had to ask for help. He was the first and last professor I had that threw a pizza party. Best prof ever
+
+--- Rating #2 ---
+Class: PHYS140
+Date: 2022-04-04 21:40:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I strongly advise you to avoid Neil. He's checked out during class time and it's clear that he doesn't give a flying raccoon about learning. What makes this course easy is that he grades very forgivingly to compensate for his lack of teaching. He likes to explain things once and never go back to it. He also uses iClicker. You have been warned.
+
+--- Rating #3 ---
+Class: PHYS132
+Date: 2020-12-19 09:57:28 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Even though this lab course was only a 1 unit course, it felt like 3 units at times. Alberding seems like a really nice guy, but somewhat clueless when it came to his students and teaching. The instructions on the lab were very unclear, leading to a lot of extra time and effort deciphering what was required, with little clarification from him.
+
+--- Rating #4 ---
+Class: PHY132
+Date: 2020-11-25 02:57:37 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+he chill and doesn't care much about late and extension but that also mean that he doesn't really care about teaching .
+
+--- Rating #5 ---
+Class: PHYS121
+Date: 2020-08-21 22:55:39 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Although not the most hardworking prof (recycled lecture slides), he really cares about his students. He took all questions, and responded to feedback. He was gracious about marks and responded to emails quickly. He would be 5/5 if he taught more effectively.
+
+--- Rating #6 ---
+Class: PHYS141
+Date: 2020-03-22 23:46:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Literally just an online class with flipitphysics, the lectures and activity guides he provides don't have anything to with the midterms or the final exam (its useless). You can still excel in this class, you just need to understand and learn everything from the online pre lectures, which is incredibly sad considering this should a physical class.
+
+--- Rating #7 ---
+Class: PHYS141
+Date: 2020-02-12 04:16:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Alberding spent no time preparing for lectures. He never does any example problems in class. We had to listen to the winded dude on flip it physics pre-lectures and sit though him going through textbook slides all to learn nothing. Then waste time doing activity guides, Physics 2 is a hard class to begin with and he makes it harder. Look Luck
+
+--- Rating #8 ---
+Class: PHYS141
+Date: 2018-03-05 16:21:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+If you wanna to pass the course, remember to attend the class while you just using iclicker to guess everything he said in the question in his lecture by doing nonsense flip it physics and also if u wanna pass the class get a c- well, gl my friend you have to borrow books from library doing tons of works to understand the things he saying.
+
+--- Rating #9 ---
+Class: PHYS141
+Date: 2016-04-21 01:44:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Avoid it at all costs. A good grade is achievable b/c activity guides are allowed in the exam but you're guaranteed to learn nothing at all. You have to buy smartphysics for both 140 and 141 and basically watch lectures and do tons of homework on your own time that make no sense, and then do boring uncoordinated, self-directed experiments in class.
+
+--- Rating #10 ---
+Class: PHYS140
+Date: 2015-12-05 19:33:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Not very helpful in lectures, pretty much just reads off the slides that are prepared for him. Would recommend taking this class in Burnaby with another prof  or just wait until spring semester to take the class with someone else
+
+--- Rating #11 ---
+Class: PHYS140
+Date: 2015-11-17 04:28:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Overall lazy teacher. Simply rereads lectures slides but does help if asked.
+
+--- Rating #12 ---
+Class: PHYS233
+Date: 2015-09-07 04:04:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+good prof. he explains the requirements for assignments and lab reports clearly and welcomes questions or suggestions. he opens opportunities to choose labs that you are interested in. this course is not hard if you prepared well before each lab and take time to write the report.
+
+--- Rating #13 ---
+Class: PHYS141D100
+Date: 2015-08-08 23:51:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+All you need to know is that you are gonna have a love and hate relationship with smartphysics
+
+--- Rating #14 ---
+Class: PHYS140
+Date: 2014-12-06 00:46:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Good at explaining. If you stick around after everyone else leaves, or come before class, he is more than willing to help you with anything, including random questions about physics.
+
+--- Rating #15 ---
+Class: PHYS120
+Date: 2014-02-23 17:47:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+the worst prof I have ever met across my academic career. he does not know how to teach at all. Taking his class is just a waste of time, but that is mandatory because of the iclicker. and he is unfair on grade. Having a highest mark exceeds the theoretical full mark is just like having rain in Vancouver. Please do try your best to avoid this prof!
+
+--- Rating #16 ---
+Class: PHY120
+Date: 2014-02-22 19:22:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Material is easy, Don't expect to learn anything from him in the lecture as all he does is rereading smartphysics again. Kinda forced to go to lecture for the iclicker marks when it is actually a completely waste of time
+
+--- Rating #17 ---
+Class: PHY120
+Date: 2014-01-22 20:54:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: N
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Best physics teacher I have seen in my life!
+
+--- Rating #18 ---
+Class: PHY120
+Date: 2014-01-09 10:10:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Baad just bad
+
+--- Rating #19 ---
+Class: PHYS120
+Date: 2013-11-20 19:33:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Screw this guy, that was a terrible class. 10/10 do avoid at all costs
+
+--- Rating #20 ---
+Class: PHYS120
+Date: 2013-11-14 02:08:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+all he does is basically reread the smart physics again. doesnt help on problems at all, if you dont get the smart physics lectures, youre pretty much dead..he'll scale you in the end, its just that youll probably end up with C+ or B-

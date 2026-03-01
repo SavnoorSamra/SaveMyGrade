@@ -1,0 +1,37 @@
+Professor: Jennifer Visser
+Professor Legacy ID: 3112398
+Professor ID: VGVhY2hlci0zMTEyMzk4
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 5
+Avg Difficulty: 3.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS361
+Date: 2025-12-20 08:10:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Half of your grade is based on group work, while the rest is individual. The individual work is really easy, so you gotta hope you get a good group. Lectures were good, and she really showed enthusiasm while teaching. She is willing to spend a lot of time helping you succeed.
+
+--- Rating #2 ---
+Class: BUS361
+Date: 2025-11-23 04:21:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I really enjoyed her class, which blended practical tools with economic and behavioral theory. She encouraged questions and was truly curious about whether we found value in the lessons, creating a supportive and engaging learning environment.

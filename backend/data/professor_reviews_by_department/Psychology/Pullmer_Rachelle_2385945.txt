@@ -1,0 +1,11 @@
+Professor: Rachelle Pullmer
+Professor Legacy ID: 2385945
+Professor ID: VGVhY2hlci0yMzg1OTQ1
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

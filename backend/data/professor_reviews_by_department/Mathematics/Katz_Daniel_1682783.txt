@@ -1,0 +1,63 @@
+Professor: Daniel Katz
+Professor Legacy ID: 1682783
+Professor ID: VGVhY2hlci0xNjgyNzgz
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4.1
+Avg Difficulty: 2.3
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: MATH232
+Date: 2012-05-03 03:19:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+The beginning of the course is the hardest part with tons of concept. Sometimes the textbook and assigment are more helpful than lecture, so do the assigment. His midterm and final are easy, if u fully understand the assignment.
+
+--- Rating #2 ---
+Class: MATH232
+Date: 2012-04-21 11:28:57 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+His midterms and final were super easy..actually I have never seen that such a kind of easy final exam...so you can easily get good grade..but I think he was not helpful.When I went to the workshop, he always held small lecture to the specific people..So I always use TA..but overall he is good prof.
+
+--- Rating #3 ---
+Class: MATH232
+Date: 2012-04-12 16:25:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+helpful good instructor!
+
+--- Rating #4 ---
+Class: MATH232
+Date: 2012-03-10 04:04:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+A good Prof. Comes to the workshop and helps students understand problems. Starts off with basics to make sure that students digest a bigger problem properly.

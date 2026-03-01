@@ -1,0 +1,276 @@
+Professor: Hang Ma
+Professor Legacy ID: 2653542
+Professor ID: VGVhY2hlci0yNjUzNTQy
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.1
+Avg Difficulty: 4
+Num Ratings: 33
+Would Take Again Percent: 28.125
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT310
+Date: 2025-05-15 22:45:17 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He doesn't have any office hours for this course, so reaching him is difficult. The course is a famous CS188 UCB course, and he is not familiar with the materials. Better lectures are available on Youtube for the identical course.
+
+However, CS188 itself is a pretty good course, so the assignments that comes with it is good practice.
+
+--- Rating #2 ---
+Class: CMPT310
+Date: 2025-04-16 21:23:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The assignments and exams are very easy, and he gives you a lot of practice material to succeed. His lectures aren't great, but just watch the CS188 Berkeley lectures and you'll do fine.
+
+--- Rating #3 ---
+Class: CMPT417
+Date: 2025-04-08 22:09:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sometimes questions were unclear for the homework, but in general he was generous with grading and the examinations were relevant to the material.
+
+--- Rating #4 ---
+Class: CMPT310
+Date: 2023-04-25 07:00:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The lectures were not the best but there were good alternatives online. Grading was also pretty lenient and fair.
+
+--- Rating #5 ---
+Class: CMPT310
+Date: 2023-04-19 06:50:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Administration in this course was the worst I've seen in my four years as an undergrad. Two weeks wasted due to snow day and midterm lead to content overload towards the end, and this is the first final where I had no clue what to write. Did not show up to proctor his own midterm, and showed up late to his own final. Actions show a lack of care.
+
+--- Rating #6 ---
+Class: CMPT310
+Date: 2023-04-17 00:29:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He and his TAs don't answer questions on Piazza often, but when they do it's only partial information. The last month and a half was extremely rushed and surface-level. Overall very disappointing quality teaching. 
+You can use CS188 UC Berkeley material at home to get a good grade. All content is taken from there, assignments, exams, everything.
+
+--- Rating #7 ---
+Class: CMPT310
+Date: 2023-04-16 00:52:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+The professor seems to have left every responsibility to the TAs and the University of Berkeley. The material is taught poorly, nobody answers questions in piazza, and the sample exams have the same question copy-pasted 5 times and little resemblance to the actual exams. Can't believe I paid for the exact free online course with added stress, shame
+
+--- Rating #8 ---
+Class: CMPT310
+Date: 2023-04-14 22:13:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Most Prof usually try their best to simplify complex and abstract concepts to spark students' interest and encourage active thinking. However, this Prof made the simple course extremely complicated, making me feel disgusted with the topic of AI, which I used to be very interested in. Hang Ma is not suitable for teaching a introductory courses!
+
+--- Rating #9 ---
+Class: CMPT310
+Date: 2023-04-14 08:05:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+RUN! The professor gave a very easy sample exam and a very, very hard real exam. You can't get any helpful information from the sample exam. The question type, number of questions, and difficulty of the questions have nothing to do with your actual exam. The level of teaching is completely out of proportion to the difficulty.
+
+--- Rating #10 ---
+Class: CMPT310
+Date: 2023-04-12 08:56:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This professor doesn't know how to teach a course. The teaching in the first two months was extremely slow, but in the last month, we almost covered 3/4 of the entire semester's content. There's less than a week left until the final exam, but we still don't even know the scope of the exam! He never sends any emails or announcements to students!
+
+--- Rating #11 ---
+Class: CMPT310
+Date: 2023-04-09 03:07:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Hang Ma is one of the most lazy and unaware profs I ever had. He doesn't respond to any emails/piazza posts from students and unaware of incorrect grading from TAs. The whole course is copied from UC Berkleys CS188 class, where its the same slides, assignments, and even tests. Basically, you're paying for a course that's online on the internet.
+
+--- Rating #12 ---
+Class: CMPT310
+Date: 2023-03-16 23:46:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Avoid this professor and his TA! He is really overrated!! His attitude towards teaching is very negative, many uncertainties in this course. The lecture notes and assignments are completely copied from UC Berkeley CS188 (thanks UCB) without any modification. I cannot understand I paid tuition for public resources that can be fully searched online.
+
+--- Rating #13 ---
+Class: CMPT310
+Date: 2023-03-15 02:10:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I am OK with using good materials for teaching. But the experience of taking this course was so bad, the TA made me feel I am a guilty person. Although many students didn't cheat, they still got 0 for assignments (the number of people who got 0 halved in a few days). This prof leaves everything to TA, and the course is really lack of transparency.
+
+--- Rating #14 ---
+Class: CMPT310
+Date: 2023-03-13 09:28:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+SFU should investigate this course. Why are all his lecture materials and assignments copied from other university, with no punish for him? TA frequently sends threatening emails to students, claim they have a software to check cheating, but many of the accusations are unjustified. Taking this course has caused me a lot of fear and mental stress!!!
+
+--- Rating #15 ---
+Class: CMPT310
+Date: 2023-03-13 07:31:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+His exams are excessively difficult! Before the exam, the TA provide a sample midterm, but the difficulty level of the sample questions was relatively easy. However, the actual exam was 100 times harder than the sample midterm! Many people thought this was a relatively easy exam based on sample exam, but the actual exam was extremely hard!
+
+--- Rating #16 ---
+Class: CMPT310
+Date: 2023-03-13 07:29:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Please avoid this professor and his TA! 
+
+His TA accuses students of cheating without any direct evidence. So far, more than 50 people have received 0 for assignment 1 and assignment 2 due to cheating accusations! We have around 130 students taking this course, and it is not possible for each person to invent a different algorithm.
+
+--- Rating #17 ---
+Class: CMPT310
+Date: 2023-03-12 23:04:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The professor does not care about students AT ALL. Never get contact with him, Never reply to emails, Even not show up on midterm day. Never met a professor like this. All the announcements come from TAs, even when 33 out of 110 people get 0 in their homework,  still the TA sent out the email. Don't know what's wrong with the professor's email0
+
+--- Rating #18 ---
+Class: CMPT310
+Date: 2023-03-12 22:55:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This whole course including the assignments is copied from UC Berkeley CA188, not a single word was modified. Professor just read the slides, the original UCB lecture on youtube are way better than this professor's lecture. 1/3 of people get 0 for one assignment because there are similarities in some of their functions.
+
+--- Rating #19 ---
+Class: CMPT310
+Date: 2023-03-12 22:55:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The course material is very enjoyable (tho copied from UC berkley's introduction to AI slide by slide) and I do enjoy the lectures, but I was one of MANY accused of cheating on an assignment worth 10% because my solution was similar to another students by chance. The algorithm isn't complicated and it's very easy to have similar implementations.
+
+--- Rating #20 ---
+Class: CMPT310
+Date: 2023-03-12 22:46:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+On some sort of mission to find academic dishonesty when it isn't there. Accused 33 students of AD when they wrote code based on the pseudocode in the slides. Complete disconnect between prof & TAs, both of whom say contradicting information about the course. Midterm is nothing like the assignments or sample exam. Avoid at all costs!!

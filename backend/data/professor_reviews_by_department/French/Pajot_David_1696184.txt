@@ -1,0 +1,206 @@
+Professor: David Pajot
+Professor Legacy ID: 1696184
+Professor ID: VGVhY2hlci0xNjk2MTg0
+Department (CSV): French
+Department (Fetched): French
+Avg Rating: 4.6
+Avg Difficulty: 2.2
+Num Ratings: 15
+Would Take Again Percent: 100
+
+Ratings Count Returned: 15
+
+--- Rating #1 ---
+Class: FREN301
+Date: 2019-01-17 01:59:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+he is such a sweetheart &lt;3 so helpful and so nice, he's an amazing prof
+
+--- Rating #2 ---
+Class: FREN301
+Date: 2018-10-05 19:52:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+David is without a doubt one of the most valued professors at SFU. He genuinely seeks to improve your understanding of the French language. I wish every professor could follow in his footsteps.
+
+--- Rating #3 ---
+Class: FREN304
+Date: 2018-03-09 23:07:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+David is an amazing prof! He helps his students and he is very kind and understanding.
+
+--- Rating #4 ---
+Class: FREN23
+Date: 2017-03-06 01:35:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Charismatic, clear with expectations, interesting lectures, easy grader, thorough feedback. In addition to being a good prof, David is a very genuinely kind man whose first nature is to help you, academically and otherwise. I have a great deal of personal and professional respect for him. The French Department is lucky to have him.
+
+--- Rating #5 ---
+Class: FREN301
+Date: 2016-01-14 18:53:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+he's like a caring dad that actually wants his students to do well and succeed in life, not just pass the course. he'll give you an easy pass if that's what you're aiming for, but I think his goal of being there is to help you on your way to success.
+
+--- Rating #6 ---
+Class: FREN211
+Date: 2016-01-03 04:41:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+David is méga cool. He made coming to class enjoyable. He taught our class things that were outside of the course description, which we could actually apply/use in daily life. He is hilarious, encouraging, intelligent and willing to help his students. I will never forget this course because he made it so much fun! One of my favourite profs/people.
+
+--- Rating #7 ---
+Class: FREN211
+Date: 2015-12-06 03:30:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+David is an angel. He is so helpful and genuine. He cares about the success of his students and is always there to help and make sure you're on track. David makes it so much easier to learn another language, and he's hilarious! Never a dull moment. Would definitely recommend him.
+
+--- Rating #8 ---
+Class: FREN211
+Date: 2015-07-19 12:58:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+David is one of the best French teachers I have ever had. He is very helpful and fair.
+
+--- Rating #9 ---
+Class: FREN301
+Date: 2015-04-25 16:42:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+My assignments added up to a B+ and he gave me a B- meaning he either failed me on the final exam, even though I walked away feeling great about it, or docked marks in places I didn't know about. This was the lowest French mark I've ever gotten and I usually get A's.
+
+--- Rating #10 ---
+Class: FRENCH122
+Date: 2013-04-24 02:19:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+David is the best prof ever. He is funny, smart and definitely wants his students to succeed. He helps you understand the rules in french and always provided an entertaining class. If have him as a prof, you are in for a treat! (And a good grade, granted you put the necessary effort in)
+
+--- Rating #11 ---
+Class: FREN210
+Date: 2013-02-19 04:07:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+C'est un prof genial! David was cares about his students and class is always fun and engaging. Fun class.
+
+--- Rating #12 ---
+Class: FREN211
+Date: 2012-11-30 17:33:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Best French Professor Ever!!! I have never enjoyed coming to French but David makes it fun and engaging I highly recommend this prof. He really cares about trying to get his students to succeed in a department that more or less ruins GPA. David c'est fantastic!!!
+
+--- Rating #13 ---
+Class: FRENC122
+Date: 2012-11-07 02:32:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+makes french class extremely interesting and fun! highly recommend taking a class with him, you really can't go wrong with him
+
+--- Rating #14 ---
+Class: FREN122
+Date: 2012-08-18 22:06:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is by far the best French prof at SFU. He uses immersive-style teaching, meaning he tells you why the grammar is as such instead of just following the textbook. Class is so chill and full of jokes. You cannot go wrong with this guy.
+
+--- Rating #15 ---
+Class: FREN221
+Date: 2012-03-16 22:47:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Best french professor!

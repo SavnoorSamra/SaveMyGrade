@@ -1,0 +1,167 @@
+Professor: Frank Gobas
+Professor Legacy ID: 1372200
+Professor ID: VGVhY2hlci0xMzcyMjAw
+Department (CSV): Resource Management
+Department (Fetched): Resource Management
+Avg Rating: 3.7
+Avg Difficulty: 3.1
+Num Ratings: 12
+Would Take Again Percent: 100
+
+Ratings Count Returned: 12
+
+--- Rating #1 ---
+Class: REM100
+Date: 2024-08-21 21:58:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+He came in mid semester after the previous prof left. Frank did a great job, responded to emails promptly and was genuinely nice overall. He wants you to suceed. Do well on assignments and you'll be fine. Midterms and finals are just based off luck ngl. Studying for it won't guarantee A+.
+
+--- Rating #2 ---
+Class: REM445
+Date: 2022-12-09 21:11:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Really great prof who wants you to succeed! He's very nice when you ask him questions and he is always willing to help. One of my fave profs at SFU. My 1st REM class btw. His lectures r a bit disorganized but it falls in place by the end. He engages the class w/ Qs during class. You learn lots on the final project- do ask him lots of Qs! Great!
+
+--- Rating #3 ---
+Class: REM445
+Date: 2021-11-19 19:53:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is such a nice soul. He loves his job and he genuinely gets happy when his students understand and ask questions. Always smiling and always helpful. One of the best gem profs SFU has seen. Very valuable and knowledgeable. The negative reviews come from 1st years who dont know the structure of REM courses. THIS PROF IS AWESOME.
+
+--- Rating #4 ---
+Class: REM445
+Date: 2019-01-03 00:47:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Really enjoyed his REM 445 course. He is enthusiastic, knowledgeable and breaks things down into easy to grasp bites. He is also very understanding of personal affairs and is quite reasonable and curious to requests for extensions or re-dos. The final project for this course was a doozy - start early. Graded very fairly.
+
+--- Rating #5 ---
+Class: REM100
+Date: 2010-03-07 02:14:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I only needed to go to my tutorials and the review classes before midterm and final and still got an A-. Most of his slides were unnecessary, just read the TB pages assigned. The term paper was ridiculously easy, and the midterms are fair but you better know your stuff because there's no time to think.
+
+--- Rating #6 ---
+Class: REM100
+Date: 2010-01-06 14:05:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+This prof is absolutly useless when it comes to teaching an introductory course.  I probably cut down an entire forest with all the paper i needed to print off his lecture slides this semester, which I gotta say don't help a whole lot.  My advice if your looking to take an elective out of interest or for GPA booster, avoid this guy.
+
+--- Rating #7 ---
+Class: REM100
+Date: 2009-12-16 20:45:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Great professor! Really cares about each and every student and tries his best to make every student succeed in his class. His exams are very fair, and if you study you should get an A at the least, and if you do not study, you will get a C or less.
+
+--- Rating #8 ---
+Class: REM100
+Date: 2009-12-10 08:03:03 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Awful!........ 40+ slides per 50 min lecture twice a week + 20 page term paper + 1300 word midterm (40 min to write) = FAIL.
+
+--- Rating #9 ---
+Class: REM100
+Date: 2009-12-09 23:50:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+First off, this guy can't use a computer to save his life.  Watching him trying to make one work in lecture is painful.  His lectures are dull and dry, this was a pretty disappointing class considering how interesting the material could have been. The midterm was ridiculous too! It was so hard he had to scale it so something like 6%(SIX) was a C-.
+
+--- Rating #10 ---
+Class: REM100
+Date: 2009-12-09 01:01:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Too many stuff to remember, more than I expected. He needs more experience on teaching introductory courses.
+
+--- Rating #11 ---
+Class: REM100
+Date: 2009-12-04 13:08:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Super enthusiastic. He usually teaches 400 level courses so he's a little unclear I think of how to teach introductory courses...  But he's awesome and I enjoy his classes! Just lots of material covered and detailed exams but he's great!  If you wanna have a laugh take his class.
+
+--- Rating #12 ---
+Class: REM100
+Date: 2009-12-04 12:49:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+No Comments

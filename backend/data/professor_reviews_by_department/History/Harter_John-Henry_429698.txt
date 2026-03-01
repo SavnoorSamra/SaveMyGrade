@@ -1,0 +1,273 @@
+Professor: John-Henry Harter
+Professor Legacy ID: 429698
+Professor ID: VGVhY2hlci00Mjk2OTg=
+Department (CSV): History
+Department (Fetched): History
+Avg Rating: 4.1
+Avg Difficulty: 2.7
+Num Ratings: 68
+Would Take Again Percent: 61.2903
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: LBST101
+Date: 2025-07-28 23:04:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Very kind professor, extremely supportive - the final essay requirement is 10 pages though so that's quite a tough ask for a 100 level course.
+
+Kindhearted and positive person. :)
+
+--- Rating #2 ---
+Class: HIST102W
+Date: 2025-04-30 03:58:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very nice and caring professor, good at answering questions from students, and not a tough grader by any means. It's not hard to get a good grade. My only two complaints are that he's a tad boring in his lectures in my opinion, and focused a bit too much on labour history in this class than other aspects of history. The textbook is long.
+
+--- Rating #3 ---
+Class: LBST301W
+Date: 2024-01-06 05:29:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Excellent professor who really cares about his students and their learning experience.
+
+--- Rating #4 ---
+Class: LBST301W
+Date: 2023-08-17 20:54:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Excellent class, interesting lectures and engaging discussions. Very relevant class with content that can apply to future classes and life in general. Really cares about students doing well.
+
+--- Rating #5 ---
+Class: HIST327
+Date: 2023-01-23 19:45:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very funny prof and gives lots of extra time to complete any material. That being said, his lectures are extremely boring, he gets off track regularly, and he reads directly from the PowerPoint. He is also a very hard marker, which you don't realize from his teaching style in class.
+
+--- Rating #6 ---
+Class: LBST330
+Date: 2022-04-22 22:56:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Hard marker but he is such an amazing person. In my 4 years of university, I have noticed that John-Henry Harter has been the only professor who genuinely cares about the well-being of his students. He understands when students need extra time to complete assignments due to things going on in their personal lives. His compassion is truly amazing.
+
+--- Rating #7 ---
+Class: LBST330
+Date: 2021-04-08 16:52:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Harter is probably the best professor Ive ever had - he keeps the course material super engaging and has very clear class expectations. Grades fair. Isnt afraid to crack a joke either!
+
+--- Rating #8 ---
+Class: LBST301
+Date: 2021-04-07 07:47:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I really loved Professor Harter. He was very kind, understanding and answered any questions I had regarding course questions/grading. If you have questions, just ask, don't assume. He was very communicative (e-mail), clear and the course was well structured. Probably one of my favourite professors I've had so far in the 5 years I've attended SFU.
+
+--- Rating #9 ---
+Class: LBST301
+Date: 2019-10-04 23:17:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He marks everything easy before the evaluation, so we can give him nice feedback. In fact, he is a tough grader for international students. He just wants to make some easy money.
+
+--- Rating #10 ---
+Class: LBST311
+Date: 2019-07-22 04:02:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+John-Henry is an engaging, fun lecturer with a formidable knowledge of Canadian history and politics. His class roleplaying scenarios, where groups of students portray opposing sides from true historical events, are unique and informative on a level not often experienced during lectures. When students bothered to engage, lectures were great!
+
+--- Rating #11 ---
+Class: LBST101
+Date: 2019-04-26 02:55:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+tough grader, with unclear grading scale.
+
+--- Rating #12 ---
+Class: LBST301
+Date: 2019-01-31 22:47:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Never gives efficient feedbacks for assignments till you come to talk to him. tough grader with unclear grading scales.
+
+--- Rating #13 ---
+Class: LBST301
+Date: 2019-01-31 22:32:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The grading scale is not clear and not fair at all
+
+--- Rating #14 ---
+Class: LBST101
+Date: 2018-12-06 15:30:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Difficult to understand what he wants from assignments. Discussions based on Canada only, so if you're a foreigner, it'll be hard to engage. Canceled our class right before the term paper submission, so we could not ask questions. Takes ages to reply emails.
+
+--- Rating #15 ---
+Class: LBST101
+Date: 2018-07-24 11:59:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Criteria is actually all laid out in syllabus. Great lectures. Takes students seriously and tries to answer all questions. One of the best profs at SFU.
+
+--- Rating #16 ---
+Class: LBST101
+Date: 2018-05-30 15:49:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Doesn't have a clear grading criteria. He lectures in a confusing fashion. Takes 1 month to return the first assignment. Unable to know how you're doing until it's too late.
+
+--- Rating #17 ---
+Class: LBST101
+Date: 2018-04-29 22:38:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Nice guy, tries to keep the lecture interesting for some very dry material. Course is mostly centered around tutorial work (3 mini papers, participation, + 1 large paper) so communicate with TA. His exams are fair.
+
+--- Rating #18 ---
+Class: LBST301
+Date: 2018-04-25 19:46:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This guy is one of the worst teacher you can find in SFU, all the assignment you submitted, you will get the grade like 1 month later. He mark everything just based on his own interest.
+
+--- Rating #19 ---
+Class: LBST101
+Date: 2018-03-26 17:12:23 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+John-Henry is a caring prof that encourages questions in class and lays out a clear syllabus at the start of the semester. However, I found his lectures to be a little dry, he cancelled the morning of the lecture twice, and shows an obvious political bias when he's teaching. There's no final, so it's a good elective to balance your course load.
+
+--- Rating #20 ---
+Class: LBST301W
+Date: 2017-12-10 12:31:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He goes through lecture very quickly, sometimes it's very hard to understand or keep up. Unclear about sources in research project. Marking is harsh, and assignments are returned late.

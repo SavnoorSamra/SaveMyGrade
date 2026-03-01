@@ -1,0 +1,24 @@
+Professor: Barbara Sanders
+Professor Legacy ID: 2578280
+Professor ID: VGVhY2hlci0yNTc4Mjgw
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: ACMA832
+Date: 2025-02-12 01:55:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She knows her stuff, and is generally very helpful. But you must follow her outline to the letter to get full points. Also expects you to put an honest effort into projects and papers rather than just getting answers right! (which I think is more important anyway.)

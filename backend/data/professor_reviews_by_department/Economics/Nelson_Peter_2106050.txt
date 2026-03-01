@@ -1,0 +1,50 @@
+Professor: Peter Nelson
+Professor Legacy ID: 2106050
+Professor ID: VGVhY2hlci0yMTA2MDUw
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 5
+Avg Difficulty: 3.3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: ECON201
+Date: 2016-08-19 13:13:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Awesome
+
+--- Rating #2 ---
+Class: ECON201
+Date: 2016-08-19 13:12:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+G.O.A.T
+
+--- Rating #3 ---
+Class: ECON302
+Date: 2016-01-27 10:53:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Really helpful after class and in office hours. It is very hard course and I would have failed without him

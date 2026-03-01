@@ -1,0 +1,24 @@
+Professor: Ravi Neelakantan
+Professor Legacy ID: 1590344
+Professor ID: VGVhY2hlci0xNTkwMzQ0
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 4
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: CHEM121
+Date: 2015-08-07 00:54:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+He was a good as a TA, he was young and more approachable than the others TAs in the class.

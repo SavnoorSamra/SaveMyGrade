@@ -1,0 +1,272 @@
+Professor: Dev Sharma
+Professor Legacy ID: 94429
+Professor ID: VGVhY2hlci05NDQyOQ==
+Department (CSV): Science
+Department (Fetched): Science
+Avg Rating: 2.9
+Avg Difficulty: 3.3
+Num Ratings: 48
+Would Take Again Percent: 35.7143
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CHEM210
+Date: 2026-01-05 17:39:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Everything went over in class was copy and paste from the textbook.
+No grading scheme was given, he made it up as we went along. We had 6 quizzes, the last was a "final quiz", so no actual final. Hard to study.
+
+--- Rating #2 ---
+Class: 216
+Date: 2025-12-11 01:31:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I actually hate how unorganized he is. I genuinely don't know how or why he's still here teaching. He needs to retire and rethink his choices.
+
+--- Rating #3 ---
+Class: CHEM111
+Date: 2025-07-03 05:13:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+The course is overall okay, but the labs are somewhat challenging. Additionally, Prof. Sharma's feedback and overall teaching style can be perceived as passive-aggressive at times. At other times, he sounds so done with us and acts like we are beneath him, not worth his time. Honestly, the TAs are better at teaching and giving feedback than he is.
+
+--- Rating #4 ---
+Class: CHEM210
+Date: 2024-12-16 23:09:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's expired.
+
+--- Rating #5 ---
+Class: CHEM210
+Date: 2023-12-08 17:14:14 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr.Sharma is kind, but his course is poorly structured and taught. He wants his students to succeed, but does not do much to help them. No midterm exam was given, only a few quizzes, the grades of which were returned only few days before the final & there was no chance to review the quizzes/learn from them. Be prepared to teach yourself content.
+
+--- Rating #6 ---
+Class: CHEM215
+Date: 2023-08-16 17:32:19 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took Chem 216 and 210 with Dr. Sharma this summer. He does care quite a bit for students however, his course is very disorganized. Ex. The final for 210 was based on lab reports which were not marked at the time of the final. Also, for students using ipads he rarely posts the lectures before class (if at all). These shouldn't be 2 credit courses.
+
+--- Rating #7 ---
+Class: CHEM122
+Date: 2022-08-12 02:59:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+He got a mic setup this semester so people could hear him better and it's helped so much. Just generally he's a considerate lab professor that's always on hand trying to make sure things run smoothly. Probably the only member of the SFU faculty that knows how to brew a potion
+
+--- Rating #8 ---
+Class: CHEM215LAB
+Date: 2022-08-10 00:28:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Chem 215 is a poorly structed course to begin with. Dev makes it far worse as every lab is essentially 5 hours of work for the lab reports OUTSIDE of the 4 hour lab time every week, plus readings, pop quizzes, lon capa, and a final. Trash professor who is well past his time teaching, can't even understand half of what he says.
+
+--- Rating #9 ---
+Class: CHEM215LAB
+Date: 2022-08-09 21:41:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Kind, caring professor! He looks intimidating at first, but once you interact with him during the labs, etc... you'll realize that he's pretty cool and willing to help you as much as possible.
+
+--- Rating #10 ---
+Class: CHEM215LAB
+Date: 2022-07-29 22:08:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He can be pretty intense and talk down to you when you ask him questions, but when he's in a good mood he is a fantastic lab instructor. If you show interest and ask him questions about most things out of the lab, he is truly caring and will give you a very detailed and thoughtful answer.
+
+--- Rating #11 ---
+Class: CHEM122
+Date: 2022-07-06 05:18:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Literal Dogwater! This ugly old man is the worst lab professor ever! He strictly enforces mask wearing while he himself walks around and yells at students with his mask off! All he does is mumble when he talks and no one can understand anything! And shuffles around, he can barely walk and his hands are look like the hands of a WITCH it's unsettling
+
+--- Rating #12 ---
+Class: CHEM215
+Date: 2019-03-29 08:01:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Only take this profs class if you like being talked down to when you ask for help on absurd and completely irrelevant assignments. Lectures are an absolute joke, good luck with the notes, and never believe a word this guy says. Not once did he come through with posting notes on time, posting the lab note book on time, or posting the right grades.
+
+--- Rating #13 ---
+Class: CHEM215
+Date: 2017-12-07 01:24:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Sharma gets a lot of hate but honestly in this last semester he saved my ass. Had a below average lecture prof and Sharma was the lab prof and went out his way all the time to offer help with LONCAPA and lecture questions, even on the day of the final. Such a gem if you show that you are willing to put in the work and you care about learning.
+
+--- Rating #14 ---
+Class: CHEM215
+Date: 2017-02-01 14:17:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+One of the nicest Professors you can meet. Genuinely concerned that you understand the material so long as you try and put in the effort, he will bend over backwards to help you. Very nice man too, explains things slowly and is very open to questions and is always very good at explaining his answers to them.
+
+--- Rating #15 ---
+Class: CHEM230
+Date: 2015-07-07 00:11:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Dr Sharma gets a lot of unwarranted hate, but it is undeserved. He is clear, gives great lectures-although the textbook is all you need if you don't want to go-, is always there to give help, and is passionate about teaching. My advice is to practise every question you can, as you need to understand why the calculations are made. Just study hard.
+
+--- Rating #16 ---
+Class: CHEM215
+Date: 2015-04-18 20:33:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I have to admit I thought I was in trouble the first couple of weeks in the course but If you focus on the assignments from lon capa his problems during class and lab work I guarantee you it'll end well.  He's extremely helpful if you talk to him and constantly get help. I'd say the tests are tough only if you skip loncapa, rest is easy!
+
+--- Rating #17 ---
+Class: CHEM215
+Date: 2014-07-21 23:16:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Dev Sharma is the worst teacher. He's very hard to understand, no ppt or notes. just overhead scribbles. pretty much screwed. lied to us about midterm being based on loncapa and class average was a fail. He told the class "It seems like none of you want to do well" and when we objected he just said "Oh so its my fault?" Yes, you taught nothing.
+
+--- Rating #18 ---
+Class: CHEM215
+Date: 2013-12-21 06:12:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Dr. Sharma is a very helpful individual, he is willing to help you with any problem you may have with the course as long as you are willing to approach him for help. Exam questions come from his assignments and examples. Attend the class, ask him for help and I assure you that you will succeed.
+
+--- Rating #19 ---
+Class: CHEM215
+Date: 2013-12-08 17:59:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+highly suggest!!!! Awesome prof. Midterm and Final are mostly from loncapa and Online quizes!!!! And he handed out candy during the exams!!!!Make sure you attend every class so that you know what topics gonna be in the exams. He has a bit accent and speaks not loud enough. I suggest to sit at the front rows.
+
+--- Rating #20 ---
+Class: CHEM215
+Date: 2013-09-06 01:12:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He's actually one of the few profs that i've had who will go over anything as many times as you want to make sure you understand what you're doing. To be honest this course can be difficult but coming to class asking questions doing loncapa and online quizzes will guarantee you at least an A-, if you make an effort to understand the concepts.

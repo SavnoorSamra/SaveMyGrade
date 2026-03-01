@@ -1,0 +1,24 @@
+Professor: Sharon  Hou
+Professor Legacy ID: 3101201
+Professor ID: VGVhY2hlci0zMTAxMjAx
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: EDUC422
+Date: 2025-08-21 03:47:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Sharon is a very welcoming prof. She sends encouraging weekly emails that include important updates, which is helpful for organization. She also holds open office hours each week if you need to talk to her. Her grading is reasonable and the course assignments are interesting. I would love to take another course with her!

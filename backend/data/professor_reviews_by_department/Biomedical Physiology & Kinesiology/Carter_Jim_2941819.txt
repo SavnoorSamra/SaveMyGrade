@@ -1,0 +1,11 @@
+Professor: Jim Carter
+Professor Legacy ID: 2941819
+Professor ID: VGVhY2hlci0yOTQxODE5
+Department (CSV): Biomedical Physiology & Kinesiology
+Department (Fetched): Biomedical Physiology & Kinesiology
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

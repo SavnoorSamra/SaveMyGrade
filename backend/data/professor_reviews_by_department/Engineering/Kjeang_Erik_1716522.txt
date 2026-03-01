@@ -1,0 +1,182 @@
+Professor: Erik Kjeang
+Professor Legacy ID: 1716522
+Professor ID: VGVhY2hlci0xNzE2NTIy
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 4.1
+Avg Difficulty: 2.9
+Num Ratings: 13
+Would Take Again Percent: 88.8889
+
+Ratings Count Returned: 13
+
+--- Rating #1 ---
+Class: mse422
+Date: 2025-10-28 16:22:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He cares about his students and his course. The course is very well organized; he knows what he wants to talk about in advance and always plans ahead. He checks everything carefully and never surprises you with random computer glitches, equation errors, or other issues that unorganized professors often face while teaching.
+
+--- Rating #2 ---
+Class: MSE223
+Date: 2025-04-25 18:51:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+recorded lectures, very sweet guy
+
+--- Rating #3 ---
+Class: mse422
+Date: 2025-02-01 02:10:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great professor! His lecture tried to cover all important aspects revoling the topic. He also gave some examples from his own experience and research into his lecturer, making it more comprehensive and understandable!
+
+--- Rating #4 ---
+Class: MSE223
+Date: 2024-12-19 00:07:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+MSE 422: This guy is a beast as a below-average student. All lectures recorded and his tests are very similar to what is in his lectures and study guide from the textbook. Nice guy super fair and this class was some giga nerdery levels of hard without this prof. Idk how I got such a good grade, take any class you can with the GOAT ERIK.
+
+--- Rating #5 ---
+Class: MSE210
+Date: 2024-04-27 02:03:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Nice attitude and a very caring prof. Lectures were kind of boring, but he does try his best. Assignments were easy and tests were okay.
+
+--- Rating #6 ---
+Class: MSE223
+Date: 2024-01-22 05:39:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very good prof. Even when he covers difficult material, he's very reasonable with his marking and the amount of work that he makes his students do.
+
+--- Rating #7 ---
+Class: MSE223
+Date: 2022-05-03 14:33:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Erik's way on explaining lecture materials was super detailed. Every little details (assumptions and etc.) must be written in the solutions. He is very lenient in grading; he doesn't care about values, but cares about the steps to get those values. Just follow his lectures and do all the homework he gives, and you should be good to go.
+
+--- Rating #8 ---
+Class: MSE223
+Date: 2022-04-25 04:55:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I think the other reviews on here for Erik are quite antiquated. Overall, very good proff. Cracks lots of good jokes, although I think I was the only one laughing at them lol.
+
+Left the course with a strong understanding of fluid mechanics. Erik was very application oriented and I'm craving to learn more and apply the knowledge gained.
+
+--- Rating #9 ---
+Class: MSE210
+Date: 2019-04-04 20:50:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Overall my experience with the course was very poor. As a fourth year student, if I had encountered this professor earlier in my undergraduate career I would have reconsidered my program choice due to this professor's teaching ability and attitude. I felt that the professor was actively attempting to create an inconvenience for students.
+
+--- Rating #10 ---
+Class: MSE223
+Date: 2015-05-05 22:58:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great Prof overall and his Midterm and Homework assignments are easy as long as you do some practice questions and pay attention in class. The final however is another story. Extremely hard final. Just get the highest possible grade going into the final and just hope you pass the final which is worth 50% of the class mark.
+
+--- Rating #11 ---
+Class: MSE210
+Date: 2014-12-16 00:09:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I had Dr. Kjeang for Statistics and Engineering Measurement.  The class is boring as hell, but he does the best he can with it.  He's funny, and the lectures are very clear.  He also has a good attitude towards his students and his exams were very fair.
+
+--- Rating #12 ---
+Class: ENSC280
+Date: 2013-04-27 02:05:03 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+A funny prof who does lots of interesting survey. His notes and lectures are very helpful. Exams are ok as long as you do his assignments and labs. And yes, watch out for his pop quiz.
+
+--- Rating #13 ---
+Class: ENSC280
+Date: 2013-02-01 17:01:33 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Well prepared before class, very enthusiastic, and helpful.  Course is easy if you use his notes and do the assigned homework.  Watch out for pop quizzes.

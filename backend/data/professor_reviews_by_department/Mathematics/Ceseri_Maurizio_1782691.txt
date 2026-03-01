@@ -1,0 +1,37 @@
+Professor: Maurizio Ceseri
+Professor Legacy ID: 1782691
+Professor ID: VGVhY2hlci0xNzgyNjkx
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: MACM316
+Date: 2013-01-07 13:06:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Nice prof! His excellent notes make everything clear. Assignments are not hard but useful. Easy midterm and final :)
+
+--- Rating #2 ---
+Class: MACM316
+Date: 2012-12-15 10:50:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Finally a math prof that can actually teach. His notes were fantastic. Homework was actually useful homework.

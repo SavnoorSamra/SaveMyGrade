@@ -1,0 +1,50 @@
+Professor: Rob Rondeau
+Professor Legacy ID: 2759316
+Professor ID: VGVhY2hlci0yNzU5MzE2
+Department (CSV): Archaeology
+Department (Fetched): Archaeology
+Avg Rating: 5
+Avg Difficulty: 2.3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: ARCH200
+Date: 2022-01-28 03:58:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Rob Rondeau is an extremely passionate and knowledgeable underwater arch prof. His lectures were entertaining and insightful. He is very understanding when it comes to deadlines and cares about his students succeeding!
+
+--- Rating #2 ---
+Class: ARCH200
+Date: 2022-01-28 03:33:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Rob was an amazing professor! You could tell he was really passionate about the subject, and he really wanted the students to succeed. It was inspiring seeing how much knowledge he had on underwater archaeology and the love he has for the field. He was very understanding with deadlines and always replied to emails efficiently. Awesome guy :)
+
+--- Rating #3 ---
+Class: ARCH200
+Date: 2022-01-28 02:35:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Professor Rondeau is the best I have had the privilege of learning from. He is very passionate about Underwater Archaeology and diving. This is evident in lectures, where he shares his experience and vast knowledge of the sea and its human history. He also incorporates environment problems and modern discoveries. I highly recommend taking his class

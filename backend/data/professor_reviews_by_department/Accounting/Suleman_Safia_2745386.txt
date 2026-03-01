@@ -1,0 +1,76 @@
+Professor: Safia Suleman
+Professor Legacy ID: 2745386
+Professor ID: VGVhY2hlci0yNzQ1Mzg2
+Department (CSV): Accounting
+Department (Fetched): Accounting
+Avg Rating: 4.8
+Avg Difficulty: 3.2
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: BUS322
+Date: 2023-09-01 06:49:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Safia is a super nice prof! The content is not super difficult compared to the other 300-level acc courses. The midterm is quite easy, but final was a bit more difficult. Make sure to do the questions and practice exams she provides and you will be set! Find a good group for the presentation, and ask clarifying questions. Curve is relatively high.
+
+--- Rating #2 ---
+Class: BUS254
+Date: 2022-05-03 20:48:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Safia explained concepts very well and included in-class participation to keep the class engaged during lecture. Her exams are very fair and only tested the main concepts taught in the course. The homework she assigns is useful to help understand concepts taught in lecture, and serves as great practice when preparing for exams.
+
+--- Rating #3 ---
+Class: BUS254
+Date: 2022-05-03 20:38:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Safia is really nice and gives super fair exams; nothing that you didn't learn. Her voice is very calming and she tries to engage the class with participation questions that aren't for marks so you can practice. I found the course itself to be very difficult and will require lots of practice beyond homework to do well.
+
+--- Rating #4 ---
+Class: BUS254
+Date: 2021-12-03 06:04:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Safia is very fair in her exams and grading. She does not expect you to memorize everything, just key concepts. She gives great practice questions that prepare you very well for quizzes and exams.
+
+--- Rating #5 ---
+Class: BUS254
+Date: 2021-12-02 19:51:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Safia is great professor. It was very nice to have someone with real life experience teach accounting. I don't plan on being an accountant but Safia made the course material interesting and fun!

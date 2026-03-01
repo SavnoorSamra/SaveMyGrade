@@ -1,0 +1,141 @@
+Professor: David Baillie
+Professor Legacy ID: 495502
+Professor ID: VGVhY2hlci00OTU1MDI=
+Department (CSV): Molecular Biosciences
+Department (Fetched): Molecular Biosciences
+Avg Rating: 3.9
+Avg Difficulty: 2.9
+Num Ratings: 10
+Would Take Again Percent: -1
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: MBB435
+Date: 2011-04-22 00:38:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+The exams were based on questions from the problem sets (answers were provided) and on glossary terms from  the textbook. If you understand the problem set questions, and memorize the glossary terms, you will get at least a B+ in this course. If you do the readings and understand them, you will do even better. Interesting course, great professor.
+
+--- Rating #2 ---
+Class: MBB435
+Date: 2009-02-27 20:27:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+genius.
+
+--- Rating #3 ---
+Class: CHEM282
+Date: 2007-01-10 17:56:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Very approachable prof. Always willing to help. The course itself is very challenging but he does a good job at simplifying it. He is available almost anytime you can catch also including his Office hours. Overall, he is an awesome prof!!! Take ur Chem course with him b/c if u take it with Plettner or Kruis u'll regret it!
+
+--- Rating #4 ---
+Class: CHEM282
+Date: 2006-12-24 14:38:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+GREAT PROF. Explains things really well. Works really hard to make sure you understand the material. Very approachable and funny. Lots of notes, make sure to attend class and hid tutorials. Overall a very tough course, but if you've gotta take it - take it with him.
+
+--- Rating #5 ---
+Class: CHEM282
+Date: 2006-12-21 05:11:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+uber funny. Talks and writes FAST so be prepared for some hand work out! Over all, very chill, super approachable and helpful. The lecture is purely theoretical and the exams are there to make u apply the theories. BASICALLY, u're required to memorize every rxn and every reagent used. He didn't make things tough, it's just a very tough course.
+
+--- Rating #6 ---
+Class: MBB435
+Date: 2006-11-23 15:43:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+At first I didn't like him because he didn't seem serious about teaching but he is so helpful when you ask a question.  Class does get boring sometimes but he is really funny when you actually listen to him.  He's a genius.
+
+--- Rating #7 ---
+Class: CHEM282
+Date: 2006-11-23 13:56:28 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Horrible prof! Mumbles like crazy and speeds through lectures.  The one midterm we had was extremely hard.  To succeed in his class you have to know the text book questions inside out.  All questions are conceptual! On the lighter side he is pretty funny.
+
+--- Rating #8 ---
+Class: CHEM282
+Date: 2006-11-03 00:27:27 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Boring, no notes not even a proper list of topics for the course, mumbles and stumbles a lot. Generally, makes the course more boring than it already is.
+
+--- Rating #9 ---
+Class: MBB435
+Date: 2005-04-11 19:27:16 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #10 ---
+Class: MBB435
+Date: 2005-04-09 17:49:54 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very funny professor, but his lectures are kinda boring.  Don't buy the textbook (&quot;Discovering Genomics, Proteomics, and Bioinformatics&quot;) its useless, just read the journal articles.

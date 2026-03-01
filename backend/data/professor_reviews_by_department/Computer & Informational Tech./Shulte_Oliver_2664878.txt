@@ -1,0 +1,11 @@
+Professor: Oliver Shulte
+Professor Legacy ID: 2664878
+Professor ID: VGVhY2hlci0yNjY0ODc4
+Department (CSV): Computer & Informational Tech.
+Department (Fetched): Computer & Informational Tech.
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

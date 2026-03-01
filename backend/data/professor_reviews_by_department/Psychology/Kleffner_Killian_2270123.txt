@@ -1,0 +1,24 @@
+Professor: Killian Kleffner
+Professor Legacy ID: 2270123
+Professor ID: VGVhY2hlci0yMjcwMTIz
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: PSYC391
+Date: 2017-07-15 18:01:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+What a great professor! I had him the previous semester and wanted to take a course with him again just because I was familiar with his marking/ grading. Take a course with him, you won't be disappointed

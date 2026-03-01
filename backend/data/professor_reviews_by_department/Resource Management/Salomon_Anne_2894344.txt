@@ -1,0 +1,50 @@
+Professor: Anne Salomon
+Professor Legacy ID: 2894344
+Professor ID: VGVhY2hlci0yODk0MzQ0
+Department (CSV): Resource Management
+Department (Fetched): Resource Management
+Avg Rating: 3
+Avg Difficulty: 2.7
+Num Ratings: 3
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: REM211
+Date: 2025-12-16 06:17:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Weekly quizzes with only 3 questions, but all easy if you pay attention in lectures and review your notes beforehand. Tests were a bit tricky but not too unfair. Workload was manageable and the work was engaging. Good introduction to ecological theory and taught well! Only gripe is a big emphasis on case studies discussed during lectures.
+
+--- Rating #2 ---
+Class: REM495
+Date: 2025-06-27 16:50:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great professor! Really took the time to break down the steps on writing an academic paper and helped guide all the students along the journey. The first few weeks of class started off slow, but soon picked up near the end but was always available for providing feedback. Used many different activities to facilitate different learning styles.
+
+--- Rating #3 ---
+Class: REM495
+Date: 2023-04-08 09:10:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Passive aggressive/inauthentic. She built a career on the backs of Indigenous knowledge holders but refuses to acknowledge her racial privileges. She is only looking out for her own interests, and is super self involved. She plays favourites in gross ways, and belittles her own grad students. Will make you feel terrible, don't study with her.

@@ -1,0 +1,271 @@
+Professor: Fiachra Knox
+Professor Legacy ID: 1967967
+Professor ID: VGVhY2hlci0xOTY3OTY3
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2.6
+Avg Difficulty: 4.1
+Num Ratings: 29
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH251
+Date: 2020-12-14 05:07:32 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Really nice guy, but questionable teaching ability. Hard class, sure, but he wasn't able to make the material any more digestible. I had to self-study a lot using online videos and textbooks.
+
+--- Rating #2 ---
+Class: MATH251
+Date: 2017-08-20 03:15:11 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+the fact that it is his first time teaching, he lacks confidence. he needs time to fix this. this professor's exam and term are way far to match the style of the text book. sorry, but this is the fact.
+
+--- Rating #3 ---
+Class: MATH251
+Date: 2017-08-07 22:46:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I'll probably rate him 3.5. Fiachra is really nice guy. Always being helpful and patient. Questions are encouraged during lecture. But the thing is, he can't always explain the content very clearly while 251 is really tough. He also seems to lack confidence sometimes
+
+--- Rating #4 ---
+Class: MATH100
+Date: 2015-07-22 12:09:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+You could tell he was a bit nervous teaching.  He's very intelligent and smart, sometimes has a tough time understanding why others cant grasp concepts as quickly as him.  Is willing to help, nice guy.  Attend workshops.  Class is scaled.  Practice exams weren't relevant for many exam questions. Its a math course, its hard, so put in the effort.
+
+--- Rating #5 ---
+Class: 100
+Date: 2015-07-14 15:11:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I've had Dr. Knox for two semesters in a row. The hate on here comes from the difficulty of the course rather than his teaching approach. Math is hard, you need to study a lot. Knox is clearly hardworking and beyond skilled at math. The biggest problem is that there's very little work you get feedback on, and the explanations are general.
+
+--- Rating #6 ---
+Class: 100
+Date: 2015-07-03 02:24:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Extremely passionate. Wonderful professor I wish there were duplicates of this guy teaching all the math courses. Those who didn't do well are the ones who don't attend the Algebra Workshop. He's always there to help.
+
+--- Rating #7 ---
+Class: 100
+Date: 2015-06-04 15:11:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Attend workshop. After every lecture. For 2 hours. And you'll do fine. You can't expect to cram Math, and then blame a bad grade on your prof. This course will be more about you, and your ability to be strict with yourself and focus, than his teaching style. He is incredibly helpful, responsive to feedback, and an overall nice guy. Do your part!
+
+--- Rating #8 ---
+Class: MATH100
+Date: 2015-04-22 23:01:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This was Dr Knox's first semester teaching, and he did a spectacular job. His lectures were very clear and notes were helpful. Was always on time in the workshop during his assigned hours, and even stayed beyond them to help! Don't expect and easy A, you really have to work for the grade. Must do homework and review after every class.
+
+--- Rating #9 ---
+Class: MATH100
+Date: 2015-04-21 17:27:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+not too bad.
+
+--- Rating #10 ---
+Class: MATH100
+Date: 2015-04-21 17:26:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+his notes are great. the quizzes are based on the homework assignment. his tests are not that hard if you understand the concepts. I am not a math genius, but I did well in this class.
+
+--- Rating #11 ---
+Class: MATH100
+Date: 2015-04-19 01:40:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Knox is passionate about math and you can tell from his lectures; but, since he hasn't had much exposure to the teaching world, he doesn't know how to explain things in lamen terms. If you ever needed help, all you needed to do was ask- but hopefully you can understand the dialect of calculus!
+
+--- Rating #12 ---
+Class: MATH100
+Date: 2015-04-15 14:58:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Friday is my final and I regret all my life choices that has led me to take fiachra's math 100 class. Stay away from this prof if possible.
+
+--- Rating #13 ---
+Class: MATH100
+Date: 2015-04-13 13:06:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+1.) Exams are harder than my physics and chemistry ones. 2.) Textbook questions do not relate to the style of his questions in his exams 3.) Cannot simplify material when teaching. 4.) Doesnt have enough examples of his style of questions.
+
+--- Rating #14 ---
+Class: MATH100
+Date: 2015-04-12 20:40:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Math is not going to be easy if you don't work hard. He will not spoon feed you. If you brush-up on your basic math skills before coming to class you will be fine. Lot of people say that his exams are nothing like his revision sheets, and I disagree. He just words the questions different. He is obviously not going to give you the same questions!
+
+--- Rating #15 ---
+Class: MATH100
+Date: 2015-04-10 16:53:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+His lectures are very unorganized and rather uninformative.  Many key aspects are skipped through. Fiachra is very smart and nice but does not seem suited for teaching at all.
+
+--- Rating #16 ---
+Class: MATH100
+Date: 2015-04-10 15:04:41 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Dr. Knox is a solid math professor. Given that you have the pre-requisites and decent math ability needed to succeed in precalccalc, you should do just fine. I find the real fault is in the course itself rather than the prof because many of the lectures focus on unnecessary proofs that aren't on exams. Exams are hard, but not impossible.
+
+--- Rating #17 ---
+Class: MATH100
+Date: 2015-04-08 01:04:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Unnecessarily hard midterms using questions way beyond the scope of a math 100 class. Does not explain the content thoroughly and constantly makes major mistakes in his powerpoints. I would not recommend this professor to anyone
+
+--- Rating #18 ---
+Class: MATH100
+Date: 2015-03-25 00:33:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He's really smart with math no doubt, just not at teaching it. Like not good at all. Like terrible. Really nice guy, but you tend to forget when you're in his lecture because they're fairly bland and frustrating. You're better off reading the textbook and teaching yourself.
+
+--- Rating #19 ---
+Class: MATH100
+Date: 2015-03-20 18:06:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Great guy, works really hard for us by making review sheets and telling us what questions to do in order to do well on the quizzes. Slides are really  helpful if you don't like reading book.. he's easy to talk to, young guy so he understands the struggle. Awesome
+
+--- Rating #20 ---
+Class: MATH100
+Date: 2015-03-20 13:46:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I always enjoyed lectures by Dr. Knox, because he pauses every few sentences to allow students to catch up with his reasoning, and accepts lots of questions. He's very friendly, and I found his marking to be fair. Be sure to study previous midterms and his revision worksheet-HUGE help! Really enjoyed this class, even though I usually dislike Math.

@@ -1,0 +1,37 @@
+Professor: Evan Due
+Professor Legacy ID: 3099376
+Professor ID: VGVhY2hlci0zMDk5Mzc2
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3
+Avg Difficulty: 2
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS346
+Date: 2025-08-24 17:23:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This course has a lot to do with international business, politics, trade policy and etc.  If you are not interested in these topics, you will have a hard time.  Evan is a very engaging and knowledgeable business person, not just an instructor.  He doesn't really care about grades and hands out very high marks as long as you try.
+
+--- Rating #2 ---
+Class: BUS346
+Date: 2025-07-25 19:28:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is very organized and his course is pretty boring to take with

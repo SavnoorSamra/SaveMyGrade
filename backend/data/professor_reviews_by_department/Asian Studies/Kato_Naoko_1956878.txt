@@ -1,0 +1,24 @@
+Professor: Naoko Kato
+Professor Legacy ID: 1956878
+Professor ID: VGVhY2hlci0xOTU2ODc4
+Department (CSV): Asian Studies
+Department (Fetched): Asian Studies
+Avg Rating: 4.5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: ASC300
+Date: 2014-12-08 02:48:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Real liked the format of the course, had discussions in small groups almost every class, everybody made friends with everybody, it was fun, Great class!

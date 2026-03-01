@@ -1,0 +1,76 @@
+Professor: Birgit Schwarz
+Professor Legacy ID: 2414946
+Professor ID: VGVhY2hlci0yNDE0OTQ2
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 2.6
+Avg Difficulty: 3
+Num Ratings: 5
+Would Take Again Percent: 60
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: NATS1550
+Date: 2020-01-11 05:01:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She mumbles and is very disorganized. Attendance was graded, but very difficult to make myself attend - you really don't learn much and it's so boring and too much 'talk to your neighbour about x.' Everything was really easy and then the final exam was very difficult and out of left field. No reading assignments all term. Slow with grading.
+
+--- Rating #2 ---
+Class: BIOL2050
+Date: 2020-01-06 04:25:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Textbook not needed, just memorize powerpoint slides and review clicker questions. Due dates come around the same time, so important to keep up throughout semester. If you visit office hours she is VERY helpful and we will be happy to go over concepts. If you are good at lab reports, + essay writing, EASY A.
+
+--- Rating #3 ---
+Class: BISC410
+Date: 2019-04-09 22:36:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She's super friendly and approachable. Take the course only if there is lecture recording 'cause she mumbles a lot and you will miss out on stuff for sure. Test are fair, class assignments can be pointless sometimes. Uses iclicker. She gives really good feedback for papers and assignments. Does group exams which is weird and I'm not a fan of.
+
+--- Rating #4 ---
+Class: BISC300
+Date: 2018-11-30 12:18:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Good course, learned a lot. Overall would take again.
+
+--- Rating #5 ---
+Class: BISC300
+Date: 2018-11-27 15:51:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Spent too much time on assignments in class (ended up being a month behind in material). Mumbled and was very unclear. Group work on exams took away from time on individual mark which took away from my grade overall. Tutorial mark was annoying to receive (not based on attendance only). Didnt fix mic when talking so there was constant feedback.

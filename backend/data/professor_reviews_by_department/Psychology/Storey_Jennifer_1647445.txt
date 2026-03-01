@@ -1,0 +1,11 @@
+Professor: Jennifer Storey
+Professor Legacy ID: 1647445
+Professor ID: VGVhY2hlci0xNjQ3NDQ1
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

@@ -1,0 +1,271 @@
+Professor: Luana Carcano
+Professor Legacy ID: 2646440
+Professor ID: VGVhY2hlci0yNjQ2NDQw
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 2.9
+Avg Difficulty: 3.4
+Num Ratings: 25
+Would Take Again Percent: 48
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS478
+Date: 2026-02-06 05:07:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+She is not a good choice, but her passions is very good
+
+--- Rating #2 ---
+Class: BUS217W
+Date: 2024-12-11 08:23:45 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Luana was a mid professor. She basically assigns readings and expects students to understand how to improve their writing based on those articles. She doesn't really teach much. Every class there's an in class group assignment and an individual assignment due at the end of tutorial.  Also she's pretty hard to reach outside of class.
+
+--- Rating #3 ---
+Class: BUS217W
+Date: 2024-12-11 07:30:37 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Distance between class low and high was oddly tight on every assignment. Suspicious of teacher and ta using AI to grade; feedback was always the same and provided no help for the digital portfolio assignment, which I did average on, because of the vagueness. Mundane inclass group assignments. Tutorial assignments were always a time crunch.
+
+--- Rating #4 ---
+Class: BUS217W
+Date: 2024-11-22 19:13:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is a great professor who cares about her students and made lectures engaging! Lots of assignments in class and tutorials, but it made the workload at home much lighter because there was only a couple assignments to do outside of class. I definitely liked her class even though it was a little tough
+
+--- Rating #5 ---
+Class: BUS340
+Date: 2024-11-07 08:56:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She's great. Straight forward lectures, made them engaging enough. Always had enough time to work on everything, clear instructions. cant complain. def recommend.
+
+--- Rating #6 ---
+Class: BUS341
+Date: 2024-11-07 08:54:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+No idea why her ratings are so harsh she's cool. Lectures were straight forward and you always got lots of time to work on everything. i had two lectures back to back with her, 2 hours each, but they never felt to drag on. Only thing i would say is she grades kinda tough on the weekly assignments but its the same for everyone so. Totally recommend.
+
+--- Rating #7 ---
+Class: BUS217W
+Date: 2024-09-06 17:54:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I was in the pilot class where all assignments (except midterm/final paper) were all done in-class. I enjoyed her lectures - they were simple and gave us half of the class to do group discussions/work. Her lectures are also interactive and engaging. She can mark pretty harshly but she uses it to give us more room for improvement.
+
+--- Rating #8 ---
+Class: BUS341
+Date: 2024-01-29 06:55:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+amazing
+
+--- Rating #9 ---
+Class: BUS341
+Date: 2023-12-13 14:54:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing lecturer, very lively, kind, and humble. This is a Marketing class for Business Minor, and the knowledge gained in her class is very useful in business or starting your own business. Don't mind the bad reviews here; they are unfair. Luana is on par with the best Business profs in SFU that has/nearly 5-star ratings here. She deserves 5 stars
+
+--- Rating #10 ---
+Class: BUS217W
+Date: 2023-11-17 18:55:43 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Not a clear grading rubric for her assignments. Quite easy to do well if you actually do the homework. She comes 10 minutes late every class.
+
+--- Rating #11 ---
+Class: BUS217W
+Date: 2023-03-17 00:46:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Terrible prof. She went on vacation for 2 weeks in the middle of the semester. She doesn't seem to care about her students success as her assignments and instructions are super vague. Barely remember anything valuable being learned in this class.
+
+--- Rating #12 ---
+Class: BUS217W
+Date: 2022-10-05 08:26:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Luana is a kind person but not the best prof :(( Her lectures generalize the information you need to do well on assignments and the grading is super vague and it's difficult to ask for clarification as TAs expect you to basically learn through trial and error. Honestly idk if it was her or the course but this was super hard to do well in :(((
+
+--- Rating #13 ---
+Class: BUS401
+Date: 2022-09-13 18:16:16 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She's a sweet prof but its only been the first couple of classes and none of the assignments are clear or even outlined properly in the syllabus. With a course that has a lot going on with group projects, personal assignments, and exams I can already foresee this being a major headache when nothing is being explained clearly without confusion.
+
+--- Rating #14 ---
+Class: BUS217
+Date: 2022-08-14 02:23:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Unclear throughout the course. All assignment expectations not outlined prior, especially in class group submissions. Class went online halfway through the semester and she taught pretty much nothing you cannot google in five seconds. Seems like she does not want to help you succeed in the class
+
+--- Rating #15 ---
+Class: BUS217W
+Date: 2022-08-05 20:57:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Hardly taught anything, assignments were full of logistical errors, and halfway through the semester she left for Italy for a surgery and the rest of the classes were done online.
+
+--- Rating #16 ---
+Class: BUS217W
+Date: 2022-01-13 21:55:08 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The course content is very useful for business students. However, Luana was hard to reach at times especially near the end of the course. Lots of grading inconsistencies and unclear instructions (grading mostly done by TAs). At times the class was extremely boring too. However, if you are a good writer, this class will be easier for you.
+
+--- Rating #17 ---
+Class: BUS217W
+Date: 2022-01-12 02:22:45 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Luana was a pretty good professor. Her teaching style was fine but grading was inconsistent and unclear at times. She is kind and approachable, but grading is the biggest issue. Received a B with fairly average effort.
+
+--- Rating #18 ---
+Class: BUS217W
+Date: 2021-12-24 05:22:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+People will complain that her assignments are not clear and grading is biased but I think shes pretty clear just go to lectures, shes also available for help lots. Her class wasnt my favourite, but I think it was more a content issue that a prof issue. However, depends a lot on TAs, as graded almost all on assignments &amp; they marked them all :(
+
+--- Rating #19 ---
+Class: BUS217W
+Date: 2021-11-12 19:03:48 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Nice person, bad professor. Very interesting person to talk to but don't count on her to actually teach you things. Kind of attractive as well so it's always a plus but can also be a DISTRACTION &lt;333333333 #Italy
+
+--- Rating #20 ---
+Class: BUS217W
+Date: 2021-08-17 20:36:33 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Luana cares about her students and wants them to succeed. Grades really depend on the TA but if you seek office hours and start your assignments early you'll be okay. I do wish that there was more direction in this class, especially the first half, but this class is meant to be challenging. Overall a decent experience.

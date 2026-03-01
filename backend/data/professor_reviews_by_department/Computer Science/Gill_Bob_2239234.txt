@@ -1,0 +1,271 @@
+Professor: Bob Gill
+Professor Legacy ID: 2239234
+Professor ID: VGVhY2hlci0yMjM5MjM0
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.6
+Avg Difficulty: 3.1
+Num Ratings: 28
+Would Take Again Percent: 42.8571
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT371
+Date: 2024-10-24 01:42:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Watch the videos from this guy called Jim Kurose, he has an entire playlist that is better than going to any lecture. No need to go to class if you want to learn. Although the prof seemed nice, the lectures just aren't good.
+
+--- Rating #2 ---
+Class: ENSC406
+Date: 2024-05-13 05:38:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+worst professor ever, just wants you to memorize stuff and then proceeds to not support the tutorial times that he set up
+
+--- Rating #3 ---
+Class: CMPT371
+Date: 2024-04-29 10:11:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Entire class is practically just plagiarized from Jim Kurose, including all the slides. Homework assignments are all copy/pasted from other schools or textbooks. Exams are the same and contain content that has not been covered in class.
+
+--- Rating #4 ---
+Class: CMPT371
+Date: 2024-04-23 04:25:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+One of the laziest professors at SFU. Course materials patched from different schools, labs are blindly copy and pasting, no reasoning given for docked marks on exams/assignments, TAs ghost when asking for assignment feedback, exams contain material that were barely or not covered at all. Don't recommend.
+
+--- Rating #5 ---
+Class: CMPT371
+Date: 2024-04-21 00:09:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Laziest prof I've ever encountered. His lectures are useless, he doesn't respond to emails, and his exams are so unrealistic given what he "covers" in class (this is true even if you do the readings).
+
+--- Rating #6 ---
+Class: CMPT371
+Date: 2024-04-19 06:00:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+What a brutal experience. Bob Gill is a great example of someone who puts no effort in. Don't take this class with him. I fully expect the final to be full of questions that were never taught just like the midterm. Sad.
+
+--- Rating #7 ---
+Class: CMPT371
+Date: 2024-04-11 21:57:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+No effort put into anything. Midterms cover topics not mentioned in slides or book. His lectures are not worth attending, and he makes passive aggressive comments about people not attending. Labs are "type the thing into terminal, report what you see". Assignments are just basic math, except with a networking theme, not actual networking problems.
+
+--- Rating #8 ---
+Class: CMPT371
+Date: 2024-03-18 05:09:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Another student who's fair review was removed. To reiterate: he is the worst kind of professor. There is next to no effort put into student's learning and many midterms topics are never taught. Look at past midterms to do well, idk about the final. Don't go to class unless you are very passionate about the material.
+
+--- Rating #9 ---
+Class: CMPT371
+Date: 2024-03-13 22:32:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+It seems like the professor is reviewing all of them because my last review got removed. Shame. TL;DR: don't take this class if you actually want to learn, homework is copied from other schools, exams cover topics that haven't been taught, lectures go off topic a lot. At least he's funny though.
+
+--- Rating #10 ---
+Class: ENSC820
+Date: 2024-02-07 03:38:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Well it seems that the prof or someone else is reporting all negative ratings on the site. All negative ratings were 'reviewed'. My rating was removed for no reason. Seems like RMP hurts his ego or something. He should take that effort and put it towards being a better prof.
+
+--- Rating #11 ---
+Class: CMPT371
+Date: 2024-01-26 20:30:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I appreciate his funny storytelling, but he has a hard time lecturing about relevant course material, making it tough to actually learn. His exams and assignments are confusing and difficult. I would wait for a better prof if you want to take the course.
+
+--- Rating #12 ---
+Class: CMPT371
+Date: 2024-01-26 04:29:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Wonderful prof. Nothing wrong with him at all!
+
+--- Rating #13 ---
+Class: CMPT371
+Date: 2023-07-15 13:28:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+One of few teachers who used Industry examples relating to course material. This made learning better. One can see applications in daily life to understand better. Thanks - may be see you in 471. Wireshark learning was great.
+
+--- Rating #14 ---
+Class: CMPT371
+Date: 2023-03-29 05:48:54 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Bob is knowledgeable in his field. He often jokes about his experiences, but oftentimes forgets that talking about something isn't teaching it. He often glosses over very important concepts and goes on side rambles, making it hard to know what we actually need to understand. Self learning (Jim Kurose YT videos) are more helpful than Bob's lectures.
+
+--- Rating #15 ---
+Class: ENSC429
+Date: 2022-07-21 18:39:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Gill is truly one of the nicest professors at SFU, he genuinely cares about his students well being. His practical examples make his classes very interesting and easy to follow.
+
+--- Rating #16 ---
+Class: CMPT371
+Date: 2022-05-28 17:35:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+While attendance is not mandatory but If you want to learn applications to industry yo should attend his lectures. Booking knowledge is not enough. Nice Video from AlcaTel Lucent - Dr. Gill. Made additional time to teach - Thank you. some students like me.
+
+--- Rating #17 ---
+Class: ENSC483
+Date: 2022-05-28 16:25:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He related Industry application to this Math Heavy course and makes sense. My car radio is a demodulator - Hmmmm I see and now I know why some equipment costs more and sounds and performs better. Looking forward to working with you. Math is mind-numbing but seeing the output is brilliant.
+
+--- Rating #18 ---
+Class: ENSC429
+Date: 2022-04-08 05:21:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Nice prof and great project - didn't know about AppDesigb=ner - Nice kit for project. I learnt practical things. Thank you Prof
+
+--- Rating #19 ---
+Class: ENSC406
+Date: 2022-01-01 04:19:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Puts in no effort for this class and doesn't give a damn. Homework and exams are all copy pasted from elsewhere. Doesn't even update date in PDF headers. All exams contains questions on subjects that were not taught. What is taught is half useless due to weird focus on construction and city bylaws which are irrelevant for SFU engineering.
+
+--- Rating #20 ---
+Class: ENSC204
+Date: 2021-12-21 20:35:15 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Bob is a great prof for this course. One of the easiest courses I've taken at SFU

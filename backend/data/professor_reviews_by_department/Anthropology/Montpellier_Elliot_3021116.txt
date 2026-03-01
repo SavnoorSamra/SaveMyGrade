@@ -1,0 +1,102 @@
+Professor: Elliot Montpellier
+Professor Legacy ID: 3021116
+Professor ID: VGVhY2hlci0zMDIxMTE2
+Department (CSV): Anthropology
+Department (Fetched): Anthropology
+Avg Rating: 4.7
+Avg Difficulty: 3
+Num Ratings: 7
+Would Take Again Percent: 85.7143
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: SA101
+Date: 2025-11-29 23:09:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I really enjoyed SA101 with Elliot; he is not a fan of technology in class, so be prepared to use notebooks. He made sure people were engaged by asking questions. I was in a class of 30 people, and I did find that it helped with staying focused in the 3-hour lecture. In general, he's super kind and wants the best for his students.
+
+--- Rating #2 ---
+Class: SA315
+Date: 2025-07-21 20:06:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Elliot is an amazing professor, I could listen to him forever. He explains very well and makes sure every student is on the same page. He rewards effort over knowledge and is always willing to help with any questions. 10/10 recommend
+
+--- Rating #3 ---
+Class: SA201W
+Date: 2025-04-10 22:59:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best prof i've had so far. Connects and explains course concepts and readings so well. Readings were tough but explained during class. Participation matters, he'll call on you to answer questions. Discussions in class were very insightful. I thought i'd hate the class but it ended up being my fav. Wouldn't suggest it if you don't like anth tho.
+
+--- Rating #4 ---
+Class: SA201W
+Date: 2024-10-01 21:01:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Hands down one of my fave professors. Assigns heavy but interesting readings and will call on you so participation matters. But he is judgement free and super chill, will never make you feel stupid. He gives great feedback and wants you to be the best!! He is super approachable as well. Would totally take again :) I hope he stays!
+
+--- Rating #5 ---
+Class: SA201W
+Date: 2024-08-08 02:17:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Avoid him if you are not interested in the topic. His classes are not easy.
+
+--- Rating #6 ---
+Class: SA201W
+Date: 2024-07-31 23:46:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Elliot is a great and passionate professor that encourages class participation and discussions. Readings are mandatory as he will call on you, but overall its a safe space and an enjoyable class. I definitely recommend him
+
+--- Rating #7 ---
+Class: SA201W
+Date: 2024-07-31 23:07:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great professor and provides amazing feedback, he really cares for your success. The only bad thing is the long and sometimes boring lectures.

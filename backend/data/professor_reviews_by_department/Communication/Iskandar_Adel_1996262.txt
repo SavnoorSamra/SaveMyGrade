@@ -1,0 +1,271 @@
+Professor: Adel Iskandar
+Professor Legacy ID: 1996262
+Professor ID: VGVhY2hlci0xOTk2MjYy
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 4.8
+Avg Difficulty: 1.7
+Num Ratings: 20
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMNS448
+Date: 2026-01-23 06:23:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr adel is quite a great professor, really easy marking and little to no readings. More focused on class engagment
+
+--- Rating #2 ---
+Class: CMNS448
+Date: 2025-12-20 21:45:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+by far the best prof i have had a sfu :)) easy grader, however downside is you don't know where you are in the semester till finals are over.
+
+--- Rating #3 ---
+Class: CMNS448
+Date: 2025-12-19 19:46:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+I took CMNS 235 with Dr Adel, and I can truly say he's the best prof I have taken at SFU. He goes the extra mile to care for his students and his lectures are easy and straightforward. Any class with him his a GPA booster as long as your present and willing to learn.
+
+--- Rating #4 ---
+Class: CMNS448
+Date: 2025-12-18 05:12:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: True
+Comment:
+took CMNS 235 during fall and by far the best prof i have genuinely ever had. he goes the extra mile to ensure students are on track and makes his lectures super engaging and easy to follow. i genuinely cannot thank him enough for his grading system and how amazing he is.
+
+--- Rating #5 ---
+Class: CMNS348
+Date: 2025-12-07 19:29:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Dr Adel is such a caring prof, wants everyone to succeed and loves engaging in conversations with students. He connects the material to current world day issues which makes it much more engaging.
+
+--- Rating #6 ---
+Class: CMNS348
+Date: 2025-12-07 06:35:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+no midterm, easy assignments and in class short essay for the final! super chill guy would highly reccomend him :))
+
+--- Rating #7 ---
+Class: CMNS448
+Date: 2025-12-07 06:34:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: True
+Comment:
+amazing amazing professor! he makes complicated topics feel easy to understand makes the class feel extremely comfortable! he has good energy everywhere he goes, highly recommend any class taken with him!
+
+--- Rating #8 ---
+Class: CMNS348
+Date: 2025-12-07 06:31:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+amazing prof, super engaging lecture and such a hilarious guy. it is obvious that he is passionate about what he teaches and ensures every student has a version of understanding their work
+
+--- Rating #9 ---
+Class: CMNS448
+Date: 2025-12-07 06:28:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+hilarious dude, genuinely one of the best classes and not a harsh marker at all. super understanding if you are in need of anything at all, you won't regret taking his class!
+
+--- Rating #10 ---
+Class: CMNS348
+Date: 2025-12-06 06:21:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Such a chill and supportive prof. He really focuses on us being engaged and actually learning. Super down to earth guy who wants everyone to do well.
+
+--- Rating #11 ---
+Class: CMNS448
+Date: 2025-12-06 06:19:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the most caring professors I've had at SFU. He really wants everyone to do well and actually learn. Highly recommend his classes.
+
+--- Rating #12 ---
+Class: CMNS448
+Date: 2025-12-05 05:33:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Dr. Adel is amazing. He truly cares about his students and genuinely wants every single one of us to succeed. He's patient, helpful, and always willing to take extra time to explain things. His lectures are engaging, clear, and easy to follow. One of the best profs at SFU. Plus he's hilarious!
+
+--- Rating #13 ---
+Class: CMNS348
+Date: 2025-12-03 07:06:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This professor is genuinely one of the best. He shows up with apples for the class, checks in on how everyone is doing, and honestly feels more like a cool uncle than a prof. He's understanding, patient, and  reminds us that everyone learns differently and that we're all capable of doing well. Best class ever! Do take it with him :)
+
+--- Rating #14 ---
+Class: CMNS448
+Date: 2018-01-29 19:13:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+He's the best, although he didnt reply emails frequently. His class is funny and interesting. Adel is definitely a decent profession with abundant knowledge and sense of humour. I'd love to take his course again.
+
+--- Rating #15 ---
+Class: CMNS348
+Date: 2015-12-24 15:31:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Generouse prof, fun lectures, interesting course contents, I just loved taking the course. Excellent prof!! :D
+
+--- Rating #16 ---
+Class: CMNS348
+Date: 2015-08-28 02:53:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Definitely one of the best profs I have had in the Cmns department.  Learned a lot and actually enjoyed going to class because he marks fairly easy and that made it easier to just come and engage with the material instead of worrying about grades ie. actually learned.
+
+--- Rating #17 ---
+Class: CMNS348
+Date: 2015-05-10 13:48:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lots of reading! Lectures are interesting. He speaks in a VERY academic, sophisticated way, which can be a little hard to keep up with if you are not a native speaker. Exams are very fair (open book, but you need to have your readings done nevertheless. Course material is very interesting, I felt like I learnt something valuable about the world.
+
+--- Rating #18 ---
+Class: CMNS348
+Date: 2015-05-01 20:21:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+IIRC, this was his 3rd semester teaching this course. He's an average prof who is organized in lectures, but is a mess when it comes to using Online Canvas. His exams are entirely based on the readings so be sure to read or else you won't be able to answer anything without it (it's open-book).
+
+--- Rating #19 ---
+Class: CMNS348
+Date: 2015-04-27 20:43:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Super nice prof, like one of the best ones at SFU. If you were to talk to him, he's very easygoing and will change dates if the class agrees to it. First couple lectures are very interesting, but after that it was mostly group presentations which got a little dull. Overall, great prof and interesting course, I would take it again  :)
+
+--- Rating #20 ---
+Class: CMNS348
+Date: 2015-04-01 19:56:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+He's a very down to earth prof. Very easy to get along with because hes used to doing more grad classes than undergrad, so hes used to more interaction.  Makes material relatable to the real world and keeps it interesting.  his lectures relate closely to the readings. We had to all do a group presentation on one of the week's readings, was fine

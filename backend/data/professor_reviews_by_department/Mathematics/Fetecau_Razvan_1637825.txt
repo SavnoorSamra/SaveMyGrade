@@ -1,0 +1,273 @@
+Professor: Razvan Fetecau
+Professor Legacy ID: 1637825
+Professor ID: VGVhY2hlci0xNjM3ODI1
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.2
+Avg Difficulty: 3.7
+Num Ratings: 31
+Would Take Again Percent: 58.8235
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH301
+Date: 2025-12-14 22:06:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Razvan was great in Set Theory! Lectures were a bit heavy but they drew directly from the textbook (free online) so it was easy to review concepts. He was friendly and helpful during office hours. The quiz and exam questions were very similar to the homework, very fair exams. He also clearly cared about the students' course experience.
+
+--- Rating #2 ---
+Class: MATH301
+Date: 2025-12-13 04:10:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+(For Set Theory). Good, clear lectures with a reasonable pace. Quizzes and exams were all fair. If you did the homework you will easily pass them. Textbook is old and some of the proofs in it skip tons of steps I did not find trivial. Highlight is the tutorials. This semester it was led by a TA who absolutely carried my grade. Very worth attending!
+
+--- Rating #3 ---
+Class: MATH240
+Date: 2025-02-28 09:23:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Super good Prof for lin alg. I was worried about this course at first, but it ended up being quite straightforward and interesting! His exams are super fair, you have nothing to worry about if you do the HW. Quiz questions pulled straight from assignments. Solid lecturer and gives good balance of proofs and calculation/application!
+
+--- Rating #4 ---
+Class: MATH240
+Date: 2024-08-21 04:37:58 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Dr Fetecau gives clear explanations and is well-organized. Exams were fair. Goes quite fast in class, a bit difficult to keep up. Doesn't upload notes. Be ready to spend a lot of time studying for this course. I supplemented it with reading/practicing from the textbook closely and also watching videos that explain the intuition behind the concepts.
+
+--- Rating #5 ---
+Class: MATH240
+Date: 2024-05-03 05:44:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The course is bit challenging than Calculus but easy if you put efforts. The quizzes were straight out of homework assignments. We had two proof assignments which were pretty average. The exams weren't that difficult. Dr.Fetecau was really helpful and is a really good prof. He doesn't upload lecture notes so you need to go to the lectures.
+
+--- Rating #6 ---
+Class: MATH158
+Date: 2024-04-30 04:52:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Felt uncomfortable approaching him, did not care about students success. Very tough grader, would avoid this professor
+
+--- Rating #7 ---
+Class: MATH158
+Date: 2024-04-22 11:54:08 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+unit test are from text book questions, but doesn't post any notes or practice exams on canvas. The only ways to get them is to attend his lectures. He doesn't care about students.
+
+--- Rating #8 ---
+Class: MATH158
+Date: 2024-04-20 01:31:20 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+He's an average professor; he teaches in detail but he doesn't post any notes on Canvas. If you miss a lecture, the only way to get notes is from other people. We have OQ every week, about 15 question each. He gives a unit test on every chapter, totaling six tests. The final exam is weighted at 50 percent, which is a lot compared to other courses.
+
+--- Rating #9 ---
+Class: MATH240
+Date: 2024-03-21 02:32:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Solid prof. He writes by hand in his lectures, which makes it easy to follow along. He does go a bit fast though so make sure you pay attention. His exams are fair and he's a cool guy.
+Also,make sure to do all his assigned textbook questions, since his quizzes are pulled directly from those assignments.
+
+--- Rating #10 ---
+Class: MATH251
+Date: 2024-02-14 04:51:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+(Review for MATH 240 - there's no option for 240 at the moment)
+Razvan Fetecau has been great so far for Math 240. Gives clear lectures and explain concepts nicely. Midterm was fair and similar to what was done in class. Quizzes are directly from homework questions, so make sure to complete them early.
+
+--- Rating #11 ---
+Class: MATH158
+Date: 2023-03-02 07:12:35 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Not very clear in teaching and makes it hard to follow along
+
+--- Rating #12 ---
+Class: MATH314
+Date: 2019-04-13 03:40:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Extremely clear and thorough lectures. Homework could be long and hard. Exams were fair.
+
+--- Rating #13 ---
+Class: MATH303
+Date: 2018-12-04 21:21:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Expects a lot but is quite reasonable in terms of expectations. Like nearly all math classes, you'll need to put in work in order to do well. Textbook is a little lacking in terms of information, so you'll either need to attend all lectures or be disciplined in teaching the material yourself. Very helpful office hours.
+
+--- Rating #14 ---
+Class: MATH314
+Date: 2018-05-11 13:53:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Extremely picky when it comes to grading. Whole course feels like you're being punished from not getting it rather than reaching out to students and helping them learn. Course would've been better if he acquired some educational knowledge.
+
+--- Rating #15 ---
+Class: MATH314
+Date: 2018-04-26 12:36:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+His notes are extremely unclear and unreadable outside of class. Exams are hard and he is very picky when it comes to marking. You get this feeling that he is just teaching because it's his job, not because he likes it. He seemed to be unfamiliar with the homework he assigned, and lecture will leave you confused.
+
+--- Rating #16 ---
+Class: MATH495
+Date: 2017-05-14 02:39:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Explains complex ideas well. Assignments are tough; exams are hard, though fair. Lectures were quite interesting, if overly abstract; perhaps, though, that's only to be expected in a special topics course.
+
+--- Rating #17 ---
+Class: APMA935
+Date: 2016-05-27 13:34:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+If you have a chance to take a course with Dr. Fetecau, do it. It is the unique mind blowing journey into the magic of MATH. Dr. Fetecau is well-prepared for every lecture, highly skilled in conveying his knowledge to his students, and cares a lot to help students get that knowledge. Home works are not easy, but very useful. One of the best profs!
+
+--- Rating #18 ---
+Class: MATH467
+Date: 2015-04-10 15:42:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Assignments were hard. But he's very helpful. I worked hard and was a regular to his office hour. So I did good on assignments and I think exams were fair.
+
+--- Rating #19 ---
+Class: MATH467
+Date: 2015-02-12 16:15:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Good class. You need to work very hard though.
+
+--- Rating #20 ---
+Class: MATH251
+Date: 2014-05-05 04:39:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+No doubt calculus is hard. Coming from a math background, i can telll his finals were NOT from a mathematics respecting person. He is a perfect example of how education in big universities is all money making process or its just all about cramming. DO NOT take math 251 with him.

@@ -1,0 +1,274 @@
+Professor: Amy Conroy
+Professor Legacy ID: 2574920
+Professor ID: VGVhY2hlci0yNTc0OTIw
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 2.3
+Avg Difficulty: 4.1
+Num Ratings: 220
+Would Take Again Percent: 31.8182
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CRIM230
+Date: 2026-02-27 05:00:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I have taken hella Crim Courses. So far, the ones with Amy have been the most difficult. Spends more time talking about how to study etc, instead of actually teaching course material.
+Every exam question feels like a trick question, or related to something mentioned ONCE, rather than significant textbook topic. (3.5gpa in crim her classes are buns)
+
+--- Rating #2 ---
+Class: CRIM331
+Date: 2026-02-26 08:00:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Worst prof in the faculty and it's not close. Even the nepo baby is better. Positive reviews must be from the one or two people she openly favours
+
+--- Rating #3 ---
+Class: CRIM135
+Date: 2026-02-26 05:37:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I literally had to drop this class first lecture because it was so bad. She told the whole lecture hall to not expect to get an A in this class. I said I'm OUT.
+
+--- Rating #4 ---
+Class: CRIM230
+Date: 2026-02-01 01:32:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Honestly, these reviews scared me but I didn't find her to be too bad. I found the canvas a bit confusing since you had to find everything through modules making it hard to go back and forth. Gives cheat sheets for tests, and when you think you have enough put more. It saved me.
+
+--- Rating #5 ---
+Class: CRIM230
+Date: 2026-01-16 04:03:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+attend lecture and do the readings and you will be okay. I found it pretty evident which cases were going to be on the exams as they were either talked about at length in the textbook (and brought up many times) or she talked about it in lecture. grading was okay, I must have done well on the final to get the grade I did
+
+--- Rating #6 ---
+Class: CRIM230
+Date: 2026-01-04 20:01:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Do the readings and go to lecture and you'll be totally fine. She puts stuff from both the readings and lecture on the midterm and final. If you miss lecture you won't be able to get a good grade on either the final or the midterm. Basically do what you're supposed to and you'll do good.
+
+--- Rating #7 ---
+Class: CRIM135
+Date: 2025-12-22 03:26:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+With all the efforts put into reading, I still found the grading criteria for reflection assignments to be unclear and impossibly strict at times. Nevertheless, Amy did an exceptional job in structuring the course in a way that forces you to learn and deserve the grade. Not easy at all, but it was a very, very useful breadth elective.
+
+--- Rating #8 ---
+Class: CRIM135
+Date: 2025-12-19 02:05:58 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Read the textbook, pay attention during lecture. She will often go off topic during lecture, but somehow the subjects she brushes over will still end up being on the exam. I didn't find her to be as bad as the ratings might suggest, but if you really hate reading then I wouldn't take this course with her. Fairly reasonable with marks at least.
+
+--- Rating #9 ---
+Class: CRIM230
+Date: 2025-12-18 01:07:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amy is a pretty good prof, yes there is a lot to read but she is clear on her expectations. the grading is not insanely harsh and she provides general feedback on how/why you might have done bad and how you can improve. if you want personal feedback she has office hours
+
+--- Rating #10 ---
+Class: CRIM230
+Date: 2025-12-17 23:15:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Conroy is by far the worst prof I've had at SFU she was unorganized, often late, and so unapproachable. Asking for help or feedback always resulted in "did you read the course outline", "did you read the textbook", yes I did lady you're just confusing as hell. Her grading criteria's are very confusing and she does not state everything she wants. NO
+
+--- Rating #11 ---
+Class: CRIM332
+Date: 2025-12-17 20:42:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The 100/200 lvl ratings aren't representative of the OL experience. She gives a 10 min lecture, that's not sufficient on the professors end. You will have to learn all the material on your own, she provides little guidance on the assignments until after the memo is graded.
+
+--- Rating #12 ---
+Class: CRIM230
+Date: 2025-12-17 18:41:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This is a LAW class; it will be difficult: lots of reading & complex material. If you study, read the textbook, follow instructions, and take your time, it's easy. The class focuses on applying the law; you need to be thorough with your assignments. Amy isn't targeting you, she's lovely who wants students to do well but you need to put in the work.
+
+--- Rating #13 ---
+Class: CRIM230
+Date: 2025-12-17 03:13:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I didn't even do that bad and I'm warning you please do not take this class with her. Save yourself. Take it with literally anyone else.
+
+--- Rating #14 ---
+Class: CRIM135
+Date: 2025-12-17 00:54:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I think Amy is an incredibly reasonable prof, as long as you actually read the textbook and apply yourself you will be fine. You have to study and it's not an easy pass but I think the class was interesting and the grading was fair but tough. The assignments and quizzes are easy as long as you prep and she drops your lowest grade.
+
+--- Rating #15 ---
+Class: CRIM332
+Date: 2025-12-15 08:32:00 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: True
+Comment:
+She does not care about her students doing well. There was 2 memos, weekly assignments that required way more effort than what they are worth, a midterm and final. I will say questions on exams are similar to practice quizzes but she marks VERY hard. I would recommended taking a different class with different prof if possible! Not very approachable
+
+--- Rating #16 ---
+Class: CRIM230
+Date: 2025-12-13 01:18:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+the class is tough but if you actually do the readings and don't just ask AI for the answers you will do pretty well. people complaining about how the cheat sheet doesn't help either aren't making it the way she literally tells you to or are just using ai to make it/to study. hard class but if you put in the work and listen to her advice....
+
+--- Rating #17 ---
+Class: CRIM230
+Date: 2025-12-11 09:34:37 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+she expects us to memorize so much but her lectures mainly consist of her talking about specific cases or things she finds interesting that are not too closely related to the remainder of the course material. they are definitely interesting though! her slides also mainly consist of excerpts from the textbook which doesn't help us grasp content
+
+--- Rating #18 ---
+Class: CRIM135
+Date: 2025-12-11 08:57:50 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+her lectures are great if you are interested in the subject, but they are misleading because her exam questions make absolutely zero sense and have no correlation to what she talks about. the cheat sheets are a SCAM
+
+--- Rating #19 ---
+Class: CRIM332
+Date: 2025-12-11 01:32:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: True
+Comment:
+Has unclear grading criteria, all she says is to show an advanced knowledge of the material like what does that mean?? Her tests are fair though and you get a cheat sheet (which is lowkey unhelpful cuz it's all application based but still it helps) 
+
+Would not take again. Like actually do ur GPA a favour and don't take her classes.
+
+--- Rating #20 ---
+Class: CRIM135
+Date: 2025-12-10 22:02:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I like her lectures, but she often loses her train of thought. For example, on the final I recognized a handful of questions that she "went over" in class, but I couldn't remember the answer because she lost her train of thought and never got around to answering the question itself. Cheat sheets are unhelpful because exam questions are strategic

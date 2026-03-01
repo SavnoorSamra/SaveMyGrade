@@ -1,0 +1,11 @@
+Professor: Mariana Barrios
+Professor Legacy ID: 2779877
+Professor ID: VGVhY2hlci0yNzc5ODc3
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

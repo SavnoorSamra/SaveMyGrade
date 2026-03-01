@@ -1,0 +1,63 @@
+Professor: Darwin Lahue
+Professor Legacy ID: 1189435
+Professor ID: VGVhY2hlci0xMTg5NDM1
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 3.5
+Avg Difficulty: 2.3
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: KIN140
+Date: 2010-03-16 02:27:18 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Meh.... It would've been nice to have a TA who was excited about the material.
+
+--- Rating #2 ---
+Class: KPE170
+Date: 2009-11-18 14:21:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He is funny, clear and he is super hot!!
+
+--- Rating #3 ---
+Class: KIN140
+Date: 2008-12-06 21:17:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Really Easy TA.. very laid back., lets you out early the majority of his tutorials.. covers most of the material explained in lecture.. all in all a good TA
+
+--- Rating #4 ---
+Class: KIN140
+Date: 2008-10-21 22:39:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Great class, explains concepts really well. Doesn't make the best jokes though.

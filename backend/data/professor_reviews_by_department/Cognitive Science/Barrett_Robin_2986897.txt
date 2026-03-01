@@ -1,0 +1,11 @@
+Professor: Robin  Barrett
+Professor Legacy ID: 2986897
+Professor ID: VGVhY2hlci0yOTg2ODk3
+Department (CSV): Cognitive Science
+Department (Fetched): Cognitive Science
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

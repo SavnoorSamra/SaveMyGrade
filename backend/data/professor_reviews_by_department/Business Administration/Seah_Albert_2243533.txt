@@ -1,0 +1,272 @@
+Professor: Albert Seah
+Professor Legacy ID: 2243533
+Professor ID: VGVhY2hlci0yMjQzNTMz
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 1.9
+Avg Difficulty: 3.6
+Num Ratings: 32
+Would Take Again Percent: 21.875
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ECON100
+Date: 2026-02-20 23:31:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's pretty chill and uses his real life experiences as lessons which can be quite insightful, pay attention and revise and you'll definitely ace the course. He's pretty chill and you can ask him questions alright.
+
+--- Rating #2 ---
+Class: ECON100
+Date: 2025-05-10 10:51:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Don't choose this professor&#8212;you'll regret it.  
+There's a quiz before every class, the lectures are super boring, and you're not even allowed to look at your device for too long (he'll call you out).
+
+--- Rating #3 ---
+Class: BUS108
+Date: 2025-05-03 01:37:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Honestly I could not upstanding him. Disorganized and confused. Did not follow outline. Really bad
+
+--- Rating #4 ---
+Class: ECON100
+Date: 2024-11-07 02:14:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I genueinly dont see why people hate him, yes he's a tough grader but if you actually try to understand the course material, it'll be easy for you to get a good grade. ps he's a pretty chill guy.
+
+--- Rating #5 ---
+Class: COM002
+Date: 2023-09-05 21:44:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Don't really get all the awful ratings he gets. As long as you do your work you will be fine in his class, he is willing to talk things through about the class which will help you get a better grade if you take his advice and use it.
+
+--- Rating #6 ---
+Class: BUS108
+Date: 2023-08-04 10:31:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If you take his class, you will have a class with 10 minute quiz, 2.5 hours of his personal stories and experience about his business, soldier, teacher, student life, and 30 minute reading the PowerPoint. He tried to make jokes that are not funny. He use unreasonable time zone (GMT-4) for submitting assignment without noticing.
+
+--- Rating #7 ---
+Class: BUS237
+Date: 2021-12-17 19:24:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He was just as confused as I was all semester long. He didn't even know his grading criteria or rubric and made stuff up as he went.
+
+--- Rating #8 ---
+Class: COM002
+Date: 2020-08-27 23:58:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+Professor will give the outline 1 week before, you preview that, you may not need to listen in class because he would read through words. Class is BORING and MCQ &amp; T/F Quizzes at the end of lectures. Midterm and Final also are pop quizzes, but the score he gave will give you a surprise.
+
+--- Rating #9 ---
+Class: BUS237
+Date: 2020-08-24 20:11:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Tough grader and pop quizzes, horrible at teaching very lazy
+
+--- Rating #10 ---
+Class: BUS237
+Date: 2020-04-30 05:04:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+BORING lectures veryyyyyy boring. Does not know how to teach, you could pay me to just read off the slides better than he does. Come on &quot;Engaging University&quot; yet we sit through him going on and on reading off of a powerpoint. I learned nothing from this class. I want a refund.
+
+--- Rating #11 ---
+Class: BUS108
+Date: 2020-04-29 14:29:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+the most unprofessional instructor ive seen in my life. he doesnt know how to talk about women, he doesnt know how to teach, he is the least understanding person and he doesnt care about you. waste of time and money
+
+--- Rating #12 ---
+Class: BUS237
+Date: 2020-04-29 01:06:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Professor Seah was absolutely useless when it came to feedback or help. He did not even bother replying to his emails at times. His exams were not related to his lecture notes or book. Overall forces you to come to class with his pop quizzes that count towards a big portion of ur exams. Beware of this guy he thinks he is funny but no way!
+
+--- Rating #13 ---
+Class: BUS237
+Date: 2020-04-22 21:15:50 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Albert essentially reads the textbook word for word in lectures, but you still need to go in case of a pop quiz. He does not give any feedback or tips on how to do better. He seems to think that he can be funny, but it often comes across as mean instead. He also likes to start class early, so give yourself time to get to class.
+
+--- Rating #14 ---
+Class: BUS237
+Date: 2020-04-18 02:12:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+not a good prof. has pop quizzes at the end of lectures. these pop quizzes count towards your midterm mark and can easily lower it. does not give adequate time to complete midterm and especially final exam. also, he does not go over any due assignments in class, he makes it your responsibility to know when it's due and how to do it.
+
+--- Rating #15 ---
+Class: BUS237
+Date: 2020-04-17 03:59:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Inconsiderate prof, his classes were so boring to sit through. I wish i had taken a different Prof. The prof was petty and didnt care. Goes off topic. In conclusion dont take him you will suffer as his notes are not like the multiple choice during exams!
+
+--- Rating #16 ---
+Class: BUS237
+Date: 2020-02-10 06:42:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Actual garbage prof who is extremely biased and rude. Lectures are dry and is a waste of time but forces assignments in lecture to bump up attendance. Additionally, his lectures go way off topic on multiple occasions and often targets students who choose to not listen to him read off a screen
+
+--- Rating #17 ---
+Class: ECON100
+Date: 2019-12-28 02:34:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Even you have a right to skip 3 classes, he doesnt care and when you skip one, youll get F from the all participation. Tests are hilariously confusing. You almost cant be sure any of your answers. The worst grading Ive ever seen!
+
+--- Rating #18 ---
+Class: BUS237
+Date: 2019-08-18 04:58:54 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Took Bus237 with him. Classes are very boring but it's not necessary to attend the classes as he reads from the slides which have the same content from the book. Overall the course has some easy but time consuming components like online ms office tests. which are on word, excel and visio. Not a solid choice but doesn't matter as the course is easy.
+
+--- Rating #19 ---
+Class: ECON100
+Date: 2019-07-02 16:41:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Hilarious but he doesn't give marks lmao
+
+--- Rating #20 ---
+Class: COM002
+Date: 2019-04-27 18:01:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Just so bad

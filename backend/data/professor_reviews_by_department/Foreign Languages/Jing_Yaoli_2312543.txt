@@ -1,0 +1,37 @@
+Professor: Yaoli Jing
+Professor Legacy ID: 2312543
+Professor ID: VGVhY2hlci0yMzEyNTQz
+Department (CSV): Foreign Languages
+Department (Fetched): Foreign Languages
+Avg Rating: 4.5
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: CHIN100
+Date: 2017-12-14 18:09:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Quizzes everyday but they aren't necessarily hard if you pay attention in class. Textbook use was encouraged but you can pass without it, albeit with a lower grade. Definitely characters &gt; pinyin, midterm was about 50/50 characters/pinyin but final was mostly characters. Online exercises were easy.
+
+--- Rating #2 ---
+Class: CHIN100
+Date: 2017-12-05 19:18:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Daily quizzes weren't hard, big on memorization. Make sure to memorize the characters and not just pinyin, midterm was largely characters. Explains everything fairly well and gives lots of opportunity to improve your grade. Overall easy class if you put in the effort (about 1h studying/memorizing per class). Don't miss class tho

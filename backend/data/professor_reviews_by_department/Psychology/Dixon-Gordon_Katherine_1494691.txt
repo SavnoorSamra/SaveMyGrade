@@ -1,0 +1,63 @@
+Professor: Katherine Dixon-Gordon
+Professor Legacy ID: 1494691
+Professor ID: VGVhY2hlci0xNDk0Njkx
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 2.9
+Avg Difficulty: 4
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: PSYC371
+Date: 2011-09-11 23:29:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Totally awesome. Kind, caring and invested in the material. Brings first-hand knowledge to class. Is a total babe. If she was snappy to you at some point, it was probably your fault.
+
+--- Rating #2 ---
+Class: PSYC371
+Date: 2011-06-16 20:57:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Not very easy to understand, and didnt have time for students. Always seemed stressed and was snappy when picking up assignments.
+
+--- Rating #3 ---
+Class: PSYC371
+Date: 2011-04-16 19:37:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Not very easy to understand. Snappy and rude to the students during office hours. I didnt like her at all
+
+--- Rating #4 ---
+Class: PSYC371
+Date: 2010-11-12 02:16:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+She is super nice and very open to questions. She cares for the class by constantly asking if she was clear enough. Her lectures are clear because she uses simple words we can understand. 3 hours long though! Her tests are mostly lecture based, but there are still some text questions.

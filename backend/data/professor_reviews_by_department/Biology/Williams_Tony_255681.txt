@@ -1,0 +1,271 @@
+Professor: Tony Williams
+Professor Legacy ID: 255681
+Professor ID: VGVhY2hlci0yNTU2ODE=
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 3
+Avg Difficulty: 3.7
+Num Ratings: 147
+Would Take Again Percent: 35
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BISC101
+Date: 2025-09-12 06:47:10 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+talked very fast, hard to understand. went through slides fast before I could copy anything down. refused to post the lecture slides beforehand bc it'd cause ppl "skip more". exams focused on random tiny details covered in 1 sentence on slides instead of main concepts. very memorization heavy. but he did like to scale up to 63% avg which helped.
+
+--- Rating #2 ---
+Class: BISC101
+Date: 2025-08-27 19:26:24 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Not approachable at all. Speaks super fast in his lectures. I took this class again with a different prof and my mark went up expedentionally. Avoid taking class with him at all costs. Tried to go into his office hours to see where I went wrong, and it was pretty much because I didn't use his words word for word in the exam.
+
+--- Rating #3 ---
+Class: BIO101
+Date: 2025-01-21 01:22:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+So many of the major topics we discussed in lecture weren't on the exam or barely brushed over, while other random topics/one we only briefly touched on seemed to take priority. There were questions that weren't even in the lectures (which is what we're tested on) that were added to the exams. He goes insanely quickly through his slides in lecture.
+
+--- Rating #4 ---
+Class: BISC101
+Date: 2025-01-14 18:16:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He taught awfully, I fall behind a lot and couldn't really catch up on time, due to the massive amount of memorization. In overall he was so nice and kind but his teaching was only reading off the slides which I can do it myself.
+
+--- Rating #5 ---
+Class: 101
+Date: 2025-01-08 19:08:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+the class was manageable, all material on tests is on slides, so know the slides inside out. My strategy was to make flashcards on all the slides and that was how I studied. He is definitely passionate about the topics and can explain them well in my opinion. He adds in interesting current biology topics like CRISPR and 3 parent families too.
+
+--- Rating #6 ---
+Class: BISC101
+Date: 2025-01-08 19:07:55 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is an alright prof, not very engaging but his exams were extremely fair. He does do extra point questions he will mention only in the lecture. The exams were straight off the slides so you don't really need the textbook. I studied the night before for every exam and did totally fine. Please just study the slides with a friend or something.
+
+--- Rating #7 ---
+Class: BISC171
+Date: 2024-12-30 21:41:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Tony is an engaging professor who brings a great sense of humor to the classroom. The course has a straightforward structure - just attendance and a short summary. Unstuck AI was a handy study aid alongside the free textbook. Would take another BISC class with this prof.
+
+--- Rating #8 ---
+Class: BISC101
+Date: 2024-12-28 03:19:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lecture slides are the only thing testable which is good, but you need to know everything word for word for the midterms/exams which is insanely difficult when studying. Don't buy the textbook! Didn't use it once! Lectures were mostly dry but he cracked some jokes here and there which were funny.
+
+--- Rating #9 ---
+Class: BISC101
+Date: 2024-12-21 03:30:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The exams were bearable for me, but I completely agree with what others said about memorizing word for word, and that the bigger concepts were completely avoided n instead I'm asked about what the actual freak a goiter is. Went to his office hours once and he told me to look in the textbook to find the answer to my question. AVOID AT ALL COSTS PLS
+
+--- Rating #10 ---
+Class: BISC101
+Date: 2024-12-20 22:12:32 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+only written tests with questions focusing on points barely touched upon in the lecture
+
+--- Rating #11 ---
+Class: BISC101
+Date: 2024-12-20 08:19:53 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Tony was OK for BISC101, his exams are pretty tough and he expects a lot of memorization.
+
+--- Rating #12 ---
+Class: BISC101
+Date: 2024-12-19 20:49:10 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Not the worst prof I've had, but also not the best. The lectures were so pointless and boring. On his tests you have to copy word for word what his ppt slides say in order to get full marks. The tests weren't too bad but he is a hard marker. We didn't even use the textbook at all so don't buy it.
+
+--- Rating #13 ---
+Class: BISC101
+Date: 2024-12-19 11:23:39 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I hated coming to his class, made every lecture boring. His tests are ridiculous. Had to memorize his slides word for word and Ta's marked those test like their lives were on the line. If you have photographic memory youd ace this class. Tony is also unapproachable during class. Gives attitude whenever you ask a question.
+
+--- Rating #14 ---
+Class: BISC101
+Date: 2024-12-17 07:31:59 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Honestly most of these reviews are pretty harsh but overall the class was not bad you just have to be willing to put in the work and study, he makes it really clear that his exams are from the slides so literally just study that and you will do really well in the course, going to lectures is a waste of time, just listen to the recordings
+
+--- Rating #15 ---
+Class: BISC101
+Date: 2024-12-16 09:25:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Half of the lectures were a waste of time. Tony does not prep you for the exams. He says the test is based on the powerpoint and it is....but only the minor things. On the final there were questions based on topics we barely discussed in class. Textbook was not used so don't buy it. DON'T TAKE THIS CLASS WITH HIM!!!
+
+--- Rating #16 ---
+Class: BISC101
+Date: 2024-12-13 05:25:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Tony Williams's lectures are boring, and half of the content isn't even on the exams. The midterm had the highest average he ever had at 63%, and so he decided to make the second midterm and final extremely difficult and on random insignificant topics from his lectures and slides. if possible: Avoid
+
+--- Rating #17 ---
+Class: BISC101
+Date: 2024-12-12 07:33:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Williams is pretty decently civil, and the material he teaches is not too bad. But his tests were traumatic; no/limited MC, fill-in-the blank questions were quite vague, and you MUST memorize his powerpoints to do well overall. If memorization is your strong suit, you can manage. If you can avoid taking 101 with him, I recommend doing so.
+
+--- Rating #18 ---
+Class: BIO101
+Date: 2024-12-11 23:04:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The main stuff you spent 10 hours studying for? Don't worry it won't be on your midterm or finals, it will be random questions about topics he mention very very briefly.
+
+--- Rating #19 ---
+Class: BIO101
+Date: 2024-12-11 11:48:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The midterms were poorly designed, with only written questions and no multiple choice, despite being a biology course. Material taught often doesn't appear on exams. The instructor is dismissive, mocks marks, and offers no flexibility. Lectures are erratic, with disorganized slides. This creates a discouraging experience for first-year students.
+
+--- Rating #20 ---
+Class: BISC101
+Date: 2024-12-11 11:44:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Midterms and the Final exam were extremely poorly created with mistakes DURING THE EXAM. Lectures were optional as the exams were based on PowerPoint slides, but questions during the exam were very off-topic and random at times. AVOID HIM AT ALL COST TO SAVE MENTAL HEALTH

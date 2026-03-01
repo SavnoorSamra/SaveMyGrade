@@ -1,0 +1,271 @@
+Professor: Mike Lanthier
+Professor Legacy ID: 646622
+Professor ID: VGVhY2hlci02NDY2MjI=
+Department (CSV): History
+Department (Fetched): History
+Avg Rating: 4.5
+Avg Difficulty: 2.4
+Num Ratings: 43
+Would Take Again Percent: 92.8571
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: HIST401
+Date: 2020-12-23 02:46:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Likes to listen to himself a bit too much :-), but he's a nice guy, and his classes were really reasonable: the Zoom seminars were short and sweet, which them engaging and productive but not exhausting. Why didn't all profs at SFU do this??? Interesting material presented by somebody who cares about History. A++
+
+--- Rating #2 ---
+Class: HIST130
+Date: 2020-07-14 02:23:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A really good course thanks to a professor who's passionate and (obviously) reeeeealy loves History. Taking his course in Surrey kind of sucked, because the campus set-up made it hard for him to have regular office hours, and the tutorials were kind of weird (strange fishbowl rooms), but Lanthier was inspiring in a quirky, cynical sort of way.
+
+--- Rating #3 ---
+Class: HIST106
+Date: 2020-04-25 18:55:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Looking back at my degree now that I'm almost done, one of the best teachers I had while at SFU. Pushes students to think and question without being obnoxious or in-your-face. Cares about History, about learning, and about people. I enjoyed the class at the time, but really appreciate it now that's over.
+
+--- Rating #4 ---
+Class: HIST334
+Date: 2020-04-18 00:56:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Really interesting professor who cares about the subject and is willing to put a lot of work into helping his students. Funny and engaging, even if his lectures are dense and you have to take a lot of notes. I didn't appreciate it at the time because I was busy and stressed out, but definitely on of the best proffs I've had at SFU.
+
+--- Rating #5 ---
+Class: HIST130
+Date: 2019-06-07 18:52:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A year later, I realize that this course was both super-useful for taking more advance History AND that it was taught by somebody really nice who knows his stuff. The course seemed kind of hard at the time, but now I can see I was wrong. There was a lot of reading, but Dr. Lanthier's marks were really generous.
+
+--- Rating #6 ---
+Class: HIST130
+Date: 2018-12-06 15:16:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Michael is very kind and helpful. His lectures are great but his slides do not really give much information. For the most part, he reiterates the assigned textbook readings and just expands within his point of view in lectures. In tests and wants specificity but quite generous in essays. Overall great professor, but a tough marker.
+
+--- Rating #7 ---
+Class: HIST106
+Date: 2018-06-12 13:40:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+There was a LOT of reading in this class, and as an Engineering student I wasn't used to this kind of Arts stuff: it was tougher than I was expecting. Professor Lanthier was the best part of the course, and he made the material clear and interesting. He expects a lot, but if you put in some real effort you'll be just fine.
+
+--- Rating #8 ---
+Class: HIST106
+Date: 2018-04-18 21:07:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Lanthier is a very nice prof and so chill. His tests and assignments are straightforward and he's an easy marker. Really enjoyed this class.
+
+--- Rating #9 ---
+Class: HIST106
+Date: 2018-03-22 14:08:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A lot of reading. I found this class hard, but others thought it was easy. A lot of info to know. He wants his students to do well and is a caring, passionate prof.
+
+--- Rating #10 ---
+Class: HIST106
+Date: 2018-03-15 23:48:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The first few weeks of this course was fine but after that, he started assigning two chapters a week. One chapter is already 35-40 pages long plus he makes you read 4-6 primary sources on top of the weekly readings. This class is very demanding and I wouldn't recommend taking it unless you have to. Good luck.
+
+--- Rating #11 ---
+Class: IS101
+Date: 2018-02-18 22:26:26 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Pretty boring, so bring coffee. Didn't need the textbook at all. The slides are summaries of the readings from the textbook. Knows his stuff. The TA I had sucked and marked difficulty. The final was wretched. I'd suggest reading the novels since you have to write a short essay for it in the midterm and the final.
+
+--- Rating #12 ---
+Class: IS101
+Date: 2017-12-20 14:01:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Michael is honestly a really good prof. His lectures were clear and informative. He clearly is passionate about history which was seen a lot throughout our class, but he was understanding if you werent that well versed. I honestly didnt try a lot in this class, but an A is more than doable if you participate in tutorials and keep up with readings
+
+--- Rating #13 ---
+Class: IS101
+Date: 2017-12-14 20:25:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Michael really knows his stuff and you can tell he's passionate about the subject. He gets interesting and useful discussions going during lectures. Attend tutorials since you'll discuss the readings and novels that you'll be tested on in the midterm and final. Don't get the textbook. Same content is summarized profusely on the slides.
+
+--- Rating #14 ---
+Class: IS101
+Date: 2017-12-12 15:42:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The final exam for the course was kind of a killer, but the midterm and the long paper before that were super-easy, so it's all good. Professor Lanthier made the course really interesting and fun even though we covered a LOT of material in a short period of time.
+
+--- Rating #15 ---
+Class: HIST130
+Date: 2017-11-23 13:21:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Lanthier obviously loves what he does and he wants his students to care about history too. He manages to relate stuff that happened a long time ago to events in the news today, and this course has really opened my eyes and made me think about the world in a different way. Highly recommend.
+
+--- Rating #16 ---
+Class: IS101
+Date: 2017-11-21 21:01:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Lanthier is very passionate about what he teaches, which makes the long lectures bearable. Workload is quite light, and tutorials are engaging. Overall, an excellent professor.
+
+--- Rating #17 ---
+Class: HUM340
+Date: 2017-11-08 22:38:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Good instructor who obviously wants his students to do well. Likes Paris and history a whole lot, and has good stories to tell about the city that help you better understand, well, a whole lot of stuff. The class, the topic and the books seemed pretty intimidating at first, but the whole thing was pretty easy thanks to Michael.
+
+--- Rating #18 ---
+Class: HIST106
+Date: 2017-10-30 17:28:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+HIST 106 is a great first-year course for anybody in the Arts and Social Sciences--I just took it by accident in Surrey, but it's been really useful to have under my belt during my second year. Profesor Lanthier made the whole thing pretty painless and even fun. Yah, there's a lot of reading, but it's not as bad as other courses. Take it!
+
+--- Rating #19 ---
+Class: HIST413
+Date: 2017-09-01 22:16:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Lanthier is outstanding. He's incredibly knowledgeable when it comes to European history, but he is also very understanding with students that aren't as well versed. He was very quick when it came to marking, and he always gave very detailed feedback. I'd take a class with him again in a heartbeat
+
+--- Rating #20 ---
+Class: HIST416
+Date: 2017-08-02 16:25:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This was a really enjoyable fourth-year course.  There was almost always good energy in the room, and Doctor Lanthier struck the right balance: he let students do most of the talking , but he also put us back on the right path when we got off-track and gave us additional information and insight when it was useful.

@@ -1,0 +1,271 @@
+Professor: Ian Bercovitz
+Professor Legacy ID: 1551768
+Professor ID: VGVhY2hlci0xNTUxNzY4
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 4.5
+Avg Difficulty: 2.3
+Num Ratings: 25
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: STAT203
+Date: 2023-03-29 06:46:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He cares about his students. Willing to go the extra mile.
+
+--- Rating #2 ---
+Class: STAT203
+Date: 2018-06-03 19:38:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Ian is just an amazing prof.
+
+--- Rating #3 ---
+Class: STAT203
+Date: 2017-12-14 01:36:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I don't get profs who don't use Canvas. What an annoyance. He had a rough semester and yet he managed to keep on coming to class and teach so good on him. Material is easy. Just read the textbook and do the assignments. This prof wants you to do well
+
+--- Rating #4 ---
+Class: STAT101
+Date: 2016-12-27 15:28:25 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+If you do take a class with him, make sure you sit at the front of the class. He explains concepts very slowly, and guides you through each and every step.  Reading the textbook prior to lecture would make the lectures much less dry. Notes are unorganized, but the exams are really easy.
+
+--- Rating #5 ---
+Class: STAT203
+Date: 2016-01-04 02:01:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Like everything about this prof and the class, except the grading structure of his exams.  All questions are given the same weight - definitions and questions requiring lengthy calculations are worth same marks.  Overall, he is more than fair and understanding and would highly recommend.
+
+--- Rating #6 ---
+Class: STAT203
+Date: 2015-12-27 15:48:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+I am a third year student and he is the best professor I have had so far. He genuninely wants his students to do well and is always available for extra help - if you take advantage of that your mark will definitely reflect it. Attend class and apply yourself on assignments and a good mark on tests will come easily. Only complaint is messy writing.
+
+--- Rating #7 ---
+Class: STAT203
+Date: 2015-12-15 23:46:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Great prof that genuinely wants students to do well, highly recommended. Be prepared to put in effort though as there are 5 assignments due every other week and 2 midterms. Overall, very kind and fair. Only complain is that he needs to work on his messy writing, and stop giving lectures after midterms, no one wants to do more math after a midterm.
+
+--- Rating #8 ---
+Class: 101
+Date: 2015-01-14 02:38:46 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Ian is very nice! his tests are fair! just that he moved too fast when he explained slides. Overall, GOOD!!
+
+--- Rating #9 ---
+Class: STAT203
+Date: 2014-03-07 01:22:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+The best! Amazing teacher, he really wants his students to do well. He is always available for extra help if you need it. I was worried going into this class, being my first stats class, but it has been one of my favourites! Best teacher I've had. Hopefully I get to take an other class with him one day.
+
+--- Rating #10 ---
+Class: STAT203
+Date: 2014-03-07 01:19:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+The best! So helpful and always available for extra help if you need it. You can tell he really wants his students to do well and he keeps class interesting. I was worried going into the class, being my first stats class, but I am so happy with it. I recommend this prof highly and I really hope I get to take an other one of his classes.
+
+--- Rating #11 ---
+Class: STAT101
+Date: 2014-01-08 01:55:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Best stat prof you'll ever meet at SFU. If you're looking into taking a Q course, STAT101 with Ian will be your best choice. Very helpful and clear on what he expects to be on his two midterms and finals. If you attend his class and ask for help when you're unsure, you'll guarantee to do well. Good luck.
+
+--- Rating #12 ---
+Class: STAT101
+Date: 2013-11-23 14:33:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Clear on notes, gives you notes in advance, always there to help, makes class interesting
+
+--- Rating #13 ---
+Class: STAT203
+Date: 2012-12-13 03:28:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Ian is an awesome guy who you can tell loves teaching and wants to help you. That being said, don't take this course if you struggle with M/C.
+
+--- Rating #14 ---
+Class: STAT203
+Date: 2012-12-10 21:39:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+AMAZING PROF!!always willing for extra help&super nice...
+
+--- Rating #15 ---
+Class: STATS203
+Date: 2012-12-07 19:56:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Amazing prof. So helpful, always available for extra help. He will really try and make sure you understand the material. Does not move too fast at all.
+
+--- Rating #16 ---
+Class: STATS203
+Date: 2012-09-27 23:14:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+HORRIBLE prof. moves through material WAY too fast.
+
+--- Rating #17 ---
+Class: STAT101
+Date: 2012-07-21 02:10:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+super nice
+
+--- Rating #18 ---
+Class: STATS100
+Date: 2012-03-06 12:03:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Class is extremely easy, notes are easy to take and very clear. He makes Stats seem fun, so much so that I almost wanted to add it in as a minor. Skills learned are easily transferable to a resume.
+
+--- Rating #19 ---
+Class: STAT203
+Date: 2012-03-01 00:49:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Ian Bercovitz is an excellent prof. who take great interest in helping his students. I began to appreciate statistics with him. Very kind, helpful and I wish more professors like him.
+
+--- Rating #20 ---
+Class: STAT100
+Date: 2011-12-15 13:09:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+nice teacher, easy course

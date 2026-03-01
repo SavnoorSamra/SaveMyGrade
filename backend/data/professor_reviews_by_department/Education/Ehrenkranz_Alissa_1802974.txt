@@ -1,0 +1,89 @@
+Professor: Alissa Ehrenkranz
+Professor Legacy ID: 1802974
+Professor ID: VGVhY2hlci0xODAyOTc0
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 3.7
+Avg Difficulty: 1.8
+Num Ratings: 6
+Would Take Again Percent: -1
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: EDUC220
+Date: 2014-04-04 03:47:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+This class was terrible. The content is useful but she wasn't helpful at all. I found her always changing the syllabus which was very frustrating. She would throw random assignments at you with a few days before it was due. Always unclear of what she wanted. Never made anything clear for her Ta's as she told them not to attend lectures....
+
+--- Rating #2 ---
+Class: EDU220
+Date: 2013-10-29 06:12:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+SUPER NICE. If you ask questions she'll make it clear. She's very willing to help any way she can. I don't know why other people gave her so much negative reviews because it's really hard not to like her.
+
+--- Rating #3 ---
+Class: EDUC220
+Date: 2013-05-01 03:13:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+The marking is fair and easy compared to many other classes. We get opportunity to create a lesson plan and it is pretty helpful if u r interesting in teaching!Difinitely take this course!!U can also learn some study strategies in this class!
+
+--- Rating #4 ---
+Class: EDUC220
+Date: 2013-05-01 03:09:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+The exams are easy and fair compared to many other courses. There are lots of  extra materials for us to know and read. We get opportunity to create a lesson plan for children and that is pretty helpful. We also learn some study strategies which are extremely help the study for my other classes as well.
+
+--- Rating #5 ---
+Class: EDUC220
+Date: 2013-04-29 14:05:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+In my entire university career I have never come across such a compassionate and understanding professor. The course did fluctuate through the semester, but she made sure that all the changes were to the benefit of the students. She always went above and beyond when answering questions or concerns. Remarkable prof and a really interesting class.
+
+--- Rating #6 ---
+Class: EDUC220
+Date: 2013-03-19 22:43:03 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Course was interesting and the content extremely valuable. I learned about how to learn and my study habits have improved dramatically. Her instructions for assignments are unclear and subject to frequent change (VERY frustrating), but her marking schemes are very fair; it's worth it if you can get past the confusion.

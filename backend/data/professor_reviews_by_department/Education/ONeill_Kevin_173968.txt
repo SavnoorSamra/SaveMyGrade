@@ -1,0 +1,154 @@
+Professor: Kevin O'Neill
+Professor Legacy ID: 173968
+Professor ID: VGVhY2hlci0xNzM5Njg=
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.6
+Avg Difficulty: 3.1
+Num Ratings: 11
+Would Take Again Percent: 100
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: EDUC100W
+Date: 2026-01-05 10:39:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+One of the sweetest professors I've had. He's super kind and accommodating, and he explains things in a way that's easy to understand. He's also funny, which made the class more enjoyable. The course was easy but still fun and inspiring. I'd definitely recommend him.
+
+--- Rating #2 ---
+Class: EDUC100W
+Date: 2025-12-19 07:21:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Kevin is so funny and his lectures are amazing. His class seemed hard at first, the TA was also a tough grader, but you will get used to the weekly Quick Writes and can easily improve by their feedbacks. We wrote 9 in total and 6 best were kept for marks. He also let us have cheat sheets for our midterm and final test. I would take his class again.
+
+--- Rating #3 ---
+Class: EDUC100W
+Date: 2025-11-29 10:04:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Love this man. He's so sweet and understanding, and his lectures are very easy to follow. His grading was very straight-forward and lenient (mostly the TA's grading that was ambiguous), and accepted all questions, answers and comments. Exams were very simple, and easy to do well on if all lectures were attended. 100% would take again.
+
+--- Rating #4 ---
+Class: EDUC358
+Date: 2023-06-13 04:53:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Absolutely amazing guy! Very helpful, caring, great sense of humour. One of my favourite profs at SFU for sure.
+
+--- Rating #5 ---
+Class: EDUC400
+Date: 2021-04-03 09:38:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+This was a pass/fail class (I passed). Although long, Kevin was able to (mostly) keep us all engaged. His honesty about his own biases and experiences helped to facilitate critical and meaningful class discussions. There were occasions where he seemed disorganized, but overall as long as you show up and do the work, you should be fine in his class.
+
+--- Rating #6 ---
+Class: EDUC370
+Date: 2009-07-21 16:05:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+NICE GUY!! loves what he teaches, his easy going and helpful, again super super nice guy! very understanding and compassionate. I would take a class with him again..his laugh is so cute!
+
+--- Rating #7 ---
+Class: EDUC358
+Date: 2006-07-22 21:32:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Great teacher.  He really knows his stuff and delivers it enthusiastically.  Does his best to include everyone and focusses on assignments that are practical and useful for students.
+
+--- Rating #8 ---
+Class: EDUC260
+Date: 2004-12-19 17:29:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+really nice guy.. and the class is really interesting.. The content is a bit contrite, but if you put in the time, you should be fine..
+
+--- Rating #9 ---
+Class: 804
+Date: 2003-12-20 01:11:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+super nice guy
+
+--- Rating #10 ---
+Class: EDUC804
+Date: 2003-11-27 19:11:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #11 ---
+Class: EDUC260
+Date: 2003-03-27 17:45:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments

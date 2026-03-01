@@ -1,0 +1,37 @@
+Professor: Zahra Borghei
+Professor Legacy ID: 3030156
+Professor ID: VGVhY2hlci0zMDMwMTU2
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 2.5
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS275
+Date: 2024-09-24 23:06:25 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+She gives off a very &#8220;unsure of what I'm doing&#8221; vibe with a trembling voice and lack of structure in her dialogue despite seemingly having a lot of experience in her profession. Mandatory in class quizzes so you kind of need to go. Also does not help that she is mic popping every other sentence.
+
+--- Rating #2 ---
+Class: BUS275
+Date: 2024-09-16 19:56:15 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I could say, Listen carefully for the lectures, then you would be fine for the exams.

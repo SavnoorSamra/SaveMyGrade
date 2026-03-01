@@ -1,0 +1,63 @@
+Professor: Allan Majdanac
+Professor Legacy ID: 1505070
+Professor ID: VGVhY2hlci0xNTA1MDcw
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 5
+Avg Difficulty: 2.3
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: MATH2260
+Date: 2015-04-16 14:03:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+ok
+
+--- Rating #2 ---
+Class: MATH150
+Date: 2012-11-26 01:20:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Very nice prof. He is extremely good at teaching Calculus, however his midterm and finals are tough. You really have to study a lot for them. Free 15% on quizzes and assignments, 5% for calculus readiness test 30% for 2 midterms, and 50% for final.
+
+--- Rating #3 ---
+Class: MATH150
+Date: 2012-10-18 01:30:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+great proffesor, exams are brutal, but you really do learn calculas with him!
+
+--- Rating #4 ---
+Class: MATH150
+Date: 2011-03-24 22:46:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great Professor. The notes he gave out were crystal clear. Always available for extra help and also willing to help out students. Overall, he is one of the best professors at SFU

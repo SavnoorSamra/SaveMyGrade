@@ -1,0 +1,104 @@
+Professor: Parveen Karsan
+Professor Legacy ID: 2919507
+Professor ID: VGVhY2hlci0yOTE5NTA3
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4
+Avg Difficulty: 3.1
+Num Ratings: 7
+Would Take Again Percent: 85.7143
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: BUS200
+Date: 2025-07-28 23:20:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Liked her class. Good lectures.
+
+--- Rating #2 ---
+Class: BUS200
+Date: 2024-11-08 19:50:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I liked her lectures. She used a lot of real world examples and tried to keep us engaged. Overall, it was a good course.
+
+--- Rating #3 ---
+Class: BUS200
+Date: 2024-06-07 03:37:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is engaging and interesting.Lectures were good. Exams were easy if you attended classes.
+
+--- Rating #4 ---
+Class: BUS200
+Date: 2024-04-30 21:08:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+My overall grade was lower than I had hoped that it would be. When I raised the issue with Parveen, she was responsive and explained that she had to grade to the curve and even offered to write me a letter of recommendation to get into the program that I am applying to.
+
+Overall, I think she was amazing. Clear, caring and knows her stuff.
+
+--- Rating #5 ---
+Class: BUS200
+Date: 2024-01-22 18:37:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I would say the reason someone should take a class with her would be, because all her exam questions come from the textbooks practice question which you can easily find the pdf for on studoc. Besides that she isn't a very understanding nor considerate teacher. She arrives to class late religiously, and then complain that presentation run long.
+
+--- Rating #6 ---
+Class: BUS200
+Date: 2024-01-08 00:04:53 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I think Parveen was new when I took her course. She tended to be unorganized with class presentations and her grading wasn't the clearest. But she was caring and open to help students if they needed it.
+
+--- Rating #7 ---
+Class: BUS200
+Date: 2023-09-18 05:39:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Good prof! Interesting lectures and real world examples. Group work heavy.

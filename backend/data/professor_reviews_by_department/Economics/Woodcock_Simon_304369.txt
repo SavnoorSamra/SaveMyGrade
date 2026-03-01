@@ -1,0 +1,271 @@
+Professor: Simon Woodcock
+Professor Legacy ID: 304369
+Professor ID: VGVhY2hlci0zMDQzNjk=
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 3.9
+Avg Difficulty: 2.8
+Num Ratings: 35
+Would Take Again Percent: 90
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ECON334
+Date: 2026-01-15 19:52:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very good teacher, useful lectures that are actually worth going to. Just pay attention in class and the course is easy
+
+--- Rating #2 ---
+Class: ECON334
+Date: 2025-12-29 00:07:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Easy class if you put effort into learning how to do basic coding
+
+--- Rating #3 ---
+Class: ECON334
+Date: 2025-12-09 19:42:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Actually a good professor, he taught us everything we needed to know to succeed, but I don't give a damn. The guy takes so long to grade the coding quizzes. They were 30-minute quizzes, and he and the TA are taking 3 weeks to grade them. It's not a very big class either. Absolute garbage, I'm about to blow my brains out.
+
+--- Rating #4 ---
+Class: ECON334
+Date: 2025-11-28 02:55:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Overall great prof. Lectures are well organized and engaging. This was first semester in which grading scheme was changed. 30% of grade group projects, 60% of grade individual in class assessments and 10% for participation. Only problem were the quizzes which are worth 40% were done in tutorial and it felt very rushed. 1 bug in code and ur finished
+
+--- Rating #5 ---
+Class: ECON334
+Date: 2024-04-29 23:54:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Simon is one of the best professors in the Economics department. Took Econ 334, 335 with him. His classes are very straightforward (other professors should learn from him!). He is great at communicating/teaching. Exams/marking is also straightforward and the assignments are genuinely helpful and doable. Very patient and overall amazing prof.
+
+--- Rating #6 ---
+Class: ECON334
+Date: 2023-03-09 19:28:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Simon is amazing! He is really clear with his grading guidelines and follows a really fair marking strategy. The class itself is assignment heavy, no final - still challenging but if you take the time to do the weekly assignment you should do great in the class. I took also 335 with him and he is still one of the best professors you will ever have.
+
+--- Rating #7 ---
+Class: ECON334
+Date: 2023-01-31 22:40:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great prof, lecturers are at a great pace. Uses clear and concise language. One of my favourite prof's I've had in University
+
+--- Rating #8 ---
+Class: ECON480
+Date: 2019-04-24 07:38:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is the best prof you can get for 400 level Econ course. He help student a lot during his office hour. His exam and marking are easy too!
+
+--- Rating #9 ---
+Class: BUEC333
+Date: 2019-04-19 06:03:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Fantastic Professor! Dr. Woodcock's lectures are incredibly easy to follow. He speaks at a perfect pace and goes over important points several times. His assignments are interesting and the skills you learn from them are applicable in the real world. The midterm was fairly easy, but the final was tough so be prepared.
+
+--- Rating #10 ---
+Class: ECON480
+Date: 2018-11-30 17:30:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+480 is highly complementary to 435 and 494. It's very useful for doing research and preparing students for their thesis. It also covers topics such as regression discontinuity that are unseen in other courses. This course is unique because of its &quot;potential outcome&quot; approach and examine limitations of various methods. He is also nice and patient.
+
+--- Rating #11 ---
+Class: ECON484
+Date: 2011-05-12 22:10:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Awesome prof!!
+
+--- Rating #12 ---
+Class: ECON484
+Date: 2011-05-12 22:06:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Really interesting course and he explains it really well. The class consists of 2 short presentations, 1 paper and a final so the workload was not too bad. Totally recommend for a 400 level class.
+
+--- Rating #13 ---
+Class: BUEC333
+Date: 2011-04-28 05:50:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+one of the best profs I've ever had! notes are impeccably neat and organized and exams are fair and well written. not to mention the amazing eye candy. finally, a reason to go to class. even if you totally despise stats, simon will make you wanna learn it. he's just that hot
+
+--- Rating #14 ---
+Class: BUEC333
+Date: 2011-01-03 08:53:37 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+extremely hard i wouldnt recommend him if you have a busy  schedule and you are an int. student!mterm was ok but final was terribly hard.
+
+--- Rating #15 ---
+Class: BUEC333
+Date: 2009-08-11 21:18:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Take this class with him! Clear notes and he explains everything very well. Always willing to clarify any questions you have. Textbook is not crucial but is easy to understand. Midterm was fine, final was a little harder but that's expected.
+
+--- Rating #16 ---
+Class: BUEC333
+Date: 2009-05-04 14:02:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Assignments and Tests are both hard. Averaged 75~80% on assignments. Midterm is reasonable but final was ridiculously hard.
+
+--- Rating #17 ---
+Class: BUEC280
+Date: 2007-05-02 17:48:45 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Very clear but over-simplified lecture notes, even though the MTs and exams are based on the lecture notes.  I learned mostly from the TA. Dont bother getting the textbook, just study the notes, attend class, and bother the TA for help.  For the final, study early because he doesnt give out sample final answers. MUST ATTEND TUTORIAL TO SUCCESS
+
+--- Rating #18 ---
+Class: BUEC280
+Date: 2007-04-25 00:40:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Simon only tests out of the notes. His notes are alright but he doesn't add much to them during class so it's hard to pay attention when the notes are right in front of you. Not a bad prof but could be better!
+
+--- Rating #19 ---
+Class: BUEC280
+Date: 2007-02-26 21:09:18 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #20 ---
+Class: BUEC333
+Date: 2006-08-25 12:54:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Lecture notes, lecture notes, lecture notes.  Very good notes.  Thats all you need, screw the text book.  If you do all the assignments (not copy) you will get a good grade.

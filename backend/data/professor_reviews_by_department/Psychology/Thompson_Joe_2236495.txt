@@ -1,0 +1,271 @@
+Professor: Joe Thompson
+Professor Legacy ID: 2236495
+Professor ID: VGVhY2hlci0yMjM2NDk1
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 3.5
+Avg Difficulty: 3.3
+Num Ratings: 38
+Would Take Again Percent: 60.5263
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: COGS110
+Date: 2020-07-10 01:32:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Joe is an extremely energetic professor with a good taste in fashion. His lectures are half informative and half group activities. With his course layout, you can learn anything you want as long as you use cognitive theory to explain what you're doing.
+
+--- Rating #2 ---
+Class: PSYC1100
+Date: 2020-07-09 19:00:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+TOUGH GRADER. Due to Covid-19 the lecture is being delivered online. His lecture is very short. 15-20 minutes per chapter. HOWEVER, exam is insanely difficult. You'd better memorize every single word on your textbook. He does not teach much but exam covers broad amount of knowledge.
+
+--- Rating #3 ---
+Class: PSYC102
+Date: 2019-11-21 18:59:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+His teaching style was very boring. More than half the class would just leave midway because it was hard to pay attention with his teaching style. Last exam was cumulative, so it was very difficult and a lot to remember. It was hard for me to stay awake in this class because he was not fun to listen to.
+
+--- Rating #4 ---
+Class: PSYC308
+Date: 2019-11-14 18:03:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Based on Fall 2019 semester: Exceptional prof, have taken other classes with him, passionate. His lectures are discussion based but he gives the option to respond on an online poll. Five critical papers to write based on readings (450 words). Clear grading criteria. TA gave good marks and every paper deadline was extended.
+
+--- Rating #5 ---
+Class: PSYC308
+Date: 2019-10-30 19:00:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+There is a small quiz or an assignment due each class so you can't skip, but if you pay attention and follow instructions you'll be fine. Enjoyable course, Joe is super nice and attentive, acts like he wants to be there which makes a difference.
+
+--- Rating #6 ---
+Class: COGS110
+Date: 2019-04-16 21:11:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This course shouldn't be viewed as a GPA booster. If you want to formalize your understanding of how to learn and can commit to it, you will do fine.
+
+--- Rating #7 ---
+Class: PSYC120
+Date: 2019-04-11 09:10:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Hes very caring, just recall the primary objectives and the secondary objectives and youll pass along with the essay assignment cut in three parts makes it much useful
+
+--- Rating #8 ---
+Class: COGS110
+Date: 2019-04-10 07:34:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+lectures are well put and well executed, really good at explaining. The only downside is the mastery quizzes are worth 73% of your grade, and in order to get full marks you need 90% and above, and half marks is 83% and above. Mastering them isn't hard, just make flashcards and MEMORIZE them, it's not heavy concept and is easy to memorize.
+
+--- Rating #9 ---
+Class: COGS110
+Date: 2019-04-08 19:24:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+In case my first rating didn't go through, check out &quot;A COGS 110 Rant/Reflection&quot; on the SFU Reddit for my thoughts on COGS 110 with Joe Thompson for the Spring 2019 Semester.
+
+--- Rating #10 ---
+Class: COGS110
+Date: 2019-04-07 19:37:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Great prof, he is always available for help outside of class. Lectures were at 8:30 and not have I once felt bored or tired. Makes the concepts super clear and easy to understand. The course however, is marked based off mastery (worth 72% of your grade and you must achieve a 90% of higher for full marks on tests. A very stressful class, great prof
+
+--- Rating #11 ---
+Class: COGS110
+Date: 2019-04-06 18:17:55 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is actually a great guy, the course is just very different from other courses. You will find him answering questions of students and he actually wants to help you
+
+--- Rating #12 ---
+Class: PSYC308
+Date: 2019-04-05 04:01:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Good prof. Learned a lot in his class. If you go to class you'll do fine. Would recommend.
+
+--- Rating #13 ---
+Class: COGS110
+Date: 2019-04-04 21:32:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is very helpful and extends his office hours. Does his best.
+
+--- Rating #14 ---
+Class: COGS110
+Date: 2019-04-04 18:46:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The things taught in this course will help you throughout your university studies. Although I just finished the COGS110 course, it isn't the end of COGS110 for me. This was the only course which I felt comfortable and confident in and has helped my studying for the better. I truly recommend this class to anyone. Joe has really inspired me.
+
+--- Rating #15 ---
+Class: COGS110
+Date: 2019-04-04 04:48:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+LITERALLY WILL MAKE OR BREAK YOUR GPA. HE REMARKS SOME OF THE MASTERY TESTS AND NOT THE OTHERS WHICH IS SO UNFAIR TO THE STUDENTS THAT DIDNT PASS ONE BUT PASSED THE OTHER AND LITERALLY SOME OF IT IS SO DUMB LIKE IN ONE SECTIONS ITS THIS AND THEN IN THE OTHER HE GOES BACK ON IT.
+
+--- Rating #16 ---
+Class: PSYC308
+Date: 2019-04-02 02:42:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Easy marker. GPA booster. Constantly scaling quizes and assignments so grades go way up. Marks papers very quickly and gives good marks.
+
+--- Rating #17 ---
+Class: COGS110
+Date: 2019-03-29 00:16:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The course definitely needs to be re-evaluted on its grading scale since it is absolutely unfair. You need 90% on each of the 8 tests to pass the test or else you fail the test BEWARE OF THAT. I strongly regret taking this course as an elective. Joe is overall, an okay prof BUT this course I do not recommend. Not a GPA BOOSTER. Dont fool yourself.
+
+--- Rating #18 ---
+Class: COGS110
+Date: 2019-03-26 19:44:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He cares and understands students. He is also willing to extend office hours to answer questions, and I found the course to be easy with his help. Would recommend him for someone who is interested in taking COGS 110.
+
+--- Rating #19 ---
+Class: COGS110
+Date: 2019-03-24 21:31:51 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Joe is easily one of the worst profs I have had in my time at university. He is a VERY HARD test maker, and he has a very large superiority complex. I would stay and talk to him all the time, but the questions he asks are so much more complex and much harder compared to the material that he presents in class and he LOVES trick questions. Be wary.
+
+--- Rating #20 ---
+Class: COGS110
+Date: 2019-03-23 23:22:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Worst professor I have ever encountered, please for your GPA and mental sanity take cogs110 at Burnaby and avoid the Surrey class like the plague. I really dislike describing an academic in such a negative light but he is genuinely an idiot. I've never been so disgusted with a teacher's style of teaching.

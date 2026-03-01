@@ -1,0 +1,206 @@
+Professor: Anne-Marie Nicol
+Professor Legacy ID: 1894965
+Professor ID: VGVhY2hlci0xODk0OTY1
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 2.5
+Avg Difficulty: 3.5
+Num Ratings: 15
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 15
+
+--- Rating #1 ---
+Class: HSCI412
+Date: 2025-11-17 22:41:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+this is supposed to be a health promotion class, however, we are being quizzed on the life cycle of a mushroom, pm2.5 and oral presentations
+
+--- Rating #2 ---
+Class: HSCI412
+Date: 2025-01-15 03:00:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Nicole is super unorganized and does not cover any material that she includes in the midterm during her lectures and suddenly expects you to know everything. She gives you no clear instructions for your assignments and yet deducts Mark if you don't meet her expectations.
+
+--- Rating #3 ---
+Class: HSCI412
+Date: 2024-12-03 06:35:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She is a great human that is not meant to teach a fourth year class.
+
+--- Rating #4 ---
+Class: HSCI412
+Date: 2024-11-28 22:56:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Worst Health Science Class!
+
+--- Rating #5 ---
+Class: HSCI412
+Date: 2024-11-28 22:53:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Avoid Avoid taking this class. Unclear criteria!!! Unclear instructions for the assignments. Everyone were freaking out about how unclear everything was. She would examine you on a textbook that she never even explained during the lectures. TA is such a tough grader! This course will negatively impact your GPA.
+
+--- Rating #6 ---
+Class: HSCI412
+Date: 2024-11-21 04:36:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Do not take this class. She's super unclear about the requirement for her assignments. When you ask for feedback before submitting your assignment, they tell you it's really good and yet the TA is such a tough grader that you end up getting the worst grade. The lectures are so off-topic and she does not go through the textbook at all.
+
+--- Rating #7 ---
+Class: HSCI412
+Date: 2024-11-14 02:26:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The prof is not a bad person but HSCI412 is the UD course that I hate the most. It doesn't seem like a HSCI course at all. Readings are off topic, Lots of group work. TA is a tough grader, they didn't tell us what they want. When I asked her how I did and then she just said good but I still ended up getting a bad grade. Frustrating!
+
+--- Rating #8 ---
+Class: HSCI412
+Date: 2023-12-23 04:30:31 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Avoid this class if you can. Unclear grading criteria for the course. Mark is made up of mainly made up of group work (55%).
+
+--- Rating #9 ---
+Class: HSCI412
+Date: 2023-12-19 21:36:50 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Literally learned nothing from her class. The whole course is so unorganized and the grading criteria are unclear. Didn't make good use of Canvas and messy distribution of materials. Didn't understand why this course existed and didn't really enjoy this class. Not a fun experience
+
+--- Rating #10 ---
+Class: HSCI412
+Date: 2023-12-04 03:26:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Anne-Marie is nice and lectures are interesting. She knows her stuff which makes it enjoyable. Doesn't give much information on what will be on tests, but the assignments are super fun and easy to do well on. Would recommend her for this course. We missed a lot of classes this semester but she did her best all things considered.
+
+--- Rating #11 ---
+Class: 483
+Date: 2022-08-31 21:18:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Real funny prof, knows a lot about everyday things that can kill you. She's one of the most engaging profs I have met and makes people want to participate for more than just marks. Assignments tend to be papers and presentations...she a professional presenter so no reading off the slides. Gotta know your stuff! Pretty easy grader if you work
+
+--- Rating #12 ---
+Class: HSCI483
+Date: 2018-04-12 23:13:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Am was one of the most inspiring professors I have had the pleasure to take a class with during my undergrad at SFU. Although the midterm exam can be difficult, the class is fairly graded. She connected with all the students in the class, and promoted group discussion and connecting with our peers. Best PROF of my undergrad, by far
+
+--- Rating #13 ---
+Class: HSCI483
+Date: 2015-04-29 16:28:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+One of my best profs and fav. courses in my undergrad career. AM is passionate, knowledgeable,  and likes to get to know her students. Lectures were fun, engaging but more importantly, I found the material to be very valuable for any HSCI student. Doesn't believe in hard marking, believes more in ensuring students learn. Be prepared to present
+
+--- Rating #14 ---
+Class: 483
+Date: 2015-04-18 01:53:57 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great teacher, super smart and passionate about what she is teaching. Her first time teaching this class and she did a great job:)
+
+--- Rating #15 ---
+Class: HSCI483
+Date: 2014-04-26 15:54:39 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Her first time teaching the class, so she was a little disorganized. Getting a hold of her in person & email can be challenging. Way too many presentations in class, and lectures. However, she's very knowledgae and approchable!

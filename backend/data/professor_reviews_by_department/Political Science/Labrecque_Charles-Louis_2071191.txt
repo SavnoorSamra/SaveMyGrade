@@ -1,0 +1,50 @@
+Professor: Charles-Louis Labrecque
+Professor Legacy ID: 2071191
+Professor ID: VGVhY2hlci0yMDcxMTkx
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 4.2
+Avg Difficulty: 3
+Num Ratings: 3
+Would Take Again Percent: -1
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: POL349
+Date: 2016-05-25 20:54:42 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Prof Labrecque is great, he truly cares about his students. He not only explains things clearly (he does his best), but hell go out of his way to make sure his students really understand. He is available and replies to email quickly. And overall he is a great guy !
+
+--- Rating #2 ---
+Class: POL251
+Date: 2016-02-21 22:28:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's very committed to making things clear for his students and he wants everyone to succeed. He is very knowledgable about politics and international relations and well-respected by students.
+
+--- Rating #3 ---
+Class: POL251
+Date: 2015-11-23 20:07:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+He's super nice and talks a lot (he's very passionate about politics!) and the tutorial parts are boring (you have to read at home and he makes you feel bad if you don't, but you'll do it anyways because he's nice). Other than that, he's a pretty easy marker and he'll help you if you need, but you won't.

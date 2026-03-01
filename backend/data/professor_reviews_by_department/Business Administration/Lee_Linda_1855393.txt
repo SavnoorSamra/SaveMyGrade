@@ -1,0 +1,89 @@
+Professor: Linda Lee
+Professor Legacy ID: 1855393
+Professor ID: VGVhY2hlci0xODU1Mzkz
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.3
+Avg Difficulty: 3.5
+Num Ratings: 6
+Would Take Again Percent: 50
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: BUS449
+Date: 2017-04-13 04:09:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Linda is a great prof! She brings an interesting perspective to the class and has solid participation  based lectures.  She assigns a lot of reading, too much really.
+
+--- Rating #2 ---
+Class: BUS449
+Date: 2016-09-19 03:46:19 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lots of homework and readings + unclear instruction.
+
+--- Rating #3 ---
+Class: BUS448
+Date: 2016-01-29 23:02:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Linda is a great professor! Of course there is a lot of work for this course, but is definitely doable!
+
+--- Rating #4 ---
+Class: BUS448
+Date: 2013-12-24 20:27:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Linda is an excellent professor who uses her industry knowledge to create an insightful classroom experience. She is extremely dedicated, and is willing to go above and beyond to assist students both inside and outside the classroom. I found her class to be a rewarding experience, and I would highly recommend taking it to any student.
+
+--- Rating #5 ---
+Class: BUS448
+Date: 2013-12-12 21:11:07 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+It is very hard to get good grades in Linda's class.
+
+--- Rating #6 ---
+Class: BUS448
+Date: 2013-12-12 18:50:07 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Linda has a very poor attitude towards students which demotivates rather than motivates. She administers very low grades with little justification and provides unclear guidelines. This lecturer is passive aggressive, I would not recommend her.

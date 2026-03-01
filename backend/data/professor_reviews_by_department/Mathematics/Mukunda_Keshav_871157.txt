@@ -1,0 +1,271 @@
+Professor: Keshav Mukunda
+Professor Legacy ID: 871157
+Professor ID: VGVhY2hlci04NzExNTc=
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4
+Avg Difficulty: 3
+Num Ratings: 41
+Would Take Again Percent: -1
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH1201
+Date: 2015-04-17 10:42:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+He's a really nice guy. He's funny, joking every class.  He has his own notes, very well-organized. He gives us feedbacks on time, which i really appreciate. Everytime I went to his office for help, he looked energetic and was helpful. To pass this class is easy. Just make sure you read the textbook and do enough practice.
+
+--- Rating #2 ---
+Class: MATH155
+Date: 2014-11-08 01:19:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Keshav is a great calc prof.  This class was tough, but he did a good job.  Tests were fair, was really helpful during office hours and via email.  He is very respectful and very humble. This course requires a lot, lots of homework. Final was scaled.
+
+--- Rating #3 ---
+Class: MATH155
+Date: 2014-09-25 22:26:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Math was never my thing but he was a good prof. His examples in class tend to be much easier than the homework questions, but he is available if there is anything you don't understand. I would recommend him.
+
+--- Rating #4 ---
+Class: MATH155
+Date: 2014-08-11 09:53:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Midterms have exact same questions/concept as review sheet except with modified numbers. make sure you study those! However, Final exam had very specific things and 20 marks on multiple choice. Very helpful clear at explaining. Overall a good prof.
+
+--- Rating #5 ---
+Class: MATH155
+Date: 2014-08-08 19:26:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I'm not a math person but overall it didn't kill me. I really liked Dr. Mukunda because he's funny and friendly and his notes are clear and organized most of the time. His midterms and final are fair and pretty much EXACTLY the same as his review sheets. Would definitely recommend!
+
+--- Rating #6 ---
+Class: MATH155
+Date: 2014-08-08 09:00:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Even tho this was the 1st time he taught this course, he knew the material well. He was so confident w/ it that he could explain it 3 different ways so you would understand. Overall fair. Final was hard, he focused on odd concepts & excluded others. Put stuff on there from Math 154. But overall I'd give him an A
+
+--- Rating #7 ---
+Class: MATH155
+Date: 2014-05-01 18:24:06 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Shows reasoning for examples, but seems a little unsure. Do the homework assignments and make sure you do the reviews before midterms.
+
+--- Rating #8 ---
+Class: MATH155
+Date: 2014-04-22 17:33:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He has a great personality however that in no way means that he is a good prof when it comes to teaching. He gets off topic very easily and is extremely difficult to follow! His class was extremely frustrating because the notes don't help at all and he doesn't even bother to put up the answers to the reviews before exams! Cannot teach well! :/
+
+--- Rating #9 ---
+Class: MATH155
+Date: 2014-04-08 23:54:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great professor!
+
+--- Rating #10 ---
+Class: MATH232
+Date: 2013-04-21 22:15:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Keshav is a super friendly and really funny. His midterms were really fair on the whole. Make sure you study after the first midterm because the material does get harder, though do-able. Overall I'd say Keshav is a good prof, just make sure you keep up. Final is harder than the midterm but mainly just because the material is cumulative.
+
+--- Rating #11 ---
+Class: MATH152
+Date: 2012-04-25 18:33:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great prof! Fun and interesting lectures. Tests were fair and assignments are similar to test material.
+
+--- Rating #12 ---
+Class: MATH232
+Date: 2011-09-05 18:13:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Good prof! Exams can be hard if you are not a math guy. Textbook is crucial since the notes and lectures are little bit unclear. Keep up with the reading and DO THE HOMEWORK BY YOURSELF; you will be fine. Final exam emphasizes the topics (especially the application) after the midterm. BTW he looks hot..!
+
+--- Rating #13 ---
+Class: MATH232
+Date: 2011-08-21 11:47:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+good prof, but his exams are really hard, han the final grade is so unfair!
+
+--- Rating #14 ---
+Class: MATH232
+Date: 2011-08-11 05:05:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Too much things to write during the lectures. It's difficult to listen and write at the same time. His lectures are a bit rushed and the tests are difficult.
+
+--- Rating #15 ---
+Class: MATH232
+Date: 2011-08-02 00:21:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is a good prof who would answer all your e-mails/concerns. He is always willing to help in a positive way. Notes are to clarify the book with the baboon and it is printable. Tests are extremely hard and its a race against the clock. First midterm had an average of 48%.
+
+--- Rating #16 ---
+Class: MATH150
+Date: 2011-07-15 01:18:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+great prof, he was excellent at explaining things until you proved to him you understood. Not sure if he's still teaching math, but if anybody gets the chance to take a class with him, DO IT!
+
+--- Rating #17 ---
+Class: MATH100
+Date: 2011-05-26 20:41:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Good Prof.
+
+--- Rating #18 ---
+Class: MATH150
+Date: 2011-03-22 00:28:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+he explains everything so that you not only know how to do the problems, but so that you understand the concepts as well. and he explains in a such a way that it sticks. for example, he uses visual aids on the computer to demonstrate visually, the concepts which are taught, instead of just proving concepts with abstract equations. great teacher
+
+--- Rating #19 ---
+Class: MATH197
+Date: 2010-11-27 19:05:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Took this course at harbour centre.  He has a great sense of humour, explains every single topic in great detail.  Quizzes and exams were fair.  Fairly good professor.  I recommend him.
+
+--- Rating #20 ---
+Class: MATH150
+Date: 2010-11-17 07:29:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I'm an international student and I wasted $2000 on this course. Easily the worst investment of my life!

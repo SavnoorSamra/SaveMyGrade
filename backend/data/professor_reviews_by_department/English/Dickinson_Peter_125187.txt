@@ -1,0 +1,271 @@
+Professor: Peter Dickinson
+Professor Legacy ID: 125187
+Professor ID: VGVhY2hlci0xMjUxODc=
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 3.4
+Avg Difficulty: 3.1
+Num Ratings: 66
+Would Take Again Percent: 22.2222
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ca135
+Date: 2026-01-20 02:55:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Prof assigns 2 quizzes per week, graded by a computer, all answers are case sensitive. Divides his lectures into 7 - 10 different videos, plus 1 - 2 movies per week. Assignments peer graded. Quizzes are unfair and feel like trivia for movie buffs. Work load is way too heavy for an elective. Do not take this course.
+
+--- Rating #2 ---
+Class: ca135
+Date: 2025-12-18 18:56:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+By far the worst prof I've ever had. This person is not even a prof, careless and not professional. Made the course harder for no reason. As an elective for fun he made us to 30 quizzes. Literally made my grade 2 letter grades down because he didn't let me do the missed quiz due to illness.
+
+--- Rating #3 ---
+Class: ca135
+Date: 2025-12-18 01:45:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+The laziest professor I have ever had. I would have to email him at LEAST once a week because he uses an autograder that only accepts exact punctuation/capitalization, etc. He would also straight up put incorrect answers as the answer (wish I was joking) The two main assignments are peer graded so he literally doesn't mark a single thing.
+
+--- Rating #4 ---
+Class: ca135
+Date: 2025-12-13 19:58:27 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Workload was heavy for a first year intro course, definitely not what most people are expecting from a cinema class, I would imagine. Quizes are auto-graded so if you forget to capitalize or hyphenate an answer, you get it wrong. You can email him to fix this but doing so on a weekly basis becomes tiresome. Essay grades are from peer reviews.
+
+--- Rating #5 ---
+Class: ca135
+Date: 2025-12-10 21:08:12 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Course is basic intro to cinema. Workload with weekly quizzes and assigned reading's plus lecture and movie viewing felt heavy, and was hard to determine which material was tested for quizzes. Some questions did not feel very fair. Project worth 40% is interesting and fun to create, my favorite part of this course. All work is peer reviewed.
+
+--- Rating #6 ---
+Class: ca135
+Date: 2025-10-22 02:03:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+He doesn't actually do any grading your whole grade is based off of peer review scores...lowest effort prof ever. Way too much work for an elective, actually insane dont take it
+
+--- Rating #7 ---
+Class: 103W
+Date: 2025-10-06 15:35:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Worst prof ever!!! Never take his classes!!
+
+--- Rating #8 ---
+Class: ENGL380
+Date: 2018-12-04 19:16:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Peter is awesome! He is probably my favorite prof I've had in my four years of university. Class had no exam but was instead based on a series of group and individual projects which were a lot of work but he was very helpful along the way. Quick at replying to emails is always a plus. Also, he does a good mix of seminar and lecture/does both well.
+
+--- Rating #9 ---
+Class: ENG113W
+Date: 2017-08-03 12:55:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Peter is hands down one of the best profs I have ever had. His lectures are amazing; he is engaging and hilarious, and he is so knowledgeable about the course contents. The course materials were interesting and diverse, and the workload was reasonable and incredibly interesting. I loved this class so much!
+
+--- Rating #10 ---
+Class: ENGL103W
+Date: 2015-12-31 02:12:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Peter was probably the best first year professor I have ever had. I would highly recommend taking a first year course with him.
+
+--- Rating #11 ---
+Class: ENG103W
+Date: 2015-12-15 12:25:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Peter is a funny, caring prof. Lecture aren't mandatory to show up to but show up because there are performances sometimes. There's a lot of reading, and it's difficult to understand the purpose/point sometimes (go to tutorial!) Grading is fair, grading criteria is clear, overall an easy course.
+
+--- Rating #12 ---
+Class: ENG103W
+Date: 2015-12-12 22:44:56 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Really great prof!  Has interesting lectures that really make you think!  He's kinda quirky and really funny in lectures, I recommend any English class he's teaching.
+
+--- Rating #13 ---
+Class: ENG103W
+Date: 2015-12-04 17:00:32 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Peter was my favourite prof this term. Very organized, covered a great deal of material in the short lecture time, and the course readings were very interesting. He was also very passionate about not only the content of the course, but teaching to us. Easiness, I think, depends more on your TA.
+
+--- Rating #14 ---
+Class: ENGL103
+Date: 2015-11-25 20:30:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Peter is a great prof! He made class engaging and fun (even on a monday morning). He pushes you to be a better writer and actually made me enjoy English class for once. He also has great taste in reading material!
+
+--- Rating #15 ---
+Class: 103W
+Date: 2015-10-23 15:42:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Took this class for my W-requirement. Peter makes lectures fun with jokes/DRAMA. Didn't have my tutorials with him but loved the TA I had. Overall, really enjoyable class.
+
+--- Rating #16 ---
+Class: ENG468
+Date: 2013-11-25 03:24:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Peter is an excellent prof. Well read, interesting and has great sense of humour. He awards participation and attendance. Reading material is always interesting. Very enjoyable class!
+
+--- Rating #17 ---
+Class: ENGL468W
+Date: 2013-10-21 13:06:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I took this class not really expecting it to be as interesting as it is! It's a play a week and each class is a student led participation which invokes discussion throughout (if the presentations are good). The final is a scene presentation from one of the plays. Peter's a great prof and this class was really interesting, good for 400-level.
+
+--- Rating #18 ---
+Class: ENG103W
+Date: 2012-12-18 21:48:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Honestly took this class as a GPA booster, and it wasn't too bad. Very intriguing lectures, even though he posts the lecture slides he expands a lot on them. He was my tutorial leader as well. With him, and especially on the final be sure to master how to write a strong thesis, and you'll be set
+
+--- Rating #19 ---
+Class: ENG103
+Date: 2012-12-14 09:13:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+One of my favorite profs this year! Classes are fun and interactive. He's enthusiastic and fun to listen to. His slides are online so you can download them for classes and take notes on them. Make sure you listen in class and pay attention during your tutorial.
+
+--- Rating #20 ---
+Class: ENGL103W
+Date: 2012-12-10 15:25:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Super nice prof! If you love quirky people who are hilarious, this is the best prof for you! Attendance isn't really mandatory for the lectures since he reads them outloud, but the way he reads them and expands on them (plus his jokes) are worth attending the lecs for. Tutorials are SUPER necessary- that's the key to a good grade. Awesome class tho

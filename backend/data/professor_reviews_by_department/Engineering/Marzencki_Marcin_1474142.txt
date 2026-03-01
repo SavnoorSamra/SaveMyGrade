@@ -1,0 +1,63 @@
+Professor: Marcin Marzencki
+Professor Legacy ID: 1474142
+Professor ID: VGVhY2hlci0xNDc0MTQy
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 4.9
+Avg Difficulty: 3
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: ENSC387
+Date: 2011-12-18 22:45:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Really fantastic prof. Cares for students interest, learning and grades. Lectures are very informative and well written. There is lots of animations that aid in understanding the material. Well worth the time. I would have liked to see a more challenging final competition, or small a final project if future budget allows.
+
+--- Rating #2 ---
+Class: ENSC387
+Date: 2011-12-18 22:20:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+really good class and it can be attributed to the prof.  very knowledgeable and informative- lectures were really great.  final was hard however grades were scaled
+
+--- Rating #3 ---
+Class: ENSC387
+Date: 2011-12-12 22:08:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Good prof, but ruined my opinion of him after the final.  The lectures were very informative and he was very knowledgeable, but the final was ridiculous.  Open book, way too long, and the questions that weren't directly in the note were almost impossible.  I don't pay $3000 a semester to just copy out the notes on the final.
+
+--- Rating #4 ---
+Class: ENSC387
+Date: 2010-09-02 15:53:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+resourceful like MacGyver, you might as well call him MacGyver. he likes to take his time at lunch, don't try to bother him then.

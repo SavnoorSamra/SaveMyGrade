@@ -1,0 +1,11 @@
+Professor: Christina Cheung
+Professor Legacy ID: 2468864
+Professor ID: VGVhY2hlci0yNDY4ODY0
+Department (CSV): Anthropology
+Department (Fetched): Anthropology
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

@@ -1,0 +1,219 @@
+Professor: Juan Ferrer
+Professor Legacy ID: 2782097
+Professor ID: VGVhY2hlci0yNzgyMDk3
+Department (CSV): Science
+Department (Fetched): Science
+Avg Rating: 4.8
+Avg Difficulty: 1.5
+Num Ratings: 16
+Would Take Again Percent: 93.75
+
+Ratings Count Returned: 16
+
+--- Rating #1 ---
+Class: TEKX101
+Date: 2026-02-24 09:18:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Super super nice, sweet, and caring guy. Always happy to help. One thing though: he has a lot of quizzes, even though they're redoable; they can get kind of annoying. And his slides are really text-heavy and endless. Lectures are kind of boring, but you get to 3D print whenever you want lol
+
+--- Rating #2 ---
+Class: TEKX101
+Date: 2025-05-06 19:55:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I loved this course. I came in with no 3D printing experience and left having completed several scanned, designed, and printed projects. There's a lot to learn, but Juan is always happy to help. Lectures are optional with past recordings available. The material is genuinely fun and engaging!
+
+--- Rating #3 ---
+Class: TEKX101
+Date: 2025-05-01 20:50:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Juan was a very generous marker lol, compared to his TA. However his lectures and PowerPoint slides were really content heavy so it got boring + no breaks during the 2 hour classes. Make sure to keep up with the hw/projects and book your printing time earlier!!! 2 of the assignments is w/group. 1 short group presentation at very end of the semester
+
+--- Rating #4 ---
+Class: TEKX101
+Date: 2025-04-25 06:10:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof. Super nice, very down to earth, gives very insightful feedback, really cares about his students. Also super easy to do well in this course.
+
+--- Rating #5 ---
+Class: TEKX101
+Date: 2025-03-27 08:52:15 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Look, he is passionate, but his lectures are too jam-packed. The slides are too heavy, fast-paced. There are weekly quizzes, which you can redo as you so wish, about those slides (some skipped). Moreover, the labs are just packets you follow/Google or YouTube, with online videos and old instructions. This class was designed for online and it shows.
+
+--- Rating #6 ---
+Class: TEKX101
+Date: 2024-12-18 06:05:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He saved my gpa, this man is amazing and very interesting course if youre interested in 3D printing
+
+--- Rating #7 ---
+Class: TEKX101
+Date: 2024-11-29 18:33:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+You want free marks and credits. Take his class.
+
+--- Rating #8 ---
+Class: TEKX101
+Date: 2024-11-22 08:52:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Probably the best Q course at SFU. You'll need some basic math skills & get a grip with Fusion 360 so spend some time on it and you'll be fine. Engaging lectures & fun overall. It's literally 3D printing, you get to print ~3 things for free. For the group project, always talk with your members & contact Juan if they're bad. Wish I could take again.
+
+--- Rating #9 ---
+Class: TEKX101
+Date: 2023-12-31 16:13:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Juan is an amazing prof. This class is really interesting if you are interested in 3D printing. Projects are really fun and make you learn because you can choose what to do. There is a lot of information dump for the midterm so learn as you go. Midterm was not hard though. Juan makes lectures more fun and engaging. I recommend this class 10/10.
+
+--- Rating #10 ---
+Class: TEKX101
+Date: 2023-12-02 00:01:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Juan is one of the sweetest, most constructive and understanding professors I've ever had here at SFU. He is very lenient with due dates and understands that circumstances can change. A huge plus is that he will not deduct you marks if your print fails, as he wants you to learn from it and write about it in the reports. Would highly recommend him!
+
+--- Rating #11 ---
+Class: TEKX101
+Date: 2023-12-01 23:53:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Incredibly friendly guy, I found Juan's lectures to be informative, invigorating, and formative for learning more about 3d printing.
+
+--- Rating #12 ---
+Class: TEKX101
+Date: 2022-05-02 02:19:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+TEKX101 is really chill and fun, don't let that Quantitative label hold you back because there is very minimal math. There is a bit of learning you have to do with a few programs, but for non-tech savvy folks, it is easy to pick up. Group projects are the basis for this class. Juan's lectures can get a bit dry, but he's super passionate.
+
+--- Rating #13 ---
+Class: TEKX101
+Date: 2022-04-28 19:58:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Juan is an amazing professor, he's passionate about what he teaches and really tries to help students understand the different ways of improving their abilities and guiding students in the right direction. He's an easy going professor and focuses on students enjoying the learning process no matter if mistakes were made. Overall, I really recommend.
+
+--- Rating #14 ---
+Class: TEKX101
+Date: 2022-04-06 21:49:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Juan Ferrer has consistently shown that he not only cares about his subject, but also his students. Though there are few lectures for the content within TeKX, Ferrer makes the course both fun and accessible for all students. He is not only very friendly and approachable, but is also reasonable with his marking and provides exceptional feedback.
+
+--- Rating #15 ---
+Class: TEKX101
+Date: 2022-04-06 21:44:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Juan is an extremely supportive professor, often offering accommodation if asked. His projects are marked extremely leniently and always come with constructive feedback. His midterm only covered ~1/2 of the course, with his final consisting of a final project rather than an exam.
+
+--- Rating #16 ---
+Class: TEKX101
+Date: 2022-03-27 01:31:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I created an account just to say that this professor is the best. He is genuine and nice to everyone who looks for help. He is passionate about lectures and uses fun 3d printing objects to make us understand better. The feedback is clear and lets us know what to improve on in future assignments. Best elective I've taken so far.

@@ -1,0 +1,89 @@
+Professor: Marcos Moldes
+Professor Legacy ID: 1830241
+Professor ID: VGVhY2hlci0xODMwMjQx
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 4.9
+Avg Difficulty: 2.8
+Num Ratings: 6
+Would Take Again Percent: 100
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: CMNS452
+Date: 2016-07-27 18:10:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+My favourite instructor in 5 years at SFU. Genuinely interested in (and knowledgeable about) the class material, gives engaging, relevant lectures and isn't afraid to be an actual human being. Do whatever it takes to get into one of his classes, for sure.
+
+--- Rating #2 ---
+Class: CMNS452
+Date: 2015-12-15 15:42:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+First review I felt compelled to do at SFU - Marcos is simply amazing. Engaging lectures, very knowledgeable person, and life changing course. Marcos expects you to try, and as long as you do then you will do well. You will learn about the effects that white supremacy has on indigenous, Black, and Muslim people and understand recurring patterns.
+
+--- Rating #3 ---
+Class: CMNS452
+Date: 2015-05-01 20:32:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I think he's one of the most attentive profs out there. He seems strict at first, but you realize it is very reasonable and doable. He gives good feedback and is fair with his marking. Lectures are interesting and helpful. There's relatively few readings, but you have to read them all for the blogs. Be attentive too, or he might call out on you.
+
+--- Rating #4 ---
+Class: CMNS452
+Date: 2014-04-12 17:55:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Super awesome instructor with obvious passion for what he teaches. There is a fair amount of work, but his expectations are reasonable considering that it's a 400-lvl cmns course. His manner of speech can seem blunt, but he's an extremely understanding/nurturing instructor if you seek help on reasonable grounds.
+
+--- Rating #5 ---
+Class: CMNS452
+Date: 2014-04-12 03:41:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+LOVED this class and this prof! Marcos applied a lot of examples that we see in everyday life and he was always accessible for help (online & in person). Mini blogs are a bit time consuming but they help boost your mark. Great approach to teaching very controversial issues. Highly recommended if you like to voice your opinions in class.
+
+--- Rating #6 ---
+Class: CMNS235
+Date: 2013-07-24 17:39:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Most helpful prof I have met so far in SFU, and knows what he is talking about at all times. If you do your weekly readings you will definitely do great on the midterm. The midterm consist of multiple choices, short answers, and essay. Final is a take home final.

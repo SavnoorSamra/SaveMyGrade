@@ -1,0 +1,24 @@
+Professor: Justin Tetrault
+Professor Legacy ID: 3152102
+Professor ID: VGVhY2hlci0zMTUyMTAy
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: CRIM319
+Date: 2026-02-25 08:28:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Justin is a wonderful professor. I'm only halfway through the semester with him but I felt as though he already deserves a good review. He does a fabulous job at actually teaching the material, so you won't feel as though you have to teach yourself when exams come around. He's clearly super passionate and well-versed in the content. Take his class!

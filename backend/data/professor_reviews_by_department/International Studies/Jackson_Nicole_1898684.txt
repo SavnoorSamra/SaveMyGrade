@@ -1,0 +1,128 @@
+Professor: Nicole Jackson
+Professor Legacy ID: 1898684
+Professor ID: VGVhY2hlci0xODk4Njg0
+Department (CSV): International Studies
+Department (Fetched): International Studies
+Avg Rating: 3.9
+Avg Difficulty: 2.9
+Num Ratings: 9
+Would Take Again Percent: 100
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: IS402
+Date: 2025-11-27 20:52:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+If you have the chance to take IS402 with Nicole Jackson, do it. Seminar based class, do the readings and participate and it will be one of the most enjoyable classes if you have any interest in the topics. Super caring and kind, cares a ton about the material and makes it easy to learn, participate and study.
+
+--- Rating #2 ---
+Class: IS322
+Date: 2023-12-05 05:26:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I recommend this prof to anyone! She is very kind and knowledgeable, and is passionate about what she does. Her grading is clear and she offers help to those in need. If you show up to lectures, do the readings and follow the criteria you will do really well.
+
+--- Rating #3 ---
+Class: IS322
+Date: 2023-07-10 18:47:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I took her Central Asia course without knowing anything about it. If possible, try taking her Russian Foreign Policy course BEFORE Central Asia course - she is very passionate about both regions. At the end of the course, we did a roleplaying scenario where we pretended to be in a UN forum representing a country/org. It was stressful but helpful.
+
+--- Rating #4 ---
+Class: IS402
+Date: 2022-12-24 00:30:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Knowledgeable and supportive prof. Participation is crucial and helps with your final paper.
+
+--- Rating #5 ---
+Class: IS402
+Date: 2021-11-16 20:58:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Dr. Jackson comes across as intimidating at first, but is actually very caring and wants the best for her students. The course consisted of one major paper and participation, so participation was very important. She helps students to pace themselves with the term paper so they are not rushed. I recommend her for any upper division courses.
+
+--- Rating #6 ---
+Class: IS322
+Date: 2021-04-17 02:25:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Nicole's lectures are a little bit boring but overall her grading is pretty fair, the course material is relevant, and she is helpful with papers and presentations and gives relevant feedback. I'm also taking her Russia foreign security class and all I can say is good things about her. I do not understand why her score is so low?
+
+--- Rating #7 ---
+Class: IS200
+Date: 2017-01-05 14:55:21 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Nicole is a really sweet lady. Super knowledgeable, but her lectures are a bit boring.
+
+--- Rating #8 ---
+Class: IS200
+Date: 2015-11-29 16:32:00 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Class was very interesting but she's a terrible lecturer.
+
+--- Rating #9 ---
+Class: IS200
+Date: 2015-11-25 18:08:09 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Missed a lot of lectures in Fall 2015 due to sickness and Jackson not finding a lecture room for us. This plus two guest speakers meant that we missed half the classes of the semester.  Also speaks really quietly and takes her time going through lectures. Tutorials were great though, lots of discussion.

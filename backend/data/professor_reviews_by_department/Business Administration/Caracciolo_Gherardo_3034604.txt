@@ -1,0 +1,276 @@
+Professor: Gherardo Caracciolo
+Professor Legacy ID: 3034604
+Professor ID: VGVhY2hlci0zMDM0NjA0
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.7
+Avg Difficulty: 3.4
+Num Ratings: 75
+Would Take Again Percent: 64
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS412
+Date: 2026-02-08 19:02:38 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His exam is much over difficulty than what he taught in the class, this is the new course that need time to know how to improve.
+
+--- Rating #2 ---
+Class: BUS312
+Date: 2026-02-01 22:15:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+very good professor, final was bit tough but he has great humanity that lot of professors lack
+
+--- Rating #3 ---
+Class: BUS312
+Date: 2025-12-08 21:19:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is definitely one of the best prof I have ever met in sfu, there are three exams and he gives you the choice to skip or take depending on your readiness. 
+The slides are straightforward and the professor provides extra practice paper, and he is super friendly to assist. Recommend.
+
+--- Rating #4 ---
+Class: BUS312
+Date: 2025-12-07 05:09:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I'm echoing the last comment: I don't do these reviews, but I feel like I have to here. The guy is great, and if you read some bad comments today, it's because it was the day of the exam and some people clearly never went to class nor to an office hour. Gherado couldn't really be more transparent about what he wants students to know. Best prof ever
+
+--- Rating #5 ---
+Class: BUS312
+Date: 2025-12-07 04:48:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Go to classes and you will be fine. Not only he teaches well, but he also makes very very clear what he wants in the exam. Both Midterms and the final I sat down and found EXACTLY what I was expecting.
+
+--- Rating #6 ---
+Class: BUS312
+Date: 2025-12-07 04:47:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I usually don't post here, but I feel like I have to given what I'm reading. The guy is incredibly good: caring, super knowledgeable, and totally available. Hands down best prof at Beedie.
+
+--- Rating #7 ---
+Class: BUS312
+Date: 2025-12-07 04:32:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+He is so good. He's always incredibly willing to help: just think that the weeks before the exams he has office hours every day. It's actually one of the first classes in which I feel like I learned something, and I enjoyed every single class. I wish all professors at Beedie were like him.
+
+--- Rating #8 ---
+Class: BUS312
+Date: 2025-12-07 04:16:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is great ! Just go to class ( or office hours - he is always happy to reexplain) and do his practice questions, and the exam is basically super easy. People complaining here probably never went to a class ! I wish all professors were like him !
+
+--- Rating #9 ---
+Class: BUS312
+Date: 2025-12-07 02:35:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+I do not know what to say, probably I need to retake this course again next term. The school's arrangement is suck, there is only 1 option -- Him to take for this course...
+
+--- Rating #10 ---
+Class: BUS312
+Date: 2025-12-07 02:32:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+He is a good person, but his exams are super hard. Lots of surprise questions, and it is good for students who concentrated in Finance. But really no need to make that hard for student to choose others.
+
+--- Rating #11 ---
+Class: BUS312
+Date: 2025-12-07 02:30:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Worst Lecturer I have ever had at Beedie. Avoid at all cost.
+
+--- Rating #12 ---
+Class: BUS312
+Date: 2025-12-07 02:29:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+He is so terrible. The final exam was extremely hard, avoid please
+
+--- Rating #13 ---
+Class: BUS312
+Date: 2025-12-06 16:47:29 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+50 formulas and no formula sheet, even though the prof was good, the course structure is shit, would recommend not taking this course till the structure changes
+
+--- Rating #14 ---
+Class: BUS312
+Date: 2025-11-19 21:25:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Gherardo was a great professor and he really cares about his students. He wants you to do well and always answers questions and gives guidance. Would highly recommend you take him.
+
+--- Rating #15 ---
+Class: BUS312
+Date: 2025-09-03 21:30:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is super caring and wants his students to succeed. He is open to answer any questions students have about the content. 25% for each of the two midterms and 50% for the final. All exams were super fair and heavily reflected his problem sets, lectures, and mock exams. Attending the lectures and doing all his provided practice is enough to succeed.
+
+--- Rating #16 ---
+Class: BUS312
+Date: 2025-09-02 04:53:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great prof. cares for his students, always available to help and answers emails quickly. exams are hard but fair despite being worth 100% of your grade. do the homework and pay attention and you'll do fine.
+
+--- Rating #17 ---
+Class: BUS312
+Date: 2025-08-14 00:12:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Gherardo was not too bad; he cared for his students. You were only examinable by two midterms worth 25 percent and 50 percent on the final, and could skip the midterm to convert the weight to the final. His lectures were easy to zone out as it could become quite dry and his exam was way harder than the practice.
+
+--- Rating #18 ---
+Class: BUS312
+Date: 2025-05-13 22:46:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I enjoyed his teaching style, and by attending each lecture, I could fully understand the concepts.
+
+--- Rating #19 ---
+Class: BUS312
+Date: 2025-05-06 02:57:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Gherardo mostly lectures from slides and tries to engage students, but participation is low so it's easy to zone-out. Slides are concise and contain enough information to study on your own, but sometimes have typos. Problem sets are helpful, but exams are harder than the practice. He is very kind and genuinely wants to see students succeed.
+
+--- Rating #20 ---
+Class: BUS312
+Date: 2025-05-04 06:12:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Took in winter term. Fantastic guy. He genuinely wants to see you do well. IF YOU EVER HAVE A QUESTION IN CLASS DONT BE AFRAID TO ASK! 
+
+If you can get over the 30/70 mt/final or 100 final grade scheme, he is good.
+
+I'd vouch for him and genuinely wish him the best.

@@ -1,0 +1,63 @@
+Professor: Rosie Dhaliwal
+Professor Legacy ID: 2601485
+Professor ID: VGVhY2hlci0yNjAxNDg1
+Department (CSV): Social Science
+Department (Fetched): Social Science
+Avg Rating: 2.5
+Avg Difficulty: 3.3
+Num Ratings: 4
+Would Take Again Percent: 25
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: FASS207
+Date: 2025-06-26 22:34:59 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+not worth the one credit, not an experienced prof
+
+--- Rating #2 ---
+Class: FASS207
+Date: 2024-05-23 00:45:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Nice person awful lecturer for her area of expertise
+
+--- Rating #3 ---
+Class: FASS207
+Date: 2023-11-15 04:50:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I took FASS207 with Ms. Dhaliwal last summer. It was a one-credit course, which meant we either received a pass or a fail in the class. Her lectures were amazing and very engaging. She gave really good feedback on our papers. It has been a while since I've been in her class but I still remember the amazing prof that she is and that she cared!
+
+--- Rating #4 ---
+Class: FASS207
+Date: 2020-05-22 22:13:43 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Too much work for a one credit course, not worth it. Prof is inexperienced. I would've tried another FASS course if they were open, so if you can get into another one don't take FASS 207 with this prof. Rubrics and assignments were vague. No feedback on assignments. Prof is a nice person, but I wouldn't recommend the course.

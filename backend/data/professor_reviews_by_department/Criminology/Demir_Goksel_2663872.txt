@@ -1,0 +1,24 @@
+Professor: Goksel Demir
+Professor Legacy ID: 2663872
+Professor ID: VGVhY2hlci0yNjYzODcy
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: CRIM351
+Date: 2021-01-12 05:28:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+- enthusiastic, approachable, funny and caring - passionate about course material - quick to mark assingments - facilitates good discussions on lectures could be improved: - reduce length of articles (100 pages is unrealistic to read)

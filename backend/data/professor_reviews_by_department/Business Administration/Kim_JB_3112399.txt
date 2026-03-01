@@ -1,0 +1,11 @@
+Professor: JB Kim
+Professor Legacy ID: 3112399
+Professor ID: VGVhY2hlci0zMTEyMzk5
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

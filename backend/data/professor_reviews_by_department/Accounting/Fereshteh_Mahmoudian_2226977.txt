@@ -1,0 +1,279 @@
+Professor: Mahmoudian Fereshteh
+Professor Legacy ID: 2226977
+Professor ID: VGVhY2hlci0yMjI2OTc3
+Department (CSV): Accounting
+Department (Fetched): Accounting
+Avg Rating: 3
+Avg Difficulty: 3.5
+Num Ratings: 26
+Would Take Again Percent: 46.1538
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS420
+Date: 2025-12-13 21:36:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is an awesome person but not a great teacher. Her tests are borderline unfair and no one ever finishes them. If you are taking her then do all the examples, practice questions, and start praying.
+
+--- Rating #2 ---
+Class: BUS420
+Date: 2025-09-18 19:03:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She has little knowledge of M&A or any of the other topics she teaches, she uses hypothetical scenarios to create her own problems which would never occur in real life. Her lectures are extremely difficult to follow given she speaks in such random and various tones.
+
+Stay as far away as possible, unless you want to be docked randomly
+
+--- Rating #3 ---
+Class: BUS322
+Date: 2025-09-08 09:36:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I have taken a couple of accounting classes with her. She provides a lot of resources that requires tons of reading and prep but she is very caring and helpful both inside and outside the classroom. Getting a good grade is definitely possible if you spend the time and effort she expects.
+
+--- Rating #4 ---
+Class: BUS322
+Date: 2025-09-05 23:31:30 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She has really long slides with excel screenshot of examples. The lectures are not really helpful, you will need a lot of self study. Fair exams but pretty long.
+
+--- Rating #5 ---
+Class: BUS322
+Date: 2025-04-29 20:40:42 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She's very nice but her exams were somewhat difficult and in class just reads off slides (which are nothing like the exams). There's a huge group project and another one as well but its related to sustainability and balanced scorecard concepts when really, I'd prefer to just do accounting practice! I felt like I only learned fluff in this class.
+
+--- Rating #6 ---
+Class: BUS420
+Date: 2024-12-20 17:32:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She really cares and is really nice but wow, this is a difficult course. Her exams are on the harder end but since it's curved it balances out. Make sure to do her examples and the homework. She explains the concepts and her examples really well in class and answers questions..
+
+--- Rating #7 ---
+Class: BUS420
+Date: 2024-12-10 07:55:33 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She's a nice person but her exams has too many surprises. One minute you're doing consolidations, next minute she's asking you to calculate ratios on the exam, like ??  The questions are also super long so there isn't enough time. If you think you can beat the curve then go for it, I just wouldn't want to do it again.
+
+--- Rating #8 ---
+Class: BUS320
+Date: 2024-04-25 04:08:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Good grader, useless lectures
+
+--- Rating #9 ---
+Class: BUS320
+Date: 2024-01-23 16:55:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+You need to come in to hand in your assignments in paper, about 4-5 of them. Her slides are super long but detailed and if you can memorize them all, you will ace her midterm and exam without reading the book at all. Class average was 50-60%. Group project average was like 91%. She is caring, flexible with deadlines and pretty on top of her emails.
+
+--- Rating #10 ---
+Class: BUS320
+Date: 2023-12-07 23:42:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+A lot of the critiques of Fereshteh are, unfortunately, valid. She could improve her lectures by simplifying her examples and slowing down in her speech. BUT, Feresheth has one major thing going for her: SHE CARES. If you take her, try talking to her! She may get a little scattered during lecture, but she wants you to understand the material!
+
+--- Rating #11 ---
+Class: BUS320
+Date: 2023-12-04 17:40:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Fereshteh is a very nice and caring professor and is always available to answer my questions
+
+--- Rating #12 ---
+Class: BUS320
+Date: 2023-12-03 13:29:23 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+You can tell that Fereshteh is nice and cares about her students, but her lectures are painfully boring. It's difficult to stay engaged with such dry lectures, very fast speech, and a constantly fluctuating voice. Low test averages with a high paper average. Responds to emails quickly. Implied that WileyPLUS was required, but that wasn't the case.
+
+--- Rating #13 ---
+Class: BUS320
+Date: 2023-12-03 02:44:16 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr Mahmoudian is a very kind woman but not a great teacher. her lectures are very confusing, and she regularly states things (both orally and in her slides) that are incorrect and contradicted by the textbook. she interrupts students while they are trying to ask questions to attempt to answer before she understands what the student is asking
+
+--- Rating #14 ---
+Class: BUS320
+Date: 2023-09-09 19:55:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Goodluck, midterm and final were extremely tough for no reason, prof does not prepare you well at all for them.
+
+--- Rating #15 ---
+Class: BUS322
+Date: 2023-04-23 20:23:26 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+FYI think she read the reviews and made changes to her exams. Midterm was okay, but final exam was hilariously difficult. The questions she provides has nothing to do with the exams lol. 
+
+Term paper and presentation had high averages and weren't too troublesome though. 
+
+She replies to emails pretty quick so there's that.
+
+Pray for the curve boys
+
+--- Rating #16 ---
+Class: BUS320
+Date: 2020-09-01 02:17:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Fereahteh was an awesome prof I cant wait to take 322 with her.
+
+--- Rating #17 ---
+Class: BUS320
+Date: 2020-08-18 18:59:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Class average is incredibly high, especially the group paper (high 80s range). There are discrepancies between her lecture slide answers and Wiley exams/assignments, and you can be penalized without question. She gets confused when you explain your questions (even in person) and a lot of the time, you don't really get your answer. Poor final prep.
+
+--- Rating #18 ---
+Class: BUS320
+Date: 2020-08-17 08:21:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I didnt like the online exams and glitches but Fereshteh was a caring prof and tried to correct the online errors. She even removed the last online assignment when there was an error in it. She also gave us a lot of notes to prepare.
+
+--- Rating #19 ---
+Class: BUS320
+Date: 2020-08-17 05:48:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+The average is too damn high and the final messed up the whole grade.
+
+--- Rating #20 ---
+Class: BUS320
+Date: 2020-07-07 18:50:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Although she is accessible to students, but she seems so confused! For example, her submission requires .docx form, but you cant submit .docx on Canvas. She also uses a lot of readily available Wiley questions on her midterm. Thus you can lose a lot of marks for very minor things (e.g. writing 50% rather than 0.5).

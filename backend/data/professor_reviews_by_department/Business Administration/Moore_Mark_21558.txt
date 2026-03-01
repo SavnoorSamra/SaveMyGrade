@@ -1,0 +1,271 @@
+Professor: Mark Moore
+Professor Legacy ID: 21558
+Professor ID: VGVhY2hlci0yMTU1OA==
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.5
+Avg Difficulty: 3.7
+Num Ratings: 43
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS751
+Date: 2025-12-16 03:47:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+avoid if you have that option
+
+--- Rating #2 ---
+Class: ECON478
+Date: 2025-03-09 03:01:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Flipped classroom approach? We had to learn the content first then got told if we were right or wrong. His smug attitude and demeanor does little to motivate.
+
+--- Rating #3 ---
+Class: BUS552
+Date: 2024-09-20 05:40:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Worst professor ever. His job is to torture his students and make your life miserable. Majority of the class barely passed and I was just at the edge of the cliff and I failed - and now I have to waste another $3K to retake this class. BTW, he will NOT let you retake his class because all his questions are the exact same format.
+
+--- Rating #4 ---
+Class: BUS207
+Date: 2018-07-31 12:17:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He does a flipped-classroom approach, half lecture half mini-presentations that aren't difficult if you've payed attention in the Macro/Microecon prerequisites. No text book required as he provides great notes. One of the best courses I've taken at SFU. Learned a lot of interesting theory that was relevant to the real world, with little to no math.
+
+--- Rating #5 ---
+Class: BUS207
+Date: 2018-01-11 23:57:37 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I'm a 4th year student, this is my first &quot;C-&quot; marking is very subjective, questions on exams are based on articles he gives. There are weekly group assignments worth 30% of your grade and your grade gets re distributed based on what marks your team members assign you. Makes you answer Q's in front of class, just awful, rather have the calculus.
+
+--- Rating #6 ---
+Class: BUS207
+Date: 2017-12-09 21:18:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Worst class of my undergrad. Not very clear and he doesnt answer questions very well. The TA's are not there to help (only has markers), and the class requires pure memorization of his notes.
+
+--- Rating #7 ---
+Class: BUS207
+Date: 2017-11-24 17:30:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Good news: No calculus Bad news: class is so hard you will be begging for calculus MT averages 50% or below, he is incredibly difficult to understand and his tests much much harder than his practice questions. Confrontational when you ask questions (doesn't even consider your point of view) I would rather suffer through calculus than this, its bad
+
+--- Rating #8 ---
+Class: BUS207
+Date: 2017-07-13 12:40:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+use all real life cases for students to apply theories. Make sure to do the assignments and in-class practices, the exams will be a piece of cake. NO MATH
+
+--- Rating #9 ---
+Class: BUS552
+Date: 2017-04-27 19:19:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Mark is a terrible teacher. His marking is completely subjective and difficult projects, lectures are boring, he has unrealistic expectations and treats adult students like teenagers with loads of projects and strict marking. He is knowledgeable and teaches from real life economic situations, only good, too bad does not know how to teach!
+
+--- Rating #10 ---
+Class: BUS751
+Date: 2017-04-24 13:30:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Mark is definitely an experienced Economist, but probably the worst economic teacher I've had. I never skipped a single lecture, yet I've learned more from YouTube videos than all of his lectures combined. In addition, Mark has a specific need on how you word your assignments/papers. If it is not to his liking, he will mark it wrong. Good luck.
+
+--- Rating #11 ---
+Class: BUS207
+Date: 2016-12-25 16:50:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Great professor; understands the course material extremely well and knows how to convey it. His office hours are highly recommended for any confusing questions. Largest drawback is his flipped classroom approach where learning is largely done at home and questions are mainly done at school. If you're fine with that, definitely take him.
+
+--- Rating #12 ---
+Class: BUS207
+Date: 2016-12-09 14:07:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+such an amazing class with Mark. no calculus whatsoever. discussion based lectures and exams similar to assignments and in-class practices. REALLY RECOMMEND bus 207 with Mark.
+
+--- Rating #13 ---
+Class: BUS207
+Date: 2016-01-08 18:14:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+I'd say the course content is the most difficult to get your head around, and he's not a bad prof, that is to say he doesn't do anything unsuspected and he's fair.   Don't buy the textbook - just study his lecture slides and practice properly identifying the economic theory behind the articles and you'll do fine.
+
+--- Rating #14 ---
+Class: BUS207
+Date: 2016-01-02 15:56:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Mark is awesome. He teaches the material very well and extra accessible to answering questions. Speaks fast so get ready to write. Slides and class notes super helpful, did not buy textbook at all. Zero calculus. Understand all his material, do homework questions and be good at writing. Aced it.
+
+--- Rating #15 ---
+Class: BUS207
+Date: 2015-12-15 02:34:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Gives a fresh take on 207 - majority of questions are article questions with very little math, uses flipped classroom. He's a really tough marker but if you put in the work you should do well. Would highly recommend if you are interested in economics as it's a lot of work but very engaging and informative. Very willing to help and answer questions.
+
+--- Rating #16 ---
+Class: BUS207
+Date: 2015-12-05 19:15:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is very helpful when you ask him for help. His lectures are boring, some may sleep however this course if an eye opening to the read world. He grabs articles and makes questions based on it.  The first midterm average was 45% however it is curved.
+
+--- Rating #17 ---
+Class: BUS207
+Date: 2014-04-14 23:14:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Awesome prof, makes econ truly enjoyable. Speaks quite fast, but notes are super comprehensive. Zero maths for this course = great! Read & highlight notes before lecture strongly recommended. Do all assignments by yourself before discussing in your group. Fair exam.
+
+--- Rating #18 ---
+Class: BUS207
+Date: 2014-01-06 16:55:33 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Worst pro ever.  Speaking very fast and boring.  He can continually speak 3hours just give u 10min break .  So many people fall asleep in his class.  I strongly suggest don't take this course especially if English is ur second language.
+
+--- Rating #19 ---
+Class: BUS207
+Date: 2014-01-03 03:30:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Mark is a great professor. He is among the most intelligent professors I've encountered at SFU. He is very knowledgeable and gives plenty of real life examples. You will benefit from attending lecture. Mark is, however, a tough marker. Exams are lengthy. If you do his weekly assignments and practice you will know what to expect on exams.
+
+--- Rating #20 ---
+Class: BUS207
+Date: 2010-10-31 00:14:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He's awesome! such a nice guy! he teaches so well, and is very helpful, u can tell he cares about the students, his exams were so similar to assignments, do them all and u will have no prob. his final was harder than the MT but nothing surprising enjoyed his class solely bc he was teaching it. def recommended, uses no calculus so made 207 a breeze!

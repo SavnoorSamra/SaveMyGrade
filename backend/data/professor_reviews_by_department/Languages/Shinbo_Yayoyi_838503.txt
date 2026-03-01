@@ -1,0 +1,37 @@
+Professor: Yayoyi Shinbo
+Professor Legacy ID: 838503
+Professor ID: VGVhY2hlci04Mzg1MDM=
+Department (CSV): Languages
+Department (Fetched): Languages
+Avg Rating: 4.3
+Avg Difficulty: 1.5
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: JPN100
+Date: 2012-09-18 14:49:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+C is the most nicest prof ever
+
+--- Rating #2 ---
+Class: JAP100
+Date: 2008-11-19 05:19:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+No Comments

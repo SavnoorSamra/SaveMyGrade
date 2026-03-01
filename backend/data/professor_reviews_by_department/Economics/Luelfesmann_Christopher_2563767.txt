@@ -1,0 +1,63 @@
+Professor: Christopher Luelfesmann
+Professor Legacy ID: 2563767
+Professor ID: VGVhY2hlci0yNTYzNzY3
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 2.5
+Avg Difficulty: 4.3
+Num Ratings: 4
+Would Take Again Percent: 50
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: ECON201
+Date: 2023-11-30 15:59:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I made an account just for this prof, he is the worst lecturer ive had. he constantly gets things wrong in class, goes off topic and just confuses students with what he 'teaches' i learned everything from youtube and my TA. he is not capable of teaching! midterm average was 30% and he blamed all the students, but theres only one common denominator
+
+--- Rating #2 ---
+Class: ECON201
+Date: 2022-08-24 17:58:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Christophe gets a lot of flack, but the class is doable. He is actually a good lecturer and he explains things really well. The tough part is not having answers to problem sets. If you want to do well, go to multiple tutorial sections and use the TA office hours. Don't fall behind or you are toast. Study group is also essential to make it
+
+--- Rating #3 ---
+Class: ECON201
+Date: 2022-04-30 02:57:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Econ 201 is a difficult class, but the lack of practice work makes the class harder. The professor tries to make the exam more difficult than his given examples. His grading is not great. The class average was 25% for the midterm. That's how he grades.
+
+--- Rating #4 ---
+Class: ECON201
+Date: 2020-10-28 17:42:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great Professor. Econ 201 is a tough course. If you get behind, be ready to cry. Christoph is reachable during office hours and is quite straight-forward. The course is semi-curved (variable cutoff grades). Make sure you do all the practice Questions and sleep well the night before the exams -- the exams are difficult to finish.

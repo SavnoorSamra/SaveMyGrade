@@ -1,0 +1,37 @@
+Professor: Gretchen Hernandez
+Professor Legacy ID: 2221764
+Professor ID: VGVhY2hlci0yMjIxNzY0
+Department (CSV): International Studies
+Department (Fetched): International Studies
+Avg Rating: 3.5
+Avg Difficulty: 4
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: GEOG100
+Date: 2017-02-27 18:48:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very Good!!!
+
+--- Rating #2 ---
+Class: DEVS201
+Date: 2017-01-02 19:36:18 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I regret taking this class. I still don't know how development works, but now I know that most of it is done poorly. The TA (Sonia) graded 75% of our mark, and was very tough and difficult. The workload resembled an upper division course. Gretchen was disorganized, often late, and even no-showed for a class once. Do not take this as an elective.

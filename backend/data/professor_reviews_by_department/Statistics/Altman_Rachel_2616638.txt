@@ -1,0 +1,271 @@
+Professor: Rachel Altman
+Professor Legacy ID: 2616638
+Professor ID: VGVhY2hlci0yNjE2NjM4
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 2.1
+Avg Difficulty: 4
+Num Ratings: 65
+Would Take Again Percent: 29.2308
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: STAT350
+Date: 2025-12-15 17:13:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Rachel's lectures are among the most engaging I've ever had. Her assignments and reasonable in length. For exams & assignments, word choice is crucial, as marks can be determined by single words. Copying the wording on the slides which she posts is a good idea. Exams highly resemble the assignments. She was helpful during office hours and caring.
+
+--- Rating #2 ---
+Class: STAT350
+Date: 2025-12-06 07:33:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Solid professor for 350. Engaging lectures. Caring prof who makes an effort to get to know you. Lecture notes and materials are very organized and clear. Exams are fair and reflect the material taught. My interest in statistics increased after this class.
+
+--- Rating #3 ---
+Class: STAT305
+Date: 2025-10-25 09:21:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+this prof is an easy fade for all hsci majors. she was hell in different stat courses both me and my friend took. The homework was relatively easy but worth almost nothing. The midterms and especially the final exam had incredibly difficult to understand problems which added another level of difficulty on top of actually solving the questions.
+
+--- Rating #4 ---
+Class: STAT350
+Date: 2025-10-17 18:07:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+one of my fav stat profs !! amazing lectures with clear slides and good assignments. midterms match assignment and lecture topics. goated
+
+--- Rating #5 ---
+Class: STAT302
+Date: 2025-07-14 21:29:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Biased prof with sketchy understanding.
+
+--- Rating #6 ---
+Class: STAT201
+Date: 2025-04-16 05:10:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If you're able to self teach, this course with Rachel isn't bad. Assignment criteria was annoying and unclear and she does expect you to use identical wording from her own explanations. However she does really highlight what's important for exams, supplied review sessions for each exam, and allowed cheat sheets. Lowk she not too bad.
+
+--- Rating #7 ---
+Class: STAT201
+Date: 2025-03-26 10:07:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Received a D because I got under 50% on the final.... despite my overall grade being well above a passing 55%. Rough semester but even worse in this class
+
+--- Rating #8 ---
+Class: STAT201
+Date: 2025-03-23 04:37:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Horrible exams, grading schemes, and resources for help. Constantly makes mistakes for lecture notes/homework instructions and even exam preparations. No practice exams are given, but she still sends exam preparation instruction corrections at midnight, the night before the exam. You have to pass the final to pass the class. ClassaverageC Fall 2024
+
+--- Rating #9 ---
+Class: STAT201
+Date: 2025-03-21 07:14:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Class was a lot harder than it needed to be, lots of excess assignment questions compared to other stat profs when I spoke to a TA. If you like word memorization on top of studying and doing the coding homework assignments then this is the class for you, otherwise avoid. Exams you will be docked marks for not using the terminalogy from lectures
+
+--- Rating #10 ---
+Class: stat851
+Date: 2025-03-21 05:49:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Professor is extremely disorganized with her notes with mistakes in the homework always
+
+--- Rating #11 ---
+Class: stat851
+Date: 2025-03-20 03:32:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Avoid at all costs
+
+--- Rating #12 ---
+Class: STAT201
+Date: 2025-02-13 06:30:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The professor is nice and understanding; she is willing to help you succeed if you put in the effort and go to office hours. However, wording matters. The course is not necessarily hard, but you need to use specific wordings and make sure you understand the differences between the concepts, as it can get tricky.
+
+--- Rating #13 ---
+Class: STAT201
+Date: 2025-02-10 23:27:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Barely got through this class, my two friends who took the course both failed because they failed the final despite doing well on the midterms + assignments. I rarely every understood anything new from lecture as I always went through the notes before class and Rachel would just read off the slides word for word.
+
+--- Rating #14 ---
+Class: STAT201
+Date: 2025-02-01 01:11:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+You screw up one exam you're lowkey cooked buddy, she shows no mercy with curving grades and marks super hard on the homework, aka you don't you the definition she's looking for. Avoid, take it with Becky as she's a lot better. This prof will singlehandedly lower your gpa and make you feel miserable after the class
+
+--- Rating #15 ---
+Class: STAT201
+Date: 2025-01-22 03:51:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+even with office hours, I can't imagine how I did so well in the class. I believe it's due to the many hours I put doing practice quizzes on my own time. But based on other student reviews and my peers I can safely say, how does she even have a job? Her in class examples alone are hard to understand, don't forget about the many mistakes on exams
+
+--- Rating #16 ---
+Class: STAT201
+Date: 2025-01-22 03:49:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Before you ask about my grade, just know that this was the class average.... Absolutely horrendous prof who doesn't care about teaching other than showing up, reading the slides then sending 1am emails either about errors on the homework she assigned or complaints of students collaborating on homework assignments. Avoid her if possible
+
+--- Rating #17 ---
+Class: STAT350
+Date: 2025-01-12 00:49:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The course material is not hard. However, to get good grades, you should follow her wording in the slides EXACTLY. Expecting to memorize a lot of concepts. Exams focus more on interpretation rather than math/proof. She is very willing to help during office hours. Personally, I think she is good if you spend enough time on this course.
+
+--- Rating #18 ---
+Class: STAT201
+Date: 2025-01-08 03:45:42 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+she grades soooo unnecessarily difficult that it makes it extremely difficult to get a good grade. lectures were very confusing but explains things easier in office hours
+
+--- Rating #19 ---
+Class: STAT201
+Date: 2025-01-07 20:48:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Exams very long and grade on very specific terminology doesn't matter if you actually understand material. Lots of minor errors on the exam will add up and tank your grade very quickly. If you have the right terminology but wrong phrasing is used answer is wrong, was confusing because they don't tell you that in person. No real feedback was given.
+
+--- Rating #20 ---
+Class: STAT201
+Date: 2025-01-06 18:43:18 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Most people complained about her but her class was quite straight forward. The assignments were pretty much an exact replica of the type of questions on exams. I definitely recommend getting the text book and doing the practice questions there because they are much harder than exam questions so they will prepare you.

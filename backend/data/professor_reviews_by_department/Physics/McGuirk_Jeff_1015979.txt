@@ -1,0 +1,271 @@
+Professor: Jeff McGuirk
+Professor Legacy ID: 1015979
+Professor ID: VGVhY2hlci0xMDE1OTc5
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 3.9
+Avg Difficulty: 3.8
+Num Ratings: 56
+Would Take Again Percent: 91.6667
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PHYS101
+Date: 2022-12-11 05:11:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is a very nice and approachable person. His lectures are easy to follow as long as you put in the effort. His exams were fair. I would definitely take a class with him again.
+
+--- Rating #2 ---
+Class: PHYS100
+Date: 2022-09-12 00:59:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I had little to no knowledge about physics, and I failed my first midterm with McGuirk. I realized I just wasn't focusing enough in his lectures, so I did every example in his slides, over and over again, ended up with an A! With Jeff, his exams were literally copy and paste from his lecture clickers, with a few harder written questions.
+
+--- Rating #3 ---
+Class: PHYS100
+Date: 2022-07-04 06:26:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+jeff is one of the nicest professors that I have had so far! He was super funny and always made the entire class laugh. He went pretty quickly during lectures, but everything was posted after so you always were able to go back. Exams were simple, just make sure your practice, practice, practice! Trust me it makes all the difference in any course.
+
+--- Rating #4 ---
+Class: PHYSICS100
+Date: 2022-06-23 06:03:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jeff was a very caring prof. His exams were much easier than any of the homework or tutorials.
+
+--- Rating #5 ---
+Class: PHYSICS100
+Date: 2022-04-28 18:17:39 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If you want to take Physics? Run away from him. The lectures were easy, but the exams were really hard.
+
+--- Rating #6 ---
+Class: PHYS100
+Date: 2022-04-25 00:02:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jeff is a really good prof. He has a funny sense of humour, is organized, answers questions and emails. His exams are pretty fair imo if you study for them diligently. Toughest part is the multiple choice sections of his exams because they are conceptual and require a pretty good understanding of the ideas of physics rather than the calculations.
+
+--- Rating #7 ---
+Class: PHYS100
+Date: 2022-04-11 03:41:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jeff lectures are super funny and enjoyable. You can tell he really cares and wants his class to succeed. Homework and exams are based off lectures and are very fair. He really puts a effort in to make sure people understand the material. He's a very good prof and explains the material very well.
+
+--- Rating #8 ---
+Class: PHYS100
+Date: 2019-01-14 18:05:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jeff is really responsible and funny to make stuff easier to understand. He distributed the lecture contents, online homework and lab materials properly so that Im able to connect them together, enhancing my understanding of the course. The learning experience with Jeff is awesome and definitely I would recommend his lectures.
+
+--- Rating #9 ---
+Class: PHYS100
+Date: 2019-01-02 19:00:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The first thing I noticed about Jeff is that he genuinely wants his students to succeed. He is readily available outside of class and makes the best attempt he can to answer questions (no matter how stupid). He is willing to drop bad midterms if you do well on the final and he does really good lectures. I would take him again in a heartbeat.
+
+--- Rating #10 ---
+Class: PHYS100
+Date: 2018-12-09 17:02:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Just redo online homework questions and read through lecture slides before midterms or finals, you will be fine...
+
+--- Rating #11 ---
+Class: PHYS100
+Date: 2018-11-13 15:01:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Really good class although concepts add up quickly. I would recommend going over the practice questions on your own after each lecture. When you understand them it seems simple but if you don't you will be completely lost as each class builds on the previous. Lots of time for midterms and beware of wording in multiple choice questions.
+
+--- Rating #12 ---
+Class: PHYS100
+Date: 2018-11-02 13:30:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Jeff is an amazing professor. He is super passionate about physics and seems to make it his life goal to get his students to be passionate about physics. Available outside of class for help. His homework is always very helpful and relevant to the material and if you practice lots you can do well on the exams. Really nice guy!
+
+--- Rating #13 ---
+Class: PHYS100
+Date: 2016-04-25 23:07:07 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+exams were brutally hard. lectures were all over the place and notes were really informal and not clear enough
+
+--- Rating #14 ---
+Class: PHYS100
+Date: 2015-04-24 03:05:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Awesome, laid-back professor. Study off the textbook and you'll find the midterm and final exam easy.
+
+--- Rating #15 ---
+Class: PHYS100
+Date: 2015-04-22 16:06:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+tough exams. mastering physics questions are long and tedious. ended up hating physics. nice guy though
+
+--- Rating #16 ---
+Class: PHYS100
+Date: 2015-04-22 00:28:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Tough exams
+
+--- Rating #17 ---
+Class: PHYS100
+Date: 2015-04-21 17:22:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+horribly hard exams. textbook is an essential as it is much better at explaining the material
+
+--- Rating #18 ---
+Class: PHYSICS100
+Date: 2015-04-17 02:52:21 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Good attitude towards students and teaching, however expect difficult midterms and a brutal final exam.
+
+--- Rating #19 ---
+Class: PHYS100
+Date: 2015-04-17 00:56:11 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He's a pretty nice guy but if you miss even one or two lectures you'll be so behind. He posts notes online but if you're not there in class it's a little hard to understand what he was trying to explain. His exams are nothing like what he assigns for homework. Other than that hes decent but definetly not the best and you can only pray that you pass
+
+--- Rating #20 ---
+Class: PHYS100
+Date: 2015-04-15 14:55:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Extremely hard final and midterms. Be prepared to memorize everything. Practice wont help, has a habit of tricking people.

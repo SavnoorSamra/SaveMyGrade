@@ -1,0 +1,232 @@
+Professor: Bonnie Gray
+Professor Legacy ID: 558741
+Professor ID: VGVhY2hlci01NTg3NDE=
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 3.7
+Avg Difficulty: 3.2
+Num Ratings: 17
+Would Take Again Percent: 100
+
+Ratings Count Returned: 17
+
+--- Rating #1 ---
+Class: ENSC462
+Date: 2026-01-07 23:36:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Bonnie is great and sweet. She kept a precise pace throughout the lectures. The course itself is relatively easier to understand than other math-heavy courses because the concepts and applications of microfluidics are not overly abstract. As long as you don't skip her lectures and tutorials, you'll do fine. The exams and labs were graded fairly.
+
+--- Rating #2 ---
+Class: ENSC324
+Date: 2021-12-21 20:30:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She's a great prof. She has office hours each week and accommodates office hours before each exam for last minute questions. Replies to emails pretty quickly too
+
+--- Rating #3 ---
+Class: ENSC475
+Date: 2019-07-23 21:50:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This is the best class I had at SFU. You make circuits to read heart signals and other stuff, and how to (not) get electrocuted. I never liked biology but this class was so much fun.
+
+--- Rating #4 ---
+Class: ENSC324
+Date: 2015-12-23 15:00:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+She is nice and fun. Hand writing is not clear sometimes. and she won't post notes online. super nice in her office hours. If you go she will help you until you get the concepts. very patient !
+
+--- Rating #5 ---
+Class: ENSC495
+Date: 2013-10-31 15:40:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+She can't teach well and she can't do good research, why is she a professor?
+
+--- Rating #6 ---
+Class: ENSC224
+Date: 2013-10-25 01:52:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She's really nice, funny, helpful, explains things very well, and writes fair exams. One of the best profs in our department for sure!
+
+--- Rating #7 ---
+Class: ENSC224
+Date: 2013-08-30 20:12:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+She's willing to help you learn the material ! and she is a nice person .
+
+--- Rating #8 ---
+Class: ENSC224
+Date: 2013-08-09 02:32:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very good prof, but the course itself is very hard. She is really enthusiastic about what she teaches and she is always available and willing to help. Always keeps her office hours and you may even ask for extra hours but you really need to come prepared with a set of questions you want to ask, otherwise you'll be wasting your time and her time too
+
+--- Rating #9 ---
+Class: ENSC495
+Date: 2011-04-15 00:12:26 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+She does not know her job
+
+--- Rating #10 ---
+Class: ENSC224
+Date: 2010-12-07 17:08:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Bonney is very helpful and really wants studnets to learn. If you didnt go to office hours you should because shes really helpful for you to get it. Lots of equations but she made it interesting. Different prof and different course, but I learned alot.
+
+--- Rating #11 ---
+Class: ENSC224
+Date: 2010-09-03 18:02:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She's a good teacher. Goes through material fairly quickly, but follows the book very closely so it's easy to catch up. The course was very easy: basically, just &quot;plug-n-chug&quot;, with very little emphasis on knowing concepts. I went to class twice, yet got an A+. Course material isn't very useful unless you're in physics engineering.
+
+--- Rating #12 ---
+Class: ENSC224
+Date: 2010-07-19 18:21:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She's okay, very nice person though. Too much notes, but those notes are helpful for the exam. Like, there concept questions that are directly from the notes. Exams are fair, easier than HW, so don't panic when you find the HW questions hard.
+
+--- Rating #13 ---
+Class: ENSC224
+Date: 2010-07-18 17:04:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Doesn't reply to emails! Is so discouraging. She simply copies the text book without being able to even paraphrase it, let alone representing a useful model. Not recommended
+
+--- Rating #14 ---
+Class: ENSC225
+Date: 2008-04-30 19:51:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Not a bad teacher... tries to stay happy all the time in class and likes to know everyone by their names. Extremely helpful in her office hrs and has very fair exams. Labs are incredibly time consuming though, but interesting. Bottom line: No one can replace Ash but she still did a great job! I recommend her.
+
+--- Rating #15 ---
+Class: ENSC225
+Date: 2008-04-22 17:46:58 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She simply copies the textbook to the overhead...no clear explanation. I skiped almost all classes after the first two weeks...there's really no point of going to lecture...But she's nice to students, which is the only good thing of her...Exams are fair.
+
+--- Rating #16 ---
+Class: ENSC495
+Date: 2008-01-02 12:52:25 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #17 ---
+Class: ENSC495
+Date: 2005-05-03 16:32:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments

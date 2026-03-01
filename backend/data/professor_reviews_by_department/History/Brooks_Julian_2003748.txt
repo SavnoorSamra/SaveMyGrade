@@ -1,0 +1,76 @@
+Professor: Julian Brooks
+Professor Legacy ID: 2003748
+Professor ID: VGVhY2hlci0yMDAzNzQ4
+Department (CSV): History
+Department (Fetched): History
+Avg Rating: 4.7
+Avg Difficulty: 3
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: HIST151
+Date: 2016-08-01 20:23:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Julian is really passionate about history and he's a really nice approachable guy. It's evident that he really cares about his students and wants them to do well. One of the textbooks for the class is a comic book which was really interesting! The only thing I didn't like was his use of Tophat. Overall, I loved the class and would recommend it!
+
+--- Rating #2 ---
+Class: HIST151
+Date: 2016-04-02 03:20:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Awesome prof, very knowledgeable and if you ask for help he is always there! Would recommend for any class. Quite a few things that need to be done during the semester but its all straightforward and doable.
+
+--- Rating #3 ---
+Class: HIST130
+Date: 2016-01-09 17:48:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Julian is very passionate about history and it shows in his lectures. If you approach him for help he is more than willing to give you a hand. He is a very understanding prof and listens to what you have to say. Would definitely recommend him if you are interested in History or need a Humanities elective!
+
+--- Rating #4 ---
+Class: HIST307
+Date: 2015-04-28 02:09:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing professor! Lectures are so engaging and he is super passionate about the topics he teaches that it is simply impossible to not fall in love of the history of the region as well. Took all the courses that he offered at SFU.
+
+--- Rating #5 ---
+Class: HIST130
+Date: 2015-04-24 23:43:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Brooks was a pleasure to have this semester. HIST 130 is a massive class, so get ready to read tons. Because this class has so much material, it's better to have a midterm but Brooks didn't give one. He gives great feedback and is super knowledgeable and nice. Definitely recommend!

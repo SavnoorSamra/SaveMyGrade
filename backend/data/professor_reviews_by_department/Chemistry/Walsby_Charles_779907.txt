@@ -1,0 +1,271 @@
+Professor: Charles Walsby
+Professor Legacy ID: 779907
+Professor ID: VGVhY2hlci03Nzk5MDc=
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 4.6
+Avg Difficulty: 3.3
+Num Ratings: 94
+Would Take Again Percent: 92.4528
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CHEM122
+Date: 2025-12-20 19:50:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Good teacher, but the lectures on thermochem went through one ear and out the other. Thankfully, you don't have to *understand* thermochem to get all the questions right.
+
+--- Rating #2 ---
+Class: CHEM122
+Date: 2025-12-18 23:27:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the best profs I've ever encountered. He truly cares about his students and his lectures are amazing. Attendance isn't mandatory but I encourage to attend because his lecture are very useful. His exam are very similar to his practices. The course isn't easy but if you put in enough work to follow you will do good!
+
+--- Rating #3 ---
+Class: CHEM122
+Date: 2025-12-17 04:52:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+lecs were amazing & engaging, he was okay at explaining topics and make sure u get the textbook to fully understand material. study for the midterm and final at LEAST 3 weeks in advance. exams are quite different from practice but a pro is he has a lovely kiwi accent and hes silver fox af
+
+--- Rating #4 ---
+Class: CHEM122
+Date: 2025-12-15 23:29:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+By far my favourite class I have taken, the best lecturer I have had in terms of going slow and really breaking down the different problems you can encounter. Tutorials are not mandatory which is nice, I did not go once and ended up with an A+, my tip is to do almost all of if not all of the practice m/c questions he posts, and go to lecture!
+
+--- Rating #5 ---
+Class: CHEM122
+Date: 2025-12-14 06:51:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great style of teaching. Is very clear of what he expects students to know, and does his very best to help us learn. Is extremely approachable, and very clear lecture slides. Exam was very doable, and all questions were expected. Occasional in-lecture demos as well, which were cool.
+
+--- Rating #6 ---
+Class: CHEM122
+Date: 2025-12-11 10:14:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+As someone who failed Chem 121, I found Chem 122 way better as a course. The lecture slides are clear and full of practice and example problems. Professor Walsby is easy to approach for questions and keeps lectures engaging. The only downside to this course is how test-heavy the course is, but it is manageable if you go to class and practice.
+
+--- Rating #7 ---
+Class: CHEM122
+Date: 2025-12-11 07:41:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great professor his lectures were straightforward and helpful. He provides lots of practice for the midterm and final so if you do the practice problems and understand the concepts you should be set. However they don't match the same level of difficulty.
+
+--- Rating #8 ---
+Class: CHEM122
+Date: 2025-12-11 01:49:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof. Would highly recommend if chem is not your strong suit (like me). His lectures were really helpful. He gave a lot of practice, however, that practice did not match the difficulty of the midterm or final. I would recommend practicing a lot because the midterm and final are hard, but he remains a great prof nonetheless.
+
+--- Rating #9 ---
+Class: CHEM122
+Date: 2025-12-10 04:08:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Such a good prof and genuinely cares about the students. If you understand the lectures, attend tutorials, and do some of the practice problems, you'll do great in the midterm and final!  He scales a ton too
+
+--- Rating #10 ---
+Class: CHEM122
+Date: 2025-12-10 01:34:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Chem 122 is arguably a math heavy course. Dr. Walsby genuinely cares about his students. The key is, to keep up with the material EVERY DAY, do the homework, attend tutorials (they help a lot), and simply understand the meaning behind what you're being taught, because if you do so, you're in good shape..
+
+--- Rating #11 ---
+Class: CHEM122
+Date: 2025-11-16 23:16:03 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Listen, he is super sweet and seems to understand students' struggles, but I feel like he only teaches surface-level content, and the exams cover so much more. I do struggle in chem and felt like he could have let us know a bit more, especially since this class is so exam-based.
+
+--- Rating #12 ---
+Class: CHEM122
+Date: 2025-11-14 00:08:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good prof at helping outside class, however very tough marker, and only two pieces of assessment that were very dense and did not have enough time.
+
+--- Rating #13 ---
+Class: CHEM122
+Date: 2025-03-28 02:48:13 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He was a very sweet guy and had a lot of office hours. But his practice questions and what he told us to study was not accurate, the midterm and final was really difficult. The grading scheme also wasn't the best because we only had a midterm and a final.
+
+--- Rating #14 ---
+Class: CHEM122
+Date: 2025-03-28 02:45:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He was a sweet guy but sucked at teaching thermochem, I crashed out a few hours before the final because his thermochem question made no sense and at some point he didn't know what he was talking about in his office hour before the exam. Sweet guy tho.
+
+--- Rating #15 ---
+Class: CHEM122
+Date: 2024-12-21 07:17:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Walsby is a super caring and friendly person and was a lovely prof. During office hours, he made sure to answer everyone's questions before he left and was very helpful answering questions. only downside was that your grade relies heavily on the midterm and final. Also I loved his accent; it made lectures so much better.
+
+--- Rating #16 ---
+Class: CHEM122
+Date: 2024-12-18 19:49:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Walsby is an amazing prof, clearly cares a lot for his students. This course is a little dry and very math heavy, but he makes it tolerable. Grade is almost solely based off the final. Averages were quite low, but ended up being scaled about 2 letter grades. Lectures end in early November which was helpful for other courses.
+
+--- Rating #17 ---
+Class: CHEM122
+Date: 2024-12-16 04:33:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Genuinely a super nice guy and cares about his students. The only problem was that he graded everyone based on the midterm, final and homework so everything wasn't very balanced. Other than that, I would highly recommend this prof
+
+--- Rating #18 ---
+Class: CHEM122
+Date: 2024-12-14 17:03:54 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The professor is nice and he does a lot of practice questions in class. But the midterm and final were really hard and were really different from the practice questions he did and the practice exams he provided.
+
+--- Rating #19 ---
+Class: CHEM122
+Date: 2024-12-14 03:44:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Dr. Walsby is a chill prof. He was very helpful for seeking some advice and help after the midterm, and of course, the final was worth a bit too much for my liking...but in the end his lessons were clear, and he does a lot of examples during lectures. An overall helpful prof who is ready to help his students.
+
+--- Rating #20 ---
+Class: CHEM122
+Date: 2024-12-10 05:51:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+i was genuinely enchanted by walsby every lecture, it was not a waste of time to go. attending tutorials as well was helpful as he provides a worksheet to the tas for you to run through. the course was more than fair and he is a natural teacher with a great sense of humour and quick to answer emails.

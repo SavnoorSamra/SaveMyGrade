@@ -1,0 +1,24 @@
+Professor: Nimal Rajapakse
+Professor Legacy ID: 2471795
+Professor ID: VGVhY2hlci0yNDcxNzk1
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 1
+Avg Difficulty: 5
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: ENSC180
+Date: 2019-07-28 01:25:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The only thing Nimal was good for was an excuse to nap. He reads everything off of his slides. The TAs are more useful than him for the assignments, so be sure to ask them lots of questions. It's impossible to avoid this prof either unless he stops teaching ENSC180 because it is only offered in the Spring, so good luck if he's your instructor.

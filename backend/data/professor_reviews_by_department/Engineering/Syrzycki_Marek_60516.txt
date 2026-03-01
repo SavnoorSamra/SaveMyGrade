@@ -1,0 +1,271 @@
+Professor: Marek Syrzycki
+Professor Legacy ID: 60516
+Professor ID: VGVhY2hlci02MDUxNg==
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 2.1
+Avg Difficulty: 3.7
+Num Ratings: 38
+Would Take Again Percent: 25
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENSC225
+Date: 2021-08-17 17:12:34 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+poorly organized, bad memory about sfu
+
+--- Rating #2 ---
+Class: ENSC325
+Date: 2017-09-02 18:20:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Classes are boring. Wouldnt take his class again.
+
+--- Rating #3 ---
+Class: ENSC325
+Date: 2017-03-28 17:21:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Marek is a legend! Promotes students to Eagles of different classes, for example, there is a First Major Eagle (gets purple heart award). In all seriousness Marek is a legend with legendary quotes such as, "when you see a complicated circuit, don't panic on the titanic" and "my duty is to provide an error rich environment". Take the class with him!
+
+--- Rating #4 ---
+Class: ENSC325
+Date: 2017-01-19 17:49:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I have trouble with his accent. Notes are very random, hard to follow. Buy text book, or you wont pass
+
+--- Rating #5 ---
+Class: 325
+Date: 2015-01-29 00:35:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+The course was hard itself but Marek was always willing to satay longer to explain the material or available for random showing at his office.  If you are looking for easy grades - this is not for you!
+
+--- Rating #6 ---
+Class: ENSC325
+Date: 2014-12-04 02:31:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Marek is a beauty. Great guy.  Always willing to help, very fair in terms of his expectations for quizzes. Doesn't ask questions about the things that seem extremely difficult from the lectures. Labs are quite challenging but rewarding.
+
+--- Rating #7 ---
+Class: ENSC325
+Date: 2014-11-24 17:30:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Go to class and pass. Labs can be hard but that's microelectronics.   Teaching 325 he can clearly explain the topics better than 225 now that the students are more senior. He clearly knows what he's talking about and he also had 5 quizzes worth 10% each which helped split up exam marks fairly. His bad rep on this site I don't think is earned fairly
+
+--- Rating #8 ---
+Class: ENSC225
+Date: 2013-07-23 05:36:28 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Do yourself a favor. Avoid him for this course please! thank you.
+
+--- Rating #9 ---
+Class: ENSC225
+Date: 2013-07-16 07:58:14 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+hard class. boring lectures. I did not like his teaching style and exam pattern at all.
+
+--- Rating #10 ---
+Class: ENSC225
+Date: 2013-06-14 05:16:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Too lazy to write his own notes.only 4 questions on final only from high freq mosfets and BJT. So I suppose he thinks amplifier diodes etc were meant just to pass our time
+
+--- Rating #11 ---
+Class: ENSC225
+Date: 2013-06-13 21:45:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Half of the class dropped the course in the first week of classes.The 75% of the rest remaining failed the class. not recommended at all.
+
+--- Rating #12 ---
+Class: ENSC225
+Date: 2013-06-12 02:29:01 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Final was a killer and an extremely low average of 32%. Well why do you think that happened? Think.
+
+--- Rating #13 ---
+Class: ENSC225
+Date: 2013-06-05 03:54:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+it was a bad experience  to do this course with Dr.Syrzycki because he would not scale. bad. like sooo bad. like O M G bad!!!!!
+
+--- Rating #14 ---
+Class: ENSC225
+Date: 2013-05-30 02:46:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Dr.Marek may be a very knowledgeable person but he wasn't able to transfer that knowledge to us and gave a really hard final exam. overall course load was not so much.
+
+--- Rating #15 ---
+Class: ENSC225
+Date: 2013-05-28 23:39:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+will turn out to be a nightmare. refrain from taking such an important course with Dr.Marek.
+
+--- Rating #16 ---
+Class: ENSC225
+Date: 2013-05-27 01:31:26 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Correct! it was the most ridiculous grading I have seen so far.
+
+--- Rating #17 ---
+Class: ENSC225
+Date: 2013-05-26 04:14:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+TA's were more helpful in this course. Marek had zero contribution and 100% expectation.
+
+--- Rating #18 ---
+Class: ENSC225
+Date: 2013-05-25 15:14:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+32% average on the final exam yet he does not want to scale.
+
+--- Rating #19 ---
+Class: ENSC225
+Date: 2013-05-24 19:20:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+re-taking it with ash. Im sorry to say but he is bad professor! Funny guy though.
+
+--- Rating #20 ---
+Class: 225
+Date: 2013-05-19 01:34:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Disappointing. Avoid at all costs!!! or else be prepared for a horrible experience!

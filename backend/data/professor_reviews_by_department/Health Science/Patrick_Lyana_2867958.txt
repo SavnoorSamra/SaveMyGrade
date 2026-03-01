@@ -1,0 +1,50 @@
+Professor: Lyana Patrick
+Professor Legacy ID: 2867958
+Professor ID: VGVhY2hlci0yODY3OTU4
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 5
+Avg Difficulty: 1.7
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: HSCI472
+Date: 2024-12-24 22:15:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very kind and knowledgeable. Creates an excellent classroom environment for true learning and growth. Highly recommend!
+
+--- Rating #2 ---
+Class: HSCI210
+Date: 2023-02-01 01:34:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is super friendly and provides insight in all her lectures. I learned a lot in this course, one of my favs so far. You are marked based on your effort put into assignments so its very fair, hard to get a bad grade if you put in the work required.
+
+--- Rating #3 ---
+Class: HSCI210
+Date: 2023-01-31 00:52:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Lyana was one of the best professors I have ever had. She truly cares about her students and wants to see everyone succeed. You do need to put in the effort with her classes, but you'll be rewarded with high marks if you do. Extremely approachable and kind.

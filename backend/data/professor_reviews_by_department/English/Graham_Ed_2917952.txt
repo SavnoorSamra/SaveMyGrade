@@ -1,0 +1,76 @@
+Professor: Ed Graham
+Professor Legacy ID: 2917952
+Professor ID: VGVhY2hlci0yOTE3OTUy
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 4
+Avg Difficulty: 2.6
+Num Ratings: 5
+Would Take Again Percent: 80
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: ENGL364
+Date: 2024-04-28 13:40:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Really really great instructor! Dr. Graham is approachable and very helpful and makes sure that we understand the content. He is very fair and makes every class really engaging. Couldn't recommend more
+
+--- Rating #2 ---
+Class: ENGL115
+Date: 2024-04-25 20:26:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr, Graham was a great prof this term! his lectures were quite quite boring. I skipped a lot,  he just read off the slides which were uploaded on canvas anyway.  the a final which was super easy. All you had to do was know the books and go over the slides. Great course and you get to read a bunch of fun stories!
+
+--- Rating #3 ---
+Class: ENGL115
+Date: 2024-04-23 00:41:44 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+very boring lectures i found myself zoning out or doing other class work when i was there in lectures. books were not amazing. probably my least favorite class i've taken this entire year. you dont need to go to lectures just tutorials as they are for marks. scared for the final dont know what to expect.
+
+--- Rating #4 ---
+Class: ENGL115
+Date: 2024-04-20 18:39:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+super kind and caring prof, wants his students to do well. goes into a lot of detail and posts all slides online.
+
+--- Rating #5 ---
+Class: ENGL115
+Date: 2024-04-01 09:54:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Graham is great, but I would say his lectures are kind of boring. You don't really need to show up though. there are 2 essays that are pretty straight forward given many options in terms for the prompt. I am pretty scared for the final, but hopefully it isn't too bad!

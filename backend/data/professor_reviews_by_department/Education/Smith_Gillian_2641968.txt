@@ -1,0 +1,89 @@
+Professor: Gillian Smith
+Professor Legacy ID: 2641968
+Professor ID: VGVhY2hlci0yNjQxOTY4
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 3.5
+Avg Difficulty: 2.7
+Num Ratings: 6
+Would Take Again Percent: 83.3333
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: EDUC423
+Date: 2024-01-26 21:45:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+This professor is out to lunch. She should do everyone a favour and retire.
+
+--- Rating #2 ---
+Class: EDUC423
+Date: 2023-01-10 23:37:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This was one of my favourite courses.  Most additional time spent on this course involved practicing the skills learned with your classmates.  The professor is approachable and will write references. The class is fun and interactive, so time flies by.
+
+--- Rating #3 ---
+Class: EDUC423
+Date: 2023-01-10 23:25:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This was hands down one of the best courses I took in my undergraduate studies.  I enjoyed the hands-on learning and I am even more than ever interested in going to graduate school. Gillian was a knowledgeable, kind and compassionate professor. Highly recommend.
+
+--- Rating #4 ---
+Class: EDUC423
+Date: 2022-10-04 07:02:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Gillian knows her stuff, but you really have to initiate conversations to hear it. Her feedback is minimal unless you're ready to ask questions. For the most part, this is a low-stress course. You'll get a good grade if you put in the work. The textbook is super helpful! I wish she were a bit more involved in the first place.
+
+--- Rating #5 ---
+Class: EDUC423
+Date: 2022-08-08 06:26:27 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Really disorganized. Syllabus and readings usually don't match what you're talking about that week. Canvas page is a nightmare to navigate. The class is 90% group work and it's marked fairly leniently, so it's not hard to get a good grade, but every time I had to interact with the prof, it was frustrating.
+
+--- Rating #6 ---
+Class: EDUC423
+Date: 2020-11-22 03:18:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I have never had a teacher that cared so much about her students - she grades holistically and really does everything she can to make sure you succeed. I believe she's sessional, but if you see her teaching take the class ASAP!

@@ -1,0 +1,141 @@
+Professor: Masahiro Minami
+Professor Legacy ID: 2194506
+Professor ID: VGVhY2hlci0yMTk0NTA2
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.7
+Avg Difficulty: 2.1
+Num Ratings: 10
+Would Take Again Percent: 100
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: EDUC324
+Date: 2025-08-05 23:59:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The best professor I've had in my postsecondary education. Wildly engaging, so down to earth, and always so excited to be there and to actually hear our opinions in group discussions. Wildly clear in expectations and grading. Made two 3-hour lectures a week (intersession) very bearable, and I was always happy to be there.
+
+--- Rating #2 ---
+Class: EDUC324
+Date: 2024-07-25 20:41:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is amazing! Loved his course! Lectures get a little boring at the end but that's not his fault. He gives great feedback and grading is very clear.
+
+--- Rating #3 ---
+Class: EDUC324
+Date: 2023-11-30 20:05:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Masahiro is the best professor I have ever had at SFU. He cares deeply about his students on a personal and academic level. His lectures are engaging, and provides lots of room for class discussions. He truly wants his students to succeed and is very accommodating. 10/10
+
+--- Rating #4 ---
+Class: EDUC324
+Date: 2022-10-11 05:16:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+A prof who truly cares about his students. His lectures are such a safe place where everyone is encouraged to share and contribute. His assignments are fair and thought-provoking.
+
+--- Rating #5 ---
+Class: EDUC324
+Date: 2022-10-04 06:49:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Masa is such an inspiration and so caring/thoughtful! He creates a safe atmosphere where everyone can share without worrying about being wrong. He sees the devotion people put in the class, and those are rewarded for it. He quickly responds to emails and will do his best to answer any questions. Hard work pays off!
+
+--- Rating #6 ---
+Class: EDUC423
+Date: 2021-10-22 19:24:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+amazing professor, he cares a lot and is always focusing on your strengths as a person. He loves helping out and interacting with students, he is such a valuable individual to have as a professor. do not skip class, it's not worth it because his lectures are amazing, but to make the lectures amazing you need to participate. its worth it tho
+
+--- Rating #7 ---
+Class: EDUC423
+Date: 2017-04-11 23:01:03 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Not bad at all. Fair and talkative. Fair marking and nice guy. Knowledgeable too
+
+--- Rating #8 ---
+Class: EDUC324
+Date: 2017-01-09 20:23:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Masa is a really caring professor who wants you to do well. Going to class is a must as he takes attendance for marks and you also have in class activities for marks. Readings are barely mentioned and I rarely did them, as there's no exams. Journal reflections are easy marks as well. there is a term paper at the end. No textbook. Would recommend.
+
+--- Rating #9 ---
+Class: EDUC423
+Date: 2016-12-28 03:13:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Masa is a really cool and caring professor. He is very knowledgable and given amazing detailed feedback on assignment. Lectures are mandatory and they rely heavily on participation to come prepared to think critically and deeply. A bit stressful with the assignments a weekly session you need to plan with your partners to video tape. No tests though
+
+--- Rating #10 ---
+Class: EDUC324
+Date: 2016-11-18 02:43:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Masa is an understanding, kind and dependable prof who really knows his stuff and is admired by all students. His lectures can go a little slow, but he welcomes discussion which makes the course more engaging and interesting. No exams, just projects and papers. Would take a class with him again!

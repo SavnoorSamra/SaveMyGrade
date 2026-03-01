@@ -1,0 +1,154 @@
+Professor: Jack Chen
+Professor Legacy ID: 893782
+Professor ID: VGVhY2hlci04OTM3ODI=
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 3.5
+Avg Difficulty: 2.6
+Num Ratings: 11
+Would Take Again Percent: 100
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: MBB243
+Date: 2020-06-22 06:00:05 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Really nice guy. But cant get a hold of him by email. To me this is especially important as its an online course. He has office hours &amp; is willing to help with any questions, but is often late to show up. Overall its a good course. Just wish he would focus on the actual examinable material during lectures instead of non-tested background info.
+
+--- Rating #2 ---
+Class: MBB243
+Date: 2020-06-11 16:26:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Dr. Chen is a great professor! He provided me with a solid introduction to bioinformatics. Make sure to review lectures and use office hours! He is willing to answer any questions you have during/after lectures. 100% recommend.
+
+--- Rating #3 ---
+Class: MBB342
+Date: 2019-04-16 03:04:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+need an upper division MBB course with no stress? take 342 with jack. nuff said
+
+--- Rating #4 ---
+Class: MBB420
+Date: 2017-01-10 02:42:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A really kind heart. He goes above and beyond to help students with assignments. A genuine teacher that wants the best for this students
+
+--- Rating #5 ---
+Class: MBB461
+Date: 2015-01-15 18:35:25 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+No exams, weekly quizzes, two presentations and a final paper. Dr. C is a kind and thoughtful prof, models his lectures on papers, cares about material and his students. there were no issues with his accent. you get what you put in, you learn more if you go over the papers presented. would take a course with him again
+
+--- Rating #6 ---
+Class: MBB461
+Date: 2013-12-30 18:10:23 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Thick accent made it tough to understand lecture material, which wasn't a huge deal since there were no midterm or final exams. All marks based on a final term paper and two presentations. Not the most interesting class, and minimal effort required with respect to other 400 MBB courses.
+
+--- Rating #7 ---
+Class: MBB440
+Date: 2011-07-19 18:51:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I was very satisfied with this course because the mark distribution was very fair, not a lot of work required every week, just during presentation times or at the end of the semester. Great to take if you don't want to be constantly working all semester long! Very very happy with this prof in terms of this particular course!
+
+--- Rating #8 ---
+Class: MBB441
+Date: 2006-12-16 03:34:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I really didn't know what to study for when preparing for the exam. The final was brutal though and the prof picked the WORST definitions!
+
+--- Rating #9 ---
+Class: MBB441
+Date: 2006-12-16 02:09:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+prof's lecture notes make no sense when you go back to them and study them....the course is not that hard but somewhat confusing and a waste of time
+
+--- Rating #10 ---
+Class: MBB441
+Date: 2006-12-02 19:34:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+A very nice and approachable prof. Receptive to questions and suggestions. Overall the course is good except the emphasis is overly heavy on programming instead of software usage. Very time-consuming course overall, but I guess it is useful to some extent.
+
+--- Rating #11 ---
+Class: MBB441
+Date: 2006-11-27 22:23:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Waste of time and tuition money.

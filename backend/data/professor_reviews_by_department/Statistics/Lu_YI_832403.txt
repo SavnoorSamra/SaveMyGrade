@@ -1,0 +1,271 @@
+Professor: YI Lu
+Professor Legacy ID: 832403
+Professor ID: VGVhY2hlci04MzI0MDM=
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 3
+Avg Difficulty: 3.7
+Num Ratings: 26
+Would Take Again Percent: 63.1579
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ACMA101
+Date: 2023-12-21 08:23:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Lu's course is full of text-heavy lectures. The slides are posted in-advance, however, attending lectures is required to see solutions to the problems in the notes. Assignments and exams are very fair; they only ever contained problems from the notes or tutorials. For exams, knowing some facts and definitions is important to get easy marks.
+
+--- Rating #2 ---
+Class: ACMA401
+Date: 2023-07-13 13:42:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Best professor I ever had. She was helpful and always found time to meet with me. She never minds re-explaining things from the lecture, and she goes over any questions you can have. If she sees you are trying, attend class, and are eager to do better, she will always help. If i could have such caring profs for all my classes!
+
+--- Rating #3 ---
+Class: ACMA831
+Date: 2023-05-15 02:16:32 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+a billion homeworks and no regards for your time.
+
+--- Rating #4 ---
+Class: ACMA101
+Date: 2022-11-10 22:05:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Professor Lu makes ACMA 101 a very inaccessible & hard class. It's impossible to get the notes from her and she won't let you take pictures of the annotated slides. She doesn't explain answers you've gotten wrong and does a horrible job on elaborating anything. Your best luck is to not take the class if you can or get a good study group.
+
+--- Rating #5 ---
+Class: ACMA101
+Date: 2022-10-25 01:01:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+You have to attend all the dry and text-heavy lectures. If you miss one, the completed notes aren't uploaded so it becomes hard to comprehend. If you miss a tutorial, the tutorial answers aren't uploaded. If you want to study past assignments or midterms, the solutions aren't uploaded. The canvas page is purely just for announcements and handouts.
+
+--- Rating #6 ---
+Class: ACMA101
+Date: 2021-12-10 03:12:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Really, really sweet person. Genuinely wants her students to do well. Lectures can get a bit tedious but it's easier if you watch it after in 2x speed. Overall, if you pay attention and do assignments, you'll do well. You can ask her anything she's super nice and will try her best to help you.
+
+--- Rating #7 ---
+Class: ACMA101
+Date: 2021-10-05 05:44:18 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+very dry lectures, she reads word for word from slides, but slides are very wordy. do not take course unless acturial student. assignments are quite lengthy.
+
+--- Rating #8 ---
+Class: ACMA101
+Date: 2021-03-22 23:35:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Very caring professor. Helps you with all the questions you have when you show up at her office hour, and gives really decent clues to let you figure out. The midterms and finals are fair as it correlates to the assignments. Would strongly recommend.
+
+--- Rating #9 ---
+Class: ACMA101
+Date: 2020-12-23 03:34:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Dr. Lu has been incredibly helpful to the class and cares about each student's success in the course. All the assignments are very straightforward, no surprises and all notes and tutorials based. The midterms and finals are all straightforward as well. Wished I asked for help for a few questions early on to get an A in the class!
+
+--- Rating #10 ---
+Class: ACMA101
+Date: 2020-12-18 05:04:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Anytime I sent an email to ask questions she would reply and tried to have a small zoom meeting just for me, to explain my questions. She did gave us assignments but they are very helpful. The materials in class are clear. All the things she gave on test were from assignments and class notes. If you studied, you will get good grades if you studied.
+
+--- Rating #11 ---
+Class: ACMA455
+Date: 2020-09-09 21:42:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Really cares about her students success! Assignments are painful, but Yi is very patient and always willing to help when you dont understand something.
+
+--- Rating #12 ---
+Class: ACMA101
+Date: 2019-08-25 22:23:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Really caring the student success.
+
+--- Rating #13 ---
+Class: ACMA315
+Date: 2019-07-29 08:52:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+(For Acma 101) tbh not a bad prof, you should attend her classes as she shows us how to work on problems in assignments. Midterms and exams are from assignments and lecture notes. For the written and true false questions, make sure you know everything. Pretty helpful during office hours.
+
+--- Rating #14 ---
+Class: ACMA101
+Date: 2019-05-05 16:28:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Covers an excessive amount of material that you will never be tested on. Each lecture feels painful when you must listen to every word she reads off the slides.
+
+--- Rating #15 ---
+Class: ACMA101
+Date: 2019-04-23 05:26:32 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Professor Lu spent a lot of time reading the notes she posted instead of making them readings leading to really dry lectures. You can't skip lectures because she goes over how to do some problems you wouldn't know how to do otherwise. Tutorials, assignments and tests were all related. The exams weren't too bad if you study the problems.
+
+--- Rating #16 ---
+Class: ACMA101
+Date: 2019-03-14 22:51:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+First semester ACMA101 is offered and I thought I would learn about insurance... if you aren't interested in actuary science or don't ha e a background in the field, good luck. Hard to understand, doesn't let you take pictures of the lecture notes .
+
+--- Rating #17 ---
+Class: ACMA210
+Date: 2018-12-12 01:39:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great teacher. Very caring to student's success.
+
+--- Rating #18 ---
+Class: ACMA425
+Date: 2016-12-18 05:19:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+There's a lot of material, but the tests are fair.  Very nice teacher to talk to; really eager to help.
+
+--- Rating #19 ---
+Class: ACMA395
+Date: 2016-12-18 03:23:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+After writing the final you will be so nervous checking go sfu ... only to realize that you actually got 2 grades better than expected.  Yi is an angel. Her exams and fair and she marks very kindly. ... Her assignments on the other hand will take you like ALL weekend (If you are fast)
+
+--- Rating #20 ---
+Class: ACMA315
+Date: 2011-05-02 15:21:39 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Still horrible

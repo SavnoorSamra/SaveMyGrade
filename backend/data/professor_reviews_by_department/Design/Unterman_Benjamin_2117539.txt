@@ -1,0 +1,24 @@
+Professor: Benjamin Unterman
+Professor Legacy ID: 2117539
+Professor ID: VGVhY2hlci0yMTE3NTM5
+Department (CSV): Design
+Department (Fetched): Design
+Avg Rating: 1
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: IAT100
+Date: 2019-08-01 19:45:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+WORST CLASS!! Multiple times he switched up the due dates and made things due earlier. Assignment instructions were so unclear, even the TA's didn't know what was happening. He was terrible at answering emails. There was no good feedback given on anything and getting marks back took so long you couldn't even apply the very little feedback.

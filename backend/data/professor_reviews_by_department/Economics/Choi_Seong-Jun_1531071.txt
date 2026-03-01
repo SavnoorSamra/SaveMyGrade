@@ -1,0 +1,271 @@
+Professor: Seong-Jun Choi
+Professor Legacy ID: 1531071
+Professor ID: VGVhY2hlci0xNTMxMDcx
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 3.6
+Avg Difficulty: 3.6
+Num Ratings: 151
+Would Take Again Percent: 57.8125
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ECON105
+Date: 2024-11-05 02:47:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Tough exams, but Prof. Choi is helpful and cares about student success. Take good notes, use the free textbook, and try Unstuck AI for extra practice - it really helped me prep for the challenging quizzes.
+
+--- Rating #2 ---
+Class: ECON105
+Date: 2024-08-19 05:56:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Come to class and do your quizzes. Exams are so easy.  All the multiple choice questions are 100% copies and pasted from quizzes.
+
+--- Rating #3 ---
+Class: ECON1O5
+Date: 2024-04-30 21:33:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+tests are very hard, quizzes are easy and teaching is good
+
+--- Rating #4 ---
+Class: ECON1054
+Date: 2023-04-24 17:21:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very good notes, real life examples given, caring and funny at times. Do not hesitate to ask questions and read notes thoroughly before lectures. 10/10 would do it again. Ps: he loves kimchi
+
+--- Rating #5 ---
+Class: ECON105
+Date: 2023-02-15 02:55:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Took him for Econ 103 and 105. Not sure why people are saying he's a tough marker, when his test questions are all from his lecture notes. Go to class and pay attention, then you will do really well!
+
+--- Rating #6 ---
+Class: ECON103
+Date: 2022-12-11 10:17:20 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's alright, I guess.
+
+--- Rating #7 ---
+Class: ECON105
+Date: 2022-08-08 06:31:28 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Jun's exams are tough as hell, ECON105 is not as hard as it looks like when you see his question paper. Except that, he is a good professor. He teaches good, he is caring, his grading system is also perfect and overall he is the teacher you should pick if you are ready to face his exams and quizzes offline
+
+--- Rating #8 ---
+Class: ECON1054
+Date: 2022-05-10 06:33:53 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Have clear lecture notes with a good explanation, and he always being so kind and patient when you have questions. The only disadvantage is the quizzes and tests are extremely hard with multiple answers to questions. If you want to get a good grade; you have to study SO hard. Other than that, he is a great professor!
+
+--- Rating #9 ---
+Class: ECON1O5
+Date: 2022-01-17 21:41:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+Jun was really nice and approachable at all time during the semester. I found him to be making every effort so that students can understand the concept and be ready for exams. The quizzes are easy and are not much of a drag if you know the materials and have watched the lectures. Some people mind his accent but I got used to it in no time.
+
+--- Rating #10 ---
+Class: ECON105
+Date: 2022-01-10 17:58:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Jun is super nice and very willing to help and wants you to do well. He says first lecture if you have a problem with his accent then get a different prof, I got used to his accent very quickly and enjoyed the class although it was definitely a tough class
+
+--- Rating #11 ---
+Class: ECON105
+Date: 2021-12-14 14:10:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+The lectures are nice and you get to understand everything until you get to the exams. This exams are difficult and if you want to pass the course, you should study every week.
+
+--- Rating #12 ---
+Class: ECON105
+Date: 2021-11-28 07:42:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Great prof, hard test, he prepares lecture note and lots of practice material for you. Great lecture. Just be sure to study and you will be fine.
+
+--- Rating #13 ---
+Class: ECON105
+Date: 2021-11-24 22:06:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Test hard, and no formula was given.
+
+--- Rating #14 ---
+Class: ECON105
+Date: 2021-11-14 01:06:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+His lectures might be difficult to follow sometimes but the hardest thing was probably the tests. Unlike other teachers, his tests will be closed note; therefore, you have to remember all the formulas on your own, if you never study econ before college, I would recommend you to look for another.
+
+--- Rating #15 ---
+Class: ECON105
+Date: 2021-11-04 02:00:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I took Juns course and he is my best professor this term by far. Hes funny, engaging and explains concepts using real life examples that are easy to understand. Although the quizzes are difficult if you pay attention and do the practice work you can definitely get a good grade. He tries to give as much information as possible to do well.
+
+--- Rating #16 ---
+Class: ECON103
+Date: 2021-08-23 07:04:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jun is a good prof. All his material is through lectures, and tutorials are totally useless but he has note templates to print out that are super helpful. He makes them interactive, and you just have to fill in the blanks (easy peasy). Theres no assignments though, just midterms and quizzes so if you get test anxiety youre out of luck.
+
+--- Rating #17 ---
+Class: ECON103
+Date: 2021-08-16 20:49:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+His tests are very hard. You have to get marks in his quizzes. Midterms are ...... Not explaining the calculation parts well. Turn it to Pass fail if its not your major course. You can have free credit and not affecting your gpa. He is kind of nice. Willing to help to though the email.
+
+--- Rating #18 ---
+Class: ECON103
+Date: 2021-08-16 18:41:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jun's tests are hard. They cause me physical pain. However, the rest of his class is alright, I suppose. His lectures are interesting enough, and he seems to enjoy his job well enough, so that's good on him! If you take Jun's classes, make sure to prepare as much as you can, because his quizzes can seriously tank your grade. Otherwise alright. 4/5.
+
+--- Rating #19 ---
+Class: ECON103
+Date: 2021-08-14 08:25:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is an amazing prof. even though his test is not easy at all, he encourages us to have real learning. If you are looking for free lunch from his class, stay away. Overall, great experience with the Econ103 class taught by Jun
+
+--- Rating #20 ---
+Class: ECON103
+Date: 2021-08-10 23:30:13 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Jun is a great prof overall, and he's really sweet. He gives great examples during his lectures to help students better understand concepts. His accent really isn't an issue when it comes to understanding his lectures. His exams and quizzes are very difficult, so make sure you really understand key concepts and can apply the concepts.

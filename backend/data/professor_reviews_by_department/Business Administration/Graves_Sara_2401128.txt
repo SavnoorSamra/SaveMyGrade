@@ -1,0 +1,271 @@
+Professor: Sara Graves
+Professor Legacy ID: 2401128
+Professor ID: VGVhY2hlci0yNDAxMTI4
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.3
+Avg Difficulty: 3.3
+Num Ratings: 46
+Would Take Again Percent: 58.6957
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS303
+Date: 2026-02-06 01:36:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sara is really well spoken and knows her material well. The readings she gave were actually insightful, and the exams were also based on them. Participation matters, and the classes go by fast. The class will make you think from a different perspective on things.
+
+--- Rating #2 ---
+Class: BUS716
+Date: 2026-01-04 06:22:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Sara is incredibly passionate about sustainability and it shows. However, her lectures can be quite unstructured. Unfortunately she doesn't provide much feedback so you have no idea about how you got your grade, what you did well and where you could improve. We got our assignment grades (with zero feedback) a week after the course grades.
+
+--- Rating #3 ---
+Class: BUS303
+Date: 2025-04-02 03:59:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Attendance is not necessary but participation makes a huge bit out of the final grade so definitely go to class. No tutorials for this class but there seems to be a lot of emphasis on reading. LOTS of reading. She is a little messy but is kind and approachable. Class often gets moved to zoom at the last minute or starts late. Very chill overall.
+
+--- Rating #4 ---
+Class: BUS303
+Date: 2025-02-13 19:25:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sara clearly cares about her students doing well, judging by the amount of work and reading.  Showing up and talking in class is a big part of your grade, so definitely go.  That said, class often starts late or gets cancelled, which can make the course feel less intense overall.
+
+--- Rating #5 ---
+Class: BUS275
+Date: 2025-01-28 05:22:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+A little bit messy. However, very caring.
+
+--- Rating #6 ---
+Class: BUS275
+Date: 2024-11-18 02:23:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+An amazing and kind professor who always cares about the students and how they can genuinely succeed. You can tell that she is passionate about sustainability and how a little kindness can go a long way in the business world.
+
+--- Rating #7 ---
+Class: BUS275
+Date: 2024-11-03 21:04:17 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sara was a very nice prof who obviously cares about her students and loves what she teaches.  However, this class was incredibly disorganized.  Lot of work covering very little material.  Projects and assignments focused on re-hashing the same materials in a different way.  The class started off interesting but felt like a chore nearing the end.
+
+--- Rating #8 ---
+Class: BUS716
+Date: 2024-10-13 19:38:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This young woman is incredible. She's beautiful and bubbly and that's all obvious - it's her brilliance and warmth that sort of take you back. Sara listens, really listens, and, when asked a question, she responds in ways that take my intellectual capabilities and empathetic capacity to dimensions I've yet to otherwise experience in the MBA.
+
+--- Rating #9 ---
+Class: BUS303
+Date: 2024-07-13 01:36:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Cancelled class first few weeks. Unclear criteria with no feedback. Wouldn't reply to emails on time. Would give 0 if possible.
+
+--- Rating #10 ---
+Class: BUS303
+Date: 2024-06-23 23:24:09 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+VERY unclear marking/criteria. assignments were handed back with no feedback, so didn't know how to improve. lectures are always disorganized.
+
+--- Rating #11 ---
+Class: BUS275
+Date: 2024-06-22 23:21:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I'm taking 303 with Prof. Graves after taking 275 with her last term. In a classroom of ~200 1st and 2nd years who don't want to do much of anything unless it's complain (hey, I was one of them less than a year ago!), she always impressed. Somehow brilliant, kind and beautiful inside and out. Easily of the most inspiring profs at Beedie.
+
+--- Rating #12 ---
+Class: BUS275
+Date: 2024-06-02 03:22:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Possibly the worst prof I've ever had at sfu. Very disorganized and gave unclear instructions for everything. The midterm was a MESS and we never received the marks for the final project. I can tell she is a nice person but she is not a good teacher. I would not recommend.
+
+--- Rating #13 ---
+Class: BUS275
+Date: 2024-04-24 20:30:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+unstapled midterm packages is all I have to say...
+
+--- Rating #14 ---
+Class: BUS275
+Date: 2024-04-20 01:25:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the most supportive professors I've had in any class thus far. She is easily accessible outside of class and proactive to ensure we understand concepts during class. Classes are engaging and no student should have trouble answering questions if they do the pre-readings. Start early with assigned readings and you'll enjoy the class.
+
+--- Rating #15 ---
+Class: BUS275
+Date: 2024-03-15 08:41:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I don't pay attention, there are bi-weekly tests on readings which are pretty difficult...but only worth 10% of mark so don't worry. Midterm average was 70% so it wasn't even bad, refer to the lec and tut slides, not so much of the readings for the midterm. NO final exam in this class. I got a good group and did good on the midterm (worth 30%).
+
+--- Rating #16 ---
+Class: BUS275
+Date: 2024-03-13 18:59:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She's nice but unorganized and low-tech. The course is kinda useless, and not worth 3 credits. Everything we learned is about the articles online. Too much reading and the exam, quizzes based on the online articles. Nothing specific, SFU should make the course better if they want it to be a mandatory course.
+
+--- Rating #17 ---
+Class: BUS275
+Date: 2024-03-13 03:38:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor is rich with their ideology and poor with their execution. Many articles and podcasts. VERY Unclear grading criteria. Gave a 2 hour class for explaining midterm which was nice of her to do, yet it was all a lie and the midterm was NOTHING as told. If SFU was going to make this a mandatory class to take, they could have done better.
+
+--- Rating #18 ---
+Class: BUS275
+Date: 2024-03-11 18:46:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Super low tech, unorganized
+
+--- Rating #19 ---
+Class: BUS275
+Date: 2024-03-08 19:36:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This is the worst professor I've had so far. Class starts consistently 10-15mins late everyday, she gives us hours of articles and podcasts to go through during the week only to completely change what was required a day before the lecture, our midterm started an hour late. This website does not give enough space to talk about how bad she is.
+
+--- Rating #20 ---
+Class: BUS275
+Date: 2024-03-08 18:53:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The worst teacher ever. she is very disorganized and always late to the class. She changed the whole exam at the last minutes.

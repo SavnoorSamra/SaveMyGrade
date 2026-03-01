@@ -1,0 +1,193 @@
+Professor: Peter Borwein
+Professor Legacy ID: 33910
+Professor ID: VGVhY2hlci0zMzkxMA==
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2.8
+Avg Difficulty: 2.9
+Num Ratings: 14
+Would Take Again Percent: -1
+
+Ratings Count Returned: 14
+
+--- Rating #1 ---
+Class: MATH100
+Date: 2009-07-15 01:46:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+intelligent man, great prof
+
+--- Rating #2 ---
+Class: MATH100
+Date: 2005-03-28 20:48:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+thoroughly enjoyed the class... not for you if you don't like math.. very smart teacher and is very helpful if he thinks you're worth his time
+
+--- Rating #3 ---
+Class: MATH190
+Date: 2004-12-09 02:17:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Excellent class!  You can tell he's a really smart guy, but he did a great job of &quot;dumbing it down&quot; for this 1st-year class.  Very enthusiastic about his work.  Loved the class!
+
+--- Rating #4 ---
+Class: MATH152
+Date: 2004-10-20 19:08:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Awesome prof.
+
+--- Rating #5 ---
+Class: MATH322
+Date: 2004-02-14 13:28:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I think he's one of the most interesting math prof at SFU. I loved his digression on the history of math. If you hate him, that's because you aren't interested in math enough.
+
+--- Rating #6 ---
+Class: MATH100
+Date: 2003-11-15 02:54:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+his lectures always go off topic. He teaches math for maybe 5 minutes and strays towards other topics totally unrelated to math..his midterms were fine..final was hard..but crappy lecturer
+
+--- Rating #7 ---
+Class: MATH100
+Date: 2003-09-12 20:16:44 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Easiest prof ever.  Midterms and final were easier than homework (which was also easy).      Average on midterms/final should have been much higher!  Kind of boring, but a good prof to get an easy A with...
+
+--- Rating #8 ---
+Class: MATH152
+Date: 2003-04-29 18:47:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+This guys was absolutely boring.  He brought in Maple to every lecture and blabbed on and on about it even though we couldn't use it on the assignments or lectures.
+
+--- Rating #9 ---
+Class: MATH100
+Date: 2003-04-06 17:16:45 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+he goes off on tangets to nowhere but his examples are good, notes suck. somehow manages to tangle himself in his own mike EVERY class.
+
+--- Rating #10 ---
+Class: MATH100
+Date: 2003-02-17 21:39:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+notes were okay, good examples, good consistency with tests etc.
+
+--- Rating #11 ---
+Class: MATH100
+Date: 2002-11-30 01:28:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Spends 1/2 class talk'n 'bout nut'n. Nut'n accomplished. Oblivious to questions.
+
+--- Rating #12 ---
+Class: MATH100
+Date: 2002-10-06 14:28:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+he likes to tell stories about how the pythag theorem came into exsitence
+
+--- Rating #13 ---
+Class: MAT151
+Date: 2002-04-13 17:39:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+At least he's better than his brother.....
+
+--- Rating #14 ---
+Class: MATH151
+Date: 2002-03-05 19:08:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments

@@ -1,0 +1,37 @@
+Professor: Seyyed Shirvani
+Professor Legacy ID: 3156375
+Professor ID: VGVhY2hlci0zMTU2Mzc1
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 1
+Avg Difficulty: 3.5
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS346
+Date: 2026-01-30 19:31:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The course felt disorganized, especially early on. Ex: spent 40 minutes on something that could have been done on canvas in 5. Lectures are fine, but not very engaging. End-of-class assignments are often vague and difficult to complete on time due to unclear expectations. Avoid if possible
+
+--- Rating #2 ---
+Class: BUS346
+Date: 2026-01-28 05:48:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is a sessional instructor who does not know how to teach, really not recommended...

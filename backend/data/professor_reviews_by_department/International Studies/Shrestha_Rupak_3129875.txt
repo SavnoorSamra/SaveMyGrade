@@ -1,0 +1,24 @@
+Professor: Rupak Shrestha
+Professor Legacy ID: 3129875
+Professor ID: VGVhY2hlci0zMTI5ODc1
+Department (CSV): International Studies
+Department (Fetched): International Studies
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: IS230
+Date: 2025-12-05 09:08:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Rupak was awesome! Such a caring and wonderful professor to have. Lectures were interesting and interactive, I loved the class because it almost felt like we were a community. The course itself wasn't that hard, 1 1500 paper, 1 group project, and a final. I am definitely going to miss this class!

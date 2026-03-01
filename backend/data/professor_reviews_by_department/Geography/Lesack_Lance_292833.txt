@@ -1,0 +1,272 @@
+Professor: Lance Lesack
+Professor Legacy ID: 292833
+Professor ID: VGVhY2hlci0yOTI4MzM=
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 3.8
+Avg Difficulty: 3.3
+Num Ratings: 26
+Would Take Again Percent: 80
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BISC414
+Date: 2026-02-04 22:28:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lance was condescending especially when he came to lab, and not only treated students poorly but also his poor TA. This class did not pass fast enough.
+
+--- Rating #2 ---
+Class: BISC414
+Date: 2022-10-19 22:08:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+hes great!
+
+--- Rating #3 ---
+Class: GEOG316
+Date: 2022-04-25 23:34:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The lecture has been recorded in advance, so you can study by yourself via his notes and slides. I didn't visit the school for this course all semester, but he gave one paper to read weekly, its very helpful to connect the course. He always replied to emails quickly and detailly, and He is generous with assignments extension.
+Highly recommend!
+
+--- Rating #4 ---
+Class: BISC414
+Date: 2021-12-14 01:33:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Lance is exceptionally passionate about what he teaches and made even the dull subject matter interesting to learn. He explains concepts thoroughly and seems to really enjoy teaching. My only complaint would be that the workload and the amount of reading and supplementary material was overwhelming at times, but the deadlines were fair.
+
+--- Rating #5 ---
+Class: GEOG316
+Date: 2021-05-07 21:57:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Best prof in SFU Geog hands down. True gem. You learn so much and he knows so much it's fantastic. Never saw a teacher so actively engaged in everyone's learning. Fantastic.
+
+--- Rating #6 ---
+Class: GEOG316
+Date: 2021-04-28 16:53:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+His class was information heavy but truly inspiring and I actually learned so many things. He focuses on critical thinking NOT critical theory like 90%+ of other profs in the dep., so you actually learn multiple aspects and understand the complexity of the world. 100% would take again.
+
+--- Rating #7 ---
+Class: GEOG316
+Date: 2021-02-11 00:01:09 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+It's not even a writing class, and we have to write one short and one long paper for it. The worst thing is that for the short paper, he wants you to find articles online on a specific topic, but he won't tell you what articles. Basically, you are guessing, which takes too much time to do.
+
+--- Rating #8 ---
+Class: BISC414
+Date: 2020-12-30 01:05:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+One of my favorite profs. This course wasnt an easy A, but the topics were interesting and all the readings and lectures were laid out clearly. Lance is really kind and receptive to questions, and the learning expectations were totally reasonable. 10/10 would recommend.
+
+--- Rating #9 ---
+Class: GEOG315316
+Date: 2019-01-03 00:42:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Really knowledgable and respectful. Caters the lectures to that specific class's speed/understanding. Fair grader and very interested in the topics he teaches. Great prof all around. But be ready to write a 10-15 page research paper as well as do a presentation on it 2-3 weeks before it's due! Great sample writing material for job apps though.
+
+--- Rating #10 ---
+Class: BISC414
+Date: 2018-05-08 23:29:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Caring professor who is easily and happy to be accessible outside and after classes. Helps you with whatever you need help with, and is perfectly reasonable given any circumstances. Very passionate.
+
+--- Rating #11 ---
+Class: GEOG315
+Date: 2016-04-27 00:33:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+One of the best profs I have had during my time at SFU. Friendly, knowledgeable, and always willing to help. The course was enjoyable and I would recommend this prof.
+
+--- Rating #12 ---
+Class: GEOG315
+Date: 2015-07-18 14:50:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+The lectures are good and enlightening. He nerds out every so often when he gets excited about a particular subject, but you can see the passion he has for the material. It really makes you respect his teaching ability. Labs were easy, watched videos and reflected on them and the readings. Exam is also easy if you study and pay attention in class.
+
+--- Rating #13 ---
+Class: BISC414
+Date: 2014-12-17 07:26:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Is very nice as he tries to give you a helping hand when you ask for it. Will try his best to answer your questions without giving you answers so at times it may not be too much information of help. Posts lectures online but may need to attend class to write your own notes.
+
+--- Rating #14 ---
+Class: GEOG315316
+Date: 2014-06-19 22:14:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Very passionate about his subjects and makes a lot of lame jokes. Lectures seem slow sometimes when he asks questions and waits for a response, but this does not take away from the material. Copy slides and take notes from class discussions and you should do well. Exam was easy if you studied. Start the 15 page term paper as early as possible!!!!!
+
+--- Rating #15 ---
+Class: GEOG315
+Date: 2013-04-11 02:02:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Great that he wants us to learn to make scientific guesses, but more help with how to develop a good background to do so would be valuable. He's great to talk to, but lectures are a bit random. I guess he's tired of teaching the same old course? I'd rather be guided and pushed a bit more. Time is too short to spend it flailing.
+
+--- Rating #16 ---
+Class: BISC414
+Date: 2012-12-25 03:22:35 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Lance is a very nice guy and seems very passionate about limnology but the class was very disorganized. no midterm, only presentation, term paper, and final and lab assignments. It was very hard to figure out what to study for or how to answer test questions. Same with the paper, very vague and broad topics given. DON'T TAKE THIS CLASS ALONE!
+
+--- Rating #17 ---
+Class: BISC204
+Date: 2011-01-22 21:35:05 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+midterms were hard!! atleast when u realize your grade on it.this class requires hell lot of reading ,so don't rely on his lectures notes only bcz ur gonna end up failing if u do so. His teaching style is strange, as he asks more than he tells. Also ,i had no interest what so ever prior to class .ur 1st midterm mark is going to reflect final mark.
+
+--- Rating #18 ---
+Class: BISC204
+Date: 2010-12-21 19:43:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Funny, nice, helpful professor but his lectures don't always cover everything you need for the exam, so reading is a must. His posted notes are VERY incomplete, and there are no lecture recordings so lecture is pretty much mandatory. Tutorials are interesting, but for the most part useless because they don't really review lecture material.
+
+--- Rating #19 ---
+Class: BIOECOL
+Date: 2010-11-24 17:04:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+If you are exited about the material and you participate in the discussions you will love his class, if your just there to get the notes and learn the material by yourself later you will do poorly.  he is very much a &quot;discussion&quot; style teacher.  the people who rate him negatively probably didn't put much effort into the actual lecture.
+
+--- Rating #20 ---
+Class: BISC416
+Date: 2009-12-02 12:33:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+No good notes. Lectures are scattered... he gives out 80% of the questions on the final, but there are no resources to figure out these questions, and nothing was taught very well in class, especially the topics that were new. Bad teacher.

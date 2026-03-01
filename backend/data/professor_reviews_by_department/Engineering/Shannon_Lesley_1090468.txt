@@ -1,0 +1,271 @@
+Professor: Lesley Shannon
+Professor Legacy ID: 1090468
+Professor ID: VGVhY2hlci0xMDkwNDY4
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 2.5
+Avg Difficulty: 3.7
+Num Ratings: 36
+Would Take Again Percent: 60
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENSC452
+Date: 2024-06-18 19:17:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The course itself was really great and you will learn a lot about the tools. You have to do a lot search and ask TAs questions to do well on the project. The prof is tough and sometimes hard to approach.
+
+--- Rating #2 ---
+Class: ENSC894
+Date: 2023-04-05 16:06:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Course material is invaluable!  The project portion is awesome!
+
+--- Rating #3 ---
+Class: ENSC452
+Date: 2022-01-01 04:15:26 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+A project class where there exists 2 worlds, the lecture and the project, where the lectures go over everyone's heads since the project is the real star of the show. Topics are disconnected and lacks practicality. Project gives lots of freedom and expect lots of self-study. Choice of TA is just as important as her for such a project-based class.
+
+--- Rating #4 ---
+Class: ENSC452
+Date: 2018-04-07 23:06:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Best and most important course for CMPT ENSC student. Making your own FPGA project from pure metal. Basically this is the capstone course for CMPT ENSC student where you could show your knowledge through these 4-5 years of college life. Everyone need to spend around 30hrs/W in the lab and basically everyone feels really worth it at the end.
+
+--- Rating #5 ---
+Class: ENSC350
+Date: 2017-05-31 17:06:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Expect a 10 page final exam. Labs are heavy and time consuming that happens every few weeks. Memorize lecture slides for her exams - really helpful.
+
+--- Rating #6 ---
+Class: ENSC251
+Date: 2016-03-08 18:31:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is so good, her exams are easy, as well as all assignements. I think she should raise the diffculty of exam.
+
+--- Rating #7 ---
+Class: ENSC251
+Date: 2016-01-04 16:36:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+doesn't release grade on time.
+
+--- Rating #8 ---
+Class: ENSC251
+Date: 2015-12-15 01:52:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Insanely hard. if you dont pay attention your failed
+
+--- Rating #9 ---
+Class: ENSC251
+Date: 2015-12-09 04:17:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+she is so boring and instructions in the lab are not clear
+
+--- Rating #10 ---
+Class: ENSC251
+Date: 2015-10-05 15:52:39 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+She's unbelievably tough and expects us to know way more than I can even find on google. Although if you showed up to class and signed the sign in sheet, she may shift the midterm weight to the final so instead of 25 and 50 it's 0 and 75
+
+--- Rating #11 ---
+Class: ENSC251
+Date: 2014-12-01 13:47:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Even in the last lecture she is still teaching new stuff but not reviewing.
+
+--- Rating #12 ---
+Class: ENSC251
+Date: 2014-11-27 12:07:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Assignments are vague and tedious, not really relating to course material. Frustrating in lecture but the tests are based off of them and what she emphasizes in class.
+
+--- Rating #13 ---
+Class: ENSC251
+Date: 2014-11-26 22:50:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Course material is not hard but her lectures make it harder for us to understand. Lab requirements are extremely vague at first, and other assignments are based on the first one. Final assignment is hard like hell. BTW 70% of students in her class failed the midterm, and she said she won't scale because she is the UCC chair of the faculty.
+
+--- Rating #14 ---
+Class: ENSC251
+Date: 2014-11-13 02:28:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+extremely hard because she don't scale the course and she love to ask compare and contrast question, be prepare for that on the midterm. Not sure about the final
+
+--- Rating #15 ---
+Class: ENSC251
+Date: 2014-11-12 19:16:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+89 people failed and 105 students have to retake base on current score out of 152 students. Amazing.
+
+--- Rating #16 ---
+Class: ENSC251
+Date: 2014-10-25 22:08:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+You have to call her Dr. Shannon. Lectures are long, boring and useless, i would rather read textbooks and google the stuff. Lab requirements are extremely unclear and ironically, she requires us to do the lab using MS Visual Studio, but upload the final result in Linux form. Overall, she does not teach. And there is no TA during the lab.
+
+--- Rating #17 ---
+Class: ENSC452
+Date: 2011-12-01 16:21:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I'm glad finally people are realizing how bad a prof Lesley is. You have to be completely blind and isolated to think there's slightly anything good in her teaching. Lesley does not TEACH! She just babbles! You are all doomed once u go to work and find out how much firmware/digital students from other schools know compared to you.
+
+--- Rating #18 ---
+Class: ENSCXXX
+Date: 2011-11-23 03:26:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I can say is, she is bad prof
+
+--- Rating #19 ---
+Class: ENSC351
+Date: 2011-11-22 23:36:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+You will learn anything in this class, from Google and other source. NOT from LESLEY! Her lecture seems to be organized but actually not. The way she represents it is just horrible. And seriously, Lesley, if you can't draw or write, why don't you just prepare a printed note instead&#63; Well, She's just a little bit better than Craig
+
+--- Rating #20 ---
+Class: ENSC351
+Date: 2011-11-20 22:25:25 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+ANYthing you learn in her class is from self study and your own work! The course load is more than 4 credits, and she is very annoying in her lectures! Her notes are insufficient and if you miss a class you will lose at least 3-5% of your exams since there are no notes! Don't make her angry or she will give you Hell...

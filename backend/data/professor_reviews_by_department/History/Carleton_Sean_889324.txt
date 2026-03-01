@@ -1,0 +1,63 @@
+Professor: Sean Carleton
+Professor Legacy ID: 889324
+Professor ID: VGVhY2hlci04ODkzMjQ=
+Department (CSV): History
+Department (Fetched): History
+Avg Rating: 4.8
+Avg Difficulty: 2.8
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: FNST401
+Date: 2010-01-03 11:00:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Awesome prof. Really helpful, and very passionate about what he teaches. Seek him out!
+
+--- Rating #2 ---
+Class: HIST101
+Date: 2006-11-28 14:25:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Good man!!
+
+--- Rating #3 ---
+Class: HIST101
+Date: 2006-11-01 00:48:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+keeps the class humorous so it isn't too bad going to tutorials... really easy-going and really nice.. keeps the class lively and after you come out of class, you understand the article that was for homework.. even if you don't read it...   ..ever.
+
+--- Rating #4 ---
+Class: HIST101
+Date: 2006-09-11 00:43:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Easy going, hands out candy...just go to tutorials. Really helpful in office hours.

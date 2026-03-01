@@ -1,0 +1,24 @@
+Professor: Adrienne White
+Professor Legacy ID: 2732587
+Professor ID: VGVhY2hlci0yNzMyNTg3
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 1
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: MGMT325
+Date: 2021-11-16 17:31:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Adrienne White is the worst professor I have had during my time at SFU.. Normally, professors are clear in their expectations, however Adrienne is the opposite of this. She makes students read between the lines to complete assignments. She confuses students more than she actually teaches. Stay away from this professor!

@@ -1,0 +1,24 @@
+Professor: Sara Sagaii
+Professor Legacy ID: 2562230
+Professor ID: VGVhY2hlci0yNTYyMjMw
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4
+Avg Difficulty: 5
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: MACM101
+Date: 2021-03-07 10:02:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Sara is a good teacher. She gives clear lectures but quite difficult quizzes. Also for the midterm, beware of the time limit.

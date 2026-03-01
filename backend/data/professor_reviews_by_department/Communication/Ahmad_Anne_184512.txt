@@ -1,0 +1,271 @@
+Professor: Anne Ahmad
+Professor Legacy ID: 184512
+Professor ID: VGVhY2hlci0xODQ1MTI=
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 4.1
+Avg Difficulty: 3.1
+Num Ratings: 25
+Would Take Again Percent: -1
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: GD131
+Date: 2015-10-08 17:09:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very strict teacher.
+
+--- Rating #2 ---
+Class: CMNS426
+Date: 2013-11-05 22:31:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Passionate, concise and fun. Anne is a prof that we all wish we have for all courses at University. She makes learning fun and at the same time allow us to push ourselves further.To top it off, even after graduation, she is willing to put in recommendations for your resume.
+
+--- Rating #3 ---
+Class: CMNS473
+Date: 2012-08-04 17:57:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+She is the best prof. I 've ever met in SFU.
+
+--- Rating #4 ---
+Class: CMNS473
+Date: 2011-10-02 18:36:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Amazing teacher - didn't waste time, flew through examples being sure to highlight key points. This woman set me on the path to a professional graphic design career, and I now own my own company. Can't speak highly enough of her.
+
+--- Rating #5 ---
+Class: CMNS473
+Date: 2011-07-24 05:21:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+One of the nicest people I ever met. She is also very knowledgeable about her field. She encourages you to use your imagination and your knowledge together. The course is fun.
+
+--- Rating #6 ---
+Class: CMNS473
+Date: 2009-10-26 17:07:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She is wonderful, she'll make you like school again. It's a shame she doesn't teach any of the 1st or 2nd year cmns courses, it might have made me like school more..; ) If you want to be a graphic designer, or are unsure, take this class, it might change everything!
+
+--- Rating #7 ---
+Class: CMNS473
+Date: 2008-02-01 23:23:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Anne is wonderful.
+
+--- Rating #8 ---
+Class: CMNS473
+Date: 2007-07-13 11:43:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Nice prof, easy marking and easy course afterall
+
+--- Rating #9 ---
+Class: CMNS473
+Date: 2006-08-11 00:22:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+one of the nicest instructors. very helpful and an extremely interesting and useful class.
+
+--- Rating #10 ---
+Class: CMNS473
+Date: 2005-06-07 00:38:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+If you love arts/graphic design then you're going to love this class. This is one of the best classes that I have ever taken :)
+
+--- Rating #11 ---
+Class: CMNS130
+Date: 2004-12-14 03:35:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+She's one of the worst lecturers I've ever had. I fall asleep 10 minutes into the lecture everytime. And this was an late afternoon course too! I should be wide awake at this time, and I normally am. Her redeeming quality is that she is really nice and approachable.
+
+--- Rating #12 ---
+Class: CMNS473
+Date: 2004-12-07 16:45:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Very passionate about graphics design, always eager to provide extra help, very fair on marking so don't take her classes if u're planning to slack off in it.
+
+--- Rating #13 ---
+Class: CMNS473
+Date: 2004-11-02 03:51:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Taking her class now..she's ok...well prepared and helpful in saturday workshops...yet boring in lectures.  Not as easy as I thought
+
+--- Rating #14 ---
+Class: CMNS473
+Date: 2004-10-27 20:10:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Great teacher! Very enthusiastic about the topic =)
+
+--- Rating #15 ---
+Class: 135
+Date: 2004-10-26 03:01:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+avoid at all cost
+
+--- Rating #16 ---
+Class: CMNS473
+Date: 2004-10-18 22:40:28 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very good professor for this course, but if anybody had taken CMNS 130 with her would know that she ain't that great in that class. Anne is very organized in terms of material preparation, but may sometimes also be clueless about the thing she teaches.
+
+--- Rating #17 ---
+Class: CMNS473
+Date: 2004-06-27 15:59:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+473 was an awesome course and Anne was a great prof. She was helpful and will give you good feedback on your work.
+
+--- Rating #18 ---
+Class: CMNS473
+Date: 2004-06-08 23:04:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+She is an excellent instructor. I am so glad I took her course. One of the best courses!
+
+--- Rating #19 ---
+Class: CMNS
+Date: 2004-02-19 15:40:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Loved this professor. She is smart, interesting and caring and if you are a mature enough individual you will recognize how much knowledge Anne has.  To those who criticized her for cmns130 - that class is already dull as dirt - not her fault.
+
+--- Rating #20 ---
+Class: CMNS130
+Date: 2003-09-02 16:01:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+SOooooooo boring, is a good cure for those who can't sleep, everything is so plainly horrible, is so easy to just tune out whatever she says

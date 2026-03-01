@@ -1,0 +1,271 @@
+Professor: Cameron Forde
+Professor Legacy ID: 882739
+Professor ID: VGVhY2hlci04ODI3Mzk=
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 2
+Avg Difficulty: 3.8
+Num Ratings: 96
+Would Take Again Percent: 5.5556
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CHEM126
+Date: 2025-02-13 17:32:37 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Dr. Forde is a hit-or-miss professor. The labs are tough, but the TAs are supportive. Unstuck ai was a lifesaver for study prep - way better than just relying on the textbook. Overall, a challenging course, but manageable with the right resources.
+
+--- Rating #2 ---
+Class: CHEM126
+Date: 2024-03-13 04:11:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Forde is a mediocre professor at best. He doesn't speak very loudly and the homework given for this class is insane (126 is 2 units). Expects you to have pretty everything written in your lab manual cut-and-paste into your notebook, which is very unnecessary. Not to mention there's pre-lab LONCAPA and he'll sneak up behind you during lab time.
+
+--- Rating #3 ---
+Class: CHEM126
+Date: 2023-11-20 08:14:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+A joke of a professor. Not too sure how he is able to be allowed to teach.
+
+--- Rating #4 ---
+Class: CHEM126
+Date: 2023-07-27 11:25:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Not the best prof to take a course with. He is not helpful with questions the TAs were amazing tho.
+
+--- Rating #5 ---
+Class: CHEM126
+Date: 2023-07-27 11:21:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Worst prof at sfu. Never take a class with. Drop course if possible. Horrible experience. Not very helpful with questions when asked. Seems like he doesnt know much and repeats everything you just asked him.
+
+--- Rating #6 ---
+Class: CHEM126
+Date: 2023-05-10 03:28:06 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Nice guy but did not benefit me whatsoever in that lab. The TA's carried it hard.
+
+--- Rating #7 ---
+Class: CHEM126
+Date: 2023-04-26 00:02:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr Forde's a decent human being when approached outside of class, but a bad teacher overall. His presence didn't make or break the lab experience for me, the labs were just generally hard/took a while. Marking for lab reports was sometimes slow but it was fair. TAs were always nice if not 100% knowledgeable. Midterm/final were easy.
+
+--- Rating #8 ---
+Class: CHEM126
+Date: 2023-04-22 04:15:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+126 was a difficult course and Dr. Forde exacerbated its quality. All he did during labs consisted of aimlessly walking around. He also provides minimal resources for students and speaks too quietly. A boring class with an even worse professor. I would NEVER take a class with Dr. Forde again.
+
+--- Rating #9 ---
+Class: CHEM122
+Date: 2023-01-13 07:17:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I already have a bad impression of Dr. Forde. I was asking for help on the pre-lab, and made sure to thoroughly explain my problem. Unfortunately, he basically repeated what I'd already told him I knew and I felt pressured and rushed to ask my questions as there were other people waiting for help. Would drop 126 if I wasn't taking Chem 122.
+
+--- Rating #10 ---
+Class: CHEM121
+Date: 2022-08-31 05:20:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Attended every lecture but still didn't learn anything. Forde doesn't teach, but rather solves problems without providing any context whatsoever or even what the question is to begin with. Although he tried improving his teaching at the end, it was too little too late. The only reason people passed was due to great TAs & the class being scaled.
+
+--- Rating #11 ---
+Class: CHEM121
+Date: 2022-08-20 01:33:45 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He definitely at least tried to improve but it was too little too late. In lectures he often rambles about un-related things so prepare to read the textbook to learn concepts. Pop quizzes in tutorials and lon-capas are brutal. Midterm was fair but the Final was difficult.
+
+--- Rating #12 ---
+Class: CHEM121
+Date: 2022-08-12 22:52:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Frode is a goof Professor. Although we need to study a lot by ourselves. Gives midterm and final exam from the book. Go through the book thoroughly if you want to get a good grade. His presentations are easy to understand but nothing much in them.
+
+--- Rating #13 ---
+Class: CHEM121
+Date: 2022-08-11 06:49:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Forde is ok. He isn't great (lectures are unorganized, you will be reading the textbook a lot to learn, pop quizzes in tutorial) but when I reached out to him with questions he would try to help. He is a decent guy, just not the best teacher. So many reviews paint him to be terrible but he is far from it. This is chem; it's supposed to be hard.
+
+--- Rating #14 ---
+Class: CHEM121
+Date: 2022-08-11 01:06:05 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures aren't worth going to but isn't like completely uninterested in improving like it might come off from these reviews. Over my time with him he did make progress in terms of presentation and was trying to triangulate a lecture style that worked, he just never got there. He also lacks skill with a longbow.
+
+--- Rating #15 ---
+Class: CHEM121
+Date: 2022-08-09 23:43:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The lectures are not very helpful barely anyone showed up, waste of a tuition.  What he teaches about in class has very little to do with the homework. Enjoy teaching yourself chemistry for a semester. scam class!
+
+--- Rating #16 ---
+Class: CHEM121
+Date: 2022-07-08 05:15:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He told our whole class that the avg for the midterm was 60-65%. we got the results and it was a 50% avg in reality. Waited to give the marks the day after the withdrawal date on purpose. Never take a class with him
+
+--- Rating #17 ---
+Class: CHEM121
+Date: 2022-07-06 05:14:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Absolute disgustment of a prof. Gives an online midterm to make his life easier and student's lives harder! All the exam questions correlate nothing with what happens in lectures! I am pissed! I listened attentively every lecture and took full notes of everything he went over in lecture and none of it was on the exam! Absolutely unfair! F Forde
+
+--- Rating #18 ---
+Class: CHEM121
+Date: 2022-06-30 04:12:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+tried to give this prof the benefit of the doubt and take his course... big mistake. he's so lazy and provides the bare minimum, really bad lecturer and his exams dont correlate with anything he teaches. midterm was only 80 minutes, which was not enough time to get through all the questions. only take this course with him if you want to suffer
+
+--- Rating #19 ---
+Class: CHEM121
+Date: 2022-06-24 21:09:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Save yourself and don't take a class with this prof. He barely teaches during lectures, makes tutorials "optional" but gives pop quizzes at random, and whatever he does "teach" has no correlation to homework/lab problems. He also made the midterm online due to "covid concerns" even though he doesn't record/stream lectures for people unable to come.
+
+--- Rating #20 ---
+Class: CHEM121
+Date: 2022-06-23 17:14:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Worst professor ive ever had. Terrible just awful

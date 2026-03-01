@@ -1,0 +1,271 @@
+Professor: Hilary Todd
+Professor Legacy ID: 2111043
+Professor ID: VGVhY2hlci0yMTExMDQz
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 4.7
+Avg Difficulty: 2.1
+Num Ratings: 28
+Would Take Again Percent: 91.3043
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CRIM101
+Date: 2018-11-14 18:13:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof! She is very helpful and is easy to talk to! I love her teaching style and I would take another course with her again in the future. You can tell she cares about her students and she makes the lecture very interesting (guest lectures etc).
+
+--- Rating #2 ---
+Class: CRIM1100
+Date: 2018-04-24 21:00:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A fantastic prof, really cares about how you are doing and wants you to do well. Her assignments are straightforward and as long as you participate and hand everything in , it is easy to do well.
+
+--- Rating #3 ---
+Class: CRIM101
+Date: 2018-03-25 11:05:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I don't have enough good things to say about Hilary. She's clear, helpful, and so passionate. She has high expectations, but she helps you reach them every step of the way. I've relied on her mentorship even after the course ended. Take a class with her. You won't regret it.
+
+--- Rating #4 ---
+Class: CRIM101
+Date: 2018-01-02 22:15:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Gives good feedback and marks fairly, overall great prof! If you keep up with the readings and go to her office hours, she's really helpful! Highly recommend.
+
+--- Rating #5 ---
+Class: CRIM455
+Date: 2017-12-15 02:27:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+She gave me so much great feedback. Highly recommend.
+
+--- Rating #6 ---
+Class: CR101
+Date: 2017-12-10 22:00:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Avoid. Hard marker and not nice.
+
+--- Rating #7 ---
+Class: CRIM101
+Date: 2017-10-06 23:12:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+AWESOME
+
+--- Rating #8 ---
+Class: CRIM455
+Date: 2017-10-06 23:05:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She really cares about her students. Gives great feedback and marks fairly.
+
+--- Rating #9 ---
+Class: CRIM455
+Date: 2017-10-06 23:04:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Hilary is an amazing instructor. She goes so far above and beyond for her students. I would take another class with her any time.
+
+--- Rating #10 ---
+Class: CRIM455
+Date: 2017-09-08 03:49:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Super hard marker on papers & online presentation which weigh heavily on your marks . Avoid at all costs !
+
+--- Rating #11 ---
+Class: CRIM135
+Date: 2017-08-13 21:31:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Hilary is an amazing TA, really connects with her students, I felt like she was a positive figure and role model for our tutorial and really set the standards high in a great way that pushes students to accomplish and do well! super caring and definitely want to connect with her after the semester.
+
+--- Rating #12 ---
+Class: CRIM135
+Date: 2017-08-12 15:29:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Fantastic. Had her as TA for crim135. Very caring and goes the extra mile for her students. Really wants you to succeed and do well. Great at facilitating discussion.
+
+--- Rating #13 ---
+Class: CRIM101
+Date: 2017-06-28 20:05:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Hilary is an amazing professor, she was really engaging, passionate about what she lectures about, and professional/inspirational and she's my girl
+
+--- Rating #14 ---
+Class: CRIM101
+Date: 2017-04-30 11:24:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+CRIM 101 was a great class. Im in health sciences, but she made it so that the concepts were easy to understand and related them to real life. Hillary is really nice and will go the extra mile for her students. Before exams she had extra office hours & she gave us helpful tips on writing before the essay was due. She's hot too...:)
+
+--- Rating #15 ---
+Class: CRIM101
+Date: 2017-04-30 02:35:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I'm about to grad and have been to two diff institutions but def my fav proff. Helps she's super young, fast paced interactive lectures, super nice (gave us tim bits TWICE!) Made content relatable to real life, brought in guest speakers, had movies in class, but also was expected to read for each class, 2 exams and 1 paper so still academic. :)
+
+--- Rating #16 ---
+Class: CRIM101
+Date: 2017-04-26 00:55:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+great class. lots of reading, but it's interesting. very available. if you put in the work you'll do well.
+
+--- Rating #17 ---
+Class: CRIM101
+Date: 2017-04-18 19:04:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Hilary is amazing!
+
+--- Rating #18 ---
+Class: CRIM101
+Date: 2017-04-12 13:20:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Hilary is a great proff! She really cares about her students and wants them to succeed. She made the class really interesting and engaging. Textbook is essential for this class. Final and midterm were also fair, you just need to put in the work and go over the textbook chapters.
+
+--- Rating #19 ---
+Class: CRIM101
+Date: 2017-03-13 20:07:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I have Hilary for crim 101 and she's great. Ive never had a prof who cares so much about their students and wants them to do well. Id recommend her classes to everyone! She knows what she's talking about and is nice and funny too.
+
+--- Rating #20 ---
+Class: CRIM455
+Date: 2016-12-13 13:58:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Hilary is so amazing. CRIM 455 had two big writing assignments, but she was so understanding and took the time to encourage us and make sure we felt prepared. I had trouble writing my 20 pg paper, but she offered to phone me and cleared up all my questions. TBH, I've never felt this supported by a prof or TA! She's super knowledgable, too!

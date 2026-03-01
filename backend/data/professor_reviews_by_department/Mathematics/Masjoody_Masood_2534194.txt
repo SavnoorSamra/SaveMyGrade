@@ -1,0 +1,128 @@
+Professor: Masood Masjoody
+Professor Legacy ID: 2534194
+Professor ID: VGVhY2hlci0yNTM0MTk0
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2.7
+Avg Difficulty: 3.1
+Num Ratings: 9
+Would Take Again Percent: 44.4444
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: MATH310
+Date: 2025-09-17 01:02:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+hard to understand
+
+--- Rating #2 ---
+Class: MATH308
+Date: 2024-04-21 01:22:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+X
+
+--- Rating #3 ---
+Class: MATH308
+Date: 2024-01-10 01:15:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+
+
+--- Rating #4 ---
+Class: MATH308
+Date: 2022-08-03 04:36:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Masood was really good in terms of teaching, his accent was one area where he lacked, other than that he was very good. His exams were moderate in terms of difficulty level, would highly recommend him and would love to take another course with him,
+
+--- Rating #5 ---
+Class: MATH310
+Date: 2020-01-28 18:50:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Masood is obviously enthusiastic but lack of experience. Also, he needs to improve his pronunciation.
+
+--- Rating #6 ---
+Class: MATH308
+Date: 2019-12-19 02:53:28 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He's a really nice guy and cares abt his students but teaching is really not for him. I would learn everything before lecture from the textbook but then go to lecture and get extremely confused about a topic I had already learned ... avoid to say the least ...
+
+--- Rating #7 ---
+Class: MATH308
+Date: 2019-12-18 18:40:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He reads off his slides and does a very poor job at explaining &amp; that's why less than 30% of students attend his lectures. Exams are long , difficult and confusing. Exams, assignments and lectures are not fairly related &amp; he doesn't provide sources for extr practice. He has a strong ego and is not open to feedback. Avoid if possible.
+
+--- Rating #8 ---
+Class: MATH308
+Date: 2019-12-15 07:50:42 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The professor makes the lecture really boring. He literally just reads off the lecture slides and his voice wants to make me fall asleep. When asking him a question, he sometimes doesn't answer directly and gives you more irrelevant information making you more confused. No sense of humour. His tests are extremely long for the time allotted.
+
+--- Rating #9 ---
+Class: MATH308
+Date: 2019-11-08 20:18:26 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Good !

@@ -1,0 +1,50 @@
+Professor: Jennifer Chutter
+Professor Legacy ID: 2645132
+Professor ID: VGVhY2hlci0yNjQ1MTMy
+Department (CSV): History
+Department (Fetched): History
+Avg Rating: 3.7
+Avg Difficulty: 3.3
+Num Ratings: 3
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: FASS200
+Date: 2021-09-04 21:40:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Micro credit class. Enjoyable 4 weeks and learned many helpful tips. Attend office hours and you will get more out of the course. Assignments were reasonable and was a fair grading system.
+
+--- Rating #2 ---
+Class: HIST436
+Date: 2020-12-17 02:26:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Grade scheme is quite arbitrary, little feedback is given on projects or papers, even if grade is mediocre. Class participation was mandatory including attendance to lecture, but lecture material often was not related or important to course assignments.
+
+--- Rating #3 ---
+Class: HIST436
+Date: 2020-12-01 00:12:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Jennifer is one of my favourite profs ever. She is so caring and understanding and really levels the playing field between prof and student so you don't feel so much pressure or anxiety participating in discussions. She is very knowledgeable and poses very interesting and thought provoking discussion prompts that translate into an engaging time!

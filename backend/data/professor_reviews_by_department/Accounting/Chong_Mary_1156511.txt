@@ -1,0 +1,102 @@
+Professor: Mary Chong
+Professor Legacy ID: 1156511
+Professor ID: VGVhY2hlci0xMTU2NTEx
+Department (CSV): Accounting
+Department (Fetched): Accounting
+Avg Rating: 3.4
+Avg Difficulty: 3.6
+Num Ratings: 7
+Would Take Again Percent: -1
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: AUDIT
+Date: 2015-01-06 03:09:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+I didn't like her much
+
+--- Rating #2 ---
+Class: FMGT4410
+Date: 2013-05-16 23:48:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Mary's notes were confusing. I did find her helpful when it came to explaining things, but her notes were not useful.
+
+--- Rating #3 ---
+Class: FMGT3410
+Date: 2012-12-18 18:00:51 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I had Mary at BCIT for Tax. Her notes never explained anything that well, often it was pages of quotes lifted right out of the Act. She likes underlining her notes in lecture - which also isn't tooo helpful to my understanding. She often doesn't give any real notes to summarize the paragraphs. I found it much more useful to read the textbook.
+
+--- Rating #4 ---
+Class: BUS254
+Date: 2009-03-29 01:05:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+When I took BUS254 in summer 08 it was Mary's first time teaching. For a first timer, I thought she was pretty good. Midterm was fairly easy--the average was 75%. The final however was more on the challenging side.
+
+--- Rating #5 ---
+Class: BUS254
+Date: 2008-08-22 20:34:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Mary is an awesome professor. She made the course easy to understand. Her midterms and the final are fair. Make sure you do the tutorial questions and understand them! I'd definately take another class with her!
+
+--- Rating #6 ---
+Class: BUS254
+Date: 2008-08-20 20:20:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Excellent professor.  Her notes are very useful and clear. She communicates her materials very fluently.   However, her exams are hard and time consuming, especially the final. Overall, she is a great accounting professor. I would rate her 4.5/5.
+
+--- Rating #7 ---
+Class: BUS254
+Date: 2008-08-19 05:04:09 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Her lectures are very clear and straightforward. The lecture notes are useful and clear in every sense and somehow u dun even needa read the textbook if u pay attention in class. The midterm is easy but the final is a bit challenging. But overall as an accounting prof, she explains everything clearly n makes everything easy and simply. Recommended!

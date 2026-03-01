@@ -1,0 +1,50 @@
+Professor: Melissa Rui wan
+Professor Legacy ID: 2995927
+Professor ID: VGVhY2hlci0yOTk1OTI3
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 5
+Avg Difficulty: 2.3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: BUS418
+Date: 2025-04-20 16:03:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is the amazing professor I have ever had. She is so patient and nice in explaining every detail during her class. And she has quizzes, group assignments and the presentation. Very recommend!
+
+--- Rating #2 ---
+Class: BUS418
+Date: 2024-04-22 17:53:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Awesome professor. Explains concepts well and only tests you on things covered in class.
+
+--- Rating #3 ---
+Class: BUS418
+Date: 2024-03-27 19:17:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Melissa gives amazing lectures that help you understand complex concepts easily. Bonus that her lectures are engaging and easy to follow. Her exams are very fair if you attend class. Quizzes help lots with what to expect on exams. Would recommend.

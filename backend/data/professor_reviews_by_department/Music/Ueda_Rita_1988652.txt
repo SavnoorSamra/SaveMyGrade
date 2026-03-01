@@ -1,0 +1,232 @@
+Professor: Rita Ueda
+Professor Legacy ID: 1988652
+Professor ID: VGVhY2hlci0xOTg4NjUy
+Department (CSV): Music
+Department (Fetched): Music
+Avg Rating: 3.5
+Avg Difficulty: 2.6
+Num Ratings: 17
+Would Take Again Percent: 40
+
+Ratings Count Returned: 17
+
+--- Rating #1 ---
+Class: CA104
+Date: 2020-03-22 18:21:18 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Rita is a fairly good professor. She is available for extra help if anyone needs it. However, her lectures haven't helped me whatsoever. I have to study on my own to learn the material. Luckily for me, I've taken some piano theory in high school, but, I STILL HAVE TO STUDY. Not recommended for anyone who has no experience with theory.
+
+--- Rating #2 ---
+Class: FPA104
+Date: 2019-12-04 03:58:08 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She's a hit or miss tbh... um better to learn individually from the textbook. The TAs help out A LOT as she teaches at a very fast-pace. Rita also talks about herself a lot.... and rambles..... kind of distracting.
+
+--- Rating #3 ---
+Class: CA104
+Date: 2019-05-08 19:35:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+One of the best professors I have ever had. She cares about her students so much. One thing to note is that CA104 is a very tough course, especially if you have no music background. She gives a lot of opportunities for marks along the way to make sure you dont drown.
+
+--- Rating #4 ---
+Class: CA104
+Date: 2019-04-02 08:02:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+No music creativity at all, you have to follow everything she told you to do, I have a music background and I want to be creative because it is music, so, I fail. The mandatory concerts are so frustratingly bad and unpleasant that I feel like they are disrespecting music. Finally, the final project is simply everyone making noise, not music at all.
+
+--- Rating #5 ---
+Class: CA104
+Date: 2019-02-26 05:33:07 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Cant believe this course force students to buy tickets for 3 local events for participating marks and thats mandatory, the audience of the event then is 90 perfent us students. Doubtful.
+
+--- Rating #6 ---
+Class: CA104
+Date: 2018-01-08 18:46:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Rita is a very kind and caring professor, and a prof you should talk to in order to do better on your assignments/quizzes. The lectures and the workbook are very connected. The course content itself is also not too difficult, especially if you already have some experience with music. Make sure to do all the work, as all of it is important.
+
+--- Rating #7 ---
+Class: CA104
+Date: 2017-12-05 16:35:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The course CA 104 is now curvedand of heavy workload. But prof is really willing to help you. Lots of homework. Must make efforts.
+
+--- Rating #8 ---
+Class: FPA104
+Date: 2017-11-22 15:24:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She says &quot;Can you make it?&quot; a lot
+
+--- Rating #9 ---
+Class: FPA104
+Date: 2017-04-17 14:20:41 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This class is extremely easy for anyone with a background in music. However Rita was just a mediocre prof. I found her view on music very narrow as it came from only a classical music perspective, and some of the things she said in class had me questioning its validity. She is however very nice and wants to help her students as much as possible.
+
+--- Rating #10 ---
+Class: FPA104
+Date: 2017-03-22 01:01:29 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+FPA 104 is designed for students with zero music background, but indeed is quite tough. I have playing playing piano for 10 years, and found this course would be really challenging for people without music background. The prof is limited in resources, only 1 piano available, and she cannot show the keys and tones on protractor.... Take if you dare
+
+--- Rating #11 ---
+Class: FPA104
+Date: 2016-04-08 20:35:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Thankfully I have a lot of music background so this class was a breeze. Great professor, really clear in her explanation of topics and really cares about the students. Or maybe it's because I know the stuff. Overall, super nice and friendly.
+
+--- Rating #12 ---
+Class: FPA104
+Date: 2016-03-29 13:06:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Not a good teacher
+
+--- Rating #13 ---
+Class: FPA104
+Date: 2016-01-05 01:43:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great prof, really cares about her students. Even if you have little to no musical background you can do really well in this course. Do the practice and ask for help and you can easily get an A.
+
+--- Rating #14 ---
+Class: FPA 104
+Date: 2015-10-27 02:10:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof!
+
+--- Rating #15 ---
+Class: FPA104
+Date: 2015-06-02 18:03:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Rita is great, great at teaching. She is very patient to students.
+
+--- Rating #16 ---
+Class: FPA104
+Date: 2015-03-20 23:19:26 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Good at explaining the concepts. Lecture notes clear and concise - but not posted online! Attendance a must. Very conventional, v. focused on Western classical music. Grades a bit subjective; you'd lose technical marks for stylistic things, even if they were technically correct. Overall: good prof, available for extra help, good beginner course.
+
+--- Rating #17 ---
+Class: FPA104
+Date: 2015-03-04 02:35:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Funnest class I have taken. Rita is very easy going and very nice. Easy grader!

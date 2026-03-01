@@ -1,0 +1,234 @@
+Professor: Hartse Joel Heng
+Professor Legacy ID: 2387423
+Professor ID: VGVhY2hlci0yMzg3NDIz
+Department (CSV): Writing
+Department (Fetched): Writing
+Avg Rating: 4.9
+Avg Difficulty: 2.1
+Num Ratings: 17
+Would Take Again Percent: 94.1176
+
+Ratings Count Returned: 17
+
+--- Rating #1 ---
+Class: EDUC388
+Date: 2024-12-07 06:41:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Such a great prof. Too bad EDUC388 will not be offered any time soon. I always looked forward to attend lectures because of how funny and interesting he is. 10/10 prof.
+
+--- Rating #2 ---
+Class: FALX99
+Date: 2024-12-03 19:48:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Literally the best professor at sfu, always available to meet for feedback, never says no if you reach out, I would love to take another class with him, he always went above and beyond for us.
+
+--- Rating #3 ---
+Class: FALX99
+Date: 2024-12-03 19:42:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+He gives clear information on what he's looking for. Ask him all the questions you have and he will help you out so much.
+
+--- Rating #4 ---
+Class: FALX99
+Date: 2024-12-03 19:41:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I am in my first year of university and Joel's class was  a perfect class to take. He is caring and engages well with the students. You can tell he's really passionate about what he does. He is really funny and he gives great feedback. LOVE THIS GUY BEST PROF AT SFU FOR SURE. Take his class. He is so full of energy and super nice
+
+--- Rating #5 ---
+Class: FALX99
+Date: 2024-12-03 19:38:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Super helpful prof and even helps you with papers outside of FAL. Doesn't assign a lot of homework
+
+--- Rating #6 ---
+Class: EDUC388
+Date: 2024-11-26 05:46:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+such a nice man genuinely cares so much about his students
+
+--- Rating #7 ---
+Class: FALX99
+Date: 2024-06-25 19:14:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+goat prof
+
+--- Rating #8 ---
+Class: EDUC388
+Date: 2024-05-24 23:02:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Even though Joel was sometimes disorganized, he was an amazing professor. This class is not as well known, but taking it with Joel was great. He was very passionate about teaching the topics and provided good lecture discussions during class. I highly recommend taking EDUC 388 if given a chance.
+
+--- Rating #9 ---
+Class: FALX99
+Date: 2024-04-29 22:22:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I love this professor, who is arguably the BEST professor at SFU. I love attending his class. He engages with everyone and gives you great feedback! He's very personable and has a great sense of humour. He will meet with you to review papers and he gives great feedback. Overall 10/10 prof
+
+This is a rating for EDUC 388
+
+--- Rating #10 ---
+Class: FALX99
+Date: 2024-04-21 22:22:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+No words needed, simply the BEST PROF EVER! He is the most hilarious prof I ever had. It is the only lecture that I actually look forward too and makes his lectures engaging. The material in class was super easy with 3 major papers and 2 online assessments made for completion. He is very good at giving feedback and takes good care for his students.
+
+--- Rating #11 ---
+Class: FALX99
+Date: 2023-08-01 18:27:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He is one of the best professors I've ever had. He is passionate about teaching and gives good feedback on assignments. Recommend 100% to those who need to take FALX99!!
+
+--- Rating #12 ---
+Class: FALX99
+Date: 2022-04-18 20:50:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Prof HH was amazing to have during the peak of the pandemic last year. He made the class super easy and always gave us good feedback on an individual zoom call. There were some pretty short weekly assignments and lecture material, but they all turned out to be incredibly useful. Would definitely take a class with him again.
+
+--- Rating #13 ---
+Class: EDUC467
+Date: 2020-09-09 17:10:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Joel is full of passion for teaching and he respects students from diverse backgrounds. Although his marking may not be as high as you imagine, overall he is good and a nice guy.
+
+--- Rating #14 ---
+Class: FALX99
+Date: 2019-11-20 22:48:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He provides great grading criteria and doesn't mark too heavily. He is very approachable and he cares about his students and is very passionate about what he is teaching. He's a funny guy too! I'd take his class if he taught a different class.
+
+--- Rating #15 ---
+Class: FALX99
+Date: 2019-05-10 02:08:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Joel is my favourite professor. Lectures are interesting and easy to follow. He's super chill and cares about his students. Pro-tip: If you like the Yankees, maybe don't? Or, if you must and you're in Joel's class, be prepared to debate.
+
+--- Rating #16 ---
+Class: FALX99
+Date: 2019-04-03 06:24:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is the most caring professor that Ive ever met. Hes friendly and gives good feedback on every writing assignments. Grades are based on in class writing and one other research paper mostly.
+
+--- Rating #17 ---
+Class: FALX99
+Date: 2019-02-26 05:42:43 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Hes funny and nice, but he cancels classes just one hour before the time..., come on who does it were stuck on the mountain already

@@ -1,0 +1,37 @@
+Professor: Sophia Han
+Professor Legacy ID: 2677873
+Professor ID: VGVhY2hlci0yNjc3ODcz
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 4.5
+Avg Difficulty: 1
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: CMNS3400
+Date: 2026-01-03 03:33:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sophia was an amazing professor! All around very genuine and caring about her students. No textbooks needed, and her exams were not too difficult. Be prepared for class discussions, but overall she is the best professor I have ever had and I would definitely take a class with her again! I highly recommend taking a class with Sophia.
+
+--- Rating #2 ---
+Class: CMNS3400
+Date: 2021-04-21 00:04:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+cares for her students, cares for how everyone is doing. easy to talk to, always makes it clear and reminds everyone she is available on Slack if anyone needs help. Would definitely take her again

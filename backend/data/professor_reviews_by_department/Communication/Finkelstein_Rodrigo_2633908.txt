@@ -1,0 +1,167 @@
+Professor: Rodrigo Finkelstein
+Professor Legacy ID: 2633908
+Professor ID: VGVhY2hlci0yNjMzOTA4
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 4.9
+Avg Difficulty: 2.3
+Num Ratings: 12
+Would Take Again Percent: 100
+
+Ratings Count Returned: 12
+
+--- Rating #1 ---
+Class: CMNS130
+Date: 2022-09-12 22:44:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Rod is really the best instructor you can find at SFU. He really tries hard in making sure that everything he introduced is understood by students. Also super accessible after class and encourages questions. Make sure to take his class when you have a chance!
+
+--- Rating #2 ---
+Class: CMNS130
+Date: 2022-09-12 19:30:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+One of the best professors I have ever had!
+
+--- Rating #3 ---
+Class: CMNS130
+Date: 2022-08-22 00:29:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Makes lecture videos so entertaining and the way he teaches makes things easier to understand
+
+--- Rating #4 ---
+Class: CMNS130
+Date: 2022-08-21 07:00:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+I missed my first midterm due to miscalculating the timezone difference but Rod was amazing and so understanding! This class was so much fun, honestly my favourite class that I have taken.
+
+--- Rating #5 ---
+Class: CMNS130
+Date: 2022-08-08 17:42:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+One of the best professors at SFU, super caring, and understanding. He is one of the most passionate professors I have ever had, who takes time to answer students' inquiries and apply everyday life situations to theories in class. He would check up on my mental health and ensure I was alright. Please enroll in his course if you get the chance.
+
+--- Rating #6 ---
+Class: CMNS130
+Date: 2022-08-05 23:55:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+One of the best professors whose classes I have attended! Very understanding and kind. Learnt a lot from his class.
+
+--- Rating #7 ---
+Class: CMNS202
+Date: 2022-08-02 02:02:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: True
+Comment:
+This professor is amazing! He is a hige advocate for students mental and physical health and is very accommodating, if i did not submit something he even checks in to make sure everythings ok and OFFERS extensions. 10/10 a wholesome guy.
+
+--- Rating #8 ---
+Class: CMNS202
+Date: 2022-08-01 20:32:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+One of the best professors at SFU, if you ever get the chance to take a class with professor Finklestein enroll right away, really flexible and helpful
+
+--- Rating #9 ---
+Class: CMNS202
+Date: 2022-05-13 16:04:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Rod is an icon at SFU!! I miss his music.
+
+--- Rating #10 ---
+Class: CMNS202
+Date: 2021-12-05 01:31:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Rod has to be one of the best TAs I've had in my 4 years at SFU. He's thorough, funny, respectful, and you can tell he genuinely cares about his students and their success. He goes very in-depth about assignments and even has a youtube channel where he gives tips for the course. Very kind guy. I had a fantastic experience with Rod.
+
+--- Rating #11 ---
+Class: CMNS202
+Date: 2021-03-06 22:09:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Really nice guy, with engaging lectures, really uses zooms features. I really miss him this semester, especially the spanish music he plays:((
+
+--- Rating #12 ---
+Class: CMNS202
+Date: 2020-12-08 19:25:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+I really enjoyed his lectures, he genuinely cares about his students. The labs, however, were not the best, So much of the labs felt like a waste of time, where we had assignments and discussions which weren't very fruitful. The assignments weren't too hard but they were poorly explained. The guidelines just complicated the assignment.

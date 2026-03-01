@@ -1,0 +1,78 @@
+Professor: LINYI  LI
+Professor Legacy ID: 3101560
+Professor ID: VGVhY2hlci0zMTAxNTYw
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.6
+Avg Difficulty: 3.4
+Num Ratings: 5
+Would Take Again Percent: 40
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: CMPT201
+Date: 2026-02-25 03:04:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+man his midterm is soooooooooooo hard
+
+--- Rating #2 ---
+Class: CMPT201
+Date: 2026-02-18 20:31:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+he's a good and very friendly guy, a little bit of stuttering but its fine.
+
+--- Rating #3 ---
+Class: CMPT201
+Date: 2026-02-13 01:06:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I am in CMPT201 and while this is a freaking tiring hard course, it's clearly intended to be that way and not a reflection of Prof Li. He really cares about explaining in lecture, and does a lot of demos and reviews of quizzes/assignments.
+
+Overall a really positive experience; this course is a beast though. But so far Dr Li has made it better.
+
+--- Rating #4 ---
+Class: CMPT201
+Date: 2026-01-09 16:49:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+AVOID THIS PROF AT ALL COSTS. DO NOT TAKE. Wait for Dr Brian or Steve to teach this class. This lord Stutters, unable to hear clearly, does not know what he is talking about. Be prepared to self study. Midterm was fair but final exam had a curveball with some random out of topic question requiring CMPT210 knowledge. Horrid prof.
+
+--- Rating #5 ---
+Class: CMPT201
+Date: 2025-09-06 00:40:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lecture attendance doesn't matter&#8212;fewer than 15 of 100+ students show up. The lectures just read the slides. Exams don't test understanding or coding, only memorization. Assignments take 10&#8211;20 hours and are worth 70%, but if you fail the exam average (15% each), they won't help. One bad exam can ruin your grade&#8212;drop early if caught off guard.

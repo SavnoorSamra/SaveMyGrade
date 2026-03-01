@@ -1,0 +1,63 @@
+Professor: Zhaosong LU
+Professor Legacy ID: 1463517
+Professor ID: VGVhY2hlci0xNDYzNTE3
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2.3
+Avg Difficulty: 3.8
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: MATH151
+Date: 2015-11-26 20:39:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Knows his stuff very well. Heavy accent, but you will get used to it in a week or two. (Be sure to tell him to use a mic in class. The mic helped us immensely.) Tests are fair and easy.  Class averages stayed above 70% the whole semester.
+
+--- Rating #2 ---
+Class: 150
+Date: 2015-07-30 17:46:46 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+At first was difficult to understand through in accent but got used to after a week or two. He dumbs down his lectures a lot going through every single step he does and repeating points multiple times. Personally I liked this, made what he was teaching very clear and easy to follow.
+
+--- Rating #3 ---
+Class: MATH151
+Date: 2013-11-25 02:10:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He seems like a nice human being, but his teaching skills are subpar.
+
+--- Rating #4 ---
+Class: MACM316
+Date: 2011-10-24 18:18:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+had this prof for macm 316. student attendance dropped from 60 to 10 because of his incomprehensible accent, inability to teach (just read the textbook word for word, and his 'notes' were straight from the textbook. i would rate him a 0 if it were possible

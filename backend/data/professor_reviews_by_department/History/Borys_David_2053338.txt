@@ -1,0 +1,76 @@
+Professor: David Borys
+Professor Legacy ID: 2053338
+Professor ID: VGVhY2hlci0yMDUzMzM4
+Department (CSV): History
+Department (Fetched): History
+Avg Rating: 3.7
+Avg Difficulty: 2.8
+Num Ratings: 5
+Would Take Again Percent: 50
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: HIST102W
+Date: 2019-01-10 03:01:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He's a good prof and clearly passionate about what he's teaching. He made history easy to understand and was always open for questions. Only down side was you basically have to write down word for word what he says, then memorize it word for word and write it on the exam. Exams are all written and he tests you on only 25% of the material you learn
+
+--- Rating #2 ---
+Class: HIST102W
+Date: 2018-11-29 16:30:01 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures are interesting but attendance is mandatory since he has literally nothing on his lecture slides. The textbooks has readings for the course but you use the book only for like 3 readings which is waste cause none of it is needed for midterm or exams. The course is not heavy in work but he marks VERY HARD he is extremely particular.
+
+--- Rating #3 ---
+Class: HIST102
+Date: 2016-03-22 04:49:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+An extremely passionate prof. You can tell he really loves the material even though some can be quite dry. His lectures are very interesting and he is a fair marker. Tutorials were interesting.
+
+--- Rating #4 ---
+Class: HIST436
+Date: 2016-02-25 17:09:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+A young prof, so I think he is still figuring things out but he is very energetic and enthusiastic about British Columbia history. Open to multiple viewpoints and likes to listen to people's opinions and experiences. Not a topic I would usually be interested in but I enjoyed studying it with him. Not a tough marker.
+
+--- Rating #5 ---
+Class: HIST102W
+Date: 2015-12-01 13:22:40 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Best history prof I've ever had. Not only did he make Canadian history tolerable, but he made it something I looked forward to every week. He ran the tutorials as well,marking scheme was very simple 1/2 for showing up 2/2 for contributing something relevant. Other assignments could have been more related to lecture material.

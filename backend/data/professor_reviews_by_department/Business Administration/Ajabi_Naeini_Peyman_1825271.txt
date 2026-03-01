@@ -1,0 +1,128 @@
+Professor: Peyman Ajabi Naeini
+Professor Legacy ID: 1825271
+Professor ID: VGVhY2hlci0xODI1Mjcx
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.8
+Avg Difficulty: 2.7
+Num Ratings: 9
+Would Take Again Percent: -1
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: BUS466
+Date: 2013-11-17 20:02:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+The most relevant class I have taken this semester. He teaches you how to think in terms of technology and come up with neat ideas that could land you a job.
+
+--- Rating #2 ---
+Class: BUS466
+Date: 2013-08-07 00:45:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Outstanding prof, encourages you to learn through engaging seminars. You will do poorly in this class if you don't speak up and collaborate with your peers to have meaningful discussions. Marking criteria was ambiguous but give the guy some credit - it's was first semester teaching. Definitely one of the better 400 level profs i've had.
+
+--- Rating #3 ---
+Class: BUS466
+Date: 2013-08-04 01:48:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Friendly prof, very approachable. But the lecture was super lame. 3D Printer? How is it related to Web 2.0?
+
+--- Rating #4 ---
+Class: BUS466
+Date: 2013-08-03 14:08:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Took four 4th year courses this semester and by far this class was the best.
+
+--- Rating #5 ---
+Class: BUS466
+Date: 2013-08-02 22:34:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+He is a great prof with industry experience. Students who dont engage during class hate him because he points them out and lowers grades based on participation. New to the course but still a good prof!
+
+--- Rating #6 ---
+Class: BUS466
+Date: 2013-08-02 22:11:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Useless class. Too much discussion without learning anything important.
+
+--- Rating #7 ---
+Class: BUS466
+Date: 2013-06-15 12:56:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He knows what he is talking about, you can learn a lot.
+
+--- Rating #8 ---
+Class: BUS466
+Date: 2013-06-15 03:20:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+This guy is no Drew Parker, but still a good prof and a valuable class.The material covered applies to the real world. Talk during class and you'll be fine. No books.
+
+--- Rating #9 ---
+Class: BUS466
+Date: 2013-06-13 23:10:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He cares about what he teaches and keeps it interesting. Cares a lot about participation and cheating. Overall a solid prof.

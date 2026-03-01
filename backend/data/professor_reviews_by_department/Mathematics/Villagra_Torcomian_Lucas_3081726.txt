@@ -1,0 +1,180 @@
+Professor: Lucas Villagra Torcomian
+Professor Legacy ID: 3081726
+Professor ID: VGVhY2hlci0zMDgxNzI2
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2.5
+Avg Difficulty: 4.2
+Num Ratings: 13
+Would Take Again Percent: 46.1538
+
+Ratings Count Returned: 13
+
+--- Rating #1 ---
+Class: MATH251
+Date: 2026-01-14 00:34:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I don't get why this prof gets so much hate. He's a nice guy, answers questions, and regularly checks for confusion during lectures. Most bad reviews probably come from people unhappy with their grades. It's Calc 3, it's going to be a hard class no matter what. You just have to accept that and put in the work.
+
+--- Rating #2 ---
+Class: MATH251
+Date: 2026-01-06 06:39:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Took him summer 2025 and he was great. All you had to do was the optional textbook assignments + web assign to prepare for the weekly quizzes. Exams were fair and he was great at explaining. He has a slight Spanish accent and that's why many people complained. It really wasn't a deal breaker imo.
+
+--- Rating #3 ---
+Class: MATH251
+Date: 2025-11-11 19:46:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Notice how most of the first negative reviews are just ppl who are just telling their personal feelings, don't be tricked by that. The prof is average, not the best prof but def not the worst one. Class usually goes by he explaining and solving exercises with quizzes on Fridays which are similar to hw.
+
+--- Rating #4 ---
+Class: MATH251
+Date: 2025-11-10 16:52:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures and notes were solid and weekly quizzes were graded fairly. Both midterms were stupid easy and any marks I missed were just because I made errors in my own calculations. Final was kinda bologna but that is monitored by the math department and not the prof.
+
+--- Rating #5 ---
+Class: MATH251
+Date: 2025-11-09 19:06:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took Math 251 with Lucas in summer 2025, and had a perfectly fine experience. the homework sets you up for success if you're willing to really learn the content and stay on top of it. lectures could be a bit dry at times, but he is also helpful outside of class in office hours and accessible via email for help.
+
+--- Rating #6 ---
+Class: MATH251
+Date: 2025-11-09 17:42:42 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Although lectures might be confusing due to the level of abstraction of calc III, he is available after lectures for questions regarding the material. Also after midterms he asked for feedback to improve the exam content for future terms. So while the content might be dry in some parts, the course is manageable
+
+--- Rating #7 ---
+Class: MATH251
+Date: 2025-09-09 19:43:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The worst prof i have ever taken
+
+--- Rating #8 ---
+Class: MATH251
+Date: 2025-08-15 20:58:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+One of the worse math profs I've ever had
+
+--- Rating #9 ---
+Class: MATH251
+Date: 2025-08-15 20:57:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+homework and practice exams won't help with tests. this close &#129295; to offing myself
+
+--- Rating #10 ---
+Class: MATH251
+Date: 2025-08-15 19:24:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Absolutely horrible, finals worth 50% and the exam is nothing like the sample questions. Makes you buy online resources for the online assignment. Just avoid taking classes with him.
+
+--- Rating #11 ---
+Class: MATH251
+Date: 2025-08-15 19:12:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures are extremely boring and tests are nothing like homework or practice tests provided.
+
+--- Rating #12 ---
+Class: MATH251
+Date: 2025-08-11 22:58:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This professor is too hard
+
+--- Rating #13 ---
+Class: MATH251
+Date: 2025-07-30 18:32:00 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Listening to Lucas' lectures feels like watching paint dry would be a better use of my time. I have never skipped class but I have been tempted to bc he is SO painfully boring. He focuses on graphs instead of solving/helping you understand the lecture note examples. His exams are NOT like the hw or examples.

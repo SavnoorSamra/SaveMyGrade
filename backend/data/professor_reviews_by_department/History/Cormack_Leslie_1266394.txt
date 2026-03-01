@@ -1,0 +1,11 @@
+Professor: Leslie Cormack
+Professor Legacy ID: 1266394
+Professor ID: VGVhY2hlci0xMjY2Mzk0
+Department (CSV): History
+Department (Fetched): History
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

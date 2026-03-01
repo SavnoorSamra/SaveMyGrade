@@ -1,0 +1,63 @@
+Professor: Susan O''Neil
+Professor Legacy ID: 1711013
+Professor ID: VGVhY2hlci0xNzExMDEz
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 2.8
+Avg Difficulty: 3.3
+Num Ratings: 4
+Would Take Again Percent: 0
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: EDUC866
+Date: 2016-11-25 15:01:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She barely turned up for class. Instead, she left us in the hands of a TA who admitted that she knew nothing about the subject of the class. O'Neil never even returned our massive portfolio project, worth 60% of our grade, so although we got a mark (which was submitted to the university the same day we submitted it to her), we never got feedback.
+
+--- Rating #2 ---
+Class: EDUC399
+Date: 2014-12-27 14:22:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Susan is very passionate about her topic - Positive Youth Development. She practices it with her students as well, and the class is shaped around that. It's a bit heavy reading, tough assignments if you miss a class, but the course project was a great experience and a lot of fun (put readings to  use). Lots of participation, but easy marker in all.
+
+--- Rating #3 ---
+Class: EDUC252
+Date: 2014-06-30 00:30:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: True
+Online Class: True
+Comment:
+Super boring and difficult. Readings made zero sense and assignments (25% each) worth marked unbelievably hard. GPA plunker
+
+--- Rating #4 ---
+Class: EDUC252
+Date: 2012-04-17 13:22:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Awesome prof. Super helpful, very friendly and interested in her students. Class feels like a family near the end. The assignments are not very clear, but they are worth doing because you really do learn a lot.

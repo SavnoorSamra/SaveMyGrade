@@ -1,0 +1,24 @@
+Professor: Stewart Parker
+Professor Legacy ID: 2087688
+Professor ID: VGVhY2hlci0yMDg3Njg4
+Department (CSV): International Studies
+Department (Fetched): International Studies
+Avg Rating: 4
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: IS220
+Date: 2015-12-15 18:29:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Great, prof, great lectures, though he can jump around a lit. No textbook for this class, however, there is a lot of online journal articles to read, especially near the end of the semester. Also, great TA for leading discussions afterwards. I learned a lot!

@@ -1,0 +1,271 @@
+Professor: Shane Gunster
+Professor Legacy ID: 367585
+Professor ID: VGVhY2hlci0zNjc1ODU=
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 4.1
+Avg Difficulty: 3.3
+Num Ratings: 33
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMNS311
+Date: 2025-09-03 20:52:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Great guy. You can tell he's passionate about the course. He is very kind and very easy to reach out to. It felt like he guided me through the course even tho I reached out maybe 2-3 times. His feedback is very detailed and insightful. He's just a great prof.
+
+--- Rating #2 ---
+Class: CMNS311
+Date: 2024-08-21 07:21:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Shane is an amazing and passionate prof that enlightened me so much regarding communications role in climate change. You can tell he cares about the topic so much and wanted us to be engaged and make the course as interesting as possible. He is clear, organized and informative. TA's a tough marker so make sure to prepare for the papers.
+
+--- Rating #3 ---
+Class: CMNS349
+Date: 2024-04-28 15:36:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+TA is really good, but the final paper sucks.
+
+--- Rating #4 ---
+Class: CMNS460
+Date: 2021-02-24 17:24:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Shane is an amazing professor. This was my first communications course and he made it truly memorable. As this was during the pandemic, he was super understanding and accomodating to the needs of the class. He is also super knowledgeable on environmental issues and how this intersects with communications. One of my favourite courses ever.
+
+--- Rating #5 ---
+Class: CMNS349
+Date: 2018-04-13 20:26:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I did not enjoy his lectures and teaching style: lecture is too long, the slides are heavy; too many readings and tough grading on commentaries. He seems passionate about his course, but his teaching style is very boring. In addition to that, his take home final exam is very difficult. Be ready to read and write a lot and to face with tough marking
+
+--- Rating #6 ---
+Class: CMNS349
+Date: 2016-08-22 19:37:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Shane is really a great professor. He is passionate about his subject, very well organized and he, as well as his guest speakers, are very interesting. He is not an easy marker. Therefore, prepare to work hard and attend each class.
+
+--- Rating #7 ---
+Class: CMNS235
+Date: 2016-04-09 21:33:35 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+There are SO many readings/week, even tho some are "recommended". in order to get a good grade, he expects you to read them too... (100+ pages/week). His take home final is another 7-8 page paper, which is v diff than what he described it in the syllabus (a 6 page answer to 2-3 essay questions). WAY TOO MUCH WORK FOR A 3 CREDIT/200-Level CLASS
+
+--- Rating #8 ---
+Class: CMNS235
+Date: 2016-04-08 20:42:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Shane is a very clear prof with high expectations and a great wealth of knowledge. Lecture slides are really packed with information though, so that's a little overwhelming. but his lectures are very clear and to the point. Also, his TA Elizabeth for his class is an angel.
+
+--- Rating #9 ---
+Class: CMNS439
+Date: 2015-04-29 13:53:35 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+I thought this class would be easy. It wasn't. However, the prof. knows his stuff. This is the worst class I've ever taken in cmns.
+
+--- Rating #10 ---
+Class: CMNS486
+Date: 2014-08-28 19:14:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Shane is well prepared, enthusiastic, informed, and kind. The course (on climate change and media) was well paced and very timely. He required genuine participation and preparation from students.
+
+--- Rating #11 ---
+Class: CMNS349
+Date: 2014-04-10 02:13:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very good prof. He's good at making his statements clear and because of that, makes the 3 hour lecture just a bit more tolerable. Too bad the whole concept on the environment is difficult to grasp making this course somewhat daunting. Would love to see him teach other topics.
+
+--- Rating #12 ---
+Class: CMNS388
+Date: 2012-11-14 05:08:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+OK prof, but avoid his TA Paula, she is a very strict marker. Horribly high expectations on students during tutorial,need to facilitate your own tutorial, but she herself made boring presentation
+
+--- Rating #13 ---
+Class: CMNS388
+Date: 2012-07-26 23:45:01 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+This course is very informative but it started at 9:30am which makes the attendance rate low...interesting course but hard
+
+--- Rating #14 ---
+Class: CMNS388
+Date: 2012-02-02 00:05:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I took a few classes with Shane and he is easily the best CMNS prof at SFU. He is a really nice person, always makes time for students and is fair to the point of being a pushover. Very passionate about what he is teaching and it shows. Interesting lectures and readings; I was always happy to attend lectures with Shane.
+
+--- Rating #15 ---
+Class: CMNS388
+Date: 2011-09-14 20:41:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I loved this environmental course. At times he was a bit unclear about assignments but he was very passionate about the material he was teaching. Shane is a great prof.
+
+--- Rating #16 ---
+Class: CMNS388
+Date: 2011-03-31 06:24:14 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+The lecture could be more interesting if he doesn't copy it right off the text. More depth should be covered in each topic instead of just regurgitating the text. He needs to understand that not every student have a strong environmental background
+
+--- Rating #17 ---
+Class: CMNS388
+Date: 2011-03-18 00:18:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Professional, conscientious, put a lot of thought into his course. Too much material is fired at you - it'd be better if there was less material but more depth. e.g., terms such as &quot;experiential commensurability&quot; that are explained in about 4 seconds - in one ear & out the other! Needs to slow down & engage more with the class.  & smile.
+
+--- Rating #18 ---
+Class: CMNS323W
+Date: 2009-03-17 13:57:09 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Depends a great deal on the credibility of the TA for this course (their comments, at times, contradict). Not well-structured timewise for assignments (no breathing space). Excessive (& not well correlated) reading & heavy power-point use. Head's up, he will prescribed his POV for you to do well. Would have liked to seen Baker teach it.
+
+--- Rating #19 ---
+Class: CMNS232
+Date: 2007-04-11 14:18:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+His lectures are very fun to attend. He's very clear and gives a lot of entertaining examples. He sends out outlines of the slides prior to lecture. Likes to cracks jokes from time to time to keep the class awake. Very helpful with the assignments and quite flexible too. Recommend taking a course with Shane!
+
+--- Rating #20 ---
+Class: CMNS323
+Date: 2007-04-07 19:01:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Shane is a younger prof, and he constantly has little jokes that he throws into the lecture to make it more interesting.  His tutorials are mandatory for the mark. You'll enjoy the material, because he presents it in a fun, interesting way.

@@ -1,0 +1,271 @@
+Professor: Jian Pei
+Professor Legacy ID: 55593
+Professor ID: VGVhY2hlci01NTU5Mw==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.8
+Avg Difficulty: 3
+Num Ratings: 48
+Would Take Again Percent: 64.7059
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT741
+Date: 2022-10-06 22:53:39 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Interesting course, prof not good at teaching. Be prepared to learn everything by researching online. Tough works, heavy duties
+
+--- Rating #2 ---
+Class: CMPT354
+Date: 2022-01-27 02:58:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I was a bit apprehensive with his lecture at first because he doesn't really do demos, only writing them on his iPad. However, he is really accessible if you have any questions. His grading criteria are clear. You also get to have a cheat sheet for all exams. Lastly, I really like that he connects the course content with his industry experience.
+
+--- Rating #3 ---
+Class: CMPT354
+Date: 2022-01-11 04:47:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He always goes above and beyond basic teaching requirements. His assignments are very meticulously designed to help students learn the material the best way possible. He also makes use of his industry experiences in teaching which is both practical and refreshing.
+
+--- Rating #4 ---
+Class: CMPT354
+Date: 2021-12-26 16:51:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Pei gives a clear understanding of what each exam will look like, including topics for each question, so preparing is straightforward. He also did several check-ups on students throughout the term to adjust the difficulty of the class and sent us off with a heart-warming email at the end. Simply one of the best profs in the CMPT department.
+
+--- Rating #5 ---
+Class: CMPT354
+Date: 2021-12-18 22:26:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Professor Pei is one of the most caring profs I've ever had - he extended the deadline for an assignment and pushed one midterm back a week to make sure we were all good with the material. His lectures can be kind of long, but his assignments are great for applying concepts and his midterms were very fair.
+
+--- Rating #6 ---
+Class: CMPT354
+Date: 2021-12-08 04:34:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Go look at Pei's website and then be in amazed at his list of accomplishments. Now be happy because not only does he have the expertise, he is also a great prof. Fair assignments, and then more than fair exams that are based off of those assignments. Also great for asking questions and having additional office hours. Do attend class though.
+
+--- Rating #7 ---
+Class: CMPT354
+Date: 2021-11-21 11:42:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Extended the deadline for Assignment 2 two times. Automatic 5/5. KEKW
+
+--- Rating #8 ---
+Class: CMPT354
+Date: 2021-11-08 21:00:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Professor Pei is a fair professor for CMPT 354. His lectures and slides are dense with information, and occasionally he would forget to update them prior to class. Lectures do drag on for a while, especially in the 2 hour lectures. However, there are tons of useful content in his slides and his assignments are great for applying in-class topics!
+
+--- Rating #9 ---
+Class: CMPT459
+Date: 2021-08-17 19:04:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is willing to scale the difficulty of the course to match student feedback. His tests were scaled to include less theory in exams 2 and 3. His slides often included real life applications and motivates the problem before teaching it, but his tendency to do so may be from the fact that he is the VP of one of the biggest Chinese companies.
+
+--- Rating #10 ---
+Class: CMPT459
+Date: 2021-07-30 22:29:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Wonderful prof. The tests and homework are designed really well so that they make you work for understanding the concepts. The slides may be on the more difficult/confusing side, and might contain unnecessary entrepreneurial information but otherwise, you get a lot from taking 459. Also, Dr. Pei is a very knowledgeable, passionate and kind person.
+
+--- Rating #11 ---
+Class: CMPT459
+Date: 2021-07-27 22:31:45 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Lectures are content heavy and lengthy/wordy. Course itself really wasn't too difficult especially if you have some data science background. If you're completely new then this 400-level class is gonna be harder for you. Very unclear and arbitrary marking practices though. Not always open to correct answers if they differ from his explanation.
+
+--- Rating #12 ---
+Class: CMPT459
+Date: 2021-07-23 16:09:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very nice professor but his class is very hard for no reason. I am sure if I took this class with anybody else I would be doing much better. His exams are lengthy and full of proofs, and his lectures are confusing. I don't get the point of teaching data mining using proofs when you can write the algorithm using one line of code. Avoid at all costs.
+
+--- Rating #13 ---
+Class: CMPT459
+Date: 2021-07-18 22:35:51 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Even though he is such a nice person, his class is extremely difficult. I had the worst experience in this class. His lectures are just so confusing. It is extremely hard to understand. His explanations on a lot of topics are extremely vague. He makes lengthy exam so that students cannot finish in time (and he says it in his slides).
+
+--- Rating #14 ---
+Class: CMPT456
+Date: 2020-08-17 16:39:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Dr Pei is overall a pretty good professor. His lectures and explanations were OK. Had to rewatch a couple subjects in order to fully understand what was going on. He listens to feedback and adjusts his course accordingly which was nice and refreshing. Overall, take Dr Pei if you are interested in the subject he is teaching.
+
+--- Rating #15 ---
+Class: CMPT456
+Date: 2019-12-18 10:24:03 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+His lecture notes are so not organized, I spotted mistakes at many places. His accent is thick and sometimes hard to understand. Lectures were actually interesting.
+
+--- Rating #16 ---
+Class: CMPT456
+Date: 2019-12-16 17:15:44 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jian Pei is a very kind and caring professor. However, it would be nice if this course were more streamlined. In many of his assignments questions were not clarified very well. I don't like the idea of pop quizzes in a 400-level as well. Mainly though, his notes are so bloated that you don't end up learning a lot, just cramming information.
+
+--- Rating #17 ---
+Class: CMPT456
+Date: 2019-12-11 21:00:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Pop quizzes were a tad annoying for a 4th year course, but Dr. Pei does make it worth your while to attend lectures due to his passion for the field. Pretty easy credit Id say if youre looking for an upper division CMPT. Projects were long but not difficult, and if you achieve 50% total grade then he promises to pass you.
+
+--- Rating #18 ---
+Class: CMPT354
+Date: 2015-04-01 15:10:46 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Well, I did not put too much effort at all into that course so did not end up with a good grade. Totally personal reason and I don't blame the prof at all. My classmates seem to enjoy his lectures and he seems to be a reasonable grader.
+
+--- Rating #19 ---
+Class: CMPT741
+Date: 2014-06-28 07:10:03 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+He is a nice person but as a teacher he is far from great. I am not convinced that he really understands some of the algorithms he teaches; otherwise he would be much more confident answering questions. His assignments are not clearly explained, sometimes even confusing.
+
+--- Rating #20 ---
+Class: CMPT459
+Date: 2013-12-07 14:27:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Jian is very interested in the area of data mining and it shows. He is very passionate in his lectures and conveys the material well. English is an issue for him, very thick accent and sometimes he is hard to understand. Other than that very good. Would highly recommend for this class.

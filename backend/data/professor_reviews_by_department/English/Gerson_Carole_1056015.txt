@@ -1,0 +1,115 @@
+Professor: Carole Gerson
+Professor Legacy ID: 1056015
+Professor ID: VGVhY2hlci0xMDU2MDE1
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 4.5
+Avg Difficulty: 2.6
+Num Ratings: 8
+Would Take Again Percent: -1
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: ENGL105
+Date: 2016-05-13 22:36:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+lovely, warm professor. easy class if you read all the books you can get an A. easily. if you do not read you won't get more than a c
+
+--- Rating #2 ---
+Class: ENGL354
+Date: 2016-04-15 16:28:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+A lot of reading, but you can tell that she cares about her students and is invested in their success. Would recommend seeing her during office hours for papers and assignments, I found her very helpful both in and outside of class. Definitely passionate about her job!
+
+--- Rating #3 ---
+Class: ENGL354
+Date: 2015-03-16 23:30:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Gerson seems unapproachable at first but is really quite friendly. The first few readings for this course are extremely long and dry but get progressively better. She's extremely well read, very professional, intelligent, and kind. Clearly very passionate about Canadian Literature. However, lectures can go off on seemingly insignificant tangents.
+
+--- Rating #4 ---
+Class: CANADIANLIT
+Date: 2013-12-23 06:32:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great professor overall. She cares about her students, is very accommodating with assignments & everything else, and clearly cares about the content she covered in the course. Quizzes, exams, and projects are all very fair. Definitely recommend this professor!
+
+--- Rating #5 ---
+Class: CANADIANLIT
+Date: 2013-12-14 00:18:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Somewhat dull material is not improved by a hyper focus minuscule details. She's a nice person who is genuinely interested in the material, and is helpful in one-on-one discussions, but she seemed to  have a hard time leading class discussion and allowed students to interrupt her with unrelated comments/tangents.
+
+--- Rating #6 ---
+Class: ENGL354
+Date: 2013-03-19 22:49:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great prof who genuinely cares about her students, and works hard to make the class interesting and assignments fun. Only drawback was that students' differing opinions weren't taken too well (her insights were invaluable, but I think her teaching goals limited class discussion at times). She just wanted to convince everyone of her own readings.
+
+--- Rating #7 ---
+Class: ENG455
+Date: 2010-08-30 21:25:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Interesting class, great professor.  Knows her subject inside out and backwards, approachable --fantastic. Do the readings, chat with her in office hours, put the work in, and you'll be rewarded with a good grade.
+
+--- Rating #8 ---
+Class: ENGL435
+Date: 2009-04-05 00:54:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+passionate teacher who is available for her students

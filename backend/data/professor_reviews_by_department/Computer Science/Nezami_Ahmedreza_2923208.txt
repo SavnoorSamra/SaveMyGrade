@@ -1,0 +1,281 @@
+Professor: Ahmedreza Nezami
+Professor Legacy ID: 2923208
+Professor ID: VGVhY2hlci0yOTIzMjA4
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3
+Avg Difficulty: 3
+Num Ratings: 70
+Would Take Again Percent: 41.4286
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT310
+Date: 2025-09-24 20:45:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+always has a lot to talk about the subject, so you learn much more than what is in the slides. Comparing with previous terms he is updating his teachings slids and assignments every term to match his style better. You will learn alot of programming since he loves hands-on approach it seems.
+
+--- Rating #2 ---
+Class: CMPT310
+Date: 2025-09-24 20:25:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is very enthusiastic about the topic and try to convey that to students. Try to review the material before going to lectures. He posts alot of stuff. So being prepared gets that much farther in learning when he is discussing the material. Be prepared to work hard.
+
+--- Rating #3 ---
+Class: CMPT310
+Date: 2025-08-22 03:33:16 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Honestly this course would improve alot if he organized the course, got rid of the quizzes and structured the slides to fit his teaching style instead of ripping off Berkeley. I think if he implemented these changes he would be honestly a great prof.
+
+--- Rating #4 ---
+Class: CMPT310
+Date: 2025-08-11 21:54:51 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Hello how does he have 3 rating. It should be at like 0. No hate to the guy. Buddy is nice and all. Feel bad for the hate he gets sometimes too. BUT he does not know how to teach. Like I am not joking. In terms of learning, this class is absolute trash. Nothing he says makes any sense, and i m not tryna to overexaggerate here. dont take it with him
+
+--- Rating #5 ---
+Class: CMPT310
+Date: 2025-08-02 07:31:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Absolutely insane. So unorganized and uninterested. Would not reply to important emails and doesn't even know how to do a simple question himself (blamed Berkeley's answers to be wrong). Made our final diabolically hard for no reason, and added a question in the midterm which no one could self, including him. SFU do better.
+
+--- Rating #6 ---
+Class: CMPT310
+Date: 2025-07-03 17:04:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Extremely unclear about directions. will give different, contrasting information in lectures, emails, and tutorials. Seems very confused in lectures, like they don't know what they are doing.
+
+If you're reading this, please organize your information better, don't make receiving course information a scavenger hunt.
+
+--- Rating #7 ---
+Class: CMPT310
+Date: 2025-06-03 21:11:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I just started out with him and after the first lecture I had to drop, it was probably one of the worst lectures I had at SFU. To be honest, I have no clue how he is a prof. NEVER TAKE!
+
+--- Rating #8 ---
+Class: CMPT310
+Date: 2025-05-28 05:46:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I do not recommend!
+
+--- Rating #9 ---
+Class: CMPT310
+Date: 2025-04-23 18:41:46 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+What he taught us was not sufficient for the exams. The lecture slides are mostly Berkeley lectures. The final was a disaster(the worst final in my entire degree) but still managed to get a good score due to his lenient marking. The lectures were kinda boring&#8230;one can easily study everything from UC Berkeley.
+
+--- Rating #10 ---
+Class: CMPT310
+Date: 2025-04-22 05:46:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+he is okay, but this course overall requries too much self studying and reading with him.
+
+--- Rating #11 ---
+Class: CMPT310
+Date: 2025-04-22 03:54:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He's the GOAT
+
+--- Rating #12 ---
+Class: CMPT310
+Date: 2025-04-22 03:45:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great prof. Funny and caring. Looks good in a leather jacket. yes.
+
+--- Rating #13 ---
+Class: CMPT310
+Date: 2025-04-22 03:42:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+GOAT. Made challenging concepts seem easy. Super funny and caring. Really cool assignments too, and the exams are difficult but fair.
+
+--- Rating #14 ---
+Class: CMPT310
+Date: 2025-04-22 03:37:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+very good prof
+
+--- Rating #15 ---
+Class: CMPT310
+Date: 2025-04-22 02:12:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Just a copy paste of uv Berkeley and stills manages to mess everything up. Exams are nothing like the Berkeley ones or practice samples as he changes them to a point that only he can understand. Save yourself from him.
+
+--- Rating #16 ---
+Class: CMPT310
+Date: 2025-04-22 02:08:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Please do not take this course with him. Man does not know what he is teaching. He just knows how to yap and dodge questions. Copies everything from UC Berkeley. Also, someone should tell him that he is not funny.
+
+--- Rating #17 ---
+Class: CMPT310
+Date: 2025-04-21 20:14:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+In CMPT 310, I found my stride,
+With Nezami there to be my guide.
+From AI paths to search and play,
+He made the hardest things feel okay.
+
+The code we wrote was not just code,
+But steps along a thinker's road.
+Assignments tough, yet somehow fair,
+With just enough of challenge there.
+
+--- Rating #18 ---
+Class: CMPT310
+Date: 2025-04-21 20:10:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Took his course, leveled up. Brain went brrr. 10/10 would recommend. If you miss out? That's a you problem. &#128548;
+
+--- Rating #19 ---
+Class: CMPT310
+Date: 2025-04-21 20:04:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Midterms and final were super fair &#8212; no surprises. If you go to class and review slides, you'll be fine. He doesn't try to catch students off guard like some other profs.
+
+--- Rating #20 ---
+Class: CMPT310
+Date: 2025-04-21 20:01:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Exams were fair, focused more on understanding than memorization. Assignments were challenging but doable if you keep up. He's really responsive via email and is open to questions &#8212; never made anyone feel dumb for asking something.

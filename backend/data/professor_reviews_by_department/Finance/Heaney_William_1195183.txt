@@ -1,0 +1,11 @@
+Professor: William Heaney
+Professor Legacy ID: 1195183
+Professor ID: VGVhY2hlci0xMTk1MTgz
+Department (CSV): Finance
+Department (Fetched): Finance
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

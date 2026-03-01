@@ -1,0 +1,290 @@
+Professor: Ouldooz Karimi
+Professor Legacy ID: 1732693
+Professor ID: VGVhY2hlci0xNzMyNjkz
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2
+Avg Difficulty: 3.5
+Num Ratings: 97
+Would Take Again Percent: 23.7113
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT371
+Date: 2026-01-10 01:09:13 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+kinda boring, group projects are challenging, understand protocols well and you will do fine on them. Test are open book which is great. reading the textbook to supplement lectures helped me. 
+Not difficult, lots of memorization but overall nothing will catch off gaurd.
+
+--- Rating #2 ---
+Class: CMPT371
+Date: 2025-12-19 02:03:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prof is very knowledgeable and caring. The course is well-structured. Materials aren't always interesting, be proactive in class to get the most out of it. Workload is HEAVY. Projects offer bonus points. Designing an RTP in project #2 was rewarding. Open-book exams with high averages and no scale.
+
+--- Rating #3 ---
+Class: CMPT756
+Date: 2025-12-16 23:37:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+As a graduate-level course, the instructor should avoid putting too much shit on the slides that she does not fully understand herself.
+
+--- Rating #4 ---
+Class: CMPT371
+Date: 2025-12-16 04:33:12 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Test/quiz are open book. The class average was high. Though I didn't particularly benefit from lectures as I find that she mostly read off slides. I believe the 1 star reviews are too harsh. She seemed like she cared and was organized with her course. Group project is a bit vague, takes time. HW finish in few hours.
+
+--- Rating #5 ---
+Class: CMPT756
+Date: 2025-04-24 10:18:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Avoid this professor at all. Bad grader and teacher.
+
+--- Rating #6 ---
+Class: CMPT756
+Date: 2025-04-24 07:30:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+If confusion were a teaching strategy, this would be a masterclass. Disorganized lectures, no clear focus, and passive-aggressive responses to questions. Projects graded unfairly. The "clear pass" rule punishes students despite effort. Just a very frustrating and discouraging experience. Good luck for future MPCS students RIP
+
+--- Rating #7 ---
+Class: CMPT756
+Date: 2025-04-19 19:21:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+An EXTREMELY BAD instructor. Recommend avoiding her courses. 
+
+Gives very poor explanations of concepts. Slides are vague and lack examples. Quiz questions are odd. Unclear homework and project expectations. She lacks knowledge (eg. doesn't really get Spark).
+
+Her course was the WORST uni course I've ever taken. Many in my MPCS cohort dislike her.
+
+--- Rating #8 ---
+Class: CMPT756
+Date: 2025-03-06 05:28:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This course is like playing Dark Souls&#8212;you step in full of hope, armed with what little knowledge you have, only to be mercilessly struck down by something seemingly insignificant. Every concept feels like a relentless enemy, each problem set is a boss fight in disguise.
+
+--- Rating #9 ---
+Class: CMPT371
+Date: 2024-08-09 16:49:42 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The professor just reads off the lecture slides and just throws a mass amount of new vocabulary at you. You're better off just reading and doing question from the textbook + watching the author's videos online, it's the same content. The mini-projects req a partner and was tough due to the limited instructions. I didn't feel like I learned much...
+
+--- Rating #10 ---
+Class: CMPT371
+Date: 2024-08-09 16:46:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The professor is average at best, she spends time reading off lecture slides and you don't really learn much in class. The textbook author's videos on YouTube are a better watch along with the textbook questions and text itself. Mini-projects were kinda tough but there's only 2 of them. I just don't feel like I learned a lot in this class...
+
+--- Rating #11 ---
+Class: CMPT371
+Date: 2024-08-01 19:13:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Really nice professor. Even tho her lectures may not be the best, she definitely is really caring and helpful. I would recommend.
+
+--- Rating #12 ---
+Class: CMPT756
+Date: 2024-06-19 22:47:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+!!!AVOID AT ALL COSTS!!!
+
+My previous rating was removed for some reason, but try your best to avoid her classes.
+
+Passive-aggressive, the lecutre was EXTREMELY BORING.
+
+If you do take any of her classes, get ready to see concepts and stuff you have NEVER SEEN in any lecures.
+
+Don't delete this comment again
+
+--- Rating #13 ---
+Class: CMPT474
+Date: 2024-04-19 18:04:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The lectures and layout of the course content aren't great, and you will have to do a lot of self-learning. The term project has vague requirements but is thankfully marked leniently, and she is very helpful if you ask her for clarification. The active learning sessions are great for understanding the material, I wish there were more of those.
+
+--- Rating #14 ---
+Class: CMPT474
+Date: 2024-04-14 21:41:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I don't usually write RMP reviews but this is easily one of the worst teachers I've had in my whole life. You constantly have no idea what is going on in cIass. I basically had to make all of my own notes to help prepare for the midterm as her slides were just copy-pasted odds and ends from random websites and research papers. Waste of time.
+
+--- Rating #15 ---
+Class: CMPT756
+Date: 2024-04-12 01:52:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is just presenting the concept at a very high level; requirements are very vague and not marked lightly, so you never know what's important to know. Group project was a waste of time. Optional reading is not optional. Just study the papers and skip the class. 
+Distributed systems is interesting, though.
+
+--- Rating #16 ---
+Class: CMPT474
+Date: 2024-04-02 23:28:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Really poorly executed. Lecture content didn't map well onto other coursework, so there is constant uncertainty about what is important to know. Group project is probably the worst I have experienced at the school; requirements are very vague yet not marked lightly. The material is interesting, so I wish the class wasn't such a mess.
+
+--- Rating #17 ---
+Class: CMPT474
+Date: 2024-03-09 02:25:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+90% of coursework is trying to understand what a question is even asking you. 
+
+Most requirements are as clear as an opaque wall, lectures are ramblings of loosely connected streams of thoughts, and explanations usually come with a circular definition. 
+
+Course content is interesting, don't expect to learn or understand any of it though.
+
+--- Rating #18 ---
+Class: CMPT474
+Date: 2024-03-06 00:32:38 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Writing this comment while watching her lecture recording. She basically cannot explain any complicated concepts.
+I am going to search her lecture notes on google and Chat for better explanation with examples.
+
+--- Rating #19 ---
+Class: CMPT371
+Date: 2023-12-19 04:15:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+My biggest advice is to do practice problems from the textbook. The networking textbook also comes with lectures on youtube that are very helpful to supplement learning. Ouldooz has her own set of yt vids too. Assignments are hard, but quizzes/exams are easy/medium difficulty.
+
+--- Rating #20 ---
+Class: CMPT371
+Date: 2023-12-12 07:18:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+It's a yawn fest to put it bluntly. Recycles all the materials from Kurose / Ross textbook and basically reads off them verbatim. Didn't even try to make this course more interesting. Requires minimum weekly input. Little programming required. Open book everything.

@@ -1,0 +1,167 @@
+Professor: Sarah Ganter
+Professor Legacy ID: 2288838
+Professor ID: VGVhY2hlci0yMjg4ODM4
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 3.3
+Avg Difficulty: 3.8
+Num Ratings: 12
+Would Take Again Percent: 58.3333
+
+Ratings Count Returned: 12
+
+--- Rating #1 ---
+Class: CMNS333
+Date: 2025-07-03 11:27:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is very strict and brings this vibe of fear instead of passion into the classroom.
+
+--- Rating #2 ---
+Class: CMNS437
+Date: 2021-08-12 15:51:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+At first I struggled in this class. But Sarah's feedback was very detailed and helped me to improve a lot. I also discussed questions I had in the office hours and she was very supportive and motivating which helped me so much. This was definitly the course I improved the most so far!
+
+--- Rating #3 ---
+Class: CMNS333
+Date: 2020-10-08 15:31:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I took 230 and 333 with Sarah and liked both of her classes. She did an amazing job moving 333 online. I saw her responding to questions on on Slack during all day and night times, and her comments kept me motivated as I had to finish my project remotely. She does not give exeptions and extensions easily, but I think that is fair.
+
+--- Rating #4 ---
+Class: CMNS230
+Date: 2020-10-06 05:18:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She gets offended if called by her first name. MUST call her DR./Professor. She needs to be praised and is often disrespectful &amp; condescending. She is not the most encouraging professor.
+
+--- Rating #5 ---
+Class: CMNS230
+Date: 2020-01-21 19:21:25 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Sarah's PowerPoints are hard to read and seems like she put them together 20 min before lecture. The teaching assistants are the ones you should rely on to get a good grade.
+
+--- Rating #6 ---
+Class: CMNS437
+Date: 2019-08-16 04:38:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This course really grew on me. Sarah was enthusiastic and encouraging. She wanted us to improve and gave us plenty of opportunities. I understand she taught this particular course for the first time and she did a really great job. Would take the course with her again.
+
+--- Rating #7 ---
+Class: CMNS230
+Date: 2019-04-12 04:39:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Lecture readings were dry, but the lecture and course material itself were interesting. Midterm (30% - made out of study questions, no final), self-reflection (20%), and case study (30%) were well balanced. Lecture material was also super up to date and current, which made it more interesting.
+
+--- Rating #8 ---
+Class: CMNS230
+Date: 2019-03-23 22:20:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+So far, great course! Very clear and structured. The study questions for the midterm were beyond helplful and assignments are very reasonable. I actually enjoy her lectures, she involves the class with questions and makes dry materials interesting and recent.
+
+--- Rating #9 ---
+Class: CMNS230
+Date: 2019-01-03 05:33:48 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+To be honest, lectures were brutally boring. The content itself is dry and the readings are longish. However, she gives study questions that entirely make up the midterm exam. Supplement your answers with reading examples and it's an easy A. Start the case study early because it's worth 50%. Not a hard class, just study properly.
+
+--- Rating #10 ---
+Class: CMNS230
+Date: 2018-11-23 01:11:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Definitly NOT like many other Profs! Dr. Ganter is young, tough, knows what she is doing. She is German, probably therefore the 'ja?' ('right?') at the end of her sentences. Gives great examples from all over the world. Readings are very interesting and recent. 50% for the case study was too much. The study questions were helpful, TA not really.
+
+--- Rating #11 ---
+Class: CMNS230
+Date: 2018-11-21 15:50:39 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+50% case study, 30% midterm, 20% from tutorial &amp; presentation in tutorial. -&gt; Sarah rambles on a lot and sometimes is not clear on what she is trying to tell the class. -&gt; delivery is poor -&gt; Midterm is based on study questions she made. -&gt; sometimes takes attendance in class
+
+--- Rating #12 ---
+Class: CMNS333
+Date: 2018-10-31 13:48:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Loved this course. Sarah is a great Prof and very patient. I did not expect broadcast policy to be interesting, but turns out it is.

@@ -1,0 +1,275 @@
+Professor: Evgenia Ternovska
+Professor Legacy ID: 1448700
+Professor ID: VGVhY2hlci0xNDQ4NzAw
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.1
+Avg Difficulty: 3.7
+Num Ratings: 72
+Would Take Again Percent: 17.7778
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MACM101
+Date: 2026-01-30 07:45:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+MACM 101 with Dr. Ternovska was a good experience. We got feedback on assignments *before* resubmission for grading which guaranteed high marks. Furthermore, the example midterm/finals were very reflective of the actual exams. She's clearly passionate about sharing the fun & discovery of math with us. Office hours were great too, don't be shy!
+
+--- Rating #2 ---
+Class: MACM101
+Date: 2025-12-22 05:22:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+It was clear she was asked last minute to teach this class as she was using the other teacher's slides to teach. She did not provide good material to prepare for the midterms however after the second midterm's average was low, she made the final easier to compensate.
+
+--- Rating #3 ---
+Class: MACM101
+Date: 2025-12-10 20:05:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Go with other proffesors, or you would:
+- not understand anything in class and would be suffering in every single lecture
+- Chatgpt and TrevTutor and notebook and YOU would be your only teachers
+- She is CARELESS, DOESNT know how to TEACH so yeah why should study with someone who doesnt actually know how to do their job, like literally!
+
+--- Rating #4 ---
+Class: MACM101
+Date: 2025-11-21 22:47:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I didn't understand on her in the lectures, I used YouTube videos to understand the topics. The course is not well organized. Even the tutorials were not that beneficial, the TA doesn't really know the answer for most of students' questions
+
+--- Rating #5 ---
+Class: MACM101
+Date: 2025-10-29 07:03:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Cant explain properly in class and seems confused herself. Her speech isnt fluent and she doesnt speak confidently. Doesnt give fluent explanations.
+
+--- Rating #6 ---
+Class: MACM101
+Date: 2025-10-25 04:37:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+honestly the worst teacher I've had, if you think you are smart enough to pass you aren't think again. she seems like a genuine lady but just not a teacher by any means.
+
+--- Rating #7 ---
+Class: CMPT354
+Date: 2025-05-06 23:13:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Bad slides, decent tests/homeworks, and taught by one of the laziest professors in the CS department.
+She's nice, but no feedback was given on a group project that took weeks to complete. Another one of those classes that makes you question what university is even good for. Happy to be done with this one, can't justifiably recommend this professor
+
+--- Rating #8 ---
+Class: CMPT354
+Date: 2025-04-23 21:06:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Extremely easy class. Just read her slides and you'll get an A.
+
+--- Rating #9 ---
+Class: CMPT354
+Date: 2025-04-17 00:10:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The course content is actually very interesting and useful. But the lectures were brutal. The assignments were great, and were fair but still challenging questions. There wasn't enough practice questions available for each of the chapters. The only way to material for the course was the lectures.
+
+--- Rating #10 ---
+Class: CMPT354
+Date: 2025-04-16 23:58:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Just learn the material on your own. Her slides and approaches make it so difficult to understand. Examples are terribly chosen and make concepts more complex than they need to be.
+
+--- Rating #11 ---
+Class: CMPT354
+Date: 2025-04-16 05:02:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She's nice, but the class unfortunately isn't structured well and gets complicated easily. Studying on your own is a lot easier, tests were pretty hard but not terrible. For such an important class, it's better to have a prof who can teach well and is engaged.
+
+--- Rating #12 ---
+Class: CMPT354
+Date: 2025-04-14 22:26:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Evgenia is one of the most compassionate professors I've had at SFU. She genuinely cares about her students' wellbeing beyond just academics. She is very accessible outside of class, her quizzes and exams are very fair, she provides enough materials that prepare you well for exams.
+
+--- Rating #13 ---
+Class: CMPT354
+Date: 2025-04-14 22:17:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Her lectures aren't the best, but her assignments and exams are extremely fair.
+
+--- Rating #14 ---
+Class: CMPT354
+Date: 2025-03-22 01:58:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+not the best lecturer, but she gives very fair exams. One of the easier 300 level classes.
+
+--- Rating #15 ---
+Class: CMPT354
+Date: 2025-03-20 20:27:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+lectures are garbage and video lectures don't help at all (just her reading off the slides, no explanations). SO BORING THAT I WANTED TO DESTROY MY COMPUTER ATLEAST 3 TIMES / LECTURE. Concepts are too theoretical sometimes and impractical as hell.
+
+--- Rating #16 ---
+Class: CMPT354
+Date: 2025-03-07 22:52:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+HORRIBLE!. This course seriously made me want to drop out of CS and switch to a different major due to three reasons: 1) What we learnt is useless in the industry. Period. 2) She made it 20 times harder to learn the material due to poor explanations and lecture notes. 3) It was so boring I wanted to claw my eyes out.
+
+--- Rating #17 ---
+Class: CMPT354
+Date: 2024-08-09 18:19:12 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+You would find her reading from slides and her accent makes it difficult to understand her. Further, she comes off as detached and her midterm and final were tougher to score. As compared to other professors in the course, she taught more concepts that weren't required.
+
+--- Rating #18 ---
+Class: CMPT354
+Date: 2024-08-08 04:29:48 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She's not the best, but the course is easy so take it if you want.
+
+--- Rating #19 ---
+Class: CMPT354
+Date: 2024-04-13 09:16:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Avoid like the plague
+
+--- Rating #20 ---
+Class: CMPT354
+Date: 2024-03-18 18:57:43 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She cannot teach for the life of her. This was fine because finally I did not feel guilty when skipping her lectures and learning on my own as this course is easy enough to make that very doable. God bless indian youtubers. She cares about the students and responds fast on piazza. Her assignments are more difficult than exams.

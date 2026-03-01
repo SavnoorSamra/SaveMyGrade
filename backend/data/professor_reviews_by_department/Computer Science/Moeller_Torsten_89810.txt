@@ -1,0 +1,180 @@
+Professor: Torsten Moeller
+Professor Legacy ID: 89810
+Professor ID: VGVhY2hlci04OTgxMA==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.3
+Avg Difficulty: 4.5
+Num Ratings: 13
+Would Take Again Percent: -1
+
+Ratings Count Returned: 13
+
+--- Rating #1 ---
+Class: CMPT361
+Date: 2010-07-26 23:29:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I dropped this course early in the semester because of poor teaching and irrelevant therefore hard assignments.  You will have to learn openGL by yourself because the lectures only talks about concepts.  His teaching ability is poor and unorganized.  I hope there is another professor for this course since I am interested on the course subject.
+
+--- Rating #2 ---
+Class: CMPT361
+Date: 2008-10-18 18:05:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+This prof is a joke.  He doesn't care about what he teaches, how he teaches it, or how it is graded.  TA is always right with this prof, even when proven wrong...he just doesn't care.  Takes 2 weeks to reply to emails...only 5 people passed final!  Guaranteed F for 80% of the class, this is only CMPT class I failed in Univ.  Avoid at all cost!
+
+--- Rating #3 ---
+Class: CMPT361
+Date: 2007-12-27 00:38:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+No unfavorable profs are this irresponsible. Lec mostly dictionary graphic terms, interesting but totally irrelevant to asns/tests. DIY Math and Program. Unclear asn. Don't even ask he won't help.  20/22 students fail MT. Tests w/ stuff not in lec or text. And plenty of F. This isn't even a course. Only wastes your time, $, GPA, graphic interest :(
+
+--- Rating #4 ---
+Class: CMPT361
+Date: 2007-12-27 00:18:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+I had unfavorable profs, but none are even close to this completely irresponsible one. Lec mostly graphic terms out of the dictionary, interesting but totally irrelevant to his asns and tests. Asn outline unclear and he offers almost no help. Around 20/22 students
+
+--- Rating #5 ---
+Class: CMPT461
+Date: 2005-06-12 13:06:52 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Tough Course. Not so enjoyful
+
+--- Rating #6 ---
+Class: CMPT466
+Date: 2005-03-24 01:56:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Thinks before he says something. Knows the subject well.
+
+--- Rating #7 ---
+Class: CMPT461
+Date: 2005-03-09 02:11:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Does a good job teaching a very tough course, this should not be a 3 credit course!  Has an extreme interest in the course material, thinks about what he says and can respond to difficult questions.  Coming out of this course, I felt comfortable enough to reimplement most of the algorithms discussed
+
+--- Rating #8 ---
+Class: MATH461
+Date: 2003-09-20 02:06:31 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Worst. Lectures. Evar.
+
+--- Rating #9 ---
+Class: CMPT461
+Date: 2003-07-16 02:41:35 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+The project had nothing to do with the class. He was just re-reading the book to us off his slides. Didn't learn any practical skills in animation just howto use maya which we taught ourselves.
+
+--- Rating #10 ---
+Class: CMPT361
+Date: 2003-03-25 01:35:01 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #11 ---
+Class: CMPT
+Date: 2003-03-16 01:40:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He's by far the hottest prof in computing science.
+
+--- Rating #12 ---
+Class: CMPT361
+Date: 2003-02-01 02:05:57 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+TOUGH course, he teaches it as if it was 2 courses instead of 1!
+
+--- Rating #13 ---
+Class: CMPT461
+Date: 2002-12-01 02:40:24 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+i wouldn't complain if it were a 5 credit course

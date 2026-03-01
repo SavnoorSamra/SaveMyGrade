@@ -1,0 +1,90 @@
+Professor: Nigare Raheem
+Professor Legacy ID: 3084613
+Professor ID: VGVhY2hlci0zMDg0NjEz
+Department (CSV): Science
+Department (Fetched): Science
+Avg Rating: 4.3
+Avg Difficulty: 2.8
+Num Ratings: 6
+Would Take Again Percent: 83.3333
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: CHEM281
+Date: 2025-11-07 02:09:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Initially failed Ochem when I took it with another prof, but I found her teaching style much more understandable. She posted her marked lecture notes so you didn't fall too far behind if you couldn't make it to class. She could also be quite tough at times(so student beware), but very reasonable as well. If you have to take ochem, take it with her.
+
+--- Rating #2 ---
+Class: CHEM281
+Date: 2025-09-12 06:58:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+explanations were good and went through examples to help with understanding. but was always behind on lect. material bc would spend 20 mins reviewing prev lect. so ppl in LA labs struggled + synthesis was rushed before final.  exams were very fair, almost identical to practice exams. keep up w/ weekly problem sets and don't fall behind to do well.
+
+--- Rating #3 ---
+Class: CHEM281
+Date: 2025-09-10 06:19:41 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She explains things well but super fast in her lectures and I didn't always find her filled in notes helpful. Only does some examples in class but her practice exams are very similar to the actual exams. However, the labs were unfair most times as we had to do reports on things we learnt the day of or have not yet covered which was frustrating.
+
+--- Rating #4 ---
+Class: CHEM281
+Date: 2025-08-21 20:14:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I would not have survived ochem without her. I took one star off because she is a little fast when it comes to lectures especially during the last few but otherwise she is really good at explaining everything. very helpful in office hours. the practice exams gave a good layout of the actual exams and types of questions on them.
+
+--- Rating #5 ---
+Class: CHEM281
+Date: 2025-08-21 18:30:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+BEST CHEMISTRY PROF
+she broke everything down, very understandable, easy to follow along, highly recommend taking it with her
+
+--- Rating #6 ---
+Class: CHEM281
+Date: 2025-08-14 01:23:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Raheem is the best! Her lectures are amazing, her pace is good, she was great in the ochem lab, her exams are fair and reasonable, she gives you problem sets and practice exams for good practice. She's always there to help you if you need it. Ochem is a tough course and I wouldn't have survived without her, if you need 281, highly recommend!!

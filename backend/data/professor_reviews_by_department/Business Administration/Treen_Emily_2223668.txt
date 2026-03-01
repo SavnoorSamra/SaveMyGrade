@@ -1,0 +1,219 @@
+Professor: Emily Treen
+Professor Legacy ID: 2223668
+Professor ID: VGVhY2hlci0yMjIzNjY4
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.4
+Avg Difficulty: 2.5
+Num Ratings: 16
+Would Take Again Percent: 87.5
+
+Ratings Count Returned: 16
+
+--- Rating #1 ---
+Class: BUS345
+Date: 2024-01-08 21:36:26 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Emily is extremely kind and very approachable. She genuinely wants you to do well. The class was straightforward and depended on group projects. Her lectures aren't the most helpful for her exams though.
+
+--- Rating #2 ---
+Class: BUS443
+Date: 2024-01-04 16:59:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Emily is one of the most passionate and kind professors I have had during my time at SFU. Her classes aren't necessarily easy and you need to work hard if you want to achieve a good grade, but she's always willing to help out when needed.
+
+--- Rating #3 ---
+Class: BUS345
+Date: 2022-12-14 03:43:45 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+While she is nice, she is clearly and inexperienced prof. Her teaching style isn't very effective. Takes marks for participation but doesn't really teach anything in class (no examples she says are used in the exams). Very broad description of group projects given.
+
+--- Rating #4 ---
+Class: BUS345
+Date: 2022-12-07 06:05:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Probably the best professor I've had in Beedie. She is very sweet and clearly cares about her students and their learning experience. Overall very chill and approachable. Genuinely wants you to understand the content she teaches and is clearly passionate. Her exams and assignments are fair, and she's very understanding of students.
+
+--- Rating #5 ---
+Class: BUS447
+Date: 2022-06-29 02:18:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great professor, she is young so very relatable to students. The exams are very fair and nothing out of the blue, just go over the textbook. Go to her for help with the group project, not going was a mistake our group made. Overall great class and you learn a lot about how businesses are conducted in nations other than Canada.
+
+--- Rating #6 ---
+Class: BUS345
+Date: 2022-05-22 01:57:10 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Emily is very nice and approachable, but I feel like she's not very experienced with teaching yet. Her lectures are kind of dry and I didn't learn much. Midterm is easy if you study from the textbook.
+
+--- Rating #7 ---
+Class: BUS345
+Date: 2021-09-14 05:59:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I enjoyed taking the course with Emily so much! Whenever I have problems about the course content or the group project, Emily is always there to help me. The course was simple: 1 mid-term, 1 final, 2 discussion questions, and a group project. The group project was highly related to the course content, was helpful to better understand the content!
+
+--- Rating #8 ---
+Class: BUS449
+Date: 2020-12-03 01:21:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+This class is all about discussion and participation. If you follow the discussions you'll guarantee a B easily. Emily is a super nice person and makes the class as engaging as possible. Theres no textbook but she makes sure that the course content covers what you need to know. Very chill, easy to understand, down to earth and passionate
+
+--- Rating #9 ---
+Class: BUS341
+Date: 2019-12-14 00:34:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Right off the bat, she's not a set professor for SFU but a Ph.D. student in her final year that just teaches marketing. That being said, she is incredibly passionate about the topic and makes an effort to ensure understanding by every single student. She makes an active effort to know students by name and is readily and responsive to queries
+
+--- Rating #10 ---
+Class: BUS447
+Date: 2019-01-17 01:16:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Emily is the best prof I've had at SFU. Her lectures are very engaging and she is clearly passionate about marketing. Maybe it's because the class was only 40 people, but she made the effort to learn everyone's name and was friendly with all of us, which made it feel more like a peer-to-peer relationship, rather than teacher-to-student.
+
+--- Rating #11 ---
+Class: BUS447
+Date: 2018-07-05 02:29:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Hands down my favourite prof at SFU so far. Emily is very enthusiastic and passionate about what she teaches, and she is very understanding of all points of view. She is a fair marker because she takes individual logical explanations into consideration as she marks. Most of all, she is like a peer and is always willing to help with questions!
+
+--- Rating #12 ---
+Class: BUS341
+Date: 2018-01-15 12:43:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Emily's classes are always fun. Sometimes her logic is hard to follow because it is not always organized but I still enjoyed the course!
+
+--- Rating #13 ---
+Class: BUS341
+Date: 2017-09-08 21:57:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+For the first time I can't name a single flaw in a  prof. Incredibly thorough, caring, patient and engaging. I highly doubt anyone can replace her as my favourite prof.
+
+--- Rating #14 ---
+Class: BUS341
+Date: 2017-03-31 18:24:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I love her energy!  The contest is meh but there is nothing she can do about that. I hope she teaches more courses.
+
+--- Rating #15 ---
+Class: BUS341
+Date: 2017-02-10 13:15:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Emily is so energetic! I am having fun in 341, even though I don't like marketing.
+
+--- Rating #16 ---
+Class: BUS341
+Date: 2017-01-08 00:31:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+BUS 341 is not an easy course by any means because there's a lot of material to cover when it comes to exam time. The Professor, Emily, is what makes this course fun and interesting. Her interest towards the subject and her attitude towards students is unparalleled. An extremely unselfish person who places students at her #1 spot. Thank You Emily!!

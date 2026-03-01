@@ -1,0 +1,232 @@
+Professor: Veronica Dahl
+Professor Legacy ID: 76791
+Professor ID: VGVhY2hlci03Njc5MQ==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2
+Avg Difficulty: 3.7
+Num Ratings: 17
+Would Take Again Percent: -1
+
+Ratings Count Returned: 17
+
+--- Rating #1 ---
+Class: CMPT310
+Date: 2009-06-30 21:17:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+A &quot;language processing in Prolog&quot; class much more than it is an AI class.  Doesn't explain things well in lecture and the overall &quot;flow&quot; of the course seems disorganized.  I recommend seeing her outside of class or sending e-mails, she's very helpful and thorough there.  Overall, not as bad as some of the reviews here suggest, but not great either.
+
+--- Rating #2 ---
+Class: CMPT310
+Date: 2008-10-29 03:21:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+First of all she is so mean, and she has such a cheap character! Second, she does not understand that she's teaching undergrad not some grad students w/ tons of AI background! Exams do not make sense and they are so abstract. She is so unorganized. DO NOT TAKE THIS COURSE W/ HER!
+
+--- Rating #3 ---
+Class: CMPT310
+Date: 2006-10-04 21:29:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Do not take this course with her if you are actually interested in AI.  She is very knowledgeable in AI but her teaching abilities are terrible and she is not friendly to students.  A terrible prof. and not a nice person.
+
+--- Rating #4 ---
+Class: CMPT310
+Date: 2006-08-22 15:07:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+She is very knowledgeable, but a bit disorganized with her lectures. it is better if you know prolog pretty well before you take the class otherwise be prepare to master it. Her marking is pretty tough for the exams and midterms so study hard for them and you can easily get an A in the course. I would recomend taking her class!!
+
+--- Rating #5 ---
+Class: CMPT310
+Date: 2006-08-18 00:35:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+The absolute worst prof at SFU. Not helpful and mean to students. If you ask her to clarify on a point made during lecture she will glare at you and accuse you of not paying attention in class. During class she threatens to fail half the students then indulges herself by boasting about the things that she has done with her life.
+
+--- Rating #6 ---
+Class: CMPT310
+Date: 2004-09-04 22:11:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+This was the worst teacher I have ever had.  This was suppose to be an AI course but instead she made it into a course on the only thing she knows (Prolog).  The only problems is she doesn't know how to teach that either.  Rearranges the syllabus.
+
+--- Rating #7 ---
+Class: CMPT310
+Date: 2004-02-27 14:12:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: N
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+She never seemed prepared to teach. Made the class up as she went along. Changed the date of the final exam half way through the course which threw everyone. I felt like I didn't learn anything in the course and was glad when it ended.
+
+--- Rating #8 ---
+Class: CMPT310
+Date: 2003-12-07 01:11:13 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+A bit flakey
+
+--- Rating #9 ---
+Class: CMPT310
+Date: 2003-11-19 10:15:12 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No midterm = no idea what final will be like.  Lectures didn't prepare us well for assignments.  Moved final 2 weeks earlier &quot;for our benefit&quot;.
+
+--- Rating #10 ---
+Class: DBCLASS
+Date: 2003-04-04 00:13:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #11 ---
+Class: SCI303
+Date: 2003-02-18 19:47:15 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #12 ---
+Class: 310
+Date: 2003-02-06 14:03:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #13 ---
+Class: 310
+Date: 2002-12-02 22:58:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #14 ---
+Class: CMPT310
+Date: 2002-12-01 03:01:54 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #15 ---
+Class: CMPT310
+Date: 2002-11-28 06:49:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #16 ---
+Class: AI
+Date: 2002-11-13 00:41:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+so so. not helpful outside of class.
+
+--- Rating #17 ---
+Class: CMPT310
+Date: 2002-11-04 18:17:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+atrocious speaking/teaching abilities, arrogant, multiple complaints filed

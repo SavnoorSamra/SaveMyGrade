@@ -1,0 +1,275 @@
+Professor: M. Hasan
+Professor Legacy ID: 1736805
+Professor ID: VGVhY2hlci0xNzM2ODA1
+Department (CSV): Business Economics
+Department (Fetched): Business Economics
+Avg Rating: 4.5
+Avg Difficulty: 3.2
+Num Ratings: 243
+Would Take Again Percent: 90.7407
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ECON355
+Date: 2025-12-01 20:23:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Emrul is a great lecturer. His classes are clear and entertaining, and his tests are fair. He is very supportive in both academic and professional settings and always willing to help during his office hours. I'd recommend that anyone take his courses.
+
+--- Rating #2 ---
+Class: BUS207
+Date: 2025-06-10 00:34:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Emrul is an outstanding professor who makes learning difficult content so much easier through carefully explaining and applying the concepts described. There really is nobody better to take BUS 207 with.
+
+--- Rating #3 ---
+Class: BUS207
+Date: 2025-05-15 16:35:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Highly recommend Dr. Hasan. Come to lectures, as they are engaging and he gives real-world insights for everything. Dr. Hasan wants you to pass and he wants you to succeed. If he is teaching a class, take it.
+
+--- Rating #4 ---
+Class: BUS207
+Date: 2025-04-28 04:18:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Emrul is an outstanding instructor for 207. His lectures were engaging, connecting real-world concepts to bring managerial economics to life. The course is challenging and requires a lot of effort to get a good mark, but Professor Emrul's teaching style makes the material much more approachable and fun.
+
+--- Rating #5 ---
+Class: BUS207
+Date: 2025-04-13 06:28:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Amazing lecturer. 3 hour lectures passed by like nothing, very engaging and funny but also very passionate about what he teaches. Provides real world examples which help relate to the course content. Favourite professor I've had so far in my undergrad. Emrul is a gem.
+
+--- Rating #6 ---
+Class: BUS207
+Date: 2024-09-18 04:24:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Professor Hasan brings the course material to life with engaging real-world examples. Though the workload is demanding, his teaching style and commitment to student success make BUS207 an enriching experience. unstuckstudy ai was a helpful study tool alongside the course resources.
+
+--- Rating #7 ---
+Class: BUS207
+Date: 2024-06-02 03:18:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I don't normally give a 5/5 ratings but Emrul definitely deserves it. He makes class fun and explains the concepts very well. The course itself is hard but he made the lectures entertaining so the 3 hour classes didn't feel that long. However you need to put in the work for a good mark. I totally recommend taking 207 with him!
+
+--- Rating #8 ---
+Class: BUS207
+Date: 2024-04-20 02:17:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I didn't like the guy at the start. He skipped two weeks of our schedule due to absences, but as the weeks went on, his philosophy of respect, and justice where due reflected. All exams and projects were fair, and lectures were engaging despite the difficulty of its content. I kind of owe him one because he made economics fun again.  Thanks Emrul.
+
+--- Rating #9 ---
+Class: BUS207
+Date: 2023-12-27 08:26:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prof. Hasan genuinely cares about the success of his students. He knows the material very well so he doesn't usually teach from slides but rather takes a more organic approach to teaching. He is very good at simplifying tough concepts by drawing his own graphs and diagrams. Easily one of my favorite profs at SFU. A very nice person in general.
+
+--- Rating #10 ---
+Class: BUS207
+Date: 2023-11-18 03:39:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Heads up, there are 80 question MyLabs for each chapter, prof is a lil disorganized, and crazy group assignments. All in all though, prof was funny. I failed bus 207 before with Karen Ruckman and this man pulled me through the mud. Thanks Emrul, missing you everyday
+
+--- Rating #11 ---
+Class: BUS207
+Date: 2023-10-17 00:24:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+The course is hard but it was one of the relevant courses I was able to apply to my life. His real-life examples, stories, and teachings made the class very fun and engaging. At times he's a bit unorganized but it wasn't a big deal as you just have to review the assignments, mylab and textbook to succeed in the course.
+
+--- Rating #12 ---
+Class: BUS207
+Date: 2023-10-10 01:43:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+He was a good prof. Funny. Engaging. Man knows it all.
+
+--- Rating #13 ---
+Class: BUS207
+Date: 2023-09-13 19:34:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is caring and always try to be in his student's shoes. His teaching is fun as he brings real life examples to showcase the concepts. He is very friendly. Thanks to him I got my first A+ at SFU.
+
+--- Rating #14 ---
+Class: BUS207
+Date: 2023-08-22 18:07:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+nice guy, but could have been a better teacher and try to be more prompt with attendance
+
+--- Rating #15 ---
+Class: BUS207
+Date: 2023-08-21 20:22:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Out of the other bus 207 prof, the prof was the best for me because of his grading structure. His grading isnt 100% exam based, and if it was, I would of failed. I failed my midterm & was below average by ALOT but came thru in the final. It was because he has assignments part of our grade to save it & made final worth more if you did better on it
+
+--- Rating #16 ---
+Class: BUS207
+Date: 2023-08-16 15:55:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This professor is the best I have had so far! He is just too good. His explanations, examples and practicality is outstanding. This is one of the most useful courses you will take in your program but only if you are doing it with Emrul.
+
+I highly highly recommend him!
+
+--- Rating #17 ---
+Class: BUS207
+Date: 2023-08-15 23:32:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+What an absolute South Asian Gem! He made the final easy (concept-based) and similar to the group assignments so his students could do well. He gives a lot of homework but he is flexible with the deadlines if you ask for an extension beforehand. 
+
+Loved his jokes, especially about cricket and the baby milk formulae (iykyk). Would recommend 10/10
+
+--- Rating #18 ---
+Class: BUS207
+Date: 2023-08-15 20:31:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I honestly thought I was going to get a C+ for this course since I was below the average for the group assignment and midterm, but hurray! Curve saved my grade. Best prof ever!!!
+
+--- Rating #19 ---
+Class: BUS207
+Date: 2023-08-12 22:16:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+had a great time in his class and his exams/assignments were fair, directly taken from the textbook/mylabs
+
+--- Rating #20 ---
+Class: BUS207
+Date: 2023-08-11 06:04:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great guy, and tells great stories. Gives real world examples to relate to material. Assignments were fair and gave us enough time to complete them. Funny guy, lectures were always interesting. Liked how he would do in class examples, then dive into the material. Truly understands his students, definitely recommend.

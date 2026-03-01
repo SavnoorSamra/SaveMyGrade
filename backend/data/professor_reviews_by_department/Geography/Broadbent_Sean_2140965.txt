@@ -1,0 +1,37 @@
+Professor: Sean Broadbent
+Professor Legacy ID: 2140965
+Professor ID: VGVhY2hlci0yMTQwOTY1
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 4.3
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: GEOG426
+Date: 2016-11-10 21:53:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Sean is a good prof. I'll stat with the negative. The only thing I can see being a problem is he sometimes seems disengaged with the content. I think he was forced into teaching this class which might have something to do with it. Either way I learned a lot from Sean. He really knows a lot about the material and is very approachable Take his class!
+
+--- Rating #2 ---
+Class: GEOG426
+Date: 2016-05-08 15:39:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I took Geo 426 with Sean in spring 2016. Stemming from Sean's research on resource extraction practices of British Columbia, the course focused on both the history and present challenges of BC's forestry industry. Sean lectured the material in a clear and interesting manner, was extremely open to student ideas and was a fair marker. Would reccomend

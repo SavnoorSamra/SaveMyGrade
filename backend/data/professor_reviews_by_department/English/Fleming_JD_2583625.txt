@@ -1,0 +1,258 @@
+Professor: JD Fleming
+Professor Legacy ID: 2583625
+Professor ID: VGVhY2hlci0yNTgzNjI1
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 4
+Avg Difficulty: 3.1
+Num Ratings: 19
+Would Take Again Percent: 78.9474
+
+Ratings Count Returned: 19
+
+--- Rating #1 ---
+Class: ENGL115W
+Date: 2026-01-06 21:59:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Class was ok read 2/6 books and ended with a B+, as long as you go to class you're fine. Sometimes he's vague when describing assignments, but his lectures are really funny to me icl. Chill class
+
+--- Rating #2 ---
+Class: ENGL115W
+Date: 2025-12-19 22:23:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great professor overall with amazing lectures
+
+--- Rating #3 ---
+Class: ENGL115W
+Date: 2025-12-18 23:09:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great prof overall, would be happy to take him again - Course had a lot of reading material, but comfortably enough time was given to complete them - Lectures were informative, engaging, and sometimes somewhat funny (jokes)
+
+--- Rating #4 ---
+Class: ENGL115W
+Date: 2025-12-16 21:55:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He makes lectures really interesting but it's easy to get lost if you aren't paying attention. Questions for final are genuinely posted out beforehand making life so much easier. Be warned that vocab matching is VERY subjective. Course-wise, be friends with your TA. They are the one marking all your work.
+
+--- Rating #5 ---
+Class: ENGL115W
+Date: 2025-12-01 03:01:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+JD had interesting lectures, and it was nice to go and listen to him. However, he is very vague on what the assignments would be graded on, so it's really a guessing game. The final is really easy, and all the questions were given beforehand (you literally can't fail unless you misunderstand the questions). Not many assignments either.
+
+--- Rating #6 ---
+Class: ENGL211
+Date: 2025-04-29 15:37:04 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Do you want a prof you can never please? Who gets upset if you use classroom material in your essay? Well look no further than JD Fleming. No matter how much effort or thought you put into your work it will never be enough. Feedback? Vague Grading? Inconsistent. If you want a class where you walk away confused or frustrated this is the one for you
+
+--- Rating #7 ---
+Class: ENGL216
+Date: 2025-02-06 18:44:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Fleming is really knowledgeable professor and you can see his passion come out in his lecture style. No slides posted and the readings were pretty dry, but if you show up and take detailed notes you will do fine on the papers and the final exam! Super patient guy and was willing to take extra time when the class was struggling with certain topics.
+
+--- Rating #8 ---
+Class: ENGL376
+Date: 2024-11-07 08:34:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best professor I've ever had. I find it difficult to pay attention in other lectures, but this prof is so captivating and makes it easy for you to pay attention and engage. He makes all of the material easy to learn, and cares about his students. I highly recommend taking a class with him, you won't regret it.
+
+--- Rating #9 ---
+Class: ENGL211
+Date: 2023-04-27 05:23:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures can be a bit rambling but once he finds his rhythm they can be really amazing. Funny and seems kind enough. He places an emphasis on creating unique ideas and pieces of writing. Definitely have to work do well, but everything is done fairly.
+
+--- Rating #10 ---
+Class: ENGL211
+Date: 2023-04-26 21:48:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures were excellent and enjoyable. Readings were hard, but he explains them in depth. Funny and kind. No marks for participation. Only midterm paper, term paper, and final exam. The final was open-book with devices.
+
+--- Rating #11 ---
+Class: ENGL115W
+Date: 2023-04-23 08:02:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I thought that the professor was great. Class was very welcoming to first year students. Lectures provided good analysis of the books.
+
+--- Rating #12 ---
+Class: ENGL115W
+Date: 2023-01-04 22:04:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The prof knew his stuff and lectures were full of things you needed to do well on the final. I didn't go to lectures for the most part, and that is the reason for getting a B. Definitely go for lectures and tutorials are pretty straightforward. As for the creative project in the class, start working on it ASAP. Read text overviews in week 1-2.
+
+--- Rating #13 ---
+Class: ENGL115W
+Date: 2022-12-31 23:33:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His lectures were helpful for understanding the books, but they are not mandatory and skipping them would be fine if they are easy for you. Your mark is dependent on the TA's marking style. There is a final paper worth 35% of your mark and an exam worth 30%. The exam is easy because he provides the questions before the exam.
+
+--- Rating #14 ---
+Class: ENGL115W
+Date: 2022-12-05 21:41:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is very welcoming and accommodating. Lectures were slightly boring, but helpful. Take notes, because he elaborates a lot about the readings and also goes through review questions. I had a good T.A., so that made things better as well. Overall, he can be draining for some people, but I enjoyed his class. Perfect for first-year English majors.
+
+--- Rating #15 ---
+Class: ENGL115W
+Date: 2022-12-01 05:17:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Super passionate and a compelling speaker. Attending lectures helps with understanding of readings. (There is a lot of reading so plan your reading and start reading before the course starts if you can.) Can be bit vague about essay structures and rules. Best to ask your TA about these. Would recommend, especially if you're into English.
+
+--- Rating #16 ---
+Class: ENGL216
+Date: 2021-12-07 23:18:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Fleming is a character for sure. Enjoyed his class although the content was all over the place. He is a fair marker and leaves lots of comments on your papers. The papers themselves also have very broad topics with not much constraining criteria which personally I liked. Would take another class with him, but 216 was not my favourite.
+
+--- Rating #17 ---
+Class: ENGL115
+Date: 2021-03-23 16:58:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Material in lectures was helpful in writing the papers. I never read the books themselves; you can scrape by on Litcharts, as you're not required to know the specifics of the books, just the gist of it and then connect it to a certain theme--last semester's was &quot;recognition.&quot; The amount of writing isn't super onerous. Only like 12 pages for the sem
+
+--- Rating #18 ---
+Class: ENGL115
+Date: 2021-03-01 02:02:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I highly recommend taking this class with another prof. This was a first year course but it's as if he expects you to come in having already mastered how to analyze english literature. His lectures were long and vague as were his responses to questions. He shut down students ideas in class and the comments on assignments were borderline rude.
+
+--- Rating #19 ---
+Class: ENGL115W
+Date: 2021-01-13 23:33:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Took this in my first semester. I decided early that English is not my thing, but Dr. Fleming's lectures were engaging and informative, and he made what would otherwise have been a slog an enjoyable class. He is a rather slow talker, but lectures were through Youtube (yay Covid...) so I bumped up the speed. Excellent for my first English course!

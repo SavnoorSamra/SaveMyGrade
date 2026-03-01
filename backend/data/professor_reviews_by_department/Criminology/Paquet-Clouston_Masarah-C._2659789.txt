@@ -1,0 +1,63 @@
+Professor: Masarah-C. Paquet-Clouston
+Professor Legacy ID: 2659789
+Professor ID: VGVhY2hlci0yNjU5Nzg5
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 4
+Avg Difficulty: 3.5
+Num Ratings: 4
+Would Take Again Percent: 50
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: CRIM380
+Date: 2021-11-23 15:02:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The course was all-emcompassing including practical exercises to trace cybercrime activities, introduction to various theories and interesting readings. I appreciated the flexibility of the teacher given the remote teaching.
+
+--- Rating #2 ---
+Class: CRIM380
+Date: 2021-10-26 17:02:41 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+The course is easy, but Masarah is a little difficult to follow along with, as she reads off lecture slides quickly. The quizzes are easy, and I thought the midterm was easy too. The TA was genuinely bad though. Cicilia provided almost no feedback, and I had to get my final paper re-graded because apparently the TA thinks I'm a &quot;60% range student.&quot;
+
+--- Rating #3 ---
+Class: CRIM380
+Date: 2021-03-31 07:36:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+CRIM 380 was fantastic with Masarah. The lectures were interesting with many easy, but very useful cyber tools to dig your hands into. Hands on practices were included in lectures, while quizzes are based upon them. They were easy to do, while actually helping you work with different parts of the cyberspace instead of dry lectures. Had a good time.
+
+--- Rating #4 ---
+Class: CRIM380
+Date: 2020-12-25 19:40:01 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Quizzes were fairly easy and fun to do. The course content was interesting. She does not answer students' questions until the break or at the end of the lecture. She just reads off her slides and talks too fast. The questions in the exam are vague.

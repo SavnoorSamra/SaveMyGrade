@@ -1,0 +1,271 @@
+Professor: Natalia Kouzniak
+Professor Legacy ID: 611900
+Professor ID: VGVhY2hlci02MTE5MDA=
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.7
+Avg Difficulty: 3.8
+Num Ratings: 53
+Would Take Again Percent: 56.5217
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH151
+Date: 2025-02-27 08:04:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+"i will leave this to your capable hands"
+
+--- Rating #2 ---
+Class: MATH150
+Date: 2025-02-14 19:14:39 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Decent professor, midterms were somewhat fair and final was not the worst. Would recommend doing the seminar questions and the webassign as those will make sure you know what you are doing
+
+--- Rating #3 ---
+Class: MATH151
+Date: 2024-12-19 11:46:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I thought Dr. K was a great professor. Her exams are incredibly fair, and as long as you attend the lectures, (ALL OF THEM, especially at the end of the semester), you'll do good. She highlights types of questions you will see on exams, and some of the hw she gives- specifically the seminar hw, will be v similar to the quizzes.  Good luck!!
+
+--- Rating #4 ---
+Class: MATH150
+Date: 2024-11-21 08:47:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I didn't like her initially, but once I started putting in some effort and just did my work I began to like her, and she was pretty helpful in tutorials. Reccomend taking her
+
+--- Rating #5 ---
+Class: MATH150
+Date: 2024-10-19 23:01:43 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Kouzniak has good lectures and her notes are very thorough, despite not finishing them on occasion. Offers lots of resources and office hours to succeed. However, the Math150 seminars were another story, as you'd get berated for not knowing how to do problems. Very hostile learning environment in the seminars, make sure u prepare well.
+
+--- Rating #6 ---
+Class: MATH150
+Date: 2024-05-05 06:28:13 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Midterms and finals were difficult. Quizzes consisting of 2 questions every week affect the average by 10 percent. If you wanna study 15 hours per week just for math then take it, otherwise pass this prof.
+
+--- Rating #7 ---
+Class: MATH150
+Date: 2024-04-19 21:43:15 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+she is a great lecturer when she does finish notes, but most of the times she didnt. i liked her bc she was organized and offered video lecs w notes. however, seminars were an absolute nightmare. expect to get yelled at least once everytime ur in there. id only recommend math150 if u have no calc exp. if you do, take 151 instead and save ur sanity
+
+--- Rating #8 ---
+Class: MATH150
+Date: 2024-01-12 22:12:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I feel Dr. Kouzniak gets a lot of hate that she does not deserve. Although I did not get the grade I wanted, I had to respect her effort to really encourage students to do well. What I really enjoyed about her was the amount of resources from videos to seminar answer sheets. She pushes people alot which for some may seem bad, but she is just caring
+
+--- Rating #9 ---
+Class: MATH151
+Date: 2023-12-25 02:09:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+If you have never taken calculus before in university then this course with Dr. K might be very challenging. Each day she covered a brand new topic and mostly skimmed through the intro and did the easy examples, therefore when doing homework, such as webassign and crowdmark seminars, the difficulty of the questions was a lot harder.
+
+--- Rating #10 ---
+Class: MATH151
+Date: 2023-12-16 08:09:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She was pretty good at teaching but would often rush through the lecture and skip over hard details. You have to be very specific in your answers to receive full marks and she was never inviting to ask questions.
+
+--- Rating #11 ---
+Class: MATH150
+Date: 2023-12-16 08:09:53 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+She never finished a lecture fully and always had trouble managing her time. Very harsh towards those who would ask questions whether it was mid-class or office hours. She was an okay prof when it came to teaching but everything had to be solved her way or lots of marks would be deducted.
+
+--- Rating #12 ---
+Class: MATH150
+Date: 2023-04-24 22:42:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great lectures and explanations. This class is a LOT of work and fast paced!! You need to put in the effort to do well. She can be slightly intimidating but will always try to ensure you understand the content. Midterms and final were fair but not easy.
+
+--- Rating #13 ---
+Class: MATH150
+Date: 2023-01-24 21:07:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Math 151 and lectures are fine. Don't take Math 150 with her. She comes to seminars, yells when work is not her style. Instead of two seminar questions that are due, expects you to bring entire seminar draft. Yelled at boy for being 2 min late about his bad midterm. Big difference in seminars with her and in Burnaby where its just TA and calm.
+
+--- Rating #14 ---
+Class: MATH150
+Date: 2023-01-04 08:18:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This class overall is a very heavy course load, and Natalia gave a lot of resources and information to help students. She was very accessible and put a lot of effort in to helping students improve. Overall I would say she is a great prof, just beware that Math 151 itself is difficult.
+
+--- Rating #15 ---
+Class: MATH150
+Date: 2023-01-04 07:30:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+gave lots of resources, responded to emails quickly, lectures were helpful, overall an amazing prof. bad reviews are mostly from course content and have nothing to do with natalia's actual teaching ability, she listens to student feedback and tests are fair. Great prof overall
+
+--- Rating #16 ---
+Class: MATH150
+Date: 2022-12-31 21:33:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Kouzniak is a solid professor. Very easy midterms and decent quizzes if you study the material as all the content are questions from the weekly assignments. Funny during lectures, but just make sure it isn't at your expense! Try to attend all lectures leading up to the finals as she may give hints for the hard questions on assignments.
+
+--- Rating #17 ---
+Class: MATH150
+Date: 2022-12-19 06:25:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing professor! seriously cares about her students and provides constructive criticism. Can be a bit harsh but she just wants the best. She is also hilarious!
+
+--- Rating #18 ---
+Class: MATH155
+Date: 2021-11-23 20:32:40 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+She was hard to understand during lecture and did not go into enough detail on calculus concepts. She expected everyone to know info from MATH154, and was rude if you asked &quot;dumb&quot; questions.
+
+--- Rating #19 ---
+Class: MATH155
+Date: 2021-04-27 21:50:32 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I can see Dr. Kouzniak wanting her students to succeed. She's definitely not scary, but she has a straight forward teaching style since math is a tough subject. I'd recommend taking her.
+
+--- Rating #20 ---
+Class: MATH155
+Date: 2021-03-23 07:01:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Dr. Kouzniak is extremely rude toward her students and gets annoyed when anyone used the chat to ask questions. During midterms and weekly quizzes, she doesn't mute herself and continues to talk loudly, distracting everyone. Midterms are fair, but her lectures are unclear and you basically teach yourself the entire course. Avoid her if you can.

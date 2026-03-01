@@ -1,0 +1,24 @@
+Professor: Btara Truhandarien
+Professor Legacy ID: 2482209
+Professor ID: VGVhY2hlci0yNDgyMjA5
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: CMPT225
+Date: 2019-04-21 20:20:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He says he's fair and a true gem. He tries to be funny but you won't laugh when you see your grade. If you don't have the exact expected output be ready to get 0. It's pass or fail. Quoting him &quot;excels in hardship&quot;. Be ready to be forged by the trial by FIRE.

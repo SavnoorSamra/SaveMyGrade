@@ -1,0 +1,50 @@
+Professor: Modupeoluwa Jebutu
+Professor Legacy ID: 2129111
+Professor ID: VGVhY2hlci0yMTI5MTEx
+Department (CSV): French
+Department (Fetched): French
+Avg Rating: 2.5
+Avg Difficulty: 3
+Num Ratings: 3
+Would Take Again Percent: -1
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: FRENCH122
+Date: 2016-05-25 20:17:19 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Class was fun and wasn't all that difficult, but she doesn't really do a good job in describing at times.
+
+--- Rating #2 ---
+Class: FR122
+Date: 2016-04-28 07:00:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She's helpful sometimes, but you wont get what shes talking about. Then she will just give up and you'll realize that google can do a better job.
+
+--- Rating #3 ---
+Class: FR122
+Date: 2016-04-28 04:02:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She's unclear, not that great at explaining things. Nice, but I don't feel much better in French after taking the course. Take it with the other teacher if you can, she's much cooler.

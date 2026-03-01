@@ -1,0 +1,141 @@
+Professor: Colin Weir
+Professor Legacy ID: 1883244
+Professor ID: VGVhY2hlci0xODgzMjQ0
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.6
+Avg Difficulty: 2.5
+Num Ratings: 10
+Would Take Again Percent: -1
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: MATH152
+Date: 2015-08-11 00:19:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Although notes were made by another great professor, he explains the content clearly & gives funny, useful insight on it. Concepts are easy, but Calculus II is difficult unless you practice a lot! His exams are hard but agreeable. Eager to help, and humble too. Motivates us to do better on exams. With him, Math is fun. Beard is on point, btw!
+
+--- Rating #2 ---
+Class: MATH152
+Date: 2015-05-19 19:44:03 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Easiest Math 152 prof at SFU, obviously not an easy class but he makes it easy, chooses the easier questions for midterms and finals, great prof!
+
+--- Rating #3 ---
+Class: MATH152
+Date: 2015-04-24 01:30:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Very engaging prof
+
+--- Rating #4 ---
+Class: MATH152
+Date: 2015-04-22 19:49:38 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+If you do the questions he assigns, you'll easily get a B. If you do more, its very easy to get an A+ in this class.
+
+--- Rating #5 ---
+Class: 152
+Date: 2015-04-14 15:09:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+hes alright
+
+--- Rating #6 ---
+Class: 152
+Date: 2015-03-21 02:05:11 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+colin is a good prof. he is funny, a bit sarcastic, and definitely helpful if you ask! he is really available for help in the open lab and stuff, i would say. lectures are meh. tests are HARD, but not impossible if you study  do homework. i have no real complaints. you basically only need the textbook for the homework
+
+--- Rating #7 ---
+Class: MATH152
+Date: 2014-09-01 00:50:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Super nice guy. Does surveys to find out when he should set up office hours. Always available to help. Gives you a note package at the beginning that you have to follow along and fill out. Tests are super easy if you follow his notes and do the homework
+
+--- Rating #8 ---
+Class: MATH152
+Date: 2014-04-19 14:17:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Funniest prof I've ever had. He made the class laugh every lecture. Generally easy-going, and tests are fair.
+
+--- Rating #9 ---
+Class: MATH152
+Date: 2014-04-04 20:23:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+His test aren't incredibly easy and they're not hard. They are very straight forward and fair. He's a pretty good prof considering that it is his FIRST time teaching. Obviously to become a good teacher you need to gain experience by teaching. Also he's got a good sense of humor and he's lenient with grading.
+
+--- Rating #10 ---
+Class: MATH152
+Date: 2014-03-07 01:56:46 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+he is a good guy but not a good prof. His teaching skills are terrible probably becuz it's his first time teaching. Exams are easy if you can study all by yourselves.

@@ -1,0 +1,225 @@
+Professor: Xingdong Yang
+Professor Legacy ID: 2810467
+Professor ID: VGVhY2hlci0yODEwNDY3
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.9
+Avg Difficulty: 4.1
+Num Ratings: 16
+Would Take Again Percent: 50
+
+Ratings Count Returned: 16
+
+--- Rating #1 ---
+Class: CMPT362
+Date: 2025-01-18 08:44:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I took XD's class for CMPT 469/863, interaction methods in HCI, which was a paper-reading class. He was really flexible with the format and the final project was fun to do. Recommend if you want to do research in the future to take the class.
+
+--- Rating #2 ---
+Class: CMPT362
+Date: 2024-12-17 23:37:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great professor. Very approachable and caring. Lectures are great even though attendance is not mandatory.
+
+--- Rating #3 ---
+Class: CMPT362
+Date: 2024-12-17 02:48:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His teachings are very high quality, the course is very good at applying knowledge to practical applications and he's always eager to clarify any confusing material. However, you have 6 assignments + 1 group project which is very time-consuming and can be quite exhausting. Assignments and the project also don't have a clear criteria of what to do.
+
+--- Rating #4 ---
+Class: CMPT362
+Date: 2023-12-20 06:19:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is one of the only two good cs professor I had during my whole time in SFU. He's super great, clear crystal lectures and cares about students. I'll miss this class
+
+--- Rating #5 ---
+Class: CMPT362
+Date: 2023-12-18 21:28:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The class isn't difficult in itself but requires a lot of effort. Assignment content is already covered in class. But for the project his effort expectations are unrealistic. Make your own small group. Make sure the pitch videos are perfect and not choppy, he ducks points for silly things like that.
+
+--- Rating #6 ---
+Class: CMPT362
+Date: 2023-03-11 21:14:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This course is highly valuable, but it requires a significant time commitment to complete the assignments. The instructor lowers the overall grade, but grades each individual assignment or group project fairly. If you approach each assignment with care, achieving a perfect score is not particularly challenging.
+
+--- Rating #7 ---
+Class: CMPT362
+Date: 2022-12-20 22:43:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures were great. He frequently demos code in class which we can apply to our assignments. The assignments' requirements were often not clear, but the assignments themselves were easy/moderate in difficulty. Final group project meant we had no final exam. Biggest problem was the curving was insane with most people going down a full letter grade.
+
+--- Rating #8 ---
+Class: CMPT362
+Date: 2022-12-20 19:30:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's nice and accessible, but the final grade curved is just unbelievable. He curved down the whole class either 1 grade or 2 grades down! Many people's grades are D or F  because of that. Plus, the assignments and group project are heavy and long. Where's the fairness?
+Grade scale:
+A+ 97 A 94 A- 90 B+ 87 B 84 B- 80 C+ 77 C 73 C- 70 D 60 F
+
+--- Rating #9 ---
+Class: CMPT362
+Date: 2022-12-19 23:02:12 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+It was incredibly disrespectful that he would post a recorded lecture if his class fell on a holiday. This happened for both Rememberance Day and National Truth and Reconciliation day. I have lost family in the military. That was their day to be remembered, not to make up class time. 
+
+Clear lecturer, but this class takes up way too much time.
+
+--- Rating #10 ---
+Class: CMPT362
+Date: 2022-12-19 21:39:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I liked the lectures and how he streamed+recorded them. But the amount he scaled down was insane for the amount of time the course requires. Went down 3 grades because of it.
+
+--- Rating #11 ---
+Class: CMPT362
+Date: 2022-12-19 18:59:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Honestly he is good at explaining concepts, however, my grade was scaled down from A- to a B. I spent so many hours for this course and I am so fraustrated with this grading. I also have 2 other 300 level computing courses and I had to mostly focus on this course. Definiitly would not recommend if you care about your GPA.
+
+--- Rating #12 ---
+Class: CMPT362
+Date: 2022-12-19 07:44:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Although the professor's teaching quality is very good, but I don't understand why the scale down grade in the end. Maybe he thinks the reason our grades are good is because the project is very simple. The workload of this course is even heavier than 400-level cmpt course. With extremely hard work, 85% only got a B.
+
+--- Rating #13 ---
+Class: CMPT362
+Date: 2022-12-19 07:26:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Anything between 60 to 70 was a D. 
+11 people got D
+7 people F
+
+--- Rating #14 ---
+Class: CMPT362
+Date: 2022-12-19 06:30:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Even though lectures were great and learnt a lot but after all this hard work B-  after scoring more than 80 and B after scoring almost 85.
+
+--- Rating #15 ---
+Class: CMPT362
+Date: 2022-12-19 06:30:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Course load was higher than my 400 level courses and in the end he scaled down my A- to a B. Such a waste of time.
+
+--- Rating #16 ---
+Class: CMPT362
+Date: 2022-12-19 00:17:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The prof was great! I like his style of teaching. He sits and codes. Explains concepts thoroughly. Heavy load course TBH. But it is understandable. This is a third-year CMPT course. I would take other courses with him in the future for sure.

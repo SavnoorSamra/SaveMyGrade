@@ -1,0 +1,128 @@
+Professor: Homa Eghbali
+Professor Legacy ID: 1735491
+Professor ID: VGVhY2hlci0xNzM1NDkx
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 4.7
+Avg Difficulty: 2.1
+Num Ratings: 9
+Would Take Again Percent: -1
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: ENSC325
+Date: 2014-07-04 14:42:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Simply THE BEST PROF you can ever have for a hard and annoying course. She makes everything so easy to understand!
+
+--- Rating #2 ---
+Class: ENSC325
+Date: 2013-12-17 20:22:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I dont normally rate profs on this site, but she deserves a good rating. I recommend taking every course you can with her
+
+--- Rating #3 ---
+Class: ENSC325
+Date: 2013-08-28 18:09:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She is definitely one of the best professors at SFU. Very approachable and will go out of her way to help students. Assignments might seem long, but are the most helpful resources (she likes picking questions from assignments and quizzes for midterms)!
+
+--- Rating #4 ---
+Class: ENSC325
+Date: 2013-08-20 13:58:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+She's awesome. Great teaching style and attitude. Really approachable, helpful, and very easy on the eyes.
+
+--- Rating #5 ---
+Class: ENSC325
+Date: 2013-07-30 19:40:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+The amount of enthusiasm she shows is contagious amongst students.Attending her class makes you want to learn in such an important course. Always available to help students.                    (with that nice attitude its really hard to miss her lectures, even at 8.30am in the morning :))
+
+--- Rating #6 ---
+Class: ENSC325
+Date: 2013-07-16 08:01:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+BEST PROFESSOR!!! I really like her attitude towards students. doesn't have Professor kinda attitude at all and so, every student will absolutely love the way she teaches and interact.
+
+--- Rating #7 ---
+Class: ENSC325
+Date: 2013-07-11 15:09:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+She is really nice. Exams are easy. she wants you to get a good mark!
+
+--- Rating #8 ---
+Class: ENSC325
+Date: 2013-07-02 21:02:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Homa is a really nice professor. Very enthusiastic about what she's teaching.
+
+--- Rating #9 ---
+Class: ENSC325
+Date: 2012-07-19 21:29:16 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+NOTHING IS DIFFICULT!

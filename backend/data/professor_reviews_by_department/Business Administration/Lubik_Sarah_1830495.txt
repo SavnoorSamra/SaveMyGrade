@@ -1,0 +1,167 @@
+Professor: Sarah Lubik
+Professor Legacy ID: 1830495
+Professor ID: VGVhY2hlci0xODMwNDk1
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.3
+Avg Difficulty: 2.3
+Num Ratings: 12
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 12
+
+--- Rating #1 ---
+Class: BUS477
+Date: 2020-07-17 22:23:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great professor! Helped kick start my career, really cares for the students!
+
+--- Rating #2 ---
+Class: BUS338
+Date: 2019-06-29 07:35:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Arrogant and rude. Dismissive attitude towards students.
+
+--- Rating #3 ---
+Class: BUS338
+Date: 2017-09-20 14:30:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+If you take entrepreneurship with Sarah, two things will happen... You WILL launch an enterprise, and you WILL want to study entrepreneurship more!
+
+--- Rating #4 ---
+Class: BUS338
+Date: 2015-11-30 16:43:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Sarah is enthusiastic, fun and fair.  I liked taking 338 with her!
+
+--- Rating #5 ---
+Class: BUS338
+Date: 2015-11-27 01:33:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Sarah is the epitome of a professor. She is very passionate about her course content and she truly cares for her students in and out of the classroom. Her entrepreneurial experiences really make the class memorable and educational. I cannot explain how much her advice and knowledge helped me through my journey as an aspiring entrepreneur.
+
+--- Rating #6 ---
+Class: BUS338
+Date: 2015-11-18 12:51:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great prof, great course!
+
+--- Rating #7 ---
+Class: BUS338
+Date: 2015-05-10 02:54:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+You have to try really hard to get on her bad side. Amazing prof! Truly inspires entrepreneurship and is always direct and willing to help out. Doesn't provide useless readings which I love and makes each lecture very open and social. One of the best courses I have taken so far. Make sure you have a strong group for your project though!
+
+--- Rating #8 ---
+Class: BUS338
+Date: 2015-04-26 07:43:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Sarah's passion for entrepreneurship really shows. I loved how she explained concepts by referencing the start-ups she's worked with. However, her teaching methodology really lacks in one area: grading criteria. Her grading criteria is vague and ambiguous and left my group feeling lost. Nonetheless, she was always available for clarification.
+
+--- Rating #9 ---
+Class: BUS238
+Date: 2014-12-10 01:47:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Group project based course, exams were only weighed for 25% of final grade. Content was light. Less emphasis on memorization and more emphasis on doing things outside the classroom. Really eye opening class in terms of questioning who you are as an individual and learning about yourself.
+
+--- Rating #10 ---
+Class: BUS338
+Date: 2013-11-15 18:19:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+best prof during my undergrad
+
+--- Rating #11 ---
+Class: BUS338
+Date: 2013-10-02 03:10:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She is absolutely amazing! It is a must take with her if you are doing entrepreneurship at SFU!
+
+--- Rating #12 ---
+Class: BUS338
+Date: 2013-07-26 19:37:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Sarah is without a doubt the most amazing professor at SFU! She is easily the most inspiring and lovely person I have ever met! A great professor who knows how to teach! Take this class with her and you will be a better business student and who knows, may even become an Entrepreneur!

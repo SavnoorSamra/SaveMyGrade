@@ -1,0 +1,94 @@
+Professor: Declan Roshea
+Professor Legacy ID: 2945346
+Professor ID: VGVhY2hlci0yOTQ1MzQ2
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 2.7
+Avg Difficulty: 3.8
+Num Ratings: 6
+Would Take Again Percent: 50
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: CHEM110
+Date: 2024-08-23 08:09:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Avoid at all costs. Was never there to guide you in what's needed. Exams are ridiculously long and structured horribly. Ta didn't do anything. Bad course overall.
+
+--- Rating #2 ---
+Class: CHEM260
+Date: 2024-08-20 22:35:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Chem 266: Average professor overall, downside is he takes a long time to release grades, doesn't usually respond to emails, and has had delayed communication with TA's. However, he is approachable, has good knowledge of course material, and is usually understanding of personal situations and deadlines.
+
+--- Rating #3 ---
+Class: CHEM110
+Date: 2024-08-12 23:56:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+You could be a chemistry whiz and still do bad in this course because the evaluations are inanely designed : you're given a fraction of the necessary time to complete multi-step stoichiometry problems, and also prevented from skipping a question and coming back to it later. The TA's are useless. 
+If you want to lower your GPA, take this course.
+
+--- Rating #4 ---
+Class: CHEM260
+Date: 2024-08-02 22:02:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: True
+Comment:
+CHEM110
+
+This jokester gives 15 minutes for weekly quizzes of 8-10 questions which require multi-step calculations. For Midterm 2, gave 1 hour for 41 questions - all of which required calculations - and put the highest point value questions (5 points) as the last few questions, so once you got to them you had no time to solve them
+
+AVOID
+
+--- Rating #5 ---
+Class: NUSC341
+Date: 2023-12-21 15:57:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Roshea is very accessible outside of class, clear grading criteria and very caring.
+
+--- Rating #6 ---
+Class: CHEM260
+Date: 2023-11-06 23:53:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Declan is a such great prof! Chem 260 is a tough course and he knows that, but he clearly wants his students to do well. He's super approachable outside of class and never makes you feel bad for not understanding a concept or asking lots of questions. Lecture material can be dense, and exams are tough but fair, and he's not a super hard marker.

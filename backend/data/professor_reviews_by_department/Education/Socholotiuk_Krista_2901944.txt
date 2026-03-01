@@ -1,0 +1,37 @@
+Professor: Krista  Socholotiuk
+Professor Legacy ID: 2901944
+Professor ID: VGVhY2hlci0yOTAxOTQ0
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 5
+Avg Difficulty: 1.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: HSCI220
+Date: 2025-05-01 14:41:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She was so sweet. Class uses labor based grading (have to complete everything before deadline + attend class for full marks)
+
+--- Rating #2 ---
+Class: EDUC423
+Date: 2023-04-27 08:21:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is very nice and gives very good feedback. Highly recommend taking some courses with her.

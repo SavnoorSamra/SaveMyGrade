@@ -1,0 +1,181 @@
+Professor: Reza Siavashi
+Professor Legacy ID: 2650013
+Professor ID: VGVhY2hlci0yNjUwMDEz
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 2.5
+Avg Difficulty: 3.9
+Num Ratings: 13
+Would Take Again Percent: 30.7692
+
+Ratings Count Returned: 13
+
+--- Rating #1 ---
+Class: PHY12
+Date: 2023-08-03 03:52:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He covers the content very poorly
+
+--- Rating #2 ---
+Class: PHYS1118
+Date: 2022-08-30 19:51:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+A wonderful teacher who cares for his students & wants to see them succeed! Professor Reza will do his best to answer questions not only in class but also outside the office hours! Will definitely take his class again! 
+It is not an easy class but definitely manageable if one spends time studying!
+
+--- Rating #3 ---
+Class: PHYS1118
+Date: 2022-08-16 19:48:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Dont take this prof the worst prof
+
+--- Rating #4 ---
+Class: PHYS1118
+Date: 2022-08-10 18:54:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+the topic he teaches in the class seems very easy like you are easily gonna pass this course but the day you gave his first midterm you are gonna cry. he sets exams very hard and it never comes from the topic he teaches in the class nor from the textbooks. Most of the students fail this course.
+
+--- Rating #5 ---
+Class: PHYSICS100
+Date: 2021-12-16 11:54:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+A wonderful teacher genuinely wants to see his students' succeed. Reza thinks no questions are small or trivial. He fosters inquiring mind &amp; engages his students in active learning.
+
+--- Rating #6 ---
+Class: W011125
+Date: 2021-12-07 02:16:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+A great teacher who genuinely cares and wants his students do well &amp; succeed! Reza always responds to his emails &amp; made himself available to answer questions even outside the office hours! He is approachable, encouraging and inspiring!
+
+--- Rating #7 ---
+Class: PHYS1114
+Date: 2021-07-31 05:50:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Never explain the labs, never answer questions clearly. never respond to emails. always busy, not accessible outside lecture time. do not meet the standards of a professor, he is not as helpful as my classmates. Thank you for doing this to us. Thank you Reza. :) I hope you could make some changes according to our feedbacks, but I know you won't.
+
+--- Rating #8 ---
+Class: PHYS1114
+Date: 2021-06-08 00:43:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+his teaching style makes absolutely 0 sense and is completely chaotic and inefficient. if you have a question, you have to attend a lab zoom, no office hours. doesn't reply to emails, explanations for assignments/labs is horrendous and doesn't make any sense, doesn't answer any questions. overall 0/10. drop out asap if you ever get him.
+
+--- Rating #9 ---
+Class: PHYS100
+Date: 2021-02-26 17:36:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He is the worst teacher I have ever seen. Its too bad. Ive never seen such a bad one. The exam is not taken on the schools website. He has to take the exam on another website. That website is very slow and slow, so I cant log in. , Dont choose his class.
+
+--- Rating #10 ---
+Class: PHYS1118
+Date: 2021-02-01 18:44:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Reza is a caring teacher who explains the assignments clearly and will answer any questions.
+
+--- Rating #11 ---
+Class: PHYC100
+Date: 2020-12-31 01:23:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Do not take his class. Very unprofessional and unreasonable. Taught slowly,tested hard. Test content partially not taught in class. He realised there was a fault after midterm. Reply email very late and unreasonably. Full of blames.
+
+--- Rating #12 ---
+Class: PHYS100
+Date: 2020-12-11 00:48:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I recommend you to give up, because what he teaches is simple, but not enough to solve the problems he gives. LABS are also some idiotic problems that don't respect students. I said I had a tutor who taught me how to learn physics, but he suspected me of cheating. He would give you a zero, if you didn't answer his questions in detail, why
+
+--- Rating #13 ---
+Class: PHY100
+Date: 2020-12-08 22:57:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+The worst professor ever!!!! DO NOT choose this professor!!! Have zero respect for students. The teaching is just fine, but never solve problems for students. When students facing online technique problems, always let us blame ourselves. He did not manage time for the presentation and said it was our fault that we don't have enough time.

@@ -1,0 +1,63 @@
+Professor: Andrei Abulatov
+Professor Legacy ID: 2002348
+Professor ID: VGVhY2hlci0yMDAyMzQ4
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1.8
+Avg Difficulty: 4.3
+Num Ratings: 4
+Would Take Again Percent: 0
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: MACM101
+Date: 2021-12-24 04:57:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He just doesnt care about class, hes just reading slides in lecture. You learn nothing. Exams are simple, you just have to memorize all the theorems and you would pass but there is no partial marks at all.
+
+--- Rating #2 ---
+Class: MACM101
+Date: 2021-05-04 01:02:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Horrible time management. Doesnt care much about the class. Heavy accent. Be ready to do alot of self learning. There r 15 mins YouTube video that taught the lectures better than Andrei's 70 mins video. Hws are VERY difficult. U will need external sources for help. He made it VERY clear about his expectations, &amp; that ur problems r urs only, not his
+
+--- Rating #3 ---
+Class: 725
+Date: 2015-08-14 16:58:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: True
+Comment:
+I have trouble undrestanding his lectures. Cannot advice properly to the problems we face in the course.
+
+--- Rating #4 ---
+Class: MACM101
+Date: 2015-04-17 18:25:55 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I am not a huge math person, but Prof. Abulatov made me really enjoy a math class. He was a little intimidating in person when getting help, however, he really made me understand the material during lecture. If you get a chance take his class!

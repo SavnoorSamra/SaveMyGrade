@@ -1,0 +1,50 @@
+Professor: Timothy Beischlag
+Professor Legacy ID: 2663390
+Professor ID: VGVhY2hlci0yNjYzMzkw
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 4.3
+Avg Difficulty: 3.3
+Num Ratings: 3
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: HSCI100
+Date: 2025-01-08 04:13:39 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+the average on the first midterm was around 30%. the lectures were very dry and he did not do office hours. the written assignment was a grade booster though. no final exam which is nice, just 3 midterms.
+
+--- Rating #2 ---
+Class: HSCI100
+Date: 2024-12-09 20:57:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Beischlag is very clear in getting his point across in lectures. He explains things in a way that makes any complex content seem straight forward. He also is very good in prepping students for tests, and clearly tells you what you need to memorize beforehand. If you attend most/all of his lectures, it is impossible to flunk the class.
+
+--- Rating #3 ---
+Class: HSCI323
+Date: 2022-08-25 18:10:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very knowledgeable on pharmacology, asks good questions and can help you understand the trickier concepts well. Learned a lot and would take again.

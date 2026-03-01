@@ -1,0 +1,50 @@
+Professor: Charles Samuelson
+Professor Legacy ID: 1525754
+Professor ID: VGVhY2hlci0xNTI1NzU0
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3
+Avg Difficulty: 4
+Num Ratings: 3
+Would Take Again Percent: -1
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: MATH154
+Date: 2012-01-13 02:23:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He's a very approachable person. Neat notes, straight to the point. Digest what he teaches in lec and do the hmwk problems, you'll do well. I liked his class.
+
+--- Rating #2 ---
+Class: MATH154
+Date: 2011-05-18 16:29:17 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+If you've taken calc in high school, then you'll have very little problems. If this is your first time being exposed to this material, be prepared to live in the ACW. Although very approachable, he's only helpful some of the time. Also, his exams are heavily weighed on the material that is seemingly worthless, so be careful.
+
+--- Rating #3 ---
+Class: MATH154
+Date: 2011-04-08 04:24:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+just dont take his course. he does not know what his doing. literally. just don't take it. I am not saying this because I am not good at math but I am good at math and getting A in his class. So I recommend u find a different prof or other similar course since there are 3 choices. seriously to get an A+ or A, u just have to know EVERTHING.

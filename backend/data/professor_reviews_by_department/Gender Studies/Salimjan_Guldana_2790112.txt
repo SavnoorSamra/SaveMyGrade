@@ -1,0 +1,50 @@
+Professor: Guldana Salimjan
+Professor Legacy ID: 2790112
+Professor ID: VGVhY2hlci0yNzkwMTEy
+Department (CSV): Gender Studies
+Department (Fetched): Gender Studies
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: GSWS333
+Date: 2022-07-05 03:00:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Hands down the best professor I have ever had! She is the most caring individual, who genuinely wants her students to learn and enjoy the class. I look forward to the class every week and doing assignments don't even feel like work because I weirdly enough enjoy doing them. I am so sad that she is leaving SFU because she is seriously the best!!
+
+--- Rating #2 ---
+Class: GSWS321
+Date: 2022-06-24 08:00:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Honestly the best professor I've ever had in any course. Guldana prioritizes engagement and students actually learning, rather than emphasizing grades. As a result, she's a very fair marker and aims to make sure her students get good grades! Truly heartbroken she will not be staying at SFU, professors will her kindness and passion are rare
+
+--- Rating #3 ---
+Class: GSWS321
+Date: 2022-06-01 14:13:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I took Guldana's class without knowing anything about her or the topics. I am so glad I took her class and left the semester feeling inspired to learn more. She is very understanding and has a real passion for the topics she is teaching. She is not an overly hard marker and gives plenty of opportunities to succeed. Wish she was staying at SFU!

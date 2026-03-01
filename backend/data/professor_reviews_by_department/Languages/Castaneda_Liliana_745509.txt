@@ -1,0 +1,76 @@
+Professor: Liliana Castaneda
+Professor Legacy ID: 745509
+Professor ID: VGVhY2hlci03NDU1MDk=
+Department (CSV): Languages
+Department (Fetched): Languages
+Avg Rating: 2.4
+Avg Difficulty: 3.8
+Num Ratings: 5
+Would Take Again Percent: -1
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: SPAN101
+Date: 2011-05-03 21:28:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I wasn't interested at first, but she made funny comments and tried to relate the lessons to whatever was going on. Very smart and strict, but helpful during office hours. I didn't like to memorize the textbook though!
+
+--- Rating #2 ---
+Class: SPAN102
+Date: 2007-03-18 22:27:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+not a good teacher at all.  makes u feel dumb if you don't know an answer.  i felt so bad for some of the students in class 'cause she treated them like they were idiots if they got a wrong answer.  she's not very clear, etither - speaks waaaaay too fast.  two thumbs waaaay down.
+
+--- Rating #3 ---
+Class: SPAN102
+Date: 2007-02-18 19:47:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Nice woman, but LOUSY teacher!!!  Belittles students when they don't know the answer, and doesn't help them correct their mistakes - just rolls her eyes and tells them to study harder.  VERY hard class - you must memorize entire textbook!
+
+--- Rating #4 ---
+Class: SPAN103
+Date: 2006-03-22 23:53:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+never seen a teacher so mean before.  She likes to embarass students who don't know an answer to something, and she will sit there and wait until they actually come up with an answer, it takes a long time sometimes.  Never taking another spanish class thanks to her!
+
+--- Rating #5 ---
+Class: SPAN102
+Date: 2005-11-03 01:16:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments

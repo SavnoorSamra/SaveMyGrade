@@ -1,0 +1,50 @@
+Professor: Paula  Rosehart
+Professor Legacy ID: 3013082
+Professor ID: VGVhY2hlci0zMDEzMDgy
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 3.7
+Avg Difficulty: 1.7
+Num Ratings: 3
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: educ326
+Date: 2025-04-15 21:48:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Extremely easy credit. Paula is forthcoming and excited about what she teaches. Graded on 5 open book quizzes (can retake 3 times), and 5 assignments. No lectures just readings (which you don't really need to read besides for assignments. Marking is fair. If you put in effort, you'll get a great grade so it's definitely a gpa booster.
+
+--- Rating #2 ---
+Class: educ400
+Date: 2024-12-04 02:21:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the best teachers I've ever had. Paula is kind, reasonable, and very knowledgeable about what she teaches. She gives great feedback too so take advantage of that if you need it!
+
+--- Rating #3 ---
+Class: educ326
+Date: 2024-10-09 03:24:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+What a joke! Not really hard but changes assignment instructions at the last minute of the course and doesn't even post it on the assignments page! She instead decides to place the changes made in an essay long email that realistically no student wants to read! And then we get penalized! Hopefully she will be more intelligent going forward!!!

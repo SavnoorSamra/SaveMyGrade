@@ -1,0 +1,11 @@
+Professor: Korrie  Grant
+Professor Legacy ID: 3060480
+Professor ID: VGVhY2hlci0zMDYwNDgw
+Department (CSV): Criminal Justice
+Department (Fetched): Criminal Justice
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

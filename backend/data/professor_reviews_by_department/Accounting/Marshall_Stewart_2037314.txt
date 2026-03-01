@@ -1,0 +1,24 @@
+Professor: Stewart Marshall
+Professor Legacy ID: 2037314
+Professor ID: VGVhY2hlci0yMDM3MzE0
+Department (CSV): Accounting
+Department (Fetched): Accounting
+Avg Rating: 4
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BUS251
+Date: 2015-08-28 03:39:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Great professor. Made this class easy to understand. Midterm was very easy however the final was tough. So far my favourite prof at SFU. He keeps lectures interesting and is always willing to help. Gives students chances to redeem themselves for hw and quizzes.

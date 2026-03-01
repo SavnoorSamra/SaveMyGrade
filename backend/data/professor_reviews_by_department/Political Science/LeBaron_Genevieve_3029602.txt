@@ -1,0 +1,11 @@
+Professor: Genevieve LeBaron
+Professor Legacy ID: 3029602
+Professor ID: VGVhY2hlci0zMDI5NjAy
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

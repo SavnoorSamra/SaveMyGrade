@@ -1,0 +1,271 @@
+Professor: Sharan Vaswani
+Professor Legacy ID: 2810368
+Professor ID: VGVhY2hlci0yODEwMzY4
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.5
+Avg Difficulty: 4.5
+Num Ratings: 29
+Would Take Again Percent: 65.5172
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT210
+Date: 2026-01-07 02:29:34 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Went to the first few lectures and couldn't read the handwriting. The assignments were marked very easily and the average was always ~95%. However... the 3 quizzes (mini-midterms) and the final are the hardest things I've ever done in my life. Try your best to understand the tutorials and assignments for them. Discrete Math II on steroids.
+
+--- Rating #2 ---
+Class: CMPT981
+Date: 2025-12-31 17:10:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Math/proof-heavy, so it's challenging, but it's also very rewarding. If you put in the effort, you'll learn a ton and your fundamentals will get a lot stronger. Sharan is super knowledgeable and explains things clearly, grading is transparent with solid feedback, and there are usually a few extra credit opportunities too.
+
+--- Rating #3 ---
+Class: CMPT210
+Date: 2025-12-17 18:36:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The instructor is generally caring with quick email responses. Grading is not tough, and the course is curved at 1.05 for a better grade. All lecture slides include detailed notes are uploaded to Canvas, so it's easy to review even if you miss a class. However, both the final exam and quizzes are quite challenging, plz be very well prepared.
+
+--- Rating #4 ---
+Class: CMPT210
+Date: 2025-12-16 21:27:00 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very difficult midterms(1,2,3) and an equally difficult final. Avg for all testable was around 50% and final was 42%. Very difficult class you really got too put in the time. His notes are summarized notes of the textbook, textbook overall has better explanations imo.
+
+--- Rating #5 ---
+Class: CMPT210
+Date: 2025-12-11 22:14:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Sharan was kind enough to drop the grade scale so that more people could pass. He also scaled final grades by 1.05x. However, this was due to impossible exams that no one could comprehend. He responded fast on piazza, had decent homework, tutorials were helpful, but the final exam was impossible. It was scaled and still had an average of 42%.
+
+--- Rating #6 ---
+Class: CMPT210
+Date: 2025-12-10 03:49:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Honestly a goated prof. The textbook he uses is great so you can learn quite a bit off of that, in addition to the lectures. Tests are challenging but not unreasonable.
+
+--- Rating #7 ---
+Class: CMPT210
+Date: 2025-12-09 13:00:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The structure is easy to follow. The notes will be posted so you don't need to worry if you miss the lectures. BTW his hand-writing is awful.
+
+--- Rating #8 ---
+Class: CMPT210
+Date: 2025-11-20 00:36:24 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He basically uses the textbook questions on his exams by tweaking their wording to an unreasonable level, hence the averages of the exams stay at 50%. He's a good lecturer and responds on Piazza often, but he needs to improve his skills on writing exams and ensuring other people could comprehend too. This is the reason his exams take long time.
+
+--- Rating #9 ---
+Class: CMPT210
+Date: 2025-11-19 20:21:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Nothing against this professor, but his exams are unreasonably difficult/unforgiving with a severe time constraint. His lecture slides are mathematically rigorous, yet often lacks cohesion with tutorial/test material. Easily the most difficult course I have taken.
+
+--- Rating #10 ---
+Class: CMPT210
+Date: 2025-10-25 19:35:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Hes a reasonable person but exams are hard like why not just test people from what they learned. What is the point in making the exams hard atleast make it fair. The TAs dont give any part marks either.
+
+--- Rating #11 ---
+Class: CMPT210
+Date: 2025-04-20 11:48:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+His lectures are good but the problem is that he teaches you questions that are way easier than what he expects you to solve. Intuition for solving problems is also something he didnt really give much of. Brutal final exam avg was around 40%
+
+--- Rating #12 ---
+Class: CMPT210
+Date: 2025-03-01 01:30:36 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Hardest class I've taken so far. His slides are too cluttered, and homework was tough but doable, exams were brutal (midterm avg: 50%, final avg: 40%). He pulls questions from MIT-level sources. Also, he can be rude if you give an &#8220;interesting&#8221; answer. Even scoring above avg, I got a B-. Not a GPA booster! Curve was just 1.02x.
+
+--- Rating #13 ---
+Class: CMPT210
+Date: 2025-01-14 10:02:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Sharan explains topics very well, and he tries to make the lectures engaging. He also replies really quickly to questions on piazza. But the exams were tough, especially the finals. Maybe don't make 30% of the final about a topic that we've learned 3 days ago on the last day of class. Overall, good prof but hard class
+
+--- Rating #14 ---
+Class: CMPT210
+Date: 2025-01-07 07:36:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+He cares for the students and listens to our feedback. He posts answers to hws and tuts. All material in lectures relate to what we need to know and he goes through many examples. This class was hw heavy but the hw was not bad. He knows what he's doing and also enjoys it. Too bad the class was at 830 and I found the material difficult.
+
+--- Rating #15 ---
+Class: CMPT210
+Date: 2024-12-25 03:23:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's literally so smart. His lectures are basically repeating the textbook but he makes it very understandable. Assignments were difficult but graded easily. Go to office hours as much as possible for assignments since they give big hints towards the answers. Test questions came from the textbook and very difficult. Do the textbook questions.
+
+--- Rating #16 ---
+Class: CMPT210
+Date: 2024-12-15 18:50:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Sharan Vaswani is pretty ehhh. Assignments make up a lot of the mark and are really difficult especially if you dont have friends to chat with or use ChatGPT to get an idea of wtf to do. The lectures are meh, explanation of concepts is ok but could be much better imo. Overall kinda meh course with this prof
+
+--- Rating #17 ---
+Class: CMPT210
+Date: 2024-12-10 22:40:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Chill prof who responds to messages very quickly. Slides are very neat and he shares annotated versions of them. Allows a cheat sheet for the final, which was really nice, as the exams were pretty difficult. The assignments, worth 45% total, were pretty lenient in marking, resulting in extremely averages (which were brought down by exams marks).
+
+--- Rating #18 ---
+Class: CMPT210
+Date: 2024-11-26 01:58:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The lectures are pretty good and course policy in general is quite lenient (lecture/tutorial participation not mandatory, weighted passing average on exams not needed to pass the course, detailed solutions to assignments/tutorials posted consistently), but the sheer difficulty for a lower division course makes me unwilling to recommend to take
+
+--- Rating #19 ---
+Class: CMPT210
+Date: 2024-11-10 06:50:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I think he's great, I like him a lot. Knowledgable and clear lecturer. The only downside is that his confidence in us is a little bit high, definitely not an easy course by any stretch of imagination and the midterm was also hard given the time constraint. Hope he makes the final a little more reasonable. But overall, not bad! Thanks prof!
+
+--- Rating #20 ---
+Class: CMPT210
+Date: 2024-10-28 02:12:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great professor, his lectures are pretty good as he provide the theory and then does some application with them, which is appreciated versus just spitting out theory like other profs. Assignments and tutorials are hard, but set you up well for tests, which are VERY HARD. But otherwise, he is a good lecturer and I'd recommend taking him for 210.

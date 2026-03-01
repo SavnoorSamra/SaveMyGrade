@@ -1,0 +1,167 @@
+Professor: Cleusa Yamamoto
+Professor Legacy ID: 2715522
+Professor ID: VGVhY2hlci0yNzE1NTIy
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.7
+Avg Difficulty: 2.9
+Num Ratings: 12
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 12
+
+--- Rating #1 ---
+Class: BUS232
+Date: 2026-01-27 00:13:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This instructor explains stats in a way that actually makes sense. Even the harder topics were broken down clearly, with examples that helped a lot. Classes were organized, questions were always welcomed, and I felt way more confident in statistics by the end of the course.
+
+--- Rating #2 ---
+Class: BUS232
+Date: 2026-01-12 20:43:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I found this course pretty challenging, but I'm so glad I stuck with it and succeeded. The instructor was amazing and always super helpful and easy to reach outside of class. I'm really happy I took this course with her!
+
+--- Rating #3 ---
+Class: BUS232
+Date: 2026-01-06 21:31:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great prof! She was easy to access for help and gave great feedback. I found this class quite manageable and the concepts were taught clearly.
+
+--- Rating #4 ---
+Class: BUS232
+Date: 2025-12-22 18:52:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I found this course very well taught. The professor explained concepts clearly, was approachable, and responsive to questions both during office hours and by email. The course structure and feedback helped me understand the material and stay on track throughout the term.
+
+--- Rating #5 ---
+Class: BUS232
+Date: 2025-12-18 18:54:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I really enjoyed this statistics course and appreciated how clearly the professor explained the material. The class boosted my confidence in using statistics for my business studies. I highly recommend it to students who keep up with practice problems and attend lectures regularly.
+
+--- Rating #6 ---
+Class: BUS232
+Date: 2025-12-16 01:32:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great instructor! She gives lots of in-class exercises that really help me understand the material. The practice we do in class makes the topics much clearer and prepares us well for exams. If you keep up with the work, you'll feel confident going into tests. Highly recommend!
+
+--- Rating #7 ---
+Class: BUS232
+Date: 2025-11-14 00:15:00 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures difficult and hard to understand, however not at all necessary to pass the class if you're willing to read. Exams were pretty easy, so was the homework even if she gave quite a lot
+
+--- Rating #8 ---
+Class: BUS232
+Date: 2025-10-31 18:28:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor Yamamoto is extremely fair. Every week she hands out practice questions via physical pamphlets for you to practice with, goes over multiple examples for the chapter being covered that week, and extremely helpful slides. Her midterm was also extremely easy and I wished I studied more because I got a low mark, will do for the final.
+
+--- Rating #9 ---
+Class: BUS232
+Date: 2024-09-11 22:12:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+DONT take stats with this professor. She does not explain anything well and you can barely understand her. I'm basically going to have to teach this entire course to myself.
+
+--- Rating #10 ---
+Class: BUS232
+Date: 2022-03-21 07:12:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+40 something % avg on the midterm. Stats for the final were not released and honestly, I doubt it was much different than the midterm. Very demoralizing which drains your motivation to do well.
+
+--- Rating #11 ---
+Class: BUS232
+Date: 2021-09-14 04:02:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Cleusa has good lectures. She's very straight to the point and has examples to help you understand. The course itself can be very hard to understand at times due to the content. I appreciated her thorough walkthrough of using excel functions as many people haven't used it before. There is an overwhelming amount of formulas (hand written and excel).
+
+--- Rating #12 ---
+Class: BUS232
+Date: 2021-08-24 20:32:19 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+The course isn't the worst but isn't great either, the midterm was extremely harder than usual, the average was around 46%. In order to succeed, you need to understand the concepts clearly and practice as much as you can. The group projects are worth a decent chunk so hope to get a good group. The professor seems caring as she made passing easier.

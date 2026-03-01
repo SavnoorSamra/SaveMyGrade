@@ -1,0 +1,193 @@
+Professor: Frederick Willeboordse
+Professor Legacy ID: 2314033
+Professor ID: VGVhY2hlci0yMzE0MDMz
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.8
+Avg Difficulty: 3
+Num Ratings: 14
+Would Take Again Percent: 85.7143
+
+Ratings Count Returned: 14
+
+--- Rating #1 ---
+Class: BUS312
+Date: 2021-09-01 07:54:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Frederick's online class is honestly pretty easy. Practice questions in the textbook will 100% show up on the tests, but this means the averages are REALLY high (1 had 90% ave). He does 8 &quot;mini-tests&quot; rather than a midterm and final. However, this means that there will be one almost every week along with homework, so there's a lot to do every week.
+
+--- Rating #2 ---
+Class: BUS312
+Date: 2021-08-24 20:36:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I took the course online so could change when in person, no midterm or final, 8 weekly quizzes worth 10% each and 20% for hw. The difficulty level fluctuates depending on the chapter. However, averages were pretty high (70%-90%). To succeed, go over the textbook and practice a lot, ask questions if you need to and you should be fine.
+
+--- Rating #3 ---
+Class: BUS312
+Date: 2020-12-26 22:44:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Fred is an extremely nice man and taught many things that were outside of the textbook but in my opinion were more useful. My one complaint is that he relied heavily on connect to the point that either the test questions were just the same as the practice questions or ones that no one has ever seen before, therefore being too difficult.
+
+--- Rating #4 ---
+Class: BUS312
+Date: 2020-12-24 05:28:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is a caring man, makes finance sound like an everyday thing. Lots of homework so be prepared for that and a high curve.
+
+--- Rating #5 ---
+Class: BUS312
+Date: 2020-12-17 06:10:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Waste of time, energy &amp; money. Frederick did not teach; he outsourced the marking to McGraw. No midterms or final exams, just weekly homework and mini-tests. The averages were astronomically high on these assignments as all answers were on Chegg. If you want to be rewarded for studying and not cheating then do NOT take this class with Frederick.
+
+--- Rating #6 ---
+Class: BUS312
+Date: 2020-12-12 02:54:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This dude is the goat. Sweetest and most caring mans.
+
+--- Rating #7 ---
+Class: BUS312
+Date: 2020-11-20 00:11:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He is a very nice teacher and helps you in understanding the concepts. The two gripes I have are his tangents that arent relevant (sometimes), and the tests were inconsistent in difficultly. The online class are set up pretty consistently. A minitest every week. If you study a day before you'll probably be fine. Go over the textbook questions.
+
+--- Rating #8 ---
+Class: BUS315
+Date: 2020-11-10 06:21:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Frederick is the greatest professor I met at SFU. He is sooooooooo nice and patient, and he explains the concept clearly. If you ask him questions by email, he responds quickly and clearly. For the online course, we only get weekly quizzes, assignments and one report. Also, he gives fair marks. I highly recommend you take his course!
+
+--- Rating #9 ---
+Class: BUS312
+Date: 2020-10-11 18:29:25 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is a nice enough person but as an instructor, there are much better finance professors at SFU. I don't believe his background is in finance but it is in physics and philosophy. He covers a marginal amount of material in class and expects us to learn the rest on our own. It should be taught by someone else who has a background in finance.
+
+--- Rating #10 ---
+Class: BUS312
+Date: 2020-10-03 05:44:38 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+In this course you basically teach yourself. All tests/hw are done through a third party website. You are required to complete HW before the lecture so you basically learn even before you attend the lecture. He probably goes over 2-3 concepts in lectures, rest teach yourself. Don't know why I'm paying $$$$ to teach myself!
+
+--- Rating #11 ---
+Class: BUS312
+Date: 2020-09-15 05:49:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Federick is a solid choice for a professor. BUS 312 is considered a difficult but he does a great job explaining lecture material and is always available for help. His grading scheme is generous, more specifically, a chunk of the marks were for completion at least when I took it.
+
+--- Rating #12 ---
+Class: BUS312
+Date: 2020-07-08 21:54:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Having taken BUS 312 with both Frederick and George Blazenko, I can say with absolute certainty that taking it with Frederick is easier. The grading scheme is designed to help students pass, and the information is more easily absorbed by breaking it down into smaller chunks covered over the assignments and lecture slides.
+
+--- Rating #13 ---
+Class: BUS312
+Date: 2018-02-13 15:07:07 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+It was his first time teaching BUS312 and there were some mistakes but I'm sure he will be a strong instructor soon. He seems to be a very nice guy.
+
+--- Rating #14 ---
+Class: BUS312
+Date: 2017-12-07 06:55:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very nice man knowledgeable on the topic. Lectures can be dry but keep an eye out for his insight and opinions. They're a gem to listen to. No textbook needed, a lot of practice questions provided. Practice exams nearly 1:1 to real thing. Practice the questions and you're gucci.

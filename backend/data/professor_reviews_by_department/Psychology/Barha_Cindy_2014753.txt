@@ -1,0 +1,50 @@
+Professor: Cindy Barha
+Professor Legacy ID: 2014753
+Professor ID: VGVhY2hlci0yMDE0NzUz
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 4.3
+Avg Difficulty: 4
+Num Ratings: 3
+Would Take Again Percent: -1
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: 325
+Date: 2015-09-10 16:22:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Probably the smartest professor at SFU.   She should definitely be better recognized and appreciated by the school. This is a 'must' course for SFU psyc majors. Not because it is easy, (it isn't) but because it is informative and so well organized.
+
+--- Rating #2 ---
+Class: PSYC325
+Date: 2015-08-07 19:36:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+She is one of the best prof I have ever had. She is so passionate in this course and she knows a lot about everything. Even though the material is not easy, but i absolutely enjoyed the course. She is very helpful and everything was very organized. If you are interested in memory, you wouldnt wanna miss this course.
+
+--- Rating #3 ---
+Class: PSYC325
+Date: 2015-06-10 01:21:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Barha knew what she was talking about but often spoke too fast and went through the slides too fast. The text for this class was difficult to read and unfortunately a lot of exam questions were taken from it.  Read the text AND read the slides in order to do well.

@@ -1,0 +1,24 @@
+Professor: Monica Aufrecht
+Professor Legacy ID: 1732701
+Professor ID: VGVhY2hlci0xNzMyNzAx
+Department (CSV): Philosophy
+Department (Fetched): Philosophy
+Avg Rating: 4.5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: PHIL144
+Date: 2012-07-02 15:47:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+A kind and enthusiastic instructor. Happy to talk to students outside of class who are seeking help. Course requirements are not particularly demanding.

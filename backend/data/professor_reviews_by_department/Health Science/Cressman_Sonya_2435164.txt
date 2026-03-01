@@ -1,0 +1,11 @@
+Professor: Sonya Cressman
+Professor Legacy ID: 2435164
+Professor ID: VGVhY2hlci0yNDM1MTY0
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

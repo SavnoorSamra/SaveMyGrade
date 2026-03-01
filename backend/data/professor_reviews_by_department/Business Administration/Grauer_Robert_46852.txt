@@ -1,0 +1,271 @@
+Professor: Robert Grauer
+Professor Legacy ID: 46852
+Professor ID: VGVhY2hlci00Njg1Mg==
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 2.8
+Avg Difficulty: 4.4
+Num Ratings: 21
+Would Take Again Percent: -1
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS826
+Date: 2016-01-18 13:45:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Difficult class. He doesn't use numerical examples, which makes things three times more complicated. Expect to decode equations and solve them yourselves. Sometimes goes off-topic, talking about past work that isn't relevant to class.
+
+--- Rating #2 ---
+Class: BUS315
+Date: 2013-05-04 19:02:44 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+If you're looking to damage your GPA, take his class. Majority failed his mid-term! Had to re-weight the final to adjust for it! Old confusing teacher! You will learn zero about capital markets & be baffled with far too in depth stats!
+
+--- Rating #3 ---
+Class: BUS315
+Date: 2013-04-19 02:41:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Got to be the most confusing professor ever. Notes, assignments, and exams are not connected. Exam questions are a surprise every time, and is super confusing when lecturing. Average for midterm was 47%
+
+--- Rating #4 ---
+Class: BUS315
+Date: 2013-04-18 20:47:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Grauer will emphasize the material is hard but will not put any effort in simplifying the material. He does NOT provide any calculation examples even though 80%-90% of homework, midterm, exam are calculation based. The way he will teach you finance is by reading off the solution to homework questions and read off formula from notes.
+
+--- Rating #5 ---
+Class: BUS315
+Date: 2013-04-18 18:25:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Lectures and homework have almost nothing to do with what's on the final exam. There's no way to study for this course, as no practice final was given. Grauer is a nice guy but he isn't a good prof, he thinks every student can understand the concepts and be able to use them to solve unfamiliar questions, which is not fair.
+
+--- Rating #6 ---
+Class: BUS315
+Date: 2013-01-31 19:05:46 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Although I respect Rob's rich personality. His lectures get Boring every now and then. The textbook is necessary but not the best option. Look for other sources. Study every week and do all of the problems and you'll succeed.
+
+--- Rating #7 ---
+Class: BUS315
+Date: 2012-08-21 05:02:38 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+His exams were hard and tricky and you had to put more efforts if you would like to get high marks.
+
+--- Rating #8 ---
+Class: BUS315
+Date: 2012-07-29 02:23:08 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+EXTREMELY nice guy, but his lectures don't coincide with the textbook readings. Notations are different in lectures than in the textbook, and you have to do a lot of figuring out of assignments on your own. Midterm gets very tricky, and so does the final. Go to class, stay on top of the homework, and most importantly, try to UNDERSTAND the material
+
+--- Rating #9 ---
+Class: BUS315
+Date: 2011-07-20 20:35:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Lots of interesting stories. A good prof but tends to get off topic sometimes. Exams were not unfair but there will be one question on every exam that is difficult and forces you to think outside the box.
+
+--- Rating #10 ---
+Class: BUS000
+Date: 2010-06-21 00:44:29 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+After all his lectures, you will realize how pathetic his life and research was,are and will be. Very mean person, he ever clearly stated in class that all students do well on his exam is a disaster to him and very stubborn on his own mistakes. It seems no students are good enough to find his mistakes.
+
+--- Rating #11 ---
+Class: BUS315
+Date: 2009-04-19 18:04:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Easy credits if you've taken an actual stats course before.  Grauer has lots of interesting stories and anecdotes to talk about, as he was there when everything happened.
+
+--- Rating #12 ---
+Class: BUS315
+Date: 2009-01-02 14:31:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Rob is one of the better professors in the business faculty, he kept me interested throughout the course despite some dull material. The exams seemed to many to be unfair but I did not think either was particularly outside the norm. To do well you must apply yourself to the material throughout the course. I would gladly take another class with him.
+
+--- Rating #13 ---
+Class: BUS315
+Date: 2008-12-16 17:41:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Rob is a really genuinely nice man, but can be very confusing and has a strong tendency to go off track. Proving the formulas in class ends up wasting a lot of time, and more examples would have been useful. The textbook is great, and really needed as the power point notes miss a lot as 315 covers so much!
+
+--- Rating #14 ---
+Class: BUS315
+Date: 2008-12-11 16:43:27 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+final is really brutal...materials that are not covered in the class was also tested and it was not from the text either...
+
+--- Rating #15 ---
+Class: BUS315
+Date: 2008-01-08 19:36:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+HORRIBLE! his lectures have very little to do with material. mostly on his own research which is irrelevent.refuses to do problems in class & will get it wrong if he does do it. Tests = extremely hard& come from nowhere. Passing mark for midterm was 39% & he still wouldnt go over the test w/ the class!
+
+--- Rating #16 ---
+Class: BUS315
+Date: 2005-04-20 21:57:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He knows very well about FIN stuff. MT was actually not hard but final WAS hard. No formula sheet for exam but I find tats a good thing coz this forces u to try to understand what u r learning. Do the hwk MANY times & u'll be fine. Take his class coz some other profs are really xxxx, he is better...
+
+--- Rating #17 ---
+Class: BUS315
+Date: 2005-04-12 14:50:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Clearly a smart guy. Focusing alot on math proof's of finance theories. Doesn't use formula sheets on exam so expect a long exam, not to indepth, and lower averages.
+
+--- Rating #18 ---
+Class: BUS315
+Date: 2003-07-15 23:31:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #19 ---
+Class: BUS315
+Date: 2003-06-30 13:32:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #20 ---
+Class: BUEC817
+Date: 2002-04-20 22:12:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments

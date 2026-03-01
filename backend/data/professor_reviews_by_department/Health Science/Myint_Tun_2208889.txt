@@ -1,0 +1,271 @@
+Professor: Tun Myint
+Professor Legacy ID: 2208889
+Professor ID: VGVhY2hlci0yMjA4ODg5
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 3.9
+Avg Difficulty: 2.8
+Num Ratings: 39
+Would Take Again Percent: 71.7949
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: HSCI130
+Date: 2019-10-26 15:39:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is amazing. You probably hear a lot about caring professors but he is #1. Absolutely amazing, organized, caring, sweet, and tells you exactly what you need to know to get an A. Don't need the textbook.
+
+--- Rating #2 ---
+Class: HSCI130
+Date: 2019-08-13 00:08:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Don't buy a textbook. The textbook is confusing and makes it hard to understand. He posts a-lot lecture of lecture slides and most of them are useless, so it can be hard to navigate what your looking for. He's super approachable and seems very friendly, however his accent made the class a huge struggle for me. I found the lectures to be very boring
+
+--- Rating #3 ---
+Class: HSCI160
+Date: 2019-08-03 16:22:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Don't bother buying the textbook. Read the lecture slides and you'll be fine!! He's an amazing guy.
+
+--- Rating #4 ---
+Class: HSCI130
+Date: 2019-07-09 22:40:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Do not buy the textbook! It's so boring and it covers no more material than what is already covered in lectures. His tests are full of short essay questions that you have to memorize but you don't know which ones will be asked, so it can be stressful. However, he is very approachable and understanding and is willing to help with any questions.
+
+--- Rating #5 ---
+Class: HSCI130
+Date: 2019-05-14 08:15:28 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Had this prof my first year, he's such a caring guy. However it's really hard to understand him with his accent. His slides are a bit disorganized and hard to cover again. However his class is almost impossible to fail, theres so much participation and other things that will keep your grade up. Put in the work you'll be sure to get an A.
+
+--- Rating #6 ---
+Class: HSCI160
+Date: 2019-04-17 21:45:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Nice guy, but not a very good professor. Asked me and a few friends to help him hand out exams and proceeded to start the test while we were still handing them out. Class isn't necessarily hard, but Mr. Myint sure does make it stressful and confusing.
+
+--- Rating #7 ---
+Class: HSCI160
+Date: 2019-04-10 07:47:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I would most definitely recommend him as a prof for any HSCI course at SFU. He is very educated and is very passionate. GPA BOOSTER!! He is EXTREMELY reasonable on the amount of work he assigns. Though, he LOVES group projects so make sure you pick your group wisely. Not much to do but the projects are tedious and worth a lot. but no exams at all!!
+
+--- Rating #8 ---
+Class: HSCI130
+Date: 2019-04-04 04:53:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Really enjoyed his class, he made the exams similar to the exam prep which was extremely helpful. Put in good work into this class and you will definitely get a good mark! I miss having him as a prof and hope to take a course with him again. Group project heavy for some assignments choose wisely. Take a course with him as your prof.
+
+--- Rating #9 ---
+Class: HSCI160
+Date: 2019-04-03 04:09:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Easiest course ever and the best prof. His accent makes it difficult to understand, but he is amazing. His exams are straightforward and just put a little bit of work into projects and it's a huge GPA booster. Would take it again with this prof! Very reasonable and fair and wants his students to succeed.
+
+--- Rating #10 ---
+Class: HSCI130
+Date: 2019-03-14 19:32:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+His study guides are very similar to the exams.
+
+--- Rating #11 ---
+Class: HSCI160
+Date: 2019-03-12 23:02:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Gives you exam questions, just have to memorize them all
+
+--- Rating #12 ---
+Class: HSCI160
+Date: 2019-02-06 21:04:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Mr. Myint is a great teacher. Very helpful and quick with the e-mail. His lecture are quite straight forward and easy to understand. He is always willing to help. I would definitely took him again.
+
+--- Rating #13 ---
+Class: HSCI130
+Date: 2019-01-31 08:53:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I loved this class, It was not mandatory to come to lecture or tutorial, the exams were very simple as they were based straight from the notes - nothing tricky. Group projects were a breeze and easy marks. He also gave learning outcomes which helped in studying and he always made sure everyone understood the concepts. Overall, a very caring prof!
+
+--- Rating #14 ---
+Class: HSCI130
+Date: 2019-01-09 21:34:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Keep asking for practice midterms &amp; finals!!!! His mc on exams is his iclicker so go to class it helps. His written is based off of his study guide but he wants everything in depth. Ask questions. His assignments and projects were quite easy pick a good group
+
+--- Rating #15 ---
+Class: HSCI130
+Date: 2019-01-09 07:42:10 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very caring and knowledgable!! However, he has a very thick accent and it is hard to make out what he is saying. Also, he only reads directly off of the slides.. no additional info in his talks. iClicker questions are the same as the exam Qs &amp; exam prep is what is on the exams. Participate in iClicker and tutorial and brief the practice easy A
+
+--- Rating #16 ---
+Class: HSCI130
+Date: 2019-01-07 19:14:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Really nice prof. Really wants his students to succeed. His exam questions are straight from lecture slides and clicker questions and he gives study questions before the exam. His lectures are much more straightforward than the textbook so you don't actually need to buy the textbook as long as you read the slides thoroughly.
+
+--- Rating #17 ---
+Class: HSCI130
+Date: 2018-12-21 13:39:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Honestly such a nice person in general. He genuinely wants his students to pass and makes it easy to do so. Midterms and exams are literally straight from his lecture slides, so if you go through those thoroughly, youll be fine. Tons of group work. Overall, this was a good class
+
+--- Rating #18 ---
+Class: HSCI130
+Date: 2018-12-21 05:48:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The instructor will focus your attention on the reading textbook. However, midterms and final are based on the lecture-slides, you DO NOT need textbook at all. I would recommend to attend all lectures, listen carefully then you will have B grade, in general.
+
+--- Rating #19 ---
+Class: HSCI130
+Date: 2018-12-14 23:29:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Easy Course. Do well in your group projects. Midterms and exams are super easy.
+
+--- Rating #20 ---
+Class: HSCI130
+Date: 2018-12-12 02:35:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Honestly such a sweet prof, he is a bit hard to understand as he does have a thick accent, however he tries really hard to do his best!! Midterms and exam questions are literally given to students ahead of time, all multiple choice are the iclicker questions from class. Overall this class was extremely easy and marking was very fair!!

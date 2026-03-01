@@ -1,0 +1,37 @@
+Professor: Susan Petrina
+Professor Legacy ID: 2158615
+Professor ID: VGVhY2hlci0yMTU4NjE1
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS202
+Date: 2017-03-24 12:27:28 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I enjoyed her energy and enthusiasm but she could have been a lot more organized.  I think it was her first time teaching though.
+
+--- Rating #2 ---
+Class: BUS202
+Date: 2016-07-22 01:11:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great prof! Lot's of work for the course, but she's always there to help and has pretty great lectures. She really cares about her students and it shows. Take it with her, solid choice.  Marginally on the emotional side with course material, but that's too be expected.

@@ -1,0 +1,102 @@
+Professor: Helena Daudt
+Professor Legacy ID: 987540
+Professor ID: VGVhY2hlci05ODc1NDA=
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 2.1
+Avg Difficulty: 3
+Num Ratings: 7
+Would Take Again Percent: -1
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: BISC333
+Date: 2010-07-12 18:35:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She was the best prof that i ever had at SFU. Really clear on what she teaches!! Her notes are very easy to follow!
+
+--- Rating #2 ---
+Class: BISC333
+Date: 2008-07-21 13:44:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Her lectures were useless.  The level of detail that she covers in lecture is so minimum but her exams.. she expects more detail than wut she has given to students.  Read textbook before you go because she constantly asks questions which are annoying. asking on things that we're covering that day. she just can't teach. i learned nothing.
+
+--- Rating #3 ---
+Class: BISC333
+Date: 2008-04-22 16:45:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Useless prof. I learned NOTHING from this class! Tutorials are also useless because the TA's don't have time to explain concepts and lecture material - instead Helena forces us to summarize articles that are beyond our knowledge. She expects too much - she thinks this is the ONLY class we are taking... Also, expect to take be scribbling notes frant
+
+--- Rating #4 ---
+Class: BISC333
+Date: 2008-02-10 18:36:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+It does feel like in a high school class. Expect everything from pop-quizzes in classes and playdoh in tutorials. If you have a busy life already, don't take her courses because she assumes all your life is dedicated to it.
+
+--- Rating #5 ---
+Class: HSCI100
+Date: 2008-01-07 20:24:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Teaches like a bad high school teacher, does nothing useful in class other than give childish &quot;pop quizzes&quot; or crossword puzzles (which count for marks), gives a ton of online work, but is completely unorganized about it, tutorials are useless and based on irrelevant material. overall not a good prof
+
+--- Rating #6 ---
+Class: HSCI100
+Date: 2007-11-18 22:44:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Her lecture is not really helpful for the midterms. Because all she does in the class is just going over the powerpoints, giving exercises and popquiz.And the questions in the exams are more like applied question. knowing the mechanisms of somthing is not enough for the midterms. we are not the grad students.not helpful lecture,and ask too much.
+
+--- Rating #7 ---
+Class: HSCI100
+Date: 2007-05-05 22:39:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+The class was a great introductory to topics in human and environmental health. Lecture notes were very helpful in giving a guideline for things to study. She allows cheat sheets for the first 10 minutes of class and you can pretty much do quite well if you read the material in the textbook once.

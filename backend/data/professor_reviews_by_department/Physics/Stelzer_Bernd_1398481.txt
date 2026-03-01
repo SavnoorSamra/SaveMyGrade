@@ -1,0 +1,271 @@
+Professor: Bernd Stelzer
+Professor Legacy ID: 1398481
+Professor ID: VGVhY2hlci0xMzk4NDgx
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 3.9
+Avg Difficulty: 3.3
+Num Ratings: 65
+Would Take Again Percent: 75.7576
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PHY102
+Date: 2022-05-12 00:06:38 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is a very adaptable prof and will generally change a couple things, ex. due dates, grading, when requested and is acceptable. Lectures are based off of pre-lectures so make sure you do those or you will be lost. He gives a lot of homework but it is not super difficult. Midterms are long and slightly difficult but the final is not too bad.
+
+--- Rating #2 ---
+Class: PHY102
+Date: 2022-05-11 22:37:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I liked the teaching style. Marking is scary, since tests are super hard, but he then rewards people who really try to figure out test and you get good grade!!
+
+--- Rating #3 ---
+Class: PHY102
+Date: 2022-05-10 21:41:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+MAN IS AWESOME! He left iclicker out all the time so everyone could change their answer. He wants the highest avg so basically he wants everyone to get the highest marks. He is so kind and appreciative. His accent is ok but he does really care for his students. His exams are fair but long. He always scales up A LOT anyway so most of the time u g
+
+--- Rating #4 ---
+Class: PHY102
+Date: 2022-04-30 06:24:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Stelzer is an amazing lecturer and always cared. It is hard to contact him by email as he is extremely busy with everything, so I suggest you bring up your concerns during office hours as he is genuine and extremely patient. He loves what he does with a passion and exams were fair, if not they were scaled to meet standard; mark only goes up.
+
+--- Rating #5 ---
+Class: PHYS121
+Date: 2021-12-16 06:48:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Bernd is a great lecturer and was really good at answering student questions. Plus, Cookie Dough (pet rabbit) is bomb.
+
+--- Rating #6 ---
+Class: PHYS121
+Date: 2021-05-03 23:21:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Crazy hard multiple choice exam questions (due to Covid??) but you can make up in written problems. I totally panicked, but grades turned out OK!
+
+--- Rating #7 ---
+Class: PHYS121
+Date: 2021-05-03 23:14:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+One of the better Profs at SFU. Makes online exams super hard, which is a bit scary but scales them. Lots of powerpoint. Does nice demos and has a cute bunny. Would take class again.
+
+--- Rating #8 ---
+Class: PHYS121
+Date: 2021-05-03 21:26:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+My man Bernd scales so beautifully. Oh you got 35% on that exam? Haha not anymore my friend that's a 55% now. You're at a B+? Nah bro you get an A. Hard course, lectures arent great, but who cares when you got Bernd helping ya out. GOAT
+
+--- Rating #9 ---
+Class: PHYS121
+Date: 2021-04-15 01:20:35 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+30 online hmwrk Qs due every week. 3 written hmwrks total. 3 pre-lectures per week. Exams are mostly based on tutorials. He's a nice guy but I never understood anything explained in lectures. Study the tutorials for exams and you'll do fine, especially since the tests are scaled quite a bit. You can also replace your worst exam with the your final.
+
+--- Rating #10 ---
+Class: PHYS121
+Date: 2021-03-29 17:15:49 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He's a really nice guy, but not a great teacher. Lectures are pretty boring and don't have many hand written examples, but good demos. He's pretty disorganized with the online homework, but gave good intensions on it. Not bad, not great. He also has a cute bunny so that's a bonus.
+
+--- Rating #11 ---
+Class: PHYS102
+Date: 2021-01-30 17:05:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Good course. I never really liked Physics, but now I feel like I can do it, lol... most exam questions are related to stuff covered during lecture, so just make sure you know that material well.
+
+--- Rating #12 ---
+Class: PHYS102
+Date: 2021-01-25 22:45:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Really nice guy! Always considered our feedback and cared - tests were really hard but got scaled. Wish I had taken the class in-person...
+
+--- Rating #13 ---
+Class: PHYS102
+Date: 2021-01-25 18:50:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Great class, despite being online! He brought in demos and lots of examples. Tests were really hard though - he said to prevent cheating, but were scaled. Overall good experience.
+
+--- Rating #14 ---
+Class: PHY102
+Date: 2021-01-25 05:16:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+First and third midterm were fair. Impossible final exam. Gave the class false hope in the final and it was HEAVILY scaled.
+
+--- Rating #15 ---
+Class: PHYS102
+Date: 2021-01-16 09:58:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Stelzer is always ready to help. He made it a point to take student feedback from time to time to make sure that his class was benefitting everyone. The first two midterms were fair but the last midterm and final was very long (but it was heavily scaled). He does a lot of examples in class but the course itself needs quite some practice.
+
+--- Rating #16 ---
+Class: PHYS102
+Date: 2019-12-14 19:56:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I think he likes teaching and it shows. I used to hate Physics, now I understand and actually don't mind it. The exams are hard but get scaled. Highly recommend taking the class.
+
+--- Rating #17 ---
+Class: PHYS102
+Date: 2019-12-13 16:33:42 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Stelzer is a very nice person but sometimes confuses himself during lectures. The midterms were fine but the time limit made them really difficult. The final was just hard. But he ended up scaling the grades. Tutorials and homework problems were useful so make sure you make use of them. Overall an amazing prof.
+
+--- Rating #18 ---
+Class: PHYS285
+Date: 2019-04-13 03:50:15 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Bernd is so dorky and lovable :) Not the most outstanding professor I've ever had, but I also have 0 complaints.
+
+--- Rating #19 ---
+Class: PHYS102
+Date: 2019-01-05 20:27:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He was a great professor and explained concepts really clearly! His midterms were extremely fair as long as you studied his notes and practice exams. Hes also really accessible outside of class and is super understanding and caring. Overall hes a great professor, and I would definitely take any course with him again.
+
+--- Rating #20 ---
+Class: PHYS102
+Date: 2018-12-21 16:05:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Hey, I thought this was a fun course

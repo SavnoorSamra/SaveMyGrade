@@ -1,0 +1,63 @@
+Professor: Connie Singh
+Professor Legacy ID: 1597134
+Professor ID: VGVhY2hlci0xNTk3MTM0
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 3.4
+Avg Difficulty: 2.8
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: POL449
+Date: 2012-01-19 13:22:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Connie is a great professor. She is so helpful and she is genuinely interested in our lives and future careers. She really goes the extra mile to help students out. This includes assisting us with postgrad stuff. I am so lucky that I chose to take this course. She is hands down one of the best poli sci profs at SFU.
+
+--- Rating #2 ---
+Class: POL349
+Date: 2011-08-28 16:02:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Loved the class!!!  Pretty simple and basic Poli Sci structure.  Just go to lectures and do the readings and no reason you cannot get an A!
+
+--- Rating #3 ---
+Class: POL349
+Date: 2011-07-07 16:53:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Good class.  Enjoyed the material.  She seems a bit new to teaching but overall the course was balanced and fairly straight forward.
+
+--- Rating #4 ---
+Class: POL359
+Date: 2011-04-22 19:51:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Her lectures were horrible. All she did was read from the textbook. The textbooks were easily the worst I've ever had. Nobody in the course knew what she wanted. Grading was arbitrary and her knowledge was very limited. Avoid her at all costs.

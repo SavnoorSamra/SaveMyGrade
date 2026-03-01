@@ -1,0 +1,271 @@
+Professor: Wayne Knights
+Professor Legacy ID: 401439
+Professor ID: VGVhY2hlci00MDE0Mzk=
+Department (CSV): Humanities
+Department (Fetched): Humanities
+Avg Rating: 3.9
+Avg Difficulty: 2.8
+Num Ratings: 37
+Would Take Again Percent: 50
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: HUM340
+Date: 2023-03-23 01:06:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great guy and I would take his class again.  Very reading heavy but is a very fair marker and accessible outside of class hours.
+
+--- Rating #2 ---
+Class: HUM340
+Date: 2022-04-13 02:58:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Wayne was awesome. Best feedback I have received and makes a material that can be long feel short. Enjoyed both papers and almost every class.
+
+--- Rating #3 ---
+Class: HUM340
+Date: 2021-12-14 19:34:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lots of reading, but Wayne is the nicest prof I have had at SFU. He legit cares about what he's teaching and you can tell.
+
+--- Rating #4 ---
+Class: HUM101W
+Date: 2020-04-21 23:13:18 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I took this class as an elective. The class was dry every single time. He just summarized books, what a certain theme meant. No class participation required in the lecture as he talks the whole way through with no break. He expects a lot from you for mediocre lectures and a disorganized syllabus and all papers had vague guidelines.
+
+--- Rating #5 ---
+Class: HUM321W
+Date: 2018-04-17 14:26:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Wayne is super chill. Books that he chose for the course were really interesting. He's really clear about what he wants for the essays, and if you show up to class, you'll know exactly what he's looking for. The whole class is participation (20%) + 3 essays (80%), and the essays are short (6-8 pages). Cool guy, very informal teaching style.
+
+--- Rating #6 ---
+Class: HUM101W
+Date: 2017-12-12 18:19:32 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Doesn't seem like he cares about his students that much. Lectures aren't really mandatory. He just gives summaries of books you need to read, which may be good if you didn't read them (although you could just do the same online). Doesn't give the friendliest vibe but still an alright professor despite a bit of vulgarity here and there.
+
+--- Rating #7 ---
+Class: HUM101
+Date: 2017-12-05 20:17:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Lots of reading, be prepared. Some books are completely boring, others a bit better. He gives good feedback though, I find the TA's may mark easier than him. So if you can get a tutorial with a TA over him, it may be a bit easier on your mark. Overall class was moderate.
+
+--- Rating #8 ---
+Class: HUM101W
+Date: 2017-04-22 23:54:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Not sure why Wayne is getting such negative reviews. I took him in 2016 spring (late comment) and we had 3 papers and a final. Lectures were dry but that's because I wasn't interested in the content. Wayne was witty and gave a lot of feedback! I put little to no effort into the course and still received a B+. Would definitely take again.
+
+--- Rating #9 ---
+Class: HUM101W
+Date: 2016-11-23 15:11:56 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+While I like Prof Knight's attitude I cannot say I enjoyed any part of his teaching style or class material. Lectures were beyond boring, and as a second year student, who has taken humanities classes before, I found a lot of his lectures irrelevant. Midterm  20 multiple choice. Final paper prompt was absurdly stupid. The TA was of no help.
+
+--- Rating #10 ---
+Class: HUM101W
+Date: 2016-11-22 01:51:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Wayne is one of the most confusing prof I've ever taken. He is all over the place with his lecture. He can be talking one book and leads of to topics that just confuse the students even more. His voice is boring, makes the lecture really unbearable. He is very unclear with what he wants for the papers. No outline for a first year Writing course..
+
+--- Rating #11 ---
+Class: HUM101W
+Date: 2016-11-20 18:31:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Really good professor. He is a tough marker, and will give  a lot of feedback  (maybe more than you asked for...). If you're looking for an easy A I wouldn't recommend, but if you really want to learn and have discussions, he's great.
+
+--- Rating #12 ---
+Class: HUM101W
+Date: 2016-06-17 19:56:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Wayne is a good prof and he knows what he's talking about. The course is easy if you are willing to read the books and write a great paper. His feedback was really helpful, and his marking for the papers were very fair. Lectures were super boring though, tutorials are mandatory!
+
+--- Rating #13 ---
+Class: HUM101
+Date: 2015-12-03 05:07:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I didn't think I would enjoy his class, as I took it literally as an intro to Humanties but I loved it. He's a great professor, knowledgable of the topics, and helpful plus understanding. I had him as a tutorial leader as well, and he was just as great a tutorial leader as he was in lecture.
+
+--- Rating #14 ---
+Class: HUM101W
+Date: 2015-10-30 20:08:36 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He understands the topic of what he is teaching but if you have a specific question he skirts around it and you end up more confused then before. Lectures feel very long, everything he says you can look up online. If you're a decent writer this class isn't hard. He even expressed that this semester had the highest class drop he's ever had.
+
+--- Rating #15 ---
+Class: HUM 101W
+Date: 2015-10-24 21:55:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+He is a super nice guy! Very funny and the lectures are usually interesting enough... The material however is a bit of a pain... The books are long and boring and the essays are even worse! Most of the time I left class or tutorial in a good mood but extremely confused... If you aren't interested in philosophers this class is not for you
+
+--- Rating #16 ---
+Class: HUM101
+Date: 2015-07-01 02:07:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Wayne was a great prof! Although he is a little bit "out there," he seemed to be very into what he was teaching and it made it very interesting. Everything was marked fairly easily (by all of the profs it seemed). Honestly I only read about half of every book and still got an A. Dedicated prof, LOTS of reading, easy marking, easy course.
+
+--- Rating #17 ---
+Class: HUM101
+Date: 2015-04-21 04:17:39 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is a tough grader. Don't take hum 101 if you are looking for a gpa booster unless you enjoy reading books by Plato, Diderot or Saint Augustine. Which I personally found very boring. His lectures were confusing and his tutorials were even more confusing. Overall, he is a good person, not a professor.
+
+--- Rating #18 ---
+Class: HUM101
+Date: 2015-04-10 15:09:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Knights is a great professor. Amazing knowledge in his field, laid back personality, makes essay writing very accessible to the new university student, makes some great jokes, fair grader, very easy to talk to. The only fault with the course is that the material is sometimes quite ambiguous, making papers difficult to write.
+
+--- Rating #19 ---
+Class: HUM101W
+Date: 2015-01-05 01:18:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Hes a really great prof. This was my favourite class. He was kind and patient when he answered my questions. Hes open-minded and does not judge you based on your perspectives. Although quietly spoken, his lectures are inspirational and eye-opening. I had a really great time enjoying his lectures, and I hope to see him again in future!
+
+--- Rating #20 ---
+Class: HUM101W
+Date: 2014-05-29 02:18:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+- I would highly recommend this class to anyone who likes to think about the big issues in society and life. The class was great largely because Wayne had his stuff well thought out and delivered some interesting insights while still allowing some discussion even in lecture. Doesn't hurt he is one of the funniest prof/ teacher I've had to date.

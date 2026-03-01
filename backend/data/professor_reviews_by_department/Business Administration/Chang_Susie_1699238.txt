@@ -1,0 +1,63 @@
+Professor: Susie Chang
+Professor Legacy ID: 1699238
+Professor ID: VGVhY2hlci0xNjk5MjM4
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.9
+Avg Difficulty: 3.3
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: BUS251
+Date: 2013-12-20 17:44:21 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Nice guy
+
+--- Rating #2 ---
+Class: BUS251
+Date: 2013-12-02 16:00:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I was taking this class for the second time, Susie made me love boring accounting
+
+--- Rating #3 ---
+Class: BUS251
+Date: 2013-03-18 04:57:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Demanding class.  Weekly assignments take up a lot of time, but ensure that you keep up with the readings.  I went to class only 3 times and still got an A.  Use all the online resources, the text, her notes, and study hard and you will do well.  She doesn't play tricks on her exams, she wants you to do well.
+
+--- Rating #4 ---
+Class: BUS251
+Date: 2012-12-14 00:53:28 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very hard teacher who assigns a lot of work. Must do readings if you want to pass. She speaks too quickly in lecture and is very dry.

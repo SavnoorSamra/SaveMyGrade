@@ -1,0 +1,37 @@
+Professor: Serena Canaan
+Professor Legacy ID: 2840708
+Professor ID: VGVhY2hlci0yODQwNzA4
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 4
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: Econ280
+Date: 2024-04-17 08:14:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing!
+
+--- Rating #2 ---
+Class: Econ280
+Date: 2024-04-15 20:12:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Serena is pretty good at teaching this course. Lectures are interesting, you can learn the concepts clearly. Provide exercises are useful for the exam.

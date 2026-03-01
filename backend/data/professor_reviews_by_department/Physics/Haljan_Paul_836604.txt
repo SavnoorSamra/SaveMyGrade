@@ -1,0 +1,271 @@
+Professor: Paul Haljan
+Professor Legacy ID: 836604
+Professor ID: VGVhY2hlci04MzY2MDQ=
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 3.8
+Avg Difficulty: 3.1
+Num Ratings: 28
+Would Take Again Percent: 75
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PHYS255
+Date: 2025-12-16 19:18:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Total lack of common sense to make us solve the 1st and 2nd MT on a highschool-lile classroom of 30 ppl capacity when we all are like 50 students. For that and other reasons s.t. the profs calligraphy is unreadable I would suggest to study by your own: demos and MIT physics 8.03 lectures are available online. Lastly, A.P French book is a disaster
+
+--- Rating #2 ---
+Class: PHYS121
+Date: 2020-04-24 23:40:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+PHYS 121 is a HARD class but Haljan makes it so much more bearable. He's incredibly accessible and is super engaging in lectures, and I actually enjoyed attending them. You can also tell he knows what he's doing. If physics isn't your thing, take a class with him!
+
+--- Rating #3 ---
+Class: PHYS121
+Date: 2020-02-26 19:43:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Best physics Prof I've ever had. His lectures are really clear with lots of examples so I would recommend going as it makes the material much easier to understand. The exams are hard but very reasonable compared to some other physics exams I've taken. 100% want him to teach all my science courses.
+
+--- Rating #4 ---
+Class: PHYS121
+Date: 2017-04-17 21:08:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Extremely amazing prof and one of the more caring ones. He gets really excited during demos and whenever people get iclicker questions right. Would definitely recommend to people taking a physics class!
+
+--- Rating #5 ---
+Class: PHYS121
+Date: 2016-04-15 21:04:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great professor. I had heard nightmares about E&M physics but Paul made it a very clear and reasonable experience. Most fair midterms I've ever seen from a class, highly resembling the homework with the odd challenge. Used SmartPhysics which, unlike mastering physics, is actually useful. If i had to take more physics Id definitely take em with Paul
+
+--- Rating #6 ---
+Class: PHYS255
+Date: 2016-01-08 22:22:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Awesome prof and will answer all your questions.
+
+--- Rating #7 ---
+Class: PHYS121
+Date: 2015-05-03 01:13:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Nice prof! Polite and clear. To my surprise for this course you got problems solved in lectures not tutorials.  i clicker questions are important since some of the exam problems are based on them.  Smart physics sucks, you just get judged wrong by the system. Though before every lecture haljan will show comments, most of them are quite funny :)
+
+--- Rating #8 ---
+Class: 255
+Date: 2015-04-25 01:24:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is the most huggable person you will meet. I had to resist the temptation of standing up mid lectures and give him a hug multiple times and Im a straight dude. He uses alot of demos in his lectures and gets way too exited about them. Very challenging assignment but the tests are fair. Overall very fun course, wold strongly recommend
+
+--- Rating #9 ---
+Class: PHYS121
+Date: 2015-04-23 23:39:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+He's cool :D
+
+--- Rating #10 ---
+Class: PHYS121
+Date: 2015-04-14 19:59:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is a great professor and good at relating material in class to current real world applications.
+
+--- Rating #11 ---
+Class: PHYS121
+Date: 2015-04-08 23:03:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Haljan strikes me as someone who never lost the excitement from middle school when they first find out that lasers are a real thing. He is enthusiastic, moreso than I've seen from any other professors at SFU so far. It is contagious and made this course an absolute pleasure.  PHYS 255 when he next teaches it, even though it's not needed for me
+
+--- Rating #12 ---
+Class: PHYS255
+Date: 2015-01-07 19:51:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Absolutely fantastic prof. He may seem a little nervous, but he's a pleasure to talk to. Genuinely interested in the subject and willing to help you out, but won't give you the answers. Tests are extremely fair. Great lectures and tough but interesting assignments. I wish he taught more upper level courses - I'd definitely love to have him again.
+
+--- Rating #13 ---
+Class: PHY126
+Date: 2014-04-24 21:32:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very friendly, soft spoken professor. His lecture notes (power points and tutorial assignments) were great as a reference. Pay attention to those iClicker questions! Midterms and final was fair - all relevant to what we learned in class. Some concepts were hard for me personally, but if you're familiar with physics, you'll probably find it easy.
+
+--- Rating #14 ---
+Class: PHYS126
+Date: 2014-04-16 00:47:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+This class was quite demanding, but he kept the lectures very interesting (lots of demos) and his explanations were clear. Provides very well organized lecture notes, encourages questions. Very enjoyable class.
+
+--- Rating #15 ---
+Class: PHYS121
+Date: 2012-05-21 20:25:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He's great, he may seem nervous at first but I thought he was pretty good at explaining and his applications of experiments was cool. He made the course more interesting than it really is.
+
+--- Rating #16 ---
+Class: PHYS121
+Date: 2012-04-11 01:21:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I loved this Dr Haljan. He's hilarious and tried to make every class fun by doing a lot of live demonstrations! He's kind of a strange man yet charismatic and he chuckles at everything and gets really excited when he does the in class demonstrations. The iClicker questions in class are usually easy and he's pretty clear when he speaks. Great prof.
+
+--- Rating #17 ---
+Class: PHYS121
+Date: 2012-03-20 01:57:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+he can not teach
+
+--- Rating #18 ---
+Class: PHYS121
+Date: 2012-01-28 05:04:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He's cute.great prof
+
+--- Rating #19 ---
+Class: PHYS221
+Date: 2011-08-18 05:22:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great Prof
+
+--- Rating #20 ---
+Class: PHYS125
+Date: 2010-11-23 21:29:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Nervous little guy.   Does his part to make sure the students have the material i.e. prints out his notes for the class as well as posts them online (extra writing and all). Style: demonstrate first (if possible) explane later.  Not very helpful with homework, prefers the discovery method rather than spoonfeeding.  Interesting prof to have had.

@@ -1,0 +1,89 @@
+Professor: Jas Dhahan
+Professor Legacy ID: 2929580
+Professor ID: VGVhY2hlci0yOTI5NTgw
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4.5
+Avg Difficulty: 3.3
+Num Ratings: 6
+Would Take Again Percent: 100
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: MATH232
+Date: 2024-11-22 23:45:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Better than many of other Maths professors.
+
+--- Rating #2 ---
+Class: MATH232
+Date: 2024-01-08 18:31:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is very approachable and teaches pretty well
+
+--- Rating #3 ---
+Class: MATH232
+Date: 2023-12-23 00:06:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jas is an exceptional professor. His teaching style is straightforward and he explains concepts clearly. The quizzes, midterms, and finals were all based on the participation homework he gave us. If you take the time to do the work you will do good. He also makes straightforward and to-the-point reminders and announcements.
+
+--- Rating #4 ---
+Class: MATH232
+Date: 2023-12-21 19:07:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jas is a really good prof and his lectures are very clear and understandable. He is also very helpful during the office hours. This course is not supposed to be easy but he explains the concepts very clearly and makes them less complicated. All course content was well reflected in quizzes, assignments, and midterms. Highly recommend!
+
+--- Rating #5 ---
+Class: MATH232
+Date: 2023-12-20 00:39:55 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jas is great with math and is good at lecturing. He is approachable and encourages questions. However, he teaches only using mathematical language similar to the textbook, and often rushes over new concepts to end classes early, which made new concepts hard to grasp often. Homework is minimal and is mostly to prep you for tests.
+
+--- Rating #6 ---
+Class: MATH232
+Date: 2023-12-16 01:43:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jas is really nice and patient! Helps a lot if you go to office hours. I got a meh mark bc the course content is really hard and I didn't study as much as I should've for the final lol so it's a skill issue. However Jas himself is really good. Just be sure to do all the hw, ask for help EARLY if you don't get stuff. Tests cover hw material to the T

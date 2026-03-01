@@ -1,0 +1,271 @@
+Professor: Alison Dean
+Professor Legacy ID: 2026095
+Professor ID: VGVhY2hlci0yMDI2MDk1
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 4.3
+Avg Difficulty: 3.2
+Num Ratings: 106
+Would Take Again Percent: 91.2621
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENG111W
+Date: 2025-01-21 04:02:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Professor Dean runs a solid class. Attend lectures, read the textbook, and use study tools like unstuck AI - it really helps with prep. Overall, a challenging but rewarding course.
+
+--- Rating #2 ---
+Class: ENG111W
+Date: 2024-09-13 19:02:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Gag Me with a spoon
+
+--- Rating #3 ---
+Class: ENGL111W
+Date: 2024-05-27 20:28:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The best professor so far. Possibly better then any professor in the future.
+
+--- Rating #4 ---
+Class: ENGL111W
+Date: 2024-02-26 17:52:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+very interesting lectures
+
+--- Rating #5 ---
+Class: ENG111W
+Date: 2024-01-25 19:21:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Unfortunately for professor Dean there are people in the world who hate women.Professor Dean is not an extreme feminist. Her opinion are moderate.She is a normal woman and that bothers some people.
+
+--- Rating #6 ---
+Class: ENG111W
+Date: 2023-12-10 03:57:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Do not take course with this prof. Absolutely horrible. Seems like she cares enough about her rating to fake her reviews on here lol.
+
+--- Rating #7 ---
+Class: ENG111W
+Date: 2023-10-27 01:46:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+sort of resembles Betty Page
+
+--- Rating #8 ---
+Class: ENG111W
+Date: 2023-10-26 00:20:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+tasteful lectures
+
+--- Rating #9 ---
+Class: ENG111W
+Date: 2023-10-23 23:57:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+appropriate
+
+--- Rating #10 ---
+Class: ENG111W
+Date: 2023-10-23 23:55:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+acceptable
+
+--- Rating #11 ---
+Class: ENG111W
+Date: 2023-10-23 23:54:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+exemplary
+
+--- Rating #12 ---
+Class: ENG111W
+Date: 2023-10-23 23:53:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+cosmopolitan
+
+--- Rating #13 ---
+Class: ENG111W
+Date: 2023-10-23 23:52:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+dauntless
+
+--- Rating #14 ---
+Class: ENG111W
+Date: 2023-10-22 19:59:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+ultracool
+
+--- Rating #15 ---
+Class: ENG111W
+Date: 2023-10-22 19:56:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+whipsmart
+
+--- Rating #16 ---
+Class: ENG111W
+Date: 2023-10-22 19:42:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+smart as a whip
+
+--- Rating #17 ---
+Class: ENG111W
+Date: 2023-10-22 19:37:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+friendly and helpful
+
+--- Rating #18 ---
+Class: ENG111W
+Date: 2023-10-22 19:20:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+profound
+
+--- Rating #19 ---
+Class: ENG111W
+Date: 2023-10-22 18:54:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+sensational
+
+--- Rating #20 ---
+Class: ENG111W
+Date: 2023-10-18 23:27:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+impressive lectures

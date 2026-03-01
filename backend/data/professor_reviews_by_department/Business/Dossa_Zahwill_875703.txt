@@ -1,0 +1,102 @@
+Professor: Zahwill Dossa
+Professor Legacy ID: 875703
+Professor ID: VGVhY2hlci04NzU3MDM=
+Department (CSV): Business
+Department (Fetched): Business
+Avg Rating: 4.1
+Avg Difficulty: 3.3
+Num Ratings: 7
+Would Take Again Percent: -1
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: BUS321
+Date: 2012-12-14 01:44:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Nice professor, clear and helpful. The exams is a little bit challenging, but this course is based on curve anyway so it's okay. As long as you attend the lecture you will do good.
+
+--- Rating #2 ---
+Class: BUS320
+Date: 2008-05-22 19:32:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+The best accounting lecturer I've encountered.  Very smart and helpful.
+
+--- Rating #3 ---
+Class: BUS320
+Date: 2007-08-10 03:08:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Zahwils an awesome prof if you plan on becoming a CA. He outlines exactly whats going to be on the exam and teaches material that is really useful. Make sure you attend class and get all the handout. Assignments and the book aren't useful and are not covered in the exams.
+
+--- Rating #4 ---
+Class: BUS320
+Date: 2007-07-05 18:11:29 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Watch out for his hateful emails. He will tell you to change faculty if you don't do well in his class. He doesn't want you to ask questions in class either because he thinks that's what office hours are for. Also he is extremely boring. All he does is reading stuff off the powerpoint which you can do that yourself.
+
+--- Rating #5 ---
+Class: BUS320
+Date: 2007-06-20 14:25:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Really easy to understand and follow unlike some other business profs. Tests are very predictabe since he outlines what will be tested. Textbook is sort of useless just learn to do his examples from class and tutorial because those are what appear on the test. The tested theory can also be found in lecture handouts.
+
+--- Rating #6 ---
+Class: BUS320
+Date: 2007-04-16 18:24:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great guy, teaches from Alain Duncan's notes and the ratings Alain gets are applicable here. Exams are easy if you do all in class material (especially tutorial exercises). Exams are long, better be quick and right. He is a CA and really knows what he talks about. Book sucks - too much material and not that useful for practice. But theory is good.
+
+--- Rating #7 ---
+Class: BUS321
+Date: 2006-08-15 01:25:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He taught Summer 06 Evening using Alain Duncan's material.  Works full time for a business.  If he ever decides to come back to teach more, not a bad guy to take it with.  Knows his stuff and is very organized and articulate.

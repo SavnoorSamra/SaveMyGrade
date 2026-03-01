@@ -1,0 +1,272 @@
+Professor: Geoffrey Tien
+Professor Legacy ID: 2034100
+Professor ID: VGVhY2hlci0yMDM0MTAw
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.8
+Avg Difficulty: 3.6
+Num Ratings: 47
+Would Take Again Percent: 73.5294
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CPSC121
+Date: 2022-07-14 21:51:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Geoff is a really good person, but a horrible lecturer. He's very slow, doesn't explain things well in a lecture setting (he's much better one-on-one) and because of these reasons a lot of students aren't taught the important content that show up on the exams. If you're taking 121, take it with another prof if at all possible.
+
+--- Rating #2 ---
+Class: CPSC221
+Date: 2022-07-01 01:26:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Took this course in the summer and it was a disaster.
+His lectures are extremely boring and slow. The exams are extremely hard with mt 59%avg no scaling and final ~55% avg before scaling. Does not know how the final will scale by this point. Final+mt is worth 60%. No practice for the final. Prairie learn questions were not similar to the final.
+
+--- Rating #3 ---
+Class: CPSC221
+Date: 2022-04-16 21:01:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Outstanding professor, explains things extremely well!
+
+--- Rating #4 ---
+Class: CPSC221
+Date: 2021-06-25 01:12:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Excellent Professor, taught the content well and took time to make sure to answer questions after some hard concepts. went to his office hours and he was patient and answered my questions in a nice manner. Although there were a few assignments that was tough, the rest and the exams were alright as long as you were listening and doing the practice.
+
+--- Rating #5 ---
+Class: CPSC221
+Date: 2021-06-06 08:59:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+This guy is the least responsive instructor I've ever seen. He gives too long C++ assignments and does not care about his students. The assignments are almost the same as CS 225 of Illinois University. He is also quite rude when you go to his office hours. Avoid taking his course at all cost. There are many other good instructors in UBC.
+
+--- Rating #6 ---
+Class: CPSC121
+Date: 2021-03-20 04:14:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Geoffery explains complicated problems really well, I really enjoyed his lectures.
+
+--- Rating #7 ---
+Class: APSC160
+Date: 2021-01-15 18:18:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Professor Tien was an absolute delight. He taught my APSC160 class at UBC and he always made sure to go through the clicker questions afterwards (solving them) so we understood the content. The first half of the course (which he taught) was enjoyable and made sense.
+
+--- Rating #8 ---
+Class: CPSC259
+Date: 2020-12-19 19:48:08 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Interesting and fun labs. Lectures give sufficient information. Homework is completely unexplained by the lecture notes. Midterms and final can be very hard, sometimes unreasonably.
+
+--- Rating #9 ---
+Class: APSC160
+Date: 2020-10-29 23:45:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Geoffrey was an absolute legend. The man gives the most in depth, comprehensive replies to every question whether it is a tough question or a simple question. He does an amazing job explaining every concept and his Clicker questions are very thought provoking.
+
+--- Rating #10 ---
+Class: CPSC121
+Date: 2020-01-23 00:41:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Geoffrey Tien could stand to be more engaging with his classes. His lectures were incredibly boring, I found myself falling asleep many times. The course is a hard one so not falling behind is important but the style of teaching made it much harder to endure.
+
+--- Rating #11 ---
+Class: CPSC221
+Date: 2019-05-07 07:11:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is the best cs prof at UBC I had ever met. His lecture ppt and notes are clear and pretty helpful. He makes a very hard course easier. I definitely recommend you to take his classes. Really nice guy.
+
+--- Rating #12 ---
+Class: CPSC259
+Date: 2019-04-13 21:49:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+His lectures are really good and he is very organized. He's also decently funny and very friendly. There really aren't any cons to him. two thumbs up
+
+--- Rating #13 ---
+Class: CPSC221
+Date: 2019-04-10 01:55:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Geoff is amazing. His lecture slides are perfect and super helping. He makes every concept very clear and straightforward. He is by far the best instructor in Comp Sci department.
+
+--- Rating #14 ---
+Class: CS259
+Date: 2018-12-12 03:36:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Honestly, you probably won't get a better professor than Geoff for 259. He is VERY organized and is also a nice guy in terms of marking/scaling/accessibility. Pretty funny too! The midterms can be a bit vague/difficult, but the material itself is not that hard.
+
+--- Rating #15 ---
+Class: CPSC259
+Date: 2018-12-12 02:24:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Geoff is an amazing instructor. Although his midterms and exams can be slightly vague and a bit hard at times, he puts his very best in explaining concepts in lectures (do go for his lectures). He is pretty generous with his office hours (do go for his hours, it's pretty empty) and is very patient in making sure you understand thoroughly.
+
+--- Rating #16 ---
+Class: CPSC221
+Date: 2018-05-19 23:45:03 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Good professor. Got through the material, sometimes got lost in his own examples and lecture slides. For 221, lots of online material and lots of other resources to learn the material, so lectures weren't ultra important. He was very helpful in office hours, and a pretty nice guy. NOTE: Cinda is better though.
+
+--- Rating #17 ---
+Class: CPSC221
+Date: 2018-03-29 02:18:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+One of the better profs I've had in my time at UBC. Lectures are very clear, very engaging with humor that's actually funny and not a desperate call for engagement. Prepares you really well for the exams.
+
+--- Rating #18 ---
+Class: CPSC221
+Date: 2018-03-21 15:37:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Superb instructor! Very clear lectures with great examples and explanations. He definitely knows his stuff and can answer any questions that come up. CPSC221 as a course is fairly heavy in material by nature so I don't blame Geoff for the difficulty. Lectures are often very funny as well!
+
+--- Rating #19 ---
+Class: CPSC221
+Date: 2018-02-05 15:32:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Geoff was really great! I personally thought he was one of the best lecturers I've had at UBC. He's very clear and concise with concepts and what you need to know for the course, and he patiently answers any questions that arise in class. In office hours, he'll be very determined to help you solve any problems you have!
+
+--- Rating #20 ---
+Class: CPSC221
+Date: 2018-01-28 02:16:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Geoff's no doubt a great prof, and though some of my peers think he's a little monotoned, I find his lectures to be very clear and I love how he explains the difficult concepts to you as if you were an 8 year old. Super easy to follow, super easy to understand. He's accessible during his office hours, answers questions very patiently.

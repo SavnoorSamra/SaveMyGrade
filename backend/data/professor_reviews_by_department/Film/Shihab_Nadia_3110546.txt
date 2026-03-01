@@ -1,0 +1,11 @@
+Professor: Nadia Shihab
+Professor Legacy ID: 3110546
+Professor ID: VGVhY2hlci0zMTEwNTQ2
+Department (CSV): Film
+Department (Fetched): Film
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

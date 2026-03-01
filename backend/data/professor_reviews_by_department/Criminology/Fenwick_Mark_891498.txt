@@ -1,0 +1,11 @@
+Professor: Mark Fenwick
+Professor Legacy ID: 891498
+Professor ID: VGVhY2hlci04OTE0OTg=
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

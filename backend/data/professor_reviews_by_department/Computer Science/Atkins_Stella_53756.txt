@@ -1,0 +1,232 @@
+Professor: Stella Atkins
+Professor Legacy ID: 53756
+Professor ID: VGVhY2hlci01Mzc1Ng==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.5
+Avg Difficulty: 1.9
+Num Ratings: 17
+Would Take Again Percent: -1
+
+Ratings Count Returned: 17
+
+--- Rating #1 ---
+Class: CMPT363
+Date: 2009-11-11 17:48:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Very easy course, and Stella makes it that much easier. The projects were very straight forward, the presentation at the end was really easy, and the midterms were pretty standard. You've got to study off of the notes, and you'll do fine. Got an A+ and I attended half the lectures. Just study the slides and notes, and you'll be fine.
+
+--- Rating #2 ---
+Class: CMPT363
+Date: 2009-07-30 02:55:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Overall a pretty easy course.  I managed to get an A in this class which is rare for me considering that I am not a smart student and pretty lazy.  Exams are pretty easy, read through her lecture notes and you'll easily get a decent grade.  Would definitely take another course with her if I got the opportunity.
+
+--- Rating #3 ---
+Class: CMPT363
+Date: 2008-08-22 13:02:43 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+A very easy class.  Unfortunately, it is also tediously boring.  Stella does her best to make it interesting.  Her grading is fair, the workload is light, and the usefulness is rather limited.
+
+--- Rating #4 ---
+Class: CMPT363
+Date: 2008-08-15 09:41:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Course involves a semester-long group project, so beware of deadweight group members. Slept through 90% of lectures and still managed to get an A. Assignments are generally fair (though difficulty may depend on what your group decides to for the project), exams are also very fair. Grades participation based on class activity handout sheets.
+
+--- Rating #5 ---
+Class: CMPT363
+Date: 2008-06-17 14:02:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Very good professor who makes a boring class a bit more interesting.  She is definitely interested in the material and overall it is a an easy class.  It is true for an HCI professor she seems to have problems using her computer.  Would take a class with her again.
+
+--- Rating #6 ---
+Class: CMPT363
+Date: 2007-12-27 00:50:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I had an enjoyable time with her for summer 2007 intersession, but too bad it wasn't full semester. Tries to keep lecs interesting, and admits she's like all of us who aren't experts in all user interfaces. That's how we learn and improve. Manageable tests and asns and fairly marked. More importantly they reflect what we learned in class and text.
+
+--- Rating #7 ---
+Class: CMPT363
+Date: 2007-09-08 04:41:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Very easy course and she's a good prof, minus her inability to use exactly what she's teaching (i.e. interfaces)  Some things are annoying about her but marking is fair and class expectations are more than fair - at least for this course which was a breeze.  The notes are decent, and lectures aren't all that boring.
+
+--- Rating #8 ---
+Class: CMPT363
+Date: 2006-04-19 00:43:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Simple class, with not a whole lot of work required.  I'd say it's a pretty easy credit.
+
+--- Rating #9 ---
+Class: CMPT363
+Date: 2005-08-05 00:05:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: N
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+exams are incredibly easy, lots of assignments but none take much work. easy credit and somewhat interesting.
+
+--- Rating #10 ---
+Class: CMPT363
+Date: 2005-08-02 03:24:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+one of the easiest courses I've taken in sfu. It shows that she's not an expert in UI design and HCI. But what the heck, Ive taken it because its a gpa booster, cant complain
+
+--- Rating #11 ---
+Class: CMPT363
+Date: 2005-07-09 00:13:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+First time teaching this course.  Basically summarizes the recommended text and present them to us.  Good research background, but comments regarding HCI made in class are too subjective.  This is a theory class; not an art class.  A lot of overlap with CMPT 275.  A lot of work required; be prepared.
+
+--- Rating #12 ---
+Class: CMPT363
+Date: 2005-06-13 21:47:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #13 ---
+Class: CMPT340
+Date: 2004-09-15 16:45:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Course is good itself except the tutor
+
+--- Rating #14 ---
+Class: CMPT340
+Date: 2003-04-22 16:44:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #15 ---
+Class: CMPT340
+Date: 2002-08-10 05:56:49 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #16 ---
+Class: CMPT340
+Date: 2002-06-14 01:45:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+A bit spinny, but still a nice enough prof. 340 is brutal!
+
+--- Rating #17 ---
+Class: CMPT340
+Date: 2002-05-24 01:41:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments

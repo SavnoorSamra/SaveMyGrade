@@ -1,0 +1,63 @@
+Professor: Samantha Balemba
+Professor Legacy ID: 1448411
+Professor ID: VGVhY2hlci0xNDQ4NDEx
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 3.4
+Avg Difficulty: 3.8
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: RESMETH
+Date: 2014-10-08 23:04:37 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Balemba's test are hard. Even coming to class I didn't pass the midterm basically the whole class failed the midterm and she would not curve it. I will never take this professor again.
+
+--- Rating #2 ---
+Class: RESMETH
+Date: 2014-10-06 09:59:08 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Balemba is a cool person and she can be pretty funny, but her class is HARD. She pretty much just summarizes the reading in her lecture, and her tests are awful. 7 chapters per test at least, and two tests per semester. Each worth 30% of your grade.
+
+--- Rating #3 ---
+Class: CRIM316
+Date: 2012-12-16 23:02:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+This class was alright. Her slides are clear and she has a good sense of humor. The course readings (all journal articles) are sometimes difficult to understand but exams were fair.
+
+--- Rating #4 ---
+Class: CRIM320
+Date: 2011-06-27 02:33:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Very helpful TA. Knew her stats and knew how to explain them in an understandable way. Plus, she is smokin hot.

@@ -1,0 +1,76 @@
+Professor: Kylie Reale
+Professor Legacy ID: 2156799
+Professor ID: VGVhY2hlci0yMTU2Nzk5
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 3.4
+Avg Difficulty: 3.4
+Num Ratings: 5
+Would Take Again Percent: 60
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: CRIM101
+Date: 2021-04-29 11:48:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Don't recommend.
+
+--- Rating #2 ---
+Class: CRIM316
+Date: 2018-01-16 18:48:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+BEST TA I've ever had. She is always so prepared, caring, and fun to be around. Loved her!
+
+--- Rating #3 ---
+Class: CRIM316
+Date: 2016-12-09 00:07:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Kylie is a really great TA. She keeps the tutorials interesting and also very useful. She   is quick to return emails or offer helpful advice during office hours. The prof I had for this class was brutal and having Kylie as a TA saved my grade.
+
+--- Rating #4 ---
+Class: CRIM320
+Date: 2016-10-19 15:20:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Kylie is able to breakdown and explain difficult concepts in a way that is easy to understand. As a student, I found her to be very approachable and she was always willing to take time to ensure I had a thorough understanding regarding assignments & exams. She is a fair marker and her approach to teaching shows that she cares about her students.
+
+--- Rating #5 ---
+Class: CRIM320
+Date: 2016-07-12 16:02:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Kylie is one of the worst TA's ive ever had at SFU. she is very rude when it comes to responding to emails and graded the research proposal like the class are experts in the field of research. at least she has her looks going for her though

@@ -1,0 +1,37 @@
+Professor: Michael Rosenblat
+Professor Legacy ID: 2810250
+Professor ID: VGVhY2hlci0yODEwMjUw
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 1
+Avg Difficulty: 5
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BPK303
+Date: 2022-09-01 21:23:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Not very understanding. Expectations unreasonable
+
+--- Rating #2 ---
+Class: BPK326
+Date: 2022-07-06 01:14:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Unreasonable expectations and exams

@@ -1,0 +1,37 @@
+Professor: Alicia Massie
+Professor Legacy ID: 2684075
+Professor ID: VGVhY2hlci0yNjg0MDc1
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 4.5
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: CMNS432
+Date: 2021-04-28 09:31:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Man, I just love Alicia so much. Ever since this pandemic started, teachers just do not care about putting effort into making online school engaging. I had a 4 hour lecture with her and they were so compact with fun activities and discussions that the 4 hours just flew by. She is incredibly kind and personable, ugh just a wonderful human.
+
+--- Rating #2 ---
+Class: CMNS432
+Date: 2021-04-08 23:16:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+hands down one of my favourite professors at SFU. The class was also one of the few realistic, applicable classes within the CMNS degree. It was difficult in terms of learning new concepts and actually diving into political conversations that I never usually engage in. Readings were engaging and weren't just from old journal articles.

@@ -1,0 +1,271 @@
+Professor: Daniel Vigo
+Professor Legacy ID: 2306557
+Professor ID: VGVhY2hlci0yMzA2NTU3
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 3.1
+Avg Difficulty: 2.7
+Num Ratings: 34
+Would Take Again Percent: 55.8824
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: HSCA214
+Date: 2025-09-04 23:33:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Hard time engaging in critical dialogue from students, came across as top down, challenging.
+
+--- Rating #2 ---
+Class: HSI214
+Date: 2025-09-04 23:30:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Terribly difficult to follow line of thinking; demeaning approach in responding to your inquires. Strongly do not recommend.
+
+--- Rating #3 ---
+Class: HSCI214
+Date: 2019-12-15 16:18:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Solid prof. Community assignment was eye opening.
+
+--- Rating #4 ---
+Class: HSCI214
+Date: 2019-11-16 06:55:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+big picture kind of guy, avoid if you just want the basics
+
+--- Rating #5 ---
+Class: HSCA214
+Date: 2019-08-02 19:42:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Could use more focus on his lectures, but transmits his love and knowledge of the subject
+
+--- Rating #6 ---
+Class: HSCI214
+Date: 2019-07-26 22:09:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very good prof. the community project changed my perspective in so many ways!
+
+--- Rating #7 ---
+Class: HSCI214
+Date: 2019-07-16 05:16:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+this was the first time i got exposed to the plight of people with mental disorders. a must.
+
+--- Rating #8 ---
+Class: HSCI214
+Date: 2019-07-09 00:05:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Quite a luxury to have this type of prof.
+
+--- Rating #9 ---
+Class: HSCI214
+Date: 2019-07-07 16:59:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The participatory exercise was graduate school level, too complex and demanding. Other than that, great class
+
+--- Rating #10 ---
+Class: HSI214
+Date: 2019-06-30 16:50:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+broad social framework to understand mental health disorders. I loved it
+
+--- Rating #11 ---
+Class: HSCI214
+Date: 2019-06-18 19:25:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Best lectures ever!
+
+--- Rating #12 ---
+Class: HSI214
+Date: 2019-06-01 20:39:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Opened my eyes about mental health problems. Assignments seem for graduate school.
+
+--- Rating #13 ---
+Class: HSCI214
+Date: 2019-05-23 17:40:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Opened my eyes about the problems of mental health globally
+
+--- Rating #14 ---
+Class: HSCI214
+Date: 2019-05-13 17:11:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lots of experiential learning. Group assignments very demanding. Worth it in my view.
+
+--- Rating #15 ---
+Class: HSCI214
+Date: 2019-05-06 16:45:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+REally connected to the issue of mental health and passioonate about it. Very tough, which was to be expected coming from Harvard. But overall great experience
+
+--- Rating #16 ---
+Class: HSCI214
+Date: 2019-05-02 23:11:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The textbook is more helpful than his lectures (15 slides for 3 hours). But the participation grade will force you to stay for his rants unrelated to the course. Tests are all MC. You'll get a good grade but won't learn much. Easy class but still wouldn't recommend.
+
+--- Rating #17 ---
+Class: HSCI214
+Date: 2019-05-02 16:59:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Awesome prof. Really hard though, so no surprise slackers wrote bad reviews
+
+--- Rating #18 ---
+Class: HSCI214
+Date: 2019-01-22 06:36:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Sat through 3 hour lectures every week just for 20% attendance. Goes on unrelated tangents &amp;boring to listen to. He didn't even show up to our midterm. Easy mc tests, paper was easy but my TA gave me a bad mark without feedback. I read the textbook the morning of the midterm&amp;final and ended with an A. Pretty chill/easy class though despite the prof
+
+--- Rating #19 ---
+Class: HSCI214
+Date: 2018-12-23 09:19:07 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+While this was arguably the most boring class at SFU, the exams were easy (all multiple choice) and the paper required minimal effort. As long as you show up to lectures and participate in tutorial you would do fine with this prof, even though he did not really teach me anything
+
+--- Rating #20 ---
+Class: HSCI214
+Date: 2018-12-21 10:29:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+20 slides of notes with very few words for a 3 hr lec. Frequently goes off on rants unrelated to the course. Doesn't help that the participation grade involves asking questions during lecture where people ask unrelated questions for participation marks. Exams are easy and pretty much textbook Q/iclickers reworded. Class avg was a B+.

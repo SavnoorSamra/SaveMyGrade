@@ -1,0 +1,180 @@
+Professor: Frank Gao
+Professor Legacy ID: 2171170
+Professor ID: VGVhY2hlci0yMTcxMTcw
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 1.8
+Avg Difficulty: 4
+Num Ratings: 13
+Would Take Again Percent: 15.3846
+
+Ratings Count Returned: 13
+
+--- Rating #1 ---
+Class: ECON103
+Date: 2017-10-10 21:53:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He got confused and scrambled quite a bit but as long as you pre-read and attend every lecture you will not have trouble with the course. Obviously if you skip class regularly, you are not going to do well. his exams were extremely similar to his practice exams and assignments so you know what you are getting into.
+
+--- Rating #2 ---
+Class: ECON103
+Date: 2017-01-12 05:53:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He just wrote on printed out PowerPoint slides (posted online). It was difficult to understand what he said and wrote, he also crossed out stuff, wrote over things, and did stuff wrong constantly. Studied off his assignments and managed a decent mark. I didn't open the textbook or go to lecture often. Genuine guy, just can't teach to save his life.
+
+--- Rating #3 ---
+Class: ECON103
+Date: 2017-01-04 18:52:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He's a nice guy, he brought us candy for halloween, but terrible professor. The textbook is useless, it's all in his lecture but lectures are extremely boring. I skipped quite a bit. He mixes things up, and he scratches out what he writes often which makes things confusing, also very unclear. Overall, it was horrible, thankfully I passed though.
+
+--- Rating #4 ---
+Class: ECON103
+Date: 2016-12-14 16:33:16 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+His lectures are basically the bare minimum of what you need to learn to do well in this course. Go home, watch youtube videos, read the book, work backwards using the assignment answer keys to understand the problems. I HAVE heard that other Econ profs give much trickier exams, so if you can self teach, you might find this stuff straightforward.
+
+--- Rating #5 ---
+Class: ECON103
+Date: 2016-12-11 00:03:36 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Econ 103 is already a pretty boring class and frank certainly doesn't help. He spends a lot of time explaining very basic concepts, then uses questions on assignments and tests that are completely beyond what we learned in class. However, his assignments are very similar to the exams so if you can master them you will be fine.
+
+--- Rating #6 ---
+Class: ECON103
+Date: 2016-12-10 11:26:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+DO NOT TAKE THIS COURSE WITH THIS PROF. He is easily one of the worst profs I have had at SFU. Lectures are dull. His notes are hard to follow as he constantly makes mistakes and crosses things out, making things extremely messy. Has trouble explaining concepts effectively and gives vague answers to questions. Look elsewhere for an econ prof.
+
+--- Rating #7 ---
+Class: ECON103
+Date: 2016-12-07 01:24:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Terrible Lecturer. Lectures are long, boring and he constantly makes mistakes while explaining concepts. Has trouble answering questions clearly. His midterm was pretty difficult and to make matters worse, his answer key was incorrect. I recommend looking for a different Econ prof. If you wan't someone who can't explain concepts, this is your guy.
+
+--- Rating #8 ---
+Class: ECON103
+Date: 2016-11-21 23:22:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+-Notes are messy and hard to follow -Gives vague and unclear answers to questions -Examples in notes do not cover questions asked in assignments -Assignments are for completion marks which is fine, but they also wont say anything if your answers are completely wrong so keep that in mind if u are using them to study off of
+
+--- Rating #9 ---
+Class: ECON103
+Date: 2016-11-02 01:34:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very confusing with his accent, if you want to fail in econ 103 like most of the class did then go ahead.
+
+--- Rating #10 ---
+Class: ECON103
+Date: 2016-11-01 04:28:00 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Completely boring lectures and extremely unclear. His midterm was really difficult parts of his answer key were wrong as well. If you're planning to take Econ 103, i would recommend looking somewhere else.
+
+--- Rating #11 ---
+Class: ECON103
+Date: 2016-10-26 16:22:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I really like Frank. He's teaching a 1st year course where math isn't a prerequisite so I get the bad reviews, because he is very math-focused and that can trip some people up. Cares a lot about his students and goes over concepts slowly. Just read the textbook before lectures and you'll do fine. Midterm was almost the same as the assignment.
+
+--- Rating #12 ---
+Class: ECON103
+Date: 2016-09-28 05:32:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very repetitive lecturer. Makes mistakes in his lectures and then corrects himself multiple times each class.
+
+--- Rating #13 ---
+Class: ECON103
+Date: 2016-09-21 14:52:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Horrible lecturer, very monotone..  Doesn't explain concepts well, if you can get another for econ,  try too

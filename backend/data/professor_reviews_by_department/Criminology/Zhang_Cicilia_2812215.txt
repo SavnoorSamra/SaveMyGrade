@@ -1,0 +1,11 @@
+Professor: Cicilia Zhang
+Professor Legacy ID: 2812215
+Professor ID: VGVhY2hlci0yODEyMjE1
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

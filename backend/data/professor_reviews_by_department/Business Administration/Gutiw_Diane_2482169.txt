@@ -1,0 +1,63 @@
+Professor: Diane Gutiw
+Professor Legacy ID: 2482169
+Professor ID: VGVhY2hlci0yNDgyMTY5
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.5
+Avg Difficulty: 3.5
+Num Ratings: 4
+Would Take Again Percent: 75
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: BUS468
+Date: 2023-10-16 23:49:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Very inspirational
+
+--- Rating #2 ---
+Class: BUS468
+Date: 2020-02-18 00:44:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+One of the best profs at SFU. Very well experienced and approachable.
+
+--- Rating #3 ---
+Class: BUS468
+Date: 2020-01-31 11:46:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very passionate and well experienced
+
+--- Rating #4 ---
+Class: BUS468
+Date: 2019-04-21 17:36:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Decent lecturer. She's a bit disorganized and her grading scheme is pretty unclear so communication is key during and outside of class. The curve is tight till the final exam which is worth 30%. Comprehensive review of all the slides and outside research of emerging technology is important for the final.

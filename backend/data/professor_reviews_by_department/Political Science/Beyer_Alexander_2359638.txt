@@ -1,0 +1,24 @@
+Professor: Alexander Beyer
+Professor Legacy ID: 2359638
+Professor ID: VGVhY2hlci0yMzU5NjM4
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 5
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: POL339
+Date: 2019-04-06 21:46:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+All around good guy and would take more classes with him.

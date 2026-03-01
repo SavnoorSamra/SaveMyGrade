@@ -1,0 +1,24 @@
+Professor: Thomas Huw
+Professor Legacy ID: 1389074
+Professor ID: VGVhY2hlci0xMzg5MDc0
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 3
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: CLASS000
+Date: 2010-12-26 06:14:28 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+This professor goes with the name as Owen Thomas

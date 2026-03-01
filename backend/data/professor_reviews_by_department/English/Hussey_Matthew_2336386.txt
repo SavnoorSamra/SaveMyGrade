@@ -1,0 +1,128 @@
+Professor: Matthew Hussey
+Professor Legacy ID: 2336386
+Professor ID: VGVhY2hlci0yMzM2Mzg2
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 4.4
+Avg Difficulty: 3.3
+Num Ratings: 9
+Would Take Again Percent: 100
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: ENGL111W
+Date: 2025-12-11 09:38:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The content itself was very boring but he was the star of the show honestly. He made lectures entertaining and was clearly very nice. The essays are marked quite harshly & the essay prompts are so abstract & somewhat unconventional that it can be difficult to answer. Like Matthew, the TAs were VERY accommodating, would give my TA a 5 if I could
+
+--- Rating #2 ---
+Class: ENGL111W
+Date: 2025-12-02 18:08:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prof. Hussey was amazing, the selection of texts was great, he kept lectures light and fun! The TA's however, were a different story. Very hard markers, little to no criteria on papers that are worth 30% of your grade. I was given very little constructive criticism on any assignments and no info on how to develop my ideas or get a higher mark.
+
+--- Rating #3 ---
+Class: ENGL111W
+Date: 2025-11-07 19:09:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+really funny and really nice. his lectures are interesting when i listen and you dont need to pay attention much to do well. love the guy and would retake him for anything
+
+--- Rating #4 ---
+Class: ENGL306
+Date: 2021-04-29 18:44:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+While I didn't care for the content of the course all too much, as a professor, he did as much as anyone could to make it interesting. I especially felt that he was able to make the synchronous sessions very welcoming and I felt comfortable speaking. However, he is a tough marker and in my opinion, some of his ideas were a bit vague. Solid prof!
+
+--- Rating #5 ---
+Class: ENGL201
+Date: 2020-12-12 22:18:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Dr. Hussey is very caring and was able to make otherwise boring content into material that was super engaging! Although, the readings were extremely long and I disliked that in his recorded lectures that he would go about 20min overtime each week, but weekly discussions were extremely easy and barely time consuming
+
+--- Rating #6 ---
+Class: ENGL201
+Date: 2020-10-19 20:54:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Online class because it was taken during COVID, Dr. Hussey is an extremely understanding prof and turned a very boring class into something interesting. I never thought I would like medieval literature, but he teaches it so smoothly. Definitely recommend him as a prof, although there is a lot of reading and weekly responses.
+
+--- Rating #7 ---
+Class: ENGL300
+Date: 2019-10-24 03:24:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Matt is an absolutely amazing professor! He gives every opportunity to gain marks and to understand better. I would highly recommend him, I always look forward going to his class.
+
+--- Rating #8 ---
+Class: ENGL400W
+Date: 2018-12-01 00:57:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Matt is a great prof! He can keep lectures entertaining, he's easy to talk to and he understands our struggle. I recommend speaking with him during his office hours if you don't understand something or need some guidance.
+
+--- Rating #9 ---
+Class: ENGL114
+Date: 2018-01-16 00:49:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Matthew keeps lectures engaging and interesting. He does an amazing job explaining the readings and what is expected on assignments. For someone who hasn't taken an English course in years, he made the material easy to understand! Great prof!!

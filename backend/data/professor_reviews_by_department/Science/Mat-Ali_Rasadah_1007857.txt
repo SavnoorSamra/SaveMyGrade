@@ -1,0 +1,11 @@
+Professor: Rasadah Mat-Ali
+Professor Legacy ID: 1007857
+Professor ID: VGVhY2hlci0xMDA3ODU3
+Department (CSV): Science
+Department (Fetched): Science
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

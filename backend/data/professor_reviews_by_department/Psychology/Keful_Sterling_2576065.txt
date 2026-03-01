@@ -1,0 +1,24 @@
+Professor: Sterling Keful
+Professor Legacy ID: 2576065
+Professor ID: VGVhY2hlci0yNTc2MDY1
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: PSYC300
+Date: 2020-03-02 16:03:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Sterling was a great TA for PSYC 300. He was always available for his students and gave amazing feedback. He really seemed to want his students to succeed.

@@ -1,0 +1,63 @@
+Professor: Angelpreet Singh
+Professor Legacy ID: 2162329
+Professor ID: VGVhY2hlci0yMTYyMzI5
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4
+Avg Difficulty: 2.8
+Num Ratings: 4
+Would Take Again Percent: 75
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: EDUC341
+Date: 2017-05-26 02:40:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Angel is a great prof. I found her to be clear, organized, kind, and gave plenty of feedback on assignments. She often praised students in class for their good work! Would definitely take a class with Angel again!
+
+--- Rating #2 ---
+Class: EDU341
+Date: 2017-04-08 19:59:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The content itself is simple. She's nice and has an angelic voice, but overall she taught content that had nothing to do with the class (i.e history). It was a summer class, and she had pointless assignments w/ no clear grading criteria every week. Random projects... DO NOT take is u hav summer plans. If you did not attend she did not like you
+
+--- Rating #3 ---
+Class: EDU341
+Date: 2017-02-01 23:45:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Attendance mandatory which I wasn't fond of.. but overall amazing professor. She is so caring, attentive and always ready to help and accessible. Super understanding as well. Her lessons and assignments have points behind them. 110% would recommend and take again!
+
+--- Rating #4 ---
+Class: EDUC341
+Date: 2016-08-13 04:30:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Honestly hands down she is the most caring prof I had. She was a bit unorganized with her expectations for assignments however this was her first semester teaching and she asked for feedback every class. She is a very fair marker. No textbook. But seriously you gotta try to do bad if you want to fail. Definetly would take classes with her again.

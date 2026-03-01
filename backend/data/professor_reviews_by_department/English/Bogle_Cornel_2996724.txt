@@ -1,0 +1,154 @@
+Professor: Cornel Bogle
+Professor Legacy ID: 2996724
+Professor ID: VGVhY2hlci0yOTk2NzI0
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 3.5
+Avg Difficulty: 3.4
+Num Ratings: 11
+Would Take Again Percent: 54.5455
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: ENGL272
+Date: 2025-11-27 00:18:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I'm fairly disappointed by this professor. I felt the class assignments were alright. However, it is difficult to get in touch with him outside class via email or office hours. He simply does not respond to my emails or follow through with accommodations set by CAL.
+
+--- Rating #2 ---
+Class: ENGL472w
+Date: 2025-11-07 00:43:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's great. The class content is emotionally challenging, but his academic focus is on Black diaspora literature and archives, so what can you expect? As a creative writing prof he is inspiring, thought-provoking, student-focused, and supportive. Fair marker. Intellectually, expect to be challenged, the poetry is highly conceptual and current.
+
+--- Rating #3 ---
+Class: ENGL272
+Date: 2025-10-25 20:25:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Horrible professor. Lectures and tutorials do nothing to help you succeed in this class. Dr. Bogle is nice though.
+
+--- Rating #4 ---
+Class: ENGL272
+Date: 2025-10-25 20:17:48 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Bogle's lectures are good, but I have found his grading and feedback impossible to understand. This is the first time I've taken an English class where you can put in a ton of effort and still receive terrible grades, which is honestly ridiculous and disheartening. Don't take his classes if you want to see your hard work actually pay off.
+
+--- Rating #5 ---
+Class: ENGL272
+Date: 2025-10-19 02:05:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Not sure what the person below me is on about. They must've been the person who interrupted the lecture last week to ask some question really aggressively smh
+
+--- Rating #6 ---
+Class: ENGL272
+Date: 2025-10-10 07:11:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Not a good prof.
+
+--- Rating #7 ---
+Class: ENGL361
+Date: 2025-07-15 22:26:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor Bogle is AMAZING. He is everything you want in a professor: kind, caring, and an absolute genius. He gives great feedback and is always available for extra help.
+
+--- Rating #8 ---
+Class: ENGL361
+Date: 2025-04-16 02:58:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Bogle is an awesome prof, they are hilarious and kind, and connect with all their students. Class is graded difficulty, but will definitely help you learn and improve your writing, he gives great feedback too. Material is so interesting I honestly wish I could take the class all over again, highly reccomend.
+
+--- Rating #9 ---
+Class: ENGL272
+Date: 2024-12-15 01:04:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prof Bogle is one of the best instructors I've ever had! Incredibly caring and gives really helpful advice. The way he explains concepts and the way he frames questions leads to really interesting discussions. He's super understanding and a fantastic lecturer. His marking is fair and he pushes you to be a great writer. Could not recommend more!
+
+--- Rating #10 ---
+Class: ENGL361
+Date: 2024-12-01 02:21:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor Bogle is great! Approachable and very helpful. He gives great feedback on papers, and is easily accessible outside of class for extra help. I would LOVE to take another class with him!
+
+--- Rating #11 ---
+Class: ENGL209
+Date: 2024-03-30 02:22:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures help explain the books you read but going to tutorials will help you just fine (if you have an engaging group). No final just analysis and essays so you HAVE to read. They can be very long but pacing yourself will help you. Lectures themselves get complicated sometimes with overload of information.

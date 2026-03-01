@@ -1,0 +1,24 @@
+Professor: Kelly Heward
+Professor Legacy ID: 1371976
+Professor ID: VGVhY2hlci0xMzcxOTc2
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 4.5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: CMNS259
+Date: 2010-01-28 17:36:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She's a TA, but she is capable of being a professor. Very interested in helping you, and seems to actually take a good look at your assignments and give you proper feedback, although this course will not help you with other cmns courses like 221 or 353 from what I can remember.

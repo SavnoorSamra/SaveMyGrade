@@ -1,0 +1,271 @@
+Professor: Howard Trottier
+Professor Legacy ID: 21620
+Professor ID: VGVhY2hlci0yMTYyMA==
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 4.1
+Avg Difficulty: 2.9
+Num Ratings: 109
+Would Take Again Percent: 63.4146
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PHYS190
+Date: 2025-04-09 16:02:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+The multiple choice on exams are pretty hard, but he offers practice exams and often just copy pastes a few of them onto the actual exams. He's clearly extremely passionate about his teaching and is a super nice guy. He does office hours on discord pretty often and just sits in vc for a few hours so it's super easy to talk to him
+
+--- Rating #2 ---
+Class: PHYS190
+Date: 2025-04-08 21:34:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Literally the best professor that I have had during my time at SFU. Fun lectures with lots of demonstrations, clear enthusiasm about the topics. He was able to make complicated concepts easy to understand!
+
+--- Rating #3 ---
+Class: PHYS190
+Date: 2025-03-30 19:19:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This man is quite literally one of the best SFU profs. He is a very knowledgeable guy about astronomy, his midterms may make me pray to the stars the night before but he is great. Please go to lectures because his slides are incomplete and there are questions for marks as well.
+
+--- Rating #4 ---
+Class: PHYS190
+Date: 2025-01-14 17:52:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Howard clearly loves what he does. He's a great prof and explains concepts really well. He was always happy to explain them over and over during regular office hours too.
+
+--- Rating #5 ---
+Class: PHYS190
+Date: 2025-01-07 19:45:44 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Howard shows a deep interest in astronomy, and made lectures engaging with different demos. Exams were difficult in comparison to the assignments and practice tests leading up to them (they were very heavy on multiple choice, some fill in the blank, and short answers). Labs and assignments were relatively easy.
+
+--- Rating #6 ---
+Class: PHYS190
+Date: 2024-12-28 09:52:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sooo fun and the best prof at SFU I've had so far. Love when profs are actually passionate about teaching (rare).
+
+--- Rating #7 ---
+Class: PHYS190
+Date: 2020-04-23 00:38:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Howard was one of the best profs I have encountered at SFU so far. His passion for teaching is evident and he does everything he can so that his students do well. Due to the nature of the course, you'll have to spend some time understanding the material, but his assignments and tests were always fair. This was a great class, I highly recommend
+
+--- Rating #8 ---
+Class: PHYS190
+Date: 2020-02-19 21:20:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+I took this course out of interest and was not disappointed. Howard is clearly passionate about his field and brought a ton of enthusiasm to every lecture. Exams are exactly what you learn in class, so all you have to do is show up and take notes.
+
+--- Rating #9 ---
+Class: PHYS190
+Date: 2020-02-12 21:49:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Howard is the BEST professor I have in SFU. He is so passionate about Astronomy and his lectures are AMAZING and interesting. He would explain concepts clearly with experiments sometimes. He might speak a little fast but he is always available after class to help you. Totality, totality, totality, TOTALITY !!!!
+
+--- Rating #10 ---
+Class: PHYS190
+Date: 2019-11-07 23:25:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great teacher, cares a lot about teaching and his students. Quite funny and babble's a little bit but it's not annoying. If your not interested in the subject it'll be very boring and not make a lot of sense but Trottier makes it easy enough to pass and get a decent grade. Lastly, you can get away with not reading anything from the textbook.
+
+--- Rating #11 ---
+Class: PHYS190
+Date: 2019-10-09 05:33:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Howard is an excellent teacher who explains concepts in ways students can understand. He will take any question raised by students and answer it to their satisfaction. I am a Science major so the math portion of the course felt a bit too dumbed down, but overall I really enjoyed his class and would take one with him again.
+
+--- Rating #12 ---
+Class: PHYS190
+Date: 2019-06-26 06:42:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Definitely didn't connect with him as a professor or as a person, but he's very organized and concepts are easy to follow. Would definitely recommend taking astronomy because it was really interesting. It's an easy A-/B+ if you really go over the slides and make notes of the main concepts
+
+--- Rating #13 ---
+Class: PHYS190
+Date: 2019-06-04 17:20:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I'm an arts student, and took Phys 190 for the Q credit. I'm so hopeless at math that I barely know the times table (lol), and I finished with an A+ in this class. (Granted, I studied pretty hard for the final). As long as you study the lecture content, you will do fine. I read the textbook once... you don't need it. It's mostly all memorization!
+
+--- Rating #14 ---
+Class: PHYS190
+Date: 2019-04-17 00:02:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I took this as a Q credit because im hopeless at math, i was scared that it would be difficult, but if you simply study/memorize the slides and assignment questions AND the breakout questions, you will do absolutely fine as long as you dont cram the day before! Would recc for an easy Q credit!
+
+--- Rating #15 ---
+Class: PHYS190
+Date: 2019-01-04 07:26:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Super passionate about the subject he teaches, and is always available for extra help. Not an easy A but if you study it pays off!
+
+--- Rating #16 ---
+Class: PHYS190
+Date: 2019-01-04 07:20:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I'm a second year and found this course to be better than expected. Dr. Trottier truly knows his subject of expertise and with a little reading before lectures the material is relatively easy to understand. Exams were tough but only if you didn't know the material - no guessing. Overall one of the best electives I've taken!
+
+--- Rating #17 ---
+Class: PHYS190
+Date: 2019-01-04 07:18:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Would recommend
+
+--- Rating #18 ---
+Class: PHYS190
+Date: 2018-12-29 07:15:01 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+PHYS190 is one wild ride. He is extremely passionate about astronomy but lacks simple explanations for questions and concepts asked in lectures. Expect to study a lot on your own because his lectures are mostly rants about unimportant facts, useless details, or bragging about his rich brother or the observatory. He does have some good jokes though
+
+--- Rating #19 ---
+Class: PHYS190
+Date: 2018-12-18 05:38:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+If youre taking this course as a GPA Booster, dont. Exams are incredible difficult mainly because they consist of roughly 95% trick questions. Lecture slides are useless as theyre just pictures with occasional words every here and there. He seems like a nice person but the way he writes his exams makes u feel as if this course is a prereq
+
+--- Rating #20 ---
+Class: PHYS190
+Date: 2018-12-11 01:43:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I took this course as a &quot;GPA booster&quot; but it was the opposite. His lectures are all over the place. For the midterm, he gives you a practice exam which is sort of useful. But, final exams he gives you practice short answers for prep and for some versions uses the exact same questions, for the others they get hard questions from small parts of book.

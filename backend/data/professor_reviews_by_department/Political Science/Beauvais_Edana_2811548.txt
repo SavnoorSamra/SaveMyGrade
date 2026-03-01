@@ -1,0 +1,76 @@
+Professor: Edana Beauvais
+Professor Legacy ID: 2811548
+Professor ID: VGVhY2hlci0yODExNTQ4
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 3.2
+Avg Difficulty: 3.6
+Num Ratings: 5
+Would Take Again Percent: 60
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: POL315
+Date: 2025-06-21 23:20:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Beauvais is lazy, sabotages students, assigns post-graduate readings, and gives incomplete lectures. She didn't teach many things she tested for. In a quiz she asked how many kids she had--her 80 year old dog was a child. I dropped from 70% to 50% on a grade because I didn't add the loading code to the pdf and used N instead of N-1 for sample size.
+
+--- Rating #2 ---
+Class: POL315
+Date: 2024-11-07 19:24:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I really enjoyed taking her class, it was definitely challenging however she was really available to students for extra help.
+
+--- Rating #3 ---
+Class: POL315
+Date: 2024-04-27 01:44:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Unclear about instructions, the midterm was so long that no one was able to complete it, and unclear feedback
+
+--- Rating #4 ---
+Class: POL315
+Date: 2023-05-16 05:29:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great prof, would 100% take a class with her again.
+
+--- Rating #5 ---
+Class: SDA490
+Date: 2022-11-02 04:39:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Beauvais is highly knowledgeable and qualified in her role as a professor. Not only is she good at teaching, but she is immersed in important research outside of the classroom that clearly reflects her passion in the field of political science. I am very grateful to have had her as a prof. She's very structured and gives great feedback!

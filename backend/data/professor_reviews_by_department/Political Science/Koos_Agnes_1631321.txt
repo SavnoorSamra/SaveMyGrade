@@ -1,0 +1,50 @@
+Professor: Agnes Koos
+Professor Legacy ID: 1631321
+Professor ID: VGVhY2hlci0xNjMxMzIx
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 1.3
+Avg Difficulty: 3.7
+Num Ratings: 3
+Would Take Again Percent: -1
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: POL241
+Date: 2011-12-15 14:08:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Lectures are virtually pointless. It's just the textbook material thrown back at us in an incomprehensible jumble. Her grading made little to no sense. Great class material, poor professor... which unfortunately ruins the whole thing.
+
+--- Rating #2 ---
+Class: POL241
+Date: 2011-12-05 20:10:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Grading was easy and the course was interesting. Her lectures are useless though as you can't understand her. I didn't go all semester, but you don't really need to. Just make sure you do the readings.
+
+--- Rating #3 ---
+Class: POLI241
+Date: 2011-10-26 10:01:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Awful professor. Impossible to understand due to a thick accent, and minimum of ten &quot;uh&quot;s per sentence. Has nothing to offer outside of the text, which isn't reader friendly. What should be an interesting course is just terrible. Expectations are unclear/grading is difficult. When you ask her a question the response is either unclear or unhelpful.

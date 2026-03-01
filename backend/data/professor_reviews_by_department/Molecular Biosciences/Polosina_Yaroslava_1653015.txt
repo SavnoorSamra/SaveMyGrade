@@ -1,0 +1,24 @@
+Professor: Yaroslava Polosina
+Professor Legacy ID: 1653015
+Professor ID: VGVhY2hlci0xNjUzMDE1
+Department (CSV): Molecular Biosciences
+Department (Fetched): Molecular Biosciences
+Avg Rating: 2.5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: MBB420
+Date: 2011-12-11 02:24:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+First time teaching at sfu, her exams are like first year, lots of writing but straightforward easy questions.  She tends to reuse some of the practice exam questions.  Her strong russian accent is very hard to understand at first but you will get used to it. Studying for this course heavily relied on the sub-notes in the slides. Marking is fair.

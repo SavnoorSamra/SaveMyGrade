@@ -1,0 +1,76 @@
+Professor: Angela Bessa
+Professor Legacy ID: 3082057
+Professor ID: VGVhY2hlci0zMDgyMDU3
+Department (CSV): Archaeology
+Department (Fetched): Archaeology
+Avg Rating: 2.8
+Avg Difficulty: 3.6
+Num Ratings: 5
+Would Take Again Percent: 40
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: ARCH131
+Date: 2026-01-01 06:26:33 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: True
+Comment:
+Mark for an A- is 92%, stricter than most courses. Your mark is determined by 2 tests and 3 quizzes. Lectures are mostly borrowed from a previous professor. Information is fairly interesting, with a few documentary films thrown in as class material. Would be a class worth recommending if the grading was not so strict.
+
+--- Rating #2 ---
+Class: ARCH131
+Date: 2025-12-22 09:12:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+The grading system she uses is different from what sfu suggests for some reason, your 91% is treated as a B+!!!! She also takes soo long to respond to your emails sometimes days.   Take Arch 100 or Arch 101 instead, materials are similar but the profs and grading would be better.
+
+--- Rating #3 ---
+Class: ARCH131
+Date: 2025-12-20 04:13:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Easy course. Strict with everything, bad with emails
+
+--- Rating #4 ---
+Class: ARCH323
+Date: 2025-12-06 04:33:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+100% my fav prof ever. So sweet and genuinely cares about her students. Tough marker and tests are HARD she says they are easy - they are not. But super accommodating and other assignments will keep your grade up. very organized class. if you don't care about the topic she's teaching don't take the course, it wont be a GPA booster
+
+--- Rating #5 ---
+Class: Arch442
+Date: 2025-03-21 04:47:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Might be my favourite class at university so far. If you can take a class with her do it!

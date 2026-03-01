@@ -1,0 +1,273 @@
+Professor: Veselin Jungic
+Professor Legacy ID: 34486
+Professor ID: VGVhY2hlci0zNDQ4Ng==
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.7
+Avg Difficulty: 3.4
+Num Ratings: 283
+Would Take Again Percent: 50.3817
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH254
+Date: 2024-09-08 10:06:41 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+The lectures can be disorganized, but reading the textbook and using resources like unstuckstudy ai helped me stay on top of the material. Overall, a challenging yet rewarding course.
+
+--- Rating #2 ---
+Class: MATH254
+Date: 2024-08-21 22:19:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Lectures were so useless it was basically just random derivations that he felt like he wanted to show the class.
+
+--- Rating #3 ---
+Class: MATH254
+Date: 2024-08-19 08:58:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Never ever go to lectures. They won't prepare you for the midterms or the final.
+
+--- Rating #4 ---
+Class: MATH254
+Date: 2024-08-14 07:53:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I stopped going to lectures after the first midterm and it was the best decision I could have made. I think I would fail the course if I went to lectures. Very bad explanations and useless tutorials.
+
+--- Rating #5 ---
+Class: MATH254
+Date: 2024-08-12 20:51:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+This is the second class I've had with Dr. Jungic (I also had him for calculus 3) and it's been a terrible experience overall. Just really disorganized lectures and confusing explanations. I did much better this time by just reading the textbook and not going to his classes.
+
+--- Rating #6 ---
+Class: MATH254
+Date: 2024-08-12 08:01:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Not a real teacher, he just loves to show off in class with derivations that he ends up screwing up anyways. I'm glad I never have to take courses with him again.
+
+--- Rating #7 ---
+Class: MATH155
+Date: 2024-08-12 05:20:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Super passionate about math, and very caring & helpful if you have any questions!
+
+Happy Retirement Dr. J!
+
+--- Rating #8 ---
+Class: MATH254
+Date: 2024-08-04 03:02:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+-
+
+--- Rating #9 ---
+Class: MATH254
+Date: 2024-07-31 18:38:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Happy retirement Dr. J! The Passionate lecture will always remind me purpose of studying.
+
+--- Rating #10 ---
+Class: MATH302
+Date: 2024-05-09 16:03:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Super nice Prof, I recommend. However some of the proofs in this course might be hard to figure out on your own in a short time frame, so you might not want to cram half the course in a day or two if u want a really good grade
+
+--- Rating #11 ---
+Class: MATH302
+Date: 2024-04-16 22:46:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Veselin Jungic is the most caring, supportive professor I've ever had. He genuinely wants his students to enjoy the class. The lectures were complex and the assignments were tough but you learn the tricks to solving them in class. The group project had lots of freedom and was fun. The exam was extremely fair. I hope Dr. J. has a great retirement!
+
+--- Rating #12 ---
+Class: MATH100
+Date: 2023-08-23 00:05:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+So so
+
+--- Rating #13 ---
+Class: MATH251
+Date: 2023-02-07 08:21:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+you should appreciate have Dr. J as professor.
+
+--- Rating #14 ---
+Class: MATH251
+Date: 2022-07-09 07:22:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is an amazing prof who really cares about his students. I highly recommend going to his lectures as they were very insightful and he is very willing to answer questions during and after lectures. So long as you are not interrupting. His exams are tough but you will see similar question to the ones he does in class or you do for homework.
+
+--- Rating #15 ---
+Class: MATH251
+Date: 2022-04-11 16:34:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Jungic is by far the most passionate professors I've met to date. I don't ever rate profs or even go on this website but his passion and care for students swayed me to write this. He encourages questions and doesn't make you ever feel bad for asking them , he also makes you feel engaged and helps you understand in and out of lecture.
+
+--- Rating #16 ---
+Class: MATH251
+Date: 2022-03-26 02:11:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Honestly, I did not find the lectures helpful, but as someone who wants to study math, they were enjoyable. His passion for math is clear-- I respect him. Exams are very fair--do the assigned homework and they're easy. Provides a checklist for each exam and practice exam/qs. Keep up with the textbook readings (DO read) and course will be pleasant.
+
+--- Rating #17 ---
+Class: MATH100
+Date: 2022-01-10 03:36:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Jungic is very passionate about math, which makes him such an engaging teacher. He cares a lot about his students and wants everyone to succeed. One of the best teachers I've ever had.
+
+--- Rating #18 ---
+Class: MATH100
+Date: 2021-12-23 17:38:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+He is amazing and his class is very easy for us to understand.
+
+--- Rating #19 ---
+Class: MATH301
+Date: 2021-12-18 08:53:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The recent 1 star reviews from Dr. J instructing people online do not do justice to his passion for teaching mathematics, nor his sheer generosity as a professor. Dr. J gives amazing feedback, and his in-person instructing is magnetic. People who had him online truly missed out on an amazing professor who wants nothing more than for you to succeed.
+
+--- Rating #20 ---
+Class: MATH150
+Date: 2021-11-17 07:59:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Horrible save your money and sanity

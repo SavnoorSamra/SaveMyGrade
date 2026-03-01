@@ -1,0 +1,63 @@
+Professor: Hadia Samim
+Professor Legacy ID: 2920181
+Professor ID: VGVhY2hlci0yOTIwMTgx
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 4.8
+Avg Difficulty: 2.5
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: HSCI486
+Date: 2026-01-13 09:24:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is one of the best lecturers I've had for my undergraduate degree. All course materials are selected intentionally, and she has many connections with people in different fields. It was an honour to be in her class.
+
+--- Rating #2 ---
+Class: HSCI486
+Date: 2024-03-11 20:35:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Hadia is very nice, passionate and approachable. However, it feels like she needs a bit more experience with teaching, to give better feedback to assignments. The lectures are mostly group facilitated discussions, there's  also reflective journals and final group project. She gives very good career advice and actually cares about students futures.
+
+--- Rating #3 ---
+Class: HSCI486
+Date: 2023-12-06 16:02:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Hadia is one of the most warm & caring teachers I've had at SFU, she genuinely cares about student success & gives students guidance on the real world after graduation. Not many profs do this or care about their students, but Hadia was so wonderful & inspirational. I would 100% take another course with her!
+
+--- Rating #4 ---
+Class: HSCI486
+Date: 2023-12-04 03:20:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Hadia is so sweet, knowledgeable and passionate about global health. Would definitely recommend taking this course with her. Mostly group work (presentation and final project) and 2 easy journal entries. She gives great feedback and career advice and has some interesting guest lecturers. Most lectures are facilitated dialogues.

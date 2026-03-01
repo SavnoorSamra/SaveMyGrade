@@ -1,0 +1,271 @@
+Professor: Navid Alaei
+Professor Legacy ID: 2023099
+Professor ID: VGVhY2hlci0yMDIzMDk5
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.2
+Avg Difficulty: 3.7
+Num Ratings: 40
+Would Take Again Percent: 71.4286
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH232
+Date: 2025-07-08 21:00:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Asik sih, asik sendiri
+
+--- Rating #2 ---
+Class: MATH232
+Date: 2024-12-18 05:54:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Best prof! Love him!
+
+--- Rating #3 ---
+Class: MATH100
+Date: 2023-12-16 06:12:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Navid is a very good professor, he is nice and explain things well and is helpful during office hours. I am not very confident in my math skills but I can say that I learned more this semester than all of high school combined!
+
+--- Rating #4 ---
+Class: MATH232
+Date: 2023-09-16 22:09:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor Navid is the best instructor at FIC. He is really passionate with what he teaches and explains everything in detail. You need to read the textbook to fully grasp all of the information as linear algebra has a lot of content.
+
+--- Rating #5 ---
+Class: MATH232
+Date: 2023-03-10 18:57:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+best math teacher at fic, get ready to self learning follow brenda davison on youtube
+
+--- Rating #6 ---
+Class: MATH232
+Date: 2023-01-01 18:49:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Navid is a very great teacher as he always gives you the support you needed during and after class. He is very understanding for his students and explains everything thoroughly in class, that you don't need any self-learning outside of classes. The course is tough but he managed to organise it neatly and this really helps.
+
+--- Rating #7 ---
+Class: MATH100
+Date: 2023-01-01 18:46:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Navid is a really nice professor as he always provide the support you needed in class. He is quite fast at his lectures but if you are used to it, you will understand his expectations and the materials. He explains everything thoroughly and you don't need to do any extra self-learning in home. He is also very understanding of his students.
+
+--- Rating #8 ---
+Class: MATH100
+Date: 2022-11-25 06:11:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: True
+Comment:
+Great content, accessible outside class and the concept/formulas are easy to comprehend as long as you pay attention during class.
+
+--- Rating #9 ---
+Class: MATH232
+Date: 2022-05-16 23:36:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Self learning is pretty important in this course but I' not sure why it's so different from the lecture video of SFU but overall doing some prelecture helps. The other thing I'm not sure is why his answers to the hw is incomplete. He is a good teacher the way he's teaching inspired everyone from different angles, take his course!
+
+--- Rating #10 ---
+Class: MATH100
+Date: 2022-01-08 00:45:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+When I was taking his course, he would set up office hours 4 times a week. That's enough time for me to ask questions and understand. He gives partial marks for weekly quizzes and exams, so even if you are not good at math like me, you can get not bad grade.
+
+--- Rating #11 ---
+Class: MATH100
+Date: 2021-11-28 07:53:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great prof, explain in detail to make sure anyone can understand. However, you need to pay attention in class and do practices in order to get a good grade.
+
+--- Rating #12 ---
+Class: MATH232
+Date: 2021-08-19 00:03:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I don't understand those comments complaining about Navid, but he's one of the best Professors in FIC. Why ? he's super helpful during office hours to help students, various office hours in a week, brief and useful lecture videos. Overall, it was a pleasure taking Math232 with him.
+
+--- Rating #13 ---
+Class: MATH232
+Date: 2021-06-26 02:26:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+His video lectures are 3 seconds long and barely explain any of the relevant concepts. If you take his course you HAVE TO read the textbook simple because he doesn't teach 80% of the important material in his videos. Ppl are saying its just self learning but what am I paying for then? I can find free clips like his on YouTube... DO BETTER
+
+--- Rating #14 ---
+Class: MATH232
+Date: 2021-06-04 15:33:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He is the worst prof that I have ever met. He won't teach you all the stuff (and even some concepts). You will feel like even I read the textbook is more clear than taught by him. Suggestion: not to choose this prof. You might never know what he is talking about
+
+--- Rating #15 ---
+Class: MATH232
+Date: 2021-05-25 18:39:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+his tests are very difficult. he puts 10 questions in 40 minutes. and he is a tough grader. if you do not like maths, i dont suggest you to take this course with him.
+
+--- Rating #16 ---
+Class: MATH100
+Date: 2020-04-22 19:31:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I think Navid is a very good teacher. Although his mid terms are quite difficult, trust me its gonna help a lot to you in your finals. I was able to perform my final successfully because of doing all this practice question in the assignments and quizes. Thank You Navid!
+
+--- Rating #17 ---
+Class: MATH100
+Date: 2020-03-21 07:39:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He teaches too fast in the class and often skips a few topics. He often gives homework question which are really tough and his exams are also hard to think.
+
+--- Rating #18 ---
+Class: MATH232
+Date: 2020-01-22 22:39:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+To those who say that he is not a good prof, you just don't know the definition of self-learning.
+
+--- Rating #19 ---
+Class: MATH100
+Date: 2020-01-04 22:18:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very great teacher with an extensive understanding of mathematics And I like his teaching strategies Exam were not so difficult Maybe a little more difficult than the class subject
+
+--- Rating #20 ---
+Class: MATH100
+Date: 2019-12-18 19:29:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Would not recommended taking the professor. Does not teach well at all, only mentions the concept and explains the simplest sums, but doesnt say anything when its come to the hardest solving sums. Didnt give tips or extra practice for the final exam. Also, does not even solve doubts well leaving you more confused.

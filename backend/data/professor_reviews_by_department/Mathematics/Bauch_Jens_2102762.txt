@@ -1,0 +1,167 @@
+Professor: Jens Bauch
+Professor Legacy ID: 2102762
+Professor ID: VGVhY2hlci0yMTAyNzYy
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.1
+Avg Difficulty: 3.7
+Num Ratings: 12
+Would Take Again Percent: 100
+
+Ratings Count Returned: 12
+
+--- Rating #1 ---
+Class: MATH150
+Date: 2017-11-23 02:15:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Amazing Professor! Highly Recommend!!!
+
+--- Rating #2 ---
+Class: MATH150
+Date: 2017-06-07 01:49:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Honestly a really amazing prof! I don't know why the negative feedback, he is a gem. The quizzes are from the homework but the numbers are changed, he gives a lot of hints to what will be on the exams, pay attention to his wording: "If you do Question x from page y you'll be good for the test tmrw." Go to office hours talk to him, he motivated me.
+
+--- Rating #3 ---
+Class: MATH150
+Date: 2017-02-15 14:41:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Explains concepts clearly. The lectures are uploaded online as well, so attendance is not mandatory.
+
+--- Rating #4 ---
+Class: MATH150
+Date: 2016-05-10 19:40:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Clear about what will be on the exams. Some text questions are taken straight from notes, gives hints as well.  Expects you to do the work, know the concepts and understand what you're doing.  Midterms were easier than final.  Explains things well in lecture, but you have to pay attention.
+
+--- Rating #5 ---
+Class: MATH150
+Date: 2016-04-21 14:24:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Avoid this prof if you want to pass. Class average on all tests was an F, final was brutal, toughest test I have taken yet.  Like others have said did not sync with Loncapa and often skipped steps while doing examples or entire chunks of lectures. Only 2 or 3 exam questions were from the lectures fyi. Prepare to be scolded after every exam by him.
+
+--- Rating #6 ---
+Class: MATH150
+Date: 2016-04-21 02:46:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is very clear on what will be on the midterm and final. Attend his lectures, especially the ones leading up to exams because he will give out lots of hints. Word problems on exams are identical to the ones he goes over in lecture. Overall, a very easy prof who wants his students to do well.
+
+--- Rating #7 ---
+Class: MATH150
+Date: 2016-04-14 17:06:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+This prof expects too much of students. He will often skip steps in his examples and will expect you to understand how he got it. First midterm was hard while the second midterm was more reasonable(He thought it was easy for us). Can often be confusing with the methods he uses.
+
+--- Rating #8 ---
+Class: MATH150
+Date: 2016-03-28 14:32:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Takes questions for the midterm almost identically from the lecture notes.
+
+--- Rating #9 ---
+Class: MATH150
+Date: 2016-03-17 12:48:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+His test are very hard and question are super hard i would not  take a class with him again. He skips part of the steps and tells you its for homework. Great guy overall but just can not teach.
+
+--- Rating #10 ---
+Class: MATH151
+Date: 2016-03-15 05:14:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+With most the class barely passing or failing he will remind us how dumb and lazy we are but won't listen when given criticism on his teaching habits because he is perfect too smug to be a teacher should find another job
+
+--- Rating #11 ---
+Class: MATH150
+Date: 2016-03-08 02:39:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Lectures are straight from the book and will skip chunks so you have to learn them yourself. Does not keep up with online portion so read ahead. His tests are also hard and in some cases unfair with questions that aren't related to the course . Also limited office hours. Very unhelpful only take him if you plan on self teaching or are good at math.
+
+--- Rating #12 ---
+Class: MATH150
+Date: 2016-02-05 15:36:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Nice professor

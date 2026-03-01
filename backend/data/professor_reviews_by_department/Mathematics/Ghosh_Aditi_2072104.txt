@@ -1,0 +1,24 @@
+Professor: Aditi Ghosh
+Professor Legacy ID: 2072104
+Professor ID: VGVhY2hlci0yMDcyMTA0
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 5
+Avg Difficulty: 5
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: MATH381
+Date: 2019-08-10 00:48:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Expected to devote considerable time to the project, including in and out-of-class presentations. The project may give an opportunity for publication and provides experience in getting feedback. Lectures and in-class activities were good, but the workload is enormous. Must attend meetings. She gives good opportunities, but expects dedication.

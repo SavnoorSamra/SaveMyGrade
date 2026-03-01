@@ -1,0 +1,24 @@
+Professor: Billie Joe Rogers
+Professor Legacy ID: 2656765
+Professor ID: VGVhY2hlci0yNjU2NzY1
+Department (CSV): Indigenous Studies
+Department (Fetched): Indigenous Studies
+Avg Rating: 4
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: PSYC8855
+Date: 2021-01-12 23:27:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Billie Joe taught a great course on Indigenous Psychology. I thought it was really easy though because it went over concepts that most people taking the course would already know. Her lectures were long, nonetheless interesting, but could have been less repetitive and more focused on psychology rather than current events. Would take again for sure!

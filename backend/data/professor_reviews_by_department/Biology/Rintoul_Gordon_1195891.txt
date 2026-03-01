@@ -1,0 +1,271 @@
+Professor: Gordon Rintoul
+Professor Legacy ID: 1195891
+Professor ID: VGVhY2hlci0xMTk1ODkx
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 4.7
+Avg Difficulty: 2.8
+Num Ratings: 45
+Would Take Again Percent: 92.3077
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BISC405
+Date: 2026-01-22 20:18:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Rintoul is one of the best professors at SFU! His lectures are amazing, he's great at teaching but still does everything he can to accommodate everyone. His slides are posted, he records the lectures if he can in case you can't make it to class and his exams cover exactly what he asked of you! People like him are rare these days! He's awesome!
+
+--- Rating #2 ---
+Class: BISC405
+Date: 2025-08-13 08:49:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Rintoul is the best professor I've ever had he is amazing! I've taken 205 and 405 with him now, and 405 was by far my favourite class at SFU. He is funny and engaging in class, the content is extremely interesting, and his tests are consistent. I highly recommend taking any class with him, especially 405!
+
+--- Rating #3 ---
+Class: BISC405
+Date: 2025-05-07 03:32:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Gordon is an amazing professor. He explains things really well while being funny at the same time. He also tells you exactly what you do and don't need to know for the exams during lecture. Midterms were very fair and no surprises. You don't need to read the textbook to get a good grade. Highly recommend this prof and class!
+
+--- Rating #4 ---
+Class: BISC205
+Date: 2025-05-06 14:57:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Rintoul is a very caring professor for physiology. His lectures are so detailed that I can easily understand almost everything he says clearly. Also, his exams are easy as long as you put in the work and know the material. I highly recommend him for physiology related classes.
+
+--- Rating #5 ---
+Class: BISC205
+Date: 2025-05-02 06:15:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Rintoul was an amazing prof. he is super passionate about what he teaches so it makes it easy to listen to him lecture. The animal portion of this class is very dense with content but his slides simplify everything perfectly. would take his class again.
+
+--- Rating #6 ---
+Class: BISC205
+Date: 2025-04-29 22:47:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Rintoul is a very kind professor and his lectures are very engaging. The animal physiology portion of this course is pretty lecture heavy so be prepared to study a lot. Highly recommend.
+
+--- Rating #7 ---
+Class: BISC405
+Date: 2025-03-22 06:43:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Just about done the semester with Dr. Rintoul, and he has been awesome! This class is essentially an introduction to BPK 306 if you've ever taken that. You do have to study for his exams as he tests on a lot of information at once, he'll do his best to make sure you know what's important. Highly recommend!
+
+--- Rating #8 ---
+Class: BISC205
+Date: 2025-01-05 02:19:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I feel like some of the recent reviews are a bit harsh. Yes, his lectures are dense, but if you put in the effort to study (starting 6 days to a week before exams), you should be well-prepared. Flashcards are essential for this course. Gordon is also quick to respond to emails and is willing to explain concepts more than once if you're confused.
+
+--- Rating #9 ---
+Class: BISC205
+Date: 2024-12-22 20:29:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+the best prof I've ever had by far. Yes his lectures are very heavy, but he explains everything super clearly and without fail, TELLS YOU what's going to be on the exam. If you stay on top of your stuff and go to class, you'll be fine. In my opinion, the recent reviews are quite harsh as this prof tells you and hints what to focus on when studying
+
+--- Rating #10 ---
+Class: BISC205
+Date: 2024-12-20 14:27:08 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor was fine. His lectures are very heavy and exams have really hard questions which dont even make sense. Overall he is fine but he just needs to make his exams easier.
+
+--- Rating #11 ---
+Class: BISC205
+Date: 2024-12-17 17:35:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+really hard course. the tutorials of this course are based on a group project and no other prep for midterms and final, basically you self study. this prof also has too many slides in his lectures which makes it so hard to understand. unfortunately, he always teaches so you can't avoid him.
+
+--- Rating #12 ---
+Class: BISC205
+Date: 2024-12-14 09:14:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His lectures are very heavy. He literally has up to 75 lecture slides for a 50 min lecture. Also note that these slides are full with so much info. I hated his section of the course. the professsor teaching the plant section is slightly better in terms of lectures as he only has around 20-25 lecture slides and tests a little easier than this one.
+
+--- Rating #13 ---
+Class: BISC205
+Date: 2024-06-18 17:19:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Gordon was a great prof. He has a clear knowledge and passion for the subject and it made learning the material a lot easier. Gordon's lecture notes are quite heavy content-wise, but he is always willing to answer questions and discuss. Tutorials will require a group project, but the marking was quite lenient.
+
+--- Rating #14 ---
+Class: BISC205
+Date: 2024-05-18 13:59:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Gordon is a really great professor. This class was one of my favourites and would always set up for a great day. He speaks clearly and throws a joke in every now and then.
+
+--- Rating #15 ---
+Class: BISC405
+Date: 2024-05-04 21:12:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Gordon is a great professor, his exams are easy for a STEM class (almost too easy, don't expect a curve) and the topics covered in this course (particularly the 2nd half) are very intriguing. In addition, he has many office hour sessions leading up to exams, and will in answer any and all questions.
+
+--- Rating #16 ---
+Class: BISC405
+Date: 2024-05-02 22:27:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Gordon is the most amazing and nicest professor at SFU. He offers extra office hours and he explains everything clearly. BISC 405 was a very nicely structured course and there is not one single thing that I got bored of The lectures are video recorded. For the tutorials, you need to make a group presentation and participations matters.
+
+--- Rating #17 ---
+Class: BISC405
+Date: 2024-04-27 02:57:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing above and beyond prof. Anything he talks about more than once or for longer than a couple minutes will be tested so remember that. Super clear explanations, straightforward exams with no surprises. I would take a course with him again and again. This class is content heavy but for sure do-able, Gordan makes it very enjoyable with his humour
+
+--- Rating #18 ---
+Class: BISC205
+Date: 2024-04-20 19:30:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+explains the physiology and mechanisms clearly, slides are easy to follow. exam is straightforward, no surprises. TIP: use the learning objectives as study guides.
+
+--- Rating #19 ---
+Class: BISC205
+Date: 2024-04-18 19:06:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Rintoul made the lectures very clear and breaks everything down and interesting to learn. He is clear of what to expect on the midterm and final so there aren't any surprises as long as you study. Very approachable for questions and encourages them. But do study for a good mark as the course itself is very heavy but love Dr. Rintoul for a prof.
+
+--- Rating #20 ---
+Class: BISC405
+Date: 2024-04-17 01:37:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best BISC department prof by a mile. Has great lectures and is very helpful and nice. The tests are heavy but mostly due to the large amount of material.

@@ -1,0 +1,193 @@
+Professor: Jasdeep Chahal
+Professor Legacy ID: 1810749
+Professor ID: VGVhY2hlci0xODEwNzQ5
+Department (CSV): Business Economics
+Department (Fetched): Business Economics
+Avg Rating: 2.7
+Avg Difficulty: 3.7
+Num Ratings: 14
+Would Take Again Percent: 100
+
+Ratings Count Returned: 14
+
+--- Rating #1 ---
+Class: BUS478
+Date: 2018-04-28 13:30:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great mentor, was very helpful in securing an internship. Takes extra time to return papers, but SOLID class!
+
+--- Rating #2 ---
+Class: BUS478
+Date: 2018-04-19 12:04:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Engaging lectures. Lots of case studies and textbook was not really needed. I'd take this class with this prof.
+
+--- Rating #3 ---
+Class: BUS207
+Date: 2013-10-03 02:25:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I don't recommend taking a class with him. He is very disorganized and just reads definitions off the slides. Does not explain the material very well.
+
+--- Rating #4 ---
+Class: BUS207
+Date: 2013-08-25 16:22:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+terrible, avoid at all costs. lazy and unapproachable. waste of time and money. he did not know material, read definitions off slides that were already from textbook. cannot teach what so ever. ta's taught us 10x more than he did. take it with someone else
+
+--- Rating #5 ---
+Class: BUS207
+Date: 2013-08-22 20:58:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He was a terrible instructor, lectures were uninformative and pointless and he was not very well organized
+
+--- Rating #6 ---
+Class: BUS207
+Date: 2013-08-21 16:09:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Worst prof ever! He never seems to know what he's doing. Lectures were a waste of time. Always end lecture in an hour when we paid for 2 every week. The TAs were way more knowledgeable than him. Avoid him at all cost.
+
+--- Rating #7 ---
+Class: BUS207
+Date: 2013-08-20 19:19:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Decent Prof, no complaints. I would take the class with him again. lectures weren't boring.
+
+--- Rating #8 ---
+Class: BUS478
+Date: 2013-08-20 10:41:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Awesome prof; class was really interesting. Take home final wasnt bad
+
+--- Rating #9 ---
+Class: BUS207
+Date: 2013-08-19 22:52:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Jessie is an awful prof. He was never there for his office hours and when he was to be found his answer would be to tell me to go to the T.A's office hours on a different day.
+
+--- Rating #10 ---
+Class: BUS207
+Date: 2013-08-07 17:52:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Jessie was an awful prof. Lectures were useless and he was very slow at providing course materials. Take 207 with someone else.
+
+--- Rating #11 ---
+Class: BUS207
+Date: 2013-08-07 16:39:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Explained majority of course material in lectures. As with any course independent learning and textbook use is required. knowledgeable with a proficient grasp on the material he was teaching.
+
+--- Rating #12 ---
+Class: BUS207
+Date: 2013-08-07 02:43:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Amazing professor, taught lectures and material with enthusiasm. Readily available for help during office hours. Would recommend to anyone.
+
+--- Rating #13 ---
+Class: BUS207
+Date: 2013-08-04 19:31:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I found him to be a very poor instructor. He was extremely disorganized and explained the material very poorly (if at all). His lectures were not informative or helpful at all and his class was a frustrating experience. I would not recommend you take his class.
+
+--- Rating #14 ---
+Class: BUS207
+Date: 2013-07-24 17:19:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+hardest prof ever, hardly engaging when actually on topic. hardly ever on topic. tells us stories instead of explaining questions or answers. Might as well be distance education, you have to do everything yourself. good luck if you take this prof.

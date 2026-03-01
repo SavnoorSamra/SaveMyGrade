@@ -1,0 +1,271 @@
+Professor: Faran Ali
+Professor Legacy ID: 1753132
+Professor ID: VGVhY2hlci0xNzUzMTMy
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 3.6
+Avg Difficulty: 2
+Num Ratings: 74
+Would Take Again Percent: 75
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: GEGE111
+Date: 2017-03-03 14:57:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Awesome
+
+--- Rating #2 ---
+Class: GEOG111
+Date: 2016-12-22 02:57:11 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The class is difficult if you know nothing about geog. Must attend the classes to fill in the blank in lectures notes. Lecture notes are enough for theory questions, but there are something like drawing maps in final, which is unexpected because it's different from midterm. Thus, skimming the textbook is a good idea to prepare to the final
+
+--- Rating #3 ---
+Class: GEGO102
+Date: 2016-09-29 04:05:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I took him in both GEOG102 and 111. He usually speaks monotone so the lectures might be boring but he really cares students alot and wants all students to get satisfied grade. He is very kind and generous to all students. Midterms might hard but final is very easy. Be sure to go lecture because he gives hints on midterm and final.
+
+--- Rating #4 ---
+Class: GEOG111
+Date: 2016-08-16 18:00:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Faran is good at explaining but the material itself was boring for me. Tests were fair, may need to read the textbook though if you don't catch up everything. Other than that, everything you need for B grade range is lecture slides. Make sure that you know how  to complete assignments they will be in the final paper.
+
+--- Rating #5 ---
+Class: GEOG102
+Date: 2016-05-04 14:10:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+fun, except for tutorials
+
+--- Rating #6 ---
+Class: GEGO102
+Date: 2016-04-27 22:50:09 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Faran is a very nice teacher who wants his students to succeed. However, his lectures are quite dry and most of the exam questions were quite trivial to what was discussed in class. There are weekly readings to do and discuss for tutorials as well and a good portion of your marks depend on your participation in those discussions.
+
+--- Rating #7 ---
+Class: GEGO111
+Date: 2016-04-19 00:16:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Faran is very passionate about the material and about helping his students! He would even attend lab sections to assist students. If you go to lectures, there should be no surprises for the final exam. He also was extremely generous in providing practice questions and labs for the midterm and final! Very interesting material!
+
+--- Rating #8 ---
+Class: GEOG111
+Date: 2016-04-17 00:06:07 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Content is interesting, but he makes the lectures dry and rambles on forever. Some of his exam questions are pretty random, based on things he barely touched on in class, but if you memorize all the lecture notes and diagrams you should be good
+
+--- Rating #9 ---
+Class: GEGE111
+Date: 2016-03-30 17:42:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The class is the most boring thing I've done in my undergrad, but Faran is a good teacher.
+
+--- Rating #10 ---
+Class: GEGO102
+Date: 2015-12-24 05:29:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Super nice guy. His lectures can be a little dry, but the content is easy and interesting. Definitely cares about his subject and his students! The textbook is definitely not needed though.
+
+--- Rating #11 ---
+Class: GEOG111
+Date: 2015-12-22 17:49:33 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Very easy class. Studied for final day before and finished with an A-.
+
+--- Rating #12 ---
+Class: GEGE111
+Date: 2015-12-21 16:15:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+His lectures are very clear and informative. He genuinely cares if you do well or not. As for tutorials, I had a TA who can't speak and explain in English very well so it it wasn't as good as Ali's lectures. Grading scheme is also lenient which helps a lot. 10/10 would take again.
+
+--- Rating #13 ---
+Class: GEGO102
+Date: 2015-12-15 18:21:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+I took Geog 102 with Faran for my first semester of university and it was awesome! Super caring prof, wants students to do well, and gives good info in the lectures. One lecture he asked us if we wanted an extension on the assignment and we all said yes, so he said okay you all get another week!! What a great prof!! Would recommend!
+
+--- Rating #14 ---
+Class: GEOG111
+Date: 2015-12-14 18:44:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Had no trouble understanding his lectures and he often repeats key points to make sure you hear it. Exams are based on his slides, not the textbook. You feel thrown into the labs and it would be helpful if some instruction for the lab material was provided. Ask for help. Really great information in this course and lucked out with an exceptional TA.
+
+--- Rating #15 ---
+Class: GEOG111
+Date: 2015-12-10 00:49:42 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Lecture were long and dry. Labs were straightforward at the beginning, but got more difficult towards the end. Go to the lectures as some of the notes are left out of the posted powerpoint slides. It's a pretty easy class as long as you study the lecture notes.
+
+--- Rating #16 ---
+Class: GEOG111
+Date: 2015-11-20 17:05:35 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+He is nice, but his lectures are long and boring. There are blanks to fill, so attendance is mandatory. Labs, midterm, especially final exam are all difficult...
+
+--- Rating #17 ---
+Class: 111
+Date: 2015-10-20 02:46:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+boring lectures, expect lab work every week, tough exams.
+
+--- Rating #18 ---
+Class: GEOG111
+Date: 2015-10-13 13:37:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This class was super dull and boring. I had high hopes from the other ratings on here, however it involved a lot of math and science, and I would not recommend for non-science students. He was an okay prof, but hard to understand and read off the slides. Also was not understanding of unforeseen circumstances. Wouldn't recommend this class.
+
+--- Rating #19 ---
+Class: GEOG111
+Date: 2015-10-06 21:56:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+boring
+
+--- Rating #20 ---
+Class: GEOG102
+Date: 2015-07-28 15:03:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor Ali was amazing. Essays were marked tough but overall fair. He is the best prof ever. Midterm was a little challenging but the Final was a piece of cake. Would take a class with Professor Ali again.

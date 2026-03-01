@@ -1,0 +1,271 @@
+Professor: Michael Maraun
+Professor Legacy ID: 65891
+Professor ID: VGVhY2hlci02NTg5MQ==
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 3.9
+Avg Difficulty: 3.8
+Num Ratings: 38
+Would Take Again Percent: 85.7143
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PSYC301
+Date: 2025-03-26 19:58:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Maraun's classes are not "just math class" where one "memorizes formulas" and "plug in numbers". I  got to learn from him an overarching storyline / structure to describing, comparing, and analyzing behavioral data (e.g. in social sciences) that develops focus, concentration, attention to detail, and comprehsive understanding in psychometrics.
+
+--- Rating #2 ---
+Class: PSYC301
+Date: 2023-12-13 02:06:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This prof elevated my understanding of stats and the common mistakes made in psyc research. Theres a learning curve that comes with trying to understand what he says during lectures, but if you go to office hours and ask for help, it eventually gets easier. Do all the practice exams, because those are essentially what will be tested.
+
+--- Rating #3 ---
+Class: PSYC910
+Date: 2023-12-06 20:57:38 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Mike's teaching is definitely hard to understand, but you come to grips with it. Ask lots of questions, even tho it can be intimidating - he is always happy to help. Make full use of his office hours! His exams are pretty much like the previous years' so practise those. I had no background in stats & I feel like I walked away with good knowledge:)
+
+--- Rating #4 ---
+Class: PSYC410
+Date: 2022-12-17 22:03:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great prof
+
+--- Rating #5 ---
+Class: PSYC410
+Date: 2021-12-27 17:12:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Unlike others in the department, Mike puts most of his energy into teaching and scholarship, rather than receiving praise and recognition from peers. This really pays off if you are a student who wants to learn, as Mike loves to teach dedicated and hard working students. He is the most amazing teacher I've had. I've learned so much from him.
+
+--- Rating #6 ---
+Class: PSYC410
+Date: 2020-12-22 20:01:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Mike is probably one of the most intelligent and dedicated in the department. What I gained from class went beyond stats, but also an embedded logical approach to anything, and more importantly seriousness in what you do. He is also the most understanding and caring I've had throughout my time here.
+
+--- Rating #7 ---
+Class: PSYC301
+Date: 2020-12-12 18:38:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Mike made stats bearable. I took it fall 2019 with him and went to almost every one of his office hours. If you want to do well, GO TO OFFICE HOURS. His midterms and finals are pretty much exactly like previous years so practice and go through the answers in office hours. If you ask him for more practice exams he'll give you some too!
+
+--- Rating #8 ---
+Class: PSYC301
+Date: 2020-10-09 23:28:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He cares about his students and will give you proper training in statistic, no other nonsense. His ability to recognize what students are asking or need clarity on is astonishing. Despite COVID, he provided us with optimal lectures and Q&amp;A office hours. He truly just wants his students to exceed, no tricks. Get to know him and ask many questions!
+
+--- Rating #9 ---
+Class: PSYC301
+Date: 2018-12-19 09:33:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I was scared to take PSYC 301 but I didn't need to be. Mike doesn't use a textbook or lecture slides, but take good notes &amp; you'll be fine. Go to his office hours; he'll give you practice exams and the answers. This class isn't difficult if you're willing to put in the work. If he sees you trying he is more than willing to help you succeed.
+
+--- Rating #10 ---
+Class: PSYC301
+Date: 2018-06-24 11:20:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Mike is the most intelligent prof in the psychology department. He takes his work seriously... and if you don't take the course seriously then he won't take you seriously either.
+
+--- Rating #11 ---
+Class: PSYC301
+Date: 2018-04-29 07:58:38 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is an excellent lecturer, but his overemphasizes the importance of his office hour. You can miss all classes because the same material will be repeated by the TA next day, but office hour is must especially more practice exams,clarifications, even the perfect answer of the actual exam will be given, which is crucial to do well this course.
+
+--- Rating #12 ---
+Class: PSYC301
+Date: 2018-02-24 16:03:40 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He loves stats &amp; focuses on theory - great. But you MUST take verbatim notes in lecture. He doesn't speak concisely so good luck. His expectations are SO specific but never actually provided. Resources are non-existent (no canvas/slides/textbook). Office hrs once a week - attendance is basically mandatory bc you'll get exclusive handouts/answers
+
+--- Rating #13 ---
+Class: PSYC415
+Date: 2017-07-29 00:04:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+While some have complained about his personality, I found him to be both a pleasure to work with as well as challenging. He cares deeply about the material and is always willing to talk about interesting matters. He doesn't teach with a textbook, which in psychology is a major point in his favour. The material is difficult;prepare to practice daily
+
+--- Rating #14 ---
+Class: PSYC301
+Date: 2017-04-11 14:22:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Maraun is a true scholar and teacher. He cares about the content that he teaches and wants students to show the same level of interest. I very much enjoyed his course and actually left the class with a greater appreciation for statistics.
+
+--- Rating #15 ---
+Class: 301
+Date: 2015-08-25 15:07:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+It's not a question of him being hard or easy, it's the fact that he's an ideologue.  If you don't understand statistics like he does  you are not merely wrong, but summarily dismissed as illogical. This all comes from his overarching pseudo-Wittgensteinian philosophy of science. Keep him company during office hours and toe the line.
+
+--- Rating #16 ---
+Class: 301
+Date: 2014-09-22 16:04:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Great, highly intelligent prof. Unlike other profs, he is a scholar, not a business man. All told, great class.
+
+--- Rating #17 ---
+Class: PSYC410
+Date: 2012-12-19 02:39:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+If you are looking for a course that challenges you to think critically instead of being a sheep then this is the course for you. The material is tough, but Mike is ALWAYS willing to help students out. I guarantee you that most of the people on here complaining that Mike is not helpful never attended a single office hour the entire semester.
+
+--- Rating #18 ---
+Class: PSYC910
+Date: 2012-12-12 17:05:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Mike is a terrible instructor.  He is rude, arrogant and condescending.  He spends his lectures talking to the floor while he muddles through his error-laden notes and scribbles with chicken scratch on the overhead.  He argues with students in class and chastices people that do not think the way he does.  Do not take his class if you dont have to!
+
+--- Rating #19 ---
+Class: PSYC410
+Date: 2012-12-10 15:16:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He is clearly an intelligent man, but little of that translates into teaching ability. His interpersonal style is abrasive and condescending, and he frequently makes hyperbolic and sarcastic comments as feedback on assignments. Has a general inability to explain the course material at a realistic and relatable level,uses idiosyncratic language, etc
+
+--- Rating #20 ---
+Class: PSYC301
+Date: 2012-11-24 23:42:32 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Not a fan of his teaching style. Assignments require verbatim copying of lecture notes, huge marks are taken off for very minor mistakes, he makes sarcastic and unhelpful comments on exams and assignments... If you go to his office hour it makes a huge difference, but he only holds one per week and is unavailable otherwise.

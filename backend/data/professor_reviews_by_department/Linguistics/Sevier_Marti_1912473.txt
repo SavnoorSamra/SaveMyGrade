@@ -1,0 +1,50 @@
+Professor: Marti Sevier
+Professor Legacy ID: 1912473
+Professor ID: VGVhY2hlci0xOTEyNDcz
+Department (CSV): Linguistics
+Department (Fetched): Linguistics
+Avg Rating: 5
+Avg Difficulty: 2.7
+Num Ratings: 3
+Would Take Again Percent: -1
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: EAS101
+Date: 2014-09-17 14:31:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is willing to help very students.
+
+--- Rating #2 ---
+Class: EAS101
+Date: 2014-09-17 14:25:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The marking scheme seems to be harsh but she gives detailed feedback. BTW If you  want to boost you GPA you should visit her office hours for extra help including editing your paper and preparing your presentation. PLUS She is ready for helping every students .
+
+--- Rating #3 ---
+Class: EAS101
+Date: 2014-07-29 00:40:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Marti is a very nice person. She is very clear and eager to give you extra help if you need it. Her marking could be tough sometimes, but you will get a chance to rewrite. Presentation could boost your mark if you put some effort in it.

@@ -1,0 +1,37 @@
+Professor: Hiroki Matsukawa
+Professor Legacy ID: 1619408
+Professor ID: VGVhY2hlci0xNjE5NDA4
+Department (CSV): Languages
+Department (Fetched): Languages
+Avg Rating: 4.8
+Avg Difficulty: 1.5
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: JAPN100
+Date: 2011-11-25 14:44:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+super nice prof and extremely helpful, but he is a TA, might not be teaching Jap in the future. If he ever teaches a higher level jap, i would definitely take his class!
+
+--- Rating #2 ---
+Class: JAPN100
+Date: 2011-09-18 02:27:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Pretty nice guy. Always willing to help:)

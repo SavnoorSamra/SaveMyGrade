@@ -1,0 +1,76 @@
+Professor: Chang Oh
+Professor Legacy ID: 1892649
+Professor ID: VGVhY2hlci0xODkyNjQ5
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4
+Avg Difficulty: 3.2
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: BUS346
+Date: 2018-04-10 14:34:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Chang is very approachable and runs a very informative lecture. English is not his first language, so it's important to listen closely in class. Two exams with some tricky MC and short answer questions. Required reading, attendance, and active participation every class are necessary for B+ or higher.
+
+--- Rating #2 ---
+Class: BUS435
+Date: 2017-08-09 00:03:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He was so approachable and sweet
+
+--- Rating #3 ---
+Class: BUS346
+Date: 2015-10-26 04:50:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+I took his course when I was an exchange student at SFU.  He was the most respectful prof among those who have taught me.  He was intellectual and provided extra efforts to students.  He was also a generous grader.  I wish I had him in my home university.
+
+--- Rating #4 ---
+Class: BUS346
+Date: 2015-09-02 17:38:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Fun
+
+--- Rating #5 ---
+Class: BUS346
+Date: 2014-04-18 14:13:19 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Pretty dry class. His tests were tricky and quite a lot of your mark is based on valuable course participation. I found the class pretty boring. He tried to make some of it interesting, but not most of the time. He was not very helpful and sometimes kind of confusing. He knows everyone by name though, which is nice.

@@ -1,0 +1,193 @@
+Professor: Zahia Marzouk
+Professor Legacy ID: 2393008
+Professor ID: VGVhY2hlci0yMzkzMDA4
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.6
+Avg Difficulty: 2.3
+Num Ratings: 14
+Would Take Again Percent: 92.8571
+
+Ratings Count Returned: 14
+
+--- Rating #1 ---
+Class: EDUC220
+Date: 2021-01-13 00:10:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Best professor I've had at SFU. Not only is Dr. Marzouk an incredibe lecturer and teacher, she is unbelievably kind and caring. I had some personal issues come up towards the end of the semester, and Dr. Marzouk made all the difference. She was encouraging, understanding and her passion for the material is infectious.
+
+--- Rating #2 ---
+Class: EDUC220
+Date: 2021-01-08 06:58:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Zahia is an amazing prof. She really cares for her students and always tries to be extra enthusiastic over Zoom to engage students. She communicates concepts clearly and provides multiple examples to make sure students understand. She didn't mark any of our work, the TA's did, so I can't comment on that. I highly recommend taking a class with her!
+
+--- Rating #3 ---
+Class: EDUC220
+Date: 2020-12-28 10:37:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She was very kind and funny, she made lectures enjoyable to come too on zoom. She wanted all her students to succeed on tests and assignments. She was clear with instructions and I would definitely take another class with her in the future. she's super passionate about what she does.
+
+--- Rating #4 ---
+Class: EDUC220
+Date: 2020-11-20 22:36:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Shes embodies what being a teacher truly means
+
+--- Rating #5 ---
+Class: EDUC220
+Date: 2020-11-13 23:00:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+She is so caring! Lectures are very helpful as they go over content from the readings, but the exams are definitely textbook-based. She also keeps students engaged and gets to know you if she can. Amazing prof over-all.
+
+--- Rating #6 ---
+Class: EDUC220
+Date: 2020-11-03 01:07:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Zahia really cares for her students. At first, I thought the material was a lot in my class but if you attend the lectures, you are able to pick on on everything! The only thing, sometimes you need to clarify with her about assignments but other than that, I'm so glad she was one of the first teachers I had at SFU. Highly recommend!
+
+--- Rating #7 ---
+Class: EDUC220
+Date: 2020-04-13 22:53:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+shes super nice. she always has a lot of energy and lectures are really entertaining but u do need to come to class because the slides she uploads have little info and she talks in depth in class and the textbook corresponds to the notes so its not a huge neccesity to get. tests are very fair and her ta's are super helpful!
+
+--- Rating #8 ---
+Class: EDUC220
+Date: 2019-05-22 02:27:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Zahia's teaching was SO unorganized that it made this course difficult. The criteria for all the assignments were extremely unclear and she kept changing little details about the assignments without communicating with the TA's so there was a lot of confusion and miscommunication in my class. Also she was NOT accessible.
+
+--- Rating #9 ---
+Class: EDUC220
+Date: 2019-04-20 21:16:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Extremely passionate about her subject, wants students to succeed! Gives out criteria for papers too close to the deadline, will change criteria in class but not on website. I hardly went to class because the textbook is the same as the lectures. Tutorial presentation project is easy if you do the work. Tests are easy, no surprises, all MC.
+
+--- Rating #10 ---
+Class: EDUC220
+Date: 2019-04-13 21:24:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She cares about her students, and her tests are easy as long as you study! very nice and approachable, clear and organized.
+
+--- Rating #11 ---
+Class: EDUC220
+Date: 2019-04-04 17:46:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She really wants everyone to succeed in her course and tries to engage with a big class during lecture. Exams are fair but assignments might need some clarification. She is so sweet - blew us a kiss on the last day of class!
+
+--- Rating #12 ---
+Class: EDUC220
+Date: 2018-12-10 13:52:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Zahia is one of the most passionate people I've ever met! She really cares about her students, and makes sure that we understand the material. I highly recommend that you go to the lectures, because the slides wont make sense otherwise. But if you dont feel like going to the lectures, the content is the exact same in the textbook, so you'll be fine
+
+--- Rating #13 ---
+Class: EDUC220
+Date: 2018-11-21 06:36:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Most underrated prof, Zahia is amazing. She takes boring, dry material, &amp; adds so much experience and examples to it that it can't help but get stuck in your brain. She really cares about the learning of her students. Her slides won't make sense if you don't attend lecture, &amp; she doesn't record them so it's a good idea to attend. She's hilarious.
+
+--- Rating #14 ---
+Class: EDUC220
+Date: 2018-11-20 19:51:16 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+you can skip the lectures but if you skip the tutorials your presentation mark will decrease by 2 points. she is an okay prof who really cares but treats the lecture as if there were 20 of us instead of 400. Good teacher but needs to realize people do not want to participate in a large lecture.

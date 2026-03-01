@@ -1,0 +1,63 @@
+Professor: Cale Plut
+Professor Legacy ID: 2821110
+Professor ID: VGVhY2hlci0yODIxMTEw
+Department (CSV): Computer & Informational Tech.
+Department (Fetched): Computer & Informational Tech.
+Avg Rating: 4.8
+Avg Difficulty: 1.8
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: IAT210
+Date: 2022-12-22 23:24:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great class! The layout is really well done where if you do the readings and attend his lectures, everything just makes sense. Really good at giving examples if you're stuck on something and also great feedback. Made the lectures really engaging. Would take class again.
+
+--- Rating #2 ---
+Class: IAT210
+Date: 2022-12-22 21:19:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Cale kept his lectures fun and engaging, and it grew my interest stronger for video games. The assignments were pretty straight forward, and canvas quizzes are based off the assigned readings. There was only a final which was based on slides, and small concepts covered in lecture. Overall interesting class, I recommend to take it with Cale Plut.
+
+--- Rating #3 ---
+Class: IAT210
+Date: 2022-11-23 06:12:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Friendly, knowledgeable prof who genuinely seems interested in the material he teaches. Marked slides with colour coded borders to show levels of importance. Each lecture has assigned readings and a short quiz, however the quiz was open book.
+
+--- Rating #4 ---
+Class: IAT210
+Date: 2022-11-18 03:50:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Cale Plut is a great professor who is fair and engages his students with humour and compelling slides.

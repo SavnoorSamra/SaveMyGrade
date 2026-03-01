@@ -1,0 +1,63 @@
+Professor: Ghasem Behfarshad
+Professor Legacy ID: 2332308
+Professor ID: VGVhY2hlci0yMzMyMzA4
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 5
+Avg Difficulty: 2.5
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: MSE220
+Date: 2018-05-14 15:21:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+One of the nicest and greatest professors SFU offers the students. He is a real gem tbh
+
+--- Rating #2 ---
+Class: MSE220
+Date: 2018-04-26 02:29:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is a great professor!!! very knowledgeable and funny. Really enjoyed his classes and will definitlay take more.
+
+--- Rating #3 ---
+Class: MSE321
+Date: 2018-02-01 00:05:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A pretty chill and funny prof. He makes the lectures fun and very interesting! I definitely recommend taking a class with him
+
+--- Rating #4 ---
+Class: MSE321
+Date: 2018-01-05 18:57:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Good class where I learnt a lot about thermodynamics and heat transfer.

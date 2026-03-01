@@ -1,0 +1,65 @@
+Professor: James Flory
+Professor Legacy ID: 2928225
+Professor ID: VGVhY2hlci0yOTI4MjI1
+Department (CSV): Marketing
+Department (Fetched): Marketing
+Avg Rating: 3.8
+Avg Difficulty: 3.3
+Num Ratings: 4
+Would Take Again Percent: 75
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: BUS441
+Date: 2025-05-13 22:52:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great Prof, knows his stuff and is generally helpful if you engage with him. Be expected to spend a good amount of time on wordpress and GA4 outside of class. 
+
+Exams were reasonable, but certain questions covered your understanding of GA4 and VWO so don't just read lecture notes.
+
+--- Rating #2 ---
+Class: BUS441
+Date: 2025-03-28 18:56:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Engaged professor
+
+--- Rating #3 ---
+Class: BUS441
+Date: 2024-11-09 05:47:13 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+James teaching style feels unorganized at times, there is a lot of self learning that you have to do. Guidelines to assignments are broad and unclear.
+
+--- Rating #4 ---
+Class: BUS441
+Date: 2024-10-20 17:33:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Interesting prof

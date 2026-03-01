@@ -1,0 +1,37 @@
+Professor: Andy Calvert
+Professor Legacy ID: 2629156
+Professor ID: VGVhY2hlci0yNjI5MTU2
+Department (CSV): Earth Science
+Department (Fetched): Earth Science
+Avg Rating: 3.5
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: EASC207
+Date: 2021-01-15 18:42:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+3.5/5, but I couldn't choose that. His lectures might be a bit boring, but he is very reasonable with his grading, willing to help, and his course has a relatively small workload. Put in some effort into understanding the theory, and you will do fine.
+
+--- Rating #2 ---
+Class: EASC207
+Date: 2020-12-21 22:04:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Good course overall but the lectures could be a bit dry. The material itself wasn't too hard but there was just a lot of it covered every lecture, make sure you allow time to review notes and/or take your own so you fully understand everything.

@@ -1,0 +1,206 @@
+Professor: Benjamin Anderson
+Professor Legacy ID: 2277847
+Professor ID: VGVhY2hlci0yMjc3ODQ3
+Department (CSV): Labor Studies
+Department (Fetched): Labor Studies
+Avg Rating: 4.4
+Avg Difficulty: 2.8
+Num Ratings: 15
+Would Take Again Percent: 86.6667
+
+Ratings Count Returned: 15
+
+--- Rating #1 ---
+Class: LBST308
+Date: 2024-06-03 17:31:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Ben was brilliant and humble, he welcomed questions and answered them extensively - he's loads of history and comparative analysis to engage with. His readings connect you to key theorists to read further. He's going above and beyond to introduce you to the breadth of a topic, and engage your own analysis. Can't recommend him highly enough!
+
+--- Rating #2 ---
+Class: 301W
+Date: 2024-01-12 02:40:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This is a very vicious teacher. His courses are very heavy. And the requirements are extremely high. All the people around me who took his course wanted to cry at the end of the term.
+
+--- Rating #3 ---
+Class: CMNS221
+Date: 2023-10-23 21:58:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I recommend taking CMN courses with this professor; he was super organized during his lectures, and the weekly readings were very interesting to read, as well as the marking was pretty fair with valuable feedback.
+
+--- Rating #4 ---
+Class: CMNS240
+Date: 2023-08-18 23:12:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This professor is clear with expectations and fair. Exams are exactly what he presents in lecture. His approach always considers power dynamics and intersectionality. Balances theory and application well. He was also understanding when I went through personal difficulties and made accomodations for me.
+
+--- Rating #5 ---
+Class: CMNS221
+Date: 2022-12-17 00:04:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Benjamin brought my interest back to studies because his materials are exciting to learn. The course is reading-heavy, and sometimes the test might get tricky; however, the students get to watch movies for the course. He has a fantastic sense of humour and can talk and discuss any topic for hours. It is an enjoyable class.
+
+--- Rating #6 ---
+Class: CMNS240
+Date: 2022-09-29 22:59:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Benjamin is very thorough in his lectures and reading materials. He's also super helpful with papers if you ask for anything, which is great! He's definitely passionate and knowledgable about what he's teaching.
+
+--- Rating #7 ---
+Class: CMNS221
+Date: 2022-08-24 22:43:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Super easy class with clear rubrics. Lectures are engaging and the exams were exactly what he described. Doesn't post slides but he gives plenty of time to write or take pictures.
+
+--- Rating #8 ---
+Class: CMNS130
+Date: 2022-04-07 19:08:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Ben is a great prof! He puts a lot of effort into his lecture slides, and tries to get every student to engage with the material. I also took 221 with him, awesome prof!
+
+--- Rating #9 ---
+Class: LBST308
+Date: 2021-12-09 09:35:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I found that Anderson approached the material in a way that made it seem relevant and human. There is a lot of reading, but it is all relevant to the course, and feed in well to the class discussions. A very balanced course that lets students play to their strengths.
+
+--- Rating #10 ---
+Class: LBST308
+Date: 2021-08-10 02:01:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+If you're looking for an elective, I do not recommend this class with Dr. Anderson. Instead of a final exam, he gives a 14-page final paper that is very hard. He doesn't provide PowerPoint slides or record lectures so you have to attend class. Very hard to understand his lectures and keep up with the material. Lots of readings too.
+
+--- Rating #11 ---
+Class: 301W
+Date: 2021-05-18 07:13:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I've taken 4 classes with him (LBST301W, 330, 330, 306) and I can say that he's hands down the best professor I've ever had. He's passionate about teaching and workers' rights and that translates to how easy it is to learn in his class. The weekly topics for his classes are clear and his lectures are well thought out. 10000000/10!!!
+
+--- Rating #12 ---
+Class: CMNS130
+Date: 2021-04-28 05:51:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+I am so glad I took my first CMNS class with Ben! There were lots of readings, and participation matters in tutorial but I found it all to be very useful. Ben puts effort into his slides which makes super engaging and interesting lectures. I really appreciated his hard work and kindness. Amazing prof, whose hard work does not go unnoticed.
+
+--- Rating #13 ---
+Class: LBST101
+Date: 2018-07-20 20:43:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Ben is super approachable and gives amazing feedback. Plus he tries to incorporate current events into the learning material. Just make an effort and do the work, he will definitely recognize it.
+
+--- Rating #14 ---
+Class: LBST101
+Date: 2018-03-16 03:34:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Ben is a very nice person. He is also engaging and turns boring stuff fun.
+
+--- Rating #15 ---
+Class: LBST308
+Date: 2017-11-11 15:24:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Ben is an amazing professor, super chill, and provides amazing feedback! He is super inspiring and is super helpful when it comes to providing resources. You can tell he really enjoys teaching and that makes the class 100x better. TAKE A CLASS WITH BEN !!

@@ -1,0 +1,50 @@
+Professor: Shan Wu
+Professor Legacy ID: 2003720
+Professor ID: VGVhY2hlci0yMDAzNzIw
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 3.6
+Avg Difficulty: 2
+Num Ratings: 3
+Would Take Again Percent: 0
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: CMNS310
+Date: 2017-02-28 14:48:54 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Shan seemed interested in the lecture content, however was focused too much on getting students to participate in lecture. Even though there was a tutorial component to the class, she insisted on asking questions and waiting silently until someone answered, but then shut them down. Half of the lectures were questions and painful awkward silences.
+
+--- Rating #2 ---
+Class: CMNS221
+Date: 2015-11-24 02:48:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Shan was a genuinely lovely person and seemed to be looking out for the best interests of her students. Make sure you attend lectures because she does not post slides online, and exams are based off them entirely. Fairly easy and interesting class if you don't skip!
+
+--- Rating #3 ---
+Class: CMNS221
+Date: 2015-04-21 17:37:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Shan was a great prof. Lectures were 2 hours but felt way shorter because she mixed up the lectures with power points and youtube videos. Her lectures were so easy to follow that studying for the mid-term wasn't really mandatory if you were showing up to class. There course consisted of a 5 min presentation, mid-term, term paper and take home exam.

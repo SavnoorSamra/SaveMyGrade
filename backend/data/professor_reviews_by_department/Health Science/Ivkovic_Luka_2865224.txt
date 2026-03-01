@@ -1,0 +1,52 @@
+Professor: Luka  Ivkovic
+Professor Legacy ID: 2865224
+Professor ID: VGVhY2hlci0yODY1MjI0
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 3.7
+Avg Difficulty: 3.3
+Num Ratings: 3
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: Hsci305
+Date: 2023-05-11 08:14:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I really liked Luka and the course material. The papers are fair but I found the tests a bit hard. Participation exercises are at random so you must come to class. 
+
+You will either have to develop good note taking techniques or complete notes outside of class as the slides are heavy and fast.
+
+--- Rating #2 ---
+Class: Hsci305
+Date: 2023-04-15 07:29:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Be ready to come to every class. Exams are heavily based on lectures and discussions made during lectures which he doesn't add to the slides. Also, random participation that he doesn't inform about. He is awesome though, a really nice guy. Boring lectures, sucks that participation is a must. Pretty low an effort class, just 2 papers and 3 exams.
+
+--- Rating #3 ---
+Class: Hsci305
+Date: 2023-04-13 21:04:10 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Luka is a very nice man! however, his lectures are extremely boring and also very long. He reads directly from the lecture slides. There are 2 exams, they are only short answers no multiple choice. He says they are based directly on the lecture material but ends up pulling direct quotes that you should know from the readings. The papers are fair.

@@ -1,0 +1,271 @@
+Professor: Logan Masilamani
+Professor Legacy ID: 30019
+Professor ID: VGVhY2hlci0zMDAxOQ==
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 3.3
+Avg Difficulty: 3.2
+Num Ratings: 26
+Would Take Again Percent: 57.6923
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: 101
+Date: 2026-01-23 17:26:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Logan was good in introducing the IS.
+
+--- Rating #2 ---
+Class: 100
+Date: 2026-01-23 17:25:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I did not find the course a joke. Content was on constant. Just follow his instructions.
+
+--- Rating #3 ---
+Class: 101
+Date: 2026-01-23 16:27:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The lectures are short and so boring. You also won't be able to understand a word he is saying. Get ready to teach yourself. We are paying too much for this level of instruction! This course is a joke and will tank your gpa.
+
+--- Rating #4 ---
+Class: 100
+Date: 2026-01-17 18:19:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great stuff. No issues
+
+--- Rating #5 ---
+Class: 101
+Date: 2026-01-17 05:54:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If the lectures are short why is it difficult to sit through.
+
+--- Rating #6 ---
+Class: 101
+Date: 2026-01-17 05:11:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Provided great lectures and hints to exams
+
+--- Rating #7 ---
+Class: 101
+Date: 2026-01-17 05:10:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Maybe you should ask questions
+
+--- Rating #8 ---
+Class: 101
+Date: 2026-01-16 18:26:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Attending all lectures as previously stated by someone won't help you. The lectures are disorganized, short and difficult to sit through.
+
+--- Rating #9 ---
+Class: 100
+Date: 2026-01-16 18:24:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Whoever said there is not much to do in this course, clearly didn't take it. I did well in this course, but I got lucky. Most people don't do well.
+
+--- Rating #10 ---
+Class: 100
+Date: 2026-01-16 04:34:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great course. Not much to do
+
+--- Rating #11 ---
+Class: 101
+Date: 2026-01-16 04:32:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Need to attend all lectures
+
+--- Rating #12 ---
+Class: 101
+Date: 2026-01-16 04:31:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Wonderful  course
+
+--- Rating #13 ---
+Class: 101
+Date: 2026-01-16 01:27:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Funny that someone said, &#8220;ask questions,&#8221; that's the last thing you should do. Stay low, don't speak up or raise your voice hand, and you may just pass. Maybe.
+
+--- Rating #14 ---
+Class: 100
+Date: 2026-01-16 01:24:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+I am not sure why there are not more people warning about this particular section. Do not take this class.
+
+--- Rating #15 ---
+Class: 101
+Date: 2026-01-16 01:22:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Easily the worst class I've ever taken. There were hardly any lectures last fall and if there were any they were short. Be prepared to teach yourself!
+
+--- Rating #16 ---
+Class: 101
+Date: 2026-01-12 15:24:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ask questions
+
+--- Rating #17 ---
+Class: 100
+Date: 2026-01-12 15:23:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Save your gpa
+
+--- Rating #18 ---
+Class: 100
+Date: 2026-01-10 17:15:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Enroll in another section. Save your gpa and do NOT take this section!
+
+--- Rating #19 ---
+Class: 101
+Date: 2026-01-10 17:13:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Asking questions in this class is not recommended. It will put a target on your back. Stay low on the radar.
+
+--- Rating #20 ---
+Class: 101
+Date: 2026-01-08 14:39:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ask questions next time

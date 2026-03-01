@@ -1,0 +1,129 @@
+Professor: Shawn Sederberg
+Professor Legacy ID: 2970040
+Professor ID: VGVhY2hlci0yOTcwMDQw
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 4.7
+Avg Difficulty: 3.2
+Num Ratings: 9
+Would Take Again Percent: 100
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: ENSC324
+Date: 2025-12-08 02:47:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Class with Shawn is great. Slides are clean and filled with actual useful information. Expectations for exams and assignments are VERY clear. Many practice exams are given with difficulty equivalent to the actual exams. Homework is also similar in difficulty to the exams. Shawn is also considerate in giving out extensions for assignments. Take him!
+
+--- Rating #2 ---
+Class: ENSC324
+Date: 2025-09-07 20:57:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+ENSC470. Labs were clear and a great part to learning concepts while not being too time-consuming. Lectures were easy to follow. Shawn is also a very understanding professor with fair policies. MT was also simple, just need a lot of practice. Final difficulty depends on the MT - if it was easy, final would be more difficult. Fair course overall..
+
+--- Rating #3 ---
+Class: ENSC324
+Date: 2025-02-11 20:45:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+great prof good job shawn
+
+--- Rating #4 ---
+Class: ENSC324
+Date: 2024-12-18 02:13:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Shawn's teaching was really great in both ENSC 324 and ENSC 470 last summer. He always answers anything related to course material in detail and his words were easy to understand. I can see the potential from Shawn that he can teach other ENSC courses significantly better than other profs other than ENSC 324 and ENSC 470.
+
+--- Rating #5 ---
+Class: ENSC324
+Date: 2024-12-11 21:16:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This class was very challenging for me but Shawn was a great lecturer and very fair with how he awarded marks. He is a super nice guy I would love to have him in other classes
+
+--- Rating #6 ---
+Class: ENSC324
+Date: 2024-12-07 04:57:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Shawn is a great prof and I particularly appreciate his slides. I find that many professors do not create slides that accurately represent the material that is tested or on homework. His grading criteria and methods were fair and I believe that if you will get a mark proportional to the effort you put into this course which is how it should be.
+
+--- Rating #7 ---
+Class: ENSC324
+Date: 2024-10-26 03:39:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I wasn't too interested in the material but he made accomodations for students when possible and gave resources for exams, overall good
+
+--- Rating #8 ---
+Class: ENSC324
+Date: 2024-01-11 18:53:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I started liking the topics (semiconductors) when I took this class with him. I used to have a hard time understanding semiconductors before with other profs, but prof Shawn is very good at explaining and cares about explaining well. He is very organized and reasonable with his lecture structure, also he is very
+kind person always willing to help.
+
+--- Rating #9 ---
+Class: ENSC324
+Date: 2023-12-21 18:56:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Shawn teaches a difficult class in ENSC 324, but makes it less painful by assigning a reasonable amount of homework, and giving access to plenty of practice problems to study before exams. He is also very easy to contact, and thoughtful enough to give homework extensions. Lectures are a little dry, but overall a great professor.

@@ -1,0 +1,271 @@
+Professor: Amir Rubin
+Professor Legacy ID: 262648
+Professor ID: VGVhY2hlci0yNjI2NDg=
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 2.5
+Avg Difficulty: 3.4
+Num Ratings: 57
+Would Take Again Percent: 18.75
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS806
+Date: 2025-11-06 06:18:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+way better than Ying
+
+--- Rating #2 ---
+Class: BUS806
+Date: 2025-10-03 20:13:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+A good and responsible professor, you can learn knowledge from his course
+
+--- Rating #3 ---
+Class: BUSBUS
+Date: 2025-09-17 21:11:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His course requirements are extremely strict. He also stated that everyone attending his class must keep their eyes on him the entire time, and he even forbids taking notes. Even minor instances of being late will be singled out by him for comment in every class.
+
+--- Rating #4 ---
+Class: BUSBUS
+Date: 2024-11-16 02:32:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Has 0 compassion for students. He gives daily quizzes which is unbearable for anyone who has a life outside academics.
+
+--- Rating #5 ---
+Class: BUSBUS
+Date: 2022-12-17 00:25:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He cares that students gain knowledge in the class. Loved all his lectures, an absolutely amazing prof. He is very organized and knows his content well.
+
+--- Rating #6 ---
+Class: BUSBUS
+Date: 2022-12-16 03:00:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This person is very disrespectful to students and has made discriminatory comments. He is also a Jew himself. What a joke.
+
+--- Rating #7 ---
+Class: BUSBUS
+Date: 2022-12-12 19:24:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very boring and lengthy lectures. Lecture slides are so wordy that they resemble textbooks. Halfway through our course, he started treating students like children and locking tardy students outside of the classroom. The class environment was very uncomfortable due to the professor's attitude.
+
+--- Rating #8 ---
+Class: BUSBUS
+Date: 2022-11-10 20:53:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Worst professor ever. Never saw someone who made slides with full texts. This professor was literally reading tens of pages of all-text ppt throughout his class.
+
+--- Rating #9 ---
+Class: BUS802
+Date: 2022-10-06 19:45:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He just reads the slides we can read at home as well. He makes the easier thing more complicated. I am so disappointed at SFU.
+
+--- Rating #10 ---
+Class: BUS802
+Date: 2021-05-01 11:20:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+It is clear that Amir has no interest in teaching, and his method of teaching is quite bad and confusing! I also don't think he is a happy person, and he's rude. The course could have been taught much better. He should not be teaching in the MSc in Finance program. It is a view that many of my classmates also have.
+
+--- Rating #11 ---
+Class: BUS802
+Date: 2021-04-26 03:43:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+A very odd approach he has to finance disregarding the mathematics of finance. Wants you to be a robot that he programs. Attitude towards students is disrespectful. Avoid if possible. I would go on to describe one of the worst classroom experiences I have ever had but I am afraid it might fall into offensive category...
+
+--- Rating #12 ---
+Class: BUB312
+Date: 2020-05-07 23:47:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He has a terrible attitude. He is condescending and subtly mocks students. He makes the material harder than it is &amp; he makes you purchase the online learning section of the textbook to do homework. I've never felt more uncomfortable by anyone as much as I've felt by him.
+
+--- Rating #13 ---
+Class: BUS312
+Date: 2020-02-14 01:43:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Absolutely the worst professor I have had. He now teaches at The Interdisciplinary Centre in Hertzeliya. Terrible attitude with his students, his exam is marked extremely tough without any feedback and he makes the material way harder than it should be. I feel sorry if you have to take his class
+
+--- Rating #14 ---
+Class: BUS802
+Date: 2020-01-22 02:11:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Bad Attitude; Avoid him
+
+--- Rating #15 ---
+Class: BUS802
+Date: 2019-10-16 02:25:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+WORST ATTITUDE AND EXAMS ARE COMPLETELY DIFFERENT FROM WHAT HE TEACHES IN THE CLASS
+
+--- Rating #16 ---
+Class: BUS802
+Date: 2018-11-18 14:26:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He's just an awful instructor with a generally BAD attitude towards students! I, along with many of my classmates, would never take him again. Avoid his classes if you can.
+
+--- Rating #17 ---
+Class: BUS802
+Date: 2016-03-06 20:57:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Absolutely THE worst professor I have ever studied with. Exam stuff is simply NOT what you could learn from his class.
+
+--- Rating #18 ---
+Class: BUS802
+Date: 2014-01-14 14:52:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Easily the worst professor I have ever had. Avoid his courses
+
+--- Rating #19 ---
+Class: BUS312
+Date: 2011-08-21 23:51:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+DEFINITELY NOT TAKE THIS COURSE WITH HIM! although it looks great that there is no final, the workload is heavy! the team project is hard and very confusing for a third year business student. Moreover he always makes some easy concepts extremely hard to understand. If you have to take this course with him, then good luck!
+
+--- Rating #20 ---
+Class: BUS312
+Date: 2011-08-12 18:38:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+No final exam, only 2 midterms and 1 project. The project is extremly confused for those who couldn't deeply understand finance. I will not recommend this prof for those who are not interested in accounting or finance.

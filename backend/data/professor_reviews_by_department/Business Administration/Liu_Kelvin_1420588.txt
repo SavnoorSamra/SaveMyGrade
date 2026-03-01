@@ -1,0 +1,24 @@
+Professor: Kelvin Liu
+Professor Legacy ID: 1420588
+Professor ID: VGVhY2hlci0xNDIwNTg4
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BUS419
+Date: 2010-03-22 18:12:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+dgs

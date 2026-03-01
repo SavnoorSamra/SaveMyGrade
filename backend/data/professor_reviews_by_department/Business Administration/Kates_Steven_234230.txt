@@ -1,0 +1,271 @@
+Professor: Steven Kates
+Professor Legacy ID: 234230
+Professor ID: VGVhY2hlci0yMzQyMzA=
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 1.9
+Avg Difficulty: 3.6
+Num Ratings: 62
+Would Take Again Percent: 14.2857
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: 347
+Date: 2026-01-27 23:11:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Pretty weird guy. Rambles about irrelevant things and doesn't always clearly connect it back to the course. Would definitely recommend taking this course with someone else if you can
+
+--- Rating #2 ---
+Class: BUS347
+Date: 2025-12-11 18:38:03 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Steve is just a very strange guy. The class wasn't overly hard and you did learn lots.
+
+--- Rating #3 ---
+Class: 347
+Date: 2025-04-29 06:43:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Steve was a great professor who was very entertaining and really cared for his students. He answers email even on weekends and truly attends to his students. Lecture was heavily based on what he says in class rather than slides and textbooks but he makes lectures entertaining and enjoying. Makes great humour in class.
+
+--- Rating #4 ---
+Class: 347
+Date: 2024-12-14 21:29:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+You know, I bet you're scrolling through these reviews, thinking "god I should avoid Steve." However, if you have a sense of humor, and enjoy interesting people, then I would definitely recommend Steve. It's an experience you can't get with any other professor: he tells jokes all class and truly knows his material. Also you don't need the textbook.
+
+--- Rating #5 ---
+Class: 347
+Date: 2024-12-10 18:18:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Steve is entertaining but rude. Tough grader, the assignments don't have a grading rubric which makes it extra confusing. The book and slides don't reflect what he's teaching in class, but if you pay attention, the assignments are not that hard.
+
+--- Rating #6 ---
+Class: BUS347
+Date: 2024-10-22 22:06:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This guy is insufferable. He rambles about nonsense unrelated to class material and won't even get past the title lecture slide until an hour into the lecture. He talks about controversial topics that make everyone uncomfortable and is condescending when you don't share the same viewpoints as him.
+
+--- Rating #7 ---
+Class: BUS347
+Date: 2024-04-26 23:06:49 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Steve certaintly shocked everyone in class every lecture by the things he would say. Although he discusses controversial topics all the time, it somehow makes the class go by fast. His grading criteria is very vague, so I would def ask him a lot of questions.
+
+--- Rating #8 ---
+Class: BUS347
+Date: 2024-04-19 18:42:10 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He loves talking about unrelated stuff. I still don't get how some topic is related to marketing and why Steve keeps bringing it up. The ads he shows in class are kind of weird too. The two group assignments were unclear in terms of grading, and the instructions were also unclear. If you can, just avoid this him.
+
+--- Rating #9 ---
+Class: BUS347
+Date: 2024-03-15 03:37:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+
+
+--- Rating #10 ---
+Class: BUS347
+Date: 2024-01-16 23:44:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Gets really wrapped up in his own politics. Spent like 30 minutes arguing that the statement "From the river to the sea" was antisemitic, the dude is experiencing crazyyyyy cognitive dissonance. If you wanna take a lecture from a zionist go ahead.
+
+--- Rating #11 ---
+Class: BUS347
+Date: 2023-05-26 04:44:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If you want to feel uncomfortable for 3 hours then this is the class. He loves to revolve discussions around controversial topics and will call on people if no one answers. If you answer, he'll make you feel bad about it if it's wrong. Some topics in the class are actually interesting and group papers are worth a lot and super unclear.
+
+--- Rating #12 ---
+Class: 347
+Date: 2022-12-12 08:37:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Group assignments were very confusing, counted for a large portion of your grade. Hard marker.
+
+--- Rating #13 ---
+Class: BUS347
+Date: 2022-11-16 04:57:19 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Steve is no easygoing professor. Get ready to read many articles and be prepared for group assignments that are not easy. He is a tough grader on the assignments, the final is worth 40%.
+
+--- Rating #14 ---
+Class: BUS347
+Date: 2022-06-29 02:15:15 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Some of the other reviews are accurate in terms of his sense of humor but overall he knows how to make a 3 hour lecture pass by quick. There was 2 group papers worth 25% each, 40% final and 10% participation. Groups were random and there was no peer evaluation at all, although his sense of humor is debatable, he does care about students in a way.
+
+--- Rating #15 ---
+Class: BUS347
+Date: 2022-05-13 19:41:30 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The class content itself is fine, but Steven is just rude and unprofessional. He often makes comments about groups of people he dislikes during class (millennials, arts students, and colleagues without naming names) which isn't relevant to class material and just makes the environment uncomfortable. His demeanour is very unapproachable.
+
+--- Rating #16 ---
+Class: BUS347
+Date: 2021-10-23 01:06:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Worst prob so far. Really ambiguous term papers and he really has a kick our of making fun of students who try to participate in class. How is this guy even teaching in beedie?
+
+--- Rating #17 ---
+Class: BUS347
+Date: 2021-04-13 22:35:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Most of the reviews nail the assessment of him and the class. Overall terrible experience. You cannot select groups and then if there's any problems with your group, he expects ALL other team members to agree with you for him to take action (which makes no sense). On top of that, unclear projects and grading doesn't make sense.
+
+--- Rating #18 ---
+Class: BUS347
+Date: 2021-04-03 00:16:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Taking this class online consists of Steve posting a confusing word document of things he would say if the class was in person. He has no lectures and expects students to read a 20-page word doc of his notes. This is just lazy teaching. The group project is also extremely unclear. He sends out emails the contradict what he says on the syllabus
+
+--- Rating #19 ---
+Class: BUS347
+Date: 2020-05-10 05:13:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great prof and really kind person. His exam is writing based, unlike most marketing courses. Questions are things discussed in class, and represent &quot;large ideas&quot;. The group project is hit or miss so BE VERY CAREFUL WHEN FORMING YOUR GROUP
+
+--- Rating #20 ---
+Class: BUS347
+Date: 2020-05-01 21:21:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very unclear with term projects. If you ask him to explain the marking rubric he will tell you it is self explanatory and to read it again. Not helpful at all. Doesn't use Canvas.

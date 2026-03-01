@@ -1,0 +1,271 @@
+Professor: Karen Yeats
+Professor Legacy ID: 1257953
+Professor ID: VGVhY2hlci0xMjU3OTUz
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.4
+Avg Difficulty: 3.9
+Num Ratings: 26
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MACM201
+Date: 2016-06-01 18:45:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+MACM 201 is a difficult course, but Karen's efforts made it easy. Out of every MATH or MACM class I've taken, her notes were the clearest and most detailed, and she clearly cared about (a) the grades we got; (b) our understanding of the material. Again, it's a hard course - do the homework, attend the lectures, and you'll do great.
+
+--- Rating #2 ---
+Class: MACM201
+Date: 2016-05-09 23:37:39 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Karen is a great prof, Macm 201 is not an easy course by any means. She expects a lot of you and expects you to put in effort. Midterms were difficult (mainly because of time constraint) and final was easier.
+
+--- Rating #3 ---
+Class: MACM201
+Date: 2016-05-02 12:39:43 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Exams were hard!
+
+--- Rating #4 ---
+Class: MACM201
+Date: 2016-04-16 15:43:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The only person to take MACM 201 with. Really cares about students and does her best to test fairly based on actual material covered. Midterms are really tough. This is notoriously one of the most difficult courses for comp sci majors, but Karen teaches the material in a very understandable and approachable way.
+
+--- Rating #5 ---
+Class: MACM201
+Date: 2016-01-20 18:53:43 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Notes are messy and difficult to understand; you need to print her skeleton notes out and fill them in during class. She goes too fast so you won't be able to take thorough notes without them. Concepts are not explained in a clear and straightforward way. You should use the textbook if you don't understand everything well.
+
+--- Rating #6 ---
+Class: MACM201
+Date: 2015-12-24 02:24:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+This course wasn't as bad as I had expected. Karen goes through many examples in class. She is also very helpful outside of class and gives thorough explanations over email as well as the Canvas discussion board. The midterms were a bit hard (due to the time limit, not the actual questions), but the final was easy. I couldn't really ask for more.
+
+--- Rating #7 ---
+Class: MACM201
+Date: 2015-12-22 03:10:15 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+For clarity, if you don't read class materials before her lecture, then there is a high chance that you won't understand a thing, as she goes through notes very fast, and expected you to know the basics. Her midterms are difficult, as you generally won't find enough time to finish them, but the final is quite easy. Overall, she's okay.
+
+--- Rating #8 ---
+Class: MACM201
+Date: 2015-12-21 16:10:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She explains a lot of the material and does a lot of examples too so you would understand the material. I also think she doesn't deserve the hate some of the people give her. The material is hard and she does say to work hard to do well. Although I wished she would write clearer and go over things slower, she is the prof to take MACM 201 with.
+
+--- Rating #9 ---
+Class: MACM201
+Date: 2015-12-17 16:11:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Karen Yeats is an amazing professor. MACM201 is a very tough course -- she makes the material to be tested a lot more reasonable as opposed to the other professors that teach this course. Aside from that, she's very proficient in her field and teaches extremely well. Wouldn't have taken this course with any other professor. Be ready to put in work.
+
+--- Rating #10 ---
+Class: MACM201
+Date: 2015-11-20 02:08:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Highly Underrated. I don't know why people rate easiness based on the course material. It's not supposed to be easy, this is tough math. She goes quick so you have to bring your A game, but will always help those who put in the effort and ask for it.
+
+--- Rating #11 ---
+Class: MACM201
+Date: 2015-10-28 21:39:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Just avoid her at any cost.
+
+--- Rating #12 ---
+Class: MACM201
+Date: 2014-02-05 00:44:23 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Good that notes were fill in printouts, however I feel the class was pretty rushed, content could get unclear and her writing is really messy. Will need the textbook, definitely a hard class.
+
+--- Rating #13 ---
+Class: MACM201
+Date: 2014-01-01 09:26:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I never saw a woman work that hard like her. She is pregnant, but she never miss one lecture even she is sick. This course is hard. You need to work hard and be clever. Her exams are very hard, but the final is better than the midterms.
+
+--- Rating #14 ---
+Class: MACM201
+Date: 2013-11-21 20:56:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Printing her notes and filling them out saved my grade; I didn't the first few weeks and those were the worst weeks. Review them and study her examples and especially the practice midterm(s) she puts up, they'll be the difference between a D and a B grade. She's also funny! Glad I took it with her (and LOVE her notes, cant stress it enough).
+
+--- Rating #15 ---
+Class: MACM201
+Date: 2013-11-13 02:48:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Go over the class too fast and very bad handwriting, hard to read. Mid-terms are tough, average below 50%. While she is very willing to help and really have passion to do math. Anyways, good person, smart good at math but not a good teacher for me. If you are not a math guy, probably choose another teacher for MACM201.
+
+--- Rating #16 ---
+Class: MATH447
+Date: 2013-03-07 14:39:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Friendly and good at explaining concepts.
+
+--- Rating #17 ---
+Class: MACM201
+Date: 2012-04-20 01:14:50 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+She speaks very fast and there is no time to Liston and understand and take notes. Her assignments includes proofs are not clear even when you get help from TA  they do not know the answer, her midterm and final are not fair and highly recommended avoid her.
+
+--- Rating #18 ---
+Class: MACM201
+Date: 2012-04-18 01:54:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She's a nice prof, very enthusiastic and has great notes but the material is often taught way too quickly. MACM201 is a brutal course but she manages to teach it a lot better than other profs I've heard of. If you print out her note outlines you can just keep up with her and they're great for studying later. I'd recommend taking it with her.
+
+--- Rating #19 ---
+Class: MACM201
+Date: 2012-04-16 18:26:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very nice and helpful teacher. She is very engaging, likes to ask questions to students, and will keep repeating sth until everyone understands. The only drawback is that she teaches very fast and her writing is messy. I would recommend her though, and if you have questions you should go to her office hours.
+
+--- Rating #20 ---
+Class: MACM201
+Date: 2012-04-13 03:07:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+her writing is messy and teaching so fast. MT's are ridiculously hard...I heat her, I need to repeat this subject again

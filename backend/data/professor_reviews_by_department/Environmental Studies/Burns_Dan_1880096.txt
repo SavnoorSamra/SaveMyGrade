@@ -1,0 +1,24 @@
+Professor: Dan Burns
+Professor Legacy ID: 1880096
+Professor ID: VGVhY2hlci0xODgwMDk2
+Department (CSV): Environmental Studies
+Department (Fetched): Environmental Studies
+Avg Rating: 2
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: ENV197
+Date: 2014-02-13 22:16:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Confusing prof, disorganized and was hard on marking, even though he wasn't clear on intersections for assignments. I wouldn't take another class with him... Nice guy though

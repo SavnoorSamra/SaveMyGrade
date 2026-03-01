@@ -1,0 +1,50 @@
+Professor: Bill Holmes
+Professor Legacy ID: 1018667
+Professor ID: VGVhY2hlci0xMDE4NjY3
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.5
+Avg Difficulty: 1.7
+Num Ratings: 3
+Would Take Again Percent: -1
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: BUS303
+Date: 2010-04-19 13:14:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Great prof-  He makes this class the easiest one you'll take in 3rd year.  3 hour lectures are a bit rough to sit through though.
+
+--- Rating #2 ---
+Class: BUS303
+Date: 2008-07-09 02:36:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Make sure to study his slides. His exams are based on those only. Don't even have to read the text! Easy class, nice prof :)
+
+--- Rating #3 ---
+Class: BUS303
+Date: 2008-03-17 16:22:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I like Bill! He is very good at explaining things and his slides lay everything out in a clear, easy to understand format. However, I did try to go to his office hours and he was a complete no-show!

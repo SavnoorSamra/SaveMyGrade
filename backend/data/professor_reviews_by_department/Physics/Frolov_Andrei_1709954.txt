@@ -1,0 +1,89 @@
+Professor: Andrei Frolov
+Professor Legacy ID: 1709954
+Professor ID: VGVhY2hlci0xNzA5OTU0
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 2.8
+Avg Difficulty: 3.3
+Num Ratings: 6
+Would Take Again Percent: 60
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: PHYS255
+Date: 2021-12-24 21:57:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Thick Russian accent, uploaded lecture slides and audio recordings but no video, which sucked for when he'd write on the blackboard. Mandatory use of 1 textbook but he recommended to use another one also. Asked for an hour of reading before each lecture. Generous marking. Messy teaching style with frequent typos but overall good prof. Curved me up
+
+--- Rating #2 ---
+Class: PHYS255
+Date: 2021-12-18 19:21:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+His lectures weren't the worst, but they weren't the best either. He had an annoying tendency to redefine variables without telling you so his derivations were pretty confusing. There were some irritating little 5-minute quizzes you had to speedrun every week too. On the bright side, everything was open-book, and midterms were take-home.
+
+--- Rating #3 ---
+Class: PHYS132
+Date: 2021-03-08 23:56:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Maybe he isn't good at teaching lecture courses, but I thought he was a fine lab professor. He talked too much so it was hard to finish labs in time, but he adapted and pre-recorded his pre-lab talk. Explains things clearly. I hated this course so much because it seems like a waste of 4 hours each week, but he wasn't the reason the course sucked!
+
+--- Rating #4 ---
+Class: PHYS255
+Date: 2018-12-04 02:35:51 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+At first I thought Frolov was a great professor, then he went on long-term medical leave and Stephanie Simmons took over. Turns out we were VERY far behind. By comparison, Frolov's lectures seemed unfocused, unclear, and unorganized. He is, however, a really funny and pleasant guy.
+
+--- Rating #5 ---
+Class: PHYS255
+Date: 2018-11-20 11:49:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Funny guy, terrible professor. Here's why. 1. the lecture is done on chalkboard only 2. His handwriting is messy 3. Will often forget variables while writing equations 4. Talks a lot while writing equations so prepare to multitask 5. the equations in the textbook and his lecture rarely match (use different forms)
+
+--- Rating #6 ---
+Class: PHYS490
+Date: 2013-04-27 19:32:21 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Frolov is a genius. People come to his talks about computer imaging (using differential geometry), and he merely does for fun on his spare time. However, his lectures are confusing, poorly explained and rushed. This forces you really learn to self teach from other texts, which is the most important thing you can learn in physics.

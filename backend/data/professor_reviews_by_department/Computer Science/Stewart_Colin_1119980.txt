@@ -1,0 +1,271 @@
+Professor: Colin Stewart
+Professor Legacy ID: 1119980
+Professor ID: VGVhY2hlci0xMTE5OTgw
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.9
+Avg Difficulty: 3.4
+Num Ratings: 38
+Would Take Again Percent: -1
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT165
+Date: 2013-03-28 03:34:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Great Prof. Had him a year ago, don't know if he still teaches here. Notes crystal clear, simple and goes over things in lecture very well. Assignments easy but projects may need a little bit of effort. Marks & tests very fairly
+
+--- Rating #2 ---
+Class: CMPT165
+Date: 2013-03-13 20:16:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Funny prof. But you need to know python well and prepare to code and debug. Best prof to be recommanded for CS students. May not be good if you don't know python.
+
+--- Rating #3 ---
+Class: CMPT165
+Date: 2012-08-17 00:30:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Great prof! His work load is a bit much but nothing too bad. Definitely doable and worth doing since the concepts find their way in the quizzes and definitely the final exam. He's more than reasonable and always willing to help! His notes are amazing and he programs during lectures so the lectures are definitely worth attending! Overall, amazing!!!
+
+--- Rating #4 ---
+Class: CMPT165
+Date: 2012-08-17 00:24:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Simply amazing! This guy is as close to the text-book definition of "perfect" as far as professors go. Passionate, helpful, reasonable and his notes are gold. I didn't have prior programming experience, but I still received an A+ in his class! Just study his notes, attend the lectures, ask for help, do his assignments, and you'll be fine. =]
+
+--- Rating #5 ---
+Class: CMPT165
+Date: 2012-05-11 13:05:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+AWESOME PROF! very clear. lecture notes are really useful. Reasonable tests.
+
+--- Rating #6 ---
+Class: CMPT165
+Date: 2012-04-22 20:31:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Really cool, funny guy. This class was easy for me, since I had experience with the content already, but he's a great instructor.
+
+--- Rating #7 ---
+Class: CMPT165
+Date: 2012-03-26 19:39:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+this guy is amazing,he is nice and super helpful just go to his office hrs and you will be fine. his project is ok.. if you dont know how to do the things you can go through the ppt that he sent out.
+
+--- Rating #8 ---
+Class: CMPT165
+Date: 2012-03-02 05:02:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I like him!!! He is a good teacher! But you need to work a little hard on his course..  He does give hard project, but he is a reasonable guy. The notes are there and he is helpful. If you try you will have fun time with him~ Do attend to his class, cuz he's class is funny.
+
+--- Rating #9 ---
+Class: CMPT125
+Date: 2011-09-23 23:48:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+AWESOME PROF! Young, energetic and helpful. Clear and complete notes. Too bad, he'll leave, just after two weeks. I don't know how well he knows about computing science but he definitely knows how to teach a first year CS class which most of the other profs at SFU don't.
+
+--- Rating #10 ---
+Class: CMPT120
+Date: 2011-04-17 05:19:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Amazing Prof. I'm a student that skips a lot of classes, but I will go to this guy's EVERY class. His notes are 9/10 but his lectures are 10/10 (EVERYTHING is clear after the lecture!). Now onto the bad parts, his labs are extremely LONG, but not difficult, but at the same time FUN. Crazy right&#63; I didn't believe it myself.
+
+--- Rating #11 ---
+Class: CMPT120
+Date: 2011-03-21 21:25:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+One of my favour profs in SFU!!!An awesome, funny guy. Course content is really useful. Just try to do all the labs and pay attention to his notes, you will be find. Have fun with his quiz bonus quesions!!lol~
+
+--- Rating #12 ---
+Class: CMPT165
+Date: 2011-03-14 19:54:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I took this course over a year ago and still talk about Colin. Such a young, funny lecturer, but 95% of the class was international so I suspect no one got his sense of humour. Hard class if you've never programmed before but Colin is always available for help. Super funny/easy bonus questions
+
+--- Rating #13 ---
+Class: CMPT120
+Date: 2010-10-16 04:09:11 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Discourage students and arrogant. Sometimes goes off topic and end up not finishing the lecture. Can get easy mark with the TA. But do not show your work that is for mark to him he is very pick. If finds he does not find the variable name likable will deduct huge mark.
+
+--- Rating #14 ---
+Class: CMPT120
+Date: 2010-09-10 20:45:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Awesome Prof!  Colin programs during his lecture, which is terrific. Go to class, do the labs and you will ACE this course. It boosted my GPA :)
+
+--- Rating #15 ---
+Class: CMPT120
+Date: 2010-08-30 15:45:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+The final exam was pass or fail for the whole couse no matter if you did well before. You are expect to work super hard in his class. forget about having fun if you don't already enjoy programming.
+
+--- Rating #16 ---
+Class: CMPT120
+Date: 2010-08-29 18:27:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Overall, I would say hes a good teacher. He posts lecture notes and goes through them in class and does examples. Lab work relates to his lecture notes, 2 projects, 1 MT, 4 quizzes and 50% final. Material isn't super hard but is workable. I found his class okay enough though I have no prior programing knowledge.
+
+--- Rating #17 ---
+Class: CMPT120
+Date: 2010-08-14 07:55:06 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Gives you a penny and expects a million dollars. Course is VERY difficult. Would not recommend to students who are not planning to major in comp sci. This course is a gpa killer. Prof's grading schemes are utterly ridiculous and unfair as well. In hindsight, wouldn't go near this course with a 50 foot stick.
+
+--- Rating #18 ---
+Class: CMPT165
+Date: 2009-07-17 02:14:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I took this course as a GPA booster and indeed my GPA went up (I had previous experience with xhtml/css). His final exam however was a KILLER (for most students). The final question required full understanding of python: we were required to build an online shopping cart. The material was covered... but the last question was too damn long!
+
+--- Rating #19 ---
+Class: CMPT165
+Date: 2009-05-24 00:13:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Nice teacher~ and easy mark~ but you need to really understand your exercises and do your exercises and projects~! Final was not hard as projects~ and He curves the final,so you can get better grade!
+
+--- Rating #20 ---
+Class: CMPT165
+Date: 2009-05-02 16:37:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+The amount of work you have to put in his class is too much. lots of projects, exercises and quizes. you can learn things from him but this requires lots of time to spend on this course..

@@ -1,0 +1,154 @@
+Professor: Shu Ho
+Professor Legacy ID: 2398633
+Professor ID: VGVhY2hlci0yMzk4NjMz
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 1.3
+Avg Difficulty: 4.1
+Num Ratings: 11
+Would Take Again Percent: 0
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: IBUS4540
+Date: 2020-04-23 21:22:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+When I asked her to recheck why I got such a low grade, she said I do not know how to calculate percentage and she would deduct my marks further if I will ask for re-evaluation. She gave the same grade to me in both the courses and she teaches at Thompson Rivers Uni now and not at Simon Fraser. God knows if she has a degree or not.
+
+--- Rating #2 ---
+Class: IBUS3530
+Date: 2020-04-23 21:19:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Third class teacher. She doesn't teach in the class at all. Didn't gave a single lecture in the whole semester and expects students to explain the chapters in class. Gave the same grade to entire section. She did this so that the authorities at Thompson Rivers Uni do not question or expel her, but this is unfair to those who scored 80% and got B.
+
+--- Rating #3 ---
+Class: IBUS4540
+Date: 2020-04-23 21:13:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This was the second course I took from her coz there was no other prof. available. She is a prof. at Thompson River Uni now and I don't know why and how she got hired. Gave the same grade to me in both the courses and when I asked her about it she said she would reduce my marks if I will contact her again. Gave the same grade to all the students.
+
+--- Rating #4 ---
+Class: BUS237
+Date: 2019-03-28 20:37:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Absolutely horrendous. I took this class after having read all the previous negative reviews of her, and yet I am still shocked at how bad of a teacher she is and how unprofessional she is. Lecture powerpoints dont match-up with the textbook, and she struggles to explain even the simplest of concepts. Hands down the worst prof I have ever had.
+
+--- Rating #5 ---
+Class: BUS237
+Date: 2019-03-21 20:21:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Assignments were confusing as instructions were unclear and her lectures were so boring as she mainly read off the slides. Short answers for midterm was so vague and misleading, the average was like 6/20 because it was unclear on how to answer the questions. Very tedious and frustrating.
+
+--- Rating #6 ---
+Class: BUS237
+Date: 2019-01-05 06:08:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very inexperienced - she struggles just to READ the material off the slides and doesn't seem to know what she's doing. The short answers for the final are kind of confusing, especially when the course material is quite repetitive. Make sure you attend the lectures because she takes participation and in-class questions will be part of the final.
+
+--- Rating #7 ---
+Class: BUS237
+Date: 2018-12-20 21:27:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very inexperienced professor who relied on her TAs for the duration of the semester. Her lectures are simply her reading the slides word for word and her exams are not representative of what her slides teach. The short answer portions are almost impossible to prepare for as there is so much content and little guidance.
+
+--- Rating #8 ---
+Class: BUS237
+Date: 2018-12-14 08:40:08 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lack of communication especially regarding the Pearson e-textbook. Her lectures are boring as she just reads off of slides and her exams were complicated and misleading
+
+--- Rating #9 ---
+Class: BUS237
+Date: 2018-10-29 05:28:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Overall, very inexperienced and inconsistent. There are plenty of spelling and grammar mistakes in her unorganized slides. The course textbook does not align with her lectures either. She runs off to long breaks which could be used for teaching material that she is too lazy to cover. Also has a thick accent, which doesn't help.
+
+--- Rating #10 ---
+Class: BUS237
+Date: 2018-10-29 05:26:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Claims that the exam will be tested on textbook material, but provides information on her notes that have completely different definitions - makes it unclear which definition we should be studying. Also isn't clear about what the test is on and the format, no practice whatsoever.
+
+--- Rating #11 ---
+Class: BUS237
+Date: 2018-10-28 21:22:35 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+-Assignment instructions are long and confusing. -Makes you explore trendy technologies, some are quite irrelevant and unnecessary. -lots of memorizing.

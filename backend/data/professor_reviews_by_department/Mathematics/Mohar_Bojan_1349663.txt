@@ -1,0 +1,271 @@
+Professor: Bojan Mohar
+Professor Legacy ID: 1349663
+Professor ID: VGVhY2hlci0xMzQ5NjYz
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2.6
+Avg Difficulty: 3.7
+Num Ratings: 25
+Would Take Again Percent: 41.1765
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH240
+Date: 2025-10-29 16:40:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+His exams are hard be aware
+
+--- Rating #2 ---
+Class: MACM201
+Date: 2022-04-10 04:43:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Honestly a pretty good lecturer, but doesn't compare to the available online videos. Very fair midterms, very similar to the practice problems he provides.
+
+--- Rating #3 ---
+Class: MACM201
+Date: 2018-05-28 15:07:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Chutiya number one
+
+--- Rating #4 ---
+Class: MACM201
+Date: 2018-04-20 19:53:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+There seems to be a vocal minority of students that are saying Bojan's exams are too hard and unfair. I found it to be the opposite. His exams were quite fair considering the course material, and quizzes were free marks if you understood the homework. His lectures are dry and not very helpful, so learn from the textbook.
+
+--- Rating #5 ---
+Class: MACM201
+Date: 2018-04-20 00:13:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Considering the horror stories I've heard of past profs, Dr. Mohar covered the material appropriately and with good illustrations / examples. At times VERY concise, expect to do a LOT of extra homework to keep up. It's worth trying weekly HW EARLY so that you get more out of lecture. Thanks to Dr. Mojar, I can now count, sometimes, kind of.
+
+--- Rating #6 ---
+Class: MACM201
+Date: 2018-04-18 21:38:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This prof does not seem to care about teaching anymore. He will often spend 10 minutes looking for a minor mistake in his examples he has done then skip steps to make up time. The quizzes are often different from the homework and the practice exams are much easier than the actual exam questions. Try to avoid this prof if you can.
+
+--- Rating #7 ---
+Class: MACM201
+Date: 2018-04-11 21:13:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Since the course itself is hard, you have to put some efforts on it. His lectures are pretty easy, but quizzes and midterms are challenging(if you did homework you are fine). Be aware of heavy course load.
+
+--- Rating #8 ---
+Class: MACM201
+Date: 2018-04-04 02:06:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures could be hard to follow at times but if you spend some time studying and even do some pre-reading it was good. Exams and some quizzes were a bit more difficult than expected, but it isn't an easy course to begin with. Marking was very fair. I think he did a good job given the difficulty of this course and the massive size of the class.
+
+--- Rating #9 ---
+Class: MACM201
+Date: 2018-04-01 00:53:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He's a fine prof, much better than RMP would lead you to believe. Maybe not the best prof at SFU but a solid choice. Exams and quizzes are quite fair given the difficulty of this course. Course will be scaled, so as long as you do well compared to the average you will succeed. He posts lecture notes so you don't have to attend all lectures.
+
+--- Rating #10 ---
+Class: MACM201
+Date: 2018-03-16 17:37:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This instructor has nothing helpful, we paid more than 2000 dollars for this course but eventually we get nothing
+
+--- Rating #11 ---
+Class: MACM201
+Date: 2018-03-15 04:35:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Another absolutely terrible SFU prof (too many). When teaching he seems perpetually confused and skips steps that are more difficult leaving you guessing (not to mention mistakes in notes/lecture). Quizzes/Midterms are either too time consuming or too difficult to finish. Expect to take MACM 201 again if you take it with him as most people fail.
+
+--- Rating #12 ---
+Class: MACM201
+Date: 2018-03-13 15:33:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Bojan is the worst prof I've ever had. It is easy to see that he is tired of teaching and doesn't care about students' success. The worst thing is: his midterms are not related to homework and lectures. He gives misleading easy sample midterms to prep but then the actual test will be unrelated to anything seen before. Avoid this prof.
+
+--- Rating #13 ---
+Class: MACM201
+Date: 2018-03-13 06:26:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Ok let me clear something here, maybe Bojan is a good mathematician, but he is not good at teaching at all. Lectures are super easy, homework is doable, but exam and quiz do not make any sense. Avoid him with all the cost, it is ok to bear one semester with other courses, but no with this guy. Definitely need to learn how to teach.
+
+--- Rating #14 ---
+Class: MACM201
+Date: 2018-03-12 16:47:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This prof is by far the worst prof I have ever had. He doesn't even know the material himself, he skips all the difficult steps and just writes an answer on the lecture notes. Then he expects you to know how to solve it.
+
+--- Rating #15 ---
+Class: MACM201
+Date: 2018-03-07 12:35:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The content he goes over in the lectures is only tangentially related to the homework/quizzes/exams. Basically, he teaches you how to boil water in lecture and then expects you to cook up a five-star meal in his tests. Nice guy, and clearly very knowledgable about the content of the course, but just so inept at actually teaching it. Stay away.
+
+--- Rating #16 ---
+Class: MACM201
+Date: 2018-02-02 20:11:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures are hard to follow confusing everyone in my group at the point he tries to get across. His examples are often just proofs that do not help for homework or exams. His first midterm was brutal most of the questions were unlike anything we had done before in homework with almost everyone I talked to expecting to fail and leaving pages blank.
+
+--- Rating #17 ---
+Class: MACM201
+Date: 2018-02-01 13:55:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+First Midterm made no sense. Couldn't figure out how to put word problems into mathematical notation. Soooo much studying is needed. Always learning something new each lecture, exams involve more than memorization. It involves being able to apply correct formulas and algebraic expressions to answer complex sequences and lots of math theory.
+
+--- Rating #18 ---
+Class: MATH240
+Date: 2015-12-27 01:11:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Incredibly boring and unclear on the material.  I was confused and did most of my learning through the texbook/online.  Didn't like the course for a while but you just have to get used to the way of thinking that's required.  Exams/quizzes are super straightforward.  Finished with an easy A+ in this one.
+
+--- Rating #19 ---
+Class: MATH240
+Date: 2015-11-05 18:34:55 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Hard to understand, says pivot like "pie vot", aside from that he is pretty cool. Before each of the midterms, he would stop covering new material and focus and giving you the information you should be reviewing, and took questions on homework.
+
+--- Rating #20 ---
+Class: MATH345
+Date: 2013-12-14 16:48:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great prof.

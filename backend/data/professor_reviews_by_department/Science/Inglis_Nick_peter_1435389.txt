@@ -1,0 +1,37 @@
+Professor: Nick (peter) Inglis
+Professor Legacy ID: 1435389
+Professor ID: VGVhY2hlci0xNDM1Mzg5
+Department (CSV): Science
+Department (Fetched): Science
+Avg Rating: 4.5
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BioL-1260
+Date: 2025-10-25 22:22:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Easy going, posts detailed and amazing lectures with slides that can be reviewed later too just to re-enforce learning. Too many details but tests are easier than the actual material. Always available to help with course material. If one watches his lectures and pay attention A+ is yours! Will always choose his class. Highly suggested
+
+--- Rating #2 ---
+Class: MBB231
+Date: 2010-04-22 02:56:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+His 1st time teaching this course, he originally teaches Bisc333. His exams are somewhat fair, though written parts are rather general and less detailed, 2nd mt avg was 10% lower than the first one. Lectures are good with decent notes in powerpoints. And a funny guy. Textbook will help u understand the material better, not to mention problem sets.

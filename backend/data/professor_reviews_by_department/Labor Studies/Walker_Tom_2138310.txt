@@ -1,0 +1,37 @@
+Professor: Tom Walker
+Professor Legacy ID: 2138310
+Professor ID: VGVhY2hlci0yMTM4MzEw
+Department (CSV): Labor Studies
+Department (Fetched): Labor Studies
+Avg Rating: 4.3
+Avg Difficulty: 3.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: LBST309
+Date: 2016-12-15 15:46:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Tom is a wonderful instructor. He always wants his students to do well, and is always willing to help whenever you need it. That being said, his "lectures" are mostly self-guided, meaning that instead of teaching, we learn the material  on our own, and discuss in class. Mid-term and final are easy if you study. Final is cumulative.
+
+--- Rating #2 ---
+Class: LBST309
+Date: 2016-05-03 19:06:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A great course from a great professor with a wide range of knowledge. His collaborative teaching style lets students interact with course material and understand it much more than only using a textbook (still, to do well you will need to read it thoroughly). Tom genuinely cares about the success of his students. I would take a class with him again.

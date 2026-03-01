@@ -1,0 +1,37 @@
+Professor: Margot Black
+Professor Legacy ID: 1494908
+Professor ID: VGVhY2hlci0xNDk0OTA4
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.8
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: MATH100
+Date: 2012-06-12 22:11:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Margot was a great teacher, had her in my first semester after coming off a tough year in math previously. Math 100 is a fast paced course but she is very open and helpful to questions. Super approachable and is willing to answer all your questions! I hate math and I would take a course with her again in a heartbeat!
+
+--- Rating #2 ---
+Class: MATH100
+Date: 2011-03-29 15:42:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Despite attending EVERY class, passing every assignment, and being tutored by a STAT major, I failed this course. Margot, while sweet, is NOT used to teaching large lecture-style courses or writing appropriate exams. Our class felt like a training course for her, and it is a real shame that many of our grades were at the mercy of her inexperience.

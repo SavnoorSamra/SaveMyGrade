@@ -1,0 +1,102 @@
+Professor: Sahar Zaman
+Professor Legacy ID: 3137929
+Professor ID: VGVhY2hlci0zMTM3OTI5
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 4.9
+Avg Difficulty: 1.9
+Num Ratings: 7
+Would Take Again Percent: 100
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: POL100
+Date: 2026-02-28 06:10:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professors lectures are clean & constructed, mandatory discussion questions posted during lecture & are graded as well. Not loaded questions but can be annoying after a while. Tutorials attendance is mandatory.
+
+--- Rating #2 ---
+Class: POL100
+Date: 2026-02-24 09:45:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Best class I've taken so far, super easy to understand/engaging lectures. There was a textbook, but it's not really mandatory; her lectures cover a general basis, and tutorials deep dive. She's passionate about what she teaches, and it shows. She's an absolute queen, loved her class, would take again 1000%!
+
+--- Rating #3 ---
+Class: POL100
+Date: 2026-01-26 19:03:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very knowledgeable, talks very clearly at a pace we can follow along and still covers all material. She is truly kind and can help with any technical issues or other questions you may have. Her slides are perfect for studying and easy to follow. She makes this course interesting and the videos she shows us relate perfectly to what we are learning.
+
+--- Rating #4 ---
+Class: POL100
+Date: 2026-01-08 02:46:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She's the greatest to ever do it
+
+--- Rating #5 ---
+Class: 92531
+Date: 2025-12-10 06:20:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great professor. She's very approachable and knowledgeable about course content. Very good foundation course if you're studying Political Science. Quizzes/exams/assignments are fair, and she posts the slides. Would recommend doing the readings, but you can probably get by without them
+
+--- Rating #6 ---
+Class: 92531
+Date: 2025-12-07 03:13:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+lebron james of sfu
+
+--- Rating #7 ---
+Class: 92531
+Date: 2025-12-06 08:14:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Literally such a chill teacher but also actually seems to be interested in what she's talking about at the same time. Easy to listen to in lecture and answers questions in lecture if needed. For POL100 there are in class discussion questions to answer but she doesn't take attendance in lecture. She is my queen

@@ -1,0 +1,271 @@
+Professor: Pierre Mouganie
+Professor Legacy ID: 2944227
+Professor ID: VGVhY2hlci0yOTQ0MjI3
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 4.2
+Avg Difficulty: 2.6
+Num Ratings: 28
+Would Take Again Percent: 85.7143
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: econ113
+Date: 2025-12-14 02:26:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Pierre was a great prof! His lectures were super informative and interesting, and I felt like I learned a lot. The course is pretty test heavy, but the tests are extremely fair, and as long as you show up to lectures and go to tutorials every week, you'll do fine.
+
+--- Rating #2 ---
+Class: econ113
+Date: 2025-12-12 18:23:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Pierre is a good prof. He teaches well, and gives lots of questions. Just beware, 90% of your grade is exams (40%MT 50%Final). The exams are fair and like the assigned questions, but I got shafted, because the one concept i didnt want to see appeared on the final, and there was only two 25 mark Long answer. So i ended up dropping 3 letter grades.
+
+--- Rating #3 ---
+Class: econ113
+Date: 2025-06-28 05:39:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Definitely recommend his class. I barely had to study and did extremely well. His explanations are excellent, so just listen in lectures and you will do well. He seems very passionate about what he is talking about.
+
+--- Rating #4 ---
+Class: econ113
+Date: 2025-04-30 17:03:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Pierre is an awesome prof to take 113 with. He genuinely cares about his students' learning, and provides more than enough resources for us to do well, including practice exams, tutorial q's, guides, hints, and tips. Lectures are good, he's overall a great guy. Exams were straightforward and directly reflected material from the FREE textbook/slides
+
+--- Rating #5 ---
+Class: econ113
+Date: 2025-04-30 05:12:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Pierre was a very chill prof. I appreciated that the course material wasn't too heavy in content, and all his lectures really made sense to me. At times I got confused but if you pay attention, you should be good. He uses things like visuals and gives breaks throughout class. He really tries to make sure you're understanding the concepts too.
+
+--- Rating #6 ---
+Class: econ113
+Date: 2025-04-22 01:07:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Easy course but a horribly rude and dismissive professor that does not wish for the best for students. TA's provide unclear and useless tutorials that are mandatory
+
+--- Rating #7 ---
+Class: econ113
+Date: 2025-04-22 00:46:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Extremely rude professor not professional at all
+
+--- Rating #8 ---
+Class: econ113
+Date: 2025-04-14 23:13:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+The class was well structured and not confusing, and how Pierre explained the concepts helped me understand everything well. The midterm and final were very manageable and were based exactly on things from the lectures so they were not difficult to study for. He gave out a mock midterm and final which helped so much to study, I recommend this class
+
+--- Rating #9 ---
+Class: econ113
+Date: 2025-04-14 04:02:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Pierre is a great professor who really cared about the students success. His lectures were done well, he's approachable and the textbook used was easy to read. The slides covered everything you need to know so the textbook was more supplemental. The tutorials and practice exams reflected the tests well.
+
+--- Rating #10 ---
+Class: econ113
+Date: 2025-04-06 00:09:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Pierre is a decent prof. Overall, the class was easy for the most part. I didn't much read the textbook, I just studied the lecture slides and did the practice questions over and over again. Pierre was also very accessible around exam times. As long as you study, you will get a good grade.
+
+--- Rating #11 ---
+Class: econ113
+Date: 2025-04-04 00:11:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Explains concepts very well! Pierre clearly cares about his students performing good.
+
+--- Rating #12 ---
+Class: econ113
+Date: 2025-03-13 03:58:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+BEST PROF AT SFU! If you're planning on taking 113 you should 100% take it with Mouganie, he's very good at explaining topics and provides good examples in class to help prepare for the exams. The textbook and practise exams were very helpful for the mid term and final! Overall, the course was really easy with Mouganie I wish he taught more classes
+
+--- Rating #13 ---
+Class: econ113
+Date: 2025-02-21 19:15:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He was a great prof, I didn't attend the lectures very often and left half way when I did. Lectures are great, but the slides are enough. Textbook is free and provided online by prof and optional, never read it once. Slides, tutorial questions, and the mock exams are way more than enough to pass the class. Focus on practical, theory is not tested.
+
+--- Rating #14 ---
+Class: econ113
+Date: 2025-01-06 22:59:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He makes a lot of extra effort to help you comprehend everything. His lectures are very organised and he teaches in a very clear way. During and before exams, he makes his expectations incredibly clear and tells you what exactly to study for. Overall he's a very nice guy, while his exams are hard, they're designed to apply knowledge not repeating.
+
+--- Rating #15 ---
+Class: econ113
+Date: 2025-01-02 07:57:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Course was generally easy but the final exam was difficult for everyone. The questions were vague and worth a lot. Apart from that, his lectures were well-delivered and there were classes set aside for review.
+
+--- Rating #16 ---
+Class: econ113
+Date: 2024-12-18 23:43:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I loved his lectures and found him really helpful during office hours, however the grade distribution and the way exams are formatted is what brought me down. The course content is super easy but it seems like the questions on exams were made through chat gpt. Really unclear and confusing. Read textbook, attend lectures, ask questions!!
+
+--- Rating #17 ---
+Class: econ113
+Date: 2024-12-09 00:23:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His lectures were fine, but that final was so poorly made. It was worth 50% of our grade and he made it 100 minutes long. Each mcq question was worth 1.75% of our final grade which is ridiculous. His questions and answers were so vague. He just sucks at making tests
+
+--- Rating #18 ---
+Class: econ113
+Date: 2024-05-02 03:52:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Pierre is a really great guy. Great lectures.He does a great job explaining the concepts and is willing to answer your questions. Take this class if you can. You will learn a lot!
+
+--- Rating #19 ---
+Class: econ113
+Date: 2024-04-26 22:41:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+prof is nice and you can ask him questions as many times as you want. make sure to go before midterm and final for review and make sure you understand the concept well or know why this is the right answer. Midterm and final was not that hard. But the average is really high and this class is curved.
+
+--- Rating #20 ---
+Class: econ113
+Date: 2024-04-24 23:28:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+As long as you attend tutorials, understand all the concepts and do all the tutorial questions you should do well in this class. The averages for the midterm and final were quite high as the tests are a good reflection of what we learn in this class.

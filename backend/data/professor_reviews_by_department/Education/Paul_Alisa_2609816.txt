@@ -1,0 +1,24 @@
+Professor: Alisa Paul
+Professor Legacy ID: 2609816
+Professor ID: VGVhY2hlci0yNjA5ODE2
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: EDUC454
+Date: 2020-07-14 20:55:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Online learning can be a bit difficult for me because I thrive on human interaction. Even though Alisa taught online, she still strived to make a community by incorporating a lot of discussions and showed that she cared in every way she could. It's hard to create connections over a screen, but Alisa made me feel the most cared for! Very informed!

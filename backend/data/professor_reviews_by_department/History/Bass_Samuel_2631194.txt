@@ -1,0 +1,24 @@
+Professor: Samuel Bass
+Professor Legacy ID: 2631194
+Professor ID: VGVhY2hlci0yNjMxMTk0
+Department (CSV): History
+Department (Fetched): History
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: GA101
+Date: 2020-12-10 20:47:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+An all-around amazing and caring prof. Super supportive of his students as he holds office hours and gives SUPER detailed feedback that will help you do well in his course. Weekly annotations and some group work, but he finds a way to make it very fun and interactive. Highly recommend this course if you're looking to learn a lot and have fun!

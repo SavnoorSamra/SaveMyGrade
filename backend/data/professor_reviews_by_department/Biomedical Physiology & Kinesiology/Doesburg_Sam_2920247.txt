@@ -1,0 +1,76 @@
+Professor: Sam Doesburg
+Professor Legacy ID: 2920247
+Professor ID: VGVhY2hlci0yOTIwMjQ3
+Department (CSV): Biomedical Physiology & Kinesiology
+Department (Fetched): Biomedical Physiology & Kinesiology
+Avg Rating: 2.4
+Avg Difficulty: 3.8
+Num Ratings: 5
+Would Take Again Percent: 40
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: BPK426
+Date: 2025-11-26 19:42:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+The worst prof for this class. He just reads off his slides and can't answer any basic questions about diagrams or words that are straight from his slides. It's like he didn't make them or even read them before class. Class usually ends early with him but its because he doesn't go into any detail that you need for exams and skims everything.
+
+--- Rating #2 ---
+Class: BPK306
+Date: 2025-11-19 03:32:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His lectures are ok. The problem was the questions on the exam. It felt very lackluster and felt that very little effort was put in for the exam. The difference in quality between Nadine's exam questions and Sam's is very clear. If he is teaching for the semester, it would be a good idea to skipped that term.
+
+--- Rating #3 ---
+Class: BPK306
+Date: 2025-04-24 21:53:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Good prof. Exams questions match the lectures but are more like 305 than 306. Go to lectures and to office hours.
+
+--- Rating #4 ---
+Class: BPK306
+Date: 2025-03-10 11:56:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Doesburg is very informative and I enjoyed his lectures. The second half of this course is very complicated so I don't think that's his fault. His pacing is good, it leaves me enough time to jot down important notes. Whenever I ask him a question, he answers directly and clearly which I appreciate!
+
+--- Rating #5 ---
+Class: BPK306
+Date: 2025-03-03 05:21:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Reads off the slides. Im basically falling asleep in class. He doesnt really explain topics that well. He goes off topic quite often. Also talks very quick which makes it hard to get notes down and we get off class 8-10 mins earlier than normal. Wished he would use that time to break down more complex topics.

@@ -1,0 +1,11 @@
+Professor: Nadine Flagel
+Professor Legacy ID: 1944159
+Professor ID: VGVhY2hlci0xOTQ0MTU5
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

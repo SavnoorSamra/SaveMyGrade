@@ -1,0 +1,80 @@
+Professor: Carolyn Roberts
+Professor Legacy ID: 2639282
+Professor ID: VGVhY2hlci0yNjM5Mjgy
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 2.4
+Avg Difficulty: 3
+Num Ratings: 5
+Would Take Again Percent: 40
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: EDUC400
+Date: 2024-05-03 15:42:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Unfair marking when comparison to peers. Picked on certain students and favoured others. 
+
+In an Indigenous cohort she disregarded local information offered by students. 
+
+She left the university giving students two weeks notice without explanation that she would not be continuing with our cohort.
+
+--- Rating #2 ---
+Class: EDUC400
+Date: 2023-04-05 04:32:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very tough and not in ways that breed excellence - but in ways that discourage and intimidate students. Unfair marking, inflexible grading (even when the course is supposed to be pass/fail) and denied extensions (with valid documented reasons). Did pass, but was simultaneously under stimulated and felt as if I was failing the entire semester.
+
+--- Rating #3 ---
+Class: EDUC100
+Date: 2021-07-07 23:55:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Extremely tough on her students. Not lenient about things even during covid where we are all stressed about remote learning. Tough marking and won't give students deadline extensions or exceptions even if they had a valid reason. This is supposed to be an easy entry-level education course and she made it extremely hard. Would not recommend it.
+
+--- Rating #4 ---
+Class: EDUC400
+Date: 2020-12-16 07:26:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Carolyn is truly the best teacher I've ever had. I took her class during PDP and I hope whoever is reading this has the privilege to be in her class. She is so inspirational and truly cares about her students. I'd take every class with her if I could!
+
+--- Rating #5 ---
+Class: EDUC400
+Date: 2020-11-17 19:20:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Carolyn can be tough, and sometimes a little confusing, but she's a solid prof. She can be very entertaining and helpful, and you'll likely to get along with her. Just be ready to work hard on your assignments and be ready to impress.

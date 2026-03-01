@@ -1,0 +1,11 @@
+Professor: Sushmita Saha
+Professor Legacy ID: 2156975
+Professor ID: VGVhY2hlci0yMTU2OTc1
+Department (CSV): Accounting
+Department (Fetched): Accounting
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

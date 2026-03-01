@@ -1,0 +1,37 @@
+Professor: Monica Semeniuk
+Professor Legacy ID: 2114771
+Professor ID: VGVhY2hlci0yMTE0Nzcx
+Department (CSV): International Business
+Department (Fetched): International Business
+Avg Rating: 1.5
+Avg Difficulty: 3.5
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUSN1210
+Date: 2018-12-09 15:30:45 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The main thing that made me to dislike her is the emphasize on book definition. She loves to get answers in exams that are exactly word to word matches in book or slides provided by her. Thus there is no scope to prove that you understood this or that topic. She just want everything according to the book.
+
+--- Rating #2 ---
+Class: BUSN1210
+Date: 2018-11-28 20:03:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very dry long lectures and very hard to pay attention. Lots of chapters covered so the midterm and final has a ton of material you have to know. Not my cup of tea.

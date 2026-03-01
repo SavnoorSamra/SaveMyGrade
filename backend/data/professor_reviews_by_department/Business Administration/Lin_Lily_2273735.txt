@@ -1,0 +1,272 @@
+Professor: Lily Lin
+Professor Legacy ID: 2273735
+Professor ID: VGVhY2hlci0yMjczNzM1
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 2.8
+Avg Difficulty: 3.2
+Num Ratings: 31
+Would Take Again Percent: 45.1613
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS343
+Date: 2025-12-15 05:13:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+recom. to show up to lecture, as slides are mainly pictures & examples and no recordings. some short inclass written discussions. tuts were based on participation. textbook = $90. 2 group pres& paper.1 recorded pres. exams are all mcq. tested on application of definitions and inclass discussions & references. generally was an easy course with lily.
+
+--- Rating #2 ---
+Class: BUS343
+Date: 2025-12-12 19:31:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Need to show up to class and take notes as the lecture slides are mostly pictures. There is also in-class participation. The midterm and final are fully multiple choice and based off things she talks about during lecture as well as the slides and textbook chapters. Tutorials are mandatory and have group work as well as weekly homework/readings.
+
+--- Rating #3 ---
+Class: BUS343
+Date: 2025-12-05 05:00:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Never had so much homework in my life 3 presentations, 2 exams (on top of readings, on top of videos, on top of lecture slides), 1 report, with the addition of homework before every tutorial. Presentations are worth nothing for some reason while also taking forever to create? must be why you dont see many students taking market?
+
+--- Rating #4 ---
+Class: BUS343
+Date: 2025-11-21 19:30:03 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Her lectures are extremely boring and very disengaging. A lot of your mark depends on your group so if you have a bad group its tough to do well. MCQ's are somewhat tough as you don't get any practice questions.
+
+--- Rating #5 ---
+Class: BUS343
+Date: 2024-05-05 20:37:51 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lily is a very mediocre professor. She is not very engaging, makes an unclear rubric for grading, writes confusing tests, and allows your mark to be dependent on the quality of your group, rather than individual work. Also, she's not great at using Canvas, and seems to be fairly unwilling to keep her course current
+
+--- Rating #6 ---
+Class: BUS343
+Date: 2024-04-25 04:10:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+You have to attend lectures. Exam is MCQ only but really tough MCQ's. TA's are no help, and feedback/grading rubric is not clear.
+
+--- Rating #7 ---
+Class: BUS343
+Date: 2024-01-18 02:38:04 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+terrible marking system. One of the most boring classes in beedie. you would thing that marketing is interesting, well not with this class. TA's do not know how to mark and I believe are biased. Lily shows no emotions, so easy to fall asleep. Would recommend someone else if you are thinking to concentrate in marketing
+
+--- Rating #8 ---
+Class: BUS343
+Date: 2024-01-07 03:27:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I thought Lily had interesting lectures and kept concepts up to date. She uses a lot of real world examples and pop culture as a way to explain concepts. She also gave opportunities for extra credit which was helpful.
+
+--- Rating #9 ---
+Class: BUS343
+Date: 2023-12-13 20:57:52 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Her lectures were okay but the posted slides had missing material from the lectures. Exam questions had multiple answers that were correct but she was only looking for a specific answer. Pray your TA and project team are good.
+
+--- Rating #10 ---
+Class: BUS343
+Date: 2023-11-28 19:04:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+This class is relatively hard but it's fair. The exam questions are multiple choice and come from the textbook and Lily's lecture slides. I found the projects more time consuming and harder than the exams. Lily is a super organized teacher and very quick to answer questions and communicate, so that's a plus! You'll do good if you put in the time.
+
+--- Rating #11 ---
+Class: BUS343
+Date: 2023-11-09 20:26:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+not approachable and outdated content with messy slides
+
+--- Rating #12 ---
+Class: BUS343
+Date: 2023-11-09 00:25:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lily is a good lecturer. Her slides aren't littered with text, they have few words with pictures that she speaks to. It's about time a prof has slides that aren't filled with text. Her Exams were fair and based off of lectures and textbook material and are all multiple choice. Overall not a difficult course, just pay attention and read the book.
+
+--- Rating #13 ---
+Class: BUS343
+Date: 2023-10-25 22:19:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+tough
+all mcq midterms worth 50% of course
+
+--- Rating #14 ---
+Class: BUS343
+Date: 2023-01-09 19:58:05 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lily is a decent professor. She tries her best to make lectures engaging but it is content and memorization-heavy. The exams are a bit tricky as there are many application problems and can sometimes have really specific questions. There is an individual and a group assignment, but they do not have much clear structure and expectations are obscure.
+
+--- Rating #15 ---
+Class: BUS343
+Date: 2022-12-22 23:54:48 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lily was very average. She teaches what she has from her slides and nothing more. One individual project and one big group project that is straightforward if you get lucky with a good group. As long as you read the textbook and go to lecture it's an easy class that requires mainly memorization. Lots of exam questions come from her lectures.
+
+--- Rating #16 ---
+Class: BUS343
+Date: 2022-12-05 03:08:29 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She uses way to many examples in her video, and its all about memorization and cramming which doesn't really teach students anything. Content is quite outdated to and she speaks so slow!! Lily uses the word to describe the word. Learned not to do this in grade 5... Nothing more to say here.
+
+--- Rating #17 ---
+Class: BUS343
+Date: 2022-09-04 01:15:06 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lily is not approachable at all! She doesn't care about her students and only listens to her TAs' side of the story. To be honest she does a good job in teaching and the exams are easy, but she never pays enough attention to the tutorials nor the students' complaints. The grading criteria are unclear, and she never provides feedback or comments
+
+--- Rating #18 ---
+Class: BUS343
+Date: 2022-09-01 22:55:46 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lily is a pretty good prof overall. The class consisted of an individual project plus a recorded presentation, a group project and presentation, a midterm, and a final. This is one of those Beedie classes where you have to memorize material. Lily posts the lectures online, which is great, although I just stuck to reading the textbook and did fine.
+
+--- Rating #19 ---
+Class: BUS443
+Date: 2022-05-13 17:51:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+2 group projects and 1 midterm worth 30% of your grade. The midterm was based on a HBR article and you had a week to complete it. She was pretty helpful with questions from students and her class was 100% online!!
+
+--- Rating #20 ---
+Class: BUS343
+Date: 2021-08-23 00:47:40 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I assume she is better in person because she is nice and her assignments were relatively enjoyable. However, her lecture recordings were quite dry, and half of the questions on her exams weren't even related to the textbook, which made the exam result a crap shoot.

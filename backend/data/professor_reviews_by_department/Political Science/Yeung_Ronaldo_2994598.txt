@@ -1,0 +1,11 @@
+Professor: Ronaldo Yeung
+Professor Legacy ID: 2994598
+Professor ID: VGVhY2hlci0yOTk0NTk4
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

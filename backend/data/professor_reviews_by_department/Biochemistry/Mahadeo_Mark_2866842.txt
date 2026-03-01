@@ -1,0 +1,50 @@
+Professor: Mark Mahadeo
+Professor Legacy ID: 2866842
+Professor ID: VGVhY2hlci0yODY2ODQy
+Department (CSV): Biochemistry
+Department (Fetched): Biochemistry
+Avg Rating: 2.3
+Avg Difficulty: 3
+Num Ratings: 3
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: mbb231
+Date: 2025-08-13 02:44:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The number of "uhh" and "umms" made going to lecture borderline impossible. I ended up counting the number of umms in a 50 minute class and he averaged one every 5-6 seconds. Exams started easy but got progressively more impossible as students told him they were too easy.
+
+--- Rating #2 ---
+Class: mbb231
+Date: 2024-04-13 21:36:13 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I think that Mark cared about the students and he genuinely wanted us to succeed. But, he says the word "uhhh" or "umm" every 6-7 seconds on average (I spent a whole class distracted and ended up counting over 300 ums for 50 min class). Further, is he progressively made the tests harder because some students complained they were too easy.
+
+--- Rating #3 ---
+Class: MBB201
+Date: 2022-12-17 23:46:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Tests were fair and expectation was clearly communicated. Lecture slides are good, contain enough info, you don't need to furiously take notes during lectures. Speaks slowly, so I watched the recording at 1.4x speed. Really advocated for us to the IT dept. to have the lecture recordings available. Good at explaining things esp. during office hours.

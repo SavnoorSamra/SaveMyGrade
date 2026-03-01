@@ -1,0 +1,277 @@
+Professor: Parsa Rajabi
+Professor Legacy ID: 2970008
+Professor ID: VGVhY2hlci0yOTcwMDA4
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.2
+Avg Difficulty: 3.5
+Num Ratings: 89
+Would Take Again Percent: 55.0562
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT276
+Date: 2025-08-29 04:33:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Parsa is the best cmpt prof I've had at SFU, he focused on teaching actual practical tools and concepts, on top of giving us actual projects that are designed to be added to your profile, he genuinely cares about his students and wants the best for them, I seriously recommend him, his exams are very fair for the topics taught as well.
+
+--- Rating #2 ---
+Class: CMPT276
+Date: 2025-08-26 21:40:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+By far one of the most organized, inspiring and positive profs I've ever had. Using AI is allowed (although you need to disclosure it) and he even taught us about prompt engineering. Picking groupmates that you like and get along with will be important. Start hte project early. Trust meee
+
+--- Rating #3 ---
+Class: CMPT276
+Date: 2025-08-25 19:05:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Parsa is realistic and advocates to the use of AI as long as it benefits your learning. He very caring and truly wants all students to succeed, beyond the scope of the course itself. Lectures are consistently positive and engaging, but doesn't help much with exams. Pray for good group members as you will be working with them from the beginning.
+
+--- Rating #4 ---
+Class: CMPT276
+Date: 2025-08-23 20:37:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Simply the GOATed prof. Lays everything out and describes everything that will be on tests (we also had access to a cheatsheet). Responds to slack messages immediately, and genuinely wants to help you. Provides a variety of resources and tools to help aid your learning, including custom NotebookLMs. I can't wait to take another course with him &#129401;
+
+--- Rating #5 ---
+Class: CMPT276
+Date: 2025-08-22 22:16:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I had heard a lot about 276 before, and after taking it, I can now say that as long as you put in the work, you will not be disappointed. I don't go to all lectures but w/ parsa's teaching style, class activities were a big motivator for me to go. I loved the project and peer testing. It was clear that he really cares for us, which is rare @ sfu
+
+--- Rating #6 ---
+Class: CMPT276
+Date: 2025-08-21 16:59:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I've never written a review but this course/Parsa deserve it: 
+1. Take the course w/ your friends or make new friends in the semester (for project)
+2. There are a lot of in-class activities that might not make sense in the moment but they all came in handy for the project
+3. Start the project ASAP 
+4. Office hours are super helpful 
+5. Stay ahead
+
+--- Rating #7 ---
+Class: CMPT376
+Date: 2025-08-20 02:09:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Really interesting lectures that involved a lot of activities and interaction with fellow students which I enjoyed. This course was completely different from what the older reviews have said so it seems he has made the workload lower based on student feedback.
+
+--- Rating #8 ---
+Class: CMPT276
+Date: 2025-08-18 06:19:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Parsa was great and the types of assignments and projects you do in this class were really engaging and fun. Make sure you pick a good group for the main project though. One thing is that the midterm was quite tough and I didn't like how peer evaluations affected the final project mark (it will deduct marks UNLESS you get a perfect score of 100).
+
+--- Rating #9 ---
+Class: CMPT276
+Date: 2025-08-14 14:02:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+GOAT! I took 276 as my first course @ sfu (transfer student) and hands down, it was one of the best classes i've ever taken!! I loved how interactive the classes were and how fast parsa replied to  messages. Topics were also helpful with one being prompt engineering (ai was allowed in the course). Do yourself a favour & take a course with parsa
+
+--- Rating #10 ---
+Class: CMPT276
+Date: 2025-08-11 21:57:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+GREAT PROF. I would take any class as long as he is teaching. He teaches life skills, rather than just classroom stuff. I feel like, if you learn from him, it will help so much in life. 
+I know why some people have rated him bad, the course in previous semesters were harder, but he has taken the feedback and improved. Love parsa.
+
+--- Rating #11 ---
+Class: CMPT276
+Date: 2025-08-11 18:11:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the most caring profs I've had at SFU. I rarely attend lectures for my classes but Parsa's lecture activities were helpful and inspiring that made my 1.5hr commute worth it. I also found Parsa's office hours to be nice, esp wih career advice. The project was the highlight of the course for me
+
+--- Rating #12 ---
+Class: CMPT276
+Date: 2025-08-11 01:07:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+What can I even say? Parsa was by far the best professor I've ever had.
+
+--- Rating #13 ---
+Class: CMPT376
+Date: 2025-07-01 03:23:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great prof. Would recommend!!
+
+--- Rating #14 ---
+Class: CMPT276
+Date: 2025-05-07 03:25:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+find a good group and you'll be set (or else, gg). i really enjoyed the in-class activities, but don't take it with a heavy course load (my group mate did and he struggled)
+
+--- Rating #15 ---
+Class: CMPT276
+Date: 2025-05-01 08:21:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Taking 276 with Parsa was the reason I landed a co-op this summer. I got lucky with a pretty good group for the project and we had fun along the way. The labs and lectures really helped with the project.
+
+--- Rating #16 ---
+Class: CMPT376
+Date: 2025-04-28 03:16:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+A pretty straightforward ethics and writing course. Parsa made a lot of effort to make the class engaging (in class discussions on latest AI ethics news) but 8:30am class in surrey is just not fun. i wish the class was later in the day and offered in burnaby. The group project is fun as long as you get a good group. Take it with a friend.
+
+--- Rating #17 ---
+Class: CMPT276
+Date: 2025-04-27 08:51:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The course is super structured and organized (we had all assignments & project deadlines on the first day of class). I found this very helpful as I planned my time around it & was able to avoid cramming. Parsa is super accessible on Slack (almost all my questions were replied to within less than 1 hour, even on weekends). Absolute GOAT!!!!
+
+--- Rating #18 ---
+Class: CMPT276
+Date: 2025-04-27 08:45:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the most caring and inspiring profs I've ever had. Put in the effort and you will not be disappointed.
+
+--- Rating #19 ---
+Class: CMPT276
+Date: 2025-04-27 02:11:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+There's gonna be a lot of workload but Parsa and the teaching team help out in any way they can. Exams were easy enough, projects were fun to work on. Overall, this was a great course and learning with Parsa made it even more enjoyable
+
+--- Rating #20 ---
+Class: CMPT276
+Date: 2025-04-27 01:50:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the best profs at sfu. Genuinely one of the best classes I've ever had. Assignments are good for learning, decent lectures and fair tests. He is also always looking on how to improve and make his course better(ex allowing ai for certain stuff, replacing midterm with final, bonus marks) all these were decisions made from student feedback.

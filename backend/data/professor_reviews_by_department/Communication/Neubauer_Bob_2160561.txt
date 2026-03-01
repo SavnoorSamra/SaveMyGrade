@@ -1,0 +1,37 @@
+Professor: Bob Neubauer
+Professor Legacy ID: 2160561
+Professor ID: VGVhY2hlci0yMTYwNTYx
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 3.5
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: CMNS349
+Date: 2017-08-26 14:08:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Bob is a cool professor with tons of knowledge - my only thing is he tends to go off topic and lectures feel really really long sometimes. Lots of papers to write and reading responses but those aren't that hard.
+
+--- Rating #2 ---
+Class: CMNS349
+Date: 2017-07-10 23:28:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Bob is enthusiastic and extremely passionate about the environment and communication. However, lectures are quite heavy with many topics and it's a little overwhelming as there's a lot of course concepts - some are hard to grasp.  This is the only class I ever had to see my TA for extra help. Workload is normal though.

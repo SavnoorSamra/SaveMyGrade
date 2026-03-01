@@ -1,0 +1,89 @@
+Professor: Oksana Chkrebtii
+Professor Legacy ID: 1841037
+Professor ID: VGVhY2hlci0xODQxMDM3
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 2.7
+Avg Difficulty: 2.8
+Num Ratings: 6
+Would Take Again Percent: -1
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: STAT203
+Date: 2014-12-20 05:09:26 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+During her class, you will certainly feel that she is inexperienced and her lecture notes are not clear and she has no confidence.
+
+--- Rating #2 ---
+Class: STAT203
+Date: 2014-06-29 14:47:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I did really well in her class. I am so glad I got her as my prof. She is new at teaching but I see that as an advantage because she made things pretty simple and easy. The concepts are challenging but I found her notes to be helpful. We did lots of practice and the assignments were marked very fairly. Visit her office hours, super helpful!
+
+--- Rating #3 ---
+Class: STAT203
+Date: 2013-12-11 16:57:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Oksana is a new professor, & this was made very obvious from the beginning. She is very sweet and wants her students to do well. I think her teaching will improve over time as she gains more experience. I often got confused in lecture, but textbook was VERY helpful & clear. She does tend to make a lot of typos-even on review questions for final :(
+
+--- Rating #4 ---
+Class: STAT203
+Date: 2013-12-07 02:22:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: N
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Inexperienced prof who knows the concepts but doesn't know how to teach them. Her notes were quite confusing and she makes the concepts quite confusing when they aren't.
+
+--- Rating #5 ---
+Class: STATS203
+Date: 2013-11-06 19:54:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+She is a new teacher and a PhD student so she is relatively new and inexperienced. Easily confused in class but very friendly and helpful in office hours. Easy prof and tries her best to make sure you know your stuff. You get a cheatsheet for the midterm.
+
+--- Rating #6 ---
+Class: STAT203
+Date: 2013-10-09 22:29:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Prof is new at teaching and it's obvious: little class presence or control, lacks confidence and clarity. Very nice and wants us to excel but spends too long on concepts yet doesn't explain them clearly. 2 students in class keep asking irrelevant questions and nitpicking at everything she does - it makes her more nervous and class more confusing.

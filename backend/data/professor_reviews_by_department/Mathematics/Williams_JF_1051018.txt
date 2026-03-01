@@ -1,0 +1,272 @@
+Professor: JF Williams
+Professor Legacy ID: 1051018
+Professor ID: VGVhY2hlci0xMDUxMDE4
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2.8
+Avg Difficulty: 4
+Num Ratings: 81
+Would Take Again Percent: 54
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH251
+Date: 2025-12-13 06:00:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures are generally pretty good, he tends to focus more on the conceptual parts of a topic in lecture as compared to the notes which I found very helpful. Grades very fairly and acknowledges when an exam may have been too difficult or unfair which is nice since most profs don't care. Overall really nice and one of the more helpful math profs
+
+--- Rating #2 ---
+Class: MATH251
+Date: 2025-12-12 09:39:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He likes to make jokes in lectures, making such a subject less boring, especially at every 8:30 Monday lecture. Quizzes are easy to go by and are easy marks! His midterms can be said otherwise, challenging, but he's very lenient in bumping up the marks and curving them. Overall, a well-rounded professor for Calculus 3.
+
+--- Rating #3 ---
+Class: MATH251
+Date: 2025-12-12 04:24:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He made me gain more interest in calculus, just because he likes to make jokes and calculus can be kinda funny. He really encourages on going to office hours if you need help (personally I haven't went but he seems helpful from my experience during lectures). Exams aren't that bad (except for the 2nd mt but he curved).
+
+--- Rating #4 ---
+Class: MATH251
+Date: 2025-12-08 20:42:56 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor JF was a good teacher he taught well and his lectures were informative. The midterm and final I noticed were different from calc 2 a lot more conceptual for the final you had to prove 2 proofs and the bonus question on the final was really difficult as expected for a bonus. However overall he was fair
+
+--- Rating #5 ---
+Class: MATH251
+Date: 2025-11-09 08:34:01 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Midterms are not like the sample midterms he provides, Professor William isn't that bad but he isn't an amazing prof either.
+
+--- Rating #6 ---
+Class: MATH155
+Date: 2025-10-25 05:35:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Tests were very similar to practice questions. Lectures are helpful and he is caring about students.
+
+--- Rating #7 ---
+Class: MATH251
+Date: 2025-10-03 01:45:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+jf williams writes his own reviews.
+
+--- Rating #8 ---
+Class: MATH155
+Date: 2025-09-04 22:26:58 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The course and content is honestly pretty hard, so I think its easy to blame him for getting a bad grade. But he does go over everything thoroughly in class, and answers your questions well. He's a good prof, just not the best curriculum, and tests are very difficult.
+
+--- Rating #9 ---
+Class: MATH155
+Date: 2025-04-30 00:48:42 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+JF was very understanding that this course had life sciences students. Concepts were easy to understand and exams were fair. Do the practice exams, as the questions will be very similar. Overall a nice prof and very approachable!
+
+--- Rating #10 ---
+Class: MATH155
+Date: 2025-04-29 04:09:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Exams were fair and assignments weren't too difficult.  He cares about his students and wants them to succeed.
+
+--- Rating #11 ---
+Class: MATH155
+Date: 2025-04-28 20:55:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Was really behind because I had to miss about a month of school + Midterm 2 due to a car accident, but JF was very patient and understanding. I had only about ~1.5week to prep for the final, but he encouraged me to try my best. inspired me to study very hard. He graded very fairly at the end, given my context. Very happy with my final grade!
+
+--- Rating #12 ---
+Class: MATH155
+Date: 2025-04-28 19:28:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His exams are fair and he is willing to help students, do the practice problems he gives before exams .
+
+--- Rating #13 ---
+Class: MATH155
+Date: 2025-04-17 08:21:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He nailed Math 155 perfectly. Exams are pretty fair
+
+--- Rating #14 ---
+Class: MATH155
+Date: 2025-04-17 00:14:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+JF is one awesome dude and a pretty good prof too
+
+--- Rating #15 ---
+Class: MATH155
+Date: 2025-04-16 20:18:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+JF is very aware of the fact this course is for life science majors and teaches its accordingly. Exams were all reasonable, just practice the problem sets from class and the practice exams. He's a very caring professor whos looking out for the class.
+
+--- Rating #16 ---
+Class: MATH155
+Date: 2025-02-25 00:19:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He understands that anyone in Math155 (life science math) isn't a math major, and treats the course accordingly. You only really learn what matters, which I appreciate. The content focuses on relevant techniques, as opposed to abstract and purely mathematical concepts that you would find in a regular calculus class. Exams are easy enough.
+
+--- Rating #17 ---
+Class: Macm316
+Date: 2022-08-17 08:28:48 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If you're not a math major, and it's been awhile since you've seen math maybe cuz of coop or something, lectures become really hard to understand, like very difficult. Sat there scratching my head. But if you go to OH, get help, he'll explain things to you well and you'll get a good understanding for exams, the computing reports and whatnot.
+
+--- Rating #18 ---
+Class: Macm316
+Date: 2022-08-14 23:00:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+It was a difficult course and you need to put in a fair amount of effort, but he tried his best to make it related to real-life/practical problems and the purpose of the course clear. The computing reports were like puzzles but interesting, you can get help during OH and tutorials. He needs to be aware of cheating during quizzes/exams though.
+
+--- Rating #19 ---
+Class: Macm316
+Date: 2022-08-04 19:59:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I think he's a good prof and try to make the class interesting by relating the concepts to real life use cases. His notes have mistakes sometimes but it's math so I think it's normal.
+MACM 316 is hard to understand, if you're not into math like me. I'm on the edge of failing this course if not curved, but tbh I still think JF is good lmao
+
+--- Rating #20 ---
+Class: Macm316
+Date: 2022-07-14 03:28:27 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Don't go to the lectures without doing the textbook readings first, because he goes through the material really fast. His class has a heavy focus on MATLAB assignments. Weekly MATLAB assignments and weekly quizzes make the course way heavier than I expected. I wish I had more time to understand math instead of looking up MATLAB commands.

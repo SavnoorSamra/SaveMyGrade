@@ -1,0 +1,193 @@
+Professor: Samuel Black
+Professor Legacy ID: 2026487
+Professor ID: VGVhY2hlci0yMDI2NDg3
+Department (CSV): Philosophy
+Department (Fetched): Philosophy
+Avg Rating: 4.3
+Avg Difficulty: 2.3
+Num Ratings: 14
+Would Take Again Percent: 85.7143
+
+Ratings Count Returned: 14
+
+--- Rating #1 ---
+Class: PHIL120
+Date: 2025-01-02 11:50:04 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The TAs are super stingy with marking. The course itself is very subjective, so the TAs assign grades subjectively based on their personal beliefs.
+
+--- Rating #2 ---
+Class: PHIL120
+Date: 2024-12-21 01:10:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sam is a very good prof. The weekly readings can be a long and confusing sometimes, but the lectures are very good at summing it up. For the papers GO TO OFFICE HOURS they help a lot and will get you to know your TA better. Also, let the TA know what you're writing about because you don't want to write a paper have have the TA say it sucks after.
+
+--- Rating #3 ---
+Class: PHIL120
+Date: 2024-12-18 20:31:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sam is an excellent professor. Very accommodating and easily approachable, and he's always quick to respond to emails in my experience. His slides sum up the readings extremely well, and there are study guides available for each topic/philosopher covered in class. If you enjoy writing and are into philosophy, it's a great course.
+
+--- Rating #4 ---
+Class: PHIL120
+Date: 2024-12-10 02:44:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Hes so funny, even if you dont like philosophy you can sit through these lectures and find them interesting. He's so expressive and effortlessly just a good prof. Genuinely so sweet and makes it easy to do well in his class!!
+
+--- Rating #5 ---
+Class: PHIL120
+Date: 2024-12-10 02:42:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Had every resource available for his students to do well and it was GREAT. Also something i loved: he does NOT give more than 20 pages of reading per week, and often gave less than 10. He really makes an effort to understand his students and will help you do well in his class in literally any way he can. Best prof, 100% recommend.
+
+--- Rating #6 ---
+Class: PHIL120
+Date: 2024-12-10 02:39:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sam is honeslty such a cutie, he cares a lot about his students AND about philosophy. His class turned me onto philosophy and was easy but interesting!! You learnt a lot and did well at the same time. LOVE SAM, take this class
+
+--- Rating #7 ---
+Class: PHIL120
+Date: 2024-12-04 22:18:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good prof and class for Phil. The main components of ur grade come from the 3 essays so if you have a good TA you're blessed. Interesting Lecs that have easy participation quizzes. Overall good experience.
+
+--- Rating #8 ---
+Class: PHIL120
+Date: 2024-12-01 03:10:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Honestly, pretty cool guy, you do have to read since it is Philospohy but he makes it really interesting and the content was pretty intersting as well. would 100% take this class again if there were no tutorials.
+
+--- Rating #9 ---
+Class: PHIL120
+Date: 2024-11-21 22:48:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Overall Sam is a very great prof! he makes lecture fun however, sometimes it could get a bit boring. One thing to be aware he has in class quizzes but they're pass or fail all you need to do is do the quiz! Overall would recommend if you need an easy phil class :)
+
+--- Rating #10 ---
+Class: PHIL120
+Date: 2024-11-21 22:46:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This Proff is very enthusiastic about philosophy and loves to answer questions. The lectures can boring but still gives good information.
+
+--- Rating #11 ---
+Class: PHIL120
+Date: 2024-11-21 22:43:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I like him as a prof, lectures are long but he is very passionate about the topics. There is only one final and I've heard it's on the more difficult side just because it's the only one. Other than that grading on essay's were fair.
+
+--- Rating #12 ---
+Class: PHIL120
+Date: 2024-08-22 13:12:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sam is a very tough grader
+
+--- Rating #13 ---
+Class: PHIL120
+Date: 2024-05-12 20:22:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sam helps translate philosophy to help us understand what is being said from old text. He also likes to use examples where you put yourself in the position to make hypothetical decisions which helped me grasp the concepts better and enhanced my critical thinking. I just wished he used more things to help keep students engaged during lectures.
+
+--- Rating #14 ---
+Class: PHIL120
+Date: 2024-03-14 19:45:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prof Black is such a caring guy really wants to make people feel welcomed. His slides are a handful and the readings are advanced but if you gi ti his office hours and are eager to learn about it youll have no issue. Nicest professor.

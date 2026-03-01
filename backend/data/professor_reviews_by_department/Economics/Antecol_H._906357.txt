@@ -1,0 +1,11 @@
+Professor: H. Antecol
+Professor Legacy ID: 906357
+Professor ID: VGVhY2hlci05MDYzNTc=
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

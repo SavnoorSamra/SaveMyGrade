@@ -1,0 +1,63 @@
+Professor: Yuri Reis Rodrigues
+Professor Legacy ID: 3063691
+Professor ID: VGVhY2hlci0zMDYzNjkx
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 4
+Avg Difficulty: 2.5
+Num Ratings: 4
+Would Take Again Percent: 75
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: ENSC151
+Date: 2025-11-07 20:42:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Had him for ENSC151, he had pretty good lectures and would occasionally do in class activities worth marks but attendance wasn't mandatory. Exams and labs were fair but TA's were completely clueless and often didn't know how to help students.
+
+--- Rating #2 ---
+Class: ENSC151
+Date: 2025-06-26 01:32:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures were generally organized and easy to follow. In class examples and practice were very helpful. Midterm and final exams were fair and pretty straightforward, the labs were much more difficult. Great prof however the TA's for the course were very unorganized and often didn't show up to labs at all.
+
+--- Rating #3 ---
+Class: ENSC151
+Date: 2025-01-16 21:10:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's a good guy, not necessarily the best or the most prepared prof out there but it was clear he was trying his best. The TAs weren't helpful, but the crap ton of homework he assigned us nailed the concepts in my head. For an introductory course in coding (C++), I found him great! You'll get lost and confused, but that's a part of learning!
+
+--- Rating #4 ---
+Class: ENSC151
+Date: 2024-12-18 10:00:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He has good actual programming knowledge and he isn't a bad teacher but he's very unorganized. My biggest gripe however is with the TA's, many of which did not know how to do the assignments and labs we were assigned, and some of which did not even show up to their scheduled office hours. If you want to succeed in this course just self learn C++

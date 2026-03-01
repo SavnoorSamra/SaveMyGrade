@@ -1,0 +1,258 @@
+Professor: Dugan O'Neil
+Professor Legacy ID: 262396
+Professor ID: VGVhY2hlci0yNjIzOTY=
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 4.1
+Avg Difficulty: 2.6
+Num Ratings: 19
+Would Take Again Percent: -1
+
+Ratings Count Returned: 19
+
+--- Rating #1 ---
+Class: PHYS126
+Date: 2013-05-03 17:57:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Dugan is a great prof! Very passionate about physics (particularly particle physics). Very funny and crystal clear lectures. The class was very tough, but he scales accordingly.  Assignments are very difficult. Overall, I'd reccomend this course over PHYS 125 if Dugan is your prof.
+
+--- Rating #2 ---
+Class: PHYS121
+Date: 2009-10-09 00:15:28 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+he went through material too quickly. i did go to class but i couldnt focus..i went to play (sometimes sleep)~ he's a very easy marker..he scaled the class...although i failed both midterms (not badly fail..one of them was above average too~), i practiced hard and i got 80% for final exam~lol
+
+--- Rating #3 ---
+Class: PHYS121
+Date: 2009-08-08 16:55:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Uses the textbook for homework questions. Provides powerpoint slides before class with full lecture notes. As such, he tends to go over them and talk about the key points in the notes instead of teaching you how not to do algebra. Very approachable and helpful if you go to his office hours.
+
+--- Rating #4 ---
+Class: PHYS121
+Date: 2009-07-18 01:18:01 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+too fast..he just skip through his slides and pick something to talk about....maybe he was trying to speedup..idk...i only attended 4 classes,2 of them were for midterms
+
+--- Rating #5 ---
+Class: PHYS121
+Date: 2009-03-06 12:05:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+So bad....dude, he just talks and he goes so fast with the course, going to class is useless, you don't learn anything, the tutorials are helpful, but the lectures are so bad....he's a funny guy but lectures are useless
+
+--- Rating #6 ---
+Class: PHYS125
+Date: 2006-12-16 01:46:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Good prof, although he scales the mark too much (half the class got As). Also, his lectures are actually pretty interesting.
+
+--- Rating #7 ---
+Class: PHYS285
+Date: 2006-11-25 18:19:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Had him in Spring '05. Great course. I learned more about quantum mechanics from this course than I ever did in CHEM 260. Only downside is he just reads the Powerpoints word for word off the projector screen (although they're very nice and organized).
+
+--- Rating #8 ---
+Class: PHYS125
+Date: 2006-11-02 18:49:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+My best professor this semester.  Really approachable and funny.  Tries his best to make you understand the topic.  This is a class that really teaches you how to think.  And we get field trips and wild tangents about particle physics.  I would definitely take a class with him again.
+
+--- Rating #9 ---
+Class: PHYS125
+Date: 2006-10-13 01:43:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+great proff. great office hours. good sense of humor. really in to particle physics!
+
+--- Rating #10 ---
+Class: PHYS346
+Date: 2006-04-06 13:36:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Good prof and funny too. Good notes always posted online. Grading is fair, very acessible for extra help.
+
+--- Rating #11 ---
+Class: PHYS125
+Date: 2006-01-12 00:27:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Excellent prof, makes the class interesting.  Of course everyone who attends this class is fixated about physics anyway so we're already biased :D Very helpful, his midterms and final are reasonable if you do the homework.  Keep in mind that this will probably be your hardest first year course, however his curve really boosts your grade.
+
+--- Rating #12 ---
+Class: PHYS125
+Date: 2006-01-09 23:01:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very nice person, receptive to comments. Always helpful, but office hours are hit or miss (more hits than misses). Tests are really, really hard but scaling rescues your grade. Notes online and are summary of text. Tests sometimes literally taken straight from homework.
+
+--- Rating #13 ---
+Class: PHYS125
+Date: 2005-12-22 19:00:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very fair and good prof.  Funny also!
+
+--- Rating #14 ---
+Class: PHYS285
+Date: 2005-04-09 20:22:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Great teacher, makes the lectures entertianing
+
+--- Rating #15 ---
+Class: PHYS125
+Date: 2004-11-11 18:37:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #16 ---
+Class: PHYS
+Date: 2004-08-03 12:05:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+wow- what a doll. I learn so much because my eyes are fixated on this guy!, just can't help it. His every word is law, and they're the laws of physics.
+
+--- Rating #17 ---
+Class: PHYS285
+Date: 2004-03-25 22:33:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He has office hours most of the time when he is not teaching.  Helpful tutorials.  Carefully designed assignments & tests.  Caring and open to suggestions.  But his PDF notes aren't that organized, though.  He just types in his speech word for word.
+
+--- Rating #18 ---
+Class: PHY285
+Date: 2003-12-21 03:32:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #19 ---
+Class: PHYS285
+Date: 2003-10-16 03:33:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+probably first class he's ever taught.  tries really hard but doesn't explain things well.  midterm straight out of lecture notes and assignments; few questions make you think on your own. lectures exactly same as text.helpful and receptive to comments.

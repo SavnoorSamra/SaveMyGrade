@@ -1,0 +1,37 @@
+Professor: Daniel Eisenkraft Klein
+Professor Legacy ID: 2806925
+Professor ID: VGVhY2hlci0yODA2OTI1
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 5
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: HSCI-481
+Date: 2022-07-02 04:57:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Super passionate about what he teaches,! and obviously wants us to find our own passions within the course materials. Very approachable and really cares about his students doing well but definitely be prepared to work hard.
+
+--- Rating #2 ---
+Class: HSCI-481
+Date: 2022-06-14 16:44:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is a very caring and kind prof. He keeps his classes interesting and engaging. Best prof in the HSCI faculty. I would definitely take more classes with him.

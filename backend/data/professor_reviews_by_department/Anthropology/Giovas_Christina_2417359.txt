@@ -1,0 +1,63 @@
+Professor: Christina Giovas
+Professor Legacy ID: 2417359
+Professor ID: VGVhY2hlci0yNDE3MzU5
+Department (CSV): Anthropology
+Department (Fetched): Anthropology
+Avg Rating: 4.3
+Avg Difficulty: 2.8
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: ARCH331
+Date: 2021-12-22 00:29:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Taken me a while to get around to writing this, but Dr. Giovas is an amazing teacher and brilliant academic. Her knowledge and professionalism inspires me. If you can, take her class. Shes excellent.
+
+--- Rating #2 ---
+Class: ARCH331
+Date: 2020-06-22 03:29:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Christina was the best teacher during my semester. The whole covid19 was a mess at SFU but she makes everything better and less stressful. she really cares about her students and is always available to answer questions.
+
+--- Rating #3 ---
+Class: ARCH331
+Date: 2019-05-06 23:11:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Decent lecturer with helpful slides. I really enjoyed her class, she was really nice and helpful if you had questions. Do the readings because she expects you to know them for exams despite never talking about them in class
+
+--- Rating #4 ---
+Class: ARCH100
+Date: 2018-12-23 07:18:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Your mark is determined by three midterms which are based off of lectures which are posted on canvas. Make sure you go through the lecture slides and memorize as much as you can. Her lectures were interesting and she often gave clues about what questions would be on the exam. She also added a couple bonus questions on all three exams.

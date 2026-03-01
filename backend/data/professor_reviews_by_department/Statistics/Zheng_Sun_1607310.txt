@@ -1,0 +1,63 @@
+Professor: Sun Zheng
+Professor Legacy ID: 1607310
+Professor ID: VGVhY2hlci0xNjA3MzEw
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 2.8
+Avg Difficulty: 3
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: STAT330
+Date: 2013-08-07 13:43:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I took his class a while ago and love the way he teaches. His notes and lectures are very clear and he also gives very good examples. My friends took the same class thought he is good too. I am a bit surprised with the others' comments. Small sample size, I guess!
+
+--- Rating #2 ---
+Class: STAT330
+Date: 2012-05-27 18:30:24 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Mumbles, useless notes, spend too much time on unimportant, easy material that we already know and none on the more difficult stuffs. The midterms are fairly easy, but the final is wtf. It's all due to him not having time to teach the last half of the material. But I think at the end he curves the grade. Feel like learn nothing from his class.
+
+--- Rating #3 ---
+Class: STAT330
+Date: 2011-10-11 04:01:04 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He does NOT know how to teach. I don't know why SFU is letting graduate students to teach a 300 level course. His notes are useless, exams way off the material. His review classes are a joke. He cannot speak clearly. He cannot write clearly. Such an inexperienced teacher. Please don't take a class with him.
+
+--- Rating #4 ---
+Class: STAT330
+Date: 2011-08-11 04:36:26 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+No Cheat sheets! Likes to mumble and expects you to just magically understand stuff on the spot. Makes alot of mistakes while writing down notes on the overhead (If you've ever had swartz and read his hand writing, wait until you see this guy's!). On review day spends 30 min going over expectation of univariate & multivariate zomg. N00b

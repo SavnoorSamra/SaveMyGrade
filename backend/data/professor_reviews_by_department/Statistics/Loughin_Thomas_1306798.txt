@@ -1,0 +1,271 @@
+Professor: Thomas Loughin
+Professor Legacy ID: 1306798
+Professor ID: VGVhY2hlci0xMzA2Nzk4
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 3.9
+Avg Difficulty: 3.3
+Num Ratings: 28
+Would Take Again Percent: 65.2174
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: STAT100
+Date: 2025-12-19 22:16:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+My experience - Great prof overall, would love to have again in another course - Very enjoyable, informative, and engaging lectures which had a fair amount of humour (also recorded) - Many quizzes, but manageable, and topics and dates were informed of well-beforehand - Didn't end up using the textbook that often, so get online if possible.
+
+--- Rating #2 ---
+Class: STAT285
+Date: 2025-12-12 13:12:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Disliked the grading scheme, only final and quizzes counted for grades (no HW marks).Each of the quizzes were worth 15%, and if you did bad on 1 of them then you would lose a solid chunk of your grade right there, even if do well on the final and show that you end up understanding the topics there are no adjustments to grading to show your learning
+
+--- Rating #3 ---
+Class: STAT285
+Date: 2025-12-10 02:58:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Super funny and entertaining lectures that I learned a lot from, and his slides are well written. Very approachable too, and good at explaining concepts or questions you're stuck on. Only gripe was the harsh grading scheme, but the assessments were fair and corresponded to the homework and slides. Take a class with him if you can!!
+
+--- Rating #4 ---
+Class: STAT285
+Date: 2025-12-09 21:11:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+great lecturer. 4 quizzes worth 15% each and a final, but quizzes are 20 mins each and diabolical. class averages on canvas for quizzes are q1= 53%, q2=58%, q3=62%, q4=63% and that was after he removed 1-2 marks so class average was even lower before. update** quizzes were hard but final was extremely fair, take the prof LOL
+
+--- Rating #5 ---
+Class: STAT285
+Date: 2025-12-08 22:07:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I really enjoyed STAT 285 with Tom. His lectures were interesting, and his unique perspectives on the content helped me understand in a way 270 did not. That being said, the quizzes can be tight for time, and although this was not a huge issue for me, it can definitely be one if you struggle with quick decision making. However, I loved this class!
+
+--- Rating #6 ---
+Class: STAT285
+Date: 2025-12-08 00:59:55 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His teaching is a bit confusing but he seems to be an enthusiastic prof. His class has 4 quizzes (worth 15% each), I would not say the content he tested is super challenging, I find them to be fair. The brutal part is the time limit (20 mins), if the quizzes were 30-40 mins long and had more questions, I think the average would be higher.
+
+--- Rating #7 ---
+Class: STAT285
+Date: 2025-11-27 01:30:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I respect his teaching philosophies, especially his emphasis on understanding over computation. Lectures are solid, uses real life examples which help solidify concepts. Shows R code which was interesting. However, quizzes (15% each) are very mean. Difficult, not enough time, and doesn't scale much. Average currently is 60% after scale. Beware!
+
+--- Rating #8 ---
+Class: STAT475
+Date: 2024-11-04 10:29:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+many lectures and also homework
+
+--- Rating #9 ---
+Class: STAT475
+Date: 2024-04-22 21:00:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His grading scheme is too strict and weird.
+
+--- Rating #10 ---
+Class: STAT475
+Date: 2024-04-17 21:41:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+"There are 2 kinds of people in the world. Those that can infer from missing information..."
+
+--- Rating #11 ---
+Class: STAT100
+Date: 2023-12-18 06:07:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This course is 90% exam based with a bunch of HW! Exams are open book but are quite tricky with a pop question at the end that you can only solve if you attend lectures. Personally I hated it, but it's over.
+
+--- Rating #12 ---
+Class: STAT100
+Date: 2023-12-17 00:36:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Honestly, didn't care bout this class much but exams were a joke. Forget about the fact that they're open book since that ain't gonna help ya.
+
+--- Rating #13 ---
+Class: STAT100
+Date: 2023-12-14 19:52:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Prof Loughin was a joy to have as a prof. He genuinely cares about his students, and he really has a passion for what he teaches. Two midterms and a final, all of which were fair.  Often he would reflect on his tests and make adjustments where he felt the questions were too confusing. Amazing prof, funny, and wishes the best for his students.
+
+--- Rating #14 ---
+Class: STAT100
+Date: 2023-11-16 20:59:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+dont bother taking this class as an elective lol
+
+--- Rating #15 ---
+Class: STAT305
+Date: 2023-05-18 18:45:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr Loughin was a fantastic professor. I never liked stats but I had to take this course for my degree and he truly made me enjoy stats and want to pursue more. He was kind, funny, and engaging in class. His exams were very fair based on the material he taught and homework was easy. Def go to class, it's better than the recordings. Highly recommend!
+
+--- Rating #16 ---
+Class: STAT305
+Date: 2023-04-19 16:32:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Tom is one of those professors you rarely have at SFU. He is engaging, funny, and an incredibly good prof. Exams were mostly about understanding major concepts and applying that to questions, with open book/open notes. There is R work and weekly homework, but code is always provided in the lecture modules.
+
+--- Rating #17 ---
+Class: STAT305
+Date: 2023-01-15 21:29:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Overall a good prof and a class I probably would've really been interested in. Had to withdraw early in the semester because with a full course load it was practically impossible to do all of the homework plus all of the R coding. Would recommend the prof but beware of the course if you're not very computer-savvy.
+
+--- Rating #18 ---
+Class: STAT475
+Date: 2022-03-07 00:48:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Stay on top of the assignments and you will do well. Overall great professor
+
+--- Rating #19 ---
+Class: STAT305
+Date: 2022-01-14 05:28:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Tom is one of the best profs I have had! His lectures are as engaging as possible, given it is a stats course and he clearly explains concepts. He is very approachable and ready to explain answers to any questions in a variety of ways until the student understands. Exams were fair, he gave R scripts ahead of time which allowed them to analyze them.
+
+--- Rating #20 ---
+Class: STAT305
+Date: 2021-12-15 02:35:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Super nice guy. The whole class did terribly on all the exams and he found ways to scale our marks up a ton. Homework assignments were barely related to the exams and took forever though. There were also literally no practice questions for the exams so we had no idea what to expect. Probably why the averages were at 50%.

@@ -1,0 +1,262 @@
+Professor: Ke Li
+Professor Legacy ID: 2664143
+Professor ID: VGVhY2hlci0yNjY0MTQz
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.1
+Avg Difficulty: 4.5
+Num Ratings: 19
+Would Take Again Percent: 52.6316
+
+Ratings Count Returned: 19
+
+--- Rating #1 ---
+Class: CMPT410
+Date: 2025-09-29 08:49:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The course is really difficult material-wise and a big jump compared to most courses at SFU. There is some disconect between the level Dr. Li expects students to be at vs. what the average student, so it can be hard to follow lectures. Final was super hard (avg. was < 50), but the curve was very generous and class avg was a B. I learned a ton
+
+--- Rating #2 ---
+Class: CMPT410
+Date: 2025-04-29 23:05:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Prof does practically no examples of formulas in class and just over teaches theory. Has a boring voice and only gets some attendance because of his class quiz participation. Extremely difficult assignments and final had to get scaled.
+
+--- Rating #3 ---
+Class: CMPT726
+Date: 2023-12-23 01:50:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The course is ideal for students who aim to squander time, lack motivation, and end up disappointed.
+
+The instructor's approach to teaching was extremely insufficient. The presentation slides in the lectures lacked proper annotations and details (no explanation!), which made it difficult for students to follow along with the concepts being taught.
+
+--- Rating #4 ---
+Class: CMPT410
+Date: 2023-12-17 03:07:29 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+A strike disrupted this semester, leading to a two-week lecture gap and a challenging final exam. The professor wrapped up the intense material in the last two weeks(make up for the gap) with limited practice or examples. To succeed, students had to comprehend theories derived from these equations for the extensive 35-page finals.
+
+--- Rating #5 ---
+Class: CMPT726
+Date: 2023-12-15 18:26:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+1. He just read from the slides without providing enough context or detail. You'll constantly hear words like "You know" and similar ones.
+2. The slides presented are poor in quality. Equations and concepts are not explained clearly.
+3. Errors happened in different areas during the course, including all quizzes, assignments, grades, and solutions.
+
+--- Rating #6 ---
+Class: CMPT410
+Date: 2023-11-30 02:14:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+No textbook for non-review part of the course; prof was regularly late for classes and made us stay overtime. The material is very difficult (all math, virtually no coding). Going to lectures does not help at all - they mostly consist of "take this and that.. you know.. right? hm, well, ok moving on". So be prepared to study everything on your own.
+
+--- Rating #7 ---
+Class: CMPT726
+Date: 2023-11-28 23:47:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+It was a tough subject, made even tougher by Ke Li. He thinks everyone in the class is a math genius and teaches high-level math in the course.Tough assignments and quizzes. Will make you do unnecessary stuff like writing assignments in Latex.
+
+--- Rating #8 ---
+Class: CMPT419
+Date: 2022-05-02 00:29:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Spent two course worth of time on this ONE course on all the assignments and stuff but i indeed learned a lot. Very math focused but it is indeed a very structured course and Prof ke is very helpful. However, he is almost always late for his class and office hours.
+
+--- Rating #9 ---
+Class: CMPT419
+Date: 2022-04-30 06:35:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+one of the best profs I've had in sfu
+
+--- Rating #10 ---
+Class: CMPT419
+Date: 2022-04-30 04:11:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His assignments are tough but you really learn the actually concepts of the course and can connect how things works. Overall very good experience with the prof. I will recommend you guys to take this course for machine learning.
+
+--- Rating #11 ---
+Class: CMPT419
+Date: 2022-04-30 03:39:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The course is very math focused, it is HIGHLY recommended to take statistics, linear algebra and calc 3. The assignments are tough but he gives you a lot of time but the assignments seem original and relate to the course. He marks fairly and he wants you to succeed in this couse.
+
+--- Rating #12 ---
+Class: CMPT419
+Date: 2022-04-20 05:40:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I think Ke's in person lectures are pretty good. He explains things well and if you didn't understand something the first time, the slides have all the information you need to figure things out. I really appreciate that Ke answers "dumb" questions with patience and without judgement and also answers difficult questions adequately.
+
+--- Rating #13 ---
+Class: CMPT419
+Date: 2022-04-11 16:34:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Ke li is actually a wonderful professor. Machince learning is hard to teach well imo but i think hes doing a good job, courses very well structured. Those who rated him bad must be the slackers/dropouts. But yes, cmpt419 is extremely hard if your math skill is not up to par. I would not recommend it cuz this is like a 4 hundred level math course
+
+--- Rating #14 ---
+Class: CMPT983
+Date: 2022-01-07 17:12:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+His lectures are very well-organized with clear outlines and transitions. Extra helpful for having additional offices hours to help each project group on their ideas. You can always ask for things that are not clear and he would answer them patiently all the time. You do learn something useful from his lectures.
+
+--- Rating #15 ---
+Class: CMPT419
+Date: 2021-04-25 07:15:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+I think it's unfair to rate the prof 1.0/5.0 because you can see he does put a lot of work into his lecture slides. He tried to explain at his best ability. Machine learning related courses are just by design very difficult. So I think those quizzes and assignments he put out really helps with the understanding.
+
+--- Rating #16 ---
+Class: CMPT419
+Date: 2021-04-10 23:47:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+There is mandatory participation and we had to keep our cameras on even if we were living with family in a small house. There is quizzes every week and two assignments and one final, sometimes subjects related to the quedtions in assignments were being covered after due date. Professor tried to explain everything but he is not good at it.
+
+--- Rating #17 ---
+Class: CMPT419
+Date: 2021-04-09 08:38:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Ke is a pretty good especially since he's just starting as a prof. Can tell he cares about the students. Takes time to read emails and writes detailed responses. Recaps the previous class which helps a lot. Always makes himself available for help. Encourages and lets us ask questions at any point in lectures. Can tell he puts in the effort &#55357;&#56397;
+
+--- Rating #18 ---
+Class: CMPT419
+Date: 2021-03-27 20:26:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Remote grad/undergrad course graded on attendance for some reason. VERY difficult to follow. Much of the lecture is just &quot;right uhh, you know, uhh, this thing equals that thing, uhh, you know&quot;. Often changes subject mid sentence. Nice guy though, happy to answer questions (if you can understand his answer). He just isn't great at teaching.
+
+--- Rating #19 ---
+Class: CMPT419
+Date: 2021-02-26 05:03:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Always start lecture few minutes late and never end class on time. Mandatory attendance and cam required. Most online free ML course would teach better than this prof.

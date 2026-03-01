@@ -1,0 +1,89 @@
+Professor: Mehrdad Oveisi
+Professor Legacy ID: 1890712
+Professor ID: VGVhY2hlci0xODkwNzEy
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.1
+Avg Difficulty: 2.8
+Num Ratings: 6
+Would Take Again Percent: 50
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: UBCCPSC210
+Date: 2016-07-23 12:44:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Hes teaching at UBC this summer for software construction course.  Easy going, covers important concepts.   His exams are somewhat on easy side as he understands that summer is fast paced. Also he scaled grade up so thats a plus.  Thus, he tried to help students by using familiar codes from notes and practice exams.
+
+--- Rating #2 ---
+Class: CPSC210
+Date: 2016-07-18 13:13:24 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He seems like a good guy, but his lectures are unstructured and he tends to get off topic. He goes often from Topic A - B and then halfway through B - Z and then halfway through Z - E and so on. Easily loses students. Get ready to read in your own time. Is often unprepared for assignments, etc.
+
+--- Rating #3 ---
+Class: CMPT310
+Date: 2015-03-23 17:59:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Oveisi was very helpful, if you make the attempt to do well, then this course will not be difficult. Go to lectures and his office hours, he is very willing to help his students succeed.
+
+--- Rating #4 ---
+Class: CMPT310
+Date: 2014-04-22 16:32:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Mehrdad gave me a lot of intuitions throughout this course. He explained things clearly using good examples and analogies. Assignments and exams are easy, as long as you understand concepts. Mehrdad's office hour (three times a week) and mail list are the most helpful. If you really want to learn, you can learn lots.
+
+--- Rating #5 ---
+Class: CMPT310
+Date: 2014-04-16 23:16:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Mehrdad is the very nice CMPT prof!He is willing to help everyone, also he try to help people get high mark! Very nice prof!!!!! cheers!!!
+
+--- Rating #6 ---
+Class: CMPT310
+Date: 2014-04-10 22:50:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Is extremely helpful. Very willing to email out a lot of help. The course is entirely taught with powerpoint slides, which means that you don't really have to be there. The material is EXTREMELY boring. Very disappointing content. If you think AI is going to be about being bots and stuff get read to be underwhelmed. Mostly about search algorithms.

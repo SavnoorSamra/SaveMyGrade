@@ -1,0 +1,273 @@
+Professor: Anne Lavergne
+Professor Legacy ID: 89059
+Professor ID: VGVhY2hlci04OTA1OQ==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3
+Avg Difficulty: 3.6
+Num Ratings: 335
+Would Take Again Percent: 54.1063
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT125
+Date: 2025-12-03 22:04:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Solid 125 experience. Exams were fair and what you expected, weekly lab assignments were course relevant and helped understand concepts taught in the course. Coding quizzes were easy. Lectures were digestable. Felt like I learned alot with anne. Put in the work and you will succeed.
+
+--- Rating #2 ---
+Class: CMPT295
+Date: 2025-11-07 19:43:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Only good prof that teaches CMPT 295. If you get the opening, you have to take it with her. She makes everything understandable, tests are straightforward, and everything is based on what she talks about. Only caring and honest 295 teacher there is.
+
+--- Rating #3 ---
+Class: CMPT295
+Date: 2025-10-22 01:47:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Anne's lecture slides and materials were great. She's very specific about what our midterms would cover but there were still trick questions. She's strict when to comes to rules and won't budge once she's made a decision, but she's fair. Accommodated course grading scheme to give students best chance at success, would recommend taking 295 with her
+
+--- Rating #4 ---
+Class: CMPT295
+Date: 2025-08-31 07:50:33 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Personally, I find Anne's lectures focused on the wrong things. She'll go 45 min in a 2 hour block on previous lecture review or some mundane, easy example, and conversely skimming over more detailed stuff. I've also come to expect trick questions and questionable long-form questions on all her exams, based on 2 courses with her. Nice person tho.
+
+--- Rating #5 ---
+Class: CMPT125
+Date: 2025-08-22 06:14:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+She's a great prof, 125 is just a natural step up from 120. Put in the work and you'll be fine. Very friendly too
+
+--- Rating #6 ---
+Class: CMPT125
+Date: 2025-08-22 05:09:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The lectures are easy to follow and the material is explained clearly. Midterm exams are a bit more challenging, but the final exam is much easier. As long as you attend class and review the notes carefully, you can achieve a good grade. Compared to other professors, I would definitely recommend this one.
+
+--- Rating #7 ---
+Class: CMPT295
+Date: 2025-08-21 18:38:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lecture slides are very dense/crowded. Tests make up 70% of your grade. She says labs are mandatory but they don't count for marks. Expect homework almost every lecture and unannounced participation activities which will make up 4% of your mark.
+
+--- Rating #8 ---
+Class: CMPT295
+Date: 2025-08-21 17:10:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Anne's lectures are well-detailed! 295 isn't an easy course but Anne made the material easier to understand. The burden of learning and performance falls strictly on the student. My grades did fall short a bit because of my mistakes in the second midterm and the final that would have been easy marks.
+
+--- Rating #9 ---
+Class: CMPT295
+Date: 2025-08-11 21:48:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I feel like the course itself is a little harder. I don't think anne is the best prof out thr, but she is still really good. She teaches you enough for you to not struggle in the future. This class had too much participation and required a textbook, which was bad. But other than that, it was nice. 2 midterms, 9 assignments, 11 PAs, 1 final.
+
+--- Rating #10 ---
+Class: CMPT125
+Date: 2025-08-11 21:46:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is really nice compared to other profs. She can be a bit rude if you are not willing to put in the effort. But she explains things well. And I genuinely feel like if you do the work that she says, its enough to get a good grade in the class without extra studying. I really liked her compared to others.
+
+--- Rating #11 ---
+Class: CMPT125
+Date: 2025-08-11 02:02:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Surprisingly overrated. Her explanations are okay, but her class relies heavily on passive learning. After the first weeks code-alongs stopped, and we just watched her explain large programs to introduce concepts. It's hard to understand a huge program she made herself when you're a beginner in terms of the topic. I've had better profs. How's that?
+
+--- Rating #12 ---
+Class: CMPT125
+Date: 2025-07-18 03:23:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing professor. She posts everything online in a very well structured manner.
+She is very nice and always happy to help and answer questions.
+Don't really understand why people give her a low rating.
+
+--- Rating #13 ---
+Class: CMPT295
+Date: 2025-05-16 22:37:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I had anne last year with 295, absolutely worst person to teach. She gives homework every lecture and then labs that are not mandatory but you need to do them to learn the material. She will makes the hardest exams that are not doable.
+
+--- Rating #14 ---
+Class: CMPT295
+Date: 2025-05-16 22:33:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very difficult to pass
+
+--- Rating #15 ---
+Class: CMPT295
+Date: 2025-05-16 19:52:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Absolute worst professor, dont take cmpt 295 with her.
+
+--- Rating #16 ---
+Class: CMPT225
+Date: 2025-05-16 19:50:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+One of the worst profs I've had at SFU. Lectures were confusing, questions were brushed off, and the course felt disorganized from start to finish. Would not recommend taking CMPT 225 with her.
+
+--- Rating #17 ---
+Class: CMPT125
+Date: 2025-04-20 05:49:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sometimes being better at teaching matters more than how funny a prof is. Actually it matters everytime. I love Anne because she actually knows how to teach. Like I am here to actually learn and not just attend lectures as a comedy show (what most ppl call a good prof). Its not like she is boring either, I love her lectures, its engaging.
+
+--- Rating #18 ---
+Class: CMPT295
+Date: 2025-04-09 06:21:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+She is very good at explaining concepts, but I'd say her tests and grading can be on the challenging side. You need to understand and practice the theory and not just coding. Overall she's good tho
+
+--- Rating #19 ---
+Class: CMPT125
+Date: 2025-03-29 08:44:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+She explains stuff very intuitively. This is one of the few courses where just the lectures were enough to do well in the class.
+
+--- Rating #20 ---
+Class: CMPT225
+Date: 2025-03-29 08:43:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Nah bro all the old 1 star reviews are insane. Pure copium from people who either aren't cut out for CS or are just mad bc of a bad score lol

@@ -1,0 +1,194 @@
+Professor: Cristina Eftenaru
+Professor Legacy ID: 3037578
+Professor ID: VGVhY2hlci0zMDM3NTc4
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.9
+Avg Difficulty: 1.8
+Num Ratings: 14
+Would Take Again Percent: 85.7143
+
+Ratings Count Returned: 14
+
+--- Rating #1 ---
+Class: CMPT376W
+Date: 2025-12-14 22:33:15 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Cristina related her content to the tech workplace which was nice, but we had required attendance for 8:30am class, assignments were paced weirdly, and sometimes her criteria was vague or not included in the assignment description but scattered around lecture slides. No exams or big group projects though. She did try to make lectures engaging.
+
+--- Rating #2 ---
+Class: CMPT105W
+Date: 2025-01-13 05:25:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing effort into lectures, I feel bad for Cristina, she tried to make the class as engaging as possible, but 105 is just a dull class, anyway, she's also very generous and forgiving.
+don't focus on the material you write, just focus on following the rubric, thats where the bulk of the marks are
+
+--- Rating #3 ---
+Class: CMPT105W
+Date: 2024-12-27 20:08:45 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She's a good prof but the CMPT 105W course sucks. I skipped like 5 weeks worth of lectures and missed nothing. The written reports can be a little tricky, make sure you follow guidelines properly and do your citations properly.
+
+--- Rating #4 ---
+Class: CMPT105W
+Date: 2024-12-21 23:51:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Loved the grading scheme as it was very forgiving. She was a nice prof, but I unfortunately did not find much value from the lectures. Prof and TAs were responsive for questions regarding the assignments. Rubric and what to be expected are clearly laid out, was fairly graded as well. Definitely recommend her for a course like 105w.
+
+--- Rating #5 ---
+Class: CMPT105W
+Date: 2024-12-19 20:04:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good class if you're ok at writing in general. Assignment marks just have random marks taken off by TAs. Lectures can be boring mainly due to course material but Christina is a good prof. Only con is assignments are due before past assignments are marked so sometimes you can make the same mistake in both assignments
+
+--- Rating #6 ---
+Class: CMPT105W
+Date: 2024-12-19 18:58:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great prof, it's just that the course itself isn't that fun but besides that if u can yap in English u r good to go especially since TAs r more lenient than highschool teachers!
+
+--- Rating #7 ---
+Class: CMPT105W
+Date: 2024-12-19 07:23:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Super nice and great prof, it's just the content of the course which makes it very boring. I only attended like 2-3 lectures because of this. As long as you participate with the discussions on canvas and do well on essays, basically a free A.
+
+--- Rating #8 ---
+Class: CMPT105W
+Date: 2024-12-19 07:21:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very good professor
+
+--- Rating #9 ---
+Class: CMPT105W
+Date: 2024-12-19 06:32:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Alright prof, found the course to be boring but most bc of the material and not how it was taught. Grading can depend on if it's a TA or not but the prof herself is very generous. She moved around deadlines sometimes which was nice
+
+--- Rating #10 ---
+Class: CMPT105W
+Date: 2024-12-19 03:13:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Extremely easy course. Don't bother showing up to lectures, they're useless.
+
+--- Rating #11 ---
+Class: CMPT105W
+Date: 2024-12-11 00:43:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Would recommend to avoid if you can. Lectures are incredibly boring. She just reads words from the slides, and says nothing important. You will be asked to finish the next part of the assignment before you are given feedback on the last part, and will be penalized for the same mistakes. If you must take her class, lectures are a waste of time.
+
+--- Rating #12 ---
+Class: CMPT105W
+Date: 2024-10-28 20:30:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Class was very boring in general and professor did not have a lot of energy either which made the lectures worse. Assignments are graded weirdly. Lectures felt very useless as well since she doesn't teach and just goes through slides on her powerpoint without really saying anything important.
+
+--- Rating #13 ---
+Class: CMPT105W
+Date: 2024-10-23 01:12:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She's Awesome
+
+--- Rating #14 ---
+Class: CMPT105W
+Date: 2024-10-23 01:11:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good prof very understanding changed lots of deadlines she is pretty good not going to lie

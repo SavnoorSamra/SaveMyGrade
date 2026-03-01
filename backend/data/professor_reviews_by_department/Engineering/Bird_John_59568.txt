@@ -1,0 +1,271 @@
+Professor: John Bird
+Professor Legacy ID: 59568
+Professor ID: VGVhY2hlci01OTU2OA==
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 2.4
+Avg Difficulty: 3.5
+Num Ratings: 54
+Would Take Again Percent: 0
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENSC220
+Date: 2016-09-05 17:43:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is the choice if you want to learn. He knows his stuff. Student could learn a lot from his lectures but be ready to study really hard.
+
+--- Rating #2 ---
+Class: ENC320
+Date: 2014-02-24 22:24:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Dont have much to say, just avoid him at all cost.
+
+--- Rating #3 ---
+Class: ENSC320
+Date: 2013-09-29 20:53:28 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Pay attention to his matrix method of solving for transfer functions. It is extremely useful if you can figure out how to apply it in later courses (ie. apply it to mechanical systems ini ENSC 383). He has many useful tricks. The final was not "unbelievable." Many things were slight variations of homework assignments and lecture examples.
+
+--- Rating #4 ---
+Class: ENSC320
+Date: 2013-08-08 18:59:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+If I could give a negative rating, I would, but unfortunately I can only go as low as 1. Boring and useless lectures. Go get any book on electric circuits and study from them: you'll learn so much more. Going to his lectures is a waste of time. What I do not get is why he is the only one teaching this course right now.
+
+--- Rating #5 ---
+Class: ENSC320
+Date: 2013-06-13 21:48:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Avoid him at all cost, I also think he is over rated at 2.5 overall rate on here. He doesnt even deserve a one. !!!!!!!!!!!!!!!
+
+--- Rating #6 ---
+Class: ENSC320
+Date: 2013-04-22 20:48:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+he is THE WORST proff.. unbelievable. avoid him!!
+
+--- Rating #7 ---
+Class: ENSC320
+Date: 2013-04-10 19:35:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Worst prof Ive met in SFU,Be advised,do not take any course with him,He assumes you know the lecture stuff,and there is also an unbelievble final in the end.
+
+--- Rating #8 ---
+Class: ENSC220
+Date: 2013-01-09 18:14:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+his all over the place, teaches many topics but doesn't cover them at all in any exam . he is only comfortable on what he knows around his notes . Shouldn't be teaching in SFU
+
+--- Rating #9 ---
+Class: ENSC220
+Date: 2012-09-22 23:22:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Cant teach, Simply copies stuff from his notes on over head w/o explanation, useless tutorials, midterm avg was less than %40. Overall he shouldnt be teaching any material at SFU
+
+--- Rating #10 ---
+Class: ENSC320
+Date: 2012-08-22 19:09:18 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+VERY HARD prof. Boring lectures, midterm was reasonable but killer final. nothing from his notes or even close to what he did in class, he is getting too old to be teaching a fundamental course like ENSC 320
+
+--- Rating #11 ---
+Class: ENSC320
+Date: 2011-12-13 17:07:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great professor, really knows his stuff. Kinda looks like Red from &quot;that 70's show&quot;... Very helpful!
+
+--- Rating #12 ---
+Class: ENSC320
+Date: 2011-09-15 20:30:46 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Boring lectures and hard exams
+
+--- Rating #13 ---
+Class: ENSC220
+Date: 2011-08-18 05:38:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great prof.
+
+--- Rating #14 ---
+Class: ENSC320
+Date: 2011-04-26 19:39:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+One of the worst profs I've ever had.  He fails to get even the simplest concepts across clearly in lecture, which leaves you researching for hours on how to solve his customized assignments.  His class resulted in the lowest grade I've received, and I do not think the concepts in 320 should be that difficult.  Avoid at all costs.
+
+--- Rating #15 ---
+Class: ENSC320
+Date: 2011-04-19 14:12:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+The drill instructor of Engineering. If you survive his class, you will be a weapon, a minister of Laplace praying for bode plots. He is hard, but he is fair. In his class, you are all equally worthless. Because he is hard, you will not like him, but the more you hate him the more you will learn.
+
+--- Rating #16 ---
+Class: ENSC320
+Date: 2010-07-19 18:19:19 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He's not the greatest professor, but 320 isn't a hard course, all the materials are covered by the 2/3 of the semester. Learn locus diagram well, it'll help in 383, not altogether useless.
+
+--- Rating #17 ---
+Class: ENSC320
+Date: 2010-02-18 21:34:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Don't know what is going on in this course. Assignment due alternate weeks and consist of one question which seems unsolvable. Doesn't post lecture notes online. Doesn't tell you what to read from the textbook.
+
+--- Rating #18 ---
+Class: ENSC320
+Date: 2009-04-09 17:38:20 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+JB's daily task includes explain sonars to little kids and kicking jack out of lab  thx to JOHN our lab is now clean on weekdays, but jack still invades on weekends :(
+
+--- Rating #19 ---
+Class: ENSC320
+Date: 2009-03-19 13:54:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+very logical person... but teaching skills are meh... he doesn't cover everything you need to know at all. A lot of things u have to learn on ur own, but i guess that's what engineering's about. GO UNDER WATER RESEARCH LAB.
+
+--- Rating #20 ---
+Class: ENSC320
+Date: 2008-01-24 13:00:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+is quite interested in the material, and seems very knowledgeable, however does not teach in a very clear manner, but rather will drown you in examples. Also will expect that you will remember practically every exercise he does in class. Not very flexible with the material... can't always tell what is the context of his examples.

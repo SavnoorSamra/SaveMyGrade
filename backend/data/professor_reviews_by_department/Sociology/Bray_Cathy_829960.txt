@@ -1,0 +1,89 @@
+Professor: Cathy Bray
+Professor Legacy ID: 829960
+Professor ID: VGVhY2hlci04Mjk5NjA=
+Department (CSV): Sociology
+Department (Fetched): Sociology
+Avg Rating: 4.6
+Avg Difficulty: 2.8
+Num Ratings: 6
+Would Take Again Percent: -1
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: SOC255
+Date: 2010-12-10 21:25:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great! Fairly easy and no final!
+
+--- Rating #2 ---
+Class: SA255
+Date: 2010-12-10 01:28:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+One of the best profs I've ever had; she genuinely wants you to succeed in her class and will help you as much as she can. Final assignment isn't real easy, but you start it at the beginning of term and work on it as class goes on. Great class if taught by her. NO FINAL!
+
+--- Rating #3 ---
+Class: SA255
+Date: 2010-11-25 14:09:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Cathy is great! She makes a boring subject interesting. Posts her PP notes online so you can go over them before/after class. Lots of class participation/ presentations but she makes you feel at ease from the 1st class. Very approachable and helpful, I would recommend her although the final assignment is HARD (lit review&research proposal!)
+
+--- Rating #4 ---
+Class: SASA
+Date: 2010-08-25 21:20:39 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+hard marker
+
+--- Rating #5 ---
+Class: SA150
+Date: 2007-04-17 20:26:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Best prof I ever met. Nobody can beat Cathy!
+
+--- Rating #6 ---
+Class: SOCIO231
+Date: 2006-04-07 16:41:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Cathy was one of the best teachers i've had. She made class very interesting and had a lot of variety other than just lecturing. She was extremely fair and helpful and ensured we were as prepared as possible for exams. She made us all feel really comfortable in speaking out loud and overall this was a great course!

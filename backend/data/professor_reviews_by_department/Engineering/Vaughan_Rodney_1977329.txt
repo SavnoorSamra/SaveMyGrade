@@ -1,0 +1,273 @@
+Professor: Rodney Vaughan
+Professor Legacy ID: 1977329
+Professor ID: VGVhY2hlci0xOTc3MzI5
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 2.3
+Avg Difficulty: 4.1
+Num Ratings: 64
+Would Take Again Percent: 34.375
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENSC320
+Date: 2025-09-25 16:42:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Rodney is such a nice professor. The lectures were a bit heavy (just because the course load itself is heavy) but he is really caring and you should not feel any barrier to ask questions
+
+--- Rating #2 ---
+Class: 320
+Date: 2025-09-07 20:52:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Chicken scratch notes, no clear lecture structure, no clear quiz or test information&#8230;Do I keep going? Possibly one of the WORST engineering profs I've ever come across. Also, he overloads you with assignments every single week with 0 consideration of other courses. Rodney is the type of professor to think his course is the only one you're taking.
+
+--- Rating #3 ---
+Class: 320
+Date: 2025-09-02 07:22:13 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This professor discourages honest students. The plagiarism/AI quiz says to cite AI, but never mention it in assignments&#8212;it will backfire. If quizzes are weak but assignments strong, he thinks you rely too much on AI. Exams don't allow cheat sheets; his formula sheet is mostly useless. Exams are very long, and most students can't finish.
+
+--- Rating #4 ---
+Class: 320
+Date: 2025-08-09 04:03:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Rodney is awesome and hilarious. He has a lot of practical knowledge, which he shares in his lectures and assignments.
+
+--- Rating #5 ---
+Class: ENSC320
+Date: 2025-07-20 04:52:29 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The quizzes are worth 25% of your final mark with each quiz being around 2.5%. He does not mention what the quizzes will be on at all and thinks they're easy to everyone. 2nd exam is cooked. All the questions are based off a previous one so if you skip a question then it's over. Question 4 also goes all the way to q. No information about any test.
+
+--- Rating #6 ---
+Class: ENSC320
+Date: 2025-01-09 10:31:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I think Rodney's assignments and exams were pretty straight forward. Once you read the questions properly, all the questions were solvable. His office hours were great; he explained the unclear or difficult questions in detail. Downfall is his lecture notes are a bit disorganized and lectures sometimes go slightly off topic and not following notes.
+
+--- Rating #7 ---
+Class: ENSC320
+Date: 2024-10-26 03:49:07 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He definitely isn't the best at lecturing but i think he gets the general ideas across. His grading scheme puts heavy emphasis on assignments so if you put alot of effort into those its hard to fail, however they do take quite a bit of time. Exams were ok if you studied but occasionally there were crazy strange questions that nobody got correct
+
+--- Rating #8 ---
+Class: ENSC320
+Date: 2024-08-23 16:31:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Rodney is very patient and kind, he is a very caring prof, but his lectures are him trying to follow his unorganized notes & examples that have wrong answers. Skipping class helped my marks go up b/c teaching myself was a better use of class time. I came out of this knowing less about circuits, this course needs to be revamped badly.
+
+--- Rating #9 ---
+Class: ENSC320
+Date: 2024-08-19 16:51:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Rodney is a controversial professor due to his lecture's being of little use and having tests on the difficult side especially midterm 2. However, he is very caring and understanding of students, very helpful in office hours. He weighs homework equal to tests, usually a 50/50 split, and along with a scale to a B class, allows students to do well.
+
+--- Rating #10 ---
+Class: ENSC320
+Date: 2024-08-12 01:36:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Rodney's a good guy, but a terrible professor. He's difficult to follow when lecturing and spends the majority of time rambling, leaving the actual learning for your own time. He cares about his students. He also gives tons of homework, but they help with understanding. My advice: take ENSC 380 & 383 first. This class is a breeze after those.
+
+--- Rating #11 ---
+Class: ENSC320
+Date: 2024-07-27 21:22:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Worst ENSC Professor at SFU. His lectures are messy, disorganized and don't prepare you for the content that he puts on the exams. His exam averages are appalling which reflects his teaching. Avoid at ALL COSTS.
+
+--- Rating #12 ---
+Class: Ensc894
+Date: 2024-07-08 09:58:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I'd like to extend my heartfelt applause and deepest gratitude to Professor Rodney Vaughan. His exceptional guidance and unwavering support were instrumental in the successful completion of my PhD. Professor Vaughan's profound knowledge and dedication to his students make him an outstanding educator and mentor. Thank you, Professor Vaughan.
+
+--- Rating #13 ---
+Class: ENSC320
+Date: 2024-07-08 09:36:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is the Best. He helped me understand the basics that matter the most.
+
+--- Rating #14 ---
+Class: ENSC320
+Date: 2024-06-24 17:53:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Rodney is one of the worst professors I have ever had. His lectures are incredibly disorganized, yet they are the only source of information, as his note packages seem to be made by a 12 year old. His handwriting is very hard to decipher as well. Rodney is one of those profs that takes the beauty out of engineering.
+
+--- Rating #15 ---
+Class: ENSC320
+Date: 2024-02-28 10:55:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Your life will be much easier if you have taken 380 and maybe 383 before this class. I really dislike his lecture notes. They are very confusing to follow. However, he is not monotone and delivers engaging lectures. Put all your effort into perfecting your assignments, as they have the most weight.
+
+--- Rating #16 ---
+Class: ENSC320
+Date: 2023-08-05 04:13:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great approachable guy but tough class
+
+--- Rating #17 ---
+Class: ENSC320
+Date: 2023-07-13 08:52:06 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+This man managed to put exactly what I did not study on the exam two times in a row!
+
+3/5 if it happens again for the final.
+
+--- Rating #18 ---
+Class: ENSC320
+Date: 2023-07-03 04:00:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sfu decided to assign the worst professor in the world to one of the most important engineering classes. Easily worst professor I've ever had. His lectures are all over the place nonsensical, half of the info is useless. His notes look absolutely terrible and he doesn't follow the textbooks he said he would. Avoid at any cost
+
+--- Rating #19 ---
+Class: ENSC320
+Date: 2022-01-01 03:45:38 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Old-school but in a very bad way. Lectures are incomprehensible both due to rapid speed and illegible handwriting. Homework and notes are both custom made by him and equally scattershot and disconnected. Very unfortunate for engineers to take such an important class with such an incompetent teacher. Learning anything with him is very difficult.
+
+--- Rating #20 ---
+Class: ENSC320
+Date: 2020-08-10 20:03:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Was well equipped for zoom lectures. This was a challenging course, pay attention.

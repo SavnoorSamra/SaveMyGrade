@@ -1,0 +1,276 @@
+Professor: Marie Rekkas
+Professor Legacy ID: 84816
+Professor ID: VGVhY2hlci04NDgxNg==
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 3.6
+Avg Difficulty: 3.4
+Num Ratings: 147
+Would Take Again Percent: 61.2903
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ECON103
+Date: 2026-02-24 09:16:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very sweet and kind lady, and was pretty chill about ChatGPT. Slides are always uploaded with annotations. Exams can seem harder since her practice quizzes are really long and repetitive, and only help with multiple choice, but they are redoable until you get full marks, which is basically extra credit.
+
+--- Rating #2 ---
+Class: ECON103
+Date: 2025-12-20 03:37:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+I was a TA for this course. My opinion: focus on the problems/questions she covers in class lectures. Exam questions will reflect those.
+
+The short questions are worth a lot of marks and are very mathematical; they are somewhat similar to past exams that will be posted on Canvas, but mostly similar to the problems covered in class.
+
+--- Rating #3 ---
+Class: ECON103
+Date: 2025-12-11 23:53:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Rekkas is an amazing professor, this course compared to ECON 105 was so much easier and it was mainly because she taught so well. As long as you go to lectures and do the homework, tutorial, and sample exams you will do well in the course.
+
+--- Rating #4 ---
+Class: ECON103
+Date: 2025-12-10 07:13:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Her exams were hard but it balanced out because they were marked generously and curved. Very kind and approachable prof and she explained things well. Tutorial attendance matters and the online quizzes take very long to do as they range from 30-70 questions every week.
+
+--- Rating #5 ---
+Class: ECON103
+Date: 2025-12-10 07:05:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Marie is a very good professor, knows her topic but she sometimes get confused. Always available in office hours and always happy to help.
+
+--- Rating #6 ---
+Class: ECON103
+Date: 2025-12-10 00:04:53 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Pretty sure they changed how they structured the new ECON 103 tests compared to previous years as the practice exams provided were nothing like it was previously. However if you do all the quizzes she assigns and make sure you understand it, as well as understand how to calculate tax revenue and draw all the graphs, you should be able to get A.
+
+--- Rating #7 ---
+Class: ECON103
+Date: 2025-12-01 01:13:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures were a bit dry at times
+
+--- Rating #8 ---
+Class: ECN103
+Date: 2025-10-21 02:33:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very good prof, explains concepts clearly and gives plenty of hints on what to expect on exams. Exams were extremely fair and exam marking was very fair. If you do the tutorials and read the lecture slides and understand the quiz questions you will be fine. Her multiple choice questions are the exact same from the quiz, no tricks or twists.
+
+--- Rating #9 ---
+Class: ECON103
+Date: 2025-09-20 03:00:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Gives unnecessary marked quizzes that are very long, huge timewasters that after the first twenty minutes contribute practically nothing to one's learning. Does not teach the class in an effective method and places importance on things she deems important but they really just waste your time. She is respectful.
+
+--- Rating #10 ---
+Class: ECON325
+Date: 2025-04-18 07:05:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Marie is one of the most organized and clear instructors I've had. She explains concepts in a way that's easy to understand &#8212;no surprises on the exams. Her exams are fair and based on lecture material, which really helps with preparation. She's also quick to respond to emails and genuinely cares about helping students. Highly recommend&#65281;
+
+--- Rating #11 ---
+Class: ECON103
+Date: 2025-04-05 08:06:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Grade is split between weekly quizzes (unlimited attempts), midterm, and final. Everything is based off the lectures, she is passionate and entertaining. She always encourages questions and student feedback. Truly one of the best profs I've had. Midterm was easy - MC questions taken directly from quizzes. Final was the same just a little longer.
+
+--- Rating #12 ---
+Class: ECON103
+Date: 2024-11-23 15:47:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Marie is a fair grader. Midterms and finals are straightforward if you utilize resources like MyLab and Unstuck AI for study prep. Attendance is mandatory, but the content isn't overly difficult if you put in the work.
+
+--- Rating #13 ---
+Class: ECON103
+Date: 2024-08-20 20:36:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures are clear, no recording or filled slides. Tutorials go through textbook example questions, not mandatory but helpful. Midterm was very easy and Final was just double the length. Marie encouraged questions and was always very good at explaining material.
+
+--- Rating #14 ---
+Class: ECON103
+Date: 2024-05-04 20:52:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Marie is a great teacher, one of the best for an introductory Econ course. There are no tricks to her class, midterms/final are just what you would expect from the tutorials/lecture material/MyLab questions.
+Only downside is that the class grading is all exams. I believe 40% midterm, 60% final (took this class in Fall 2021). Strongly recommend.
+
+--- Rating #15 ---
+Class: ECON103
+Date: 2024-04-28 04:53:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She also marked very fairly. Her midterm and final were incredibly fair, stuff is taken straight from homework or in class examples. The content isn't very difficult. I was told that this class was hard but it is really easy if you remotely put effort and practice.
+
+--- Rating #16 ---
+Class: ECON103
+Date: 2024-03-15 08:49:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I was told this class is hard, but it isn't. Marie is a great teacher, she explains in a way that is very clear and understandable. The midterm was very fair, I thought it would be much harder. I didn't read the textbook, and she sometimes finishes class early. Some people may find her boring, but to get a good mark go to lectures to understand!
+
+--- Rating #17 ---
+Class: ECON103
+Date: 2023-09-08 00:46:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I would recommend going through MyLab problem sets from each chapter consistency. The lecture slides are a good summary of the formulas and graphs.
+
+--- Rating #18 ---
+Class: ECON333
+Date: 2023-04-25 20:32:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great prof. Lecture can be dry but thats just the material. Best bet is to go to office hours, she's very helpful and relaxed. One of my fav profs at SFU!
+
+--- Rating #19 ---
+Class: ECON333
+Date: 2023-03-09 19:23:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Marie is really kind and always ready to help. Her classes and expectation are simple and clear. She really cares whether you understand or not and will always take the extra time to explain concepts to you. One of the best professors at SFU in my opinion.
+
+--- Rating #20 ---
+Class: ECON103
+Date: 2023-02-04 07:48:48 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The way that Marie teaches the class is not for everyone. I personally really liked the class structure because I could (and did) skip going to lectures, tutorials and literally just read the textbook before every exam and scored decently
+
+If you want to get through 103 with minimal effort and time, I suggest taking it with Marie over Doug Allen.

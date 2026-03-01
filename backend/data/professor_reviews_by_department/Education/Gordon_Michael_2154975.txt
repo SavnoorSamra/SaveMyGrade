@@ -1,0 +1,24 @@
+Professor: Michael Gordon
+Professor Legacy ID: 2154975
+Professor ID: VGVhY2hlci0yMTU0OTc1
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 5
+Avg Difficulty: 1
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: EDUC100
+Date: 2016-10-27 16:42:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Michael is absolutely AMAZING! He's very easy to talk to, and encourages the class to get to know one another on a more personal level. Very inspirational and open minded. Classes are engaging and fun to be in. Makes you really think about education and how it applies to everyday life. I'm considering changing majors because of him. Life changing.

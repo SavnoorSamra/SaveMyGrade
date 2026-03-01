@@ -1,0 +1,276 @@
+Professor: John Michael Stockie
+Professor Legacy ID: 825360
+Professor ID: VGVhY2hlci04MjUzNjA=
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2.6
+Avg Difficulty: 4
+Num Ratings: 129
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MACM316
+Date: 2026-01-07 02:22:40 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+John is a fairly good prof, lectures aren't too bad, pretty engaging. quizzes are built off of textbook hw (optional). assignments marked by TAs,beware of hard marking. Both exams are OK, just understand quizzes.
+
+--- Rating #2 ---
+Class: MACM316
+Date: 2025-12-14 22:18:01 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I think John is a good professor, the subject was simply not that interesting. Quiz and exam questions usually-ish reflected what was in the homework, but he made the multiple choice tricky. The grading criteria for the computing assignments was unclear and marks would be docked for missing things they didn't even include in the description.
+
+--- Rating #3 ---
+Class: MACM316
+Date: 2025-12-13 23:25:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+John is enthusiastic, but the course itself is difficult. Things to keep in mind: 1) Homework and Quiz: HW is not mandatory, but you MUST do it to perform well on the weekly quizzes - these are annoying, but helpful later on when revising. 2) Attendance is required (5%). 3) Fair exams - but PLEASE READ THE QUESTION CAREFULLY BEFORE ANSWERING
+
+--- Rating #4 ---
+Class: MACM316
+Date: 2025-12-11 22:19:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+John was very enthusiastic, but he would also give trick questions on all multiple choice. He would state that they were &#8220;easy questions&#8221; that we have learned all semester, but purposely not state the conditions needed for it to be true, even though we spent all semester assuming the conditions were there. HW not needed. Quizzes WAY too long.
+
+--- Rating #5 ---
+Class: MACM316
+Date: 2025-12-11 09:45:19 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Never enough time to finish quizzes. Strict grading on computing assignments. Makes you buy an iClicker subscription for participation marks. Also discourages questions mid-lecture and is condescending if you don't know something. Had to drop after midterm, otherwise he would have cooked my GPA
+
+--- Rating #6 ---
+Class: MACM316
+Date: 2025-12-10 02:06:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I've sat in my friends' MACM316 lectures and classes before that isn't John and to be honest, after reflecting and being in pain in this class because it's hard, John is legitimately your best option in terms of fairness. This class is hard and I don't disagree with the other reviews and viewpoints, all valid.
+
+--- Rating #7 ---
+Class: MACM316
+Date: 2025-12-10 02:03:23 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Straight forward points:
+1. Probably your best option for MACM316
+2. HW not mandatory but kinda is if you want to do well on quizzes / exams
+3. Fair tests but also time-consuming (e.g., decimals, hard derivatives, etc) ALTHOUGH marking is questionable and read question very well before answring
+4. Good lectures
+5. No BS prof but strict on reasoning
+
+--- Rating #8 ---
+Class: MACM316
+Date: 2025-12-09 19:39:39 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Not the best, not the worst. Lectures are very good, but he often gives tricky questions with multiple correct answers when only one is acceptable and sometimes tested us on material not covered in the lectures/homework. Somewhat nice, but also blamed us multiple times for not getting "easy" questions correct and didn't take accountability.
+
+--- Rating #9 ---
+Class: MACM316
+Date: 2025-12-09 05:40:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is really passionate about teaching and a great lecturer. This course is just pretty hard and time consuming. Weekly quizzes keep you on top of the content but are a pretty hard for 10 minutes. Avg of class was a C+. All things considered he's a good prof for macm316!
+
+--- Rating #10 ---
+Class: MACM316
+Date: 2025-12-09 04:03:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Had a really great semester with John. Sometimes he pulls tricks out of nowhere which is annoying but none the less he is a good lecturer and really loves teaching
+
+--- Rating #11 ---
+Class: MACM316
+Date: 2025-12-09 03:59:10 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Other people are saying he "curved us up a letter grade" I would like to confirm this wasn't the case for most people as he curved 1-2% only so it didnt change most people's grades. He is good at teaching and smart, take the course with him if you care about macm but don't take the course if you want a good grade.
+
+--- Rating #12 ---
+Class: MACM316
+Date: 2025-12-09 03:38:10 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+John is the best!!
+
+--- Rating #13 ---
+Class: MACM316
+Date: 2025-12-09 02:40:05 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The homework is so useless and too difficult. None of the homework really gets tested anyways. Just focus on the lecture notes and clickers. I did so bad on the final exam because I didn't know there was an iClicker bank with lots of questions word by word on the final exam.
+
+--- Rating #14 ---
+Class: MACM316
+Date: 2025-12-09 02:38:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Marks very strictly on computing assignments and quizzes are too long for 10 mins and very tricky. Midterm mc was tricky written was fine. Final mc was extremely fair and written was a lot for a no calculator exam. Overall he isn't the best but its clear he likes what he is teaching. He also curved us up a grade which was nice given how tough it is
+
+--- Rating #15 ---
+Class: MACM316
+Date: 2025-12-09 02:32:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Nice guy after all, he is very passionate about teaching this class. Would recommend to take if you want to actually learn something. Put in minimal effort and still passed. Used chatGPT for all my computing assignments and averaged out to 75%.
+
+--- Rating #16 ---
+Class: MACM316
+Date: 2025-12-09 02:30:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+To be honest, he isn't as bad as he seems. It was a rough semester with tricky multiple choice questions, long weekly quizzes that are not reasonable for a 10 minute time period. Midterm was long but was alright. Final multiple choice wasn't so tricky but written was unreasonably hard (not because of the content) but because of the numbers provided
+
+--- Rating #17 ---
+Class: MACM316
+Date: 2025-12-09 02:18:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Curved letter grade doesn't excuse all the BS we faced. Useless homework that didn't prepare you for the weekly quizzes with trick questions. Computing assignments marked out of 10 where you lose marks for not explaining things PERFECTLY. Final exam's paper size was taller to cram in more questions. Not worth damaging your mental health over.
+
+--- Rating #18 ---
+Class: MACM316
+Date: 2025-12-09 02:15:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Had a fun and engaging semester with John. His quizzes sometimes can be a lot at times. Computing assignments are chill as long as you start early. Class avg was a C+ and he also gave bonus marks.
+
+--- Rating #19 ---
+Class: MACM316
+Date: 2025-12-09 02:11:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+To be fair, John isn't the worst at SFU. He does make mistakes during lectures but it is understandable he is getting old but very passionate about teaching.
+
+--- Rating #20 ---
+Class: MACM316
+Date: 2025-12-09 02:01:25 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I was supposed to receive an A+ but only got an A. John did not curve me up, why is everyone lying.

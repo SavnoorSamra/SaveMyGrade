@@ -1,0 +1,271 @@
+Professor: Anthony Dixon
+Professor Legacy ID: 19175
+Professor ID: VGVhY2hlci0xOTE3NQ==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.1
+Avg Difficulty: 3.8
+Num Ratings: 139
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT295
+Date: 2016-06-25 23:24:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Anthony Dixon is one of the best professors. I found his lectures very useful as he worked on examples during his lectures. He explained abstract concepts in a very academic and simple way which inspired me to attend his lecture and use his notes. He uploaded his lecture notes, and he spent a lot of time in his office hours when I needed help.
+
+--- Rating #2 ---
+Class: CMPT295
+Date: 2016-06-25 20:18:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is a perfect professor. As long as he has time and you find him in the office, he will do everything to help his students even it's not his scheduled office hour.
+
+--- Rating #3 ---
+Class: CMPT110
+Date: 2015-08-22 02:20:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+There was no support for the course by the prof and I did not understand anything.  I should have dropped it when i had the chance. I felt his notes did not cater to those who had no previous understanding of computer sciences. I felt his notes were inadequate to understand the material completely.
+
+--- Rating #4 ---
+Class: CMPT110
+Date: 2015-07-24 00:47:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: True
+Comment:
+Do not take this course via DE. Difficult assignment and exams. Very hard to get help for this class. Assignments are nothing like the textbook or study guide. DO NOT RECOMMEND
+
+--- Rating #5 ---
+Class: CMPT250
+Date: 2015-07-12 07:35:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Assignments and midterms are easy. The final tho, is very very hard. He is nice tho and he scales up the class.
+
+--- Rating #6 ---
+Class: CMPT250
+Date: 2015-06-18 03:04:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Good lecture notes. Audio notes are available too.  There're sample tests online and quite similar to the midterm. He gives you solutions for assignments which is great. Overall he's a good decent prof in CS. The course is hard though but all CMPT courses are hard you know what I mean.
+
+--- Rating #7 ---
+Class: CMPT250
+Date: 2015-06-14 17:54:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Easy assignments and midterms. But the final is crazy hard. He explains the course material pretty clearly though.
+
+--- Rating #8 ---
+Class: CMPT250
+Date: 2015-06-10 01:15:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+It's a very hard course, but Tony realizes this and does his best to help every student get a good grade. Many profs at SFU pride themselves in making it difficult to get a good grade, but not this prof - he puts many sample exams online to practice on (and the exams are usually very similar) - he makes audio recordings available and all notes too.
+
+--- Rating #9 ---
+Class: CMPT250
+Date: 2015-04-28 01:39:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Keys to be successful in this course: 1)find a good group mate 2)read the all the notes(every single line) that he posted online! 3)must understand each assignment in order to pass this course
+
+--- Rating #10 ---
+Class: CMPT250
+Date: 2015-03-13 22:29:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Nice prof and ok explaining skills it's just that the course material is pretty hard. Don't worry his midterms are worth only 10% of total grade while assignments worth 7.5% each(4 assignments in total). He also allows you to replace lab attendance for any assignments u miss.
+
+--- Rating #11 ---
+Class: CMPT250
+Date: 2015-01-20 16:06:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Best  prof ever! But his assignments were tough !
+
+--- Rating #12 ---
+Class: CMPT250
+Date: 2014-12-16 00:16:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Very friendly and helpful instructor. The difficulty of this course heavily depends on whether or not you regularly go to his office. He posts online notes and audio recordings of each lecture. Tests are hard but not unreasonable. Assignments are easy if you start them early and attend to labs. Everything in the course is well organized.
+
+--- Rating #13 ---
+Class: CMPT150
+Date: 2014-12-03 00:10:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Wish he offered more courses!!
+
+--- Rating #14 ---
+Class: CMPT150
+Date: 2014-10-17 00:30:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Best prof in SFU till now. 150 250
+
+--- Rating #15 ---
+Class: 250
+Date: 2014-10-02 23:53:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Very nice person, always helping us on assignments during office hours.
+
+--- Rating #16 ---
+Class: CMPT250
+Date: 2014-04-10 22:44:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Tony is the best teacher for this class. Attendance is a must as he does various examples on the overhead and explains them. Does not use powerpoint which is a  good thing for this course. Assignments are tough but you do learn a lot.
+
+--- Rating #17 ---
+Class: CMPT150
+Date: 2014-01-07 18:52:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Teaches information very clearly. Once you understand his teaching style and the basics, the class is very easy. Textbook was totally unnecessary. Great prof
+
+--- Rating #18 ---
+Class: CMPT250
+Date: 2014-01-01 09:04:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Tony is the best the teacher in SFU. He knows how to teach and work very hard. He is very helpful either in his office or through email. He will explains more than your question. He loves students. Hope he can teach more years before retires.
+
+--- Rating #19 ---
+Class: CMPT250
+Date: 2013-11-13 00:35:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+awesome prof!!!!!!
+
+--- Rating #20 ---
+Class: CMPT250
+Date: 2013-10-31 22:39:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+He is one of the few good profs at SFU. Very knowledgeable, clear, and detailed explanations, always available to help students. If you have a choice, take the course with him! Until now, I think he is the best prof at SFU.

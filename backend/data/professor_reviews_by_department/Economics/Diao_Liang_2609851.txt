@@ -1,0 +1,50 @@
+Professor: Liang Diao
+Professor Legacy ID: 2609851
+Professor ID: VGVhY2hlci0yNjA5ODUx
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 1.3
+Avg Difficulty: 4.7
+Num Ratings: 3
+Would Take Again Percent: 0
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: ECON383
+Date: 2020-08-25 04:28:04 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+This prof expects you to read a 30-40 page paper every single week because you will be quizzed on them weekly. The quizzes are worth half of your total grade and they are extremely hard. The wording sometimes screw your thinking up. Best you can do is to read the slides and watch the videos before each quiz. The prof responds to emails fast though.
+
+--- Rating #2 ---
+Class: ECON383
+Date: 2020-08-03 03:10:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Terrible
+
+--- Rating #3 ---
+Class: ECON383
+Date: 2020-07-15 00:40:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+The lecture of this professor is very simple, there is no detailed explanation. The headache is going through 30 or 40 pages of academic papers every week. You have to read the paper carefully, because the quiz is all from inside, and the quiz is very detailed, which takes up half of the total score.

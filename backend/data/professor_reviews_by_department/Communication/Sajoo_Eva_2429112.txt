@@ -1,0 +1,37 @@
+Professor: Eva Sajoo
+Professor Legacy ID: 2429112
+Professor ID: VGVhY2hlci0yNDI5MTEy
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 4
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: INTG100
+Date: 2022-01-13 07:37:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: True
+Comment:
+Very nice lecture, great sense of communication, but her reading test is a bit hard.
+
+--- Rating #2 ---
+Class: INTG100
+Date: 2018-11-24 13:29:42 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great teacher who always helps.

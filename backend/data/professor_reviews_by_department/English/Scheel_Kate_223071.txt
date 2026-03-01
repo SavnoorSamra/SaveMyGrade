@@ -1,0 +1,271 @@
+Professor: Kate Scheel
+Professor Legacy ID: 223071
+Professor ID: VGVhY2hlci0yMjMwNzE=
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 4.3
+Avg Difficulty: 2.8
+Num Ratings: 23
+Would Take Again Percent: 85.7143
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ALC009
+Date: 2024-05-09 04:55:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is a very lovely person but the course requires you to read, her slides are very detailed and the homework alows you to be creative. She will always listen to you and I love the way she analyzes every detail in the stories we read.
+
+--- Rating #2 ---
+Class: ALC009
+Date: 2023-08-26 20:35:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Excellent instructor at FIC, highly recommended. Best first choice for this course!!
+
+--- Rating #3 ---
+Class: ALC099
+Date: 2022-12-11 10:14:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Kate is amazing. She is the reason why I have good academic writing skills. Highly recommend her class.
+
+--- Rating #4 ---
+Class: ALC099
+Date: 2022-01-13 07:41:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+A very patient instructor who will point out the problems in your paper face to face and explain them to you carefully. The final draft of the essay completed according to her requirements will be highly rated.
+
+--- Rating #5 ---
+Class: ALC0099
+Date: 2021-12-14 14:03:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+Great teacher with great feedback. If you do the homework on time, everything will be easy.
+
+--- Rating #6 ---
+Class: ALC009
+Date: 2021-11-21 19:06:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+This ALC099 course taught me a lot of things. For example, now I can write academic summaries correctly as well as she(kate) has made how to write references clear to me. My writing skill has improved by 50-60% better by taking this course. In addition, she (kate) is very friendly and accommodating. She makes an extra effort to help her students. N
+
+--- Rating #7 ---
+Class: ALC099
+Date: 2019-12-09 04:55:26 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+She is super bubbly and super nice. Teaches you well and good bout writing skills and tips. Cons are she does not let you pick a topic for the final essay so that might be a little hard, also her grading is very strict so you have got to take care of every little detail.
+
+--- Rating #8 ---
+Class: ENGL207
+Date: 2011-04-19 23:01:04 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I can't imagine that she's been a teacher for very long because she so caught up in her own ideas of things. Didn't allow alternative perspectives on course material. Read directly from overheads without allowing students access to the overheads. Skimmed over much of the course. Worst prof I've ever had - I do not recommend taking a class with her.
+
+--- Rating #9 ---
+Class: ENGL207
+Date: 2010-06-17 19:56:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Not too bad of a prof, but lecture style of reading primarily off slides made it hard to stay awake early in the morning. Would have liked to go a bit more in depth with things, but left more room to explore my ideas in my writing. TAs were fair. Overall a good class-but make sure you do the readings or really read her notes-final is a bit tricky.
+
+--- Rating #10 ---
+Class: ENGL207
+Date: 2009-12-15 23:32:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Six books in one semester. Informative and interesting. Made going to school worth it in the early morning.
+
+--- Rating #11 ---
+Class: ENG207
+Date: 2009-11-19 18:00:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She's an okay professor, however, the course content doesn't excite me in any way and my TA is a hard marker. What do I have to say about the course overall&#63; Meh.
+
+--- Rating #12 ---
+Class: ENG104
+Date: 2006-08-31 22:29:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I don't know where some people are saying her notes sucked. While they don't really seem very inspiring at first, they were good enough for me to write a short essay on the final about a book I didn't even touch during that class. Tons of reading, you need to keep it up. Other than that, not a bad class.
+
+--- Rating #13 ---
+Class: ENGL104
+Date: 2006-08-07 07:39:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Clear lectures, and likes to get class involved. Not too hard, but not too soft.
+
+--- Rating #14 ---
+Class: ENG104
+Date: 2006-04-21 02:31:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+kate is RAD.  although fast paced, her lecture style is concise, yet informative.  you can afford to miss a lecture at times, her notes make it easy to catch up. no help writing an essay&#63; BS! she spent an entire lecture on HOW TO, you fools. plus the time she spends explaining style, message, form, etc. of each reading. does it get any simpler&#63;
+
+--- Rating #15 ---
+Class: ENGLISH104
+Date: 2006-04-05 14:27:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+What use is it to go to lecture, when all the prof does is tell mundane and useless details about the author, and not the book&#63;  Her notes are horrible, uncreative (perfect for an english class), and nothing I wouldn't have learned if I had simply googled the novel. Worse yet is how she embarresses and criticises the students opinions. What a waste
+
+--- Rating #16 ---
+Class: ENG104
+Date: 2006-04-01 21:27:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+She is very nice and accomadating. She makes an extra effort to help her students excel. Her lectures make reading the books almost pointless. She is a fair marker. But it was kind of interesting that all the literature discussed in class was either feminist, anti-war or anti-business.
+
+--- Rating #17 ---
+Class: ENGL104
+Date: 2006-03-20 02:08:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+omg I can't stay awake in this class. I'm sorry but all she really does is give background info on what we've read. it doesn't help us write the essay.
+
+--- Rating #18 ---
+Class: ENGL340
+Date: 2005-11-17 23:31:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Kate is a great Professor. She's always helpful and gives a ton of feedback. All of the lectures were interesting, and she even made Ulysses approachable. She's also a very fair marker, though she may mark a little on the easy side. She's pretty cute too.
+
+--- Rating #19 ---
+Class: ENG340
+Date: 2005-04-23 20:30:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Excellent prof. Funny, personable and really knows her stuff. I absolutely recomend this class.
+
+--- Rating #20 ---
+Class: ENG340
+Date: 2005-01-14 00:25:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Great Prof...one of the best I have ever had...made the material incredibly interesting and allowed for great class discussions...cute too!

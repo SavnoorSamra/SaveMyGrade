@@ -1,0 +1,11 @@
+Professor: Claire Cupples
+Professor Legacy ID: 2510382
+Professor ID: VGVhY2hlci0yNTEwMzgy
+Department (CSV): Molecular Biology & Biochemistry
+Department (Fetched): Molecular Biology & Biochemistry
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

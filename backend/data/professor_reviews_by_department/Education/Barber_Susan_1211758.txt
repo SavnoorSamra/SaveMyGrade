@@ -1,0 +1,154 @@
+Professor: Susan Barber
+Professor Legacy ID: 1211758
+Professor ID: VGVhY2hlci0xMjExNzU4
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 2.2
+Avg Difficulty: 2.8
+Num Ratings: 11
+Would Take Again Percent: 16.6667
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: EDUC341
+Date: 2025-04-04 07:54:46 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Not great to approach and not clear at all with her rubrics. Kind of a headache when it comes to trying to do your assignment when you have no idea what she is expecting. She docks a lot of unnecessary points because of HER OWN unclear rubric. Would not recommend this prof but the class material itself is interesting.
+
+--- Rating #2 ---
+Class: EDUC341
+Date: 2025-03-27 08:47:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+She does not give constructive feedback, has a messy rubric, and is so confusing with what she means in her instructions. She is also terrible at replying back to emails and when she does it's just one sentence that does not help. It is an easy class though if you dedicate to completely teaching yourself and understanding the readings.
+
+--- Rating #3 ---
+Class: EDUC472
+Date: 2023-12-27 22:02:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I LOVED SUSAN AS A PROF!!! She is one of my favourite education profs and is very knowledgable and reflective in her practice. I found her assignments to be engaging, useful, and relevant to the environments that we will engage in as future teachers. She was happy to discuss assignments and answer questions that I had throughout the semester!
+
+--- Rating #4 ---
+Class: FALX99
+Date: 2021-05-01 05:45:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Her criteria doesn't really correspond to what she teaches in class. She also marks excessively hard, especially for a FAL course. If you can take the class with another teacher it'll save you the hassle....
+
+--- Rating #5 ---
+Class: EDUC471
+Date: 2019-11-15 23:34:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+I took 471 online and this course has to be the most disorganized, messy course I have ever seen in my 5 years at SFU. As an education major, I LOVE Education and have never been so angry and upset with a course in my life. Grading is so illogical and zero feedback is given - it's all on the TA who is horrible. And a 50% FINAL? Avoid at ALL costs.
+
+--- Rating #6 ---
+Class: EDUC472
+Date: 2019-08-03 20:10:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+If you are reading this then avoid her and her courses at all costs. I cannot stress enough how poor the curriculum and design course is. She is rude, unclear with assignments, and overall a bore. I did decent in the class but would have much preferred to have a more educational course for the amount of work she expects. Trust me. AVOID.
+
+--- Rating #7 ---
+Class: EDUC472
+Date: 2015-08-17 13:59:35 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Lots of class and small group discussions. Readings are not difficult, though time-consuming,  Assignment criteria and expectations are often confusing, but just ask for clarity - everyone else has the same questions! Easy marker, just make an effort to do the work.
+
+--- Rating #8 ---
+Class: EDUC472
+Date: 2015-07-29 00:52:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Susan is very knowledgeable about the topic. She taught this course at both Surrey and Burnaby campus. Although she assigned the readings, she usually talks about them in class as well. 20% participation, 30% research paper, 20% discussion online, 30% group presentation.
+
+--- Rating #9 ---
+Class: FAL
+Date: 2015-01-16 22:17:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She was rude and not clear about assignments. Her course seemed like it was taught backwards. We had an assignment worth a big chunk of our final grade and she didn't explain what we had to do, nor did she teach us how to format it until a week before it was due.
+
+--- Rating #10 ---
+Class: EDUC100
+Date: 2010-12-10 23:08:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+learn nothing from her, tons of assignments, MUST attend the class!  don't need to work too hard cos no matter what, you will get a &quot;fair&quot; mark = &quot;B&quot;
+
+--- Rating #11 ---
+Class: FALX99
+Date: 2010-03-16 20:25:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+no matter how much work you did, she will give you a &quot;fair&quot; mark.

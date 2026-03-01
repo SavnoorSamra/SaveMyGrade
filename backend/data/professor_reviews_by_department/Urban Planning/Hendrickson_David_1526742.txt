@@ -1,0 +1,24 @@
+Professor: David Hendrickson
+Professor Legacy ID: 1526742
+Professor ID: VGVhY2hlci0xNTI2NzQy
+Department (CSV): Urban Planning
+Department (Fetched): Urban Planning
+Avg Rating: 1.5
+Avg Difficulty: 5
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: GEOG363
+Date: 2011-04-03 13:52:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Possibly the worst professor I have ever had. He showed up a half hour late for the midterm exam. His exams are marked very hard, and there is alot of reading to be completed before every class. Try to avoid this prof.

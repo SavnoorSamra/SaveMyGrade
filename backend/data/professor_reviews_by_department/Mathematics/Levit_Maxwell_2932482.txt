@@ -1,0 +1,232 @@
+Professor: Maxwell Levit
+Professor Legacy ID: 2932482
+Professor ID: VGVhY2hlci0yOTMyNDgy
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2.4
+Avg Difficulty: 3.2
+Num Ratings: 17
+Would Take Again Percent: 29.4118
+
+Ratings Count Returned: 17
+
+--- Rating #1 ---
+Class: MATH308
+Date: 2025-04-23 03:25:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's a newer lecturer, but he cares a lot about the success of his students. Very clear communication throughout the semester, and very clear lectures. He makes sure to take the time to answer all the questions put his way. The assignments are pretty hefty, hours of work, but they prepare you really well for the midterm and the quizzes.
+
+--- Rating #2 ---
+Class: MATH308
+Date: 2025-04-07 21:59:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+It was his first time teaching this course, so the explanations fell flat. Filled lecture slides were not posted until right before the midterm, and before the final due to odd reasoning. Not too hard overall but boring. Also handwriting was like chicken scratch.
+
+--- Rating #3 ---
+Class: MATH308
+Date: 2025-03-16 18:21:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+good quality
+
+--- Rating #4 ---
+Class: MATH100
+Date: 2024-01-16 05:29:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor Levit did a very good job in his first semester at SFU. He was very attentive to his emails, and would answer in depth to questions. He is also very helpful in office hours. This course requires A LOT of at home practice, and this is YOUR responsibility. Do not expect to attend lectures and think you are adequately prepared. Thank you ML!
+
+--- Rating #5 ---
+Class: MATH100
+Date: 2023-12-31 12:24:59 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Really nice guy but really confusing lectures. This prof sometimes messes up notes and his explanations of the concepts from the slides are very vague and unclear. Make sure u go to tutorials its free marks and the TAs are helpful. If u study u'll be fine the tests aren't that bad.
+
+--- Rating #6 ---
+Class: MATH100
+Date: 2023-12-22 22:53:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He does not explain things properly, so get ready to rely on the textbook. I attended every lecture, but honestly, you are better off just reading the textbook as it provided a better explanation than he did. When he tries to solve a problem from his own slides, he often gets stuck and says that he will post the answer on canvas. Try to avoid!
+
+--- Rating #7 ---
+Class: MATH100
+Date: 2023-12-21 07:02:18 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I didn't feel like he was a good teacher because he didn't go over concepts that well in class, and it was hard to follow what he was saying. You are better off watching videos of the concepts to understand the class(which I did). My advice is make sure you keep up to the lectures as much as you can, so things can make sense while you're in class.
+
+--- Rating #8 ---
+Class: MATH100
+Date: 2023-12-16 06:30:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Max is a nice guy! Not a great prof though. Initially, I cut him some slack since it's his first semester, but I am paying for this course! He did not know how to work through problems on HIS slides during lectures and often gave wrong answers. His tests are hard and online assignments take forever just to not have relevance for tests. Avoid!
+
+--- Rating #9 ---
+Class: MATH100
+Date: 2023-12-16 05:01:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+worst professor I've ever had. In my opinion he is neck to neck with Marie Loughin (IYKYK). I unfortunately had to take this class in his first semester teaching at SFU and during the strike. During the midst of the strike he was so courteous that he canceled class and provided us with his blank slides. Thank you for declining my will to live.
+
+--- Rating #10 ---
+Class: MATH100
+Date: 2023-12-11 04:13:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I found tutorials the most beneficial part of the entire course, and did most of my learning from the textbook. The final was very long and there was a weekly quiz and a weekly assignment. Overall not bad.
+
+--- Rating #11 ---
+Class: MATH100
+Date: 2023-12-01 03:50:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He occasionally makes mistakes when working problems in the class but fixes them in class which I find to be really helpful. His lectures can be a little confusing sometimes but talking to him one-on-one during office hours usually clears up any things I don't understand.
+
+--- Rating #12 ---
+Class: MATH100
+Date: 2023-11-10 04:30:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His class is quite easy and much better than my previous precalc experiences. Hes a caring prof who will respond to your emails quick + lots of easy marks w/ quizzes + hw + tutorial. Sometimes he does mess up on solutions during lecture, but he quickly fixes his mistakes (this honestly helpful since it helps me not make same mistakes). 10/10 prof
+
+--- Rating #13 ---
+Class: MATH100
+Date: 2023-11-03 16:40:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+It feels like he doesn't really know what he's saying most of the time. His lectures are super unorganized and it seems like he's going through the content for the first time during lecture. He is a nice guy, but I find he doesn't answer questions very clearly. Wouldn't really recommend him...
+
+--- Rating #14 ---
+Class: MATH100
+Date: 2023-11-02 01:51:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Prof just reads over slides and doesn't really explain how he gets to each step. His writing on the board is not legible whatsoever so sometimes I don't even know what I am writing or reading myself. I stopped going to some lectures because he barely teaches the content well and I end up using Glaser Tutoring Company on YouTube.
+
+--- Rating #15 ---
+Class: MATH100
+Date: 2023-10-24 06:37:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Does not explain concepts well and is difficult to follow because of the lack of coherency.
+
+--- Rating #16 ---
+Class: MATH100
+Date: 2023-10-02 19:33:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+lectures really hard to follow and the slides that he shows are his first time reading it as well
+
+--- Rating #17 ---
+Class: MATH100
+Date: 2023-09-25 07:51:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+so far, he seems like a nice guy but does not teach math well. He does not explain concepts or class solutions for the beginner level and assumes everyone already knows the class material. He simply just glosses over slides and does half done solutions. TAs are nice and patient though - and are willing to break down the problems with you.

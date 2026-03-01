@@ -1,0 +1,50 @@
+Professor: Tara Petrie
+Professor Legacy ID: 2274308
+Professor ID: VGVhY2hlci0yMjc0MzA4
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: MATH150
+Date: 2018-01-15 16:05:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Tara explains concepts clearly and her notes are easy to read. She is caring about her students and spends time making sure all her students are doing well. She has a great personality and is a fun prof.
+
+--- Rating #2 ---
+Class: MATH150
+Date: 2017-08-10 14:53:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+good prof, very helpful. although not mandatory, i would recommend attending lectures
+
+--- Rating #3 ---
+Class: MATH150
+Date: 2017-08-10 14:47:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She is a very good teacher who is very passionate about the subject that she teaches. Always willing to help students with topics and concepts they don't understand. Also a very nice and fun person to learn from.

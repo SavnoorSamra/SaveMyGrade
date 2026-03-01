@@ -1,0 +1,24 @@
+Professor: Julia Heinon
+Professor Legacy ID: 1157136
+Professor ID: VGVhY2hlci0xMTU3MTM2
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 4.5
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: CHEM121
+Date: 2011-03-22 17:10:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Awesome teacher

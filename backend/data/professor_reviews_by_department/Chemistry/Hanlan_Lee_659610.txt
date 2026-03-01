@@ -1,0 +1,271 @@
+Professor: Lee Hanlan
+Professor Legacy ID: 659610
+Professor ID: VGVhY2hlci02NTk2MTA=
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 3.2
+Avg Difficulty: 3
+Num Ratings: 88
+Would Take Again Percent: 53.3333
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CHEM121
+Date: 2020-04-23 23:30:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I had Lee for the lab part of the CHEM121 course. The amount of knowledge she has makes her a little intimidating and she definitely has a low tolerance for stupid questions and people who don't listen. If you ask thought out questions and show her you're interested and you care, she is really nice and approachable. She explains concepts clearly!
+
+--- Rating #2 ---
+Class: CHEM121
+Date: 2019-07-09 22:55:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The most uninteresting prof ever. She has such a monotone voice, it could put you to sleep in the middle of lecture. There was one midterm 2/3 of the way through the semester, so there was so much info on it but the content from the beginning of the semester was already forgotten. The final was a little easier. Her labs are also stressful.
+
+--- Rating #3 ---
+Class: CHEM121
+Date: 2019-05-03 06:14:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Her lectures can get a bit boring, but other than that I thought she was a great prof! She often gave real world examples for each topic and was always available outside of class. She didn't do many calculation problems in class, however, they were talked over during tutorials. Lab was pretty easy, same with final. Midterm is what wrecked my grade.
+
+--- Rating #4 ---
+Class: CHEM121
+Date: 2019-04-26 21:34:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Pretty poor prof. Her lectures are so boring if you can even hear them due to her mic not being turned on. During her lectures, she only does a calculation example every once in a while compared to the homework online that's mostly calculations. Labs were fine because the TAs were bros.
+
+--- Rating #5 ---
+Class: CHEM121
+Date: 2019-03-12 22:31:10 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She goes through lecture slides way too quickly. Boring tone
+
+--- Rating #6 ---
+Class: CHEM111
+Date: 2019-01-05 19:56:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Lee was an amazing prof, although her lectures became boring her teaching style is great. she knows how to get information across and assignments are fair.
+
+--- Rating #7 ---
+Class: CHEM111
+Date: 2018-11-15 13:03:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Had a three year break from my most recent year of Chemistry (grade 11), Lee was able to do a great job of getting me back up to speed! Can be a bit sarcastic if you don't already have a bit of an idea of what is going on, but is very kind and happy to help you out!! Lectures are great, but lots of blank slides for inclass examples!! So don't skip!
+
+--- Rating #8 ---
+Class: CHEM111
+Date: 2018-11-13 14:54:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Always take notes on the in-class problems because they don't appear on the online slides, and the midterms are fairly rushed so make sure you're prepared to solve equations quickly. Other than that the labs aren't too difficult and the concepts in class are clear. The Lon Capa assignments are a good indicator of what questions are on the tests.
+
+--- Rating #9 ---
+Class: CHEM110
+Date: 2018-04-13 12:55:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+One of the best CHEM course I ever took. She is super nice and very helpful. Her lectures make your life way easier than you think. Just need to read the textbook if you missed the lecture, otherwise her lectures are way better than textbook. Highly recommend this instructor to those who hates CHEM. You will love this instructor.
+
+--- Rating #10 ---
+Class: CHEM121
+Date: 2017-08-31 03:27:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Her lectures are pretty dry, but she is super helpful if go to her office hours. Midterms and finals are easy if you studied.
+
+--- Rating #11 ---
+Class: CHEM121
+Date: 2017-07-24 14:21:10 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Hanlan has kind of a boring voice.  Her lectures are helpful, and she does not fill in the blanks on the powerpoint slides as an incentive for you to attend lecture.  Her midterm and final were pretty fair.
+
+--- Rating #12 ---
+Class: CHEM121
+Date: 2017-04-28 13:18:16 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+i didn't really rely on lectures for my learning, i rarely went bc they were so dry & waste of time. She can come across as rude. You will have to do majority if not all ur learning on your own. MT and Final were tough but no surprises.
+
+--- Rating #13 ---
+Class: CHEM121
+Date: 2017-04-06 13:48:52 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures are so dry. So so dry. Honestly it's like having an audio book because all she does is read off her slides which primarily are based off the text book. Her tests are fair, and she is a pretty nice person, but so.. so.. dry..
+
+--- Rating #14 ---
+Class: CHEM111
+Date: 2016-12-11 03:38:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She reads off her slides most of the time and doesn't quite explain things her own way. What she teaches is whatever is in the text. Sometimes she uses similar examples from the text as well, which isn't very helpful when they are easy examples. She tends to put harder examples in her exams, so watch out. Must attend lectures to complete notes tho.
+
+--- Rating #15 ---
+Class: CHEM111
+Date: 2016-08-26 02:47:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+BEST CHEMISTRY TEACHER EVER. Midterms and exams were super easy (but you actually have to study)! Lee Hanlan is super organized and explains concepts in lecture very clearly. As long as you attend lecture and put in some work you should get a decent grade! She does get a little sarcastic when you ask her "stupid" questions though.
+
+--- Rating #16 ---
+Class: CHEM121
+Date: 2015-07-20 13:54:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Can't really complain about this class. Lectures sometimes feel very long and drawn out but exams are very fair, no surprises. There's a super annoying snowboarder chick that yaps all class with her friend but if you do so much as cough she will attack you like an angry bear so watch out for her. Otherwise, great class with nice people.
+
+--- Rating #17 ---
+Class: CHEM121
+Date: 2015-05-23 19:46:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+A good prof but doesn't put much effort into teaching.
+
+--- Rating #18 ---
+Class: 121
+Date: 2015-03-28 15:01:41 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She goes through lectures super fast, and they are quite boring too. I always need a cup of coffee before her class. If you go to her office hours, make sure you already know at least a little bit about the topic as she can get rude and sarcastic if you don't know anything. Study from the text and go to tutorials, and you'll do fine.
+
+--- Rating #19 ---
+Class: CHEM121
+Date: 2014-11-11 15:49:01 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Her midterms are easy; however, the thermodynamics section tends to be really confusing so I recommend going to her office hours for further explanation. Although, her lectures are pretty dry and boring.
+
+--- Rating #20 ---
+Class: C236
+Date: 2014-09-03 21:40:40 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+She was overall fair as an instructor. She, however, really needs to work on that attitude... Her rude, cold behavior was infectious (and not in a good way) contributing to a toxic cesspool of an environment. Whenever she was coming to start the lab, the first thing I thought of was hundreds of drums leaking radioactive waste into a lake.

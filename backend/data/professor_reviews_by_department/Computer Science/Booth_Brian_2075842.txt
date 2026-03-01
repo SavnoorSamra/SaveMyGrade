@@ -1,0 +1,63 @@
+Professor: Brian Booth
+Professor Legacy ID: 2075842
+Professor ID: VGVhY2hlci0yMDc1ODQy
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.6
+Avg Difficulty: 5
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: CMPT300
+Date: 2015-12-22 15:25:10 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+The lecture notes were of little help with the exams compared to the sample exams. A large number of students could not even submit a solution for the assignment because he refused to extend deadlines and he only provided cryptic, general support.
+
+--- Rating #2 ---
+Class: CMPT300
+Date: 2015-12-22 14:28:58 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+I'm a good student (4.0 GPA), but this guy was something else. Tests were heavy on critical-thinking, but the notes didn't prepare for that at all. Assignments had inconsistent difficulties (unlike what he promised). On many occasions, I was on the verge of a nervous breakdown because of his apathetic attitude to students. Take at your own risk.
+
+--- Rating #3 ---
+Class: CMPT300
+Date: 2015-12-21 02:41:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Brian's a good guy and it's clear he wants his students to succeed. His assignments are brutal though. Lectures are focused just on theory so you are expected to learn a lot of C on your own. I imagine the course being much easier with Pearce but if you want to actually learn I strongly recommend taking it with Brian.
+
+--- Rating #4 ---
+Class: CMPT300
+Date: 2015-12-03 01:32:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Brian is a great lecturer and EXTREMELY helpful in office hours, especially email. Kudos, very refreshing! That being said, his assignments were brutal and extremely time consuming. Be prepared to WORK A LOT. Exams were tough, you really need to know the material well. Blind memorization will get you nowhere.  Take it if you want a challenge.

@@ -1,0 +1,245 @@
+Professor: Alireza Noori
+Professor Legacy ID: 3123309
+Professor ID: VGVhY2hlci0zMTIzMzA5
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 2.2
+Avg Difficulty: 3.4
+Num Ratings: 18
+Would Take Again Percent: 38.8889
+
+Ratings Count Returned: 18
+
+--- Rating #1 ---
+Class: PHYS100
+Date: 2026-02-04 20:57:50 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Unclear, goes in circles, teaching pace is not well. Slides do not help, I left 20 minutes into lecture multiple times because I think it is no use to listen. He really needs to brush up
+
+--- Rating #2 ---
+Class: PHYS100
+Date: 2026-01-05 19:09:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+finals are very easy with application questions mostly encountered in course. was very good in helping transition from formula spamming to actually piecing together equations esp for foundation physics.
+
+--- Rating #3 ---
+Class: PHYS100
+Date: 2026-01-05 04:55:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Alireza is a good prof. This was his first time teaching but he did well. His quizzes are basically just the Iclicker questions, if you understand the concepts and reread his notes you should be fine.
+
+--- Rating #4 ---
+Class: PHYS100
+Date: 2025-12-21 02:38:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He isn't bad as explaining might make it complicated sometimes but as long as you do your homework and pre lecture questions you will be fine.The tests are reasonable difficulty as well.
+
+--- Rating #5 ---
+Class: PHYS100
+Date: 2025-12-19 22:59:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+First time teaching, in lecture content doesn't match quiz's, tutorials or homework. Doesn't explain things well. Very nice person but just unfortunately not the greatest teacher. Lots of mandatory in person iClicker questions.
+
+--- Rating #6 ---
+Class: PHYS100
+Date: 2025-12-17 18:51:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+wouldn't recommend this class, because teacher is a tough grader and not that helpful.
+
+--- Rating #7 ---
+Class: PHYS100
+Date: 2025-12-16 21:54:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I understand this is his first time teaching, but my goodness this was not it. If you can avoid this prof do it by all means necessary. He does literally 0 teaching. You go into class and he just does IClickers assuming you are an expert on the subject after watching 10 minutes of Achieve videos. Do not take this prof, if you do, teach yourself.
+
+--- Rating #8 ---
+Class: PHYS100
+Date: 2025-12-05 01:29:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He isn't technically a professor (which he has stated before) and I was in his first ever class. What will be on quizzes and exams weren't always clear but using the course schedule was helpful. Assignment and tutorial markings were very fair and was always open to feedback (very good). I enjoyed the classes so, I don't get the hate.
+
+--- Rating #9 ---
+Class: PHYS100
+Date: 2025-12-04 19:40:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Lectures don't match the homework, and tutorials are useless because the worksheets aren't aligned. You basically teach yourself. He never says what's on quizzes, midterms feel random, and everything is super unorganized.
+
+--- Rating #10 ---
+Class: PHYS100
+Date: 2025-12-02 19:33:45 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+very nice guy and cares about students but new teacher and doesn't properly teach during lectures. reading and outside teaching yourself is a must bc midterms are so hard. attendance isn't mandatory but iclicker makes it so it is
+
+--- Rating #11 ---
+Class: PHYS100
+Date: 2025-12-02 07:04:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prof. Noori was a solid professor, it was his first time teaching the course. And it wasn't perfect but he did a good job. He often asked us how we felt about the tests and based on the class' response he would try and mark it however necessary so the class would get a good average. And he will only get better as a professor.
+
+--- Rating #12 ---
+Class: PHYS100
+Date: 2025-12-01 22:23:40 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's not terrible but you'll be teaching yourself. He's great at helping with questions and if u need help boosting a grade, but since it's his first time his midterms were super hard because the wording is the main issue. Not the worst not the best
+
+--- Rating #13 ---
+Class: PHYS100
+Date: 2025-11-21 20:40:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's a new prof and I was in his first ever class. He's nice but doesn't really teach, he overcomplicates problems with simple answers, making it confusing. The stuff we cover in class is so easy but the work on tests, quizzes, and homework are very hard. The marking is fair though. I felt like i taught myself the whole course.
+
+--- Rating #14 ---
+Class: PHYS100
+Date: 2025-11-21 20:38:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This professor is not worthy of teaching an essential first year university course such as Phys 100. The way he teaches is sloppy and amateurish. I get that this is his first time teaching, but that doesn't excuse him from his over reliance on boring lectures that mainly consist of him blabbing and poorly explaining critical physics concepts.
+
+--- Rating #15 ---
+Class: PHYS100
+Date: 2025-11-21 19:43:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+In his first ever class, but his organizational skills are horrific. He wants everyone to do well so he offers a lot of extra credit on group activities, but when asking for help he tells you to ask Chatgpt instead. MC questions are worth so little in his exams, if you don't do well on the written, it doesn't matter what you get on the MC.
+
+--- Rating #16 ---
+Class: PHYS100
+Date: 2025-11-21 06:40:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+As someone who's never taken a physics course before, he makes it so difficult to understand. The material covered in lecture and iClicker is so mellow compared to what's given in tutorials and exams. He goes over practice problems so quickly, I don't even know where he gets the numbers or formulas sometimes. Idk why he's teaching an intro course.
+
+--- Rating #17 ---
+Class: PHYS100
+Date: 2025-11-19 01:51:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Awful lectures, so much iClicker, lectures go overtime every lecture. Not sure why SFU had him teach an intro course with no prior experience. Nothing makes sense, and a lot of people feel like they have no baseline physics knowledge now. He's very sweet and caring, but that doesn't really cut it in my book.
+
+--- Rating #18 ---
+Class: PHYS100
+Date: 2025-11-17 21:02:08 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+i was a student in his first ever class, so he gets some grace. the lectures weren't always the most well-timed or smooth, but he gets excited over physics and always answers questions should students have them. not the most engaging lectures. but overall he is a decent professor. i'd take a class with him again.

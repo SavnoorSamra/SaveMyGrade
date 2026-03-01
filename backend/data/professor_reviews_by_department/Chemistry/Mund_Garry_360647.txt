@@ -1,0 +1,272 @@
+Professor: Garry Mund
+Professor Legacy ID: 360647
+Professor ID: VGVhY2hlci0zNjA2NDc=
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 4.6
+Avg Difficulty: 2.7
+Num Ratings: 150
+Would Take Again Percent: 96.9231
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CHEM121
+Date: 2025-12-19 21:37:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Super caring professor. His lectures are clear and straightforward. Fair assignments. Tests were slightly harder than the practice questions he gave us. Labs were super fun and engaging.
+
+--- Rating #2 ---
+Class: CHEM121
+Date: 2025-12-19 09:11:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Best professor for chem 121. If you actually want to enjoy this class and learn some cool things, take with Garry. His homework 100% reflects his lecture. He even gives good hints or partially solves homework questions in class. Very friendly and approachable.
+
+--- Rating #3 ---
+Class: CHEM121
+Date: 2025-12-19 02:36:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He was the main prof for 121. The midterms and finals are both quite difficult and made up about 65% of our final mark. Almost all of the exam questions are calculation based but do require multiple steps to solve. The exams are not curved (avg ~52) but the final grade is. Garry has very well done lecture slides that were very easy to follow.
+
+--- Rating #4 ---
+Class: CHEM121
+Date: 2025-12-17 21:30:49 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Garry's a fine professor if you actually get him for a whole semester, but Chem 1 in Fall 2025 had 4 different profs with 4 teaching styles. Made it quite difficult to follow along from person to person, and if you don't teach yourself then you're going to be stuck relying on the curve to pass. Very disappointed with my experience here.
+
+--- Rating #5 ---
+Class: CHEM121
+Date: 2025-12-16 21:52:49 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Am I the only one who thinks he's mid? I feel like his explanations of the formulas and calcs made things MORE confusing. Infact, my favourite prof from this batch (4 profs total) was Tim Storr. Anyway, Garry's office hours don't help bc he says "I think we covered it in class", leaving you with nothing. Do not take if you can't teach yourself
+
+--- Rating #6 ---
+Class: CHEM121
+Date: 2025-12-13 01:36:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very good prof with clear lectures. Would write out calculations/explanations by hand and made the difficult parts of chem121 so much easier.
+
+--- Rating #7 ---
+Class: CHEM121
+Date: 2025-12-08 22:46:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+lowkey dont know how he has such high reviews. he's nice but man his exams are so hard i think we all failed that final and if u didnt well then i dont wanna hear it. finals are worth 45% so basically you're done for if u fail that! responds to emails relatively quick but not on weekends. u better pray on everyone's downfalls if you want that curve
+
+--- Rating #8 ---
+Class: CHEM121
+Date: 2025-10-22 20:13:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very clear explanations in lectures, nice guy.
+
+--- Rating #9 ---
+Class: CHEM121
+Date: 2025-04-16 21:00:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Garry's so awesome! Very passionate about the material which makes the lectures more engaging. Textbook's required but I never used it to study and still did good. Definitely take a course if Garry's teaching it
+
+--- Rating #10 ---
+Class: CHEM121
+Date: 2025-04-16 05:34:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures have a noticeable portion of fluff (unneeded explanations) but the lecture notes are very easily complete-able just by reading the associated textbook chapters. Fair exams.
+
+--- Rating #11 ---
+Class: CHEM121
+Date: 2025-04-16 01:13:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Gary was an amazing prof for Chem 121! He is very knowledgeable and helpful. His lectures were very clear and organized, which made them super easy to follow and understand. Would highly recommend taking this class with him if you get the opportunity.
+
+--- Rating #12 ---
+Class: CHEM121
+Date: 2025-04-15 23:47:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Garry is an amazing professor who clearly has a lot of passion for the material in lecture, he gives very detailed explanations and always keeps lectures engaging. The exams are all multiple choice but deceptively difficult. However, if you study in advance and keep up with the homework, you will definitely succeed.
+
+--- Rating #13 ---
+Class: CHEM121
+Date: 2025-04-15 20:03:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's a really great guy and explains things well. I would take another chem class with him. I just hated how the final exam was worth 50% of our whole grade. Overall I recommend him for science classes.
+
+--- Rating #14 ---
+Class: 121
+Date: 2025-04-15 19:39:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I don't think I would take 121 with anyone other than Gary, I've had people tell me to take it with him in the past and now I understand why! He makes concepts in this insanely dense course simple to understand. He's always there if you need help and will explain things to you multiple times if needed. If you need Chem, you need Gary!! Highly rec!!
+
+--- Rating #15 ---
+Class: CHEM121
+Date: 2025-04-15 18:35:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Took Chem 121 with garry. Great prof. Cares about material and students. Make sure to study hard for midterm and finals
+
+--- Rating #16 ---
+Class: CHEM121
+Date: 2024-12-31 01:36:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He taught CHEM121LAB this semester. The most clear and caring instructor ever. The Lab Handbook he gives you has all the answers to the post-lab questions. Just literally read it during the lab you don't even need to sweat and do it before. The TA's carry you and give free answers. 
+Garry is a really nice guy I wish he taught the lecture.
+
+--- Rating #17 ---
+Class: CHEM121
+Date: 2024-12-12 04:04:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+took chem lab with Gary and overall it was better then i imagined. the labs were very easy except like one but they were pretty self explanatory if you read. he's a very nice lab instructor and very approachable. for labs make sure to read introductions for each lab as they give clues as what ur solving for in the lab report and do the lon capas
+
+--- Rating #18 ---
+Class: CHEM121
+Date: 2024-12-04 09:23:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Garry is an engaging professor who makes chemistry more approachable. His clear lectures and willingness to help make the course manageable. Using Unstuck study alongside practice problems from the textbook helped me stay on track.
+
+--- Rating #19 ---
+Class: 121
+Date: 2024-11-28 02:56:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prof Mund is lowk chill and easy to talk to. Labs are hella easy if u read the lab manual and do lon capas. Loved this class, loved Prof Mund and loved my TA Hashim. Also lab manual gives hints on what is going to be on the post lab report and instructions are clear.
+
+--- Rating #20 ---
+Class: CHEM121
+Date: 2024-08-20 20:55:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Had Garry for labs, very easygoing and answered questions really clearly. Really recommend putting all loncapa work on lab manual to prep for the lab itself. Makes doing the lab itself really fast.

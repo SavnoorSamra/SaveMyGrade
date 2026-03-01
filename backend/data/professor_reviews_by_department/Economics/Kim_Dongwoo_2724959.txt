@@ -1,0 +1,76 @@
+Professor: Dongwoo Kim
+Professor Legacy ID: 2724959
+Professor ID: VGVhY2hlci0yNzI0OTU5
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 3.4
+Avg Difficulty: 4.6
+Num Ratings: 5
+Would Take Again Percent: 60
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: ECON333
+Date: 2024-01-12 21:25:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great prof
+
+--- Rating #2 ---
+Class: ECON435
+Date: 2022-01-14 20:32:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This is a hard course that requires a lot of work but is 100% worth it. He is great at breaking down confusing concepts with anecdotes and relevant examples. It can get complicated with all the math but he makes it clear that you dont need to perfectly understand everything at this level. Absolute pro at teaching R in a way you wont forget.
+
+--- Rating #3 ---
+Class: ECON435
+Date: 2021-12-23 12:41:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Quite honestly, the hardest ECON course I've ever taken. This course was brutal, but he genuinely wanted you to succeed. We covered A LOT more material than we were supposed to by accident. Probably not the course non-quant ECON majors want to take. That said, it was absolutely worth taking. Great instructor. Insanely hard course.
+
+--- Rating #4 ---
+Class: ECON333
+Date: 2021-12-07 21:18:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Unfortunately, my group and I understood nothing and had to take extra effort it all by ourselves. So unless you're a self-learner, try to take it with Thomas Vigie, because he cares about what he teaches and is easily accessible, whereas this prof tries to look like he is busy. I just asked myself, why did SFU even hire him.
+
+--- Rating #5 ---
+Class: ECON435
+Date: 2021-10-20 18:02:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He's actually nice and always down to explain things, but you need to approach him. I'd say he just assumes that all students have the same level of understanding, which makes his lecture seem dull and hard to grasp for Econ students who haven't taken any STAT before.

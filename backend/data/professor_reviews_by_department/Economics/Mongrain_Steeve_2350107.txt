@@ -1,0 +1,180 @@
+Professor: Steeve Mongrain
+Professor Legacy ID: 2350107
+Professor ID: VGVhY2hlci0yMzUwMTA3
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 3.5
+Avg Difficulty: 3.5
+Num Ratings: 13
+Would Take Again Percent: 53.8462
+
+Ratings Count Returned: 13
+
+--- Rating #1 ---
+Class: ECON302
+Date: 2021-08-08 20:17:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Steeve was so caring that he gave lectures literally from his bed while recovering from emergency surgery, he missed no material even though he had a medical emergency mid semester. He was clear with what the midterm and final would include, so they were easy to prep for. His lectures are mandatory, but I found them to be pretty engaging.
+
+--- Rating #2 ---
+Class: ECON302
+Date: 2021-05-01 07:18:32 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Heavy reliance on exam , gives extra mark due to hard test and quizzes. Hard marker . Had operation halfway during semester .
+
+--- Rating #3 ---
+Class: ECON302
+Date: 2021-05-01 07:11:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+His exams are super tough. his averages are high due to the whole class being bumped up. Since it's an online course , most of the class hired outside help to do their finals and test. However , He doesn't do anything about it . Leaving the legit students to suffer below averages. TA's marks super hard as well.
+
+--- Rating #4 ---
+Class: ECON302
+Date: 2021-04-24 14:29:12 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+The final exam is supposed to be equally weighted but ended putting almost 60% on the last 3 sections. Lots of work.
+
+--- Rating #5 ---
+Class: ECON302
+Date: 2021-04-11 08:18:59 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+At first, I thought he was a good grader until I took his class and found that his mid-term exam questions and practice questions are not at the same level. Many of his mid-term exams are filled in the blanks. If your answer is wrong, it means that you have lost even the steps.
+
+--- Rating #6 ---
+Class: ECON302
+Date: 2021-03-16 16:17:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+He is as sloppy as a prof can get. He does not take his job seriously.
+
+--- Rating #7 ---
+Class: ECON301
+Date: 2021-03-15 23:16:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+The best 302 prof. After the score is given, he is willing to help you change the score if your answer is really reasonable but the TA criticizes it wrong.
+
+--- Rating #8 ---
+Class: ECON302
+Date: 2020-04-24 22:07:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Honestly he is a really nice and understanding guy overall but definitely not the best lecturer. His lecture is so dry but you have to be there for participation quiz games. You pretty much have to teach yourself everything and his notes are so confusing and has a lot of mistakes. Easy grader though!!!!
+
+--- Rating #9 ---
+Class: ECON302
+Date: 2020-04-23 05:43:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+such a nice prof, records his lectures which is really helpful. teaches the course well and material is quite hard, but if u do all the practice questions then u should be at least average of the class.
+
+--- Rating #10 ---
+Class: ECON492
+Date: 2019-04-15 02:42:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Not to stick to trifles. I really like him. He was the best professor I met. Nice to everyone. He might have some mistake, but it will give a chance to check the knowledge you get.
+
+--- Rating #11 ---
+Class: ECON302
+Date: 2019-03-28 22:59:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is very nice. You need to practice a lot on the problem sets. Steeve is the best teacher I meet in my study life.
+
+--- Rating #12 ---
+Class: ECON302
+Date: 2018-12-15 12:01:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The best prof I've ever met! Highly recommended
+
+--- Rating #13 ---
+Class: ECON302
+Date: 2018-07-14 12:28:08 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great teacher, just a lot of work

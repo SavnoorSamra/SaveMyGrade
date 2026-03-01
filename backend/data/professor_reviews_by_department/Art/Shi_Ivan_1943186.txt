@@ -1,0 +1,11 @@
+Professor: Ivan Shi
+Professor Legacy ID: 1943186
+Professor ID: VGVhY2hlci0xOTQzMTg2
+Department (CSV): Art
+Department (Fetched): Art
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

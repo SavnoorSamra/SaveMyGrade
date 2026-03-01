@@ -1,0 +1,11 @@
+Professor: Lin Zhang
+Professor Legacy ID: 3146706
+Professor ID: VGVhY2hlci0zMTQ2NzA2
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

@@ -1,0 +1,271 @@
+Professor: Jinko Graham
+Professor Legacy ID: 208356
+Professor ID: VGVhY2hlci0yMDgzNTY=
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 1.7
+Avg Difficulty: 4
+Num Ratings: 62
+Would Take Again Percent: 14.0351
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: STAT853
+Date: 2026-02-24 17:02:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jinko is an incredible professor. I am really enjoying her class. She explains the concepts really well, and the class generally is very organized in terms of homeworks and projects, and things we need to do. She makes really good assignments that help with learning a lot. I highly recommend taking a class with her if you have the chance to.
+
+--- Rating #2 ---
+Class: STAT330
+Date: 2026-01-03 23:33:04 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+It was Jinko's first time teaching STAT 330. Lectures slides were great, but lectures were ok and hard to follow. Assignments (3 of them) are super long, each submission was 25+ pages. Start early on them. Exams are hard with a page of T/F. Memorize little facts to help with T/F. A double-sided cheat sheet is permitted on each exam. Do textbook Qs.
+
+--- Rating #3 ---
+Class: STAT270
+Date: 2025-12-20 10:09:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I recommend this prof. She had very good slides and they were really helpful for the exams. If you do enough practice you will do well in her course.
+
+--- Rating #4 ---
+Class: STAT330
+Date: 2025-12-14 23:16:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I liked her style of teaching. The slides were very complete, and I found them sufficient for doing well on the exams. Textbook and tutorials helped too. Assignments were very lengthy, but they helped me with understanding the material.
+
+--- Rating #5 ---
+Class: STAT270
+Date: 2025-12-10 14:31:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+TERRIBLE you are paying for a course that was three 50 minute lessons a week.insteadyouare given 10 minute videos prerecorded twice a week that cover little to no content. doesnt give any support we weren't given any midterm practice final practice or any idea of what was covered no midterm solutions and a question on the midterm wasn't in practice
+
+--- Rating #6 ---
+Class: STAT270
+Date: 2025-12-04 05:35:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+The class was good. Lectures consisted of videos posted once a week of problems being worked out that covered concepts she'd emphasize on the midterm/final, and there was ample opportunity to meet with the TA, who was helpful. If you're capable of self study, you'll do fine in her online STAT 270 class.
+
+--- Rating #7 ---
+Class: STAT330
+Date: 2025-11-28 08:55:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I am confused about why people complain about Jinko so much. She never rushed through the course material like a lot of other profs do, and she records her lectures so we can watch back. The course required hard work. I do recommend Jinko if you want to learn a lot but if you just want an easy A, she may not be your cup of tea.
+
+--- Rating #8 ---
+Class: STAT350
+Date: 2025-11-12 06:16:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I'm not one to rate professors, but I had to for this one. If you think taking any course with her won't be too bad think again. Assignments are much harder than what's taught, exams are confusing and unrelated, and the course overall feels disorganized and frustrating.
+
+--- Rating #9 ---
+Class: STAT270
+Date: 2025-08-21 00:48:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Avoid her at all costs.
+
+--- Rating #10 ---
+Class: STAT270
+Date: 2025-08-19 08:45:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+NEVER take her class, online sources was very limited, just 2 videos per chapter, the videos only talked 2 sample questions, which was useless. A LOT of formulas to remember and no cheat sheet on the test. The formula sheet she gave on the test was the most basic one, and barely use them.
+
+--- Rating #11 ---
+Class: STAT270
+Date: 2025-08-14 23:01:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Course was heavy on self-study but the prof was helpful to answer all my emails and questions. She uses simple languages and explain the materials well. Grading was fair.
+
+--- Rating #12 ---
+Class: STAT270
+Date: 2025-08-09 20:45:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+I highly recommend NEVER taking her class, ESPECIALLY  if you have accommodations, because she will fight to not accommodate you. Definitely needs a lesson on equity vs equality.
+
+--- Rating #13 ---
+Class: STAT270
+Date: 2022-08-27 22:53:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+A truly disturbing experience.
+
+--- Rating #14 ---
+Class: STAT270
+Date: 2022-08-22 02:51:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Worst experience. She does not put the minimum effort to run the class. Usually reads off from the textbook (which is not what a Prof is supposed to do in the class). Very aggressive toward feedback. I think she herself does not know the material. All reviews you read about her here is CORRECT. She should not be teaching despite her performance.
+
+--- Rating #15 ---
+Class: STAT270
+Date: 2022-08-20 06:28:01 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Tough class because I believe Mrs.Graham is unfamiliar with the technology used post covid. Little to no lecture slides, question forums, ressources or announcements made outside of lectures. Textbook was incredible and her tests are fail, but be prepared to do a lot of youtube scouring and studying on your own time.
+
+--- Rating #16 ---
+Class: STAT270
+Date: 2021-11-25 23:21:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Avoid Jinko like the plague
+
+--- Rating #17 ---
+Class: STAT270
+Date: 2021-03-24 23:51:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Worst class I've taken at SFU. She never made adjustments to quizzes or exams even though the class would constantly give her feedback and ideas to improve the course. There were no assignments or midterms, all grades were determined from quizzes and 1 final exam. There was no syllabus of recommended textbooks questions or lecture outline.
+
+--- Rating #18 ---
+Class: STAT270
+Date: 2021-01-07 09:09:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Probably the worst professor of SFU. More than half of the class was failing the quizzes which were 12% each of the total grade. To justify this she said in class,  you have to live with it. Moreover quizzes were lengthy and tough. Time given for each quiz is horribly low. If you think you GPA is too much take this course with Jinko.
+
+--- Rating #19 ---
+Class: STAT270
+Date: 2020-12-24 18:56:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Professor Graham has failed to deliver the course content in my perspective. Lectures in no way helped me to understand the subjects in the course, and learning objectives are often unclear. The textbook is dense and it is the only reliable source of learning along with external sources. Grading from only 6 quizzes and 1 exam is very uninspiring.
+
+--- Rating #20 ---
+Class: STAT270
+Date: 2020-12-21 22:17:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Poorly delivered course. 65% of overall grade came from 5 quizzes each 25mins long. All quizzes but 1 had massive issues such as the TA not sending us the required graphs, canvas kicking everyone out, etc. Minimal communication between profs, and wouldnt answer emails until the day before the final. Read word for word from the textbook for lecture.

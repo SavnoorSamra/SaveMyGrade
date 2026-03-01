@@ -1,0 +1,89 @@
+Professor: Shereen  Khan
+Professor Legacy ID: 2037574
+Professor ID: VGVhY2hlci0yMDM3NTc0
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 3.2
+Avg Difficulty: 3.3
+Num Ratings: 6
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: EDUC323
+Date: 2023-05-13 22:52:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Does not listen to students.
+
+--- Rating #2 ---
+Class: EDUC323
+Date: 2022-11-23 02:30:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+This professor is so compassionate about her field and is happy to share this with her students. I loved the seminar approach to this course. This professor was always available outside of class time and provided very relevant information for applying to graduate programs in the field.
+
+--- Rating #3 ---
+Class: EDU323
+Date: 2021-10-22 19:55:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Best online course taken over the summer. Learned so much about the various theories. She was caring and empathetic and the group assignments were fun to do. ALso shared a lot of information that is helpful when applying to graduate school and preparing for working in the mental health field.
+
+--- Rating #4 ---
+Class: EDUC323
+Date: 2015-12-02 03:00:38 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Shereen is very kind and personable. However, the course was essentially taught by the students because every week a group had a presentation which presented the material for that week. She also does not give very informative feedback and her quizzes are MC and take random tidbits of info from a large textbook which makes them tricky.
+
+--- Rating #5 ---
+Class: EDUC328
+Date: 2015-10-17 16:37:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+I was really hoping to learn something here. Talks about being reflective in practice but very much isn't.
+
+--- Rating #6 ---
+Class: EDUC328
+Date: 2015-09-04 02:28:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Helpful, compassionate and overall made genuine efforts to accommodate student needs. If you attend the course, do the assigned work and keep up with the readings you will get an A.

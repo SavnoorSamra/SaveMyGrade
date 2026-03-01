@@ -1,0 +1,89 @@
+Professor: William Ruth
+Professor Legacy ID: 2467274
+Professor ID: VGVhY2hlci0yNDY3Mjc0
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 4.8
+Avg Difficulty: 2.5
+Num Ratings: 6
+Would Take Again Percent: 100
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: STAT201
+Date: 2019-04-29 20:29:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+For a new prof, he is quite exceptional. Very friendly and open to questions about the material. Midterms and Finals are quite easy for the most part. The only real but minor problem is that his slides are way too long and inefficiently put together. Print the notes released after lecture as the ones he releases before could have lots of errors.
+
+--- Rating #2 ---
+Class: STAT201
+Date: 2019-04-17 20:31:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Honestly if you're planing to take stats take it with William. He made the course more bearable and easy to understand. You just have to put the effort into it and do the practice problems then you are guaranteed a good mark.
+
+--- Rating #3 ---
+Class: STAT201
+Date: 2019-04-17 06:44:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Would highly recommend taking STAT 201 with William, he is by far the best prof at SFU that teaches it. He actually cares about his students and goes above and beyond to make sure you understand the material and that grading is fair. His slides are great and his exams are just like the assignments and practice!
+
+--- Rating #4 ---
+Class: STAT201
+Date: 2019-04-05 05:51:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+On my teacher assessment I wrote, give him anything he wants, he is the future of your department. Very Good at teaching, not just reading the slides, and he is sympathetic to how busy students get during exams and things. He made classes enjoyable, fun, and relatable. I am so impressed with his ability to teach.
+
+--- Rating #5 ---
+Class: STAT201
+Date: 2019-03-22 02:55:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He's a really nice guy and really clear with what he expects on exams, and even gives hints and bonus to help you out! He honestly has amazing lecture slides that are easy to understand with TONS of examples for you to actually learn how to use the material! He teaches this course really well!
+
+--- Rating #6 ---
+Class: STATS201
+Date: 2019-03-06 04:54:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof really made stats 201 enjoyable and uses piazza to answer your questions online and it always gets answered he really helps a lot on assignments. Has great powerpoints easy to follow along and provides great examples.

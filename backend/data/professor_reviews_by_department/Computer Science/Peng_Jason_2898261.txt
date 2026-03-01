@@ -1,0 +1,37 @@
+Professor: Jason  Peng
+Professor Legacy ID: 2898261
+Professor ID: VGVhY2hlci0yODk4MjYx
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.5
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: CMPT729
+Date: 2024-12-06 00:45:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is truly the GOAT. He's super intelligent, knowledgeable, and one of the most caring professors I've ever seen. Highly recommended.
+
+--- Rating #2 ---
+Class: CMPT361
+Date: 2023-12-15 23:39:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+a nice guy. very clear lecture. patient with every question.

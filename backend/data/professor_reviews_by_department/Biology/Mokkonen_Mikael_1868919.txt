@@ -1,0 +1,232 @@
+Professor: Mikael Mokkonen
+Professor Legacy ID: 1868919
+Professor ID: VGVhY2hlci0xODY4OTE5
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 2.7
+Avg Difficulty: 3.4
+Num Ratings: 17
+Would Take Again Percent: 50
+
+Ratings Count Returned: 17
+
+--- Rating #1 ---
+Class: BISC422
+Date: 2021-03-09 09:37:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Tests were very heavy and unrealistic. He rarely answers emails.
+
+--- Rating #2 ---
+Class: BISC300
+Date: 2020-07-28 21:48:52 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Mika was a great person and was accommodating during online classes due to COVID; however, I found his lecturing poor as it sounded like he was just going off a script. I also thought the assignments given in this class were unnecessary and didn't give proper opportunity to show what you learned. Tests were fair. Good person, poorly designed class.
+
+--- Rating #3 ---
+Class: BISC204
+Date: 2020-04-17 20:16:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I don't get why Mika gets so much hate. He is super sweet, helpful in office hours, and looks out for his students.
+
+--- Rating #4 ---
+Class: BISC100
+Date: 2019-09-02 20:24:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Mika was a great professor for a 1st year Biology course. He explained things very clearly, his lecture slides wereeasy to understand, and experiments in the lab portion of the course mostly helped elivate understanding of the lecture material. Your grade is based on 2 lab exams and 3 lecture exams. They were non cumulative. Great prof.
+
+--- Rating #5 ---
+Class: BISC300
+Date: 2019-08-02 23:28:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Although lecture slides weren't always the most clear, lectures themselves were decent and exams were fair. Mika does a good job of explaining concepts and pointing out particularly important information, and the course content itself is quite interesting. Definitely a solid prof.
+
+--- Rating #6 ---
+Class: BISC100
+Date: 2019-08-01 19:57:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Mika is a really good professor and willing to solve students questions. The office hour is super helpful, you will have a fantastic chat with this funny teacher! The exam is not really hard if you memorize concepts and words on lecture slides!!
+
+--- Rating #7 ---
+Class: BISC300
+Date: 2019-06-05 19:07:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He doesnt seem to know what hes talking about. He reads off the lecture slides (which I doubt was made by him) and he still has a hard time getting the main points across. It feels like a high school kid is attempting to teach a university level course by skimming through the textbook once. Do not recommend this prof.
+
+--- Rating #8 ---
+Class: BISC202
+Date: 2018-07-13 18:13:27 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He just reads off the slides and when someone asks a question, he gives a really vague answer. His slides and pre-lecture videos aren't even made by him, tons of iClickers. His exam is so-so, a lot of stuff not even covered during lec. I have to basically self teach myself. TAs seem much more knowledgeable. Aside, he's friendly.
+
+--- Rating #9 ---
+Class: BISC202
+Date: 2018-07-13 12:53:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+the exams and the homework/lecture slides dont correlate at all
+
+--- Rating #10 ---
+Class: BISC202
+Date: 2018-07-13 12:52:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+standard read off the slide prof, except the slide dont even have any info theyre just all iclicker
+
+--- Rating #11 ---
+Class: BISC202
+Date: 2018-07-09 00:04:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+the lectures and mastering gentics are a level 1 and the exams are a level 10, wish he actually taught in lecture rather than doing iclicker
+
+--- Rating #12 ---
+Class: BISC202
+Date: 2018-07-04 17:25:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+he doesnt really seem to know anything about the course, he makes us watch pre lecture videos which are essentially the lecture, and then during lecture time all he does is iclicker questions. the answer for the question is never explained by him, he asks a student to explain the solution, and the rest of the class can never hear or understand
+
+--- Rating #13 ---
+Class: BISC316
+Date: 2018-01-29 22:32:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He wants students to do well and to not worry about the marks because there is a lot of material to study. Would take another course with him!
+
+--- Rating #14 ---
+Class: BISC316
+Date: 2018-01-03 16:59:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This class has a lot of material. He's super approachable and very interactive during the labs. He is a generous marker and scales based on the class average considering how the students performed. His midterms were based on his lecture notes (50min during lecture) and the final was super easy (all from the lecture notes-- and NOT cumulative!!!).
+
+--- Rating #15 ---
+Class: BISC316
+Date: 2017-12-13 12:15:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This class is very heavy in Material, and it may not always be interesting until the last section of the class. Mika was a very generous marker! The midterms/exams were all based on his notes! He was very approachable and helpful in class. I got an A-, also the class was scaled.
+
+--- Rating #16 ---
+Class: BISC300
+Date: 2017-12-08 15:24:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Pretty clear as far as lecturers go, and the slides were more or less self explanatory. The quizzes were okay, if a little picky. His final straight from the slides. Nice guy.
+
+--- Rating #17 ---
+Class: BISC422
+Date: 2013-12-20 19:19:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Terrible class. Lecture slides are full of mistakes and are only posted after the lecture. Lots of readings. Concepts are interesting. Only take it if you are willing to take a bad grade.

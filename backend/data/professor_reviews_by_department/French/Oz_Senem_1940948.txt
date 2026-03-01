@@ -1,0 +1,89 @@
+Professor: Senem Oz
+Professor Legacy ID: 1940948
+Professor ID: VGVhY2hlci0xOTQwOTQ4
+Department (CSV): French
+Department (Fetched): French
+Avg Rating: 4.8
+Avg Difficulty: 1.2
+Num Ratings: 6
+Would Take Again Percent: -1
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: FREN120
+Date: 2015-03-28 23:55:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Senem is by far the most caring instructor I've ever had. She really wants everyone to pass with great grades, as well as truly learn French. Went into this class expecting a bore and came out entertained and supported by Senem. She'll stay late to help you with work and her tests are really easy because she'd rather we actually learn the language.
+
+--- Rating #2 ---
+Class: FREN120
+Date: 2014-11-13 14:35:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+If you are interested in French, you should take fren120 with Senem. She is one of the best instructors I have ever met at SFU. She is there for you and will help you to succeed the course.
+
+--- Rating #3 ---
+Class: FREN120
+Date: 2014-11-13 14:23:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+What I wanna say is she is awesome, helpful, and nice-being
+
+--- Rating #4 ---
+Class: FREN120
+Date: 2014-11-12 23:51:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is a very good teacher. If you attend classes and do your homework you will ace the course easily.
+
+--- Rating #5 ---
+Class: FREN120
+Date: 2014-11-12 23:27:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I took Fren 120 with Senem last Fall. I would say that she was the best prof for me so far. It was an introductory french course, so if you put the effort to learn the new things (new vocabulary), you will definitely learn amazing things and fall in love in french. She is super clear, very helpful and always makes engages with the students.
+
+--- Rating #6 ---
+Class: FREN120
+Date: 2014-11-12 03:59:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Senem was such an amazing professor. She always helps, provides extra material and really wants you to learn. The class is very easy and fun, enjoyed it a lot!

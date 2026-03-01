@@ -1,0 +1,271 @@
+Professor: Julian Somers
+Professor Legacy ID: 1227224
+Professor ID: VGVhY2hlci0xMjI3MjI0
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 2.9
+Avg Difficulty: 3.2
+Num Ratings: 58
+Would Take Again Percent: 38.8889
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: HSCI180
+Date: 2026-01-29 19:59:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Don't take this class no matter what
+
+--- Rating #2 ---
+Class: HSCI180
+Date: 2025-12-02 01:02:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Avoid at all cost
+
+--- Rating #3 ---
+Class: HSCI180
+Date: 2025-09-26 00:11:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His lectures don't make any sense, there is no main point. All we do is go in circles. And now there's a midterm???
+
+--- Rating #4 ---
+Class: HSCI180
+Date: 2025-09-18 22:11:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+No hate, he seems to be very chill. He likes to ramble, maybe it's subconscious &#8212;but it would make it a lot easier to pay attention if he were more concise. We often get off track, and I would lose sight of what we were discussing in the first place.
+
+--- Rating #5 ---
+Class: HSC100
+Date: 2024-06-04 23:49:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great, profesor! Keep up fighting the good fight Dr. Somers!
+
+--- Rating #6 ---
+Class: HSCI180
+Date: 2024-04-15 07:07:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+had over 30 readings and the exams (no MCQ) only focused on reading comprehension, not the three hour lectures he spends hardly teaching the readings. attendance isn't counted/no iclicker but you can only find him at lecture because he did not post office hours, TA information, or his email in the syllabus, and if you email him he does not reply.
+
+--- Rating #7 ---
+Class: HSCI485
+Date: 2024-03-20 21:07:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr Somers went off topic so often in lectures. He would do this so often it felt like he just enjoyed the sound of his own voice. I didn't like his teaching style as I felt he often would just read off of slides, and I disagreed with his political views about substance use. Avoid if possible.
+
+--- Rating #8 ---
+Class: HSCI214
+Date: 2023-03-25 23:20:23 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+took this last semester and it was hands down one of the easiest courses I've ever taken. test material is all on readings so you don't need to go to lecture (I think I went to two and got a 94). memorize reading material for the midterm, and for the final, he gave the questions in advance so as long as you prepare you'll be good to go!
+
+--- Rating #9 ---
+Class: HSCI214
+Date: 2022-12-14 16:33:10 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Don't be fooled by the title. This course is not about mental illnesses (emphasis on the plural), its about addiction. Lots of readings and lectures are kind of redundant and not really required in order to do well on the tests but I would definitely recommend going to tutorials. There is lot of content to memorize, be prepared to read.
+
+--- Rating #10 ---
+Class: HSCI214
+Date: 2022-12-09 01:01:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+The content was very interesting and I personally loved being in this class, however, grades are only based on exams and tutorial participation which can be stressful as you don't have anything else to boost mark. Exams are pretty fair though so I didn't worry too much but it is ALL based on the readings and there were LOTS of readings assigned.
+
+--- Rating #11 ---
+Class: HSCI214
+Date: 2022-12-08 23:42:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the most interesting classes that I have taken under the Health Science Department. Prof. Somers is very passionate about his job. It is not an easy class but as long as you read the articles and attend tutorials then you can ace the exams. Prof. is opens up room for suggestion and improvement! It changed my view about public health.
+
+--- Rating #12 ---
+Class: HSCI180
+Date: 2021-12-21 01:09:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+he makes you read 7+ articles for each chapter and does not teach the articles in class. goes on tangents in class and you basically have to teach yourself and memorize lots or articles to do well
+
+--- Rating #13 ---
+Class: HSCI180
+Date: 2021-12-10 02:24:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+I am so glad I took HSCI180 with Julian this semester. The exams were fair and I did well on all. I didnt fully read the papers we were tested on, and I managed to get high 90s for each exam. Julian was an incredible prof, he brings tons of relevant experience to this course, hes hilarious, approachable and all around an excellent addition to FHS
+
+--- Rating #14 ---
+Class: HSCI180
+Date: 2020-01-13 02:35:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+This class was so full because its drugs and society and sounds interesting, but prof somers found a way to BUTCHER it. more of a researcher than a prof. He would read over slides and it was clear that it was the first time he was seeing this information. Exams were brutal test bank questions from a dense textbook and too specific. Waste of credit
+
+--- Rating #15 ---
+Class: HSCI180
+Date: 2019-12-24 02:36:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Truly the most terrible professor. He first needs to realize his responsibly as a professor before going out and teaching, not sure how this guy has decades of experience. Never take his course.
+
+--- Rating #16 ---
+Class: HSCI180
+Date: 2019-12-15 00:13:34 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+By far the worst class I'v ever taken. Exams were extremely difficult and lectures were brutal. It was just way too much information to know for the exams and he did not teach anything in lecture, he just skimmed over slides and basically expected you to learn yourself.
+
+--- Rating #17 ---
+Class: HSCI180
+Date: 2019-12-12 05:17:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I hated his class. Period. He reads off slides that are not his and is genuinely so lazy. Midterm was hard and unfair. He really likes to go off-topic and by the end of the lecture when he wants to leave he skims through a slide with a lot of information in 2 seconds.
+
+--- Rating #18 ---
+Class: HSCI180
+Date: 2019-11-27 23:30:01 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Julian is definitely unprepared in terms of teaching lectures. If you want to do well in this class, get ready to teach yourself through the textbook. He has iClicker quizzes worth 30% at the beginning of class so reading the textbook and coming to class is mandatory! Other than that, he's not the worst prof but he definitely isn't the best.
+
+--- Rating #19 ---
+Class: HSCI485
+Date: 2019-11-10 03:53:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Somers is an awesome prof &#55358;&#56599;
+
+--- Rating #20 ---
+Class: HSCI180
+Date: 2019-11-09 08:35:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+worst professor ever.

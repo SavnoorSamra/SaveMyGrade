@@ -1,0 +1,141 @@
+Professor: Gordon Rein
+Professor Legacy ID: 2188209
+Professor ID: VGVhY2hlci0yMTg4MjA5
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.2
+Avg Difficulty: 2.5
+Num Ratings: 10
+Would Take Again Percent: 70
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: BUS341
+Date: 2017-09-02 04:33:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+amazing prof !! provides relevant feedback and helps you throughout the course. Interesting lectures and exams are fair if you read the textbook and pay attention in class.
+
+--- Rating #2 ---
+Class: BUS343
+Date: 2017-07-12 00:13:00 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Not the best prof but he was okay. He was very disorganized but was reachable after class. his office hour was helpful, however, TAs do most of the markings on assignments.
+
+--- Rating #3 ---
+Class: BUS343
+Date: 2017-04-19 01:55:08 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+No need to go to lectures. Gordon likes to pick on people to participate. He is also very lazy and takes forever to upload marks. However, his exams are really easy and you will receive an A if you ace them. The other assignments aren't really worth much so little effort is required.
+
+--- Rating #4 ---
+Class: BUS201
+Date: 2017-03-15 01:36:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He's a funny prof with a great sense of humor but rambles quite a bit. Gives lots of examples that directly apply to what we were learning in class. Was quite spontaneous with things like quizzes, he sometimes called them off simply because he didn't feel like giving them out. Just read and memorize the textbook, understand the HBRs and your good.
+
+--- Rating #5 ---
+Class: BUS446
+Date: 2017-03-08 23:02:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Best prof I've ever had, had him for b2b as well as marketing strategy. Got A+ in both!! Highly recommend, he has a very laid back way of teaching and is pretty funny
+
+--- Rating #6 ---
+Class: BUS201
+Date: 2017-01-29 17:54:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+It was the first time Gord taught the course and he did a decent job. Get ready to do a lot of group projects with people you don't know. Attending lectures was only useful for the in class quiz days as he posted his lecture slides online. Main concepts from notes and quizzes were the exam questions. Prepares you well for the written part of final.
+
+--- Rating #7 ---
+Class: BUS201
+Date: 2016-12-19 21:54:52 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is a very sarcastic professor who has not taught BUS 201 before. I personally thought that just studying from the textbook was good enough for his course, as he simply regurgitated what was already in the book during lectures. If possible, try to get another professor who has more experience in this course.
+
+--- Rating #8 ---
+Class: BUS201
+Date: 2016-12-17 03:46:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+First time he has taught this course, however, he didn't seem to know the material too well. Tended to read off slides and go off topic and ramble on about his UBC and .com days. He marks 2/3 assignments max and doesn't give actual solid criteria or marking breakdown. Review class prior to final exam was LACKING compared to other BUS201 professors.
+
+--- Rating #9 ---
+Class: BUS343
+Date: 2016-11-21 23:18:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The best prof ever
+
+--- Rating #10 ---
+Class: REIN97694
+Date: 2016-11-08 15:01:52 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures are practically useless and very boring, you have to teach yourself from the textbook. Exams are fair. Criteria for projects and assignments always vague.

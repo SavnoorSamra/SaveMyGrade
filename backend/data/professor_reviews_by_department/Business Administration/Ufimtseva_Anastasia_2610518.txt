@@ -1,0 +1,50 @@
+Professor: Anastasia Ufimtseva
+Professor Legacy ID: 2610518
+Professor ID: VGVhY2hlci0yNjEwNTE4
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: BUS346
+Date: 2020-12-29 08:46:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very few times have I met profs that truly care about their classes, and their students. BUS346 was NOT easy by any means, but an incredible prof can make all the difference.
+
+--- Rating #2 ---
+Class: BUS346
+Date: 2020-12-29 08:40:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Prof Ufimtseva was amazing and it was a pleasure coming to class day in and day out. Overall, the structure of the course was very well thought out and you could see that a lot of effort was put into its organization. Very kind and thoughtful towards all students.
+
+--- Rating #3 ---
+Class: BUS346
+Date: 2020-07-19 20:01:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+The content of this class is extremely dry and the lectures are very long. The group project portion was 40%, so it was pretty heavy. Anastasia makes this class the best it can be and genuinely cares about her students wellbeing. 10/10 recommend taking it with her.

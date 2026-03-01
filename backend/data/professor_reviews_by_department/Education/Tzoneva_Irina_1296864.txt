@@ -1,0 +1,37 @@
+Professor: Irina Tzoneva
+Professor Legacy ID: 1296864
+Professor ID: VGVhY2hlci0xMjk2ODY0
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 2.8
+Avg Difficulty: 3.5
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: EDUC426
+Date: 2010-08-10 11:56:37 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Don't buy the textbook--it was a waste of money.  Not very clear about her marking or what she expected for the assignments.
+
+--- Rating #2 ---
+Class: EDUC426
+Date: 2010-03-04 17:08:33 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+She is very friendly and soft-spoken.  Expect a lot of group assignments(bulk of your mark) and a bunch of small assignments.  She marks rather hard and it was so unclear why she graded some people a certain way and others differently... also does not like  people questioning their grades.  DO NOT BUY THE TEXTBOOK...WAS NOT NECESSARY FOR ANYTHING

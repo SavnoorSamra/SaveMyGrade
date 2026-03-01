@@ -1,0 +1,154 @@
+Professor: Kate Parnell
+Professor Legacy ID: 2471336
+Professor ID: VGVhY2hlci0yNDcxMzM2
+Department (CSV): General Studies
+Department (Fetched): General Studies
+Avg Rating: 5
+Avg Difficulty: 1.1
+Num Ratings: 11
+Would Take Again Percent: 100
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: ILS101
+Date: 2022-12-15 05:45:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+One of the best professors in the first semester. She's the best choice to study with.
+
+--- Rating #2 ---
+Class: ILSA101
+Date: 2022-03-30 23:31:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+NICE person
+
+--- Rating #3 ---
+Class: ILS101
+Date: 2021-11-19 01:36:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+She is the sweetest prof ever! Her lectures are really interesting n engaging. Come talk to her in the office hours since she's interesting and open to any topics
+
+--- Rating #4 ---
+Class: ILS101
+Date: 2021-05-06 13:15:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Kate Parnell is one of the best instructor. She is super cool and charming. Just take her you won't ever regret it. Her course is damn easy to pass.
+
+--- Rating #5 ---
+Class: ILS101
+Date: 2021-05-05 20:27:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+She makes the course a breeze. She's very cool and empathetic and actually makes the course fun.
+
+--- Rating #6 ---
+Class: ILS101
+Date: 2021-05-05 20:26:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Very friendly and empathetic. Absolutely loved the course because of her.
+
+--- Rating #7 ---
+Class: ILS101
+Date: 2021-05-04 03:06:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+This course was good. Ms Kate was really helpful and kind.
+
+--- Rating #8 ---
+Class: ILS101
+Date: 2021-03-07 10:16:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+She is a very good teacher, her lectures are fun too.
+
+--- Rating #9 ---
+Class: ILS101
+Date: 2020-11-23 11:29:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+She is a great teacher.
+
+--- Rating #10 ---
+Class: ILS101
+Date: 2019-12-09 04:48:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+She is one of the coolest teachers you will come across. Makes the course a lot more fun, though class is for two hours, she gets done with the material fast and lets you leave class earlier. Also, you can talk to her about anything if you are uncomfortable to reach to anyone else.
+
+--- Rating #11 ---
+Class: ILSA101
+Date: 2019-06-06 21:58:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+she is one of the coolest persons i ever met

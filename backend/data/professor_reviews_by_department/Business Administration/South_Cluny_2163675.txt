@@ -1,0 +1,271 @@
+Professor: Cluny South
+Professor Legacy ID: 2163675
+Professor ID: VGVhY2hlci0yMTYzNjc1
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 2.9
+Avg Difficulty: 3.5
+Num Ratings: 20
+Would Take Again Percent: 40
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS345
+Date: 2024-12-11 11:43:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Cluny was a delight to have as a professor, she's organized, thoughtful, and made coming to class engaging. She's the professor that's put the most effort into teaching that I've had so far. There was a decent amount of deliverables, but it's manageable and ~40% is group work (she lets you choose groups!). Easy bonus marks too! Highly recommended.
+
+--- Rating #2 ---
+Class: BUS345
+Date: 2021-03-09 21:41:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Cluny tries to engage the class during lectures, but the activities we do are so pointless and irrelevant to the course content. Her Canvas setup is extremely hard to navigate. A ridiculous amount of work required (e.g. minimum of two chapters per week). Her exam submitted earlier than the deadline on Canvas and she didn't seem to care.
+
+--- Rating #3 ---
+Class: BUS343
+Date: 2020-01-04 06:41:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Professor South made marketing interesting by incorporating lots of videos and examples into lectures. Although the exams were tough, Cluny highlighted the key learning points in the reading and lecture notes to make review easier. The key to dealing with the ambiguous assignments is going to office hours. I enjoyed this class.
+
+--- Rating #4 ---
+Class: BUS343
+Date: 2019-11-11 21:03:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Awful class. Cluny is a good prof while lecturing, however, the course she has designed is awful. Some test questions are ridiculous and the projects throughout the course are time-consuming and extremely unclear. Marketing Rubric is extremely vague and the projects are harshly marked. TAKE WITH SOMEONE ELSE. Extremely poorly designed class.
+
+--- Rating #5 ---
+Class: BUS343
+Date: 2019-11-08 21:03:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The rubric she gave is so vague and she got so many freaking assignments, including a networking event.
+
+--- Rating #6 ---
+Class: EDUC368
+Date: 2019-11-01 00:28:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Cluny seems to be really interested in marketing but her lectures are al very hard to follow. She's posted slides on canvas but the slides are somewhat different from the ones in class, but equally as unorganized. The projects for the course are extremely confusing because youre given barely any guidelines. She doesn't help u prepare for hw at all
+
+--- Rating #7 ---
+Class: BUS343
+Date: 2019-10-25 00:24:31 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Don't really like her lecture, did not talk much about the book but just keep elaborating some points but her lecture sometimes are funny tho. her assignments are so vague, dun realli know what she wants and too much workload.
+
+--- Rating #8 ---
+Class: BUS343
+Date: 2019-07-11 18:44:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Cluny engages her class with her high energy and entertaining examples. She is always willing to help so if you need clarification on key course concepts be sure to go to her office hours since she gives you detailed explanations.
+
+--- Rating #9 ---
+Class: BUS343
+Date: 2019-05-02 08:29:19 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+There are two big projects throughout the semester which require way too much work. The lectures don't really help and there is a lot of memorization to be done for the midterm and final. She assigned an extra lecture for us to watch even though we weren't supposed to have class. The criteria for the work were also not clear so you would lose marks
+
+--- Rating #10 ---
+Class: BUS343
+Date: 2019-03-19 04:44:49 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Her lectures are lively and she shows enthusiasm towards marketing. However, her class materials are unorganized on Canvas and it is difficult to look for the assignments that are due for the week. The information that is given to us for group projects is ambiguous. Many of her midterm questions are from short excerpts in lecture. ATTEND LECTURE!
+
+--- Rating #11 ---
+Class: BUS343
+Date: 2018-12-17 20:02:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The instructor is ok, but TA's marking criteria is so bad. (Many comments don't make sense!)
+
+--- Rating #12 ---
+Class: BUS343
+Date: 2018-11-30 20:00:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Cluny is an alright professor but the assignments are very ambiguous. There are many deliverables with only one brief project outline and no other guidelines. Visiting office hours is necessary to fully understand what she is looking for.
+
+--- Rating #13 ---
+Class: BUS343
+Date: 2018-04-30 01:43:03 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Cluny is an okay prof for the course. I found her to be unorganized and there was a lot of ambiguity in the assignments. Its okay because she replies fast to emails. Midterms and Finals are all textbook based. I found her lecture slides useless because almost all them were pictures or videos.
+
+--- Rating #14 ---
+Class: BUS343
+Date: 2018-04-29 02:39:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Cluny is an entertaining lecturer but she could do better at getting the material across to the students' as I found myself looking forward to the ads she plays rather than learning and had to rely on the textbook for exams. There are also a disproportionate amount of assignment deliverables for this class.
+
+--- Rating #15 ---
+Class: BUS345
+Date: 2018-04-24 18:23:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Cluny truly cares about her students' success. She is readily available for help, provides clear grading &amp; is organized. She combines her own material, engaging activities &amp; various readings for a well rounded course (in both 345 &amp; 347). Although other profs may have easier exams, you'll definitely learn a lot with any class you take with her!
+
+--- Rating #16 ---
+Class: BUS343
+Date: 2018-04-21 17:27:53 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Cluny is super unorganized. She provides you with 100 guides and templates for assignments and none of them are actually useful in helping you get a good mark. Her exams are almost irrelevant to the textbook, I could have not studied and been in the same position. She also doesn't recommend using computers for notes, but has 150 slides per lecture?
+
+--- Rating #17 ---
+Class: BUS347
+Date: 2017-12-04 13:34:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Cluny is one of those professors who make you want to work harder because the lectures are so insightful, engaging, and interesting. Mainly memorization-based and participation counts but participation mainly includes just answering basic questions about the readings in class and canvas discussions.
+
+--- Rating #18 ---
+Class: BUS343
+Date: 2017-08-04 00:47:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+a lot of work and not necessary all useful. she's a really nice prof but there is just way too much work for this course, groupwork and individual. be prepared to put a lot of time into this course! lectures aren't completely necessary. tutorials are fun though.
+
+--- Rating #19 ---
+Class: BUS347
+Date: 2016-10-26 02:09:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+An engaging, exciting class.  Cluny knows her stuff. Material is simple to understand, although a lot. If you invest in this class you will learn A TON that is actually applicable to real life. No Groupwork! Cluny is always willing to help, and give you good feedback. Put in the effort, it'll return ten fold. Highly recommend!
+
+--- Rating #20 ---
+Class: BUS347
+Date: 2016-08-18 14:41:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Cluny is a very knowledgeable professor but in my opinion this class was A LOT of work. There are weekly readings, weekly Ad assignments, weekly Canvas discussions, and in-class activities worth participation marks. Don't skip her class or you'll lose marks. Grading criteria is not very clear with the paper and presentation.

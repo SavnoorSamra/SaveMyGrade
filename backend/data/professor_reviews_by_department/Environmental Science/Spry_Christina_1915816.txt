@@ -1,0 +1,11 @@
+Professor: Christina Spry
+Professor Legacy ID: 1915816
+Professor ID: VGVhY2hlci0xOTE1ODE2
+Department (CSV): Environmental Science
+Department (Fetched): Environmental Science
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

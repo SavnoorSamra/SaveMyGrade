@@ -1,0 +1,273 @@
+Professor: Toby Donaldson
+Professor Legacy ID: 748951
+Professor ID: VGVhY2hlci03NDg5NTE=
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.5
+Avg Difficulty: 3
+Num Ratings: 69
+Would Take Again Percent: 68.5185
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT120
+Date: 2025-02-26 07:15:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Toby is a great professor. The instructions for the assignments are always explained very clearly and he is genuinely interested in what he is teaching. He provides lots of practice for his midterms and the final. The tests are fair and are a reflection of what is taught in class. I would definitely recommend taking a course with Toby.
+
+--- Rating #2 ---
+Class: CMPT120
+Date: 2025-01-19 23:16:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He makes learning python for beginners super easy, beginner python is very dry overall but he is a generous marker and cares that you actually pass the class. He also gives a very important outline of what's on the final exam so make sure you do the practice exams. Take it with him!
+
+--- Rating #3 ---
+Class: CMPT120
+Date: 2025-01-10 10:05:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Attended a couple lectures and couldn't even hear him so I just stopped going. The lectures notes online however are helpful and enough to get by. Just do the weekly quizzes, and then study for midterm and final by doing the samples which are very similar. Did about 1-2 hrs of work a week and still managed to get a decent grade
+
+--- Rating #4 ---
+Class: CMPT120
+Date: 2025-01-03 19:52:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If you already know Python and basic computing this should be pretty light if not it will definitely take some work. The lectures are a bit dry but the assignments and quiz's are fair and good grade boosts if you don't perform on the exams which aren't super hard anyway.
+
+--- Rating #5 ---
+Class: CMPT120
+Date: 2024-12-27 19:45:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Toby is a good prof. Lectures are simple and easy to follow, assignments are very helpful, and exams are generally fair. Be careful with those exams though - I underestimated the midterm and completely bombed it. It wasn't difficult by any means, just requires a but of effort.
+
+--- Rating #6 ---
+Class: CMPT120
+Date: 2024-12-25 20:22:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+He was kind of incompetent... He's a CMPT professor but can't set up a microphone. I sat in the 4th row and couldn't hear him at all. I stopped going to the lectures halfway through the semester and just studied and did the work myself.
+
+--- Rating #7 ---
+Class: CMPT120
+Date: 2024-12-19 06:37:29 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Pretty mid prof. For context, I already knew python coming into this, the way he teaches python is god awful. He spent way too much time on turtle and txt files instead of more useful things with python like pandas and stats usages. On the final exam, there was a question on something he literally did not cover which definitely f'ed ppl over.
+
+--- Rating #8 ---
+Class: CMPT120
+Date: 2024-11-13 18:47:08 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+It takes months for him to return marks on quizzes. Each quiz is 10 questions, multiple choice, and online, it should not take months. The midterm was mostly multiple choice and it still took several weeks.
+
+--- Rating #9 ---
+Class: CMPT225
+Date: 2024-08-06 06:42:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Got a decent grade without much effort because all the quizzes were online , assignments were easy and mid term was basically the last semester mid term with values changed . There is just one problem with the course which is a mcq based final exam , you can loose a lot of marks there . Other than that chill prof and class
+
+--- Rating #10 ---
+Class: CMPT135
+Date: 2024-05-03 23:47:39 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Meh, dry lecturer. If you watch lecture recordings + do practice Q's on his obsidian, you'll be fine. Assignments, midterms, and quizzes were fair, but final was a bit hard. Make sure to know ur MC, as half (or maybe more) of our final was MC.
+
+--- Rating #11 ---
+Class: CMPT135
+Date: 2024-05-01 00:25:16 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures always feel productive albeit a bit dry + they're recorded. His notes are great for studying. Assignment criteria is clear and they're graded fairly imo. No surprises during exams if you listen to lectures, do the weekly quizzes and hw. Lots of multiple choice; make sure you have a good understanding of underlying concepts/terms.
+
+--- Rating #12 ---
+Class: CMPT125
+Date: 2024-04-24 02:28:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Substituted for amir, was really kind and got our emails replied to
+
+--- Rating #13 ---
+Class: CMPT225
+Date: 2023-12-18 23:24:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Absolutely loved him. Fair grading, excellent at explaining. He tries to be funny but he sometimes starts giggling instead LOL. I literally watched all of the lectures starting from week 3 onwards online instead of attending the lectures and I wish I did that from the first week. He is very clear at what he is teaching. TAs and assignments were OK
+
+--- Rating #14 ---
+Class: CMPT225
+Date: 2023-12-13 22:42:15 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Toby's lectures were pretty clear, he explains things simply and straightforwardly. He also posted video recordings of the lectures which was really nice. The midterm was insanely easy, the final was tough. Make sure you can do multiple choice. Exams reflect what was taught in class, assignments were fine. Overall solid prof.
+
+--- Rating #15 ---
+Class: CMPT225
+Date: 2023-11-20 20:52:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+exams are pretty easy especially if you pay attention to what he says in class and know the quiz questions. also he is good at explaining concepts and mostly clear about expectations. only complaint is he's kinda weird about answering questions in class/office hours
+
+--- Rating #16 ---
+Class: CMPT225
+Date: 2023-11-06 19:45:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Toby is the GOAT, amazing lectures, practical teaching, he explains very well, exams were fair, he made the course easy
+
+--- Rating #17 ---
+Class: CMPT135
+Date: 2023-09-25 00:14:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Boring explanations, unfair horrible multiple choice questions on quizes and exams, very mid.
+
+--- Rating #18 ---
+Class: CMPT225
+Date: 2023-09-06 19:51:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Strong english, passionate about what he is teaching, goes over crucial important material, does not waste time
+
+--- Rating #19 ---
+Class: CMPT225
+Date: 2023-08-22 16:57:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Assignments are easy and posted 2 weeks before due date but are riddled with mistakes to the point that you're better off waiting a week before starting them. Exams may contain ambiguous questions. Lectures are okay, but I found myself using John Edgar's lectures over Toby's by the second month.
+
+--- Rating #20 ---
+Class: CMPT120
+Date: 2023-07-13 07:03:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+(Fall 2023) 
+
+I think Toby was a pretty decent prof! I *did* go into this class with some existing experience with Python, but I found that his lectures were very straightforward and his personal website with lecture notes was very well organized. He explained things well and emphasized what would be testable. Pretty funny, too!

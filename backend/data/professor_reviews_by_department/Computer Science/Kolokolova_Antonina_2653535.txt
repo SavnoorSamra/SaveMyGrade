@@ -1,0 +1,24 @@
+Professor: Antonina Kolokolova
+Professor Legacy ID: 2653535
+Professor ID: VGVhY2hlci0yNjUzNTM1
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: CMPT404
+Date: 2020-12-14 04:04:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She recently came to SFU to teach a few classes. This particular class was adapted from Dan Boneh's highly-rated online cryptography class you can find on Coursera, using his slide set with modifications. Quizzes are online, and exams are based on quizzes, and only done after the quiz solutions are discussed in class. Overall her delivery is good.

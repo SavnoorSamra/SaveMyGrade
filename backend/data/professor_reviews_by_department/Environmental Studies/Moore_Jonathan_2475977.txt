@@ -1,0 +1,11 @@
+Professor: Jonathan Moore
+Professor Legacy ID: 2475977
+Professor ID: VGVhY2hlci0yNDc1OTc3
+Department (CSV): Environmental Studies
+Department (Fetched): Environmental Studies
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

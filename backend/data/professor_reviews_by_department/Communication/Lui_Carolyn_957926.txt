@@ -1,0 +1,50 @@
+Professor: Carolyn Lui
+Professor Legacy ID: 957926
+Professor ID: VGVhY2hlci05NTc5MjY=
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 1
+Avg Difficulty: 4.7
+Num Ratings: 3
+Would Take Again Percent: -1
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: CMNS362
+Date: 2012-09-06 04:00:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Hard marker, not helpful!
+
+--- Rating #2 ---
+Class: CMNS130
+Date: 2007-12-04 01:50:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Brutal. worst TA i had... if you get her... CHANGE TUTORIALS This coming from a 4th year CMNS student
+
+--- Rating #3 ---
+Class: CMNS130
+Date: 2007-12-01 14:08:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+She treats her students like kindergarteners. I got 2.3 out of 15 on an essay. I don't even know where the .3 came from. I had another professor look at the essay and she (an English prof) said it didn't warrent such a grade at all. She was a TA that never attended lecture so she never has any idea what we were learning.

@@ -1,0 +1,284 @@
+Professor: Jacqueline Nelsen
+Professor Legacy ID: 2644891
+Professor ID: VGVhY2hlci0yNjQ0ODkx
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1.9
+Avg Difficulty: 3.7
+Num Ratings: 77
+Would Take Again Percent: 19.4805
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT105W
+Date: 2022-10-27 03:46:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jacqueline Nelsen is an okay lecturer. Her quizzes are unfair and her assignments are dry and uninteresting. She teaches you what you need to know but you probably won't enjoy the process. I'd recommend taking CMPT105W with a different prof if you can, and leaving extra time in your schedule for essay work if you can't. No final exam for the course
+
+--- Rating #2 ---
+Class: CMPT376W
+Date: 2022-06-26 02:52:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Where to start? Nelsen is horrible in every way possible. She treats university students like high school kids, routinely yelling at people in class because they were 5 minutes late. Throws tantrums. Docks marks unnecessarily. Changed assignment requirements after due dates. Overreaches while she is a lousy teacher unqualified for her position.
+
+--- Rating #3 ---
+Class: CMPT376W
+Date: 2022-05-17 20:05:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This has nothing to do with writing skills. It's mostly on social issues related to female inequality in stem. My female friend went to her office hours, and Nelsen told her not to worry about her grade, as she gives A's to female students.
+Nelsen has no idea in computer sciences. Also her grammar is bad, and she makes A LOT of spelling mistakes.
+
+--- Rating #4 ---
+Class: CMPT376W
+Date: 2022-04-14 03:55:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+- Mandatory lectures 
+- High work load 
+- Two 48 hour essays over the weekend 
+- A ton of quizzes at the beginning of the semester
+- Nothing is related to technical writing 
+- Feels like an English and Social Justice bootcamp 
+- Everything is micromanaged 
+- Changes grading criteria after assignments are due 
+- Constantly contradicts herself
+AVOID
+
+--- Rating #5 ---
+Class: CMPT376W
+Date: 2022-03-12 21:08:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jacquie is one of the worst profs at SFU. She isn&#39;t qualified to teach CMPT courses, especially upper-div ones.
+
+--- Rating #6 ---
+Class: CMPT376W
+Date: 2022-03-12 08:30:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This course with Nelsen is basically Social Justice Warrior boot camp masquerading as Technical Writing
+
+--- Rating #7 ---
+Class: CMPT376W
+Date: 2022-03-08 01:21:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Course content is does nothing to prepare you for actual technical writing. Feels like I am redoing Grade 11 English.
+
+--- Rating #8 ---
+Class: CMPT376W
+Date: 2022-03-06 23:49:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+All of the aforementioned 1 star reviews are accurate.
+
+--- Rating #9 ---
+Class: CMPT376W
+Date: 2022-03-06 21:38:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She doesn&#39;t understand her own material, frequently gives contradicting instructions, most of the assignments are redundant. The final paper for this class was split into 3 parts except every part was essentially the same thing.
+
+--- Rating #10 ---
+Class: CMPT376W
+Date: 2022-03-06 07:01:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This might be the worst class I&#39;ve ever taken, and that&#39;s saying a lot. Every singly assignment is completely micromanaged with 3 page tables that detail everything there could possibly be. 
+Instructions are inconsistent. 
+Lectures are incredibly boring. 
+Sometimes has mandatory in-class activities so you still have to show up.
+
+--- Rating #11 ---
+Class: CMPT376W
+Date: 2022-02-19 19:10:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Thanks to her, this course takes up double time than an usual CS course does. I have to say that every single day for a third year CS student is important. But she is able to waste your valuable time on those numerous and useless quizs and assignment. Should she make none decisions that make you happy, don't be suprise because this is typically her
+
+--- Rating #12 ---
+Class: CMPT376W
+Date: 2022-02-14 09:04:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+To conclude, this course by Nelsen is heavy-loaded. You will not only expect 80-100 small quizzes and assignments but also two intensive 48-hour projects, which stress you out. (And also an individual essay) Very very limited knowledge you can gain from this course.I won't expect any potential SDE would want to spend such an amount of time on this.
+
+--- Rating #13 ---
+Class: CMPT376W
+Date: 2022-02-04 07:02:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Too many boring quizzes. I guess they are only 5% in the final grade. I ever spent more than 6 hours working on 14 quizzes on weekends. Too many group assignments and individual assignments, asking about teamwork again and over again. It's definitely the worst professor I met at SFU.
+
+--- Rating #14 ---
+Class: CMPT105
+Date: 2022-01-22 21:11:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jacquie genuinely cares about her students. She has a lot of experience as a lecturer and an engineer and loves to share her experiences with her class. The information she presents is actually useful and can be easily applied. She does assign a lot of homework and isn't lenient about extensions or anything. Her papers are hard but doable
+
+--- Rating #15 ---
+Class: CMPT105W
+Date: 2022-01-13 00:13:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Take if you want an easy pass but annoying class. She relies to heavily on the textbook and rote memorization, rather than actually teaching students useful writing skills through consistent practice. There are many tedious and pointless quizzes/participation work that will make you hate school. 2nd worst class I took at SFU.
+
+--- Rating #16 ---
+Class: CMPT105W
+Date: 2021-12-29 19:34:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is a genuinely kind person. She didnt give to much schoolwork and was always available to help and was understanding. That said the major drawbacks were her quizzes that were based on her slides and the textbook and were essentially just memorization. And her TAs were kind of mean. But she rounded my high A- to an A and I didnt even ask.
+
+--- Rating #17 ---
+Class: CMPT105W
+Date: 2021-12-21 09:33:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+At the beginning of the term, there's 20 or so quizzes which is basically reading comprehension. After that, small stuff like participation (by attending via sign up sheet) and peer reviews account for your mark. No final, only two papers worth a majority of your mark. Four quizzes, with content pulled from lectures, which is from the textbook. EZ
+
+--- Rating #18 ---
+Class: CMPT105W
+Date: 2021-12-21 02:32:15 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Definitely not as bad as her score would suggest. Her lectures are really boring but necessary as questions for quizzes are pulled straight from her presentations. Lots of short assignments/quizzes on Canvas. Wrote two short essays for the course. Textbook is not necessary. Pretty easy course if you know how to write and read the rubrics correctly.
+
+--- Rating #19 ---
+Class: CMPT376W
+Date: 2021-12-17 22:05:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Nelsen really cares about her students and puts lots of effort into making lectures as engaging as possible (many in-class activities). She is very open to feedback about the course and communicates frequently to make sure everyone is kept up to date. There are many assignments (do not take very long), but she marks fairly and quickly.
+
+--- Rating #20 ---
+Class: CMPT376W
+Date: 2021-12-17 08:10:24 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Professor Nelsen is really nice and genuinely cares about her students, she is very approachable. However, I hate her teaching. Quizzes sucked, no feedback was given and I was unsure what they wanted. Rubrics were very vague and left many of us unsure of what to do for assignments. Comments were only occasionally left on graded material.

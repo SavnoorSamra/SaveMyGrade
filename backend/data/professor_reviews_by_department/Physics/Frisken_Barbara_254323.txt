@@ -1,0 +1,271 @@
+Professor: Barbara Frisken
+Professor Legacy ID: 254323
+Professor ID: VGVhY2hlci0yNTQzMjM=
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 1.8
+Avg Difficulty: 4.2
+Num Ratings: 29
+Would Take Again Percent: 50
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PHYS233
+Date: 2021-12-18 19:31:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She was alright. She generally seemed to want to help, and she tried to teach you lab procedures. Her lessons were kind of useless though. She marks the final summaries for the class, and gives you feedback before the final grading. Even if you fix everything she gives feedback on though, she just finds more unrelated stuff to deduct marks on.
+
+--- Rating #2 ---
+Class: 366W
+Date: 2019-08-29 21:08:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+lectures/labs are unorganized. Lab manuals are dated. Leaves all work to TA's. Provides no help on labs. No help troubleshooting equipment. Writing assignments are inadequate. They do not teach writing skills to compose Formal Lab report. Take this course with Barbara if you have already mastered: MATLAB and technical writing.
+
+--- Rating #3 ---
+Class: PHYS102
+Date: 2019-08-02 21:42:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures can often be very dry and feel like 50 minutes wasted. She often gets sidetracked and starts talking about other topics or her research, and doesn't do a great job of explaining more confusing concepts. However, if anything she's friendly and very easy to talk to, and will gladly give you extra help if you ask.
+
+--- Rating #4 ---
+Class: PHYS102
+Date: 2019-05-08 05:26:41 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The class was going fine up until the final exam. This exam had questions that I could not have prepared for in any way or with any extra study time. The midterms were fair but written homework was always a mystery. She is a nice professor, quite likeable and available for help though I didn't use her as a resource but the final was brutal
+
+--- Rating #5 ---
+Class: PHYS102
+Date: 2015-04-27 19:43:45 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Wow. Barbara is not teacher material. She makes things more confusing than need be, and on multiple occasions, the physics confused Barbara too. She doesn't understand her own examples.
+
+--- Rating #6 ---
+Class: PHYS102
+Date: 2014-11-06 18:31:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+If you are a good physics student, or have previous high school physics knowledge, then you might easily do good. However if you are not a good physics student then textbook will be your teacher. She was mainly disorganized, questioned herself during lect. Didn't explain concepts completely, HW was tough as hell plus MANY failed her exams
+
+--- Rating #7 ---
+Class: PHYS102
+Date: 2014-08-05 15:49:44 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+For those who are not naturally good at physics, this is a tough course. I found the textbook more relevant than her notes and didn't take much away from the lecture even though I went everyday and payed attention. Must study the tutorial questions for the exams. Not a lot of time to think during the exams, bit of a time crunch.
+
+--- Rating #8 ---
+Class: PHYS102
+Date: 2014-05-13 14:24:22 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+She made simple topics impossible... Her midterms went above and beyond what was taught in the class and she lacked any sort of organization. Overall, DO NOT TAKE WITH HER. She does make her final easier but after two devastating midterms for the class and a lack of understanding it's too little too late!
+
+--- Rating #9 ---
+Class: PHYS102
+Date: 2014-04-16 22:35:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+studying for my finals, i realized how little I knew in this course because of barbra. she constantly gets concepts mixed up and her notes are far from complete. the class averages for the midterm were less than 50%, which shows how little the lass knew. The only good thing is that she is treating us like me know nothing making the final easier!
+
+--- Rating #10 ---
+Class: PHYS102
+Date: 2014-04-13 15:35:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+She seems to have a high interest in the course and she seems intelligent but she is just horrible at teaching. Passing her course takes a lot more effort than it really should. The class average for both midterms has been around 50% and there is a reason for it
+
+--- Rating #11 ---
+Class: PHYS102
+Date: 2014-04-13 03:01:12 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She really isn`t that bad...I thought she was good at explaining concepts (if you actually listened unlike most people) and I rarely touched the textbook. The midterms were both fair as they came right from stuff we did in tutorials.
+
+--- Rating #12 ---
+Class: PHYS102
+Date: 2014-04-12 20:59:15 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+She's not the greatest prof, but the people on here make it sound like she's completely useless. She's a nice person and her interest in Physics shows. She explains the concepts adequately but you will need to read the textbook and attend tutorials to succeed. Simply going to lecture won't get you an A. First year students need to stop complaining.
+
+--- Rating #13 ---
+Class: PHYS102
+Date: 2014-04-08 23:07:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+very confusing prof. her lectures are useless, study from the textbook. she frequently gets masteringphysics problems wrong and does not know how to solve questions when you bring them to her office hours.
+
+--- Rating #14 ---
+Class: PHYS102
+Date: 2014-04-05 16:54:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Useless prof that cannot teach at all. Notes are very confusing and constantly confuse herself with her own clicker questions. If you don't want to fail, don't take this class with her.
+
+--- Rating #15 ---
+Class: PHYS102
+Date: 2014-03-25 13:47:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Terrible. Do not take her
+
+--- Rating #16 ---
+Class: PHYS102
+Date: 2014-03-24 21:34:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+the fact the TA's teach better than her speaks volume about her teaching abilities. Tutorials are not optional but you should go because you'll learn 100 times more than you will in lecture. She is the worst explainer ever!
+
+--- Rating #17 ---
+Class: PHYS102
+Date: 2014-03-07 20:16:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Terrible profs. Terrible jokes. Terrible is synomous with her name.
+
+--- Rating #18 ---
+Class: PHYS102
+Date: 2014-03-04 11:10:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Bad bad bad teacher. Cannot give clear instructions and is a snorter! Do not take any courses with her!
+
+--- Rating #19 ---
+Class: PHYS102
+Date: 2014-02-22 23:43:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She is very disorganized. She is probably very intelligent but she fails to communicate it to her students. She laughs at her own jokes and no one else does. Avoid this prof if you can.
+
+--- Rating #20 ---
+Class: PHYS102
+Date: 2014-02-08 00:14:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Barbara is a very disorganized & poor at communicating concepts. Her notes, although handwritten, are confusing & misleading. The midterm was fair, but there was not nearly enough time for anybody to finish it. She is easily the worst prof I have ever encountered.

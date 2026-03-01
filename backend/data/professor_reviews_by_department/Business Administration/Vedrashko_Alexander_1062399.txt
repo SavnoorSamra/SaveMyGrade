@@ -1,0 +1,193 @@
+Professor: Alexander Vedrashko
+Professor Legacy ID: 1062399
+Professor ID: VGVhY2hlci0xMDYyMzk5
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 2.7
+Avg Difficulty: 3.6
+Num Ratings: 14
+Would Take Again Percent: 57.1429
+
+Ratings Count Returned: 14
+
+--- Rating #1 ---
+Class: BUS413
+Date: 2025-12-12 09:44:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Definitely quiet, but as long as everyone else is quiet, it shouldn't be a problem. Definitely very knowledgeable, and is willing to help you. Tests are mostly based on the practice questions. Show up to the lectures; he literally tells you what he'll be testing you on, so make sure you take note of which slides to study.
+
+--- Rating #2 ---
+Class: BUS410
+Date: 2025-08-30 16:19:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very smart guy and teaches you concepts that your typical Finance prof wouldn't teach. Tough exams, but the averages are typically lower for the course. Overall, if your interested about finance and economics this course is great.
+
+--- Rating #3 ---
+Class: BUS410
+Date: 2023-12-15 16:53:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+A little quiet, so sit up front. He rambles because he is clearly very knowledgeable. I thought the exams were fair, literally had questions from the practice on it (same numbers too). I read the textbook but the slides and attending lectures was enough to do well imo. A straightforward course and decent prof, would recommend.
+
+--- Rating #4 ---
+Class: BUS410
+Date: 2022-08-15 01:34:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Nice professor, very knowledgeable, and smart. Attend his office hours and he will be patient to answer your questions. Exam may test you something that beyond textbook, but that what we should prepare for the 4-level course.
+
+--- Rating #5 ---
+Class: BUS410
+Date: 2022-08-11 18:40:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Worst professor I have ever had, which says a lot given that I have encountered some bad ones. You can't hear a word he says, and he makes no effort to engage the class. He gives mini quizzes every class to make sure you attend because he knows no one would show up otherwise. His exams test the most obscure facts that are so minute and unimportant.
+
+--- Rating #6 ---
+Class: BUS410
+Date: 2022-08-09 00:33:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the most boring, difficult profs I've ever encountered. His lectures are extremely boring, and he emphasizes no content. Everything from the big concepts to the tiniest minutia is taught with the same importance. Every lecture has a novel's worth of written content. His slides have a comically large amount of content, most is irrelevant.
+
+--- Rating #7 ---
+Class: BUS410
+Date: 2022-07-21 00:20:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Midterm was worth 40% and final 50%, the other 10% were based on random quizzes and assignments. Nobody can really hear him in lectures. He is a tough grader, some material in exams were not taught in lecture and depends on an individuals financial background knowledge. Does not give out formula sheets for exams. DO NOT RECOMMEND HIM!!
+
+--- Rating #8 ---
+Class: BUS316
+Date: 2015-02-24 03:27:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Lectures can be long and a little boring. Spends a lot of time on small matters and rushes through other material. BUT if you review his lecture notes after the lecture you are able to connect the ideas really well as they are well prepared.
+
+--- Rating #9 ---
+Class: 316
+Date: 2015-01-06 03:30:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+very unclear, wastes time on useless matters then rushes through actual class content. no point attending lecture - had to self teach myself everything
+
+--- Rating #10 ---
+Class: BUS413
+Date: 2013-12-21 06:40:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He is really boring; only big finance enthusiasts can listen to him for the entire lecture. He is not even trying to engage everyone or let us work in pairs/groups or participate in any way. He is very academic - all his example come from the papers he read; not real work. Throws tons of information at you but all you need is numeric tasks.
+
+--- Rating #11 ---
+Class: BUS413
+Date: 2012-06-14 21:11:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Smart guy, but when he talks, it's difficult to hear him well. Make sure you sit in the front row otherwise you may easily get distracted especially when he doesn't speak very clearly
+
+--- Rating #12 ---
+Class: BUS413
+Date: 2011-05-25 03:23:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He's knowledgeable, but could try to spice things up a little. He gives 4 &quot;pop&quot; quizes, but you can tell or he'll tell you when but they're quite difficult. You must pay attention to the details in his class and you'll do well. Overall, he's a solid teacher, I'd recommend him. (I did poorly on all his quizes but pulled off B overall with the final)
+
+--- Rating #13 ---
+Class: BUS413
+Date: 2008-05-06 08:50:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #14 ---
+Class: BUS413
+Date: 2008-04-27 16:06:52 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+No Comments

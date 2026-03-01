@@ -1,0 +1,37 @@
+Professor: Yueh Li
+Professor Legacy ID: 2579849
+Professor ID: VGVhY2hlci0yNTc5ODQ5
+Department (CSV): Molecular Biology & Biochemistry
+Department (Fetched): Molecular Biology & Biochemistry
+Avg Rating: 5
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: MBB324
+Date: 2021-04-07 01:40:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Lectures are quite exceptional. She is very open to questions and saves the last 20mins of class as office hours. Quite passionate about teaching students and shared some of her research experience to us. In terms of learning outcomes she is clear and exam were based on them. Unfortunately COVID had reduced the number of lectures she could teach us
+
+--- Rating #2 ---
+Class: MBB324
+Date: 2020-05-04 22:45:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Alison is great! She was super accomodating during the switch to online classes. her lectures r veey clear and she lets u know exactly what she expects u to know. exams were very fair, and she went out of her way to answer questions and make sure students understand the material. Shes very kind and sweet :)

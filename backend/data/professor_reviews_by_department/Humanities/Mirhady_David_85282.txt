@@ -1,0 +1,271 @@
+Professor: David Mirhady
+Professor Legacy ID: 85282
+Professor ID: VGVhY2hlci04NTI4Mg==
+Department (CSV): Humanities
+Department (Fetched): Humanities
+Avg Rating: 3.2
+Avg Difficulty: 3.1
+Num Ratings: 96
+Would Take Again Percent: 59.0909
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: HUM102W
+Date: 2025-04-30 18:23:42 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He was a pretty good prof, no complaints about his teaching. He doesn't curve to achieve any average, so the average could either be high or low, our average was okay. Exams can be a time crunch, but nothing unmanageable with a lot of studying. Study slides after lectures, put quotes into flashcards, practice writing essays, and you'll do well.
+
+--- Rating #2 ---
+Class: HUM102W
+Date: 2025-04-29 17:48:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Terrible professor. He prides himself on maintaining a terrible average grade, expect to get your GPA tanked if you take a class with him.
+
+--- Rating #3 ---
+Class: HUM102W
+Date: 2025-04-26 17:22:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Definitely one of my favorite electives I've taken. If you're into mythology and enjoy following along with the stories and themes, I'd totally recommend this course. David's grading scheme is super fair (mostly assignment+participation which are marked very leniently) and exams only make up a small chunk. Exams are fair.
+
+--- Rating #4 ---
+Class: HUM102
+Date: 2025-04-23 11:16:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+David is a chill guy
+
+--- Rating #5 ---
+Class: HUM102
+Date: 2025-04-23 01:26:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Should've left after the first lecture where he spent an extensive amount of time talking about whether the greek goddesses were virgins.
+
+--- Rating #6 ---
+Class: HUM102W
+Date: 2025-04-23 01:09:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+This was a solid intro to mythology, I really enjoyed David's teaching style, and his exams are very fair. He is caring and looks out for the class
+
+--- Rating #7 ---
+Class: HUM102W
+Date: 2025-04-16 08:57:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Highly recommend this prof if you don't want to do too much work outside of class. Majority of the work comes from keeping up with readings, quotes, and passages, but not bad if you start early. Assignments are very short and only 4 of them, so the workload isn't bad at all. This prof gives very fair exams. He's also nice and funny.
+
+--- Rating #8 ---
+Class: HUM102W
+Date: 2025-04-15 02:12:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I enjoyed this course a lot more than I expected to. I've never been great with writing and literature based courses in general (I'm a STEM major) but HUM 102 with David was one of my favorite electives at SFU. The assignments are very short (500 words), only 4 of them in the whole semester. Study the slides early on to not get overwhelmed in exams
+
+--- Rating #9 ---
+Class: HUM102W
+Date: 2025-04-15 02:02:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He's very chill. He even makes it clear that he's not meaning to arbitrarily push grades downwards to achieve a desired average - so the grading ends up being very fair. The tutorials were extremely helpful with the TA (thanks Joseph!) and overall David gives solid lectures. Slides are packed with quotes, super helpful for studying.
+
+--- Rating #10 ---
+Class: HUM102
+Date: 2025-04-15 01:09:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Very good professor and fair in his grading, gave us all the tools to succeed, open ended tutorials gave the opportunity to ask questions and gave clarity on readings. Took student input on possible quotes for exams. Cares about every student and wants to see them succeed!
+
+--- Rating #11 ---
+Class: HUM102W
+Date: 2025-04-08 03:11:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+amazing prof
+
+--- Rating #12 ---
+Class: HUM102W
+Date: 2025-03-31 06:50:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+David Mirhady is an alright prof. He definitely knows his stuff and I'd say the exams and assignments are fair enough, but his lectures can be a bit dry and his grading sometimes feels random/arbitrary. Overall pretty decent, though
+
+--- Rating #13 ---
+Class: HUM102
+Date: 2025-03-29 04:05:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Excellent professor, lots of readings but worth it if you put in the time
+
+--- Rating #14 ---
+Class: HUM102W
+Date: 2025-03-24 04:02:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+This course has been really fun so far. I love his little in class anecdotes. The assignments are very straightforward, just 4 little essays throughout the term. The exams can be tough, but you just have to study the slides thoroughly. Definitely glad I took this rather than the online version.
+
+--- Rating #15 ---
+Class: HUM102
+Date: 2025-03-12 17:53:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Grading for the assignments is very straightforward and fair. He's passionate and funny
+
+--- Rating #16 ---
+Class: HUM102W
+Date: 2025-03-07 06:37:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+If you give this course the time it deserves, you will do well. David is a great lecturer and gives lot of insights, but you need to do the readings and understand them thoroughly before each lecture to get the most out of it. Exams are overall fair but very definition heavy - flashcards or over memory methods ftw. Great guy
+
+--- Rating #17 ---
+Class: HUM102W
+Date: 2025-03-01 21:26:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Don't take this class if you care about your GPA. David gives out marks at random and seems to pride himself on failing students.
+
+--- Rating #18 ---
+Class: HUM102W
+Date: 2025-02-28 09:17:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Davids a solid Prof, does a good job teaching mythology for beginners (imo). Funny and kind. Make sure to do all readings before class, lectures extend on those. For the midterm, study quotes and key terms/facts thoroughly for the MCQs - for the essay, if you're decent with the assignments, you're golden. Overall a solid course but requires work
+
+--- Rating #19 ---
+Class: HUM102W
+Date: 2025-02-03 00:33:13 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+David is a nice guy and a pretty good lecturer, and clearly knows a lot about the content. However, this course is quite dense, and he assigns extremely lengthy readings that can take much longer than you might expect. Grading of the 4 short papers is fair overall. Be prepared to work a lot and study the stories thoroughly.
+
+--- Rating #20 ---
+Class: HUM102W
+Date: 2024-10-05 07:48:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+RUN! Avoid taking this course! The lectures are even more confusing than the lengthy readings, and the professor has a habit of using ancient Greek jargon..... :(

@@ -1,0 +1,94 @@
+Professor: Charles Hostovsky
+Professor Legacy ID: 2775790
+Professor ID: VGVhY2hlci0yNzc1Nzkw
+Department (CSV): Resource Management
+Department (Fetched): Resource Management
+Avg Rating: 3.8
+Avg Difficulty: 2.3
+Num Ratings: 6
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: Plan-100
+Date: 2023-01-17 08:01:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+An amazing professor with a lot of real-world applications in the class. Though some projects may seem difficult, they turned out to be some of the most interesting projects I have worked on while attending university. He makes you immerse yourself in a community before writing about it, which really helps with understanding the course content
+
+--- Rating #2 ---
+Class: Plan-100
+Date: 2022-11-24 20:10:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Although he is unorganized he is very lenient and easy to let you have an extension if you are struggling, I took him again for PLAN300 this sem and although there are so many papers I still like him cause he is so nice and doesn't grade harsh whatsoever. Definitely recommend for gpa booster.
+
+--- Rating #3 ---
+Class: REM100
+Date: 2022-09-10 05:11:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Dr. Hostovsky is poorly organized. Work submission dates were from 2019/2020. He had his lectures recorded by his TA meaning that he rarely ever lectured. We started the final exam 15 minutes late, and many students were left wondering why we didn't start yet. The rubric was not descriptive and we got no feedback. His exams are also closed book.
+
+--- Rating #4 ---
+Class: Plan-100
+Date: 2022-07-15 01:10:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Super easy going and nice guy.
+
+--- Rating #5 ---
+Class: Plan-100
+Date: 2022-07-14 07:39:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: True
+Comment:
+Harsh grader.
+Exams are totally confusing 10 minutes for 21 questions. 
+10 minutes for answering 3 questions .Average 10/30 . 
+Average of class on papers =38/60. 
+I hope this numbers explain everything. 
+The worst experience ever !!!!!!!
+
+--- Rating #6 ---
+Class: Plan-100
+Date: 2022-04-22 03:08:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He was disorganized at the beginning but that issue went away over the semester. He does go off topic quite a bit during a lecture. But the lectures are informative and good. Helps that he is super entertaining and funny during a lecture. The course work is mostly reports but are easy and straightforward.

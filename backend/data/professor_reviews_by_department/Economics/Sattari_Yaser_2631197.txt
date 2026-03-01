@@ -1,0 +1,141 @@
+Professor: Yaser Sattari
+Professor Legacy ID: 2631197
+Professor ID: VGVhY2hlci0yNjMxMTk3
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 3.6
+Avg Difficulty: 3.7
+Num Ratings: 10
+Would Take Again Percent: 80
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: ECON105
+Date: 2021-05-17 05:46:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I wouldn't be surprised if Yaser looked at his RMP because his past reviews don't correspond to how he teaches now. Yaser cares about his students and wants them to succeed--it's evident in how he's always available outside of class and makes sure we understand the content before moving on. I am running out of characters so in conclusion: gr8 guy!
+
+--- Rating #2 ---
+Class: ECON105
+Date: 2021-05-08 05:47:00 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Exams are nasty. Very nice and caring guy though.
+
+--- Rating #3 ---
+Class: ECON105
+Date: 2021-04-30 05:35:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Yaser is a good professor whose lectures combine real-life scenarios with the textbook content that he is teaching. He is very accessible outside lectures and will answer your questions with detail and passion. Few assignments and exams are appropriate in difficulty. Only problem is that tutorials videos are bad and TA marking is questionable.
+
+--- Rating #4 ---
+Class: ECON105
+Date: 2021-04-29 03:06:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great Prof, clearly puts in a lot of effort and hopes all his students will succeed. Very approachable and available if any help is needed. The test are made up of questions extremely similar to the assignments and optional homework.
+
+--- Rating #5 ---
+Class: ECON105
+Date: 2021-04-27 14:28:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+He is very helpful and really wants his students to be successful. The T.A.'s weren't really able to help but the professor was really good.
+
+--- Rating #6 ---
+Class: ECON105
+Date: 2021-04-25 05:38:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+i actually really liked yaser and im glad i took this class with him. you can tell that he really wants his students to succeed. his lectures are pretty information heavy, so come to class prepared. he's very approachable and is always willing to help out his students. his exams were quite similar to the assignments and his previous exams.
+
+--- Rating #7 ---
+Class: ECON105
+Date: 2021-04-15 05:27:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Yaser was overall a great prof. He made his own lecture slides which summarized the textbook very well when supplemented with the lectures. Yaser was always available during his office hours and anytime through email (weekends too). It is evident that Yaser actually wants his students to succeed and proves this through his contact communication.
+
+--- Rating #8 ---
+Class: ECON105
+Date: 2021-03-22 23:43:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Very responsible and caring professor who will reply your emails even on weekends to answer your confusions regarding the assignments. The assignments and the previous exams are really good practice for the midterm. Doesn't necessary to read the textbook to do well in this course, do read the slides he posted on canvas.
+
+--- Rating #9 ---
+Class: ECON105
+Date: 2021-03-21 22:27:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Literally the worst prof ever. Puts in zero effort. Do not take this class with him
+
+--- Rating #10 ---
+Class: ECON105
+Date: 2020-12-20 20:57:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I took this course online, it was 100% asynchronous. You had to teach your self everything there was no help or guidance. He literally read out of the textbook and gave no further elaboration on course concepts. I would avoid this class if you can, he makes a hard class even harder.

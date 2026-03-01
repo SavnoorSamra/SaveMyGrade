@@ -1,0 +1,132 @@
+Professor: KangKang Yin
+Professor Legacy ID: 2478348
+Professor ID: VGVhY2hlci0yNDc4MzQ4
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.1
+Avg Difficulty: 3.3
+Num Ratings: 9
+Would Take Again Percent: 88.8889
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: CMPT466
+Date: 2025-12-09 05:57:09 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+For fall 2025, the final project was worth 45% of the total grade, but the class mean/median was only 30/45 and the HIGHEST score was just 36, with no curve applied. 
+
+Grading felt extremely harsh, see many solid projects presentations yet ended up as mediocre grades.
+
+--- Rating #2 ---
+Class: CMPT361
+Date: 2023-08-15 04:47:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Good professor, easy understanding lectures, but 
+TOO MUCH MATERIALS!
+There are almost 100 pages slides to read every week, though the assignments and final exam were ok but still too heavy workload. You might not use all of the materials in your 4 assignments but they might be in your final exam.
+
+--- Rating #3 ---
+Class: CMPT361
+Date: 2023-08-13 02:43:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great lectures, she knows what she's doing. You'll have to self-study a lot of the math because she usually skims over it. The course is inherently difficult and covers what feels like 1.5 or 2x the material of other 300 level courses but this prof is good.
+
+--- Rating #4 ---
+Class: CMPT466
+Date: 2023-04-24 01:45:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Based on my experience, she's the only professor who offered us computational resources for our projects. She expected us to deliver excellent work, yet she's considerate about each students' background. Overall, I believe that she cares about students.
+
+--- Rating #5 ---
+Class: CMPT361
+Date: 2022-07-26 22:52:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is a good lecturer, however, I did find myself needing to go to the textbook and slides to truly understand the concepts covered. She is very fair with regards to due dates and it is obvious she cares about making sure the class is a good experience for the students. We had three assignments (cut down from 4) and a final exam.
+
+--- Rating #6 ---
+Class: CMPT361
+Date: 2022-06-22 06:30:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+A very fair workload and puts in the effort to lecture well. Lecture recordings were not made available.
+
+--- Rating #7 ---
+Class: CMPT466
+Date: 2019-12-04 05:59:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Quite good
+
+--- Rating #8 ---
+Class: CMPT361
+Date: 2019-04-24 14:43:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The course was quite fun, and challenging, a good combination. The assignments always took longer than I expected, graphics are hard, so start early. They were cool though (tetris, golden bunny). She also nicely spaces them, and the lectures/notes and extra tutorial help alot.
+
+--- Rating #9 ---
+Class: CMPT361
+Date: 2019-04-11 04:01:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Basically a good prof. A lot of programming and writing assignments during the semester, but she will intentionally make the final exam easy . She will organize a field trip too. Taking 3D graphics with her is not a bad choice.

@@ -1,0 +1,271 @@
+Professor: Michael Monagan
+Professor Legacy ID: 289896
+Professor ID: VGVhY2hlci0yODk4OTY=
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4.8
+Avg Difficulty: 2.7
+Num Ratings: 108
+Would Take Again Percent: 97.7011
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH152
+Date: 2026-01-06 18:35:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I love this man. Math is a weakness of mine. But his method of teaching just stuck with me and he made things make sense! I'm free from Calculus now but if I wasn't I'd be aiming to take every class taught by him.
+
+--- Rating #2 ---
+Class: MATH152
+Date: 2025-12-15 20:12:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I had to retake Calculus II because I received a D last semester. Professor Monagan is an amazing professor, and I couldn't recommend him enough. He is direct with what will be presented on the midterms and on the final, making it really easy to study for, and it's easy to achieve high grades. I ended this class with an A, all thanks to him.
+
+--- Rating #3 ---
+Class: MATH152
+Date: 2025-12-09 01:25:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Such a good professor. His lectures are extremely helpful as he doesn't use slides at all. Do all the assignments thoroughly and you will be all set to go, the exams are exact questions on assignments. No weekly quizzes either. If you are taking a calculus course take it with him!
+
+--- Rating #4 ---
+Class: MACM204
+Date: 2025-12-06 07:44:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+One of my favourite profs at SFU. I love how he can simplify the most difficult concepts. It's very cool to learn Maple from him, since he was involved in its development. Reasonable workload for a 2-credit course.
+
+--- Rating #5 ---
+Class: MATH152
+Date: 2025-11-04 05:22:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+one of the best math profs highly highly recommend him if you ever want a good grade in a math course!
+
+--- Rating #6 ---
+Class: MATH152
+Date: 2025-10-21 21:52:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the best math professors.
+
+--- Rating #7 ---
+Class: MATH152
+Date: 2025-09-29 17:40:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His lectures are very clear and the tests represent exactly what was taught
+
+--- Rating #8 ---
+Class: MATH152
+Date: 2025-09-25 22:11:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Best professor ever. I wish I had him for my MACM courses. He doesn't just spit out what's in his mind. He articulates the problem before teaching it and puts efforts in his notes. Yes his Notes, GOAT uses pen and paper to write clean, understandable and forever immortal notes
+
+--- Rating #9 ---
+Class: MACM204
+Date: 2025-04-16 09:00:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+The GOAT &#128016; amazing prof and course, can't recommend enough, YES, YES, YES just take it, okay? Or regret your life choices if you don't
+
+--- Rating #10 ---
+Class: MATH240
+Date: 2025-03-30 23:42:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Great intro to linear algebra, concepts explained clearly, and assignments give good practice
+
+--- Rating #11 ---
+Class: MACM401
+Date: 2025-03-29 21:04:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Amazing professor, tough class for sure, but taught well
+
+--- Rating #12 ---
+Class: MACM204
+Date: 2025-03-29 09:06:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Extremely fun assignments that let you apply lecture concepts in progressively complex questions
+
+--- Rating #13 ---
+Class: MACM204
+Date: 2025-03-29 08:23:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+You can't ask for a better professor. Lectures? Captivating. Tutorials and labs? Inspiring. Smile and aura? Wholesome.
+
+--- Rating #14 ---
+Class: MATH240
+Date: 2025-03-12 21:00:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If you have the opportunity, take MATH 240 with this man. He is my goat.
+
+--- Rating #15 ---
+Class: MACM204
+Date: 2025-01-21 23:18:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I've taken 3 math courses with him and all of them were phenomenal. If you have the chance to take a course with him, jump on it. MACM 204 was succinctly informative and useful. His lectures were easy to follow and the tutorials were incredibly helpful (make sure to go to the tutorials). Final was very fair and he allowed us a cheat sheet.
+
+--- Rating #16 ---
+Class: MATH240
+Date: 2025-01-11 00:24:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He posted his notes which was nice but his lectures are just amazing. He was super prepared and the notes were easy to follow. The tests also weren't insanely hard, just understand the homework and the tests won't be too bad.
+
+--- Rating #17 ---
+Class: MATH240
+Date: 2024-12-19 23:05:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Super nice guy, seems like he actually likes teaching. For the midterms, understand all the assignment questions as test questions are pulled from there. If you put effort into doing the assignments yourself this class will be a breeze
+
+--- Rating #18 ---
+Class: MATH240
+Date: 2024-12-16 06:43:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If you take MATH 240 with Prof. Monagan, you can learn about everything by attending lectures. Despite being optional, I highly recommend attending a lecture, as it's just a life-changing experience to attend such a high-quality lecture. Also, he assigns about 20-40 homework problems over an average 10-day period. It's all on the midterms.
+
+--- Rating #19 ---
+Class: MACM204
+Date: 2024-12-11 11:00:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I had a solid experience in Monagan's MACM204 course this term. Lectures were well-paced with great examples, labs were super helpful, including the TA Garrett!! Assignments were a tad difficult, but good practice. Final was fair, as it was based on assignments and you get a 2 sided cheat sheet. He's a great prof, which is obvious from the reviews
+
+--- Rating #20 ---
+Class: MATH240
+Date: 2024-12-10 22:57:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+What can I say that hasn't already been said. I wish he could teach all my classes. If MATH makes you uncomfortable, take any math class with Monagan. He will show you how easy it really is. He explains everything very clearly and makes math accessible. He laughs, he smiles. He genuinely cares about students. Best prof. i've had at SFU hands down.

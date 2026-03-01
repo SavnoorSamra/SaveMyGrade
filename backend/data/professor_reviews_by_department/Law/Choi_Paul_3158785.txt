@@ -1,0 +1,25 @@
+Professor: Paul Choi
+Professor Legacy ID: 3158785
+Professor ID: VGVhY2hlci0zMTU4Nzg1
+Department (CSV): Law
+Department (Fetched): Law
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: Als615
+Date: 2026-01-27 23:03:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He has alot of practical experience and makes lectures and materials based on real life situations.
+Very approachable and always available for office hours.

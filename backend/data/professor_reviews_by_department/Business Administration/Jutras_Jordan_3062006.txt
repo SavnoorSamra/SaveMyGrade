@@ -1,0 +1,24 @@
+Professor: Jordan Jutras
+Professor Legacy ID: 3062006
+Professor ID: VGVhY2hlci0zMDYyMDA2
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BUS393
+Date: 2024-12-15 23:07:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jordan is great at explaining concepts with clear examples. His concise slides make the material easy to follow. The course had fair exams (70%), a straightforward group presentation (20%), and participation (10%). He was super accessible and kind - even responding to emails all-day before exams. Highly recommend!

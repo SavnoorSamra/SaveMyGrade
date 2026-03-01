@@ -1,0 +1,24 @@
+Professor: Tucker Sharon
+Professor Legacy ID: 2682899
+Professor ID: VGVhY2hlci0yNjgyODk5
+Department (CSV): Industrial Studies
+Department (Fetched): Industrial Studies
+Avg Rating: 1
+Avg Difficulty: 5
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: HIST106
+Date: 2024-02-22 01:36:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Briefly had this prof at UBC during covid. Canvas site posted late, putting behind in my new class after dropping his joke of a class (but it all worked, anything works better than a class with *ucker). Some hate recorded lectures; for me, zoom or recorded = ok. But what's not, is no lectures, all just copied/pasted readings. And no office hours

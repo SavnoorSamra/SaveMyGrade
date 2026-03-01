@@ -1,0 +1,115 @@
+Professor: Marco Bieri
+Professor Legacy ID: 933796
+Professor ID: VGVhY2hlci05MzM3OTY=
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 4
+Avg Difficulty: 2.4
+Num Ratings: 8
+Would Take Again Percent: -1
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: PHYS120
+Date: 2012-05-04 18:15:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He's a helpful teacher, gives lots example in the lecture and try to let u understand the concept.
+
+--- Rating #2 ---
+Class: PHYS100
+Date: 2011-12-12 02:43:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+A fantastic prof! i came into phys thinkin this class is gonna be hell and turned out to be my best class! soo good at teaching! if u pay attention and try in his class you will get a B forsure!
+
+--- Rating #3 ---
+Class: PHYS100
+Date: 2011-11-27 23:25:23 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+all over the place jumps from concepts, gives difficult assignments  but does not cover material properly in lecture. Gives assignment even in exam weeks:( I want my $ back.
+
+--- Rating #4 ---
+Class: PHYS100
+Date: 2011-10-06 00:21:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+This guy is the best physics prof that you can get in a life time! I've been to both SFU and UBC and I can clearly tell he is the best! SIMPLY THE BEST! As for easiness, it's hard to say, because if you study his course is easy, and if you don't it's not. But I think he is pretty fair in marking. He deserves a big gold medal for his teaching method
+
+--- Rating #5 ---
+Class: PHYS131
+Date: 2008-10-23 18:47:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Most awesome - est phys teacher ever ! He'll explain everything so clearly it'll be in your head in no time. He really is an extremely approachable prof with whom you can discuss physics, your lab, your homework and even punk rocking ! I would definitely recommend taking his class. :)
+
+--- Rating #6 ---
+Class: PHYS100
+Date: 2008-04-18 01:49:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Really good prof!!! His lectures were really clear and well laid out. Definitely approachable and willing to help!  His exams are fair too! just pay attention in class and you'll do fine.
+
+--- Rating #7 ---
+Class: PHY100
+Date: 2007-08-13 22:49:42 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He's a good prof but his notes are all examples, so basically you're learning from examples rather than notes, but it works out in the end as most of his class examples show up on the test...some tricky assignment questions but not to worry, marco's very approachable and he's willing to help...i didnt like physics before i took this course
+
+--- Rating #8 ---
+Class: PHYS100
+Date: 2007-02-23 01:51:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+he was the assistant prof for this course. he was pretty approachable and is really good with giving help when you need it.  the text for this was really bad though. i suggest finding a first year text in the library to study off of.

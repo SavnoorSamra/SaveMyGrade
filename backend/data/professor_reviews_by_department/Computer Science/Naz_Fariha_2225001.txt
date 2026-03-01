@@ -1,0 +1,141 @@
+Professor: Fariha Naz
+Professor Legacy ID: 2225001
+Professor ID: VGVhY2hlci0yMjI1MDAx
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1.7
+Avg Difficulty: 3.3
+Num Ratings: 10
+Would Take Again Percent: 20
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: CMPT276
+Date: 2018-01-13 06:44:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is not very organized and assignments are very hard. Avoid if you can.
+
+--- Rating #2 ---
+Class: CMPT276
+Date: 2017-04-25 15:42:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Is this course important? That is a YES YES! Is she teaching this course like it is important? That is a NO NO!
+
+--- Rating #3 ---
+Class: CMPT276
+Date: 2017-04-24 17:44:37 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Basically reads off from slides and no additional explanation is given. Has a thick Indian accent that may be hard to understand for some people. Not very open to feedback when her performance is clearly poor and lacks coherence. However, it is still possible to score higher than a B in her class if you try hard enough. (MEMORIZE EVERY BIT)
+
+--- Rating #4 ---
+Class: CMPT276
+Date: 2017-03-11 02:49:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+In the beginning it seems hard and challenging, but after attending few week it is fine. The way to succeed is to pay attention to her notes and prepare for the quizzes and exams. She gives fair chance to improve and learn. She is a very focused on her work even then she talks about Super Bowl in the class. (which is awesome)
+
+--- Rating #5 ---
+Class: CMPT276
+Date: 2017-03-11 01:55:48 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She makes you learn about the topics.
+
+--- Rating #6 ---
+Class: CMPT276
+Date: 2017-03-07 03:30:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Her midterm is lack of organize. She breaks our reading break with a too much long INDIVIDUAL assignment. PS. This course is basically about TEAM WORK. For the first two weeks, we even didn't get notes. She is more like a TA not an instructor.
+
+--- Rating #7 ---
+Class: CMPT276
+Date: 2017-01-13 21:29:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Unprepared, knowledgeable, stubborn and does not take criticism well. It took her a week to put together something resembling a course webpage. Terrible prof to have for such an important course. Avoid her at all costs.
+
+--- Rating #8 ---
+Class: CMPT276
+Date: 2017-01-13 17:24:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+So far, this instructor has been extremely unprepared. She doesn't have a website to keep students updated, she doesn't fill in notes, her explanations are unclear, the first assignment is a vague, understandable mess and her English is atrocious. The announcement of the first assignment, word for word says:  "It has ben uploaded".
+
+--- Rating #9 ---
+Class: CMPT276
+Date: 2017-01-11 23:19:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very strong accent that makes it difficult to understand new material in lectures. She also doesn't fill in the lecture slides, and seems very unprepared to teach in general
+
+--- Rating #10 ---
+Class: CMPT276
+Date: 2017-01-11 21:07:17 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Extraordinarily difficult to understand. It's not her fault that her accent is bad and she has bad English, but it bothers me very very much, as it directly affects my education. Assignment specifications are impossible to understand, and she doesn't know how to explain things. Incredibly frustrating class.

@@ -1,0 +1,141 @@
+Professor: Shawn Stapleton
+Professor Legacy ID: 666719
+Professor ID: VGVhY2hlci02NjY3MTk=
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 3.5
+Avg Difficulty: 3.6
+Num Ratings: 10
+Would Take Again Percent: 100
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: ENSC810
+Date: 2016-12-16 16:31:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The Best Supervisor, and the best teacher. He is very organized and full of knowledge.
+
+--- Rating #2 ---
+Class: ENSC380
+Date: 2012-04-15 20:31:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+hard final, easy midterm.. attend his class!!
+
+--- Rating #3 ---
+Class: ENSC380
+Date: 2012-03-26 14:08:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Good prof, is very helpful answering questions after class. Tries to keep everything clear. Exams are challenging, but most of the problems are from textbook or previous exams. Go to class, pay attention, ask questions, do homework, and you'll do fine. The material is pretty cool.
+
+--- Rating #4 ---
+Class: ENSC380
+Date: 2011-05-09 15:48:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He is very clear. Homework and class don't prepare you for the exams in any ways. His TA's are very helpful. Midterm and finals include mostly notes questions
+
+--- Rating #5 ---
+Class: ENSC380
+Date: 2011-04-25 15:57:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Excellent prof!! Very clear. His exams are pretty challenging. Don't study the hw problems for the exams. Do that harder questions in the textbook and the hard lecture examples. Overall excellent professor.
+
+--- Rating #6 ---
+Class: ENSC426
+Date: 2011-01-17 20:35:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Very clear and concise in explaining material. This class is very interesting as well. The only problem I found was that the assignments were too difficult with comparison to the lecture material. Overall, great professor.
+
+--- Rating #7 ---
+Class: ENSC380
+Date: 2010-06-30 16:16:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Horrible prof, so hard......it's a purely math course
+
+--- Rating #8 ---
+Class: ENSC380
+Date: 2010-03-21 02:17:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Please take 380 with him then QQ later
+
+--- Rating #9 ---
+Class: ENSC380
+Date: 2005-09-06 11:10:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+The most organized prof. loved his lectures - not very exciting, but very clear, logical, organized, and easy to follow. understanding of students level, and doesn't expect students to know everything beforehand. Not an easy course, but straight-forward and fair exams. just attending+studying the lectures thoroughly will probably give B or higher.
+
+--- Rating #10 ---
+Class: ENSC380
+Date: 2005-08-30 22:24:10 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Attending lectures are worthwhile because his explanations are better than some other ensc profs.

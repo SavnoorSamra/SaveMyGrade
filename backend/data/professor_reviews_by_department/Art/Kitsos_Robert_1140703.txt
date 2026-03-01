@@ -1,0 +1,24 @@
+Professor: Robert Kitsos
+Professor Legacy ID: 1140703
+Professor ID: VGVhY2hlci0xMTQwNzAz
+Department (CSV): Art
+Department (Fetched): Art
+Avg Rating: 4.5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: FPA321
+Date: 2008-06-25 11:11:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Rob is a fabulous passionate teacher! His classes are well structured and his technique is very intelligent, engaging and challenging. He deserves a raise!

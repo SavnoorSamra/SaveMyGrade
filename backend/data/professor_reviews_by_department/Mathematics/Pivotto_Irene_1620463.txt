@@ -1,0 +1,63 @@
+Professor: Irene Pivotto
+Professor Legacy ID: 1620463
+Professor ID: VGVhY2hlci0xNjIwNDYz
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2.9
+Avg Difficulty: 2.8
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: MATH154
+Date: 2011-12-11 05:40:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She is really nice but it was a bit hard to understand her accent at first but you'll get used to it. Goes through the notes too fast, copies straight from her notes to the overhead. Hard to tell the difference between her 2's, a's, e's, 0's, 0', they look all the same.
+
+--- Rating #2 ---
+Class: MATH154
+Date: 2011-12-10 18:11:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She's really kind!
+
+--- Rating #3 ---
+Class: MATH154
+Date: 2011-12-09 19:40:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I was having trouble understanding the math lecture I had enrolled in so I started going to her lectures instead and all of a sudden math was ten times easier. Her explanations made perfect sense to me. I barely had to use my textbook to understand the course anymore. Lecture notes related perfectly to assignments and exams. Love her.
+
+--- Rating #4 ---
+Class: MATH154
+Date: 2011-09-23 02:00:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Her notes are terrible... Don't bother trying to understand her mumbling. She's really nice just doesn't know how to teach. I went back to my calc 12 notes.

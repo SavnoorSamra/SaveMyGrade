@@ -1,0 +1,128 @@
+Professor: Shuna Ho
+Professor Legacy ID: 2443479
+Professor ID: VGVhY2hlci0yNDQzNDc5
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 1.5
+Avg Difficulty: 3.6
+Num Ratings: 9
+Would Take Again Percent: 22.2222
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: MGMT601
+Date: 2020-06-25 00:09:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+She does not have knowledge outside the textbook. she is too strict about the grades
+
+--- Rating #2 ---
+Class: BUS237
+Date: 2020-04-30 22:44:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Prject marks are dependent on TA. midterm and final were based on everything in lecture. Shuna will tell you beforehand which written questions are based on certain lectures.
+
+--- Rating #3 ---
+Class: BUS237
+Date: 2019-01-24 23:00:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great prof. She is informative and kind. She has high standards for her students so come prepared to learn and you will do fine.
+
+--- Rating #4 ---
+Class: BUS237
+Date: 2019-01-16 06:51:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Cant explain material well, test questions are very ambiguous, not helpful, TA should be the prof at this point
+
+--- Rating #5 ---
+Class: BUS237
+Date: 2019-01-05 06:20:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures are so dry and boring because she basically just reads off the slides (at times she even seems confused by the material). Short answer questions for the final are based on in-class discussion questions, so don't skip even though the lectures are terrible. Assignments are time-consuming but at least somewhat useful if you have a good TA.
+
+--- Rating #6 ---
+Class: BUS237
+Date: 2018-12-21 05:56:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+terrible prof. is not knowledgeable in the course topics what so ever. AVOID AT ALL COSTS. tests material that is not relevant to main course topics and no explanation for grades being given. not even put on canvas so no way to tell how you did or are doing. TERRIBLE PROFESSOR DOES NOT DESERVE TO TEACH UNIVERSITY LEVEL COURSES
+
+--- Rating #7 ---
+Class: BUS237
+Date: 2018-12-21 03:45:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The material itself is not difficult, but taking the course with this prof makes it so. Her lectures are very dry and boring - she just reads of her slides with very few of her own comments. Didn't really seem like she knew what she was doing. Short Answers on the finals were marked very hard. Was forced to buy the textbook brand new for MISlab.
+
+--- Rating #8 ---
+Class: BUS237
+Date: 2018-12-20 19:38:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+By far the worst course and professor ever. Midterm is super easy to distract you and make you feel the same about the final whereas the final is TOTALLY the opposite. Short questions do not make any sense and are graded SO ROUGH. It's like they want you to guess what the question is. TAs dont help. Grading is super hard. Take it with a better prof
+
+--- Rating #9 ---
+Class: BUS237
+Date: 2018-12-16 23:39:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+poor teaching skills and unfair midterm/finals. TA saved this course for a lot of people. AVOID her!!

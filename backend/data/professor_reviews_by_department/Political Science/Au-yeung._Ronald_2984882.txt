@@ -1,0 +1,50 @@
+Professor: Ronald  Au-yeung.
+Professor Legacy ID: 2984882
+Professor ID: VGVhY2hlci0yOTg0ODgy
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 3.7
+Avg Difficulty: 3.3
+Num Ratings: 3
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: POL200W
+Date: 2024-04-21 07:14:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Do not miss his research examples. Everything is based on them. slides, methods, and assignments.
+
+--- Rating #2 ---
+Class: POL200W
+Date: 2024-03-11 20:34:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's class can be hard for some but at the same time, you can learn a lot. Unlike others, he designs the class with the skills we need to be successful not only in this course but to move forward in the major
+
+--- Rating #3 ---
+Class: POL200W
+Date: 2024-02-07 05:53:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Avoid this professor at all costs is all I can say. His method of teaching and attitude is unbearable.

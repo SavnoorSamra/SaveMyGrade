@@ -1,4 +1,4 @@
-legacy_school_id,school_name,school_city,school_state,school_country,professor_id,professor_legacy_id,first_name,last_name,department,avg_rating,avg_difficulty,num_ratings,would_take_again_percent,is_saved
+elegacy_school_id,school_name,school_city,school_state,school_country,professor_id,professor_legacy_id,first_name,last_name,department,avg_rating,avg_difficulty,num_ratings,would_take_again_percent,is_saved
 ,Simon Fraser University,,,,VGVhY2hlci05MDA3MTg=,900718,Christopher,Pavsek,Film,4.3,2.8,32,100,False
 ,Simon Fraser University,,,,VGVhY2hlci0zMTI4MDcw,3128070,Susan,Bubra.,Business Administration,1.2,4.9,26,3.8462,False
 ,Simon Fraser University,,,,VGVhY2hlci0zMTM3OTI5,3137929,Sahar,Zaman,Political Science,4.9,1.9,7,100,False

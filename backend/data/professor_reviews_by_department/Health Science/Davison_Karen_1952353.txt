@@ -1,0 +1,24 @@
+Professor: Karen Davison
+Professor Legacy ID: 1952353
+Professor ID: VGVhY2hlci0xOTUyMzUz
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 5
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: HSCI140
+Date: 2014-12-27 15:03:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+An interesting class where I really learned to apply critical thinking to CAMs!

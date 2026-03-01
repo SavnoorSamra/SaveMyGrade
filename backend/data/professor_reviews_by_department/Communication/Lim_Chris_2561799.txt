@@ -1,0 +1,76 @@
+Professor: Chris Lim
+Professor Legacy ID: 2561799
+Professor ID: VGVhY2hlci0yNTYxNzk5
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 4.2
+Avg Difficulty: 2.6
+Num Ratings: 5
+Would Take Again Percent: 80
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: CMNS331
+Date: 2021-10-14 02:41:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Very disorganized TA, never prepared for tutorial and makes things up on the spot. Went to office hours with him and he couldn't explain anything. Such a joke.
+
+--- Rating #2 ---
+Class: CMNS331
+Date: 2021-04-05 19:48:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Chris is an awesome TA. Super friendly and knows what he's talking about. Approachable and gives great advice. Thanks Chris for all your hard-work!
+
+--- Rating #3 ---
+Class: CMNS331
+Date: 2021-01-08 07:25:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+he really made a late evening class through Zoom enjoyable! tutorials were always fun and interesting. marks nicely
+
+--- Rating #4 ---
+Class: CMNS331
+Date: 2020-04-23 23:07:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He's so nice and really wants everyone to do well! Very accessible outside of class. Easy marker.
+
+--- Rating #5 ---
+Class: CMNS326
+Date: 2019-12-29 20:39:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+easy marker

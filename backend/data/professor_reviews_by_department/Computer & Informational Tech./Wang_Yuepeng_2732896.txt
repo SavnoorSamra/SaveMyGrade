@@ -1,0 +1,37 @@
+Professor: Yuepeng Wang
+Professor Legacy ID: 2732896
+Professor ID: VGVhY2hlci0yNzMyODk2
+Department (CSV): Computer & Informational Tech.
+Department (Fetched): Computer & Informational Tech.
+Avg Rating: 5
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: CMPT383
+Date: 2024-04-08 04:33:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Yuepeng explains all the topics that are covered very clearly. The homeworks, assignments, midterm are fair.
+
+--- Rating #2 ---
+Class: CMPT383
+Date: 2023-04-06 00:41:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Yuepeng has clear enthusiasm for Haskell and programming language theory, there was no final exam, most of the marks were for programming assignments, and the class average was pretty high. You learn a lot and become a better coder in this course.

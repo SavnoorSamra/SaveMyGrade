@@ -1,0 +1,37 @@
+Professor: Natalya Alonso
+Professor Legacy ID: 2889844
+Professor ID: VGVhY2hlci0yODg5ODQ0
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 5
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS488
+Date: 2025-04-08 23:57:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Take her for BUS488 if you have the chance!! She's funny and her lectures are engaging. Her grading criteria is super clear, marking is pretty fair and has fast response time. Midterm 20%, final 20%, 2 group presentations and a research paper. By far my favourite business professor at Beedie.
+
+--- Rating #2 ---
+Class: BUS488
+Date: 2024-11-24 23:50:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+She is nice, but please be careful to listen to the lecture!

@@ -1,0 +1,223 @@
+Professor: Cherie Ng
+Professor Legacy ID: 2994109
+Professor ID: VGVhY2hlci0yOTk0MTA5
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 4.4
+Avg Difficulty: 2.7
+Num Ratings: 16
+Would Take Again Percent: 87.5
+
+Ratings Count Returned: 16
+
+--- Rating #1 ---
+Class: RISK311
+Date: 2025-12-15 17:32:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Cherie uses a flipped classroom structure which forces you to teach yourself the entire course. Lectures are attendance-marked tutorials & the tutorials are for weekly quizzes. Quizzes are super fair and highly resemble the weekly CA hw. The final is only MCQ, like FAM-L, and only the final answer is marked. Do as many FAM-L sample Qs as possible.
+
+--- Rating #2 ---
+Class: ACMA101
+Date: 2025-12-11 00:41:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+not a difficult class. easy assignments and the exams are just like the assignments and tutorials. cherie is enthusiastic and clearly loves what she does.
+
+--- Rating #3 ---
+Class: ACMA101
+Date: 2025-12-01 01:09:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Highly recommend
+
+--- Rating #4 ---
+Class: ACMA101
+Date: 2025-08-19 02:04:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Took this course with Cherie in Spring 2025. Enthusiastic and caring prof. Exams and assignments are based on lectures which are great at teaching concepts in a clear and concise way. If you're in a math-heavy major such as statistics, this course should be a breeze. Even if you're not, the math in this course is pretty easy to understand.
+
+--- Rating #5 ---
+Class: ACMA101
+Date: 2025-04-15 04:04:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Cherie was super enthusiastic and lectures were quite enjoyable. All assessments were 100% fair, if you keep up with everything, this class is very straightforward. Highly recommend this course
+
+--- Rating #6 ---
+Class: ACMA301
+Date: 2024-12-19 08:12:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Final grade is worth 45%
+Class final average below 50%
+Need C for ACMA 401 afterwards
+Grades not scaled
+Joke professor
+
+--- Rating #7 ---
+Class: ACMA101
+Date: 2024-12-17 05:49:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This course is quite content heavy, but Cherie did a great job breaking down concepts and making them manageable. I took ACMA101 with her in Spring 2024 and it was a good experience. Make sure to study key vocabulary terms, as those are free marks on exams if you memorized them. Fair bit of memorization, but not bad. Fun course!
+
+--- Rating #8 ---
+Class: ACMA101
+Date: 2024-12-04 13:39:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is the best teacher ever in ACMA course.
+
+--- Rating #9 ---
+Class: ACMA101
+Date: 2024-12-04 08:55:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Extremely nice and enthusiastic prof. Her course is very hair as exams and assignments are based directly off of the notes and she also includes some interactive activities in the course. 10/10 would recommend taking this course with Cherie.
+
+--- Rating #10 ---
+Class: ACMA101
+Date: 2024-12-04 05:17:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great Professor! Fair marker and easily accessible outside of class. She uploads all of her lecture notes which are really easy to follow along.
+
+--- Rating #11 ---
+Class: ACMA101
+Date: 2024-11-30 22:31:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Cherie was amazing this semester and was always ready to help during office hours. ACMA 101 was difficult but the course definitely would have been more difficult without her. Highly recommend actually attending and listening during lecture rather than relying on notes uploaded by Cherie.
+
+--- Rating #12 ---
+Class: ACMA101
+Date: 2024-10-28 12:40:10 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Unorganized. Can be rude at times.
+
+--- Rating #13 ---
+Class: ACMA101
+Date: 2024-07-31 04:01:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Cherie is all around a great person and professor. She always goes out of her way to explain her concepts clearly and concisely, and her assignments and exams are based off of the concepts and practice questions covered in lecture!
+
+--- Rating #14 ---
+Class: ACMA101
+Date: 2024-04-23 18:25:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Cherie is a great Prof to take ACMA 101 with. Her exams are very fair and based off the assignments we did in each unit. She is also very caring and goes out of her way to engage with the class during lectures. Her lectures are clear, concise, and easy to follow. Would strong recommend anyone take a course with her!
+
+--- Rating #15 ---
+Class: ACMA101
+Date: 2024-04-13 02:11:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Cherie is awesome.
+
+--- Rating #16 ---
+Class: ACMA101
+Date: 2024-03-21 02:40:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Cherie is a great Prof. Her lectures are super clear and she explains concepts thoroughly, and she goes at a pace that makes it easy for students to follow along. She's also quite funny at times. Assignments and exams sometimes take a while to get returned though, and the grading can be a bit disorganized. Overall a good experience.

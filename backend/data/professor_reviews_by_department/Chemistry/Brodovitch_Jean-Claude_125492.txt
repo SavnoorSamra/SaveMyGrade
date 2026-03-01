@@ -1,0 +1,76 @@
+Professor: Jean-Claude Brodovitch
+Professor Legacy ID: 125492
+Professor ID: VGVhY2hlci0xMjU0OTI=
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 4.8
+Avg Difficulty: 3.2
+Num Ratings: 5
+Would Take Again Percent: -1
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: CHEM366
+Date: 2010-03-15 18:11:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Nice and funny prof. chem366 is not as bad as ppl say. it is deadly hard if you are always doing things at last minute. Just do the labs at normal times and ask for help if needed. i recommend brodovitch=)
+
+--- Rating #2 ---
+Class: CHEM367
+Date: 2007-03-16 04:44:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He's very nice and funny. Most of the time he's easy to find and willing to help. I couldn't understand anything he said because of his accent until he taught me again in this course. If you get stuck on the lab report, just bring your file and ask him for help!
+
+--- Rating #3 ---
+Class: CHEM366
+Date: 2005-07-21 17:40:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: N
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+very helpful and friendly prof knows the stuff well and explains the material well no final exam!!  a challenging course though, lots of write up
+
+--- Rating #4 ---
+Class: CHEM366
+Date: 2003-06-12 04:26:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very helpful teacher! Boring course, lots of write up, take too much time, not very useful
+
+--- Rating #5 ---
+Class: NUSC341
+Date: 2003-02-07 16:15:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+very very amusing...and excellent at explaning course material

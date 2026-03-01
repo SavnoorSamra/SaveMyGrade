@@ -1,0 +1,37 @@
+Professor: Wendy Palen
+Professor Legacy ID: 2038872
+Professor ID: VGVhY2hlci0yMDM4ODcy
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 3
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BISC204
+Date: 2022-12-02 20:59:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I really liked Professor Palin's class; I think that she explained concepts really well and went a pace that was easy to write notes and to ask questions without missing anything. She was super easy to approach after class to ask questions and was very nice.
+
+--- Rating #2 ---
+Class: BISC830
+Date: 2016-06-19 04:21:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Clearly has better things to do than teach this class. Don't take it. Just don't bother.

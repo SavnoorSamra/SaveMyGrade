@@ -1,0 +1,24 @@
+Professor: Nathan Gock
+Professor Legacy ID: 2814863
+Professor ID: VGVhY2hlci0yODE0ODYz
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: HSCI471
+Date: 2022-08-24 01:12:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I took a special topics seminar with Nathan on Parkinson's Disease. It was a really nice course, and only the first two classes were lecture but review. The rest were presentations in groups, and he did a fair grading as long as you follow the criteria. I enjoy how laid back the course was. It was a GPA booster for me!

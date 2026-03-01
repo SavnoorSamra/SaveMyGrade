@@ -1,0 +1,37 @@
+Professor: Harald Yurk
+Professor Legacy ID: 1660362
+Professor ID: VGVhY2hlci0xNjYwMzYy
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 4.3
+Avg Difficulty: 2
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: HSCI216
+Date: 2012-03-11 18:15:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He's a great prof. He's completely clear on what he expects from you and based on the learning objectives in his class. Very approachable and always ready to answer questions and discuss issues related to the subject. One of the best profs I've had @ SFU. Yes the lectures r dry but thats not his fault.. learning scientific facts is not thrilling
+
+--- Rating #2 ---
+Class: HSCI216
+Date: 2011-12-07 02:04:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He is a good teacher except the lectures are boring as they could get. He is very helpful always makes sure you understand the concepts well. Omits questions from the exam if a lot of people got it wrong on the exam. Exams are fair overall some questions might be tricky. Overall good prof but his lectures a re a bit dry.

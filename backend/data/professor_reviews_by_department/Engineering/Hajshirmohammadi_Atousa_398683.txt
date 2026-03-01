@@ -1,0 +1,271 @@
+Professor: Atousa Hajshirmohammadi
+Professor Legacy ID: 398683
+Professor ID: VGVhY2hlci0zOTg2ODM=
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 2.5
+Avg Difficulty: 3.2
+Num Ratings: 141
+Would Take Again Percent: 52.0833
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENSC120
+Date: 2025-12-22 08:04:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+ENSC 120 is just a very easy course to take with her. overall, she's alright, the communication i got back from her for a few assignments i felt was unfair, but since 120 is very easy, its not that hard to make a comeback.
+
+--- Rating #2 ---
+Class: ENSC380
+Date: 2025-12-19 22:38:07 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Came in this class hoping it was good because everyone talks well of Atousa but yeah...this ain't it. Tests are straight forward but she doesn't give you anything to study for the tests, homework takes a while to do it's like 7 questions and sometimes with MATLAB, you also have group MATLAB assignments doable alone. Didn't like this class overall..
+
+--- Rating #3 ---
+Class: ENSC380
+Date: 2025-12-17 17:30:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I'll give it to you straight: everyone likes her  because of 120 and how easy she was in the course. However, this is a 3rd year level course and her lectures are garbage - you need to rely to other sources like videos and textbooks to get anything in this class and only attend lectures for those quiz codes. Tests are harder, altered assignments.
+
+--- Rating #4 ---
+Class: ENSC380
+Date: 2025-12-15 04:24:03 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+horrible lectures
+
+--- Rating #5 ---
+Class: ENSC380
+Date: 2025-12-14 06:43:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Genuinely a really nice lady. But unfortunately, her lectures are not too great. After the midterm, the material really accelerates, but idk if she has much to do with that. Fortunately, she posts her filled lecture slides and streams/records lectures via zoom. Exams are pretty straight forward to prepare for, but are somewhat difficult.
+
+--- Rating #6 ---
+Class: ENSC120
+Date: 2025-12-13 22:38:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The class is insanely easy and the prof is nice. Lectures are the most boring thing ever, but you can live through them. Midterm and Final were discussed 2 weeks before they were given, which gives you plenty of time to practice. Overall easy course.
+
+--- Rating #7 ---
+Class: ENSC380
+Date: 2025-12-11 07:45:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+giving them a packet yo
+
+--- Rating #8 ---
+Class: ENSC380
+Date: 2025-12-10 21:15:36 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I think Atousa is personally a very nice prof, but like other have mentioned, I could not for the life of me learn from her lectures in this class. To study for the final, I watched videos from a different school and everything made sense easily. Also based on the course description, we only covered about half the course's material.
+
+--- Rating #9 ---
+Class: ENSC380
+Date: 2025-12-09 02:58:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I mean I basically learned on my own, the tests are like the homework but a little different and more advanced. Final was okay, about expected difficulty. For a 3rd year engineering level course though, I would expect to learn something during lectures but I'm always left confused. Would not take again, glad it's over..
+
+--- Rating #10 ---
+Class: ENSC380
+Date: 2025-12-08 03:09:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The class is fair, and material isn't too hard, but Atousa isn't great. Notes are messy and lectures mostly repeat the slides. Pop quizzes force attendance. No materials are provided for exams, but grading scheme is generous (Many buffers). Also complains about participation and grades, which is grating. Also has a lot of tangents during lecture.
+
+--- Rating #11 ---
+Class: ENSC380
+Date: 2025-12-08 01:59:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She's a nice person, I've asked her multiple questions but her delivery could use work, not sure if it's the accent or just reading off slides but I don't understand much until I go home and read myself...MT was straight forward but she doesn't give any material for tests. Class is dead quiet, no one knows what's going on too.
+
+--- Rating #12 ---
+Class: ENSC380
+Date: 2025-12-06 16:57:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+can't wait for the knowledge gap in 320
+
+--- Rating #13 ---
+Class: ENSC380
+Date: 2025-12-06 04:37:17 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+i refuse to believe that anyone in this class is actually learning
+
+--- Rating #14 ---
+Class: ENSC120
+Date: 2025-11-25 00:59:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very easy class. The labs are pretty easy. The midterms and final are given 2 weeks beforehand and help prepare for the actual test itself. The prof is nice, she's very open to answering questions during lecture.
+
+--- Rating #15 ---
+Class: ENSC120
+Date: 2025-11-23 23:35:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very easy class. The only way to do poorly is by ignoring the class and not reading instructions. All assignments, midterms, and final, are given ~1-2 weeks beforehand and are very detailed. It practically gives you the answers and deducted marks are usually just because of rounding errors. The prof is nice, people just don't like her accent.
+
+--- Rating #16 ---
+Class: ENSC120
+Date: 2025-11-06 23:33:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+knowledgeable and caring
+
+--- Rating #17 ---
+Class: ENSC120
+Date: 2025-10-23 15:40:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Most of the grades for this class come from labs. It seems daunting at first, but all the instructions are very detailed, and if you actually read them it's very easy. Unfortunately, your success is dependent on your lab partner which is randomly picked. Lectures (at 8AM btw) are not entirely necessary, as she just goes over the lab in more detail.
+
+--- Rating #18 ---
+Class: ENSC120
+Date: 2025-08-07 03:43:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Avoid at all costs
+
+--- Rating #19 ---
+Class: ENSC120
+Date: 2024-12-18 09:45:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The class itself is pretty easy but atousa is such a pain to deal with, a lot of times she comes off as very rude/unapproachable and the TA's sometimes don't know what to do either leaving you to fend for yourself. I remember she insulted me once for asking for clarification because of a concept she couldn't properly explain
+
+--- Rating #20 ---
+Class: ENSC280
+Date: 2024-10-26 03:34:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures are alright, she gives alot of resources so youll be well prepared for exams. In class quizzes are definitely kind of annoying though

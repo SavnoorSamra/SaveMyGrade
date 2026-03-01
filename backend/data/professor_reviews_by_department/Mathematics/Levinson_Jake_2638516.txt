@@ -1,0 +1,271 @@
+Professor: Jake Levinson
+Professor Legacy ID: 2638516
+Professor ID: VGVhY2hlci0yNjM4NTE2
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4.8
+Avg Difficulty: 3.6
+Num Ratings: 22
+Would Take Again Percent: 95.4545
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH440
+Date: 2024-12-19 02:45:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Took years ago (pandemic) but still memorable. Handwrote all lecture notes, lecture times dedicated to much-needed practice. Accommodating deadlines; cared more about learning than pressuring. Offered 1-1 meeting to all of us to discuss course progress, grad school plans, etc. Need more profs like him; might've switched degrees w/o his 440 course.
+
+--- Rating #2 ---
+Class: math240
+Date: 2023-08-04 20:03:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great lectures, easy to understand. Assignments and quizzes were reasonable and helped practice the course content. The two midterms and final exam were tough, but fair.
+
+--- Rating #3 ---
+Class: Math251
+Date: 2022-12-26 22:34:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Quality lectures with following online assignments to prepare well for the exams. Also the first professor I've approached during office hours and he's respectful and actually helped my understanding. Highly recommend.
+
+--- Rating #4 ---
+Class: math240
+Date: 2022-12-24 21:48:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jake was great. The only office hours I have ever found useful.
+
+--- Rating #5 ---
+Class: math240
+Date: 2022-12-23 22:13:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Really great prof. Would highly recommend taking a class with him. Exams are definitely tough but grading is fair.
+
+--- Rating #6 ---
+Class: Math251
+Date: 2022-12-22 02:25:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Jake is nice and caring
+
+--- Rating #7 ---
+Class: MATH340
+Date: 2021-12-24 03:38:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Gives great lectures, explains everything very well. Assignments/exam were somewhat difficult but fair and marked reasonably. Would definitely recommend taking a class with him.
+
+--- Rating #8 ---
+Class: MATH440
+Date: 2021-07-13 08:25:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very accessible outside of class. Difficult homework and difficult final, but compensates for that with a change in how the grades are weighed. Best math prof Ive ever had. Made us feel like mathematicians rather than students.
+
+--- Rating #9 ---
+Class: MATH440
+Date: 2021-05-12 06:02:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Lecture notes are well-prepared since there are many examples following the new definitions and theorems. The Q&amp;A sessions and office hours were always fairly helpful. Whenever you have some questions from the class, just go ask him and he would be willing to answer that. It is my pleasure to have Jake as my instructor this term.
+
+--- Rating #10 ---
+Class: MATH440
+Date: 2021-04-23 12:46:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Jake is a professor that is genuinely responsive to students. The amount of effort he puts in to the lecture notes and worksheets shows that although he may expect a lot from his students, he puts in just as much effort towards the course. Bi-weekly quizzes are a substitute for a midterm.
+
+--- Rating #11 ---
+Class: MATH340
+Date: 2021-03-01 20:18:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Best professor
+
+--- Rating #12 ---
+Class: MATH340
+Date: 2021-01-13 09:14:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Boss.
+
+--- Rating #13 ---
+Class: MATH340
+Date: 2020-12-23 20:59:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Dr Levinson's passion for teaching and mathematics is clear, as he answers questions and gives feedback even outside of class time. Moreover, he is empathetic: he restructured the course based on how we were doing, and especially looked out for struggling students. I've had great profs, but Dr Levinson is on another level.
+
+--- Rating #14 ---
+Class: MATH340
+Date: 2020-12-23 05:36:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Jake is undoubtedly one of the best professors at SFU period (not just in the Mathematics department). He is kind, respected, and among all else, an inspiration to those wanting to become an instructor. On top of making a notoriously difficult class manageable, he joined the Discord that I created for the class to answer questions on his free time.
+
+--- Rating #15 ---
+Class: MATH340
+Date: 2020-12-20 08:11:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Spectacular prof. Joined the class discord, and gave input and feedback whenever there were questions.
+
+--- Rating #16 ---
+Class: MATH340
+Date: 2020-12-20 08:10:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Massive respect as a prof. Joined the class discord, and gave input to any questions posed.
+
+--- Rating #17 ---
+Class: MATH340
+Date: 2020-12-17 04:05:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Unorganized, just nice. Does not replies to email.
+
+--- Rating #18 ---
+Class: MATH340
+Date: 2020-12-10 03:37:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Prof. Levinson is one of the best profs I've ever had. He cares a lot about his students and is easily accessible outside of class. He is very interactive and can make a boring or difficult subject interesting. Take his class while you can.
+
+--- Rating #19 ---
+Class: MATH340
+Date: 2020-12-09 20:22:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Just do yourself a favor and take a class with this Prof. Jake is somehow a perfect balance of being smart, approachable, and organized. On top of all that he even cut our class some slack mid-semester when we were all feeling burned out. This really helped us catch up on the material and continue to succeed for the rest of the semester.
+
+--- Rating #20 ---
+Class: MATH340
+Date: 2020-12-09 04:07:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Genuinely friendly and empathetic. Good notes, very fair coursework. Very helpful lectures.

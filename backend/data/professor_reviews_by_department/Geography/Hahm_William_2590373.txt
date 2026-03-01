@@ -1,0 +1,76 @@
+Professor: William Hahm
+Professor Legacy ID: 2590373
+Professor ID: VGVhY2hlci0yNTkwMzcz
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 4.4
+Avg Difficulty: 2.8
+Num Ratings: 5
+Would Take Again Percent: 80
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: GEOG311
+Date: 2022-05-01 19:38:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The averages in this course and grading structure is a bit different from a lot of the other courses I've taken (higher), but also ultimately everyone still did fine and it worked out. Our midterm average was 90% I think. Jesse was a good prof and I liked this class
+
+--- Rating #2 ---
+Class: GEOG311
+Date: 2021-12-27 23:42:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+As others mentioned midterm and final only 30 or fewer questions so each one impacts final grad heavily. And grading his scale is bumped higher, but 50% of your grade comes from labs marked for completion. Class average was B+
+
+--- Rating #3 ---
+Class: GEOG418
+Date: 2021-04-26 21:08:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Goes by Jesse instead. Very thoughtful, precise, and knowledgeable in his field. Doesn't make you feel like a fool when you ask a question. He's very inviting and inspires you throughout the semester to learn more. His teaching this semester was via Primary Literature which is uniquely engaging. You won't want to miss taking this course.
+
+--- Rating #4 ---
+Class: GEOG311
+Date: 2021-01-20 19:40:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Jesse did an amazing job adapting to the new online learning format. His youtube videos for this course were very well done and extremely helpful. Having the lab assignments for completion took a lot of the stress away. I do agree that the exams were too short, resulting in individual exam questions heavily impacting your overall course grade.
+
+--- Rating #5 ---
+Class: GEOG311
+Date: 2020-12-17 01:42:44 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This is a very average course. The material is not that hard but also not very interesting. Assignments are long and confusing but marked mainly for completion. Exams are very short (1 MC question is 1% of final grade) and Jesses grading scale is challenging with A+ 97%, A 93%, and A- 90%, so there is little room for error.

@@ -1,0 +1,37 @@
+Professor: Scott Drake
+Professor Legacy ID: 2161358
+Professor ID: VGVhY2hlci0yMTYxMzU4
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: ENGL112W
+Date: 2016-12-05 21:07:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is awesome!!! Take his class!!
+
+--- Rating #2 ---
+Class: ENGL101
+Date: 2016-08-06 21:48:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Best at teaching english literature. Probably the least tough grader i ever met in sfu.

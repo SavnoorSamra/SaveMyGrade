@@ -1,0 +1,24 @@
+Professor: Kevin Leung
+Professor Legacy ID: 2647897
+Professor ID: VGVhY2hlci0yNjQ3ODk3
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: POL100
+Date: 2020-12-05 00:16:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Kevin was an awesome TA this semester! He offered really helpful feedback on our assignments which was great to have. Also, he was super nice in tutorial and made the class more fun.

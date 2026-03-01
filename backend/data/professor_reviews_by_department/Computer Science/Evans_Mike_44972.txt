@@ -1,0 +1,271 @@
+Professor: Mike Evans
+Professor Legacy ID: 44972
+Professor ID: VGVhY2hlci00NDk3Mg==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1.9
+Avg Difficulty: 4.1
+Num Ratings: 100
+Would Take Again Percent: -1
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT300
+Date: 2014-03-09 03:51:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I would avoid taking classes with him but he's tolerable. He's a bright guy and knows the subject but cannot organize the course in a teachable way. His notes are just awful. He gives 'skeleton notes' which amount to 10 words on a page and expects you to listen and fill everything in during lectures. Please create complete and useful notes!
+
+--- Rating #2 ---
+Class: CMPT225
+Date: 2013-12-14 19:06:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+This professor is so bad he made me want to transfer out of computing science. The book he recommends only teaches either in one language. He barely references the book. His notes are complete and utter garbage; completely useless. He cancels class frequently and more than half of the stuff on his final wasn't even covered in class! Please AVOID.
+
+--- Rating #3 ---
+Class: CMPT225
+Date: 2013-12-14 17:33:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Arrogant prof with a horrible lecture style. He cancels his lectures and office hours often and isn't available via appointment. Best advice I can give: just stick with Greg Mori for 225 and you will be golden
+
+--- Rating #4 ---
+Class: CMPT225
+Date: 2013-11-27 14:30:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+This is an excerpt from his 100% official school website: "if we are chatting, and there is a q, i will limit your time to 10 mins. if you still need time after this, you can rejoin the end of the q / come to another office hr / make an appointment / see the ta." He does not conduct himself in a professional manner and continually makes blunders.
+
+--- Rating #5 ---
+Class: CMPT300
+Date: 2013-11-12 23:49:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+my advice to you, don't take course with evans unless you wanna kill you gpa. asta la vista gpa .... booom!
+
+--- Rating #6 ---
+Class: CMPT300
+Date: 2013-10-20 21:47:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+The worest prof I have ever met. Nobody understands his humour. His voice is very low and you could just hear the first word of his sentence. Don't choose his course. FOR YOUR SAFETY, PLEASE DON'T!
+
+--- Rating #7 ---
+Class: CMPT225
+Date: 2013-09-26 13:50:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+he is very terrible ! he does not use any books, and you hardly to follow him with his notes. Some notes he has written is difficult to understand such as give you some letters among a word. you do not know what he has written, and you have to spend time to find the meaning. His words are small enough that you can not see in class.
+
+--- Rating #8 ---
+Class: CMPT300
+Date: 2013-09-12 23:51:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I have to say this PROF is terrible!!!! The lecture notes is blank, and almost nothing had been written down in the notes after lecture! It is super hard to follow his lecture!!!!!!!
+
+--- Rating #9 ---
+Class: CMPT300
+Date: 2012-03-19 23:28:12 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+His lecture notes are useless for self-learning since there is little information in them but blanks. He explained each concepts clearly. But it's difficult to build a clear structure of all concepts on mind. But anyway, Mike himself is a nice guy.
+
+--- Rating #10 ---
+Class: CMPT126
+Date: 2012-01-11 13:24:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Ridiculous prof. Is an elitist. Uses conflated language in lecture and assignment instructions. Stuff in lecture does not even help you. May as well borrow a book in the library and learn Java yourself. TA's were nice though.
+
+--- Rating #11 ---
+Class: CMPT300
+Date: 2012-01-06 14:57:03 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Mike provides &quot;skeleon&quot; notes which are mostly useless without attending the lectures (I did attend all the lectures). The ideas he goes through in the lectures were easy to understand but he always left the important parts for us to &quot;think about&quot;.
+
+--- Rating #12 ---
+Class: CMPT126
+Date: 2011-12-22 04:57:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Horrible! Arrogant and nuts. He asked for the output of a spaguetti code in the final. He asked to implement a method to verify data inside the constructor and when I argued why, he said because it is a good practice of OOP lol. He even know how to code! Even a super easy thing becomes confuse in his hands! Again, nuts!
+
+--- Rating #13 ---
+Class: CMPT125
+Date: 2011-12-22 02:20:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Never provide even one assignment's solution during the semester! 20 pages' stupid final papers! Force students to waste time on high-level designs which even does not appear in the textbook! So try his course if you want to know how fXXXing a SXX can be in this world.
+
+--- Rating #14 ---
+Class: CMPT125
+Date: 2011-12-20 20:04:13 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+I really agreed lots of comments about this course.I checked my grade and I got F...I could not believe it .except my final grade I kept 80% level...taking his course is waste of time and money..
+
+--- Rating #15 ---
+Class: CMPT125
+Date: 2011-12-20 13:53:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Why don't you teach in the field of mathematics , Mr. &quot;Mathematician&quot;&#63; Oh right, because you cannot even do simple calculations, such as 7*3 in your head, yet you claim that the way that computer scientists think is stupid. Sorry, but you shouldn't teach computing science either.
+
+--- Rating #16 ---
+Class: CMPT125
+Date: 2011-12-20 03:57:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+his attitude toward students; it seems that we are quite worthles; lectures are useless and important java syntex are not discussed; final is extremely long and he made mistake on the final; assignments do not help us to prepare the final at all; what a b astard; quite useless and unwelcoming.
+
+--- Rating #17 ---
+Class: CMPT300
+Date: 2011-12-19 18:44:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Exams and projects are very hard. Doesn't explain a lot of the stuff and expects students to study the textbook/internet/other sources and learn on their own. His notes are worthless, and he skips a lot of them in class, just explaining the basics. Avoid taking class with him if you have the option.
+
+--- Rating #18 ---
+Class: CMPT125
+Date: 2011-12-17 03:10:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+20 pages in final paper, bad prof I even seen, dont take his class.  Why he work in SFU&#63;
+
+--- Rating #19 ---
+Class: CMPTD100
+Date: 2011-11-24 02:39:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+AVOID THIS GUY AT ALL COSTS....... His classes are poorly presented has no idea on some of the most basic things that computer professors should know about computers and definitely doesn't know any of the material he is teaching. He's supposed to be teaching java but all he talks about is &quot;Concepts&quot; and how much better C++ is than java.
+
+--- Rating #20 ---
+Class: CMPT125
+Date: 2011-11-03 23:46:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+bad teacher..does not know java syntax..assignments and exams are vague..is not clear about what he wants in the question. avoid this teacher if u can!!

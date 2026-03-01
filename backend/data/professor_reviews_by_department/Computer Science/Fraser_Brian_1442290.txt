@@ -1,0 +1,273 @@
+Professor: Brian Fraser
+Professor Legacy ID: 1442290
+Professor ID: VGVhY2hlci0xNDQyMjkw
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.4
+Avg Difficulty: 3.1
+Num Ratings: 151
+Would Take Again Percent: 88.3333
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT120
+Date: 2026-01-28 03:50:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Dr. Brian Fraser was the best professor I've ever had. Thank you for my B.A. in English Literature.
+
+--- Rating #2 ---
+Class: CMPT201
+Date: 2025-12-24 19:36:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Brian Fraser is AMAZING! His lectures are great and he spends some time going over actual code and giving coding exercises in-lecture, and they're even recorded, so you can watch them whenever! That said, the long assignments in the latter half of the course are VERY long, so do account for that when deciding your course load!
+
+--- Rating #3 ---
+Class: CMPT201
+Date: 2025-12-23 17:15:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great lecturer for a very intensive (particularly workload-wise) course. I learnt a lot, and while the workload (sections are standardized) was extreme at times (especially with the new quizzes/labs that I felt were disjointed at times i.e. what was expected to know), Brian's a very caring, experienced, and inspirational lecturer. Take it with him.
+
+--- Rating #4 ---
+Class: CMPT201
+Date: 2025-12-22 23:30:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+A LOT of assignment work but it's expected for a 4 credit course, midterm and final were very reasonable, quizzes weren't too bad if you did the assignments. What I really like about this prof is that he's very accessible outside of class, along with the TA's, and has lots of online office hours, which is very beneficial when u can't go in person
+
+--- Rating #5 ---
+Class: CMPT201
+Date: 2025-12-14 03:28:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Brian is a great prof, with his lectures being informative and interesting.
+
+His assignments are fun to do, though be aware of the long assignments. These take up to 30 hours to do. Even if you get 100% on one, you need a high grade on the quiz that unlocks your assignment's grade. The quizzes were obscure and shouldn't be underestimated.
+
+--- Rating #6 ---
+Class: CMPT201
+Date: 2025-12-12 06:07:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Goat best prof at sfu
+
+--- Rating #7 ---
+Class: CMPT201
+Date: 2025-12-11 06:33:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Makes difficult class seem not so bad. Offers lots of support through good, engaging lectures, and actively answering questions online and in person. The course does have a lot of assignments, be prepared to spend a lot of time on them, note each assignment has an accompanying quiz. Highly recommend to go to his lectures. Overall amazing prof.
+
+--- Rating #8 ---
+Class: CMPT201
+Date: 2025-12-09 00:41:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+NEVER TAKING HIM AGAIN
+
+--- Rating #9 ---
+Class: CMPT201
+Date: 2025-12-02 09:41:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best prof at SFU by every possible measure. Lectures are genuinely fun and useful. Assignments (while difficult) are incredibly rewarding to complete. Neovim sucks in the beginning, but it's not actually that hard (there's ~10 keybinds you genuinely need to memorize) and you get used to it quickly. Quizzes are easy if you just do the assignments.
+
+--- Rating #10 ---
+Class: CMPT201
+Date: 2025-12-01 00:36:01 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The expectations in the course are wild! I mean you're somehow supposed to do the excessively long assignments, perform well/study for the difficult quizzes, remain caught up the heavy materials and lectures and also do the weekly labs. I mean this is easily the equivalent of 2 courses. Pair with easier classes or you'll probably suffer like i did
+
+--- Rating #11 ---
+Class: CMPT213
+Date: 2025-11-27 01:43:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+This guy literally needs to chill with how strict he is with people cheating like i get it your not supposed to, but he will literally write you up for nothing. Some guy he wrote up was saying hes just waiting until he graduates and I wont even say what he wants to do.
+
+--- Rating #12 ---
+Class: CMPT201
+Date: 2025-10-30 20:58:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's a good professor but makes very difficult quizzes for each assignment that can lead you together trying a much worse grade even after putting in all the time and effort.
+
+--- Rating #13 ---
+Class: CMPT201
+Date: 2025-10-23 18:47:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Brian's one of the most respected and greatest profs in SFU's cs faculty. However, this sem he introduced the quizzes which cap your assignment grade. In order to get a full on assignment you need 5 or 6/6 on the quiz for that assignment. I don't think this does justice to the amount of time spent on assignments as quizzes are sometimes confusing
+
+--- Rating #14 ---
+Class: CMPT201
+Date: 2025-08-20 01:51:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This was a tough course, but he included very helpful analogies and concise explanations. The exams were based on the assignments and lecture slides. He records lectures, but he brings a lot of enthusiasm and activities to his lectures so its worth going. The rumours about the long assignments are true so make sure to start those early.
+
+--- Rating #15 ---
+Class: CMPT201
+Date: 2025-05-01 05:57:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One word: GOAT
+
+--- Rating #16 ---
+Class: CMPT201
+Date: 2025-04-26 23:57:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Easily the best prof I've had at SFU so far. The course is dense, time-consuming and the process of learning neovim made me want to walk into the ocean and never come back. But in the end, it was worth it. The assignments are long but rewarding and now I have to stick to IDEs with neovim support otherwise it feels too slow. 10/10 would recommend.
+
+--- Rating #17 ---
+Class: CMPT201
+Date: 2025-04-26 21:46:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best CMPT prof, explains all concepts exceptionally well. All lectures are recorded so you are not required to attend. Always accessible for extra help. Provides detailed study guides for exams.
+
+--- Rating #18 ---
+Class: CMPT201
+Date: 2025-04-25 08:04:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures are engaging. Makes you want to go to class because you learn a lot and it isn't boring. Throws in humour, great analogies, and keeps a bright smile up. Don't think you can get a better computer science prof here at sfu.
+
+--- Rating #19 ---
+Class: CMPT433
+Date: 2025-04-24 08:14:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+4 for difficulty due to the crazy workload, so pair with easy classes. Pick your project group members wisely. Quizzes were trivial if you understood the assignments and lecture slides. Lectures are posted online, but they may sometimes have missing audio or examples that are relevant to assignments. Go to class, Brian's an awesome lecturer!
+
+--- Rating #20 ---
+Class: CMPT201
+Date: 2025-04-21 15:30:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Goated prof, quite possibly can't get any better than this for cmpt. long assignments require alot more time so be vigilant about that. Overall one of my best experiences in cmpt courses

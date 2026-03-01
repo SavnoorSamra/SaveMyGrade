@@ -1,0 +1,24 @@
+Professor: Nilesh Saraf
+Professor Legacy ID: 2676594
+Professor ID: VGVhY2hlci0yNjc2NTk0
+Department (CSV): Information Systems
+Department (Fetched): Information Systems
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BUS362
+Date: 2021-06-29 23:44:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I loved this Professor, he really believes that everyone has something that he can learn from them which is why I believe he marks the term project on his own, lots of group assignments so hope for a good group, course is very practical which helps you apply the knowledge in life later, his exams are also practical and fair, very highly recommended

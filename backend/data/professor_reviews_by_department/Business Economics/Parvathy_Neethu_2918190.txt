@@ -1,0 +1,89 @@
+Professor: Neethu  Parvathy
+Professor Legacy ID: 2918190
+Professor ID: VGVhY2hlci0yOTE4MTkw
+Department (CSV): Business Economics
+Department (Fetched): Business Economics
+Avg Rating: 5
+Avg Difficulty: 2.7
+Num Ratings: 6
+Would Take Again Percent: 100
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: BUS435
+Date: 2025-12-18 06:18:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Loving her teaching style, she could explain the concept easily, and it was funny and comfortable to take a course with her! Highly recommended
+
+--- Rating #2 ---
+Class: BUS432
+Date: 2025-12-18 06:17:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is clever and knowledgeable; SFU is a treasure to have her as an instructor!
+
+--- Rating #3 ---
+Class: BUS431
+Date: 2025-12-18 06:15:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Best prof ever met at Beedie!!!
+
+--- Rating #4 ---
+Class: BUS430
+Date: 2025-12-09 12:13:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of those professors who is passionate about her research. She makes learning easy by breaking any complex topics into simple, easy-to-understand explanations. Very helpful and approachable too, but lectures can get a bit dry at times, especially if it's an afternoon lecture.
+
+--- Rating #5 ---
+Class: BUS430
+Date: 2025-01-27 17:18:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Hands down the best professor! Teaches with clarity, passion, and keeps the class engaged. She makes learning truly enjoyable.
+
+--- Rating #6 ---
+Class: BUS430
+Date: 2024-12-14 18:35:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Parvathy's teaching style focuses on readings and class discussions, which means that she highly appreciates any inputs from the class. The readings are not too long, but be prepared to come to class having done some reading and participate. Grading mostly by 2 midterms (no memorization needed), final group project, and participation.

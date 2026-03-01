@@ -1,0 +1,128 @@
+Professor: Ofelia Flores
+Professor Legacy ID: 2643775
+Professor ID: VGVhY2hlci0yNjQzNzc1
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 1.6
+Avg Difficulty: 3.4
+Num Ratings: 9
+Would Take Again Percent: 0
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: EDUC222
+Date: 2021-12-26 07:03:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Ofelia is very disorganized and it feels like she should be teaching a masters class rather than a 2nd yr educ class. Her passion in the topic of research is apparent but it doesnt translate to the best teaching methods. there's weekly quizzes which are decent, usually based on the readings, lecture or lecture slides.
+
+--- Rating #2 ---
+Class: EDUC220
+Date: 2021-08-11 21:40:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Worst class I've ever taken. She went away the week our term paper was due, doesn't respond to questions properly, isn't very accessible, and doesn't teach properly. Our weekly discussion activities felt like assignments for a W course. Textbook readings were long and sometimes the info felt unnecessary. This class has overwhelmed me all semester.
+
+--- Rating #3 ---
+Class: EDUC220
+Date: 2021-08-01 20:04:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Very disorganized/last minute. She held a Zoom meeting for any questions about an assignment, except she told us about it 2 days in advance, planned it on a Saturday, and time slots were 10 minutes. Rarely answers questions, and if she does she just refers you to the syllabus which contradicts Canvas. Lectures are just an audiobook of the textbook.
+
+--- Rating #4 ---
+Class: EDUC220
+Date: 2021-07-28 02:10:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Easy/interesting course but disorganized. Put up a discussion board where you can ask questions, but checks it once every two weeks at best and hardly responds to emails. The assignments, readings, lectures, rubrics, are spread all over Canvas and you have to explore the page to find them. The due dates on Canvas don't match the syllabus either.
+
+--- Rating #5 ---
+Class: EDUC220
+Date: 2021-07-17 02:04:54 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Ofelia is a very disorganized prof with no understanding of Canvas as a learning platform. Be prepared for assignments not to be uploaded onto the platform, unclear due dates, discrepancies between Canvas and the syllabus and for assignments to take forever to be graded. Expect to teach yourself from the textbook.
+
+--- Rating #6 ---
+Class: EDUC222
+Date: 2020-12-28 10:15:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+She wasted a lot of time during lectures talking about nothing or figuring out how to work with zoom and that made lectures very long and boring. She very frequently posted assignments on canvas without any warning with a due date on the next day. The lectures were not interesting or worth going to, everything was from the textbook.
+
+--- Rating #7 ---
+Class: EDUC222
+Date: 2020-12-16 20:45:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I had to teach myself the entire course from the text, she was so disorganized and could not give clear criteria, especially for exams. She often wasted 1-2 hours of our 3 hour class rambling, not talking about chapter content. We had constant weekly assignments and group work that was a total waste of time. Take this course with someone else!
+
+--- Rating #8 ---
+Class: EDUC222
+Date: 2020-12-15 03:26:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+despite being a 2nd year course thats only worth 3 credits, you do so much work! there's weekly quizzes, textbook summarizing notes, homework and in class group assignments almost every class. her lectures are also very disorganized and is not very good at explaining.
+
+--- Rating #9 ---
+Class: EDUC222
+Date: 2020-12-03 00:16:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She rarely replies to emails and avoids having office hours, also very unorganized (confuses her students). There are weekly assignments and quizzes. You cannot miss a single lecture because she assigns random group assignments during class and makes us submit it by the end of the day. Her lectures are boring and long (goes over the time limit).
