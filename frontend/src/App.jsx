@@ -6,6 +6,7 @@ const initialForm = {
   query: 'Easy online class with no finals',
   department_preference: 'All Departments'
 };
+const ALL_DEPARTMENTS_LABEL = 'All Departments';
 
 const featureCards = [
   {
@@ -53,15 +54,30 @@ function App() {
   const [form, setForm] = useState(initialForm);
   const [loading, setLoading] = useState(false);
   const [departmentsLoading, setDepartmentsLoading] = useState(true);
+  const [departmentsError, setDepartmentsError] = useState('');
   const [error, setError] = useState('');
   const [results, setResults] = useState([]);
-  const [departments, setDepartments] = useState(['All Departments']);
+  const [apiMeta, setApiMeta] = useState(null);
+  const [departments, setDepartments] = useState([ALL_DEPARTMENTS_LABEL]);
+  const [departmentQuery, setDepartmentQuery] = useState('');
+  const [departmentOpen, setDepartmentOpen] = useState(false);
+  const [backendStatus, setBackendStatus] = useState({ loading: true, healthy: false, note: '' });
+  const [showAllResults, setShowAllResults] = useState(false);
   const [savedCourses, setSavedCourses] = useState(() => {
     try {
       const raw = localStorage.getItem('smg_saved_courses');
       return new Set(raw ? JSON.parse(raw) : []);
     } catch {
       return new Set();
+    }
+  });
+  const [savedCourseMap, setSavedCourseMap] = useState(() => {
+    try {
+      const raw = localStorage.getItem('smg_saved_course_map');
+      const parsed = raw ? JSON.parse(raw) : {};
+      return parsed && typeof parsed === 'object' ? parsed : {};
+    } catch {
+      return {};
     }
   });
   const [isScrolled, setIsScrolled] = useState(false);
@@ -89,12 +105,51 @@ function App() {
   const resultsIconLeftRef = useRef(null);
   const resultsIconRightRef = useRef(null);
   const resultCardRefs = useRef([]);
+  const departmentBoxRef = useRef(null);
 
   const snapLockRef = useRef(false);
+  const programmaticScrollRef = useRef(false);
+
+  const selectedDepartment = form.department_preference || ALL_DEPARTMENTS_LABEL;
+  const filteredDepartments = useMemo(() => {
+    const query = departmentQuery.trim().toLowerCase();
+    const source = departments.filter((dept) => dept !== ALL_DEPARTMENTS_LABEL);
+    if (!query) {
+      return source.slice(0, 120);
+    }
+    return source.filter((dept) => dept.toLowerCase().includes(query)).slice(0, 120);
+  }, [departmentQuery, departments]);
 
   useEffect(() => {
     resultCardRefs.current = resultCardRefs.current.slice(0, results.length);
   }, [results.length]);
+
+  useEffect(() => {
+    setShowAllResults(false);
+  }, [results]);
+
+  useEffect(() => {
+    if (!results.length || !savedCourses.size) return;
+    setSavedCourseMap((prev) => {
+      const next = { ...prev };
+      let changed = false;
+      results.forEach((item, index) => {
+        const courseCode = item.course_code ?? `Unknown-${index}`;
+        if (!savedCourses.has(courseCode) || next[courseCode]) return;
+        next[courseCode] = {
+          course_code: courseCode,
+          title: item?.title ?? 'No title available',
+          department: item?.department ?? '',
+          difficulty: item?.difficulty ?? 'n/a',
+          professor: item?.professor ?? 'n/a',
+          prof_rating: item?.prof_rating ?? 'n/a',
+          reason: item?.reason ?? ''
+        };
+        changed = true;
+      });
+      return changed ? next : prev;
+    });
+  }, [results, savedCourses]);
 
   useEffect(() => {
     const media = window.matchMedia('(prefers-reduced-motion: reduce)');
@@ -110,33 +165,86 @@ function App() {
   }, []);
 
   useEffect(() => {
-    const loadDepartments = async () => {
+    const loadHealth = async () => {
       try {
-        const response = await fetch('/data/departments_1482.txt');
+        const response = await fetch('/api/health');
         if (!response.ok) {
-          throw new Error(`Unable to load departments (${response.status})`);
+          throw new Error(`health ${response.status}`);
         }
+        const payload = await response.json();
+        setBackendStatus({
+          loading: false,
+          healthy: true,
+          note: payload.any_gemini_key_configured ? 'AI ranking ready' : 'Heuristic-only mode'
+        });
+      } catch {
+        setBackendStatus({
+          loading: false,
+          healthy: false,
+          note: 'Backend unavailable'
+        });
+      }
+    };
 
-        const text = await response.text();
-        const list = text
-          .split('\n')
-          .map((line) => line.trim())
-          .filter(Boolean);
-
-        setDepartments(['All Departments', ...list]);
-      } catch (err) {
-        setError(err.message);
+    const loadDepartments = async () => {
+      setDepartmentsLoading(true);
+      setDepartmentsError('');
+      try {
+        const response = await fetch('/api/filters');
+        if (!response.ok) {
+          throw new Error(`filters ${response.status}`);
+        }
+        const payload = await response.json();
+        const list = Array.isArray(payload.departments)
+          ? payload.departments.map((d) => String(d || '').trim()).filter(Boolean)
+          : [];
+        if (!list.length) {
+          throw new Error('No departments returned from backend');
+        }
+        setDepartments([ALL_DEPARTMENTS_LABEL, ...list]);
+      } catch {
+        try {
+          const response = await fetch('/data/departments_1482.txt');
+          if (!response.ok) {
+            throw new Error(`Unable to load departments (${response.status})`);
+          }
+          const text = await response.text();
+          const list = text
+            .split('\n')
+            .map((line) => line.trim())
+            .filter(Boolean);
+          setDepartments([ALL_DEPARTMENTS_LABEL, ...list]);
+          setDepartmentsError('Using local department list (backend filters unavailable).');
+        } catch (err) {
+          setDepartments([ALL_DEPARTMENTS_LABEL]);
+          setDepartmentsError(err.message || 'Failed to load departments');
+        }
       } finally {
         setDepartmentsLoading(false);
       }
     };
 
+    loadHealth();
     loadDepartments();
+  }, []);
+
+  useEffect(() => {
+    const onPointerDown = (event) => {
+      if (!departmentBoxRef.current?.contains(event.target)) {
+        setDepartmentOpen(false);
+      }
+    };
+    document.addEventListener('pointerdown', onPointerDown);
+    return () => document.removeEventListener('pointerdown', onPointerDown);
   }, []);
 
   useEffect(() => {
     localStorage.setItem('smg_saved_courses', JSON.stringify(Array.from(savedCourses)));
   }, [savedCourses]);
+
+  useEffect(() => {
+    localStorage.setItem('smg_saved_course_map', JSON.stringify(savedCourseMap));
+  }, [savedCourseMap]);
 
   useEffect(() => {
     const onScroll = () => setIsScrolled(window.scrollY > 80);
@@ -279,16 +387,12 @@ function App() {
       return ids
         .map((id) => document.getElementById(id))
         .filter(Boolean)
-        .map((el) => {
-          const isPinned = el.classList.contains('scene-wrap');
-          if (!isPinned) return el.offsetTop;
-          return el.offsetTop + Math.max(0, (el.offsetHeight - window.innerHeight) * 0.5);
-        });
+        .map((el) => el.offsetTop);
     };
 
     let timer = 0;
     const onScroll = () => {
-      if (snapLockRef.current) return;
+      if (snapLockRef.current || programmaticScrollRef.current) return;
       window.clearTimeout(timer);
       timer = window.setTimeout(() => {
         const anchors = points();
@@ -305,7 +409,7 @@ function App() {
           }
         }
 
-        if (best < window.innerHeight * 0.65) {
+        if (best < window.innerHeight * 0.45) {
           snapLockRef.current = true;
           window.scrollTo({ top: nearest, behavior: 'smooth' });
           window.setTimeout(() => {
@@ -328,20 +432,46 @@ function App() {
   };
 
   const scrollTo = (id) => {
-    document.getElementById(id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    const target = document.getElementById(id);
+    if (!target) return;
+    programmaticScrollRef.current = true;
+    window.scrollTo({ top: target.offsetTop, behavior: 'smooth' });
+    window.setTimeout(() => {
+      programmaticScrollRef.current = false;
+    }, 700);
   };
 
   const clearFilters = () => {
     setForm(initialForm);
+    setDepartmentQuery('');
+    setDepartmentOpen(false);
+    setApiMeta(null);
   };
 
-  const toggleSaved = (courseCode) => {
+  const toggleSaved = (courseCode, item) => {
     setSavedCourses((prev) => {
       const next = new Set(prev);
       if (next.has(courseCode)) {
         next.delete(courseCode);
       } else {
         next.add(courseCode);
+      }
+      return next;
+    });
+    setSavedCourseMap((prev) => {
+      const next = { ...prev };
+      if (next[courseCode]) {
+        delete next[courseCode];
+      } else {
+        next[courseCode] = {
+          course_code: courseCode,
+          title: item?.title ?? 'No title available',
+          department: item?.department ?? '',
+          difficulty: item?.difficulty ?? 'n/a',
+          professor: item?.professor ?? 'n/a',
+          prof_rating: item?.prof_rating ?? 'n/a',
+          reason: item?.reason ?? ''
+        };
       }
       return next;
     });
@@ -360,8 +490,10 @@ function App() {
         },
         body: JSON.stringify({
           ...form,
+          department:
+            form.department_preference === ALL_DEPARTMENTS_LABEL ? '' : form.department_preference,
           department_preference:
-            form.department_preference === 'All Departments' ? '' : form.department_preference
+            form.department_preference === ALL_DEPARTMENTS_LABEL ? '' : form.department_preference
         })
       });
 
@@ -380,9 +512,11 @@ function App() {
 
       const payload = await response.json();
       setResults(payload.results ?? []);
+      setApiMeta(payload.meta ?? null);
       window.setTimeout(() => scrollTo('results-scene'), 150);
     } catch (err) {
       setResults([]);
+      setApiMeta(null);
       setError(`${err.message}. Make sure your Flask API is running at http://localhost:5050.`);
     } finally {
       setLoading(false);
@@ -390,6 +524,11 @@ function App() {
   };
 
   const resultCount = results.length;
+  const displayedResults = showAllResults ? results : results.slice(0, 5);
+  const savedCards = useMemo(
+    () => Object.values(savedCourseMap).sort((a, b) => String(a.course_code).localeCompare(String(b.course_code))),
+    [savedCourseMap]
+  );
 
   const avgGpa = useMemo(() => {
     const values = results
@@ -411,6 +550,7 @@ function App() {
             <button onClick={() => scrollTo('features')}>How it works</button>
             <button onClick={() => scrollTo('search-scene')}>Search</button>
             <button onClick={() => scrollTo('results-scene')}>Results</button>
+            <button onClick={() => scrollTo('saved')}>Saved</button>
             <button onClick={() => scrollTo('footer')}>FAQ</button>
           </div>
         </div>
@@ -450,6 +590,16 @@ function App() {
             <h2 className="section-title" ref={searchHeadlineRef}>
               What are you looking for?
             </h2>
+            <div className="status-row">
+              <span className={`status-pill ${backendStatus.healthy ? 'ok' : 'warn'}`}>
+                {backendStatus.loading
+                  ? 'Checking backend...'
+                  : backendStatus.healthy
+                    ? 'Backend connected'
+                    : 'Backend offline'}
+              </span>
+              <span className="status-note">{backendStatus.note}</span>
+            </div>
 
             <form className="glass-card search-card" ref={searchCardRef} onSubmit={handleSubmit}>
               <div className="field-grid">
@@ -464,20 +614,60 @@ function App() {
                   />
                 </label>
 
-                <label>
+                <label className="department-combobox" ref={departmentBoxRef}>
                   <span>Department</span>
-                  <select
-                    name="department_preference"
-                    value={form.department_preference}
-                    onChange={updateField}
+                  <input
+                    value={departmentOpen ? departmentQuery : selectedDepartment}
+                    onChange={(event) => {
+                      setDepartmentQuery(event.target.value);
+                      setDepartmentOpen(true);
+                    }}
+                    onFocus={() => {
+                      setDepartmentQuery(selectedDepartment === ALL_DEPARTMENTS_LABEL ? '' : selectedDepartment);
+                      setDepartmentOpen(true);
+                    }}
+                    onKeyDown={(event) => {
+                      if (event.key === 'Escape') {
+                        setDepartmentOpen(false);
+                        setDepartmentQuery('');
+                      }
+                    }}
+                    placeholder="Search department..."
                     disabled={departmentsLoading}
-                  >
-                    {departments.map((department) => (
-                      <option key={department} value={department}>
-                        {department}
-                      </option>
-                    ))}
-                  </select>
+                  />
+                  {departmentOpen ? (
+                    <div className="department-menu">
+                      <button
+                        className={`department-option ${selectedDepartment === ALL_DEPARTMENTS_LABEL ? 'active' : ''}`}
+                        type="button"
+                        onClick={() => {
+                          setForm((prev) => ({ ...prev, department_preference: ALL_DEPARTMENTS_LABEL }));
+                          setDepartmentQuery('');
+                          setDepartmentOpen(false);
+                        }}
+                      >
+                        {ALL_DEPARTMENTS_LABEL}
+                      </button>
+                      {filteredDepartments.length ? (
+                        filteredDepartments.map((department) => (
+                          <button
+                            className={`department-option ${selectedDepartment === department ? 'active' : ''}`}
+                            key={department}
+                            type="button"
+                            onClick={() => {
+                              setForm((prev) => ({ ...prev, department_preference: department }));
+                              setDepartmentQuery('');
+                              setDepartmentOpen(false);
+                            }}
+                          >
+                            {department}
+                          </button>
+                        ))
+                      ) : (
+                        <p className="department-empty">No matching departments.</p>
+                      )}
+                    </div>
+                  ) : null}
                 </label>
               </div>
 
@@ -494,6 +684,7 @@ function App() {
               </label>
 
               <p className="helper">Example: &quot;Easy online class with no finals&quot;</p>
+              {departmentsError ? <p className="helper helper-warning">{departmentsError}</p> : null}
 
               <div className="actions">
                 <button type="button" className="btn-clear" onClick={clearFilters}>
@@ -517,6 +708,12 @@ function App() {
             </div>
 
             {error ? <p className="error-text">{error}</p> : null}
+            {apiMeta ? (
+              <p className="api-meta">
+                Model: {apiMeta.model_used || 'n/a'} • Profiles: {apiMeta.class_profiles ?? 0} • Files:{' '}
+                {apiMeta.matched_professor_files ?? 0}
+              </p>
+            ) : null}
           </div>
         </div>
       </section>
@@ -530,14 +727,14 @@ function App() {
             </div>
             <div className="results-headline" ref={resultsHeadlineRef}>
               <h2 className="section-title">Here are your easy A&apos;s.</h2>
-              <p className="results-sub">Sorted by GPA, difficulty, and real student feedback.</p>
+              <p className="results-sub">Sorted by average difficulty, ratings, and real student feedback.</p>
               <p className="results-count">{resultCount} classes found</p>
             </div>
 
             <div className="glass-card results-shell" ref={resultsShellRef}>
               {loading ? (
                 <ul className="results-grid">
-                  {[...Array(6)].map((_, index) => (
+                  {[...Array(5)].map((_, index) => (
                     <li className="result-card skeleton-card" key={`skeleton-${index}`}>
                       <div className="skeleton h-28" />
                     </li>
@@ -546,8 +743,9 @@ function App() {
               ) : results.length === 0 ? (
                 <div className="empty">No results yet. Run a search above.</div>
               ) : (
-                <ul className="results-grid">
-                  {results.map((item, index) => {
+                <>
+                  <ul className="results-grid">
+                  {displayedResults.map((item, index) => {
                     const courseCode = item.course_code ?? `Unknown-${index}`;
                     const saved = savedCourses.has(courseCode);
                     return (
@@ -562,7 +760,7 @@ function App() {
                           <h3>{courseCode}</h3>
                           <button
                             className={`save-btn ${saved ? 'saved' : ''}`}
-                            onClick={() => toggleSaved(courseCode)}
+                            onClick={() => toggleSaved(courseCode, item)}
                             type="button"
                           >
                             {saved ? 'Saved' : 'Save'}
@@ -570,7 +768,7 @@ function App() {
                         </div>
                         <p className="title">{item.title ?? 'No title available'}</p>
                         <p className="meta">
-                          GPA <strong>{item.avg_gpa ?? 'n/a'}</strong> · {item.difficulty ?? 'n/a'}
+                          Avg Difficulty <strong>{item.difficulty ?? 'n/a'}</strong>
                         </p>
                         <p className="meta">
                           Prof. <strong>{item.professor ?? 'n/a'}</strong> {item.prof_rating ?? 'n/a'}/5
@@ -580,6 +778,18 @@ function App() {
                     );
                   })}
                 </ul>
+                {results.length > 5 ? (
+                  <div className="results-actions">
+                    <button
+                      type="button"
+                      className="btn-clear"
+                      onClick={() => setShowAllResults((prev) => !prev)}
+                    >
+                      {showAllResults ? 'Show Top 5' : `Show More (${results.length - 5} more)`}
+                    </button>
+                  </div>
+                ) : null}
+                </>
               )}
             </div>
 
@@ -597,9 +807,65 @@ function App() {
         </div>
       </section>
 
+      <section className="flow-section saved-panel" id="saved">
+        <div className="container section-content reveal-on-scroll">
+          <div className="saved-header">
+            <h2 className="section-title">Saved Courses</h2>
+            <p className="saved-count">{savedCards.length} saved</p>
+          </div>
+          {savedCards.length === 0 ? (
+            <div className="glass-card saved-empty">
+              <p>No saved courses yet. Tap &quot;Save&quot; on any result card to pin it here.</p>
+              <button className="btn-amber" onClick={() => scrollTo('results-scene')}>
+                Browse Results
+              </button>
+            </div>
+          ) : (
+            <>
+              <div className="saved-actions">
+                <button
+                  type="button"
+                  className="btn-clear"
+                  onClick={() => {
+                    setSavedCourses(new Set());
+                    setSavedCourseMap({});
+                  }}
+                >
+                  Clear All Saved
+                </button>
+              </div>
+              <ul className="saved-grid">
+                {savedCards.map((item) => (
+                  <li className="result-card" key={`saved-${item.course_code}`}>
+                    <div className="result-top">
+                      <h3>{item.course_code}</h3>
+                      <button
+                        className="save-btn saved"
+                        type="button"
+                        onClick={() => toggleSaved(item.course_code, item)}
+                      >
+                        Remove
+                      </button>
+                    </div>
+                    <p className="title">{item.title}</p>
+                    <p className="meta">
+                      Avg Difficulty <strong>{item.difficulty}</strong>
+                    </p>
+                    <p className="meta">
+                      Prof. <strong>{item.professor}</strong> {item.prof_rating}/5
+                    </p>
+                    {item.reason ? <p className="quote">&quot;{item.reason}&quot;</p> : null}
+                  </li>
+                ))}
+              </ul>
+            </>
+          )}
+        </div>
+      </section>
+
       <section className="flow-section features" id="features">
         <div className="container section-content reveal-on-scroll">
-          <h2 className="section-title">Built for busy students.</h2>
+          <h2 className="section-title">built for students, by students</h2>
           <div className="features-grid">
             {featureCards.map((feature, index) => (
               <article

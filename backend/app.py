@@ -41,6 +41,15 @@ FLASK_PORT = int(os.getenv("FLASK_PORT", "5050"))
 FLASK_DEBUG = os.getenv("FLASK_DEBUG", "true").lower() in {"1", "true", "yes"}
 
 
+@app.after_request
+def add_cors_headers(response):
+    # Keeps local frontend/backend integration working even without Vite proxy.
+    response.headers["Access-Control-Allow-Origin"] = "*"
+    response.headers["Access-Control-Allow-Headers"] = "Content-Type, Authorization"
+    response.headers["Access-Control-Allow-Methods"] = "GET, POST, OPTIONS"
+    return response
+
+
 @app.get("/api/health")
 def health() -> tuple[dict, int]:
     return {
@@ -68,7 +77,10 @@ def filters():
         return jsonify({"departments": [], "professors": []}), 200
 
     department_filter = (request.args.get("department") or "").strip().lower()
+    department_query = (request.args.get("query") or "").strip().lower()
     departments = sorted([p.name for p in DATA_ROOT.iterdir() if p.is_dir()], key=str.lower)
+    if department_query:
+        departments = [dept for dept in departments if department_query in dept.lower()]
 
     professors: list[dict[str, str]] = []
     if department_filter:
@@ -92,9 +104,14 @@ def filters():
     return jsonify({"departments": departments, "professors": professors}), 200
 
 
-@app.post("/api/recommendations")
+@app.route("/api/recommendations", methods=["POST", "OPTIONS"])
 def recommendations():
+    if request.method == "OPTIONS":
+        return ("", 204)
+
     payload = request.get_json(silent=True) or {}
+    if "department" not in payload and "department_preference" in payload:
+        payload["department"] = payload.get("department_preference")
 
     try:
         completed = subprocess.run(
