@@ -1,0 +1,24 @@
+Professor: Cody Groat
+Professor Legacy ID: 2620766
+Professor ID: VGVhY2hlci0yNjIwNzY2
+Department (CSV): History
+Department (Fetched): History
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: HIST325
+Date: 2020-12-18 05:42:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Professor Groat is awesome. You can tell he cares deeply about both his students and the course content. You learn a ton in his class, but definitely have to work hard as he gives a decent amount of homework and is heavy on the readings. Overall great prof, I will definitely try to take more of his classes in the future.

@@ -1,0 +1,11 @@
+Professor: Sean Hackett
+Professor Legacy ID: 3019785
+Professor ID: VGVhY2hlci0zMDE5Nzg1
+Department (CSV): Management
+Department (Fetched): Management
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

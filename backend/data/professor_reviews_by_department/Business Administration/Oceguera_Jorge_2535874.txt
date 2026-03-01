@@ -1,0 +1,102 @@
+Professor: Jorge Oceguera
+Professor Legacy ID: 2535874
+Professor ID: VGVhY2hlci0yNTM1ODc0
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.9
+Avg Difficulty: 2.3
+Num Ratings: 7
+Would Take Again Percent: 100
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: BUS201
+Date: 2020-04-16 20:31:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Honestly the best prof I've had so far at SFU
+
+--- Rating #2 ---
+Class: BUS201
+Date: 2020-03-25 02:24:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I loved him. That's all I have to say.
+
+--- Rating #3 ---
+Class: BUS201
+Date: 2020-03-16 22:26:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He's a god.
+
+--- Rating #4 ---
+Class: BUS201
+Date: 2020-01-09 02:34:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Prof. Oceguera was great, he really cared about his students and made lectures interesting. I loved his class and really recommend taking it if possible. He is a great prof but he will push you to be better by encouraging participation and giving challenging assignments. Keep up with readings, especially your HBR's. A great prof and a great person.
+
+--- Rating #5 ---
+Class: BUS201
+Date: 2019-12-11 19:10:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is really funny and makes the three-hour-long lectures a lot more engaging than it is. Hard marker but explains concepts fairly well. Our class hyped him up all the time, he's the best. He gives life advice and cares about you as a student. Highly recommend.
+
+--- Rating #6 ---
+Class: BUS201
+Date: 2019-12-11 19:06:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Jorge genuinely cares about his students and it shows. Bus201 concepts are really dense and boring but his lectures made it seem really fun and interesting. on top of that, he teaches his students a lot of practical skills. I would definitely take another course with him, even if it wasn't for credit.
+
+--- Rating #7 ---
+Class: BUS201
+Date: 2019-12-04 04:02:15 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I love Jorge, such a funny and encouraging prof. Three hours can be long and he usually likes us to discuss. Class isn't too bad if you've taken business related courses in highschool.

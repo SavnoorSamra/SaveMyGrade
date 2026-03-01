@@ -1,0 +1,26 @@
+Professor: Ian McCarthy
+Professor Legacy ID: 2333255
+Professor ID: VGVhY2hlci0yMzMzMjU1
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 1
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BUS-724
+Date: 2024-02-24 07:08:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Does a random simulation for a day with almost no instructions, does one really short debrief session later and then calls it a course and gives grades based on god knows what ?
+
+The course is not for students to learn anything but for university to pay highly aclaimed research professors with give zero ducks about students. Call your own BS.

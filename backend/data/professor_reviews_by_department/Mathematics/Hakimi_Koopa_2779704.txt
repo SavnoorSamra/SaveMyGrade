@@ -1,0 +1,78 @@
+Professor: Koopa Hakimi
+Professor Legacy ID: 2779704
+Professor ID: VGVhY2hlci0yNzc5NzA0
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4.6
+Avg Difficulty: 3
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: CMPT115
+Date: 2025-12-18 06:28:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Koopa's fast teaching style can get a bit hard to keep up with (especially for those taking his evening classes), but he's a pretty good instructor with clear explanations and doable assignments.
+
+--- Rating #2 ---
+Class: CMPT115
+Date: 2025-01-14 03:00:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing professor! Very patient and caring. Teaches not only the code but also the theory behind it.
+
+--- Rating #3 ---
+Class: CMPT120
+Date: 2022-08-04 01:40:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Dude very clearly knows his stuff. Coding in this course is super math-based and it's pretty unlikely that you'll understand more than 80% of the stuff. If you don't make sure you understand the weekly topics, you WILL be dragged behind. Do the lab exercises instead of talking to your friends
+
+You will get partial credit for incomplete test answers
+
+--- Rating #4 ---
+Class: ENF100
+Date: 2022-03-23 00:18:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: True
+Comment:
+He's the best instructor I met so far he usually shows you how to prove the rules in class. It's a little bit boring but it really help me with further study. Though you might not follow in the class just go through the book ez a+ in the exam.  The only instructor that is better than him is Jamie. They are the best in low-level math courses.
+
+--- Rating #5 ---
+Class: ENF100
+Date: 2022-03-16 17:01:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Koopa does go fast in his lectures, but he is great explaining all the topics in detail. He is a very smart professor. Just do his homework and pay attention to his classes, and youll do good.

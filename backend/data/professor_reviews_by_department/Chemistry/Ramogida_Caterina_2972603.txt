@@ -1,0 +1,37 @@
+Professor: Caterina Ramogida
+Professor Legacy ID: 2972603
+Professor ID: VGVhY2hlci0yOTcyNjAz
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: NUSC444
+Date: 2024-11-16 02:03:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Ramogida is a very easy going instructor. NUSC444 is a very interdisciplinary class with people of all different backgrounds. Dr. Ramogida understood this and breaks everything down accordingly, taking time and care to answer every question that comes up while also being clear on what is expected of us. Open book quizzes are also a big win.
+
+--- Rating #2 ---
+Class: CHEM433
+Date: 2023-12-21 15:53:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+If you see any courses offered with Dr. Ramogida. Take! It!

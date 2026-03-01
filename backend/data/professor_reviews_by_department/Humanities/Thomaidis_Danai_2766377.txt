@@ -1,0 +1,11 @@
+Professor: Danai Thomaidis
+Professor Legacy ID: 2766377
+Professor ID: VGVhY2hlci0yNzY2Mzc3
+Department (CSV): Humanities
+Department (Fetched): Humanities
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

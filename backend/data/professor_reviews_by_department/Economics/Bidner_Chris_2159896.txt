@@ -1,0 +1,206 @@
+Professor: Chris Bidner
+Professor Legacy ID: 2159896
+Professor ID: VGVhY2hlci0yMTU5ODk2
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 3.8
+Avg Difficulty: 3.4
+Num Ratings: 15
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 15
+
+--- Rating #1 ---
+Class: ECON220W
+Date: 2025-04-22 19:19:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Super nice and very good at engaging students in lectures. I did just feel this class was a bit redundant and unnecessary.
+
+--- Rating #2 ---
+Class: ECON355W
+Date: 2025-04-14 06:33:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I got 95% in the quizzes... and something like 50% for the weekly op-eds. Completely nonsense criteria for grading them, no consistency week to week. It seemed like TAs would flip a coin whether an op-ed would pass, one week I pass, one week I don't, one week I pass, one week I don't... Better than my friend who never passed a single one I guess.
+
+--- Rating #3 ---
+Class: ECON220W
+Date: 2024-11-23 23:59:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very nice person, but the first assignment went very poorly for myself. After that though the rest of the semester went very well.
+
+--- Rating #4 ---
+Class: ECON355
+Date: 2023-04-14 06:18:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+do not take his course, unfair to grade assignments!!
+
+--- Rating #5 ---
+Class: ECON355W
+Date: 2022-04-23 05:23:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Chris is one of the best professors in the Econ department. The course was graded on weekly quizzes (40%) which were pretty difficult most weeks. The course also has weekly writing assignments (30%) which are easy if you're a good writer. 20% of the grade is a major writing assignment...don't worry its short and similar to the weekly assignments.
+
+--- Rating #6 ---
+Class: ECON355W
+Date: 2021-12-23 13:03:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Honestly, very knowledgeable and one of the best communicators I've ever met. Absolutely take the course! The marking was very fair and Chris gives great feedback! Also encourages creative questions! The only con to the course was the tutorials, which were exceedingly painful because of the entire lack of English proficiency by the student body.
+
+--- Rating #7 ---
+Class: ECON455W
+Date: 2021-04-12 17:09:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Probably one of the best (if not the best) ECON classes at SFU. The class is very interesting. The professor teaches this class perfectly! Chris is a great prof and very knowledgeable. If you participate in class, the 3 hour lecture goes by very fast. 10/10 would definitely recommend!
+
+--- Rating #8 ---
+Class: ECON355W
+Date: 2021-03-16 01:26:39 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Heavy weight on online weekly quizzes which are hard af.
+
+--- Rating #9 ---
+Class: ECON455W
+Date: 2021-02-22 19:45:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+If you really want take a interactive course that you can share your idea with everyone on what you learnt, take this course.
+
+--- Rating #10 ---
+Class: 455W
+Date: 2020-10-04 00:56:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Chris is an excellent teacher. While he grades on a difficult scale, he provides clear feedback to students on assignments (and in office hours), cares about the wellbeing of students, and encourages students in their understanding and writing skills. Lectures cover fundamentals and well-regarded papers from across development economics.
+
+--- Rating #11 ---
+Class: ECON455
+Date: 2018-09-30 01:22:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Chris is the chillest dude ever. He manages to keep his class discussions so interesting. His courses are easy if your existing writing skills do not need much polishing. Best prof I've had in uni!
+
+--- Rating #12 ---
+Class: ECON455
+Date: 2018-07-04 13:47:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great professor. Learned so much from him. For my entire Economics academia journey, I think this class and this prof light up my passion in this path.
+
+--- Rating #13 ---
+Class: ECON455
+Date: 2017-07-19 00:26:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Chris is a great teacher. He reads your stuff and gives feedback that can help you score higher next time, and more importantly, improve your writing. He will provide straightforward critique and advice on your writing, and what he expects to read in your next one, which is very helpful. Speak in class discussions and read papers critically.
+
+--- Rating #14 ---
+Class: ECON355W
+Date: 2017-03-30 20:48:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Avoid Him....
+
+--- Rating #15 ---
+Class: ECON355
+Date: 2017-02-08 22:52:07 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+ECON 355 W is hard. The class average is super low.

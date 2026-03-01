@@ -1,0 +1,37 @@
+Professor: Angelica Perez Anzures
+Professor Legacy ID: 3150018
+Professor ID: VGVhY2hlci0zMTUwMDE4
+Department (CSV): Film
+Department (Fetched): Film
+Avg Rating: 1.5
+Avg Difficulty: 3.5
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: 233
+Date: 2025-12-20 21:09:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very unclear about the details of any given assignment, often leaving the whole class with poor marks graded on a rubric that, once again, provided no insight into what was being demanded.
+
+--- Rating #2 ---
+Class: 233
+Date: 2025-12-17 19:39:38 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Did this really funny thing where she would give lectures while permitting 1/3 of the class to be absent. Impeccable time management skills, always somehow managing conjure up 15 minutes to aimlessly ramble. The grading strategy was ingenious, giving lots of room for the students to deduce what they did wrong rather than provide any feedback.

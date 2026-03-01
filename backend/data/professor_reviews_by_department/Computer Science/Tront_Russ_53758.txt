@@ -1,0 +1,273 @@
+Professor: Russ Tront
+Professor Legacy ID: 53758
+Professor ID: VGVhY2hlci01Mzc1OA==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.6
+Avg Difficulty: 3.5
+Num Ratings: 62
+Would Take Again Percent: 22.2222
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT276
+Date: 2025-08-25 19:39:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Mr. Tront really cares about his students and is always willing to help. His notes are long but he gives clear tips on what's going to be on the exams and midterms. I had a great time with his projects and learned a ton about software engineering. The skills and knowledge he shared will definitely be a huge help in my future career.
+
+--- Rating #2 ---
+Class: CMPT276
+Date: 2024-08-21 22:25:18 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He sends tons of ridiculously lengthy emails, and assignment instructions often exceed 10 pages. Some examples he provided were from 1990. The exams included questions based on his personal beliefs. This is a typical uni problem where students are forced to learn outdated methods. The project is not something you can put on your resume.
+
+--- Rating #3 ---
+Class: CMPT276
+Date: 2024-08-21 15:36:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Our 276 professor's outdated methods made the class frustrating. We learned irrelevant concepts, printed thousands of lines of code, and spent most of our time on useless user manuals. The final project was a basic console-based bug report system that everyone did, with no room for creativity or modern practices. AVOID PLSS.
+
+--- Rating #4 ---
+Class: CMPT276
+Date: 2024-08-15 01:10:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Would have recommended him if we were in the 90s but we're not. He is not updated and do not be fooled by his experience. Had to print out 10000's of lines of code for submission. If you're good at memorizing and writing verbatim, you'll do well. But honestly, you'd be a better software engineer if you dropped out and studied from YouTube.
+
+--- Rating #5 ---
+Class: CMPT276
+Date: 2024-08-15 00:58:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His notes are disorganized. Teaches from notes that are 10 years old. Do not focus on the group project because at the end of the day you pass only if you pass the weighted average of the exams. You could get a 0 on all assignments and still pass. Save yourself. Do not make the same mistake I did. Worst prof I have ever taken a course with,
+
+--- Rating #6 ---
+Class: CMPT276
+Date: 2024-08-13 21:36:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This instructor is proffessinal at talking so much. You can never get a concsice definite answer out of him. AND YES he did work to EA sometime in the 90s or 2000s but guess what WE ARE IN 2024.  He is incredibly confusing and disorganized. He has zero familiarity with modren day technology. I woulldn't recomment him to my enemy. Save yourself.
+
+--- Rating #7 ---
+Class: CMPT276
+Date: 2024-08-05 22:32:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He has experience, but I think his experience is rather outdated. His lectures is mainly based on his experience and wordings, so you can't review from anything else (i.e. textbook) if you don't understand his lecture. I don't think his exams are hard, but his contents are confusing. However, he's pretty nice and sometimes funny.
+
+--- Rating #8 ---
+Class: CMPT276
+Date: 2024-08-04 23:15:36 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He's really nice and passionate, but his exams are really painful (worth 60%). He makes us memorize, in exact words, HIS principle and HIS effort distribution, which is extremely useless and a waste of time to memorize. Most of the required readings are from the 1990s or early 2000s. I doubt they are more useful as compared to recent ones.
+
+--- Rating #9 ---
+Class: CMPT276
+Date: 2024-08-04 05:03:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Pros: Caring, always happy to take questions, very approachable, genuinely super nice, loves interacting with students. Cons: forces you to memorize A LOT of unnecessary stuff for exams, submit assignments on paper. You have to physically print the codes and hand them in. (over 250 pages in total throughout the semester without exaggeration)
+
+--- Rating #10 ---
+Class: CMPT276
+Date: 2024-08-03 00:55:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Incrediblely awfully bad
+
+--- Rating #11 ---
+Class: CMPT276
+Date: 2024-07-19 22:21:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Russ has taught me more about software engineering then any other class I've taken. If you want to get a job, you'll enjoy this class. If you don't, then frankly you won't make it in the industry. HEAVY on group projects; difficulty will depend on your group members, but Russ does his best to help and become a manager if necessary.
+
+--- Rating #12 ---
+Class: CMPT276
+Date: 2024-07-19 22:15:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I can get why his teaching style might not be everyones favourite but the "tangents" that he goes on are ALWAYS related to what we are learning at that time and from his previous work experience. Hella useful to hear in prep for co-op. He provides detailed slides and explicitly tells you what you have to memorize, and gives an in depth study guide.
+
+--- Rating #13 ---
+Class: CMPT276
+Date: 2024-07-03 05:22:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Do not listen to the other reviews if you aspire to be a 10x engineer. You will have to work quite a bit, but you will learn a lot of relevant information about SWE. He responds to emails quickly, he will send emails to the entire class to answer common questions and to give hints about assignments/ midterms. He is extremely helpful. THE GOAT.
+
+--- Rating #14 ---
+Class: CMPT276
+Date: 2024-07-01 19:59:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Extremely disorganized professor. Lecture notes have stories in them and you have to filter out half the thing he says in the class. He tends to get side tracked while giving his lectures. He spams emails left and right and ends up confusing us. Last minute emails for everything (assignments and exams).Do not, I repeat do not take courses with him.
+
+--- Rating #15 ---
+Class: CMPT276
+Date: 2024-06-25 15:56:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very bad experience disorganized save yourself
+
+--- Rating #16 ---
+Class: CMPT276
+Date: 2024-06-16 20:22:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+certified yapper. seems nice but seriously i think he just likes hearing himself talk because he says a lot without actually saying anything. havent learned anything. slides are insanely wordy and he gives unclear assignments
+
+--- Rating #17 ---
+Class: CMPT275
+Date: 2024-06-07 20:57:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Disorganised,he gives us a very scammy course and call it  software engineering.
+He keeps talking about his past experience and ramble all over the place.
+Avoid If you wanna do a decent project that you can put on your resume.
+
+--- Rating #18 ---
+Class: CMPT454
+Date: 2018-02-11 04:46:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Unclear about the instructions and cocky
+
+--- Rating #19 ---
+Class: CMPT371
+Date: 2015-09-13 15:50:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The best instructor I have ever had. Period.
+
+--- Rating #20 ---
+Class: CMPT250
+Date: 2013-01-22 15:00:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+The worst prof ever in my university life. His assignments are useless and unclear and his exams are so long that you wont be able to finish it on time.  He copies notes from other profs which is so annoying and he sends tons of emails like essays which is frustrating. tbh I would never take any class with him again

@@ -1,0 +1,63 @@
+Professor: Andrew Hillian
+Professor Legacy ID: 2697407
+Professor ID: VGVhY2hlci0yNjk3NDA3
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 4.3
+Avg Difficulty: 3
+Num Ratings: 4
+Would Take Again Percent: 75
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: CMNS304W
+Date: 2021-12-27 23:17:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+I think Andrew is an amazing instructor, he did great work. He made the course very interesting and engaging. I have learned lots from it! I appreciate him explaining the ideas with concrete examples and also his own perspectives. I am an extremely emulative person, and his thoughts were a significant path for me in the future!
+
+--- Rating #2 ---
+Class: CMNS304W
+Date: 2021-12-22 22:49:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Andrew recorded awesome lectures! He and the TA gave me helpful feedback on my assignments. Really enjoyed the course. Be prepared to write tho
+
+--- Rating #3 ---
+Class: CMNS304W
+Date: 2021-12-21 04:37:44 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+very unclear instructions, the way he and TA marked did not follow the instructions.
+
+--- Rating #4 ---
+Class: CMNS304W
+Date: 2021-07-02 21:01:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+One of the coolest prof I ever had lol. I'm graduating next semester and regret that I did not take his classes sooner. Will definitely re-take his class if I have a chance. Funny and caring with examples that get us through a dry writing class. If you like Stephen Zilwood, you will definitely like his teaching style.

@@ -1,0 +1,76 @@
+Professor: Kamyar Razavi
+Professor Legacy ID: 2654770
+Professor ID: VGVhY2hlci0yNjU0Nzcw
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 5
+Avg Difficulty: 1.6
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: CMNS235
+Date: 2026-01-07 21:19:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof, genuinely cares for his students. Grades very easily and wants you to learn. Responds to emails super fast between 1-3 hours max. Always willing to provide extension if you need extra times super understanding.
+
+--- Rating #2 ---
+Class: CMNS126
+Date: 2025-10-30 03:39:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Kam is super great, he cares for the students, explains things well, is good at engaging with the students. Projects are good, he likes to give good feedback because of his journalism background and the things I learned in this class poured over into other classes I was taking. We got quick grammar lessons to a class about memes all super fun.
+
+--- Rating #3 ---
+Class: CMNS235
+Date: 2025-10-22 07:17:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing Prof!
+
+--- Rating #4 ---
+Class: CMNS235
+Date: 2023-11-02 03:35:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+He is a really good professor.I've done Journalism course with him and would love to take another course with him.He is very caring, gives really good feedback, explains with understandable examples, makes everything easy to grasp. he is a Journalist so he shares his pov and the concepts by relating them with himself.very good professor.GO FOR HIM.
+
+--- Rating #5 ---
+Class: CMNS235
+Date: 2020-12-15 21:07:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+The best CMNS prof I've had. Offers his insight as a journalist to the course; clear grading criteria; student interest guides projects and even course topics covered. He went out of his way to give thorough feedback, encouragement and even recommend journalists and academics he thought would be of personal interest to me based on my responses.

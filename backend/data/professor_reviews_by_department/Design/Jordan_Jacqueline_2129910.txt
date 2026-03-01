@@ -1,0 +1,24 @@
+Professor: Jacqueline Jordan
+Professor Legacy ID: 2129910
+Professor ID: VGVhY2hlci0yMTI5OTEw
+Department (CSV): Design
+Department (Fetched): Design
+Avg Rating: 1.5
+Avg Difficulty: 1
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: IAT210
+Date: 2016-05-04 16:42:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This is a GPA booster. Easiest class ever. But Jacqueline is the most irresponsible professor I ever seen. Still, I recommend to take this class for anyone wants to boost their GPA.

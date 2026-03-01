@@ -1,0 +1,271 @@
+Professor: Simon Watkins
+Professor Legacy ID: 275787
+Professor ID: VGVhY2hlci0yNzU3ODc=
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 3.2
+Avg Difficulty: 3.3
+Num Ratings: 85
+Would Take Again Percent: 63.6364
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PHYS101
+Date: 2026-01-16 18:12:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Prof Watkins has incredibly disorganized materials but the biggest issue is the lack of engagement in his teaching. His notes are already prewritten (with many typos and dense writing might I add) and there is no nice way to follow along except to listen for an hour straight. He makes the simplest concepts seem SO overcomplicated and convoluted.
+
+--- Rating #2 ---
+Class: PHYS101
+Date: 2025-09-04 22:22:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Simon is a good guy and he knows his stuff. The way he presents his lectures isn't the best, so it can be hard to follow. Your grade in the class is basically fully based off what you do outside of class and then if you can follow along with his example videos given that you do the pre-lecture. He doesn't really teach, just reads over his calcs.
+
+--- Rating #3 ---
+Class: PHY101
+Date: 2022-05-18 18:54:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+he is a good prof and easy to understand. the exams are hard.
+
+--- Rating #4 ---
+Class: PHYS101
+Date: 2022-05-11 18:50:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I really liked his lectures and typos/spelling errors didn't bother me as much, but beware there are a lot. He gave us lots of demos in class. Lots of homework and iclickers for bonus marks. Tutorials are mandatory and significant part of the grade, it's a double-edged sword cause it's an easy mark, but not everyone likes attending tutorials.
+
+--- Rating #5 ---
+Class: PHYS101
+Date: 2022-05-10 17:57:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Simon is the best prof I've had so far, he gave me a reason to respect physics lol
+
+--- Rating #6 ---
+Class: PHY101
+Date: 2022-04-23 18:59:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He was okay. Lots of homework. Relatively responsive to emails. A ridiculous amount of typos in both the lecture notes and the practice problems which was very frustrating. Course design is frustrating because of the 10% tutorial component, and the tutorials felt like a waste of time.
+
+--- Rating #7 ---
+Class: PHY101
+Date: 2022-03-14 23:13:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The professor is very fair in his grading, but excellent in his teaching. He is caring and understands some students need concepts explained at different speeds. He wants the best for all his students. Also, take advantage of his office hours!
+
+--- Rating #8 ---
+Class: PHYS101
+Date: 2021-01-12 02:26:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Simon is a solid professor, very fair and easy to understand.
+
+--- Rating #9 ---
+Class: PHYS101
+Date: 2021-01-10 05:19:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+These reviews from 1st yrs make Prof Watkins sounds WAYY worse than he is. Tbh, for someone who's not the best at physics, I would that putting in the work and actually asking him questions helped. Yes, the tests were hard but what do you expect? its Uni. And he was more than generous when scaling. Overall 9/10 recommend - very nice guy overall!!
+
+--- Rating #10 ---
+Class: PHYS101
+Date: 2021-01-07 19:34:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+One of the best profs I've had. He is very clear in lecture and goes over a lot of practice problems. His office hours are great to go to as well, he goes as in depth as you need and makes you feel like theirs no dumb questions.
+
+--- Rating #11 ---
+Class: PHYS101
+Date: 2020-12-30 01:14:38 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+People in my class this term were a bit melodramatic all semester long. Simon was a fine lecturer, there were rare errors in the lecture slides as he hand wrote them live but it wasnt a big deal. One of the exams covered things we hadnt, so our average was low but Simon shifted our marks for that to make up. I would take another class with him.
+
+--- Rating #12 ---
+Class: PHYS101
+Date: 2020-12-28 03:03:56 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Honestly, Simon was alright. His lectures were pretty disorganized and all over the place, but he's a pretty kind person. Exams were okay - some were pretty challenging but he accounted for that. Overall, the course was just &quot;eh&quot; - not great but not the worst. Similarly, Simon is not great but not the worst.
+
+--- Rating #13 ---
+Class: PHYS101
+Date: 2020-12-27 10:18:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+I found it really hard to focus on his lectures. Most weeks had 2 assignments due on the same night (Friday). Exams were pretty difficult. There apparently were 2 profs this semester that switched halfway through that I didn't notice, but they have the same teaching style so doesn't matter.
+
+--- Rating #14 ---
+Class: PHYS101
+Date: 2020-11-18 18:30:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+I don't find him to be disorganized - his lecture slides are partially hand-written so can sometimes be messy, but he is always happy to clarify and takes lots of time to answer questions. I'm not a fan of physics, but Watkins makes it fairly straightforward and gives lots of examples, and exams have been reasonable so far.
+
+--- Rating #15 ---
+Class: PHYS101
+Date: 2020-11-14 20:21:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He really isn't someone who should be teaching an online course. His notes are all handwritten and extremely disorganized and messy. He also makes lots of stupid mistakes during his lectures such as using incorrect signs or units. The pre-lecture assignments he assigns are super helpful to help understand the lecture! He definitely isn't the worst
+
+--- Rating #16 ---
+Class: PHYS101
+Date: 2020-11-12 20:49:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Worst prof I have ever had. He is so disorganized and blames us for his mistakes. He had the audacity to get mad at me when he made a mistake and I corrected him. WARNING TO EVERYONE: clear out your weekends, he gives you the assignments on Sunday if they are due on Monday.
+
+--- Rating #17 ---
+Class: PHY101
+Date: 2020-11-12 19:05:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Very bad teacher, makes so many mistakes and requires students to correct him. Blames students for not being good at time management, but he uploads his assignments like 1 day before the deadline at midnight. Worst prof I have ever had, even my elementary school science teacher was better organized and educated.
+
+--- Rating #18 ---
+Class: PHYS101
+Date: 2020-11-12 19:05:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He is VERY disorganized and often makes mistakes on lecture slides, homework assignments, and exams. He will also upload assignments inconsistently and often within a couple of hours of the deadline. Do NOT take ANY classes with him online.
+
+--- Rating #19 ---
+Class: PHYS101
+Date: 2020-11-02 22:13:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Watkins is a great prof! He is extremely helpful. Tests are fair and based on his lectures. He is friendly and approachable during his office hours and gives clear explanations to student's questions. At first, I thought he was going to bland but he cracks pretty good jokes at times. Definitely a solid choice of a prof!
+
+--- Rating #20 ---
+Class: PHYS100
+Date: 2018-03-26 12:57:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I was scared for all the comments I saw in this website. However, he is a very good proof. Hilarious and very sarcastic. If you do bad in the midterm but well in the final, he'll automatically replace the midterm grade for the final grade. He's a messy writer, makes few mistakes, lots of clicker Q's and pretty cool experiments in lecture.

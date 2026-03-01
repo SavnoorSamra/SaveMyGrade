@@ -1,0 +1,282 @@
+Professor: Mehdi Ghotboddini
+Professor Legacy ID: 2614438
+Professor ID: VGVhY2hlci0yNjE0NDM4
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 2.9
+Avg Difficulty: 3.4
+Num Ratings: 70
+Would Take Again Percent: 45.7143
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS336
+Date: 2026-01-27 18:22:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Prof started teaching at UBC Sauder - Class is stale and difficult to follow along with. Quizzes are tough and extremely nuanced; lectures do not prepare you to do well and you are required to self-study the textbook. Class discussions dive deep into nuances not relevant for later examination. I would not recommend this course.
+
+--- Rating #2 ---
+Class: BUS232
+Date: 2026-01-15 18:08:24 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I'm sharing this feedback constructively. Prof. began teaching at UBC Sauder, but the course experience does not yet meet standards. A static lecture style makes it hard to stay engaged, group details are collected by email rather than Canvas, and a 45-minute presentation was assigned with one week's notice without sufficient class foundation.
+
+--- Rating #3 ---
+Class: BUS336
+Date: 2024-04-30 15:53:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The course was practical, and I enjoyed attending his lectures! The assessment and overall mark were satisfactory, although the exams were challenging. He is lacking in responsiveness to emails!
+
+--- Rating #4 ---
+Class: BUS336
+Date: 2024-02-29 01:16:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He 100% writes his own reviews. All the bad reviews are completely accurate. He doesn't teach anything. The averages are around 40%. He blames the class for the low averages. This class felt satire. Just don't do it!!!
+
+--- Rating #5 ---
+Class: BUS232
+Date: 2024-01-05 21:31:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Knowledgeable and clear in the subjects. Heavy emphasis on both final and midterm exams. MC questions are challenging!
+
+--- Rating #6 ---
+Class: BUS336
+Date: 2024-01-04 19:39:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He makes the topics easy to understand, I really enjoyed taking this class with him.
+
+--- Rating #7 ---
+Class: BUS232
+Date: 2023-12-18 19:06:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very nice guy.
+
+--- Rating #8 ---
+Class: BUS336
+Date: 2023-12-15 20:09:05 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Overall, a somewhat nice and pretty funny guy. Midterm was bad, but final was a lot easier, mainly because out of 5, the first 3 written questions were copied word for word from the midterm, and the fourth question was word for word number for number copied from the last assignment. He should provide more practice problems to help students learn.
+
+--- Rating #9 ---
+Class: BUS336
+Date: 2023-12-14 03:26:38 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+yall im being so deadass when i say avoid unless your amazing at teaching urself. everything we learn in class is using excel&tableau software but the exams are only handwritten and he doesn't teach u how to do anything by hand u learn on ur own. also doesn't provide any sample questions that reflect the only handwritten method all of them use exel
+
+--- Rating #10 ---
+Class: BUS232
+Date: 2023-12-14 02:07:14 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+lectures are long and unhelpful. he leaves stuff out of the posted slides, so you should definitely attend class. the practice exam sample questions are only available in class, and your cheat sheet can't have graphs or notes. he didn't post an assignment/quiz so he made them optional. not the worst but disappointing considering he's a recent grad.
+
+--- Rating #11 ---
+Class: BUS336
+Date: 2023-12-12 21:44:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He does not know how to teach. Gives no problems or homework to practice for midterms and exams- was so lazy he gave everyone automatically 10% for an assignment he didn't post. You will have to teach yourself everything. All work we did was through Excel and on midterm he expected us to calculate by hand, never teaching us how to.
+
+--- Rating #12 ---
+Class: BUS336
+Date: 2023-11-29 03:22:50 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+does not know how to use a computer.
+
+--- Rating #13 ---
+Class: BUS336
+Date: 2023-11-29 00:48:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Honestly, the content for this course is not hard, he just teaches it awfully. The midterm average was 41%, with the best mark around 75% in a class of 200 ppl. No practice questions, he pushes back everything, doesn't answer questions properly and teaches terribly. (I did good on the exam so I am not writing this out of spite).
+
+--- Rating #14 ---
+Class: BUS336
+Date: 2023-11-28 00:03:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Mehdi please do not pretend to be a student and rate yourself 5 here, you know you don't deserve it
+
+--- Rating #15 ---
+Class: BUS336
+Date: 2023-11-24 17:59:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I'm kinda blown away by some unfavorable comments, all because the midterm was a letdown! although some of the questions were basically copy-pasted from the assignments. Accustomed to detailed exam instructions, challenging questions lead us to blame. But honestly, Mehdi's a cool, smart teacher, totally the right person for this course.
+
+--- Rating #16 ---
+Class: BUS336
+Date: 2023-11-24 09:02:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Avoid this man at all costs. He takes a second to look at his slides, then proceeds to "explain" them to the class by reading word for word off of the slides. It's almost as if he's learning the concepts along with the class:) He also doesn't know how to project his voice and gets too lazy to hold the mic up so no one can hear what he's saying.
+
+--- Rating #17 ---
+Class: BUS336
+Date: 2023-11-24 05:14:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dear Mehdi,
+
+I hope this comment finds you bad. You are the worst.
+
+Best,
+
+Your 336 Student
+
+--- Rating #18 ---
+Class: BUS336
+Date: 2023-11-24 05:09:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This guy has many jobs at the same time and professor is just one of his job. He has a HUGE PROBLEM with his TIME MANAGEMENT. 
+Mehdi, I don't know if you see the comment here. But please! If you cannot manage this, just do not be a professor! Do not waste our tuition! Do not destroy our lives! You have a serious problem with teaching!
+
+--- Rating #19 ---
+Class: BUS336
+Date: 2023-11-23 19:51:39 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Never in my 4 years of uni have I witnessed a 40% EXAM AVG, especially in a class of 200+. Exam was pushed back a week already, 1-page formula sheet was allowed, and an extra 20 mins was given halfway through the exam. 
+
+dawg this should be the moment for serious reflection as a professor lol
+
+sweaty ah classroom, could smell everyone's pit sweat.
+
+--- Rating #20 ---
+Class: BUS232
+Date: 2023-11-23 02:40:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+A good instructor for this course offers very standard lectures, exams, assignments, and quizzes.

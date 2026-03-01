@@ -1,0 +1,219 @@
+Professor: Frank Lee
+Professor Legacy ID: 1297436
+Professor ID: VGVhY2hlci0xMjk3NDM2
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 3.7
+Avg Difficulty: 2.5
+Num Ratings: 16
+Would Take Again Percent: 81.8182
+
+Ratings Count Returned: 16
+
+--- Rating #1 ---
+Class: HSCI100
+Date: 2025-12-11 04:19:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures are quite dense as there is a lot of material to go over; however, the professor is super straightforward about the content that will come up on exams. The content itself is simple and is reminiscent of a basic high school bio course.
+
+--- Rating #2 ---
+Class: HSCI100
+Date: 2025-09-17 06:05:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I didn't go to a single class so idk what you are supposed to do in tutorials but I did the bare minimum and got a C which is all you need to pass. if you actually give a shiz, you'll do good. this class is not difficult unless you make it out to be.
+
+--- Rating #3 ---
+Class: HSCI440
+Date: 2025-01-20 22:08:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Lee is a great prof for upper-div HSCI courses. His classes are very focused on application/analysis skills which I found to be very helpful! However, all the papers you write are 20+ pages.
+
+--- Rating #4 ---
+Class: HSCI100
+Date: 2021-12-15 13:14:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Professor Frank Lee was an absolute gem, highly reccomend you take his courses. You can see the passion for this class in his eyes and he cares and loves his students. Love this guy!
+
+--- Rating #5 ---
+Class: HSCI100
+Date: 2021-12-12 13:25:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+It is not based on power points or textbook use. The long answer questions on the midterms are simple (for simple minded people). This class is easy you can have a job and a full course load. Your study will take little time with little effort, yet yield a high grade. :)
+
+--- Rating #6 ---
+Class: HSCI100
+Date: 2021-12-03 19:35:18 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+It is purely based on his lengthy power point slides and textbook material. Even though quizzes are mainly multiple choice, the exam long answer question are tough. This class is doable if you do not have any other important classes or jobs outside of school. Your study time will revolve around this class. And you won't even get a good grade.
+
+--- Rating #7 ---
+Class: HSCI100
+Date: 2021-12-01 22:49:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Thank you frank.
+
+--- Rating #8 ---
+Class: HSCI321
+Date: 2021-12-01 00:34:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Franklin is very caring and is very passionate about student's mental health. I suggest taking him if you are looking for a fun health science course.
+
+--- Rating #9 ---
+Class: HSCI474
+Date: 2021-12-01 00:32:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Frank Lee is well respected and explains in great detail about the course. I recommend taking him if you want a good mark and great adventure
+
+--- Rating #10 ---
+Class: HSCI100
+Date: 2021-12-01 00:25:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+frank is a gem
+
+--- Rating #11 ---
+Class: HSCI100
+Date: 2020-11-04 21:06:40 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Lectures are boring, reads straight off the powerpoint slides and doesnt give any other info. He includes random info into his quizzes that weren't taught by him. He said that the textbook for this course isn't required, but make sure to buy it; you will need to teach yourself this course, and you will only pass quizzes if you read the textbook.
+
+--- Rating #12 ---
+Class: HSCI440
+Date: 2016-01-05 00:34:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+This guy makes the labs bearable. He's incredibly relaxed and likes to joke and have a good time. His marking is reasonable, just make sure not to leave your lab reports to the last minute. Overall, he is one of the better lab professors I have had and would recommend him to anyone!
+
+--- Rating #13 ---
+Class: HSCI440
+Date: 2015-12-15 22:12:01 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Very willing to help. Lab manual could be slightly clearer, but a lecture along with the lab could be helpful. Lots of self research was required. Average was fairly decent and Frank is a fair marker for the most part. He does not have much of a liking for personal flavour/style. Keep it simple.
+
+--- Rating #14 ---
+Class: HSCI474
+Date: 2015-02-23 21:14:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+A bit disorganized. Prerequisites were insufficient. Tailored to upper division pysch majors and masters students, even though it's an undergrad health sci course. Group presentations were pointless. Made us read papers beyond the scope of an undergrad health sci class. Students and the whole class had a very condescending attitude.
+
+--- Rating #15 ---
+Class: HSCI321
+Date: 2013-05-22 00:06:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+He gives okay lectures, his tests are hard and I suggest studying for them as much as possible because the average is not going to be that great... keep up with the course material and take the assignments seriously because they will prove to save your mark in the end.  Frank is a helpful prof and will try to help students.
+
+--- Rating #16 ---
+Class: HSCI321
+Date: 2009-09-29 12:58:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+This guy does nothing!!! We are in the 4th week of classes and all he has done is read excerpts from the textbook to us for 3 hours at a time.  He needs to get his**** together and put at least a little effort in.

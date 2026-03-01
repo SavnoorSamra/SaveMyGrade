@@ -1,0 +1,37 @@
+Professor: Annette Rouleau
+Professor Legacy ID: 2605818
+Professor ID: VGVhY2hlci0yNjA1ODE4
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: EDEL316
+Date: 2020-12-05 23:29:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Hands down one of the best profs I've had for an education course. She is super friendly, caring, and genuinely wants her students to become great teachers. Annette is such a gem and you will enjoy her class if you take it. Assessments are practical and part of the learning process. I took a lot away from this class.
+
+--- Rating #2 ---
+Class: EDUC475
+Date: 2020-06-16 18:32:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Annette is so amazing. Everyone complains about the PDP program is a waste of money and time. BUT, Annette's class is pure gold. She makes amazing connections and follows her beliefs about grading and assessing (be thoughtful about your learning in reflections). Her class was the only class I enjoyed the whole summer and I actually LEARNED.

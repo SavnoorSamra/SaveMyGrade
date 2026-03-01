@@ -1,0 +1,264 @@
+Professor: Angel Chang
+Professor Legacy ID: 2588891
+Professor ID: VGVhY2hlci0yNTg4ODkx
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.3
+Avg Difficulty: 4.3
+Num Ratings: 19
+Would Take Again Percent: 31.5789
+
+Ratings Count Returned: 19
+
+--- Rating #1 ---
+Class: CMPT413
+Date: 2023-04-20 08:37:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I liked how Prof. Chang gave detailed instructions. It might seem demanding at first, but I think she's setting high and achievable goals for us so that we can complete something that we'll be proud of. Drawback: each TA seems to have different grading criteria; assignment is a little bit heavy; Prof. might want to improve explaining some concepts.
+
+--- Rating #2 ---
+Class: CMPT413
+Date: 2023-04-12 03:00:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Prof. Chang should reduce the number of homeworks. She should focus more on her slides.
+
+--- Rating #3 ---
+Class: CMPT413
+Date: 2023-04-12 02:55:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is not a good instructor. She grades arbitarilly. She has plagarised the entire course. There is so much to do  that I feel really bad for the TA's. I think the grading is arbitary. 
+
+I WOULD NOT ADVISE TAKING HER COURSE.
+
+RETHINK PLEASE !!!
+
+--- Rating #4 ---
+Class: CMPT413
+Date: 2023-04-07 00:11:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very hard assignments.
+
+--- Rating #5 ---
+Class: CMPT413
+Date: 2023-03-29 05:49:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+If you are not a fan of writing research paper, do not choose this class. She is very demanding, asking for details on every single thing, code, jupyternote explaining, conference level paper. Add on tough grading, congrats, you got low points for so much work.
+For final, expect 3 iterations of paper writing and a video.
+DO NOT choose her class.
+
+--- Rating #6 ---
+Class: CMPT413
+Date: 2023-03-19 04:08:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very long homeworks and unrealisitc expectations. 100% would not recommend
+
+--- Rating #7 ---
+Class: CMPT413
+Date: 2023-03-19 04:07:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The grading scheme is absurd. She should pay more attention to her slides.
+
+--- Rating #8 ---
+Class: CMPT413
+Date: 2023-03-13 06:15:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Straight up a lot of homeworks. Classes are not useful.
+
+--- Rating #9 ---
+Class: CMPT983
+Date: 2022-05-02 09:51:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+If you are passionate about research and not caring that much about grades (i.e. you don't expect to get A+ for all courses),this is definitely a great course to take. If you ask questions about research, she will quickly identify the problems and give you advice. She gave detailed feedbacks. She has a very high standard, but grading is not tough.
+
+--- Rating #10 ---
+Class: CMPT983
+Date: 2022-04-28 09:10:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Chang did a fantastic job covering the fairly broad field of grounded NLP. Her course changed the things and directions I think are important in research, afforded substantial opportunities to become a better researcher, and was overall extremely chill. The amount of work is substantial but easily manageable, and a good use of time.
+
+--- Rating #11 ---
+Class: CMPT413
+Date: 2021-12-17 22:45:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Bad prof and confusing lectures. If you feel like your time is cheap, just go to this class. Otherwise, NEVER EVER take this profs class. Also, the grading scale is absurd, 98 is for A+, remember that this is a 400-level CS course! Students are also not allowed to ask for regrading for final project.
+
+--- Rating #12 ---
+Class: CMPT413
+Date: 2021-12-17 22:43:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Contents were boring. Unfair marking to assignments and doesnt respond to mark appeals. Final projects marked wrong but cant do anything because she doesnt allow you to do mark appeals for the final project. TAs werent helpful, all questions were answered with: I cannot help with that.
+
+--- Rating #13 ---
+Class: CMPT413
+Date: 2021-12-17 05:12:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The course material is quite dry and challenging though, Angel is really glad to explain to students. Writing assignments helped a lot to understand the concepts. Programming assignments were interesting and much to explore. No quiz or exam. But Angel has high expectation on analysis in reports and coding skills.
+
+--- Rating #14 ---
+Class: CMPT413
+Date: 2021-12-17 04:58:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dry but useful material. Programming assignments are focus on both coding and analysis. Nice prof
+
+--- Rating #15 ---
+Class: CMPT413
+Date: 2021-12-17 04:57:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The overall topics are interesting and useful. Although it is a little bit difficult to understand, the conceptual homework will help you figure it out. Programmings are not that heavy loaded. A nice professor.
+
+--- Rating #16 ---
+Class: CMPT412
+Date: 2021-12-08 23:45:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+We have a final report and milestones, if you don't use the &quot;template&quot; in the milestone, then &quot;your final report will not be accepted.&quot; she is not good at teaching or answering emails. She took over a month to respond to an admin issue.
+
+--- Rating #17 ---
+Class: CMPT413
+Date: 2021-12-08 03:36:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I was super excited to take this class! I was deeply interested in the subject matter and the Prof had amazing credentials (She had no RMP ratings then) on paper. However my experience was really bad. The class is dry, lectures don't have a coherent narrative and she does not really answer questions. Overall, probably the worst class I've taken.
+
+--- Rating #18 ---
+Class: CMPT413
+Date: 2021-11-07 04:24:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She doesn't know the stuff she teaches. She spent most of the class introducing useless background information and skipped a lot of technical details. When we try to ask her questions, she can't answer most of the time. She deducts marks for reports heavily in code assn even if you get full marks for code. Written assn are also marked strictly.
+
+--- Rating #19 ---
+Class: CMPT413
+Date: 2021-10-11 19:34:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The course material is incredibly hard and super confusing. I completed all of the prerequisites before enrolling in this course, but I found there is no way for me to figure out what is this course about. The professor skips a lot of introductions for some unfamiliar concepts but jumped into depth directly. Overall, terrible experience! :(

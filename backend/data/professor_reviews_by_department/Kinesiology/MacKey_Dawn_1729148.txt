@@ -1,0 +1,37 @@
+Professor: Dawn MacKey
+Professor Legacy ID: 1729148
+Professor ID: VGVhY2hlci0xNzI5MTQ4
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 5
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: KIN304
+Date: 2018-11-09 19:10:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Absolute amazing prof. Really good at explaining things in class and if you go to her office hours she'll go into more detail and ensures that you understand the material. Super approachable, can tell she really likes her work. Also makes an effort to learn everyone's name. Makes a lot of the profs here look bad, 11/10 would take again.
+
+--- Rating #2 ---
+Class: KIN304
+Date: 2012-06-06 01:09:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Mackey's really nice and she seems like a reasonable prof.  Stats is, well, stats.  But you don't have to worry about memorizing formulas, the class is about how to use stats in different situations.

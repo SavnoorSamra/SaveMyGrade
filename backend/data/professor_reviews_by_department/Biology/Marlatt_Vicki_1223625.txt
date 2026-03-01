@@ -1,0 +1,167 @@
+Professor: Vicki Marlatt
+Professor Legacy ID: 1223625
+Professor ID: VGVhY2hlci0xMjIzNjI1
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 4.6
+Avg Difficulty: 2.5
+Num Ratings: 12
+Would Take Again Percent: 87.5
+
+Ratings Count Returned: 12
+
+--- Rating #1 ---
+Class: BISC308
+Date: 2025-01-20 04:47:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Dr. Marlatt taught very interesting content, but lectures tended to be on the boring side due to delivery. Usually late, and has poor time management but it is my understanding she is very busy. I highly recommend the course though.
+
+--- Rating #2 ---
+Class: BISC308
+Date: 2023-11-24 07:15:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Dr, Marlatt's lectures are relevant and include lots of case studies/info that is genuinely helpful for someone pursuing a career in biology. Kind and welcomes questions. Only criticism is that lectures are a bit disorganized (don't always tell a clear story, tend to jump around) but the content is straightforward enough that it's not a big deal.
+
+--- Rating #3 ---
+Class: BISC308
+Date: 2023-11-17 21:13:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Vicki is an amazing and caring professor. She is very understanding of student's situations and very accessible. Her teaching is very clear and her exam criteria are even more clear. She wants you to succeed. Her assignments are analysis of studies which are very helpful if you are interested in pursuing a career in toxicology (and are very easy).
+
+--- Rating #4 ---
+Class: BISC308
+Date: 2021-01-01 09:23:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Vicki loves what she teaches and it shows. The class was very well structured and she was very organized. The lectures had interesting case studies. Highly recommend.
+
+--- Rating #5 ---
+Class: BISC308
+Date: 2018-12-22 21:24:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I really enjoyed Vickis lectures and teaching style, and the way the course was structured, with 3 midterms/3 assignments/no final. Course content was interesting and relevant, and I would definitely recommend Vicki as a professor. She strategically left some Canvas slides incomplete to encourage attendance, and provided useful practice exam Qs.
+
+--- Rating #6 ---
+Class: BISC308
+Date: 2018-11-30 17:40:12 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Mono-tone so her lectures get boring. Doesn't provide any direction for using the textbook and so I never tried (topics are scattered throughout the book) but still got an A in class. Tests are easy, but its easy to lose marks as its marked based on keywords they want to see, even if the answer is right. Tutorials were pointless but Debbie was nice
+
+--- Rating #7 ---
+Class: BISC308
+Date: 2018-11-19 22:06:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+probably the best professor at SFU, at least in the Faculty of Science
+
+--- Rating #8 ---
+Class: BISC308
+Date: 2018-11-09 22:48:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+8:30 classes suck but Vicki does her best to keep us engaged with relevant guest lectures or Youtube videos. 3 tests, 3 assignments. Tests are extremely straightforward. Show up to lecture and take notes and I guarantee you will do well. Class average was an A-.
+
+--- Rating #9 ---
+Class: BISC473
+Date: 2016-01-04 17:35:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Textbook was free to use online through the library, but only 1 person can view it at a time.
+
+--- Rating #10 ---
+Class: BISC316
+Date: 2009-02-21 22:54:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Not a hard course, just straight memorizing. (But I still did bad...). Notes are scattered and it can be really confusing at times. Extremely nice prof and very approachable. If you can take 316 with her. Oh and the textbook's useless.
+
+--- Rating #11 ---
+Class: BISC316
+Date: 2009-02-04 17:01:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Awesome prof-loved her! Really enjoyed this class because of her. Her actions let you know she really wants students to succeed. The notes can be better organized but she was using another prof's notes. You pretty much know exactly what is going to be on the test beforehand, just a matter of memorizing. No need for textbook.
+
+--- Rating #12 ---
+Class: BISC316
+Date: 2008-12-09 00:10:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Most relaxing class ever. She's a great and compassionate person, never makes you feel discouraged and really wants everyone to do well. Make sure to go to class as you take extensive notes. Lab was fun and if you need help with any clarification she's more than willing to help out. Exams very straightforward but a LOT of material so start early!

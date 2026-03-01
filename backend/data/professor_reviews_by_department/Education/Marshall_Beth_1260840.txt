@@ -1,0 +1,271 @@
+Professor: Beth Marshall
+Professor Legacy ID: 1260840
+Professor ID: VGVhY2hlci0xMjYwODQw
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.9
+Avg Difficulty: 2.7
+Num Ratings: 29
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: 465
+Date: 2025-04-04 22:08:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Marshall is kind and always makes herself available to her students. Her lectures are always very engaging, and she creates the course in a way that makes you want to come to class. You will be going to the library and checking out books every single week for this course. Overall, can't say enough about Prof Marshall! She's fabulous!
+
+--- Rating #2 ---
+Class: EDUC465
+Date: 2024-12-27 07:22:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Beth's class was the best I've taken at SFU and I would take her again in a heartbeat if I could. You'll be spending a lot of time outside of class going to public libraries and doing readings, but it's a very manageable workload. Participation is also a MUST, so if you're too shy to talk in front of others this might not be the class for you
+
+--- Rating #3 ---
+Class: EDUC465
+Date: 2024-03-04 02:59:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Education 465 was THE BEST course I have ever taken at SFU. Despite being at 8:30 in the morning I looked forward to every class we had. The content is engaging and pretty easy. I would take it again if I could. Beth is the best professor ever.
+
+--- Rating #4 ---
+Class: EDUC465
+Date: 2024-02-09 07:48:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Beth is amazing!!!!
+
+--- Rating #5 ---
+Class: EDUC465
+Date: 2023-06-19 21:21:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Beth is not only a great professor but a lovely human in general. She makes an effort to connect with each student personally. It is evident she has a passion for what she teaches. Classes are discussion heavy and require full participation, but material is fun and engaging and as long as you keep up passing the course is basically guaranteed.
+
+--- Rating #6 ---
+Class: EDUC465
+Date: 2022-08-31 04:12:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+You MUST participate as there are many group discussions in every class. Be prepared for many library trips. Option to attend separate events (class/book-related with children's lit scholars, authors, or illustrators) outside of class time as a partial or full substitution for midterm and final. Mini assignments throughout. Love Dr. Marshall!
+
+--- Rating #7 ---
+Class: EDUC465
+Date: 2021-12-07 05:00:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Beth is amazing professor that I would definitely seek for other courses that she teaches. She provides inspiring and thought provoking course contents every lecture which I learnt numerous stuffs. Her wit and warm characteristics created a nice environment that allow students to step into conversation easily.
+
+--- Rating #8 ---
+Class: EDUC391
+Date: 2021-02-19 01:29:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Beth is a fantastic professor. Her special topics course is very interesting and I really enjoyed our topics. I learned a lot! I will warn you that if you are looking for an easy A, you may want to rethink the course. This is not one of those educ courses. There is a lot of reading and writing and you will need to work for it, but you will learn!
+
+--- Rating #9 ---
+Class: EDUC465
+Date: 2020-01-09 03:51:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Beth is an intelligent moderator who encourages discussion. Attendance is mandatory in her class and it's often early (8:30 start) but it's worth it. One downside is you have to purchase / find several books every week which eat up your time. But she gives a ton of leeway with a free 5% and easy quizzes. MT and final are moderately difficult.
+
+--- Rating #10 ---
+Class: EDUC465
+Date: 2019-07-19 06:47:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Not a morning person, but she had me engaged for an 8:30 class. Passionate instructor, confident in what she teaches. Lots of character. You do have to put in effort to do well, PARTICIPATE in class and put effort into those DA's. Expect to make MANY trips to the library, START EARLY when finding specific books. Midterm &amp; Final are a breeze.
+
+--- Rating #11 ---
+Class: EDUC396
+Date: 2019-07-08 02:46:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+best prof i've ever had. engaging materials &amp; good class dynamic. participate, pay attention &amp; do the readings and the online exams will be a breeze. she listens to your feedback &amp; is willing to make accommodations where needed. weekly/sometimes daily responses aren't hard to do because it's mostly your own opinion- just construct them well
+
+--- Rating #12 ---
+Class: EDUC465
+Date: 2019-07-08 02:42:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Super engaging class. Cares about your thoughts &amp; achievement. Participation is huge- talk, even if you don't think it's worth saying! Be ready to visit public library often for books. Quizzes/assignments were fair but final project was more work than anticipated/ given less instruction- grading seemed unfair/odd on project but overall GREAT PROF
+
+--- Rating #13 ---
+Class: EDUC465
+Date: 2018-06-23 02:18:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Marshall sets her students up for success. She is absolutely hilarious, compassionate and relatable. A one-of-a-kind prof &amp; no one can surpass her as an instructor. Her class is VERY useful for prospective teachers, but if you're not going into PDP, take her class anyways. Well worth waking up early for (8:30 am class)! You wont regret it!
+
+--- Rating #14 ---
+Class: EDUC465
+Date: 2018-01-11 01:56:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I took this class as an UD elective and I'm so glad I did! Lots of discussions and you get to know everyone in the class, so it isn't too bad. You will learn a lot about children's lit and there's quite a bit of writing and prep work involved. As long as you keep up to speed with your work, you will do great! She made it very enjoyable. Recommend!
+
+--- Rating #15 ---
+Class: EDUC465
+Date: 2017-04-21 00:17:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I took Beth's class during my undergrad to bring up my GPA for law school, thinking it would be an 'easy' class. Wrong, it was a lot of reading, pop quizzes, I got yelled at for texting in class and talking twice... but I loved this class looking back. She was awesome, the books we read were awesome, it was such a good class!!
+
+--- Rating #16 ---
+Class: EDUC465
+Date: 2017-03-06 22:17:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Beth is awesome! She is interested in what she teaches and wants her students to succeed. She's clear with course requirements and very organized. A lot of reading, but if you show up and do the readings, the class will be great for you. 10/10 would recommend!
+
+--- Rating #17 ---
+Class: EDUC396
+Date: 2016-07-05 01:34:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Beth is THE best, but only if you like class discussions. If you aren't a talker, then start being one! It was a small class and I felt like I was friends with everyone. 396 was intersession so it's a lot of work, but actually it's easy (only major items were a midterm + final, both take-home). We get to read books and watch movies for this class!
+
+--- Rating #18 ---
+Class: EDUC465
+Date: 2016-06-15 14:17:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Beth Marshall makes her class FUN! A class that I didn't mind that started at 8:30am nor that it was 4 hours. She always had something to discuss or activities to do which encouraged our learning experience. Great class, highly recommend.
+
+--- Rating #19 ---
+Class: 472
+Date: 2015-07-13 17:34:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Beth is a great prof! Her love for literature is so strong that I can't wait to use books with students in all subjects. She gives practical examples of what can be applied in teaching. There were a lot of readings to do and assignments were fair. Only down side is you may end up spending a lot buying books or have to visit the library every week!
+
+--- Rating #20 ---
+Class: EDUC465
+Date: 2015-07-04 01:22:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Beth is amazing.  The content, she makes it inherently interesting and brings ideas that you would never think of.  She, herself, is full of energy, sarcasm and wit that you don't often find in a lot of teachers.  There is reading and there is homework, but it's very manageable.  Nothing extreme.  A gem among professors.

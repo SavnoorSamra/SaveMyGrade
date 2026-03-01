@@ -1,0 +1,273 @@
+Professor: Eldon Emberly
+Professor Legacy ID: 484471
+Professor ID: VGVhY2hlci00ODQ0NzE=
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 3.7
+Avg Difficulty: 3.1
+Num Ratings: 58
+Would Take Again Percent: 90.9091
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PHYS100
+Date: 2026-02-27 05:14:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I liked his lectures because they were really straight forward. The textbook is free and its really useful. A lot of homework but whatever is in the homework is going to be on the exams in pretty much the exact same wording. As long as you do the tutorial worksheets, written assignments, and glance at the textbook problems you're good.
+
+--- Rating #2 ---
+Class: PHYS100
+Date: 2026-01-07 03:31:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Emberly deserves a much better rating. His lectures were boring sometimes, but the demos he did were so fun. You can do well in this class without going to the lecture because he posts his notes and slideshows. The tests are easy if you study a bit and go to class. If you do badly in this class, that's a skill issue.
+
+--- Rating #3 ---
+Class: PHYS100
+Date: 2025-12-12 05:33:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great professor! He's super caring and ready to answer any questions you have inside or outside of class.
+
+His tests are definitely based off his lectures and the textbook questions so it's very important to take time to go to class and do work outside of class.
+
+--- Rating #4 ---
+Class: PHYS100
+Date: 2025-12-11 07:09:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Eldon has been the best prof I've had so far in uni. His lectures are boring but he explains the content super well. His exams are quite simple and based off of hw and tutorials, and people shouldn't have a tough time getting an A in his course.
+
+--- Rating #5 ---
+Class: PHYS100
+Date: 2025-11-22 03:58:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's one of the best prof's I've had at SFU so far. Really caring and you can tell he puts a lot of effort into teaching. He's also very approachable and answers questions well. Some cool demos were shown in class as well. He should have a 5/5 rating tbh. He explain's concepts very clearly. Do the textbook questions. The textbook is free!
+
+--- Rating #6 ---
+Class: PHYS100
+Date: 2025-11-05 02:25:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Teaching style is super straightforward and clear. Has lots of demonstrations for better learning. Has a short 3-5 question quiz once a week but is super easy and manageable. Boring class but easy.
+
+--- Rating #7 ---
+Class: PHYS100
+Date: 2024-12-05 03:35:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Explains things very clearly, class participation and questions are integrated into this class. Did some cool demos too. Should be an easy class if you just do at least some practice questions every week. Class avg. on the midterm was something around 50-60% though
+
+--- Rating #8 ---
+Class: PHY101
+Date: 2024-07-09 00:57:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Mr. Emberly is a great prof, 5/5 stars in my eyes and I would take him again without a second thought. PHYS101 studio physics is honestly really fun. The achieve mini-lectures were informative, and any in class lectures were taught well. He always did his best to engage us, trying to make things fun as much as he could.
+
+--- Rating #9 ---
+Class: PHYS100
+Date: 2024-07-09 00:54:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Mr. Emberly is a great prof. He undoubtedly does deserve a 100%, 5/5 star rating. Although the lectures could be a bit confusing at times, he undoubtedly did his best to engage us and teach the material. The lecture slides were built on so attending class is extremely important. His class notes I didn't find super important as I attended lectures.
+
+--- Rating #10 ---
+Class: PHYS101
+Date: 2024-04-26 18:23:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+In my opinion, Prof. E deserves a much better rating than this. This class was taught studio style, and I absolutely loved it. You watch the Achieve videos and do experiments to help you apply concepts. He is such a sweet man and always answers questions so patiently. Tests were very fair, and he would scale them if we struggled. I 100% recommend.
+
+--- Rating #11 ---
+Class: PHYS101
+Date: 2024-04-25 19:20:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The studio format is different from your typical lecture format. We watch videos before class and learn the material, while in class we do activities in groups and have to submit reports. Dr. Emberly always answers our questions and is there to help. The midterms and final were fair, and we were given lots of weekly practice problems
+
+--- Rating #12 ---
+Class: PHYS101
+Date: 2024-04-23 19:20:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Fantastic professor, I took studio-style phys101 in Surrey with him and it was great. He would repeatedly stay after class to answer all of my group's questions and he was great at explaining tough concepts making them clear! If you're debating taking Phys 101 at Surrey (probably studio style) it feels like a high school class and is very engaging.
+
+--- Rating #13 ---
+Class: PHYS101
+Date: 2024-04-21 05:38:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+As some reviews might suggest, Dr. Emberly 100% deserves a better rating. Sure at the beginning it took him a bit to get comfortable talking about simple topics in front of us but once he realized that we were all engaged during his lectures he started to go into detail and made learning each topic very easy. Office hours were awesome and frequent.
+
+--- Rating #14 ---
+Class: PHY101
+Date: 2023-12-16 00:02:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is very knowledgeable in his field and the course is exciting.
+
+--- Rating #15 ---
+Class: PHYS101
+Date: 2020-12-27 10:19:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+I found it really hard to focus on his lectures. Most weeks had 2 assignments due on the same night (Friday). Exams were pretty difficult. There apparently were 2 profs this semester that switched halfway through that I didn't notice, but they have the same teaching style so doesn't matter.
+
+--- Rating #16 ---
+Class: PHYS100
+Date: 2019-12-03 05:00:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+not too difficult, mostly concepts form physics 11. very kind, approachable, no need to read the textbook. expect to spend about 2-3 hours on the weekly homework and maybe 1/2 hour on the written work. Midterms come straight from the textbook and theiclicker questions. as long as you can do every single one of those question you are golden.
+
+--- Rating #17 ---
+Class: PHYS101
+Date: 2018-07-06 02:10:15 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He was nice to talk to and was willing to answer questions. Classes were in the studio format which was kind of strange for me but as long as you study the activity guides and practice questions youll do well on exams.
+
+--- Rating #18 ---
+Class: PHYS101
+Date: 2018-04-28 20:52:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Super nice prof but take class as lecture format and not studio format in surrey as he just hands a booklet and expects you to apply your knowledge learnt from assignments. Midterms and exams are fairly easy if you study your assignments and booklets. He takes the higher midterm mark from the two midterms.
+
+--- Rating #19 ---
+Class: PHYS101
+Date: 2018-04-18 21:04:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is a really good professor. The only thing is, don't take this class with him in Surrey as studio format. Take it lecture format and you are set. He is extremely nice and gives easy and fair midterms and finals. Recommend him for this class!!
+
+--- Rating #20 ---
+Class: PHY101
+Date: 2017-12-20 23:05:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Lots of lots of homework. Too much work for a 3 credits course

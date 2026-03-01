@@ -1,0 +1,11 @@
+Professor: Darija Susac
+Professor Legacy ID: 1150342
+Professor ID: VGVhY2hlci0xMTUwMzQy
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

@@ -1,0 +1,63 @@
+Professor: Tom Loughin
+Professor Legacy ID: 2898558
+Professor ID: VGVhY2hlci0yODk4NTU4
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 5
+Avg Difficulty: 2.3
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: STAT285
+Date: 2025-12-11 01:35:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+The most engaging prof in the STAT department! and I've had many. This guy explains things in a way that makes concepts stick in your brain for a long time. I always looked forward going to class. There were 4 quizzes and a final. They were tough but all fair. Try out one of his classes if you can. I can't recommend a prof enough!
+
+--- Rating #2 ---
+Class: STAT100
+Date: 2025-09-18 22:21:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This man is so entertaining, genuinely made coming to class a memorable thing. His TA's this semester also seem to be very down to earth and I appreciate that he makes little worksheets that aren't overwhelming. There is lots of new vocabulary for this class that you need to learn, but his office hours are very helpful and accessible.
+
+--- Rating #3 ---
+Class: STAT100
+Date: 2024-04-22 19:22:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+such an amazing prof, he was always very helpful. his lectures were well-organised and structured perfectly for the course. his exams were a good format, and were reasonable in terms of content per test. he was quick to respond to emails and gave great feedback and help when asked. love him, would recommend him to anyone looking for this credit!
+
+--- Rating #4 ---
+Class: STAT100
+Date: 2023-12-14 23:21:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Tom is an angel! Lectures (for those who actually attend) were engaging and you can tell how passionate he is about what he is teaching. If you do not like math, but need a B-Sci credit, take this with Tom!!! 2 midterms, 1 final, all open book/note. Small assignments for each unit. Marks came back very efficiently. 10/10 would recommend this dude!

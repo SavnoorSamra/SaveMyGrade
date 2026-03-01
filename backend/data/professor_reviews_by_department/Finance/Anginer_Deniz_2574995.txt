@@ -1,0 +1,102 @@
+Professor: Deniz Anginer
+Professor Legacy ID: 2574995
+Professor ID: VGVhY2hlci0yNTc0OTk1
+Department (CSV): Finance
+Department (Fetched): Finance
+Avg Rating: 4.6
+Avg Difficulty: 3.1
+Num Ratings: 7
+Would Take Again Percent: 100
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: BUS315
+Date: 2026-01-08 10:29:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Recommended
+
+--- Rating #2 ---
+Class: BUS315
+Date: 2023-05-26 02:09:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Deniz is so good and he is willing to provide additional office hour to help students.
+
+--- Rating #3 ---
+Class: BUS315
+Date: 2023-05-11 04:21:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Deniz is a great professor that is super knowledgeable. His assignments are pretty tough, so make sure to ask questions during office hours. His midterm was pretty easy and VERY similar to his sample exam. However, the content after the midterm got much more difficult and the final was pretty brutal. Didn't study the textbook at all, only lectures.
+
+--- Rating #4 ---
+Class: BUS315
+Date: 2022-05-13 17:50:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Deniz was a great professor and his exams were pretty easy. Just do his practice exams and you will find most of the content on the exam on there. Pretty knowledgeable guy with a finance background in New York.
+
+--- Rating #5 ---
+Class: BUS418
+Date: 2022-01-14 00:59:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Deniz is a very responsible professor. He's always willing to help his students outside of class. Even though the assignments and final project(currency report) could be a bit challenging, you will learn a lot out of it in the end. If you put effort into his class, you would achieve a satisfactory grade!
+
+--- Rating #6 ---
+Class: BUS418
+Date: 2022-01-12 22:09:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A good guy! Solid choice for a professor. His email answers are vague but his office hours are way better and were the most helpful when I did not understand things from class. Makes you do 3 assignments, 1 final currency project, and two exams.
+
+--- Rating #7 ---
+Class: BUS418
+Date: 2020-12-27 08:46:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Deniz is a prof who is always willing to help you outside of class. You will get what you put in to the course. Great guy.

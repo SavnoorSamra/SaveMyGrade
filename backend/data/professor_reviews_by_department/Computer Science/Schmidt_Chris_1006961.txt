@@ -1,0 +1,128 @@
+Professor: Chris Schmidt
+Professor Legacy ID: 1006961
+Professor ID: VGVhY2hlci0xMDA2OTYx
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1.6
+Avg Difficulty: 4.1
+Num Ratings: 9
+Would Take Again Percent: 100
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: CMPT165
+Date: 2017-08-05 04:10:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Chris is a very very good professor! I took CMPT 165 with him last semester. His PPT is useful and organized. He is also very helpful when you ask questions.  For midterm and final, I think they are pretty easy as long as you go through his PPT and exercises. I will definitely recommend him if you are going to take CMPT165 in SFU! Excellent!
+
+--- Rating #2 ---
+Class: CMPT120
+Date: 2007-08-19 06:26:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+People what is wrong with you how come Chris's score is in ones this guy deserves a big ZERO on everything. All i can say is please do yourself a favour dont take his class and i really mean it.
+
+--- Rating #3 ---
+Class: CMPT120
+Date: 2007-08-17 16:19:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+omg...worst prof ever. Like people said, he can't teach, just makes useless powerpoint slides from study guide. I think i would have done way better in this course if taught by another prof ! argh... he just can't teach, no wonder he tells students on the first day of class, that you don't have to come to lecture.
+
+--- Rating #4 ---
+Class: CMPT120
+Date: 2007-08-02 02:38:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Horrible prof! His lectures are very boring and useless. He does not explain or teach the material. He reads the notes and if u ask questions, he basically repeats the notes. There are 65 enrolled yet 20 show up. You might as well read from the study guide. Put a monkey in front of the class and he could teach the same if not better than Chris.
+
+--- Rating #5 ---
+Class: CMPT120
+Date: 2007-07-27 00:08:26 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Honestly dont take tis class with him. i have nothing against him but u honestly wont learn alot
+
+--- Rating #6 ---
+Class: CMPT120
+Date: 2007-07-22 01:41:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+The worst prof ever. He just 'assumes' that every student in his class is an expert in python. He doesn't go over the basics of programming and doesn't hesitate to screw you over with those hard tests, labs, assignments. He just can't teach.
+
+--- Rating #7 ---
+Class: CMPT120
+Date: 2007-07-21 16:12:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Do yourself a favor and stay away. If they don't offer CMPT 120 in Burnaby with any other professor, it is seriously worth it to take CMPT 120 at SFU Surrey with someone who knows how to teach.
+
+--- Rating #8 ---
+Class: CMPT120
+Date: 2007-07-18 00:54:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Chris is the worst prof I've ever encountered. He has no knowledge of the material covered in this course. He is very unclear when explaining things. He has no teaching skills whatsoever. He simply makes powerpoint slides from a studyguide that another professor wrote for the same course. He makes no effort to help students who have questions.
+
+--- Rating #9 ---
+Class: CMPT120
+Date: 2007-07-09 15:19:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+The prof doesn't know how to teach, he just assume all other students are expert. this course is just an introductory course to programming, and he never explain through examples, only main theories which we can just read off the textbook... the assignments are extremely hard, tests are so hard too.. avg was very low~ OVERALL WORST PROF I HAVE HAD!

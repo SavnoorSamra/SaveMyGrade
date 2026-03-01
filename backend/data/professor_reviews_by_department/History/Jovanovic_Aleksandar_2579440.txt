@@ -1,0 +1,128 @@
+Professor: Aleksandar Jovanovic
+Professor Legacy ID: 2579440
+Professor ID: VGVhY2hlci0yNTc5NDQw
+Department (CSV): History
+Department (Fetched): History
+Avg Rating: 4.3
+Avg Difficulty: 2.7
+Num Ratings: 9
+Would Take Again Percent: 77.7778
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: HUM277
+Date: 2023-08-28 06:08:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Make sure to use the email given on syllabus if you are trying to reach him and not the canvas email.
+
+--- Rating #2 ---
+Class: HUM277
+Date: 2022-09-10 05:22:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Dr. Jovanovic is incredibly knowledgeable. His lectures were packed with information but his slides were dry, meaning that there was lots of note taking. His tests and assignments were straightforward and the answers were often said during lecture. Overall, Dr. Jovanovic is a great professor who is clear but you must be attentive in his lectures.
+
+--- Rating #3 ---
+Class: HUM277
+Date: 2022-08-11 08:00:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+The class is manageable, but this semester he did not respond to emails sometimes, and when he did, it was already too late. Also, he took forever grading the PSA assignments and the Quizzes. I took him once before, and he was great, but now I would have preferred not to have taken his class.
+
+--- Rating #4 ---
+Class: HUM277
+Date: 2022-07-29 22:33:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Was sad I had to take this course as a credit initially, but he is very passionate about the material and inspired me to learn. I was super stressed about what textbooks and stuff we needed and he helped a lot. I messed up his name in that email and he wasn't too pleased. I'd recommend making sure you've typed his name in correctly before emailing
+
+--- Rating #5 ---
+Class: HUM277
+Date: 2022-04-13 07:45:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Aleksandar is a nice prof that isn't too hard on grading. His lectures are manageable and he provides the readings for you. He has the course broken down into 3 quizzes, an exam, discussions and an assignment and it is pretty manageable.
+
+--- Rating #6 ---
+Class: HUM277
+Date: 2022-01-06 02:01:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I thought this was one of my best online classes. Aleks' lecture videos were very informative and fun. I was always happy to learn.
+
+--- Rating #7 ---
+Class: HUM277
+Date: 2021-12-17 04:05:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Aleks' class was very informative and the subject matter very interesting. I liked his lecture videos a lot and he was always available on Zoom or on email when I needed help.
+
+--- Rating #8 ---
+Class: HIST349
+Date: 2020-11-29 06:57:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Jovanovic is really smart. He is a bit lecture heavy but he knows a lot. Listen to his lectures and pay attention to assignment criteria and you should do fine.
+
+--- Rating #9 ---
+Class: HIST349
+Date: 2020-07-17 17:53:36 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Aleks is definitely passionate about what he's teaching, but lectures feel like he's just talking at you. There's a lot of information given to you but the only time you really need it is for two quizzes that barely cover anything. The paper and drafts weren't that bad but he's not very clear on what he's looking for, even in his grading notes.

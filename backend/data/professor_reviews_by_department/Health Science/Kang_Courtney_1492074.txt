@@ -1,0 +1,24 @@
+Professor: Courtney Kang
+Professor Legacy ID: 1492074
+Professor ID: VGVhY2hlci0xNDkyMDc0
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 1
+Avg Difficulty: 5
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: HSCI330
+Date: 2010-11-05 20:04:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+She is the most useless professor to walk the halls of SFU. Enough said.

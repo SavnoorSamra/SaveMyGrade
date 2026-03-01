@@ -1,0 +1,38 @@
+Professor: Danielle Wills
+Professor Legacy ID: 3113212
+Professor ID: VGVhY2hlci0zMTEzMjEy
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 5
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: FANX99
+Date: 2025-12-07 07:31:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The most caring and genuine lecturer I have ever had. She wants everyone to succeed and has the biggest heart. I will truly miss being in her class. 
+As someone who was never good at math in highschool, Danielle made me feel confident that I could succeed. Take FANX99 with her - you won't regret it. She is such a gem.
+
+--- Rating #2 ---
+Class: FANX99
+Date: 2025-11-02 21:48:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The best prof till date for me. Very loving and caring. Teaches super super good and has lots of knowledge about the course. Would love to be in her class every single time i get a chance

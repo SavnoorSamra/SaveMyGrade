@@ -1,0 +1,24 @@
+Professor: Ronald Ignace
+Professor Legacy ID: 1457091
+Professor ID: VGVhY2hlci0xNDU3MDkx
+Department (CSV): Anthropology
+Department (Fetched): Anthropology
+Avg Rating: 3
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: FNST201
+Date: 2010-08-28 01:45:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Took through distance ed. the tutor marker was easy going...the course it self is dry

@@ -1,0 +1,11 @@
+Professor: Nassim tariq
+Professor Legacy ID: 2560049
+Professor ID: VGVhY2hlci0yNTYwMDQ5
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

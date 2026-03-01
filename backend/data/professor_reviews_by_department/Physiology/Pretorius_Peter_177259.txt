@@ -1,0 +1,89 @@
+Professor: Peter Pretorius
+Professor Legacy ID: 177259
+Professor ID: VGVhY2hlci0xNzcyNTk=
+Department (CSV): Physiology
+Department (Fetched): Physiology
+Avg Rating: 2.7
+Avg Difficulty: 4.2
+Num Ratings: 6
+Would Take Again Percent: -1
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: BPK461
+Date: 2014-08-26 23:13:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+It was a good class online, overwhelming though with the amount of info. Do the study questions online, and the papers need extra time and well thought out writing is critical. The last project was challenging, but great review. Overall don't get scared by it, it's totally doable and the themes are just recycled over and over. :)
+
+--- Rating #2 ---
+Class: KIN461
+Date: 2009-04-14 21:37:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+I actually thought this was a pretty good course.  At first, it looked very intimidating and overwhelming, especially for someone with little background in kinesiology.  However, with a bit of effort, it didn?t turn out to be so bad after all. It was actually a very interesting course and the prof is very helpful if you just ask!
+
+--- Rating #3 ---
+Class: KIN461
+Date: 2008-12-08 20:29:29 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very little teaching going on - need to memorize and regurgitate countless studies and textbook readings. Textbook is nigh incomprehensible. Assignments unreasonably long, expectations extremely unclear.
+
+--- Rating #4 ---
+Class: KIN461
+Date: 2006-12-11 17:47:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Absolutely obsessed with theories of aging - wants them to be applied to everything without any evidence whatsoever - very unscientific.  Material is becoming dated.
+
+--- Rating #5 ---
+Class: KIN461
+Date: 2005-11-24 23:21:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Memorization and regurgitation of text counts for everything; integration asked for but not valued. Too many assignments with deadlines before the material is covered.
+
+--- Rating #6 ---
+Class: KIN461
+Date: 2003-10-04 22:26:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+very picky about details...write out EVERYTHING mentioned in the text for assignment questions

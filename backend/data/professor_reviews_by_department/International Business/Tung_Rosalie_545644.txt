@@ -1,0 +1,154 @@
+Professor: Rosalie Tung
+Professor Legacy ID: 545644
+Professor ID: VGVhY2hlci01NDU2NDQ=
+Department (CSV): International Business
+Department (Fetched): International Business
+Avg Rating: 3.3
+Avg Difficulty: 3.3
+Num Ratings: 11
+Would Take Again Percent: 50
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: BUS431
+Date: 2024-11-29 21:31:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Tung was excellent this term. I learned a lot, and the information and insights gained from this class are extremely useful. Very knowledgeable professor and kind. She is very organized, through her email and slides.
+
+--- Rating #2 ---
+Class: BUS431
+Date: 2024-10-05 23:32:39 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Rosalie has interesting lectures but fails to convey information to students properly. She doesn't use Canvas and had to reassign groups 3 separate times because she wasn't keeping up to date with the roster; she sends all information through email since she doesn't use Canvas. She excludes information from slides because she's scared of copyright.
+
+--- Rating #3 ---
+Class: BUS431
+Date: 2020-12-18 10:20:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Dr. Tung is a knowledgeable professor. She is fair in her marking and her assignments/projects are not hard. If you put in the effort, especially in participation, you can do well. Only thing I would change is that she doesn't provide clear rubrics and her TA didn't give us feedback on what we did wrong for the weekly assignments.
+
+--- Rating #4 ---
+Class: BUS346
+Date: 2020-12-11 23:47:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Was very hard to follow along in this class in the new online environment, as most assignment instructions had to be clarified with the professor and TA through email, rather than having them prepared in the course outline. Most classmates I talked to were also confused on assignment instructions, often resulting in low marks even after much effort
+
+--- Rating #5 ---
+Class: IHRM
+Date: 2014-05-11 14:40:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Dr. Tung is an incredible professor. She is extremely knowledgable, professional, well prepared, and addresses the needs of the students. It was a pleasure to be in her class. I learned a lot and walked away inspired. I strongly recommend taking courses with Dr. Tung!
+
+--- Rating #6 ---
+Class: BUS431
+Date: 2011-03-14 20:02:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She is very knowledge and very nice to students. Her way of interpreting things is very understandable to students. The midterm questions are quiet easy and no textbook required. Besides, She gives high grades for the presentation and report:) it's my pleasure to take her course. Overall, she is one of the best professor I ever met in SFU!
+
+--- Rating #7 ---
+Class: BUS431
+Date: 2011-01-31 13:13:46 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+She is definitely knowledgeable in Int'l Bus, but she speaks to her students in a very condescending way. If you ask questions she looks at you as if you are stupid. Most of time she mumbles in monotone and you can't understand anything she is saying. She also likes to stand in front of her slides so you can't see what is on the projector.
+
+--- Rating #8 ---
+Class: BUS883
+Date: 2007-11-12 16:15:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+If you enjoy arbitrary marks - this is the class for you!! No need to go to class, all the material is right out of the textbook. But sucking-up will get you far.
+
+--- Rating #9 ---
+Class: BUS666
+Date: 2007-02-01 02:44:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Talk about thinking you're great.
+
+--- Rating #10 ---
+Class: BUS883
+Date: 2005-01-12 12:58:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Not a terrific teacher, however her very deep knowledge of the international business community more than makes up for it.
+
+--- Rating #11 ---
+Class: BUS882BUS883
+Date: 2004-12-31 09:51:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Simply the best and most knowledgeable professor of International Business in the world. Worth going to SFU just to attend her classes.

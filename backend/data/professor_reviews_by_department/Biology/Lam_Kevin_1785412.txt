@@ -1,0 +1,271 @@
+Professor: Kevin Lam
+Professor Legacy ID: 1785412
+Professor ID: VGVhY2hlci0xNzg1NDEy
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 4.7
+Avg Difficulty: 3.3
+Num Ratings: 156
+Would Take Again Percent: 93.3333
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BIO202
+Date: 2025-09-12 23:13:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Kevin was the best prof I ever had at sfu. He is so organized and outlines exactly what you need to know. He is truly a great teacher, i've never understood material so well. His exams are harder but he sets you up well for them giving TONS of his old exams so you know what to expect.
+
+--- Rating #2 ---
+Class: BIO102
+Date: 2025-03-27 23:16:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Nice guy would recommend him for biology class
+
+--- Rating #3 ---
+Class: BIO102
+Date: 2024-12-16 07:11:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof just go to all his labs and do all activities for lab exam.
+
+--- Rating #4 ---
+Class: BISC102
+Date: 2024-11-22 05:03:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I had him for my lab prof and he was so nice, caring and understanding I genuinely had such a great time that I looked forward to his classes. My friend had him as a lecture prof and said similar things about him. Very kind and understanding.
+
+--- Rating #5 ---
+Class: BISC202
+Date: 2024-11-06 15:49:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Professor Lam is incredibly helpful and dedicated to student success. His lectures are well-structured, and the practice materials are invaluable. For exam prep, I found ChatGPT and unstuck study to be super useful alongside the provided resources.
+
+--- Rating #6 ---
+Class: BISC202
+Date: 2024-10-22 01:08:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Kevin is the Goat.
+
+--- Rating #7 ---
+Class: BIO202
+Date: 2024-07-13 02:43:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is an amazing professor and really cares about his students. He provides soooo much practice material, and the secret to doing well is to use most of it. Exams will include 1 or 2 questions that you haven't seen before so be prepared to study concepts on a deeper level to answer those questions too. In class questions are very helpful too.
+
+--- Rating #8 ---
+Class: BIO202
+Date: 2024-06-14 05:14:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Although I got a horrible grade in the course, I still respected Kevin's teaching as he's there to TEACH and maximize our learning. He uses research-based teaching and incorporates SEL into our lectures. Made us feel welcomed into the class and was super approachable. Study hard using his materials!
+
+--- Rating #9 ---
+Class: BIO202
+Date: 2024-05-16 05:48:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+idk what to say other than hes great. Makes it so you dont have to buy iclicker. Provided a lot of resources for the midterm but not as much for the final.
+
+--- Rating #10 ---
+Class: BISC202
+Date: 2024-05-10 06:07:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Lam is the best prof hands down. He explains concepts from the student's perspective, making them easy to grasp, from the pre-lecture videos to office hour notes, his effort in teaching is really amazing. It was surprising to see a professor that genuinely cares about their students and their success. I rlly recommend taking a course with him!
+
+--- Rating #11 ---
+Class: BISC202
+Date: 2024-05-09 00:50:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great professor, super nice and attentive with all of his students. Highly recommend. Beware of his exams though! They're not that difficult if you study with all the exam mocks and exercises he provides, so use them all!
+
+--- Rating #12 ---
+Class: BISC202
+Date: 2024-05-02 00:50:15 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Kevin Lam is an amazing prof and teaches very well and covers all of the lectures very nicely with a lot of practice questions and quizzes, however, the exams were horrible. His exams were very diffiicult and were much more broad than what the lectures covered. So make sure you do as much as practice possible to do great on the exam.
+
+--- Rating #13 ---
+Class: BISC202
+Date: 2024-04-20 19:26:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Highly recommend taking classes with Kevin. Always there to help!!
+
+--- Rating #14 ---
+Class: BISC101
+Date: 2024-04-18 06:40:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Super approachable and explains things very clearly. Provides a lot of material to practice and encourages asking questions. He has engaging lectures and prepares you to succeed and learn optimally.
+
+--- Rating #15 ---
+Class: BISC202
+Date: 2024-04-17 02:17:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+goat
+
+--- Rating #16 ---
+Class: BISC101
+Date: 2024-04-14 19:53:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very good prof. Cares and gives great advice on navigating life as a student.
+
+--- Rating #17 ---
+Class: BIO102
+Date: 2024-01-03 05:34:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof! If you want to take a biology course take it with Dr. Lam
+
+--- Rating #18 ---
+Class: BIO101
+Date: 2023-12-16 02:07:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Incredible professor. One of the best professors to have during first year. Always open to talking with students and cared deeply about their wellbeing and success.
+
+--- Rating #19 ---
+Class: BIO102
+Date: 2023-12-15 02:35:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Had Kevin as a lab prof for Bisc 102. The labs were really fun with Kevin, and if we got tired as he was explaining, he would ask the class if we needed a break which was really sweet. He also was very understanding and engaged with all of us! Labs were easy, and the lab final was easy because of him. Would 1000% recommend!
+
+--- Rating #20 ---
+Class: BISC101
+Date: 2023-12-12 18:01:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Amazing. He's the best biology professor!!

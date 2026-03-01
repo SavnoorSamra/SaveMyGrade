@@ -1,0 +1,76 @@
+Professor: Steven Hill
+Professor Legacy ID: 972015
+Professor ID: VGVhY2hlci05NzIwMTU=
+Department (CSV): Theater
+Department (Fetched): Theater
+Avg Rating: 3.4
+Avg Difficulty: 3.6
+Num Ratings: 5
+Would Take Again Percent: 50
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: FPA250
+Date: 2024-11-05 16:04:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prof Hill isn't understanding, kind, or professional. Would recommend you take another class for your own benefit.
+
+--- Rating #2 ---
+Class: CA252
+Date: 2020-12-07 10:30:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Steven works in the tangibles and intangibles of the class. It's almost like an immersive experience. Good luck, and don't worry if you crack, it comes back around.
+
+--- Rating #3 ---
+Class: FPA250
+Date: 2010-11-13 16:59:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Wonderful teacher - obviously a very smart guy and he knows what he is doing. He is a bit intimidating and expects a lot but if you want to learn and are willing to let yourself be open and work hard you will get a lot from the class.
+
+--- Rating #4 ---
+Class: FPA350
+Date: 2009-01-12 13:52:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #5 ---
+Class: FPA151
+Date: 2007-04-02 19:06:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+One of the best classes I've ever taken. I grew and learned so much...There's no doubt he loves what he does.

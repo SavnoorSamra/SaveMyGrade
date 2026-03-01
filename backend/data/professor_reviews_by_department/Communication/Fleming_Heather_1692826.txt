@@ -1,0 +1,24 @@
+Professor: Heather Fleming
+Professor Legacy ID: 1692826
+Professor ID: VGVhY2hlci0xNjkyODI2
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 1
+Avg Difficulty: 5
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: CMNS304W
+Date: 2012-02-08 23:28:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+She's a TA for cmns 304 and was terrible at providing any helpful feedback to improve in the course. She doesn't explain things very well. Expects students to do all the work in the class. Would not recommend. Difficult marker and provides no justification :(

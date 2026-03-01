@@ -1,0 +1,11 @@
+Professor: Jaspal Singh
+Professor Legacy ID: 3105934
+Professor ID: VGVhY2hlci0zMTA1OTM0
+Department (CSV): Accounting
+Department (Fetched): Accounting
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

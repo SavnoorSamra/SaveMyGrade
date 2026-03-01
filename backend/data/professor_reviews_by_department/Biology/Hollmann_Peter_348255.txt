@@ -1,0 +1,271 @@
+Professor: Peter Hollmann
+Professor Legacy ID: 348255
+Professor ID: VGVhY2hlci0zNDgyNTU=
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 4.5
+Avg Difficulty: 3
+Num Ratings: 23
+Would Take Again Percent: 70
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BISC357
+Date: 2025-05-19 06:28:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I took 357 with peter after i had him for 303's lab. He's really nice when approached and knowledgeable. Won't ruin your gpa
+
+--- Rating #2 ---
+Class: BISC303
+Date: 2024-12-20 06:06:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Peter is great, not sure how he maintained his composure during some labs where everyone continued to ask him the same questions, but he somehow did it. This lab is a TON of work, it is twice a week with many labs that require you to come in the following lab. That being said, it is a fun lab with a lot of opportunity for learning.
+
+--- Rating #3 ---
+Class: LAB
+Date: 2024-04-18 06:57:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He seemed unprepared every lab. I felt like a lot of time was wasted by the extra time it took for him to explain things as he often stuttered or had to pause to thinking about the concept more as if he did not know what he was going to say before each class. That being said he was kind and answered questions well.
+
+--- Rating #4 ---
+Class: BISC357
+Date: 2024-01-06 10:59:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Peter has issues with teaching. One time he went on a 10 minute rant because half the class failed the midterm. His midterm was all mcq since strike occurred. His lectures were bland and boring, making it hard to understand because it had lots of pictures and very little writing. If you really want to learn, take it with someone else.
+
+--- Rating #5 ---
+Class: BISC357
+Date: 2023-11-05 04:34:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is not the best professor because of the ways he teaches. However, he is passionate about biology and very caring whenever you talk to him.
+
+--- Rating #6 ---
+Class: BISC357
+Date: 2022-10-29 07:41:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very friendly and knowledgeable professor. The course itself is not necessarily hard, but info heavy. His testing is fair if you put the time to study. He is very helpful and approachable. Recommend his course.
+
+--- Rating #7 ---
+Class: BISC303
+Date: 2018-12-10 23:45:01 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He's a well respected professor, but personally I was not a fan of his teaching style. The lectures provided bare bones information, you will have to read textbook for specifics that will be examined. Exams were on the harder side, but still fair. Lots of online reading and quizzes, and 30+ lab reports to do in the class.
+
+--- Rating #8 ---
+Class: BISC303
+Date: 2018-11-09 22:53:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Peter is super friendly and very approachable. He teaches the material well and will always answer all your questions. The course isn't necessarily hard but requires a lot of time. Informal lab reports, online quizzes, following up on labs outside of class, doing the unknown project. It's a lot of work so be prepared. Otherwise, recommended!
+
+--- Rating #9 ---
+Class: BISC303
+Date: 2016-12-15 23:43:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+never pass up this legend
+
+--- Rating #10 ---
+Class: BISC303
+Date: 2016-08-30 00:21:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+AMAZING!!! Favorite instructor at SFU after 3 years! Goes the extra mile, so HELPFUL and approcable: I asked the same dumb question every lab period and he was nothing but nice every time I asked him! Exams are fair and easy, has "in lecture" quizzes designed to boost ur mark, and is so transparent with marking. FAVORITE course at SFU.
+
+--- Rating #11 ---
+Class: BISC303
+Date: 2014-08-02 19:46:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Peter is very helpful. The guy is cool beans
+
+--- Rating #12 ---
+Class: BISC303
+Date: 2013-12-12 14:41:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He is just awesome
+
+--- Rating #13 ---
+Class: BISC303
+Date: 2011-08-22 21:22:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+he is a good prof for lab, but not a good prof for teaching lectures. a lot of typos in his lectures, and he did not fix them after class. His final exam was mostly memorization, and cumulative. I suggest you do not take this course with him if he is the primary prof. he is very good person, but not a perfect prof( he needs more experience)
+
+--- Rating #14 ---
+Class: BISC303
+Date: 2010-12-03 20:54:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Awesome prof and very nice guy!!! Really fun and interesting lab. I had a great time and was one of the best labs I've been in. Compared to mbb labs this was a breeze. The lab final was kinda hard though simply becuz it was surprising to find out theres actually alot of material learned! Be prepared to do a load of lab writeups
+
+--- Rating #15 ---
+Class: BISC357
+Date: 2009-02-11 21:12:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+friendly guy, very upbeat
+
+--- Rating #16 ---
+Class: BISC303
+Date: 2008-07-28 13:29:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+He is SOOOOO NICE !!!! very easy prof. He let some students take the final exam early cuz they might have vacation plans!!! the course is easy but a lot of informal reports to write. ONly one formal report. Very easy to do if u've taken any mbb lab courses. A lot of dilution calculations but very easy!!! It was a FUN course and lab lab was easy
+
+--- Rating #17 ---
+Class: BISC357
+Date: 2008-04-23 17:34:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great lab instructor. Very helpful and very understanding. Really patient and willing to explain things to you. Ridiculously easy quizzes and easy marker. Keep up with you lab notebook is teh only advice I have.
+
+--- Rating #18 ---
+Class: BISC303
+Date: 2007-08-17 16:24:12 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great prof! sometimes, his lectures are pretty interesting. I enjoyed taking this course with him.
+
+--- Rating #19 ---
+Class: BISC303
+Date: 2007-07-03 14:28:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+EXCELLENT
+
+--- Rating #20 ---
+Class: BISC473L
+Date: 2007-04-08 21:16:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I liked his attitude towards the students. He's very approachable and helpful. Some of the labs require you to wait from half an hour to a couple of hours, which I found the most annoying. But hey, I used the time to eat lunch at least.

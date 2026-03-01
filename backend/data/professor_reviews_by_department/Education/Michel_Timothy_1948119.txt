@@ -1,0 +1,63 @@
+Professor: Timothy  Michel
+Professor Legacy ID: 1948119
+Professor ID: VGVhY2hlci0xOTQ4MTE5
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 3.8
+Avg Difficulty: 2
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: EDUC100W
+Date: 2015-04-26 22:03:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He very helpful, offers office hours, have in class discussions.  You won't feel boring during the 2-hour lecture.  He has clear grading criteria, and he gives feedback on your writing.  Only 500 words portfolio, no long essay! Attendance matters, need to sign the attendance sheets.
+
+--- Rating #2 ---
+Class: EDUC100
+Date: 2015-04-20 04:24:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+He is very boring. Not that interested in his students. Consistently late, his phone even rang during a group presentation. Really easy class. Very easy to get an A+ if you are a good writer and need a slightly less challenging course.
+
+--- Rating #3 ---
+Class: EDU100
+Date: 2015-04-19 01:46:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+This was the easiest class I have ever taken in my life! Tim was a fantastic guy who has a pure passion for education; the lectures can be dry, but I'd rather sit in on a class in which I understood what was going on, then be dumbfounded the entire time. A huge online component, but the largest essay we had to write was only 700 words. AWESOME !
+
+--- Rating #4 ---
+Class: EDUCATION100W
+Date: 2015-02-16 18:28:12 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Relies on group discussions too much to fuel class time.  While it is a designated W class, he doesn't help you develop your writing,  bc of how the class is structured, nor are the essay topics asking you actual questions. He is also a really dry lecturer & pauses a bit too much. Wouldn't take a class with him again unless I had to.

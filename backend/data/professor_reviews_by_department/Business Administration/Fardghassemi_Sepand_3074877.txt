@@ -1,0 +1,63 @@
+Professor: Sepand Fardghassemi
+Professor Legacy ID: 3074877
+Professor ID: VGVhY2hlci0zMDc0ODc3
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.8
+Avg Difficulty: 3.3
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: BUS240
+Date: 2025-04-25 00:03:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prof. Sep is an outstanding Beedie professor who makes complex concepts easy to understand and truly cares about his students.
+
+--- Rating #2 ---
+Class: BUS240
+Date: 2025-04-17 23:45:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great prof who cares about the material that he teaches. Just make sure that you do the assignments according to the rubric that he gives and youll be destroying the curve!
+
+--- Rating #3 ---
+Class: BUS240
+Date: 2025-04-07 10:03:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sep is an awesome professor. You can tell he really cares about his students and checks in on them. He is always open to questions and tries to make the course as engaging as possible. I would definitely take another course with him.
+
+--- Rating #4 ---
+Class: BUS240
+Date: 2025-02-11 03:16:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is an excellent instructor so far, and despite being a new faculty member, he is doing exceptionally well compared to others I have heard about.

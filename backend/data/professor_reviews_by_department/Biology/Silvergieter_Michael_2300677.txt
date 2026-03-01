@@ -1,0 +1,141 @@
+Professor: Michael Silvergieter
+Professor Legacy ID: 2300677
+Professor ID: VGVhY2hlci0yMzAwNjc3
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 3.3
+Avg Difficulty: 3.1
+Num Ratings: 10
+Would Take Again Percent: 60
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: BIO1210
+Date: 2019-03-22 23:55:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Bad lectures.
+
+--- Rating #2 ---
+Class: BIO1210
+Date: 2019-03-22 23:53:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very hard exams.
+
+--- Rating #3 ---
+Class: BIO1210
+Date: 2019-03-22 23:51:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Most awful professor of biology.
+
+--- Rating #4 ---
+Class: BIO1210
+Date: 2019-03-22 21:16:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Knowledgable.
+
+--- Rating #5 ---
+Class: BIO1203
+Date: 2019-03-22 21:14:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Gives good feedback.
+
+--- Rating #6 ---
+Class: BIO1210
+Date: 2019-03-22 21:12:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Good professor.
+
+--- Rating #7 ---
+Class: BIOL1210
+Date: 2019-03-22 20:56:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Really caring
+
+--- Rating #8 ---
+Class: COS126
+Date: 2019-03-22 20:54:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Easy homework and tests
+
+--- Rating #9 ---
+Class: BISC100
+Date: 2018-08-08 01:44:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is a good prof but be ready to watch all his Youtube videos and you also have to do weekly homework. Though he will help you a lot a rectify all your mistakes and will clearify all the doubts!!!!
+
+--- Rating #10 ---
+Class: BISC100
+Date: 2017-11-14 18:08:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Teach you all the easy things then give really difficult question... eventhough he lets you bring 2 pages A4 cheat sheet... Not things in the cheat sheet will be use &#55357;&#56865;

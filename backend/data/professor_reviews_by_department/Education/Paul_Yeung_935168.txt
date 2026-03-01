@@ -1,0 +1,219 @@
+Professor: Yeung Paul
+Professor Legacy ID: 935168
+Professor ID: VGVhY2hlci05MzUxNjg=
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 2.1
+Avg Difficulty: 3.9
+Num Ratings: 16
+Would Take Again Percent: 21.4286
+
+Ratings Count Returned: 16
+
+--- Rating #1 ---
+Class: EDUC328
+Date: 2025-12-24 19:15:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I liked the course structure; many lecture slides corresponded to the reading headings. Paul also brought learned theories back to illustrate the weekly content, showing how various theories were applied. The final exam was fair; it covered material from the readings and what he taught in class. Overall, Paul made me feel prepared and confident.
+
+--- Rating #2 ---
+Class: EDUC328
+Date: 2025-12-16 04:14:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I highly recommend avoiding Dr. Yeung's class. He is passionate about his work, but his lectures are extremely content-heavy while being unpalatable and difficult to understand. The final exam had several questions that were unrelated to the emphasized content. He also made strange personal comments towards me that I found quite unprofessional.
+
+--- Rating #3 ---
+Class: EDUC328
+Date: 2025-12-08 02:16:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Prepare to learn all the course material yourself. His lectures are disorganized and he tends to ramble on for three hours. His rubric's don't align with his grading, and will dock marks for things he never mentioned. Good luck on the final exam, he's testing you on concepts he neglected to teach (and your hand will cramp up from all the writing).
+
+--- Rating #4 ---
+Class: EDUC328
+Date: 2025-12-05 22:44:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+im six hours away from taking this exam and its messed up. Paul as a person is very kind and loving BUT this exam is going to go so bad! his lecture slides are very un clear and there is just to much content to get through. if you are planning of taking it as a elective DONT TAKE IT. the essays weren't that bad tho.
+
+--- Rating #5 ---
+Class: EDUC328
+Date: 2022-12-02 04:36:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Everything about the class is so unclear.  I felt like I learned nothing about career counselling the whole semester.  Im confused in the lectures all the time and have no idea what to do for the assignments.  There is a final exam too which im probably going to fail.  SAVE YOURSELF DONT TAKE!!!
+
+--- Rating #6 ---
+Class: EDUC324
+Date: 2022-03-26 03:46:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Paul’s a very nice prof but structures his class to very confusing and difficult to succeed in, though it isnt his intent. The syllabus, lecture slides, assignments have so many pages yet still not clear of what he expects. The final is a few weeks away and he isnt even sure what it’ll be like so we cant even prepare adequately for it.
+
+--- Rating #7 ---
+Class: EDUC324
+Date: 2022-03-17 06:59:51 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Paul is an incredibly tough grader and his grading criteria are really vague. The syllabus is extremely long and extremely confusing, maybe because there are SO MANY (time consuming) assignments in this course. AVOID
+
+--- Rating #8 ---
+Class: EDUC323
+Date: 2021-12-26 06:43:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Paul is such a tough marker! I found his lectures to be dry and it was hard to retain the information. His weekly quizzes were horrendous, I'm an avid note-taker/textbook reader and I found myself getting 4/10 - 7/10 on each quiz no matter how much I studied. Even the way you have to name the file of your assignments was an unnecessary hassle!
+
+--- Rating #9 ---
+Class: EDUC323
+Date: 2021-04-03 18:47:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Paul is a really nice person. But this course had a syllabus that was more than 30 pages, and even with all that the assignments were still unclear. It's hard to know what you're being graded on, and assignments are constantly being added or changed. It felt chaotic and disorganized. Avoid if you can.
+
+--- Rating #10 ---
+Class: EDUC324
+Date: 2021-03-07 18:11:29 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Paul cares about his students and that's pretty motivating. Although his grading criteria is extremely unclear/vague, but he's looking for something soo specific. Overall, he's disorganized so you'll have to figure out pretty much everything yourself. He's a good guy though, just not a great prof.
+
+--- Rating #11 ---
+Class: EDUC324
+Date: 2021-01-27 03:38:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This is the worst course I've ever taken at SFU. He gives a million in-depth assignments with little to no specified criteria &amp; his lectures are confusing &amp; dry. He doesn't stick to his syllabus and assignments pop up randomly you have to keep checking canvas. His quizzes are poorly worded &amp; he shuts you down if you ask questions during lecture.
+
+--- Rating #12 ---
+Class: EDUC324
+Date: 2019-08-14 02:43:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I thought Paul was very nice and caring. You can tell that he cares about all of his students, even the ones who don't talk in class. Sometimes we would share our discussions and he gave us really good feedback. He's the type to encourage and the type to believe that there's no right/wrong answer.
+
+--- Rating #13 ---
+Class: EDUC324
+Date: 2019-08-14 02:33:43 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He's a very nice prof, but his slides are super dry. He gave us, what felt like, a million assignments. He emphasizes the importance of learning rather than the grades. But with that many assignments, you can't help but focus more on the grades lmao. There was like 3 small assignments, 2 big ones, 1 presentation, and 1 cumulative final exam.
+
+--- Rating #14 ---
+Class: EDUC324
+Date: 2019-08-02 18:27:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is a different kind of professor who really appreciates people that participate during lectures. First few weeks of lectures (when there were no student presentations) felt rushed and lacked visual aids which made it dry. Lectures were always 3 hours and VERY structured. He tries to lighten the mood though. Marking overall is fair.
+
+--- Rating #15 ---
+Class: EDUC422
+Date: 2009-08-13 05:34:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Paul is my current TM for Educ 422 and he is the most amazing TM I have ever had!! He ALWAYS gives encouraging feedback on assignments and is is very prompt in marking. He responds to emails within the day. He even attaches little images to his marking when he returns them electonically. SUPER nice guy:-)
+
+--- Rating #16 ---
+Class: EDUC101
+Date: 2008-06-14 17:12:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Young pretentious self-important guy. Claimed to be techno-crack but more like wanne-be. Picky in minor stuff and lack imgination. Though he is new and young, his thinking is so &quot;yester-years&quot;. Avoid him if you want real education.

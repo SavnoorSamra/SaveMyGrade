@@ -1,0 +1,63 @@
+Professor: Dawn North
+Professor Legacy ID: 2204659
+Professor ID: VGVhY2hlci0yMjA0NjU5
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 3.7
+Avg Difficulty: 3
+Num Ratings: 4
+Would Take Again Percent: 50
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: CRIM180
+Date: 2017-02-08 22:51:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+i major asian studies, hard to understand english but very very gud professor
+
+--- Rating #2 ---
+Class: CRIM131
+Date: 2016-12-22 13:49:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very knowledgeable about the content, seems to enjoy teaching the material. The only problem was she would sometimes go slow and go into detail on certain slides then go fast and students wouldn't have time to write what the slide had up. She doesn't send out slides so if you are a slow writer you may sometimes be affected by this.
+
+--- Rating #3 ---
+Class: CRIM131
+Date: 2016-12-07 16:06:29 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She  says "um" and "uhh" a lot and phrases sentences weird ways; stumbles over her words which makes it soo hard to follow her lectures and makes you feel like you need the whole textbook to understand the topics.  However, she's knowledgeable and knows the topics.
+
+--- Rating #4 ---
+Class: CRIM131
+Date: 2016-12-06 19:28:32 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Average prof. Very fair tests. She does not provide lecture notes because she wants you to learn by writing things down. She had three guest speakers which used up 3 lectures. One of the TA's taught two of the lectures. Lectures by her can be painful to listen to because she does not speak fluidly and it becomes obvious once you notice.

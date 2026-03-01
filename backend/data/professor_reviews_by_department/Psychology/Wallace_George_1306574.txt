@@ -1,0 +1,50 @@
+Professor: George Wallace
+Professor Legacy ID: 1306574
+Professor ID: VGVhY2hlci0xMzA2NTc0
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 3.7
+Avg Difficulty: 3
+Num Ratings: 3
+Would Take Again Percent: -1
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: PSYC200
+Date: 2012-02-10 04:20:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Not the best instructor I've ever had but he's young, fun and very inspiring.He's also very helpful and as clear as possible when explaining. and yeah, want some good jokes and sarcasms&#63; he's the one to go to
+
+--- Rating #2 ---
+Class: PSYC120
+Date: 2011-09-25 01:13:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He'super fun and helpful.Although he qualifies the way he teaches as old-school/professional lecturing, he makes it so much more interesting.It feels like he's 100% on whenever he's teaching.you will always feel so excited listening to his lectures...I was talking to my friends and we were wondering what cartoon character he resembles:).just fun
+
+--- Rating #3 ---
+Class: PSYC300
+Date: 2009-12-14 21:20:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+George is pretty funny, if you like sarcasm, he's also very useful to go to and his help in class is great he's very clear and organized.

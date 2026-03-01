@@ -1,0 +1,271 @@
+Professor: Firuz Demir
+Professor Legacy ID: 1811226
+Professor ID: VGVhY2hlci0xODExMjI2
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 2.7
+Avg Difficulty: 3.4
+Num Ratings: 28
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PHYS100
+Date: 2016-07-21 02:25:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+i dont know why everyone is complaining. i have him this semester and he is extremely helpful. the midterms are so similar to the practice tests + HE GENUINELY CARES!!
+
+--- Rating #2 ---
+Class: PHY100
+Date: 2016-01-05 20:15:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+He cancelled a lot of classes and it was hard to follow his lectures.  His accent was also very strong,
+
+--- Rating #3 ---
+Class: PHYS100
+Date: 2015-12-22 05:16:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Good teacher
+
+--- Rating #4 ---
+Class: PYS100
+Date: 2015-07-22 16:01:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+he is a nice prof and i am enjoying to take this course
+
+--- Rating #5 ---
+Class: PHYS100
+Date: 2015-03-25 03:02:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Not as bad as what I thought. He did get confused in the middle of a question every now and then but it wasn't too difficult to get back on the right track. And even if you were still confused he probably has unlimited office hours so you can always pop by and ask him!
+
+--- Rating #6 ---
+Class: PHYS100
+Date: 2015-03-06 23:01:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very good prof!
+
+--- Rating #7 ---
+Class: PHYS100
+Date: 2015-01-08 21:30:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+He's not the clearest when it comes to teaching and once or twice you might get lost in what he is saying. However, he genuinely  cares for  the students and wants them to do well. He gave quite a few bonus mark questions here and there and was surprisingly generous assigning final grades.
+
+--- Rating #8 ---
+Class: PHYS100
+Date: 2015-01-08 01:37:46 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Very friendly prof but has difficulty teaching the class. He babies the class through lecture and then hits you with a bomb when you take the tests. For a grade 12 equivalent course it is very tough.
+
+--- Rating #9 ---
+Class: PHYS100
+Date: 2014-12-18 00:34:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+100 iClicker questions in one semester (some points are for attendance though). He tries to be funny which I find amusing. His accent is interesting but understand-able if you try. He also has 2 grading schemes and uses whichever one gives you a better grade.
+
+--- Rating #10 ---
+Class: PHYS100
+Date: 2014-12-16 21:58:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+He's always available to help, even outside of office hours. He also tries to crack jokes from time to time. Personally, i didn't find his accent that bad as I always understood what he was trying to say. I overall enjoyed the class. He was one of the better profs i had that semester. He scales as well, depending on the marks.
+
+--- Rating #11 ---
+Class: PHYS100
+Date: 2014-12-09 18:40:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+He is always available and ready to help. Probably one of the nicest profs I've had, but his lectures are not entirely related to the material on the tests and the tests are HARD.
+
+--- Rating #12 ---
+Class: PHYS100
+Date: 2014-12-09 15:11:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Nice guy but cannot teach to save his life. Tests are insanely long and pretty difficult.
+
+--- Rating #13 ---
+Class: PHYS100
+Date: 2014-12-04 17:03:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's a nice prof and all... but very hard to understand. Lectures seem to be disorganized, his notes are hard to follow and understand. Material on assignments are completely different from the material on the tests. If you don't need this course... don't take it.
+
+--- Rating #14 ---
+Class: PHYS100
+Date: 2014-11-21 03:03:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Here's an analogy: He teaches you how to add 2 and 6 together. Then he gives you assignments and expects you to integrate the equation. Assignments and exams are extremely hard. His notes often touch on the basics of the subject, and you're expected to apply it with other theorems and laws. Very confusing and would not take a class with him again
+
+--- Rating #15 ---
+Class: 100
+Date: 2014-11-20 19:44:32 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+really nice guy, always there to help. But gives really hard material.
+
+--- Rating #16 ---
+Class: 100
+Date: 2014-11-17 16:41:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+He's actually so bad; his teaching is muddled, and confusing. Half the time it feels like he doesn't know what he's doing. His tests are extremely hard, and if the class average is 40%, maybe you should scale the exam?! I'm just trying to get through this, but physics is sort of destroyed for me.
+
+--- Rating #17 ---
+Class: PHYS100
+Date: 2014-11-11 19:22:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I  would not recommend taking this class if you do not have a basic understanding of physics. It is supposed to be an intro course that those who have never taken physics can take but it is extremely difficult. He is unclear and his tests have way too many q's for 50 mins. However, he is accomodating and tries to help if you go to his office hours.
+
+--- Rating #18 ---
+Class: PHYS100
+Date: 2014-10-06 12:51:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Unclear. Means well. But very unclear. If the content of the course was challenging, everyone would drown.
+
+--- Rating #19 ---
+Class: PHY100
+Date: 2014-08-08 16:30:05 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+His English is quite bad, it's kinda hard to understand what he says. But i would say he is a good prof, he is always in his office, he has lots of office hour. But overall, this course is quite hard,this is supposed to be an introductory course, but the class average is around 50%. i don't think that's reasonable though, and it's not B-sci WTH
+
+--- Rating #20 ---
+Class: PHYS100
+Date: 2014-06-17 19:29:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Extremely confusing. Tries to help but ends up making it more confusing - focus on the textbook. Way too many questions for a 50 minute midterm, knowing that students have been doing physics for a total of 4 WEEKS!! tells you to plainly accept the methods instead of teaching why. avoid at all costs, physics for me is kind of ruined

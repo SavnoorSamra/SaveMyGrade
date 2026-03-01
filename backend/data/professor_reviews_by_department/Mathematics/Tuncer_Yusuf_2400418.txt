@@ -1,0 +1,76 @@
+Professor: Yusuf Tuncer
+Professor Legacy ID: 2400418
+Professor ID: VGVhY2hlci0yNDAwNDE4
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2.2
+Avg Difficulty: 3
+Num Ratings: 5
+Would Take Again Percent: 20
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: MATH154
+Date: 2019-03-04 04:25:36 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I would not take a class with him again.
+
+--- Rating #2 ---
+Class: MATH154
+Date: 2019-03-01 06:33:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+super nice and his exams were fairly simple and basic.
+
+--- Rating #3 ---
+Class: MATH154
+Date: 2018-12-02 21:04:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+As Murphy's law states; if things are bad right now, they can always go worse. Taking math with this guy would drop my GPA so I withdrew from his class. And you should, too.
+
+--- Rating #4 ---
+Class: MATH154
+Date: 2018-11-21 20:28:07 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Goes over contents at a very fast pace. He speaks in a heavy accent as if understanding calculus was not hard enough. He really is mediocre at best. I do not recommend him as your first calc class prof.
+
+--- Rating #5 ---
+Class: MATH154
+Date: 2018-11-20 01:13:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Speaks in a very heavy accent that makes things much more difficult. Generally hard to read what he's writing because a) he has bad printing and b) he never darkens the room when using the projector. If you are sensitive to high pitched voices I do not recommend taking this class with tuncer.

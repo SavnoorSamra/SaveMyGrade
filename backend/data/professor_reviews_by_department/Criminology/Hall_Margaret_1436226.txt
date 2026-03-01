@@ -1,0 +1,50 @@
+Professor: Margaret Hall
+Professor Legacy ID: 1436226
+Professor ID: VGVhY2hlci0xNDM2MjI2
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 2
+Avg Difficulty: 4
+Num Ratings: 3
+Would Take Again Percent: -1
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: CRIM338
+Date: 2010-12-31 05:35:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Margaret is a nice person, however the course itself is just brutal! Her exams were quite hard and she expected a lot even though the material was very difficult to understand. This course is not about memorizing, you need to apply your knowledge and really understand the concepts and theories. mt and final are open book, m/c and essay.
+
+--- Rating #2 ---
+Class: CRIM135
+Date: 2010-09-27 04:31:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Biggest waste of everyone's time, money and energy! Regretted taking the course! It was at 8:30, it was boring and i felt like leaving every class. Avoid her, if she is still teaching.
+
+--- Rating #3 ---
+Class: CRIM135
+Date: 2010-07-23 19:16:52 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Her MT was super easy....15 questions, 10 of them were M/C. Her Final was Open Book...i expected it to be just as easy..YA right.. it was waaay harder..holy eff it screwed me. She's really nice.

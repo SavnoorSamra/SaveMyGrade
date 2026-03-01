@@ -1,0 +1,37 @@
+Professor: Moses Zitron
+Professor Legacy ID: 826536
+Professor ID: VGVhY2hlci04MjY1MzY=
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4
+Avg Difficulty: 2
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS312
+Date: 2017-03-14 22:06:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Probably my favourite in SFU
+
+--- Rating #2 ---
+Class: BUSD100
+Date: 2011-07-13 18:22:00 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+&#63;

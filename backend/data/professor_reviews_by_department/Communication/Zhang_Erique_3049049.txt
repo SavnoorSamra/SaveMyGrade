@@ -1,0 +1,37 @@
+Professor: Erique Zhang
+Professor Legacy ID: 3049049
+Professor ID: VGVhY2hlci0zMDQ5MDQ5
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 5
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: CMNS316
+Date: 2026-01-27 05:33:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prof. Zhang is amazing! They're one of the only profs at SFU where i actually look forward to lecture and enjoy doing the assignments/readings. She really wants her students to succeed and is super accommodating if you need extra help or guidance. Great prof all around.
+
+--- Rating #2 ---
+Class: CMNS215
+Date: 2025-11-06 09:29:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Erique is by far my favourite prof at SFU. I've taken a couple courses with them and never been disappointed. They are so kind and make the topics actually interesting and applicable to modern day media and culture. Overall an amazing professor.

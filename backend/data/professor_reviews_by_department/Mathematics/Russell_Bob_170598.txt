@@ -1,0 +1,271 @@
+Professor: Bob Russell
+Professor Legacy ID: 170598
+Professor ID: VGVhY2hlci0xNzA1OTg=
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2.6
+Avg Difficulty: 3.6
+Num Ratings: 33
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MACM316
+Date: 2025-01-29 03:53:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I thought Bob was awesome and he probably had a greater impact on me than any other professor in eight years of University (160 credits earned in five years at SFU).  I see negative comments.  The thing about numerical analysis is that it builds on calculus and algebra but it really is a different mindset from other math classes.
+
+--- Rating #2 ---
+Class: MATHA
+Date: 2012-08-29 03:55:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+he is very humous
+
+--- Rating #3 ---
+Class: MACM316
+Date: 2012-03-19 23:37:48 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+The course is easy and the exams are fair. He's helpful but his lecture is a little bit boring.
+
+--- Rating #4 ---
+Class: MACM316
+Date: 2012-01-02 14:44:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He's a great guy who simply cannot lecture well. Work hard to understand the concepts in the textbook--there's a lot of material in this class, and he's not afraid to test you on it (not just applying but understanding concepts). His exams are tough, but you get a formula sheet and scaling is generous.
+
+--- Rating #5 ---
+Class: MACM316
+Date: 2011-12-23 00:02:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+He is a good teacher... Its just what he teaches is too complex and intense. can not blame him
+
+--- Rating #6 ---
+Class: MACM316
+Date: 2011-12-16 23:17:08 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+This prof is not that bad as people think. He knows his stuff well, but doesn't know how to teach. The course itself is really hard, His exams are killer as well, but if you study hard and clear your concepts, you can do really well in this course.
+
+--- Rating #7 ---
+Class: MACM316
+Date: 2011-06-12 22:22:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+His notes are no different than the text book.Never actually explain how to do assignment problems with computer(u've to learn to program urself). He sometimes will ask &quot;how many is following me&#63;&quot; and only less than 5-8 students raise hand out of 100 students. His exams are difficult. no cheat sheets,open book and formula on the back of the test.
+
+--- Rating #8 ---
+Class: MACM316
+Date: 2011-04-21 16:58:46 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+HE GIVES THE HARDEST EXAMS!!! DO NOT TAKE HIS CLASS IF YOU WANT TO RECEIVE A HIGH GRADE. ALL HIS LECTURE MATERIALS ARE FROM THE TEXTBOOK SO LEARNING FROM THE TEXT IS SAME THING AS GOING TO HIS CLASS. HORRIBLE CLASS!!!
+
+--- Rating #9 ---
+Class: MACM316
+Date: 2011-04-16 20:45:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+HORRIBLE PROFESSOR! He mumbles all the time and does not explain the concepts properly. The exams are ridiculously difficult. He does not provide the solutions to sample exams and assignments. Hence, there is no way to know what the correct answer is. He mumbles all the time. This is my last sem at SFU and Bob Russel is the worst Prof at SFU!!
+
+--- Rating #10 ---
+Class: MACM316
+Date: 2011-04-05 00:48:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Just don't take this class with him.exams are extremely hard :(
+
+--- Rating #11 ---
+Class: MACM316
+Date: 2010-02-25 23:56:35 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Exams and assignments are extremely hard and long.  Homework takes hours to finish each week, and counts for very little.  He isn't able to explain concepts/ideas to most of the class, since he assumes you already know everything.  However, he is a very nice person and is very approachable.  He wants to ensure you don't fail, and will help if asked
+
+--- Rating #12 ---
+Class: MATH232
+Date: 2009-11-17 19:46:59 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He has lots of mistakes in his notes which are not as useful as the textbook. He is aware that this subject is difficult but is unable to clarify it so students can understand. He does however try to make jokes in class and cares a lot for his students..
+
+--- Rating #13 ---
+Class: MATH232
+Date: 2009-04-07 23:27:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+One prof that is very easy to approach. If u ask him for help, he's gonna give it to u. Not a world class prof, but i cant imagine anyone teaching this course well.  But hes a fun guy who tries hard to teach his students. Tests are fair, homework is messed.. but the average seems to b consistently low(not many kids comes to lectures)
+
+--- Rating #14 ---
+Class: MATH232
+Date: 2009-03-18 14:45:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Hippie..good prof
+
+--- Rating #15 ---
+Class: MATH232
+Date: 2008-06-22 18:07:37 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Not a good prof. Notes were handwritten until he realized no one could read them. Would not recommend but if you get stuck with him make sure to go over material before lecture. He's a pretty nice guy just not very good at teaching. Exams were easier than expected.
+
+--- Rating #16 ---
+Class: MATH154
+Date: 2008-04-07 20:23:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+worst prof ever!!! class averages for both midterms were under 50 percent. The class this semester taking 154 had midterm averages of  74! plus his notes are not legible.
+
+--- Rating #17 ---
+Class: MTH154
+Date: 2008-04-04 21:22:51 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Ok.i had math 154 with him. he isn't the sort of a teacher that would repeat alot,so if u wanna follow him,u better do pre-lecture readings or if u have taken calc in highschool it will help u heck of a lottt.i passed this course with A+ and was the 2nd highest mark in class. my experience tells u: DO THE HOMEWORK+ALWAYS TAKE UR PROBLEMS TO THE LAB
+
+--- Rating #18 ---
+Class: MATH154
+Date: 2008-02-26 21:39:17 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I realize that he knows his stuff and really tries to help us understand everything. Except, not only are his notes extremely long and detailed (not in the helpful way), but his writing (which he uses to write all the notes) are completely incomprehensible. Lectures were a real waste of time.
+
+--- Rating #19 ---
+Class: MATH155
+Date: 2008-02-19 20:59:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+WORST TEACHER EVER! I really dont expect this at a university level, but he really cant teach! his lectures are pointless, he mumbles, notes not legible midterms are hard and he is just such a bad teacher!!!! wow
+
+--- Rating #20 ---
+Class: MATH154
+Date: 2008-01-07 03:04:20 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+midterms and final are fair. lecture is useless. prof knows his stuff but is simply awful at teaching the class. notes are ok but very messy. the course is hard but if u attend the workshops and use the TA's you will be fine.

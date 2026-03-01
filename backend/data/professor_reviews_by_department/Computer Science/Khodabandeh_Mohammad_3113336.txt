@@ -1,0 +1,115 @@
+Professor: Mohammad Khodabandeh
+Professor Legacy ID: 3113336
+Professor ID: VGVhY2hlci0zMTEzMzM2
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.5
+Avg Difficulty: 3.3
+Num Ratings: 8
+Would Take Again Percent: 87.5
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: CMPT210
+Date: 2025-12-06 23:41:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best person to take 210 with!
+
+--- Rating #2 ---
+Class: CMPT210
+Date: 2025-08-29 05:57:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Goated prof!
+
+--- Rating #3 ---
+Class: CMPT210
+Date: 2025-08-25 20:09:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He does his best to explain the course material, even though it's a difficult subject. The midterm was really tough, so you absolutely need to have a strong analytical grasp of the examples in the slides to do well. Luckily the homework was worth a big chunk of our final grade and was marked fairly, which was a huge relief.
+
+--- Rating #4 ---
+Class: CMPT210
+Date: 2025-08-25 19:07:09 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very accommodating professor as everyone else says. Responds to questions on piazza and email quite fast. There were four assignments worth 45% which were quite time consuming and difficult. His midterm had an avg of 43% but it was scaled slightly at the end of the course. Personally, I found his lectures very hard boring and hard to bear.
+
+--- Rating #5 ---
+Class: CMPT210
+Date: 2025-08-20 02:59:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best prof for this hard class. He actually cared about us, listened to our feedback and implemented it. Like recording lectures after we asked, making the final and marking easier after a hard midterm. Curved the end grade to make up for the hard midterm. Tries his best to make the content easier to understand. Answers you on Piazza even at 1:40 am
+
+--- Rating #6 ---
+Class: CMPT210
+Date: 2025-08-19 00:40:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor Mohammad's lectures are detailed. Given his lectures are borrowed from another professor's (whose lecture material is very difficult), Mohammad does a great job breaking down the difficulty of this course by a couple notches! If Mohammad has the time to make his own lectures, no doubt this course will be a lot easier and less stressful
+
+--- Rating #7 ---
+Class: CMPT210
+Date: 2025-08-18 17:25:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Pretty good prof. He was great at explaining the slides he was using despite adopting them from another professor. Very helpful in office hours. The midterm was awful difficulty wise but he revised the difficulty and made the final quite easy in comparison, and ended up curving slightly at the end. The course is hard though, good luck D:
+
+--- Rating #8 ---
+Class: CMPT210
+Date: 2025-08-11 21:43:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The class itself is not easy whtsoever. So dont think tht a good prof = easy class. The class & content is alot of work. But the prof is super nice & caring. Responds to everyone really well. Takes feedback and improves. Is clear throughout his lectures. Consistently asks if anyone has any questions. Out of everyone who teaches 210, he is the best

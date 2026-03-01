@@ -1,0 +1,271 @@
+Professor: Endre Begby
+Professor Legacy ID: 1891527
+Professor ID: VGVhY2hlci0xODkxNTI3
+Department (CSV): Philosophy
+Department (Fetched): Philosophy
+Avg Rating: 4.3
+Avg Difficulty: 2.8
+Num Ratings: 55
+Would Take Again Percent: 80.4348
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PHIL455
+Date: 2026-01-19 05:40:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I strongly advise against taking his class. The lectures are just pointless student discussions with zero real teaching. The material is hard, and he does nothing to help. It's like he doesn't care if we succeed. If I'd known how pointless this class would be, I'd have dropped it immediately
+
+--- Rating #2 ---
+Class: COGS100
+Date: 2026-01-17 07:10:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Doesn't know how to teach. I had to rely on YouTube videos to get me through this class
+
+--- Rating #3 ---
+Class: COGS100
+Date: 2026-01-03 17:16:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Rude and dismissive of students. Lectures were pretty boring
+
+--- Rating #4 ---
+Class: PHIL344
+Date: 2024-12-19 07:08:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Ive had him for a couple classes and I was kinda happy I had him for this one. He is very understanding and actually wants success for his students. Go to class because phil papers are difficult to understand properly. Marking is reasonable. Great with articulating ideas and delivery. Likes to talk and likes people in general.
+
+--- Rating #5 ---
+Class: PHIL344
+Date: 2024-12-15 01:01:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Truly the best professor I've ever had. Prof Begby is a fantastic lecturer, very understanding, and accessible outside of class. He gives great advice during office hours and is always willing to explain things in greater detail when you don't understand! Could not recommend enough.
+
+--- Rating #6 ---
+Class: PHIL344
+Date: 2024-12-08 02:42:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Endre is one of the best profs I've had. While lectures can be bland sometimes, he gives great feedback and is very open during office hours to provide any help for papers. A reasonable marker too. Definitely recommend taking a class with Endre no matter what the subject is.
+
+--- Rating #7 ---
+Class: COGS100
+Date: 2024-04-25 22:23:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Endre is a good prof and connects a lot of the material regarding other courses that he teaches. But his teaching is so dry. Easy course though if you get what he is saying!
+
+--- Rating #8 ---
+Class: COGS100
+Date: 2024-04-23 20:24:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+slides were too long and repetitive but his teaching style is nice. Tries to engage with students. Assignments are easy as long as you have an idea of what he's talking about, use examples from his slides. 5 quizzes with unlimited retakes, but only for once a week. Writing assignments are simple and straightforward and can be done maybe 30 minutes.
+
+--- Rating #9 ---
+Class: COGS100
+Date: 2024-04-16 00:20:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This class was nice and chill, very easy to follow along. I would recommend keeping up with the readings as they help cement the concepts in your mind, but everything you are tested on is in the lectures. 50% of your grade is based on 5 in class quizzes that have retake opportunities, and half of the 20% final was made of recycled quiz questions.
+
+--- Rating #10 ---
+Class: COGS100
+Date: 2024-01-11 19:58:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Oh this class was so boring, i had to grab a coffee every time I went to his class.
+
+--- Rating #11 ---
+Class: COGS100
+Date: 2023-11-12 13:06:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I re-took this course a year later with Meg Grant. So many things Endre taught were incorrect and the course was completely different. Endre teaches hardly anything compared to other professors and is so boring. Wait for anybody else to take this course with. Endre seems alright until you take the course with someone who actually knows the content.
+
+--- Rating #12 ---
+Class: PHIL201
+Date: 2023-08-16 01:47:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Came into this course not expecting much but it actually turned out pretty interesting! Professor Begby is nice and he posts lecture notes for each lecture too, which helped a lot. Course consisted of two papers, participation, and a take-home final, which was alright and mainly got you to more thoroughly analyze some of the readings.
+
+--- Rating #13 ---
+Class: PHIL201
+Date: 2023-05-30 23:26:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very good lecturer, and good supplementary materials/notes available if you aren't able to make class. Very light work load.
+
+--- Rating #14 ---
+Class: COGS100
+Date: 2023-03-20 18:51:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very nice prof, I like him as a person. Slides are disorganized and unnecessarily long. Kind of boring, I find it hard to pay attention to him. Quizzes are unlimited repeats and barely change each time so it's nice. Easy to do good on assignments as long as you know what you need to do.
+
+--- Rating #15 ---
+Class: PHIL201
+Date: 2022-12-22 00:48:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+genuinely one of the best professors i've ever had. dr. begby is a super engaging lecturer and ensures that everyone is clear on what he is explaining. really understanding and always willing to help in office hours. likes to really get into discussions, especially if you show an interest! encourages participation and is just an overall great guy.
+
+--- Rating #16 ---
+Class: PHIL201
+Date: 2022-12-03 09:54:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The man!!!! coolest professor, absolute genius. encourages student participation and treats you as an intellectual equal while still making sure you leave knowing more. Super super nice, really funny, and very helpful during office hours, especially when developing your arguments for your paper. overall best prof, and pretty cool course. take him!
+
+--- Rating #17 ---
+Class: PHIL201
+Date: 2022-11-26 19:45:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This rating is not so much about the professor as it is about epistemology. It is a very weird phenomenon that never once mentions 'wisdom' as a concept, hence, the subject material consists of trite machinations of what to believe, how to arrive there around some tacit assumption of the existence of morality. Follow the rules is how to pass
+
+--- Rating #18 ---
+Class: PHIL201
+Date: 2022-11-10 02:19:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Cannot say enough good things about this guy! Literally the best professor I have ever had. Cares about all of his students and makes sure everyone is following and feeling good about the content. Interesting lectures and encourages participation, plus super helpful guiding paper writing. Funny too! Overall, fantastic prof!!
+
+--- Rating #19 ---
+Class: COGS100
+Date: 2022-09-18 11:27:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His classes are fun and he's very charming! Everything you need is in the slides (and there aren't even that many of them)! Take his class.
+
+--- Rating #20 ---
+Class: COGS100
+Date: 2022-05-10 09:50:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Endre's class is pretty easy because 50% of your grade is made up of quizzes that you get multiple retakes on, it's also worth noting that most of the times the quizzes are barely even changed. I also noticed he recycled some quiz questions in the final so if you are able know all the right answers for the quiz you should have an easy enough time.

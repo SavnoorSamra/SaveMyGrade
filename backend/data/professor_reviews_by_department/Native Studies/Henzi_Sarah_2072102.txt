@@ -1,0 +1,128 @@
+Professor: Sarah Henzi
+Professor Legacy ID: 2072102
+Professor ID: VGVhY2hlci0yMDcyMTAy
+Department (CSV): Native Studies
+Department (Fetched): Native Studies
+Avg Rating: 4.6
+Avg Difficulty: 2.9
+Num Ratings: 9
+Would Take Again Percent: 88.8889
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: INDG101
+Date: 2025-04-14 23:09:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+The class was conducted in French, but don't worry, you can complete papers and tests in English, which makes everything feel much more manageable. The lectures were quite interesting, and Sarah graded very fairly. I definitely recommend this class to anyone who speaks French!
+
+--- Rating #2 ---
+Class: INDG101
+Date: 2025-01-06 07:11:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Dr. Henzi is a fair marker and very accommodating. There are multiple weekly readings, but most are short.
+
+--- Rating #3 ---
+Class: INDG101
+Date: 2024-08-23 22:32:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Lectures hold an overwhelming amount of content and her voice makes you want to fall asleep. But overall she's so caring and knowledgeable in her field, often bringing in guest speakers. The exams are incredibly fair too.
+
+--- Rating #4 ---
+Class: FREN355
+Date: 2024-04-15 17:54:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sarah is a GEM ! She cares about the success and the well-being of her students. She was more than welcoming to talk about about my class anxiety and would personally email me to see if I was okay. There is a ton of reading to do (5-6 novels, I believe), but she gives two weeks which is reasonable. Only 2-3 essays and a solo presentation.
+
+--- Rating #5 ---
+Class: FREN355
+Date: 2023-12-07 02:56:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+At first I was unsure about this class because there is a crazy amount of reading required. However, the novels are engaging and interesting and Sarah clearly cares about her students. She gave everyone feedback before our midterm assignment which was very helpful and boosted all of our marks. I would take another class with her.
+
+--- Rating #6 ---
+Class: FREN355
+Date: 2023-11-29 18:38:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very organized, the novels picked for the class are interesting and inspiring. Although she is quite vague with the descriptions of certain assignment criteria, I haven't had any issues thus far, and I've been really enjoying reading more indigenous literature, it's inspiring.
+
+--- Rating #7 ---
+Class: INDG100
+Date: 2021-11-03 01:21:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This class is so strange. Did not understand what was going on whole time but prof was pretty nice.
+
+--- Rating #8 ---
+Class: INDG101
+Date: 2021-04-15 03:51:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+This class was taken in french. Sarah is a very knowledgeable and kind person who is passionate about her students and the content she teaches. She brought wonderful guest speakers almost every week and never put anything on the test that was not in her slides. The downside is she was low energy and I had a hard time staying awake in her lectures.
+
+--- Rating #9 ---
+Class: FNST101
+Date: 2016-06-21 15:57:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Sarah is a great teacher. She really cares about the topic as well as her students'. This course was taught as Intersession, so there were a lot of readings to go over, but it was manageable. She brought in amazing guest speakers from the Aboriginal community who enhanced the concepts, topics that we read about. Take her class!

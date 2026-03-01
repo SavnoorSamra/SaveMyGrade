@@ -1,0 +1,37 @@
+Professor: Vicki Kelly
+Professor Legacy ID: 1659859
+Professor ID: VGVhY2hlci0xNjU5ODU5
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 3.3
+Avg Difficulty: 2
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: EDUC867
+Date: 2025-09-29 01:51:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I found Dr. Kelly's approach to be sincere and rigorous.  She is a knowledge-keeper and a brilliant storyteller.  Perhaps the best teacher I have ever known.  An artist in the truest sense, and a lecturer of the highest order.  Simply outstanding.
+
+--- Rating #2 ---
+Class: EDUC867
+Date: 2011-12-06 17:42:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+If you love flute solos, expressing theories through forming human tableaus and pastel drawing in a graduate level course on Educational Research Methods, then this is the course for you. If you are serious about scholarship and are looking for a prof who knows her stuff and is open to discussion of serious ideas, STAY AWAY!

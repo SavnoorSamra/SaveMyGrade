@@ -1,0 +1,115 @@
+Professor: Christina Brassard
+Professor Legacy ID: 2620229
+Professor ID: VGVhY2hlci0yNjIwMjI5
+Department (CSV): French
+Department (Fetched): French
+Avg Rating: 4.3
+Avg Difficulty: 3.6
+Num Ratings: 8
+Would Take Again Percent: 75
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: FREN245
+Date: 2025-06-10 03:10:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The best prof I've ever had! Super kind and patient with students. Very fair grader!
+
+--- Rating #2 ---
+Class: FRE340
+Date: 2024-12-08 21:07:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Online course due to pandemic
+
+--- Rating #3 ---
+Class: FREN341
+Date: 2021-03-23 20:39:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Christina is a very nice teacher who conveys information to her students well. Great course structure!
+
+--- Rating #4 ---
+Class: FREN340
+Date: 2021-01-19 19:25:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I really like Christina. All of the readings were a 10/10. It was the only French class to not force us to use Zoom, and the only French professor I had that reached out to students about different possibilities of format for the class. Her course was also very well structured  well adapted for online teaching.
+
+--- Rating #5 ---
+Class: FREN340
+Date: 2020-12-25 16:41:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Interesting subjects and challenging. It would have been great if we received readings for the next week, but she is a fair maker.
+
+--- Rating #6 ---
+Class: FREN340
+Date: 2020-12-02 19:38:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I took her course last year, really liked her teaching, fantastic attitude. I wish 340 wasnt online. Youre gr8!
+
+--- Rating #7 ---
+Class: FREN245
+Date: 2020-11-22 00:03:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Late to office hours, horribly vague criteria, replies to emails 3 days later... we receive criteria for heavy weighted assessments at the same time as the assessment starts, cutting into our time. The worst class Ive taken at SFU, would not take a class with her if I didnt have to but she is the only French lit professor at the moment.
+
+--- Rating #8 ---
+Class: FREN430
+Date: 2020-09-08 09:05:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Lectures were asynchronous and maximum 40 minutes long. The grading criteria was not clear as we had weekly ateliers that were not on the syllabus. She was never at her office hours but she responds to emails and gives feedback on the final paper if you email her. Overall, she is very nice and makes the course interesting by adding in her research

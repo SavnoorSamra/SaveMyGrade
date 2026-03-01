@@ -1,0 +1,63 @@
+Professor: Malcolm Kennett
+Professor Legacy ID: 1957899
+Professor ID: VGVhY2hlci0xOTU3ODk5
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 4.5
+Avg Difficulty: 3
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: PHYS285
+Date: 2016-04-26 13:53:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great lectures. He's available to help if you have any questions. Assignments and tests definitely aren't easy but there are no 'filler' homework questions, they all teach you something.
+
+--- Rating #2 ---
+Class: PHYS285
+Date: 2015-04-25 01:31:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Can explain physics very clearly and lectures are easy to follow and has lovely english accent which makes him sound even smarter. His assignments are long but not too difficult. Same with tests, not too hard but time will be an issue.  Overall very fun and interesting course. Would recommend.
+
+--- Rating #3 ---
+Class: PHY384
+Date: 2014-12-14 03:05:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Very talented at filling the whiteboard with concise yet easily-followable steps of formalisms of theoretical techniques. Though sometimes he goes overtime.  Helpful when needed; he's always at his office hours waiting for students to show up. Questions in class are encouraged and the answers are always satisfactory.
+
+--- Rating #4 ---
+Class: PHYS384
+Date: 2014-12-09 05:07:42 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Malcolm is very organized and has good notes. I don't know if it's him or just the nature of the class, but there sure were tons of assignments! Tough class but very useful. Would take another class with him.

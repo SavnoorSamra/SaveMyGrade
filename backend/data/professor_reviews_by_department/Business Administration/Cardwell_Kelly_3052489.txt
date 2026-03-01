@@ -1,0 +1,37 @@
+Professor: Kelly Cardwell
+Professor Legacy ID: 3052489
+Professor ID: VGVhY2hlci0zMDUyNDg5
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 2
+Avg Difficulty: 2
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: 300
+Date: 2024-12-17 16:38:09 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This class felt like a waste of time. Kelly would often say an assignment would be posted on a certain date and it wouldn't be posted until a week later, and if you try to reach her by email good luck. After the Summit conference, she assigned us a 2-3 page essay during finals season due with like 3 days to write it. Wouldn't recommend, unorganized
+
+--- Rating #2 ---
+Class: 300
+Date: 2024-12-04 04:23:16 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I appreciate that we only had to come in once a month for the lecture, however, every topic was redundant and did not feel necessary at all. Kelly was also disorganized with the assignments and did not set clear timelines. The mandatory summit could have been an extra class during the week, it was not valuable enough to justify the Saturday drive.

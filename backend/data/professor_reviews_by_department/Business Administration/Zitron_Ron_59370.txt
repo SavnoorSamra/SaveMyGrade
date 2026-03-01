@@ -1,0 +1,271 @@
+Professor: Ron Zitron
+Professor Legacy ID: 59370
+Professor ID: VGVhY2hlci01OTM3MA==
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.6
+Avg Difficulty: 3.7
+Num Ratings: 79
+Would Take Again Percent: 28.5714
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS312
+Date: 2018-08-20 17:31:40 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+No lecture notes posted, and the textbook is very difficult to read so attend class. He explains the material very well. The midterm and the final has one tough question but the prof lets you know which ch its gonna come from. He pulls some question from the textbook practice problems. Practice Practice Practice and you'll do alright.
+
+--- Rating #2 ---
+Class: BUS312
+Date: 2017-08-18 16:49:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+No lecture slides and the exams were challenging. Try to understand the concepts and examples he taught in lectures. He is very nice in general. He will answer your questions after class. In addition, questions are always encouraged during class, he will repeat some difficult calculations several times to make sure you can understand. Good prof!
+
+--- Rating #3 ---
+Class: BUS312
+Date: 2017-08-12 23:07:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+he doesn't know how to teach
+
+--- Rating #4 ---
+Class: BUS312
+Date: 2017-08-12 21:30:43 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He's a good teacher,  but very old fashioned. Wastes 30 min of class handing quizzes back one by one, instead of giving them to TAs. No slides, only lecture notes in his horrible handwriting, so pay attention to what he says, he likes to use acronyms without writing what they actually are. Nice guy overall, wouldn't take a class with him again tho.
+
+--- Rating #5 ---
+Class: BUS312
+Date: 2016-12-09 19:17:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Don't skip class because he does not provide lecture notes. Make sure you pay attention in class and take good notes, since you'll need them to study
+
+--- Rating #6 ---
+Class: BUS312
+Date: 2016-12-09 19:16:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Don't skip class because he does not provide lecture notes. Make sure you pay attention in class and take good notes, since you'll need them to study. Also do tons of practice questions.
+
+--- Rating #7 ---
+Class: BUS312
+Date: 2016-08-05 21:04:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Ron Zitron was extremely helpful and clear. The midterms and assignments mostly reflect what he discusses in class. As there is no textbooks for this class, it is a good idea to attend all lecture as you will need his notes for assignments. To do well, YOU HAVE TO DO A LOT OF PRACTICE QUESTIONS. Midterms, assignments, exercises etc.
+
+--- Rating #8 ---
+Class: BUS473
+Date: 2016-01-02 17:17:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Ron is an extremely nice and friendly person. His exams are easy because they are related only to what he has talked about in lectures and very similar with assignments, so no surprises and you better attend every lecture. The only bad thing is that his teaching might be a little bit disorganized, if you are lost, you can always ask him for helps.
+
+--- Rating #9 ---
+Class: BUS473
+Date: 2015-12-16 23:08:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+For a 4 credit course, it was pretty straight forward and a lot of it was because of Ron. It was a 4 hour lecture but he never went the full 4 hours. A high average on the midterm average though so you must be on the ball with your studying to beat the curve.
+
+--- Rating #10 ---
+Class: BUS312
+Date: 2015-11-14 01:54:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+One of the best prof. You don't need the textbook, only have to attend every class and take notes by yourself. Quizzes are super easy, but midterm and final are super difficult. However, this class is curved, so you will be fine if you do your best to be above the average :D
+
+--- Rating #11 ---
+Class: BUS312
+Date: 2015-11-04 16:15:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Ron is one of the best profs. He is very informative and helpful. The course is consist of 3 quizzes and 2 exams. He will tell you exactly what will be on the quiz, so make sure you understand the sample questions during the lecture. And it's super easy to get 100% in all the quizzes. However, exams are much harder. The average is only 46%.
+
+--- Rating #12 ---
+Class: BUS312
+Date: 2015-09-09 18:39:41 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+HARDEST COURSE I HAVE EVER TAKEN! hard marker and the textbook was not helpful at all. Some of the things taught in lecture were different from what the textbook states.
+
+--- Rating #13 ---
+Class: BUS312
+Date: 2015-01-07 04:07:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Participation is mandatory for his class because there is no lecture slides, all you have to do is to copy his notes in class. Reading the textbook is very helpful for understanding his notes. The exam is based on his notes in class
+
+--- Rating #14 ---
+Class: BUS312
+Date: 2014-11-29 16:25:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+I wish he had lecture slides or recorded the lectures. This class is not designed very well, so I am not sure if it was him or the course or the textbook that made it so challenging. Do extra problems andvisit the TA often, and properly do all the assignments. I wouldn't recommend taking the class with him as he doesn't explain basic content.
+
+--- Rating #15 ---
+Class: BUS312
+Date: 2014-09-21 19:20:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+He is a very nice guy. Everything is based on lecture notes, so it's absolutely necessary to attend. Try recording his lectures as backup, it will help. Exams and quizzes are very similar to the sample ones he posts. Best 312 prof Cool accent
+
+--- Rating #16 ---
+Class: BUS312
+Date: 2013-08-08 08:28:34 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Too difficult to be in 300 level >< you are expected too much and even the textbook doesn't help you much.
+
+--- Rating #17 ---
+Class: BUS149
+Date: 2012-12-19 23:22:09 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+nice guy, bad professor. final was ridiculously difficult. marks on a curve. not very fAir. i did terrible in his class. a little intimidating.
+
+--- Rating #18 ---
+Class: BUS312
+Date: 2012-08-15 18:33:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Ron is a nice guy. The course itself is hard so you really have to work if you want a good grade. The exam questions are tough, but if you attempt at answering the questions (and know what you're saying) then you'll end up with a decent mark in the class.
+
+--- Rating #19 ---
+Class: BUS312
+Date: 2012-08-15 14:15:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+If you pay attention in class and cognitively follow along as he explains things on the board, it will save you a lot of pain and time. Don't need the text. It is a challenging course but he somehow makes it relatively enjoyable. Overall, he is a very articulate prof and the quizzes/exams have NO surprises. Don't miss a lecture.
+
+--- Rating #20 ---
+Class: BUS312
+Date: 2012-08-08 17:48:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Ron's a great lecturer and an overall nice guy. He even came in on a holiday for his office hours. Lectures are mandatory because he does all the notes on the whiteboard and the textbook is crap. It's not an easy course, and definitely requires a lot of work.

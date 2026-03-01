@@ -1,0 +1,89 @@
+Professor: Tim Christin
+Professor Legacy ID: 1730023
+Professor ID: VGVhY2hlci0xNzMwMDIz
+Department (CSV): Philosophy
+Department (Fetched): Philosophy
+Avg Rating: 4.5
+Avg Difficulty: 3.5
+Num Ratings: 6
+Would Take Again Percent: 75
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: PHIL105
+Date: 2024-04-18 16:12:04 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Tim is definitely a genius. I mean literally. But he can't understand that most of his students are ordinary people. The exam is extremely difficult, and the unreasonable multiple-choice mechanism will make you extremely painful.
+
+--- Rating #2 ---
+Class: PHIL105
+Date: 2023-09-14 20:08:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is easy-going, approachable and delivers his lectures in a fun and engaging manner. You will do well in his course if you focus on his examples and stay up to date with the readings and homeworks.
+
+--- Rating #3 ---
+Class: PHIL105
+Date: 2021-03-25 07:34:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Great prof. Literally changed the way I think, make decisions and think logically. I have started to implement what is taught in this course in my life which could only have been possible by the way Tim taught. Thanks Tim, for changing my worldview, if you read this.
+
+--- Rating #4 ---
+Class: PHIL001
+Date: 2018-09-04 03:57:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great prof, has a lot of stories so your lectures wont be dead boring. And he teaches, nah, talks about not only how to be a good student academically but a good person too.
+
+--- Rating #5 ---
+Class: PHIL001
+Date: 2013-07-10 23:23:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He is by far the best professor I've ever had! Love his classes
+
+--- Rating #6 ---
+Class: PHIL001
+Date: 2012-07-09 05:02:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+he's a very nice guy. the classes is full of fun. also, the things he teaches really changed my view of the world.

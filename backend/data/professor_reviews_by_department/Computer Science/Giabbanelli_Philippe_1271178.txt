@@ -1,0 +1,271 @@
+Professor: Philippe Giabbanelli
+Professor Legacy ID: 1271178
+Professor ID: VGVhY2hlci0xMjcxMTc4
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.2
+Avg Difficulty: 4.4
+Num Ratings: 47
+Would Take Again Percent: -1
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT120
+Date: 2015-03-19 20:04:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+My favorite professor. His lectures are great. If you find his cmpt 120 is hard, maybe programming is really not your thing.
+
+--- Rating #2 ---
+Class: CMPT120
+Date: 2014-07-17 23:23:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+good
+
+--- Rating #3 ---
+Class: CMPT120
+Date: 2014-04-03 17:43:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: N
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Most patient and hilarious teacher I've ever met!I know nothing about CS before the course,even little in English,but he magically pushes u forward without noticing.Before the final,I got 95% and 3 books as a reward,which comes from his salary.I just want to mention that u can learn more if it's hard to learn,and if u work harder,everything happens
+
+--- Rating #4 ---
+Class: CMPT120
+Date: 2014-02-24 21:21:24 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+not bad but NOT GOOD.
+
+--- Rating #5 ---
+Class: CMPT120
+Date: 2013-12-15 04:40:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Great Prof!
+
+--- Rating #6 ---
+Class: CMPT120
+Date: 2012-12-22 00:08:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+His class is great. His slides are perfectly prepared. They have many animations so it is better to save them on laptop or iPad than printing them out. He has many pop quizzes and labs+assignment, but if you attend the class every week, you will be fine. His class is well, very well prepared.
+
+--- Rating #7 ---
+Class: CMPT120
+Date: 2011-10-01 20:26:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Hard lecture notes, hard assignments, hard midterm, hard final, hard project, and a bad Francophone English, but a nice guy. The final project is incredibly ridiculous --- researching on biology, and writing a 3500 word report, but only considered a bit of coding (and difficult 4 newbies). Its an introductory course of CS, and NOT an advanced CS.
+
+--- Rating #8 ---
+Class: CMPT120
+Date: 2011-05-14 04:30:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He's a good prof. Course was really hard for an intro, but he did mark fairly and provided a rubric to follow. It was kinda like a bio project. After all the struggling, it was fun after all. Could've made it easier to get bonuses for people to maintain a better grade. As well, more practice on coding would've been good too. Great slides, very good
+
+--- Rating #9 ---
+Class: CMPT120
+Date: 2011-04-23 23:43:48 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Not a good teacher for an intro computing class. No textbook or assignment, just very unclear lecture slides are given. The project is way too hard for students who dont really have a lot of programming background before. Just too hard and challenging for intro level.Such a GPA killer this semester!
+
+--- Rating #10 ---
+Class: CMPT120
+Date: 2011-04-23 18:33:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+All i can say about this course taken by him is &quot;LOL&quot;. The amount of work needed for a 3 credit course as an &quot;introduction to computer science&quot; was extremely outrageous. Philippe is a really nice guy and stuff and he is helpful but,it's either you know the stuff or you don't. And if you are a computer geek already-you'll be fine(all the geeks did)
+
+--- Rating #11 ---
+Class: CMPT120
+Date: 2011-04-21 20:35:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Course is over. Still don't know a thing about coding. No homework, no practice-which is critical for this type of course.
+
+--- Rating #12 ---
+Class: CMPT120
+Date: 2011-04-19 20:34:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I took (and failed...) that course before and I can say this was much much better. I didn't expect to do a project though the guy said it the first day so I'm like ok... But I don't think it was poorly explained cuz we had lots of rubrics with bunch of examples and he met with all of us, plus he answered all my emails fast. So yeah keep it up.
+
+--- Rating #13 ---
+Class: CMPT120
+Date: 2011-04-19 19:17:39 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+1st 2 assignments were not bad; bonus points reward system was poor though. 3rd project was a totally poorly explained process. In a nutshell, its a proposal paper of a hypothesis you weren't told to make + a program simulation of a bio or cognitive process u believe to be the focus the whole time + a final Thesis Paper (aka:&quot;simulation report&quot;)...
+
+--- Rating #14 ---
+Class: CMPT120
+Date: 2011-04-19 18:54:15 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+The professor is okay. He's obviously very experienced and knowledgeable about the topic and provides very comprehensive materials for the students. However, I think the way he designed the course is too difficult for the students. Wouldve been better if they touched on more applications for design than biology as majority of the students are SIAT
+
+--- Rating #15 ---
+Class: CMPT120
+Date: 2011-04-19 17:55:14 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Nice & funny guy, but tough especially for an intro course. Like what others said, final project was more like a Bio project (with a 3.5k-words paper to write). I wish the bonus quizzes worked better - he only gave the bonuses if you got full marks on them, so there's very little chance of pulling grades up for people already suffering low grades.
+
+--- Rating #16 ---
+Class: CMPT120
+Date: 2011-04-19 15:18:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+The material was tough. Most of us were forced to take that class and honestly we'd rather not be here... But the prof really worked to make entertaining lectures! He was very available for help, like he'd come to the labs to give extra help on top of TA, and he gave us a super detailed feedback for the projects.
+
+--- Rating #17 ---
+Class: CMPT120
+Date: 2011-04-19 13:35:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Extremly hard teacher. Entertaining way of teaching. just too hard.project is hard. assignment is hard.It is intro to computer science and most of us are from SIAT. many people dropped in the beginning of the class. honestly. I like him. but CMPT 120 usually are easier than this. nothing personal. I'm just expecting an easier course
+
+--- Rating #18 ---
+Class: CMPT120
+Date: 2011-04-19 02:57:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+First half of course was well taught, well prepared lectures. Post-midterm was off from computing, more a biology research for Project-was worth a lot and only partially consisted coding. Prof was always available to help, it was the TA who was vague. Should have more assignments instead of huge final and project. Low class average, no curve.
+
+--- Rating #19 ---
+Class: CMPT120
+Date: 2011-04-19 02:27:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I don't think he deserves as much hate as he is getting. He was really helpful and his slides/lectures were extremely detailed and you could tell a lot of work went into them. I do think the project was a bit ridiculous however and it was too hard for an intro level course. Other than that the hw was fair, but weekly assnmnts would have helped.
+
+--- Rating #20 ---
+Class: CMPT120
+Date: 2011-04-19 01:52:05 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Project worth too much and irrelevant to computing science, only 1/3 coding. After midterm there was no more assignments to practice. Everything from then on was trial n error. He was always available for help, however, he still leaves you with quite alot to figure out. First half of the course was good. Project sucked because it was bio project.

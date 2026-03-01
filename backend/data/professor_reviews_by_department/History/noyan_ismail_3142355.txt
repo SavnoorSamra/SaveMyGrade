@@ -1,0 +1,11 @@
+Professor: ismail noyan
+Professor Legacy ID: 3142355
+Professor ID: VGVhY2hlci0zMTQyMzU1
+Department (CSV): History
+Department (Fetched): History
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

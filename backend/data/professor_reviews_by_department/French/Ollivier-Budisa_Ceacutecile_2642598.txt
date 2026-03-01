@@ -1,0 +1,11 @@
+Professor: Ceacutecile Ollivier-Budisa
+Professor Legacy ID: 2642598
+Professor ID: VGVhY2hlci0yNjQyNTk4
+Department (CSV): French
+Department (Fetched): French
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

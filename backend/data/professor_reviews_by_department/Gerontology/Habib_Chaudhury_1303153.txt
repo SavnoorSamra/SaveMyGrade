@@ -1,0 +1,63 @@
+Professor: Chaudhury Habib
+Professor Legacy ID: 1303153
+Professor ID: VGVhY2hlci0xMzAzMTUz
+Department (CSV): Gerontology
+Department (Fetched): Gerontology
+Avg Rating: 4.1
+Avg Difficulty: 2
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: GERO300
+Date: 2013-07-25 20:43:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: True
+Comment:
+Very nice
+
+--- Rating #2 ---
+Class: GERO300
+Date: 2011-05-01 17:03:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Awwww how can anyone not like Habib&#63; he is like a teddy bear with an awesome personality! :P He is also an amazing prof and he certainly knows his stuff and has a passion for what he does! Because of him, I have decided to obtain a minor in gero
+
+--- Rating #3 ---
+Class: GERO300
+Date: 2011-04-27 22:43:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+decent course. Not too difficult to get a good grade.  Ask him many questions about the mt or final for more hints
+
+--- Rating #4 ---
+Class: GERO300
+Date: 2011-04-21 20:50:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I loved this course. Relatively easy for an upper division course and Habib was great.

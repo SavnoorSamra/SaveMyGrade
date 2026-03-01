@@ -1,0 +1,64 @@
+Professor: Kai Chow
+Professor Legacy ID: 2772895
+Professor ID: VGVhY2hlci0yNzcyODk1
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1
+Avg Difficulty: 3
+Num Ratings: 4
+Would Take Again Percent: 0
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: CMPT756
+Date: 2022-05-01 22:41:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The lecture talks nonsense, and you can learn nothing from that. Term project is very hard if your team don't have any related background. Besides, the grading standard for term project is not aligned with the requirements written in term project instrutions. Moreover, you would never get his reply when you email him to argue about grades.
+
+--- Rating #2 ---
+Class: CMPT756
+Date: 2022-04-28 00:54:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Readings for weekly quiz but every time the quiz has little things to do with the reading. Can't refer to any textbook nor online resources. Homework is step by step setup but almost no explanation or theory lectured. 
+Lectures are full of superfluous content. I'm with zero cloud computing background and truly devoted, but still I learned nothing.
+
+--- Rating #3 ---
+Class: CMPT756
+Date: 2022-03-02 01:56:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Halfway through the term, I look back and realise that I did not learn anything useful. Would not recommend the course as long as it is with the same content and structure.
+
+--- Rating #4 ---
+Class: CMPT756
+Date: 2022-02-11 04:48:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Lecture is boring, talk nonsense, no keypoints, talk hours for simple concept. Expect paper long redundant answer for the assignments (his audience must be non-technical people). Cannot google this background; cannot find his degree.

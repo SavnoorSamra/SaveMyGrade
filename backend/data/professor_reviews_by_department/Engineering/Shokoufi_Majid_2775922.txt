@@ -1,0 +1,273 @@
+Professor: Majid Shokoufi
+Professor Legacy ID: 2775922
+Professor ID: VGVhY2hlci0yNzc1OTIy
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 3.6
+Avg Difficulty: 3.6
+Num Ratings: 47
+Would Take Again Percent: 68.0851
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENSC-252
+Date: 2025-11-17 10:29:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Great ENSC professor! Hopefully, he will teach more engineering courses (ENSC 254, ENSC 280, ENSC 225, 325 and more). I can't wait to take another class with him. His midterm and exam were fair overall.
+
+--- Rating #2 ---
+Class: ENSC-252
+Date: 2025-09-05 04:14:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+fair exams, explains concept well enough to understand the basics.
+
+--- Rating #3 ---
+Class: ENSC-225
+Date: 2025-08-21 07:01:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's actually a solid prof, all the exam questions are from the practice behind textbook, and there is a youtube channel solving these questions. Overall his pace a lit bit slower than other prof lab is basically free mark you just follow the material. Exam grades come out fast 9/10
+
+--- Rating #4 ---
+Class: ENSC-225
+Date: 2025-08-20 16:44:45 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Majid is a good professor in terms of teaching. However, he gives way too much work. In his labs, he requires you to complete the lab itself, write a lab report, and perform a lab demo. In addition, you still need to do his hw assignments and study for his midterms. You won't have any free time considering how much work he gives you.
+
+--- Rating #5 ---
+Class: ENSC-225
+Date: 2025-07-01 04:15:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Some of the tutorials have been of limited use because Majid has provided the TAs with incorrect material on very short notice.
+
+--- Rating #6 ---
+Class: ENSC383
+Date: 2024-10-25 19:43:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Likely the best professor in ENSC dept. High quality slides and encouraged questions from Majid ensure most students learn well. 5% bonus mark for participating. Class is test heavy but fair tests. Best way to learn is slide examples and HW review. Only downside is labs seemed a bit redundant. Scales to B- class avg. He is very fair and kind.
+
+--- Rating #7 ---
+Class: ENSC-325
+Date: 2024-09-13 07:27:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Basically a much harder 225. Homework and labs were much longer and more difficult than in 225. Steep learning curve for OrCAD, the replacement of LTSpice for simulation. Concepts get extremely difficult, but Majid explains it clearly that it makes sense in class. Allot lots of time for studying. Exams were fair but unforgiving if you do not study.
+
+--- Rating #8 ---
+Class: ENSC-252
+Date: 2024-08-03 22:41:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Majid makes difficult concepts easy to understand and often encourages students to ask questions which shows  his kindness. Show up to all lectures or you'll quickly fall behind.
+
+--- Rating #9 ---
+Class: ENSC-252
+Date: 2024-07-27 21:54:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Invites and answers questions, essential in a challenging course. Lectures can be boring but interesting with good understanding. Exams are fair with no tricks. The extra 10% project is appreciated. Labs are time-consuming; complete 60%-80% before class to finish on time. Practice A LOT, review assignments heavily. No part marks on exams.
+
+--- Rating #10 ---
+Class: ENSC-225
+Date: 2023-12-22 05:33:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+After 252 last year, I was dreading taking another class with him. However, Majid has greatly improved as a professor. Quizzes, tests, and labs were all fair and generously marked. The only issue were the unscheduled mandatory lab sessions on Friday mornings for which I had to skip another class.
+
+--- Rating #11 ---
+Class: ENSC-225
+Date: 2023-12-21 11:33:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Majid went from being hated in ENSC252 in Fall 22' to becoming one of the greatest profs I've had. His explanations of concepts were always clear and it just clicks. However, you will still need to put in time practicing questions to do well in this class. Only downside is the lab sessions are chaotic and labs have unclear/wrong steps.
+
+--- Rating #12 ---
+Class: ENSC-225
+Date: 2023-11-16 03:37:57 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Majid is a nice guy. He has some bad habits like picking on students in class, not posting notes, or explaining concepts in ways difficult to understand. However, he is not bad at teaching and wants his students to succeed. I enjoyed the labs and tutorials by TAs were helpful. The quiz and exam averages were low 40s, but he scales nicely (to a B).
+
+--- Rating #13 ---
+Class: ENSC-225
+Date: 2023-10-18 18:44:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is one of the best professors I ever had in Microelectronics. He has a great passion for teaching and excellent at teaching the material and is very good at getting concepts across. The lectures were great. The exams were very fair.
+
+--- Rating #14 ---
+Class: ENSC-252
+Date: 2023-09-22 17:05:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+one of the best prof I've ever had. He is very willing to help during and outside of class. The course itself was hard enough, but he made it easy to understand by bringing real-life examples during the lectures.
+
+--- Rating #15 ---
+Class: ENSC-225
+Date: 2023-09-22 17:00:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Majid is a great prof! He is very willing to help during and outside of class. The course itself was hard enough, but he made it easy to understand by bringing real-life examples during the lectures.
+
+--- Rating #16 ---
+Class: ENSC-225
+Date: 2023-08-25 06:45:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Taken a class with him in the past and he has significantly improved. I have gained more respect for him over time as I found that he's very approachable and open to answering any questions or concerns you may have. Do not expect to understand everything on the first go of lectures. It's university and the concepts are hard. Allocate time to study.
+
+--- Rating #17 ---
+Class: ENSC-252
+Date: 2023-08-22 20:32:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Easily made my top 5 professor list. Despite the course difficulty, he made it very easy for me to understand. So much so that even his slides were enough for me when I started skipping class. His grading scheme was tough but tests were always fair. My only critique is that the labs felt very disorganized/not a major part of the course material.
+
+--- Rating #18 ---
+Class: ENSC-252
+Date: 2023-08-21 19:01:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Pros: Very caring, helpful and accessible outside of class. 2nd quiz was hard but exams were very fair overall. Hard class so he usually scales 2 letter grades.
+Neutral: Labs were disorganized but that was more of the TA's responsibility then his.
+Cons: Lectures sometimes get boring, but he's infinitely better then other ENSC profs
+
+--- Rating #19 ---
+Class: ENSC-225
+Date: 2023-08-21 18:15:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Difficulty was definitely 5/5 but, unless you put in absolutely no work he wouldn't fail you because he scales hard as he doesn't want students to fail. He is a caring prof and would recommend going up to him after class and ask questions if needed.
+
+--- Rating #20 ---
+Class: ENSC-252
+Date: 2023-08-16 19:20:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Majid is a very caring and knowledgeable prof in engineering Science. Excellent lectures.

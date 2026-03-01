@@ -1,0 +1,11 @@
+Professor: Sarah Rudrum
+Professor Legacy ID: 2163808
+Professor ID: VGVhY2hlci0yMTYzODA4
+Department (CSV): Sociology & Anthropology
+Department (Fetched): Sociology  Anthropology
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

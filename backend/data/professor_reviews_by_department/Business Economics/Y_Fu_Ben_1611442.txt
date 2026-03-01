@@ -1,0 +1,11 @@
+Professor: Ben Y Fu
+Professor Legacy ID: 1611442
+Professor ID: VGVhY2hlci0xNjExNDQy
+Department (CSV): Business Economics
+Department (Fetched): Business Economics
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

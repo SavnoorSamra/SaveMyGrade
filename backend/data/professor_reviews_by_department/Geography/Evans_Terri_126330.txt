@@ -1,0 +1,167 @@
+Professor: Terri Evans
+Professor Legacy ID: 126330
+Professor ID: VGVhY2hlci0xMjYzMzA=
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 3.8
+Avg Difficulty: 2.5
+Num Ratings: 12
+Would Take Again Percent: 100
+
+Ratings Count Returned: 12
+
+--- Rating #1 ---
+Class: GEOG264
+Date: 2016-11-23 04:01:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Terri is incredibly kind and helpful. She has made my first online course a lot less hectic than it could have been. She will go out of her way to ensure her students are well informed. She is very responsive via email and within discussion boards on Canvas.
+
+--- Rating #2 ---
+Class: GEOG264
+Date: 2014-12-26 14:01:26 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Terri was very good at keeping the class updated with marking and answering questions in the tutor markers office. However I did find her marking to be rather difficult, especially on the assignments. Definitely participate in discussions! It will help boost your mark. Overall Terri is a decent prof.
+
+--- Rating #3 ---
+Class: GEOG264
+Date: 2014-01-06 02:11:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Terri knows her stuff. Her course expectations are clear and her marking is fair. The bare minimum won't get you far in this course, be prepared to put in some effort especially with the written assignments. Discussions are an easy 10%, participate in them. Midterm/final weren't bad, she tells you what to expect and what to focus your studying on.
+
+--- Rating #4 ---
+Class: GEOG264
+Date: 2010-12-13 07:22:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Took this course online. It was really straight forward and as long as you keep up with the discussion you will get a good participation mark. The discussion does not require you to do a lot of reading, mostly on what observe around you. For the exams, you just have to study all the concepts and terms for the study units.
+
+--- Rating #5 ---
+Class: GEOG264
+Date: 2007-04-02 14:14:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Took by distance ed. Extremely interesting course, highly recommended. The online discussions were mostly easy, and the paper and exams had no surprises. If you are interested in cities at all, this course will be very engaging. The wide array of readings and online videos were very interesting.
+
+--- Rating #6 ---
+Class: GEOG264
+Date: 2006-05-15 22:01:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Terri is a good prof. She presents interesting lectures and it is fairly easy to do well in her class. She's a bit of a hard marker, but overall she is fair. She's very knowledgeable and very good at leading discussions. She responds to emails very quickly.
+
+--- Rating #7 ---
+Class: GEOG264
+Date: 2004-11-02 17:29:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very boring lecturer, reads from piles of notes. Has many guest speakers, in the end teaches very little of the course. You mostly end up teaching yourself. Guests rarely end up really being really pertinent to the reading. Most other students I talk to can't wait for the course to end.
+
+--- Rating #8 ---
+Class: GEOG264
+Date: 2004-03-26 13:59:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Lectures were great. Prof very informed on what's happening in Vancouver and other Cdn cities. Loved the videos!
+
+--- Rating #9 ---
+Class: URBAN
+Date: 2004-03-24 23:28:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #10 ---
+Class: GEOG264
+Date: 2003-11-15 22:36:35 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Still seems a little afraid to speak in front of large groups of people.  However I find her very informative and defenitly trys to help her students in any way that she can
+
+--- Rating #11 ---
+Class: GEOG261
+Date: 2003-05-04 18:46:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Tons of readings for a second year course. Lots of assignments, but at least it ensures that you will do well if you have one bad mark. Lectures got better after the 'guest' lectures. TA Jonathan extremely helpful and knowledgable for PolSci guy.
+
+--- Rating #12 ---
+Class: GEO261
+Date: 2003-04-28 18:47:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+The course was alright.  It was a bit disorganize in the beginning.  But it wasn't too bad.  The TA Jonathan was awesome, he seems to be very knowledgeable in urban geo.   The only problem with this course is, there are way too many assignments.

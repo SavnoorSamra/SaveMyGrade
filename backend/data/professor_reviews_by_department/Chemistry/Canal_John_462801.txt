@@ -1,0 +1,279 @@
+Professor: John Canal
+Professor Legacy ID: 462801
+Professor ID: VGVhY2hlci00NjI4MDE=
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 3.4
+Avg Difficulty: 3.1
+Num Ratings: 79
+Would Take Again Percent: 46.3415
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CHEM121
+Date: 2026-02-13 22:11:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I know a lot of people don't like the tangents he goes on, however I find he makes chemistry as enjoyable as it can be. He explains concepts and connections in a simple way I haven't had any other chemistry instructor do. He really does make the material as easy as possible. He is super friendly and helpful if you see him during office hours too!!
+
+--- Rating #2 ---
+Class: CHEM121
+Date: 2026-02-12 03:37:23 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Nice guy, but I cannot follow his lectures. He reads off his slides and tell stories (which are fun), without specifying anything in particular. He will sometimes solve problems, but by that point its so unclear what to do, you just end up watching him do who knows what. Its like zoning out for an hour.
+
+--- Rating #3 ---
+Class: CHEM121
+Date: 2026-02-07 20:15:48 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+the guy just mumbles to himself rather than actually presenting and teaching the class, and all he does is read off the slides....
+
+--- Rating #4 ---
+Class: CHEM126
+Date: 2025-12-14 06:55:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very doable labs, followed exactly what was on the pre-lab. Very helpful during the lab itself, if you're ever stuck. Exams didn't have anything unexpected. Extremely approachable guy in and outside the lab, and a very helpful prof. Only thing is, the criteria for how lab reports were marked wasn't the clearest.
+
+--- Rating #5 ---
+Class: CHEM121
+Date: 2025-12-13 01:36:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Nice but would go on tangents and had confusing long lectures, couldn't follow even with basic review.
+
+--- Rating #6 ---
+Class: CHEM126
+Date: 2025-12-11 06:28:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Have him for my lab and hes a great guy. i rarely talk to him tho bc we have TAs but he is very helpful and understanding. I stayed until 5:30pm for the first couple labs even tho class ends at 5:20 but he didnt deduct. His lab reports and midterms are mostly fair but you really gotta review the lab manual and prelabs.
+
+--- Rating #7 ---
+Class: CHEM126
+Date: 2025-11-13 23:25:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+John Canal is the most amazing lab prof. Had him for both 121 and 126 and he's amazing. If you ask him any questions, he's always willing to answer and his explanations are both detailed and easy to understand. He truly cares for the success of his students and there's no one better.
+
+--- Rating #8 ---
+Class: CHEM121
+Date: 2025-09-13 00:53:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Nice prof but CANNOT teach. He just reads off his slides. He tends to get off track easily and talk about random things that are not related to the lecture. Because of that we are always behind on the lectures. Basically you have to teach everything to yourself.
+
+--- Rating #9 ---
+Class: CHEM122
+Date: 2024-12-08 11:38:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He told me where to get cold water before exams. The water fountain he showed me really hits after chewing and inhaling some minty products.
+
+--- Rating #10 ---
+Class: CHEM122
+Date: 2024-05-31 00:27:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+CHEM122 with Dr. Canal was relatively straightforward. Very easy midterm but the final was relatively hard. It was difficult to hear him during lectures because of mic issues but he always posted lecture recordings. He goes over your midterm with you during office hours to see what questions you got wrong and explains questions thoroughly.
+
+--- Rating #11 ---
+Class: CHEM122
+Date: 2024-05-30 18:27:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Canal is a very caring prof. He always offers extra help after lectures, even outside his office hours. Despite technical difficulties with his mic, he always posted the slides and recordings you could review in case you missed what he said in class. The midterm was quite straightforward, but the final was definitely harder.
+
+--- Rating #12 ---
+Class: CHEM122
+Date: 2024-05-06 01:51:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+1. Can't hear him in class cause he loves to stay quiet 
+2. Worst final I have written yet, I dont know anyone that felt confident after that final, tested us on stuff he never taught 
+3. Lectures were a waste of time as he read off the slides and just mumbled to himself
+
+--- Rating #13 ---
+Class: CHEM122
+Date: 2024-04-30 05:48:10 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Voice is easy to zone out to. His lecture slides kinda sucked, so you def gotta pay attention in class. Idk why he made them in portrait instead of landscape. He posted lecture recording tho, which was nice. No huge complaints. Tutorials were optional. Idk how I got a B+, I guessed 60% of the final. Midterm was chill tho
+
+--- Rating #14 ---
+Class: CHEM122
+Date: 2024-04-22 22:52:05 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr Canal is one of the good professors for Chem 122. 
+
+His lectures are straightforward. However, sometimes, it can be hard to hear him (people in the backseat).
+
+Lastly, his midterm is super easy, but his final is so brutal (I almost failed this exam). So, to get a B or more, you must put in tons of effort. 
+
+HELLO! CAN YOU HEAR DR. CANAL!
+
+--- Rating #15 ---
+Class: CHEM236W
+Date: 2022-07-29 22:11:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His course was difficult for me, being a written course too. When you would make a mistake in the lab, he would never talk down or be rude. He will help find out what went wrong and would let you take another person's lab data if something went horribly wrong. The TAs he had were the best TAs I've ever had.
+
+--- Rating #16 ---
+Class: CHEM122
+Date: 2022-05-10 18:03:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+John goes straight to the point with his lectures. He took the time to go over our midterm exams with us individually. The only thing I did not like about him was how easy it was to fall asleep in his lectures. The final was just brutal, make sure you do well on everything else.
+
+--- Rating #17 ---
+Class: CHEM122
+Date: 2022-05-09 04:11:18 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I did amazing on the midterm but idk what he pulled on the final. Final was soo tough so make sure to do very well on midterm. John as a prof is good and helpful and nice but the class itself was a bit of work. his videos and everything are clear and quizzes were easy just the final was tough
+
+--- Rating #18 ---
+Class: CHEM122
+Date: 2022-05-01 19:31:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good guy, really helpful and responsive, especially considering how large this class is. First year science courses are going to be hard regardless of the prof but he was good and exams were fair. Nice clear lectures, and recordings posted online so we didn't have to attend lectures if we felt uncomfortable. I would take another class with him
+
+--- Rating #19 ---
+Class: CHEM122
+Date: 2022-03-07 23:42:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He has ZERO respect to his students, mid was delayed for half an hour and 120 people were waiting in a crowded space during COVID, and then he scheduled a drop in office hour during his lab session to view the exam result, then he lets everyone wait outside indefinitely for an hour without any explanation, not one single person got to see him.
+
+--- Rating #20 ---
+Class: CHEM122
+Date: 2022-03-03 05:58:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Laziest prof ever. Lectures are super straightforward and he just gets to the point without any bs.

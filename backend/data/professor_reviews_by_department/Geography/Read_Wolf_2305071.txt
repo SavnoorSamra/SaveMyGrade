@@ -1,0 +1,154 @@
+Professor: Wolf Read
+Professor Legacy ID: 2305071
+Professor ID: VGVhY2hlci0yMzA1MDcx
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 3.7
+Avg Difficulty: 2
+Num Ratings: 11
+Would Take Again Percent: 72.7273
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: GEOG214
+Date: 2024-05-10 01:15:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Extremely long and boring lectures, labs were very disorganized and not very useful. Quizzes, exams and midterms were easy to do since they were all online. If you are interested in the material and not only taking this course because you have to, I recommend you find another professor to teach it.
+
+--- Rating #2 ---
+Class: GEOG214
+Date: 2023-12-20 08:45:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Labs were easy, I didn't have any Excel experience before either. The final wasn't too difficult, familiarize yourself with the lectures. The lectures are a little long, and the slide decks are very long albeit detailed. He's straightforward to talk to so if you have any doubts, clarify with him.
+
+--- Rating #3 ---
+Class: GEOG214
+Date: 2023-03-14 23:38:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Wolf was honestly great and a pretty cool guy too. There are a few recorded lectures to watch outside of class but they're not that long (1ish hr extra per week). Easy material if you study. You can't really go into a climatology class not expecting there to be any physics involved lol. Labs are incredibly easy and u have three attempts. Nice dude
+
+--- Rating #4 ---
+Class: GEO101
+Date: 2021-12-16 06:49:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Best professor
+
+--- Rating #5 ---
+Class: GEOG214
+Date: 2020-12-31 08:22:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Wolf struggled with the transition to online, but seems to be a decent prof otherwise. Lectures in a weird order (each had numbers but weren't taught in order). At end of the term assigned lots of lectures to watch outside of class because he ran out of time. The labs/tests were easy, but the class was pretty time consuming due to disorganization.
+
+--- Rating #6 ---
+Class: GEOG214
+Date: 2020-06-25 20:12:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+He is a very nice person, and very chill to talk to. The assignments aren't hard and he isn't a hard marker. But his lecture is usually long and makes you wanna fall asleep.
+
+--- Rating #7 ---
+Class: GEOG214
+Date: 2020-01-27 17:16:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Wolf is actually a good prof. He is really passionate about the material. Midterm and finals are doable and fair. Labs are easy since he gave us the template. Lecture is boring but very informative. The TA (nesha) is super nice too. Maybe he changed the syllabus for 214 which made it much easier (based on previous review bout him).
+
+--- Rating #8 ---
+Class: GEOG214
+Date: 2019-03-25 17:17:25 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Probably not the best lecturer I've ever had. He seems passionate about his work but has a monotone voice which made the classes boring. The labs were more interesting as very Excel heavy (all reports are done using excel). His tests were fair but recommend that you actually study. There is a textbook but relied more on the lecture slides.
+
+--- Rating #9 ---
+Class: GEOG214
+Date: 2017-12-18 17:24:18 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Tests are easy, study the night before and you're good. Takes forever to mark things. Puts an unnecessary amount of effort into the class, which I appreciate. The labs are absolutely brutal. The first one took me 8 hours to complete. It's not hard, but the lab instructions were unclear and didn't make sense, and he just gave it to you to figure out
+
+--- Rating #10 ---
+Class: GEOG214
+Date: 2017-12-14 23:01:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Midterm is easy. Only takes me 20 min to finish a 2-hour midterm.
+
+--- Rating #11 ---
+Class: GEOG214
+Date: 2017-12-01 13:19:18 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Wolf is passionate and knowledgable. His lectures are detailed and informative, and will answer questions clearly. However, he doesn't know how to use powerpoint transitions which causes his lectures to have 150+ slides. Labs are worth 5% each, but you can spend hours doing them because he won't get to the point on what you're supposed to do.

@@ -1,0 +1,65 @@
+Professor: Xin Li
+Professor Legacy ID: 2263164
+Professor ID: VGVhY2hlci0yMjYzMTY0
+Department (CSV): Accounting
+Department (Fetched): Accounting
+Avg Rating: 1
+Avg Difficulty: 4
+Num Ratings: 4
+Would Take Again Percent: 0
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: BUS322
+Date: 2022-04-27 06:02:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is awful and should not be teaching at a Post secondary level
+She is difficult to understand due to her strong accent. When asked a question, she never knows the answers.
+Avoid her if possible. You are better off reading your text book that attending her classes as she just reads her slides that gets forn the text book.  You will be on your own
+
+--- Rating #2 ---
+Class: BUS321
+Date: 2019-11-06 21:39:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Read directly from Slides
+
+--- Rating #3 ---
+Class: BUS322
+Date: 2017-06-24 21:22:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+the worst prof  i have ever had in sfu. she reads the slides, without adding any extra explanation. regret for the whole semester because i need to study all the materials by myself. and she is never available in her office hour.
+
+--- Rating #4 ---
+Class: BUS322
+Date: 2017-05-26 18:49:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She read slides, nothing else. Her accent is really heavy, and she could not answer questions properly because her English is terrible.

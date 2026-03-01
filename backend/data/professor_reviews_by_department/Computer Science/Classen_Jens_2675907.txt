@@ -1,0 +1,63 @@
+Professor: Jens Classen
+Professor Legacy ID: 2675907
+Professor ID: VGVhY2hlci0yNjc1OTA3
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3
+Avg Difficulty: 4
+Num Ratings: 4
+Would Take Again Percent: 25
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: CMPT310
+Date: 2021-07-08 06:36:04 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Lectures are dry, but he knows his stuff. To be honest, I didn't like the content, it was very symbolic and theoretical (I think that's where he specializes in). The first 2 assignments were interesting, got to apply algo's learned in class. The second half of the sem was very theoretical, didn't enjoy it as much. Lots of extensions. Exams tough.
+
+--- Rating #2 ---
+Class: CMPT310
+Date: 2021-05-12 20:43:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jen's class got more difficult near the end of the course but he did a great job on making the midterm and final related to course material. Most of the questions were things we did on the assignments. He is also easy to contact and quick to answer questions and puts in a lot of effort to helping students. Gave lots of assignment extensions.
+
+--- Rating #3 ---
+Class: CMPT310
+Date: 2021-05-02 01:18:35 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+His assignments were average but EXAMS will drop your grade so bad! It was hard to understand his lectures as well.
+
+--- Rating #4 ---
+Class: CMPT310
+Date: 2021-04-27 18:50:30 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Lecture notes very terse with awkward handwriting. Lacking structure in materials taught and over-expands on too many topics. However, he does present the logic of things quite clearly.

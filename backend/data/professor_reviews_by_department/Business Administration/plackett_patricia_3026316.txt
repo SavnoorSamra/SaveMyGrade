@@ -1,0 +1,24 @@
+Professor: patricia  plackett
+Professor Legacy ID: 3026316
+Professor ID: VGVhY2hlci0zMDI2MzE2
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 1
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BUS-753
+Date: 2024-08-19 19:58:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Terrible professor who doesn't understand letter grading and how it affects students' academic standing. She will lower your grade to meet the curve.

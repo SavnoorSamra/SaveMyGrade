@@ -1,0 +1,37 @@
+Professor: Dylan Chandler
+Professor Legacy ID: 2777737
+Professor ID: VGVhY2hlci0yNzc3NzM3
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 2.5
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: cmns253w
+Date: 2025-04-22 18:14:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The amount of work is expected for this course. Amazing TAs. He's pretty average professor, if you do your work then you can get through this class easily. Not much to be said here.
+
+--- Rating #2 ---
+Class: cmns253w
+Date: 2024-11-24 01:17:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Worst Prof at SFU. Can't even believe they let this guy teach. It's totally impossible to understand him and his TA ended up teaching the whole course by himself.

@@ -1,0 +1,24 @@
+Professor: Chen Shih-Shan
+Professor Legacy ID: 2328340
+Professor ID: VGVhY2hlci0yMzI4MzQw
+Department (CSV): Gender Studies
+Department (Fetched): Gender Studies
+Avg Rating: 1
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: GSWS101
+Date: 2018-07-03 18:23:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This was by far the worst class ever. The final was a complete joke... had to memorize 50 definitions and only 5 popped up on the exam. Had to prepare 14 essay outlines and only 2 popped up on exam. HATED THIS CLASS. Assignments were ok the one on drag queens was challenging.

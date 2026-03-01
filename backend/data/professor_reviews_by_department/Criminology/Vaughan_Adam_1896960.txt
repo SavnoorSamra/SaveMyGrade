@@ -1,0 +1,63 @@
+Professor: Adam Vaughan
+Professor Legacy ID: 1896960
+Professor ID: VGVhY2hlci0xODk2OTYw
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 5
+Avg Difficulty: 2.3
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: CRIM251
+Date: 2014-07-30 18:10:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Adam is definitely tough. The material itself is VERY straightforward, but his exams were TRICKY. Overall Adam was really chill, easy going, and helpful. Brought in guest speakers from VPD and RCMP that held recruiting sessions which was cool if you're looking to work/volunteer in policing. Group work in lectures was fun and made class more excitin
+
+--- Rating #2 ---
+Class: CRIM131
+Date: 2014-05-07 19:40:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: N
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great prof!! Funny, approachable, and down to earth. Made a 3-hour Monday night lecture informative and enjoyable.
+
+--- Rating #3 ---
+Class: CRIM220
+Date: 2014-05-07 19:39:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Awesome prof, funny and just an overall great teacher, would take another class with him if given the chance.
+
+--- Rating #4 ---
+Class: CRIM220
+Date: 2014-05-07 19:38:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+One of the best prof's I've ever had, fair marker and very clear in his teachings.

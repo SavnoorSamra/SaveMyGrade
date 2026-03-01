@@ -1,0 +1,273 @@
+Professor: Tianzheng Wang
+Professor Legacy ID: 2449196
+Professor ID: VGVhY2hlci0yNDQ5MTk2
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.3
+Avg Difficulty: 4.5
+Num Ratings: 58
+Would Take Again Percent: 32.7586
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT300
+Date: 2025-08-15 02:58:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great professor, his biggest issue is yapping, but he's a good professor, people who gave bad reviews should switch majors because the quizzes were reasonable and the assignments were moderate, it doesn't get easier from here on out.
+
+--- Rating #2 ---
+Class: CMPT454
+Date: 2025-04-30 03:45:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+5 tough, assignment that build on top of each other (don't mess up the first few) + final exam. Vague feedback, hard to debug old assignments, but instructor/TAs are very responsive. The instructor genuinely cares, but has high expectations for students. VERY coding heavy, prerequisites don't do it justice. Don't take with other heavy classes.
+
+--- Rating #3 ---
+Class: CMPT300
+Date: 2024-08-17 23:03:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He was very fair and a decent prof for CMPT 300. No final exam, only two quizzes, 2nd quiz was not cumulative and covered material past the first quiz only. Majority of grade came from the 4 assignments we had to do, which were pretty doable. I believe 454 is his passion class hence the higher difficulty, but would take again for a class like 300
+
+--- Rating #4 ---
+Class: CMPT300
+Date: 2024-08-11 20:50:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Great prof. 4 assignments + 2 MT for the grading, no finals which is awesome. Very knowledgeable and slides are detailed and easy to comprehend. Only issue was that the class was way too early in the morning, but that's more of a scheduling issue. Would take a course with Tianzheng again!
+
+--- Rating #5 ---
+Class: CMPT300
+Date: 2024-08-02 17:24:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Honestly one of the best lecturers I have encountered in my degree so far. Dr. Wang was engaging, open to questions and very approachable. He made a notoriously hard course a breeze. Even though CMPT 300 will no longer be offered I would recommended taking any course with him as a professor.
+
+--- Rating #6 ---
+Class: CMPT454
+Date: 2023-10-14 03:53:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I wish that we had homework or quizzes so that we can check how well we absorbed the materials before exams. The professor and TA really save their time by making no homework/quizzes/feedbacks, but it causes confusion for us students. It's reaally an awful learning experience for me.
+
+--- Rating #7 ---
+Class: CMPT454
+Date: 2023-09-15 03:31:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Seems to me that the course has too many aims to achieve: both introductory ones and advanced ones. It's like one course trying to achieve two courses' goals. The professor just crams everything into the course without adjusting the workloads according to the limited time and students' levels.
+
+--- Rating #8 ---
+Class: CMPT454
+Date: 2023-08-28 22:26:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He set high standards for students, but he didn't seem to spend enough time or make enough efforts to guarantee good logistics or fair grading. It left me the impression that our work was graded arbitrarily, in a hasty manner, and by few things.
+
+--- Rating #9 ---
+Class: CMPT454
+Date: 2023-08-24 01:27:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+While the professor said that he "really" wants to give us marks, the truth is rather the opposite. Minor mistakes in the projects, each can lead to deduction of 2-3 points in the final grade. So, if you have several minor mistakes, you might receive much lower-than-expected grade (for example, A- becomes B+ or B).
+
+--- Rating #10 ---
+Class: CMPT454
+Date: 2023-07-09 00:27:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Some professors hold high expectations for students. However, they usually show a clear path of how to be successful in their courses by giving clear instructions. Wang's problem is not tough grading, but not giving useful instructions. You'll be surprised by the reasons why the marks are deducted.
+
+--- Rating #11 ---
+Class: CMPT454
+Date: 2023-07-08 00:21:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Prof Wang is a tough grader. In fact, I haven't met any other professor at SFU who is so harsh in grading.
+
+--- Rating #12 ---
+Class: CMPT454
+Date: 2023-07-06 03:17:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+For knowledge: he didn't explain things well, and he skipped key concepts. Online resources can offer better learning experience.
+
+For grade: Wang is an especially harsh grader to be avoided.
+
+--- Rating #13 ---
+Class: CMPT454
+Date: 2023-07-04 00:59:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The course was not extremely bad, but the logistics was toxic. He changed his mind/policy many times without formal announcements, and certain policies were made just before the final deadline. I am not a fan of such lazy and disorganized manner.
+
+--- Rating #14 ---
+Class: CMPT454
+Date: 2023-07-02 00:39:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Wang never give us clear and up-front instructions so that we have a guideline of what's expected. The feedbacks are released too late. Without an idea of what are his actual requirements, you'll find his grading arbitrary. Seems that he graded at the last minute, and it's graded by few things.
+
+--- Rating #15 ---
+Class: CMPT454
+Date: 2023-06-29 00:31:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Learning from a demanding, irresponsible, and unpredictable professor can be frustrating. If you really can't avoid him, you still can try to get the best scores from all other courses, and that will demonstrate to the world that you did excellent work, and the poor grading is his problem.
+
+--- Rating #16 ---
+Class: CMPT454
+Date: 2023-06-26 23:54:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+On average, you are expected to get B- or C+ from him, while other CS professors would give you an average of A-. It's not just some students are falling behind, it impacts everybody. The exceedingly low average grade clearly indicates that he can't teach well and he's just not responsible enough for teaching matters.
+
+--- Rating #17 ---
+Class: CMPT454
+Date: 2023-05-12 20:58:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Some project topics require us to use high performance computers for experiments. No one tell you this, but you lose marks if you don't do it. I don't think it's fair that we got lower marks because of having no access to a good computer. I'm not satisfied that prof never make instructions clear and fair.
+
+--- Rating #18 ---
+Class: CMPT454
+Date: 2023-05-09 19:23:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Surprised by the number of negative reviews. There is a lot of content covered but the lectures, projects and instructions are well organized and fair. Project builds on top of other modules so it can be difficult to catch up if something goes wrong early. Overall I enjoyed building the toy database and learnt a lot from the course.
+
+--- Rating #19 ---
+Class: CMPT454
+Date: 2023-04-10 06:09:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Life is hard. Don't make it harder by learning with him. "Why is the score so low? What did you do?" "I worked hard but the professor is Tianzheng Wang. He's impossible."
+
+--- Rating #20 ---
+Class: CMPT454
+Date: 2023-04-10 05:58:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Horrible. Maybe he's good at research, but he definitely doesn't care about teaching and students. Avoid if you can.

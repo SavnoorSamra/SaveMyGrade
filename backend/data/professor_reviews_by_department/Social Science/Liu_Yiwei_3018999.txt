@@ -1,0 +1,24 @@
+Professor: Yiwei Liu
+Professor Legacy ID: 3018999
+Professor ID: VGVhY2hlci0zMDE4OTk5
+Department (CSV): Social Science
+Department (Fetched): Social Science
+Avg Rating: 1
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: GA302
+Date: 2024-06-10 16:44:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Many readings (most of it need to buy by yourself) Only give 1 week for you to read a 300 pages book with extra quiz which did not shown on the course syllabus (as she think we did not finish the reading)

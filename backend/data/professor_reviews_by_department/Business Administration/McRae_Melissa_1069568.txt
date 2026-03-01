@@ -1,0 +1,24 @@
+Professor: Melissa McRae
+Professor Legacy ID: 1069568
+Professor ID: VGVhY2hlci0xMDY5NTY4
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BUS381
+Date: 2011-07-25 23:51:13 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Pretty good teacher. Clear lectures and helpful slides. I had a TA for my tutorial and heard TA marks a lot easier than Melissa. So probably a better idea to try not to get to Melissa's tutorial class. Exams were pretty fair. Overall a good course.

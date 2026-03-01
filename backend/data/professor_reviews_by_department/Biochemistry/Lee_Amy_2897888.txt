@@ -1,0 +1,63 @@
+Professor: Amy Lee
+Professor Legacy ID: 2897888
+Professor ID: VGVhY2hlci0yODk3ODg4
+Department (CSV): Biochemistry
+Department (Fetched): Biochemistry
+Avg Rating: 3.5
+Avg Difficulty: 2.5
+Num Ratings: 4
+Would Take Again Percent: 50
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: mbb110
+Date: 2025-02-06 04:23:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+no...just no
+
+--- Rating #2 ---
+Class: mbb110
+Date: 2024-04-25 23:00:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+she is super nice and makes it feel like she really cares about how her students ae doing. class avg was pretty high. she gave extensions when needed. gave extra help all the time. makes an effort to learn everyone's name and feels very approachable
+
+--- Rating #3 ---
+Class: MBB328
+Date: 2023-04-25 08:10:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Lee is a good lecturer, but some of the material covered during the class felt dry or irrelevant. It was easy to tell what wouldn't be testable and yet the non-testable material seemed to always take up at least 50% of the 90 minute lectures. Exams were relatively straightforward. Dr. Lee badly needs a new TA though as the marking took FOREVER!
+
+--- Rating #4 ---
+Class: MBB328
+Date: 2023-04-19 01:56:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I had an amazing experience with Dr. Lee. All the examinable materials were on the lecture slides (no textbook) and the exams themselves were more than fair. Lectures felt like an open discussion rather than a blast of information. This class was a breath of fresh air. I highly recommend taking it with her, you will not regret it.

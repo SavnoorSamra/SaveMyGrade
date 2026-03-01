@@ -1,0 +1,63 @@
+Professor: John Pickering
+Professor Legacy ID: 2709759
+Professor ID: VGVhY2hlci0yNzA5NzU5
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 3
+Avg Difficulty: 4
+Num Ratings: 4
+Would Take Again Percent: 50
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: GEOG386
+Date: 2025-03-04 20:21:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor John is a supportive educator. He is kind, approachable, and always provides constructive feedback. I struggled with geography, but his guidance helped me improve significantly. His passion for teaching makes his classes both engaging and informative. I highly recommend him to anyone looking to deepen their understanding of geography.
+
+--- Rating #2 ---
+Class: GEOG386
+Date: 2021-09-01 18:56:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Like others say John is really kind person. He helped me so much. I had to work hard for this course but now I know how to create a really good plan to write an essay. Be ready to work but know you will be better for it!
+
+--- Rating #3 ---
+Class: GEOG386
+Date: 2021-08-13 18:44:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+This is one of the heaviest classes I've ever taken at SFU. John is a very sweet person, but I've never had any prof and T.A. expect so much work out of a student and so many assignments, I fell behind in my other classes as a result. Avoid taking this class if you can.
+
+--- Rating #4 ---
+Class: GEOG386
+Date: 2021-08-10 00:31:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+This class flat out sucked. I am sure John is a nice person but he can't teach and made this class so hard. This is a fun topic and shouldn't be made to feel like torture to learn. John was a really hard marker and wasn't considerate when students needed extensions. I would strongly recommend avoiding this class and take it with a different prof.

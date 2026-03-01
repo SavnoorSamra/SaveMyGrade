@@ -1,0 +1,271 @@
+Professor: Stephen Collis
+Professor Legacy ID: 865068
+Professor ID: VGVhY2hlci04NjUwNjg=
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 4.1
+Avg Difficulty: 2.6
+Num Ratings: 80
+Would Take Again Percent: 85
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENGL418W
+Date: 2025-05-20 09:24:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Fantastic prof, super nice guy and really interesting lectures. he facilitated great discussions and made sure everyone felt comfortable sharing. Sometimes class got a bit off topic but not his fault. Really helpful feedback and just overall great guy. Definitely recommend.
+
+--- Rating #2 ---
+Class: ENGL372
+Date: 2024-11-06 20:16:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Definitely one of my favorite profs. Prof Collis is very dedicated and passionate. Classes are fun and assignments are graded fairly. He builds students up and offers great constructive comments on assignments.
+
+--- Rating #3 ---
+Class: ENGL374
+Date: 2024-10-03 07:45:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the greatest instructors I have ever had. Prof Collis is absolutely fantastic and explains ideas in such clear ways. He encourages student perspectives and listens attentively. He genuinely cares so much about his students and wants everyone to succeed. Fair marker, great feedback. Just a 10/10, wonderful prof.
+
+--- Rating #4 ---
+Class: ENGL474
+Date: 2024-04-19 14:48:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's a fun professor to have and is extremely understanding; wants his students to succeed. Lots of reading - this is a class on long poems so we often would have an entire (or half) book to read for class. Lectures were chill and discussion-based.
+
+--- Rating #5 ---
+Class: ENGL202
+Date: 2023-04-20 23:53:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Bloated, unsubstantial lectures. His class was a huge waste of my time, money and energy! It didn't seem like he put much work into having material to teach, but hey all the poets were his friends so why not just get them on Zoom instead of working? In nearly every lecture there were maybe 5-10 minutes of material. So disappointed and angry!
+
+--- Rating #6 ---
+Class: ENGL202
+Date: 2023-03-18 00:17:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+dr collins is a fantastic lecturer. i had a TA so i am not sure how he grades but he is really understanding, since he moved the deadlines back for several of our assignments. very nice guy, great lectures, cool class overall
+
+--- Rating #7 ---
+Class: ENG100
+Date: 2021-04-30 20:34:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Had Eng 112. It was pretty good. The class average was a B. Not hard at all to get the A if you start your assignments ahead of time.
+
+--- Rating #8 ---
+Class: ENGL112W
+Date: 2021-04-28 20:00:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+Real talk Collis is a great prof and very kind overall, however the TA'S make or break your grade in this class. The assignments and papers aren't completely easy but also not too difficult as long as you put time and effort into them. Also, don't worry if you aren't a good writer, this class will help you.
+
+--- Rating #9 ---
+Class: ENGL112
+Date: 2021-04-26 05:54:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Collis is an amazing prof! I've never considered myself to be strong with writing, going back to high school, yet I managed to get a good grade in this course. He is helpful with responding to our concerns in understanding the poems read in class, and gives fun lectures.
+
+--- Rating #10 ---
+Class: ENGL112
+Date: 2021-03-27 07:46:50 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+The marking criteria is not clear. Whatever the professor and TA's say to do for the assignments are contradicted in their marking and feedback. They mark very hard, and you are constantly trying to impress them and read their mind. We don't learn anything, and have to figure out the poems by ourselves and whatever we interpret is always wrong.
+
+--- Rating #11 ---
+Class: ENGL112
+Date: 2021-03-04 23:27:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Collis is a real gem! I was a bit iffy about which english class/prof to go with, but he is very caring towards all students. Marking is fair and I've gained a real appreciation for poetry.
+
+--- Rating #12 ---
+Class: ENG112
+Date: 2020-02-04 05:57:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+So disappointed... I saw so many good reviews of Stephen on this site, but it looks like this semester he decided to approach the course differently. The course is so politically heavy that if I dropped in for one lecture, the last thing I would think of it to be is an English course. As a result, tutorial discussions are extremely dry :(
+
+--- Rating #13 ---
+Class: FASS101
+Date: 2019-06-26 06:36:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A fantastic professor and a fantastic person too! Although some of my peers weren't very interested in the course itself, I can guarantee that they all had a very positive experience with Steve. His passion and approachability are what make him a great prof and I'd recommend taking a course with him any day!
+
+--- Rating #14 ---
+Class: ENGL347
+Date: 2019-06-22 06:47:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Stephan is such a knowledgable prof &amp; caring person. He is super clear with his expectation and is very open to discussions. I wouldn't miss class because it's enjoyable and you learn a lot about the world/life through the readings he chooses. Super interesting. He's passionate, approachable, and provides tons of feedback. Visit his office hours.
+
+--- Rating #15 ---
+Class: ENGL347
+Date: 2019-04-11 06:23:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I have taken one course with Professor Collis and I am upset that it was so late into my university career. He made me love attending class. Very fun man but also has a great knowledge of what he teaches. Makes you want to participate in class. Very thankful to have taken a course with him
+
+--- Rating #16 ---
+Class: ENG112
+Date: 2018-04-18 15:39:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Super passionate about the course content which made lectures engaging, and really helped us understand complicated stories/poems. Just 2 essays a final, and a tutorial where you have to participate. Keep up with the readings and listen in lecture and you'll be fine
+
+--- Rating #17 ---
+Class: ENGL111
+Date: 2017-04-11 22:52:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This guy is amazing. Great lectures, passion, and purpose in the lecture - he's also a great human being. Favourite english course so far. There are books to read, and course is based on them, but they are interesting and well related to the lectures.
+
+--- Rating #18 ---
+Class: ENGL472
+Date: 2017-02-08 19:41:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Don't take his class if you just want to passively listen to a lecture. If your into writing and want to explore what that means than take his class. He'll give you decent feedback and give you a space to explore your own uniques writing style rather than give negate your creative experience. Yes you might have to think a little!
+
+--- Rating #19 ---
+Class: ENGL349
+Date: 2016-12-08 04:08:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Stephen Collis is the poet of my dreams. He's hilarious, handsome, kind, and passionate about poetry, especially concerning women writers. His passions really do present themselves in his lectures. You'll find that the readings are actually fun to read and discuss. I never skipped a class!
+
+--- Rating #20 ---
+Class: ENG349
+Date: 2016-11-24 19:42:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I loved Stephen! the course i took was 4 hours once a week which was a bit hard to sit through. Stephen himself is amazing though, he is a great lecturer and a very interesting guy. I wasn't crazy about the readings as it was all poetry. He is a pretty fair marker.

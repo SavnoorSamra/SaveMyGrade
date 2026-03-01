@@ -1,0 +1,271 @@
+Professor: Greg Dow
+Professor Legacy ID: 228758
+Professor ID: VGVhY2hlci0yMjg3NTg=
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 4.4
+Avg Difficulty: 3
+Num Ratings: 24
+Would Take Again Percent: 62.5
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ECON354
+Date: 2022-03-21 09:07:26 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Do not take his lecture if you hate reading
+
+--- Rating #2 ---
+Class: ECON354
+Date: 2022-02-01 09:36:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Greg is absolutely the best ECON prof, but tons of readings to do and questions on the midterms are so broad that I cannot compose well. Nice prof but heavy wrok.
+
+--- Rating #3 ---
+Class: ECON354
+Date: 2022-01-18 19:49:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Couse is heavily based on readings, four books per semester, 200 pages each week, kinda ruins all my leisure time.
+
+--- Rating #4 ---
+Class: ECON354
+Date: 2022-01-18 19:47:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He is a good prof but you gotta read 100+ tough readings PER WEEK
+
+--- Rating #5 ---
+Class: ECON426
+Date: 2021-11-01 23:52:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Greg is really kind. He doesnt want you to fail and he is not a tough grader. He makes his expectations clear and you don't need to do much more than that. Sometimes the grading is ambiguous because you don't know what he wants but if you ask he will help. Excellent guy
+
+--- Rating #6 ---
+Class: ECON354
+Date: 2021-07-06 19:30:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Professor Dow is truly one of the best profs I have ever had. He makes everything very understandable and clear. You know exactly what to expect on exams, and his lectures prepare you well for them. He is very kind and relaxed, and creates a very friendly learning environment for all students. Highly recommend taking a course with him if you can
+
+--- Rating #7 ---
+Class: ECON354
+Date: 2021-05-12 10:35:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Best Econ prof in SFU! Hes lecture notes are so functional and logical. It is definitely worth while to take his class, you can learn the real things! Unfortunately gonna graduated before in person class, otherwise really hope to take his in person lecture if theres any chance!
+
+--- Rating #8 ---
+Class: ECON802
+Date: 2020-01-16 06:36:04 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+No homework, no assignments, just easy lectures and hard exams. Lecture material could be very disconnected from the exams. Great lecturer, but very poor course experience as no one understood how grades were being assigned and even failed an entire class. He was very condescending to my entire class for not being able to answer certain questions.
+
+--- Rating #9 ---
+Class: ECON354
+Date: 2016-04-21 13:26:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Best Econ prof ever! Lectures are really interesting . Greg is really kind and knowledgeable... Definitely take other courses with him.
+
+--- Rating #10 ---
+Class: 354
+Date: 2015-04-18 01:46:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Such a great teacher. Very fair, lecture is very interesting.
+
+--- Rating #11 ---
+Class: ECON354
+Date: 2014-04-24 01:30:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+make sure u take notes in his class. but easy midterm and final if u pay attention in the lecture
+
+--- Rating #12 ---
+Class: ECON426
+Date: 2014-04-24 01:27:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+AWESOME prof. definitely take his class.
+
+--- Rating #13 ---
+Class: ECON354
+Date: 2013-04-29 20:44:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Simply the best economic professor at SFU.
+
+--- Rating #14 ---
+Class: ECON354
+Date: 2013-04-12 23:59:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He is the greatest professor that I have ever hard,Econ354 is not a very hard course even though it is a higher level Econ course. He is great at explaining materials. Make sure you take detailed notes in class, that will help you a lot in the exam! Fantastic course and fantastic professor!!!
+
+--- Rating #15 ---
+Class: ECON354
+Date: 2012-01-14 01:13:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Best Econ prof at SFU, period.
+
+--- Rating #16 ---
+Class: ECON354
+Date: 2011-04-26 04:33:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Easy, interesting class. Keep up with the readings (the key points and the examples) and his notes and you should be able to pull off a good grade. I ended up with a B, but could have done even better had I put in some effort.
+
+--- Rating #17 ---
+Class: ECON452
+Date: 2010-04-09 14:56:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great prof, one of the best for economics at sfu! Very clear and helpful. A lot of readings, but he clarifies everything for you! A+
+
+--- Rating #18 ---
+Class: ECON911
+Date: 2010-03-24 19:13:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He is awesome!!!!
+
+--- Rating #19 ---
+Class: ECON452
+Date: 2009-12-30 17:02:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great Prof, lots of readings and in class note taking, but very clear, and explains concepts and ideas really well. Great prof!!!!
+
+--- Rating #20 ---
+Class: ECON452
+Date: 2009-12-23 04:08:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+One of the nicest and friendliest Econ prof. He explains concepts well but however you have to take your own notes. Lots of readings but it will be no problem in exams if you do read.

@@ -1,0 +1,24 @@
+Professor: Briggs Buchanan
+Professor Legacy ID: 1546949
+Professor ID: VGVhY2hlci0xNTQ2OTQ5
+Department (CSV): Archaeology
+Department (Fetched): Archaeology
+Avg Rating: 1.5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: ARCH376
+Date: 2011-03-07 20:54:59 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Briggs is a really nice guy and loves what he does, but he can not communicate the information very well, and often makes leaps and bounds of logic and simply assume that we're all following what he's talking about. It's his first term teaching and he has a lot to learn. I would NOT recommend him. Take the class with someone else if you can.

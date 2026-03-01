@@ -1,0 +1,37 @@
+Professor: Larry Davids
+Professor Legacy ID: 1444570
+Professor ID: VGVhY2hlci0xNDQ0NTcw
+Department (CSV): Art Education
+Department (Fetched): Art Education
+Avg Rating: 3
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: FPA147
+Date: 2011-03-21 02:04:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+(Online course). Barely regards questions when asking them, provides poor grades with very little feedback (all of which is not constructive), and has a slow response time for online questions. Very frustrating.
+
+--- Rating #2 ---
+Class: FPA289
+Date: 2010-06-25 13:12:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+super nice.extremely helpful and interesting. Make sure you get all his hot tips. highly recommend take all the music classes with him! The best prof I've ever had in SFU. =)

@@ -1,0 +1,63 @@
+Professor: May Siksik
+Professor Legacy ID: 2211184
+Professor ID: VGVhY2hlci0yMjExMTg0
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 1.8
+Avg Difficulty: 4.8
+Num Ratings: 4
+Would Take Again Percent: 25
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: ENSC351
+Date: 2017-12-25 23:57:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The final was unreasonable, but she is a good teacher
+
+--- Rating #2 ---
+Class: ENSC351
+Date: 2017-01-03 22:42:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I put tough grader, but I actually meant unfair grading. Tough would be better since there's a STANDARD that is being used. She marked lenient for midterm and strict for final, creating confusion on what she is looking for from the students. Ironic, since in class we went over expectations of clients and developer. And prepare to google a looott...
+
+--- Rating #3 ---
+Class: ENSCI351
+Date: 2016-12-19 19:35:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+No! Leave if you want to learn something don't take this class with her
+
+--- Rating #4 ---
+Class: ENSC351
+Date: 2016-12-19 19:27:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+What a horrible professor average was good on midterm so she completely destroyed us on the final and ditched us for vacation right after! Terrible prof overall anyways with bad teaching skills (all verbal)

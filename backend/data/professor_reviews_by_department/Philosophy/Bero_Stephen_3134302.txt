@@ -1,0 +1,11 @@
+Professor: Stephen  Bero
+Professor Legacy ID: 3134302
+Professor ID: VGVhY2hlci0zMTM0MzAy
+Department (CSV): Philosophy
+Department (Fetched): Philosophy
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

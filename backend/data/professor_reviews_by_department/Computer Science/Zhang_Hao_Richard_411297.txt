@@ -1,0 +1,271 @@
+Professor: Hao "Richard" Zhang
+Professor Legacy ID: 411297
+Professor ID: VGVhY2hlci00MTEyOTc=
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.6
+Avg Difficulty: 3.8
+Num Ratings: 37
+Would Take Again Percent: 57.1429
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT764
+Date: 2021-03-20 06:14:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+It is not about how difficult the course is. The lecture/notes are totally different from what you get for assignments. Simply saying, Professor is a fantastic researcher from what I can tell. But for teaching, please stay away from him unless you have to take the course for graduation.
+
+--- Rating #2 ---
+Class: CMPT361
+Date: 2020-12-06 09:14:28 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+For some reason dude starts to tell us lecture attendance rate is so low and starts to correlate our grade against if we attend live lectures/ask questions or not. Absolutely no idea why he's telling us this. But to be honest I don't find his lectures engaging. Nice person though, but kind of stubborn.
+
+--- Rating #3 ---
+Class: CMPT764
+Date: 2020-07-15 22:41:01 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+The course covers interesting topics and is a good introduction to Gemoetric modelling, and Prof. Zhang is knowledgable on the topics. However, most of the lectuers are spent showing his own research and not on the main concepts. The assignment and projects require a considerable amount of effort, but they will solidify what you learnt in class.
+
+--- Rating #4 ---
+Class: CMPT361
+Date: 2018-04-25 01:16:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The course itself is really hard if you are suck at linear algebra. If you do NOT have any problem with it, I would say it depends how much effort you want to put. Richard explains concept and theorem extremely clear, however for coding part especially OpenGL you have to do some research on your own. You will like this guy and this course.
+
+--- Rating #5 ---
+Class: CMPT361
+Date: 2018-04-24 20:35:41 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Class is all theory and homework is half theory and half programming. Highly recommend you to review C++ and learn OpenGl 3.x as the homework is quite challenging and not much coding is taught in class. Exams are reasonable and straight forward.
+
+--- Rating #6 ---
+Class: CMPT361
+Date: 2018-04-20 08:06:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Interesting lectures. Programming assignments were relevant and extremely fun. Plenty of room for creativity. Had to learn OpenGL outside of class, but the docs have improved a lot in recent years so this is not so much of an issue.
+
+--- Rating #7 ---
+Class: CMPT764
+Date: 2018-01-02 16:57:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+learn opengl and opencv first
+
+--- Rating #8 ---
+Class: CMPT464
+Date: 2015-12-05 15:21:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Lectures are not organized well. It seems that the prof himeself cannot explain concepts well and assignments are a bit too tough. Anyways, I didn't find the course useful. Who cares programming with old version OpenGL...
+
+--- Rating #9 ---
+Class: CMPT361
+Date: 2015-05-15 05:34:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Lectures are all based off slides and pretty useless. But he is very intelligent and passionate at what he does.  You will need to spend lots of time coding and learning OpenGL independently.  If you are a hard worker and are able to learn things independently, you will do well.
+
+--- Rating #10 ---
+Class: CMPT764
+Date: 2015-05-10 00:00:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Tough course. But it will worth the effort 'cause you learn a lot from it.
+
+--- Rating #11 ---
+Class: CMPT464
+Date: 2014-09-05 12:01:10 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+His teaching ability sucks. His lecture is like a show off of his research works which will not appear in the exam and assignments. He cannot explain important concept well and lacks the ability of time management. The only Merit is his generousness in grading.
+
+--- Rating #12 ---
+Class: CMPT361
+Date: 2014-04-27 14:53:24 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+The prof lacks the interest in teaching for the course. Always uses the same assignments.So,all the class has solns for the assignments.   Really super stupid midterm and final(totally irrelevant), feels like a high school class.  This prof really lack the skill to communicate!! Avoid this course at all cost, as you end up learning nothing!!!!
+
+--- Rating #13 ---
+Class: CMPT361
+Date: 2012-08-12 03:45:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Lecture attendence range in the 30%: The correlation between class content and asn/exam material is quite literally non-existent. His notes are unusable ramblings of obscure technical terms he expects you to memorize and regurgitate. People who do attend lectures stare wide-eyed as he teaches the "obvious" and puzzles as to why nobody is there.
+
+--- Rating #14 ---
+Class: CMPT361
+Date: 2012-08-12 03:07:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Richard lacks an ability to notice when people don't understand. He will throw vocabulary terms at you with minimal explanation of what is happening, and leave any ambiguities in algorithms or solutions as "an exercise". Not a math course, but memorization course. You are better off self-learning, since that's all you will do in the class anyway.
+
+--- Rating #15 ---
+Class: CMPT361
+Date: 2012-08-10 02:56:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Toughest class I have ever taken in my life. Lectures are all math and concepts, while assignments are all programming OpenGL/C++. Since he does not teach programming, you are on your own. Good luck googling OpenGL. All the resources are out of date and scattered throughout the web.
+
+--- Rating #16 ---
+Class: CMPT466
+Date: 2010-02-11 20:00:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very interesting course. Get an early start on the term project so that you can get feedback that you can implement. Prof is very open to concerns and questions. You have to think for the homework and midterm, just be precise with your answers.
+
+--- Rating #17 ---
+Class: CMPT461
+Date: 2007-10-31 13:03:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+This is probably one of the best professor I ever had. It's true that his assignments are huge :P But still, if you are interested in the topic you can learn a lot from his classes. Also the midterms/finals are almost impossible to finish in the assigned time and contain elements not presented in class, but, hey!, he normalizes marks so who cares!
+
+--- Rating #18 ---
+Class: CMPT361
+Date: 2005-04-24 20:34:04 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Richard would be better off teaching retarded kids the alphabet. He's a really nice guy so it pains me to say this. Explanations amount to him explaining easy concepts in detail while glossing over key ones. You'll have no high-level understanding and  you'll forget EVERYTHING within minutes
+
+--- Rating #19 ---
+Class: CMPT361
+Date: 2005-04-12 21:08:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I just hope he could be more helpful so that we can learn this course better. For example, when you don't even know where the &quot;box&quot; is, he wants you to jump out of the &quot;box&quot;. So, I have to find the &quot;box&quot; first and try to get rid of the &quot;box&quot;. You could imagine what I got finally.....
+
+--- Rating #20 ---
+Class: CMPT361
+Date: 2005-03-23 23:59:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Nice guy and knows his stuff inside and out. He's an immigrant from china(&#63;), but knows his english fairly well... yet still couldn't teach his way out of a paper bag.

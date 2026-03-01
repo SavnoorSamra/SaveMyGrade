@@ -1,0 +1,63 @@
+Professor: Kseniya Garaschuk
+Professor Legacy ID: 1168060
+Professor ID: VGVhY2hlci0xMTY4MDYw
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4.8
+Avg Difficulty: 2.8
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: MATH100
+Date: 2016-04-26 03:50:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+BEST PROF EVER! JUST TAKE HER CLASS, YOU WON'T REGRET IT!!!
+
+--- Rating #2 ---
+Class: FANX99
+Date: 2008-11-25 19:48:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She was a great prof. She was always really helpful and was able to make class fun.
+
+--- Rating #3 ---
+Class: MATH100
+Date: 2008-08-21 18:46:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+the review is extremly helpful and try to attend to the class as much as youu can even she wouldn't mark the attendancy. her finanl is a bit hard but you would be fine if you do the assignment and listen to the class.
+
+--- Rating #4 ---
+Class: MATH100
+Date: 2008-08-20 18:27:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Excellent instructor, very clear and helpful. Her classes were easy to follow and she gave great lecture notes. And she's really friendly and approachable. I would take her class again.

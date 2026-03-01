@@ -1,0 +1,274 @@
+Professor: Shahram Payandeh
+Professor Legacy ID: 59579
+Professor ID: VGVhY2hlci01OTU3OQ==
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 2.6
+Avg Difficulty: 2.9
+Num Ratings: 31
+Would Take Again Percent: 47.0588
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENSC470
+Date: 2025-11-24 17:26:04 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Sharam's a good guy but the lectures are only a  little useful but the course is grade 12 physics. Stuff gets repeated often to a point where you question yourself if you have dementia. Exams were suspiciously easy & finished in 30 mins MT1 and 1 hour for finals. Hardest part of the course is having 2 disabled teammates for the project (0 work).
+
+--- Rating #2 ---
+Class: ENSC4XX
+Date: 2025-08-12 17:08:46 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+482. I personally hated the group projects because of my no-hands, smooth brain teammates. Sharam's a caring prof  but his lecture notes are not that good considering this is a 400-level course. Would never take this again but that's just me though..
+
+--- Rating #3 ---
+Class: ENSC386
+Date: 2025-05-23 17:02:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+kinda gei ngl
+
+--- Rating #4 ---
+Class: ENSC386
+Date: 2025-05-12 04:50:49 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+whatever i passed the course is meh
+
+--- Rating #5 ---
+Class: ENSC386
+Date: 2025-05-10 05:00:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+TA marking is borderline unfair like I got taken off 15 marks for a wrong answer. MT was hard but if you do the steps you get part marks and also thats becuase I wasnt really paying attention in class and had other classes in mind but locked in for the finals and did better than I thought (curved or scaled?). Know the softwares and projects are ez
+
+--- Rating #6 ---
+Class: ENSC386
+Date: 2025-05-10 04:56:14 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Mid. Not the worst prof I've taken here at SFU compared to Kamal that piece of work.
+
+--- Rating #7 ---
+Class: ENSC386
+Date: 2025-05-10 04:52:56 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's alright. Lectures OVERLAP heavily though and sometimes I feel like I have deja vu like we just went over this before...I swear hmmmmmmmmmm............KNOW SolidWorks!!
+
+--- Rating #8 ---
+Class: ENSC386
+Date: 2025-05-05 03:49:09 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+don't really disagree with what other people said previously. Class definitely curved though because I expected a C+ / B- and havent seen the final yet if he even shows it but I dont think he does from previous years...found the concepts hard but just finally understood it the last month...projects take a long time but first one was during break so
+
+--- Rating #9 ---
+Class: ENSC386
+Date: 2025-05-05 03:42:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+- projects are time consuming
+- hw takes a lot of time to understand but once you do the rest are easy bc every topic touched upon relative vel and acc is used for the entire course. first hw was hard bc of software gap
+- i had 5 classes but good teammates load was distributed
+- past reviews about self studying and hints during class helped greatly
+
+--- Rating #10 ---
+Class: ENSC386
+Date: 2025-05-05 03:33:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Did not expect to get an A but if you genuinely put effort into understanding the lectures and assignments, you'll do well on the tests; pay attention to what he says is on the test in class and do the problems or at least look at them before you come to lectures. Familiarize with SolidWorks because that's 35% of your grade and uses class concepts.
+
+--- Rating #11 ---
+Class: ENSC386
+Date: 2025-05-04 00:22:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I came in this class expecting nothing because of negative past reviews but while some are true like overlapped lectures hes not that bad. I actually think its the course balance with other classes that students complain about this class. I had four classes although hard its possible to do well and get an A
+
+--- Rating #12 ---
+Class: ENSC386
+Date: 2025-05-01 03:48:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+majority of people find it hard because of other courses like macm, 350, 383, and so on but in reality and what sharam mentioned from the first day this is just a physics course except for learning solidworks and sam. i'd familiarize with those software using ensc pcs. class is not hard and the tests were what he mentioned in class but up a level
+
+--- Rating #13 ---
+Class: ENSC386
+Date: 2025-05-01 03:39:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Don't skip, come to class, pay attention to what he's saying, do the practice problems before looking at answers or struggle a bit and you'll do well in this class. SolidWorks isn't hard to learn, I basically learned it for the first time this semester and we did well in the projects. Midterm / final were easy, nothing new from lec / assignments.
+
+--- Rating #14 ---
+Class: ENSC386
+Date: 2024-11-24 09:48:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+A great guy who deeply cares about you doing well. A lot of students freak out when some topics are vague and complex. In my experience many of the higher level engineering courses are curved at the end so I suggest you focus on learning something new and trust that you'll be fine ;)
+
+--- Rating #15 ---
+Class: ENSC386
+Date: 2024-04-26 20:18:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's not a bad person, but his teaching is disorganized. "Lectures" are just ppt examples of questions where you're fed one answer per class or so. Self teaching goes far though, and if you grind out the group projects and do all the lecture examples independently, you'll do well. Paying attention to his hints about the exam questions is helpful.
+
+--- Rating #16 ---
+Class: ENSC488
+Date: 2018-04-14 23:24:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+As said before - nice guy. I also found the class really interesting. However his approach to teaching the class is far too disorganized - especially for an upper division engineering class. There is also a group project for which he provided few instructions until the very end - i.e. one week before due date. Would not take again.
+
+--- Rating #17 ---
+Class: ENSC488
+Date: 2018-03-25 07:16:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is nice, but he can't teach. He says that project is some percentage of your grade but will say in the end that he won't issue any grade *for the entire course* if you didn't do, let's say one assignment related to project.
+
+--- Rating #18 ---
+Class: ENSC470
+Date: 2014-12-11 02:02:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+He is not at all helpful. He is not a good professor. I would suggest you not to take his course again
+
+--- Rating #19 ---
+Class: ENSC230
+Date: 2014-04-02 17:28:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+every things are helpfully
+
+--- Rating #20 ---
+Class: ENSC488
+Date: 2013-12-19 06:15:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+ENSC 488 is much easier with shahram than Kamal. My advice is to avoid 488 if you can..shahram lecture useless...assignment are same as previous years...he gives B- to B+ to everyone, but you would not learn anything..i learnt absolutely nothing in this course.....

@@ -1,0 +1,141 @@
+Professor: Mike Volker
+Professor Legacy ID: 222990
+Professor ID: VGVhY2hlci0yMjI5OTA=
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 3.1
+Avg Difficulty: 3
+Num Ratings: 10
+Would Take Again Percent: -1
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: ENSC201
+Date: 2009-12-21 12:13:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+It's too bad he doesn't teach 201 anymore. He is definitely in my top 3 teachers ever at SFU. Such an interesting person - his classes were great.
+
+--- Rating #2 ---
+Class: ENSC201
+Date: 2008-01-07 02:40:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Don't listen to these clowns. Mike Volker is a great teacher and a great mentor.
+
+--- Rating #3 ---
+Class: ENSC201
+Date: 2006-06-19 23:28:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Full of crap. Doesn't cover most topics that assignments are based on. His notes contradict themselves and are inconsistent with assignment answers. Don't waste your time and money on his classes. F-
+
+--- Rating #4 ---
+Class: ENSC201
+Date: 2005-09-06 11:17:04 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Not so organized material, lots of it is the instructor's subjective point of view and interpretation of things. But a very informative and interesting course. Assignment q's are super vague- attend the lectures and try to guess what Mike thinks. Not a hard course to get an A+, so don't put too much effort in this course, but don't neglect it.
+
+--- Rating #5 ---
+Class: ENSC201
+Date: 2005-03-07 12:34:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+great prof!
+
+--- Rating #6 ---
+Class: ENSC201
+Date: 2003-11-29 03:04:32 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He is cool.
+
+--- Rating #7 ---
+Class: ENSC201
+Date: 2003-07-23 15:51:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+This is one of the most useless profs ever.  Expect to learn random things that you will never need again.  Oh, and he's a jerk to boot!
+
+--- Rating #8 ---
+Class: ENSC201
+Date: 2003-07-01 00:59:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He is good.
+
+--- Rating #9 ---
+Class: ENSC201
+Date: 2003-06-25 01:24:40 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Not very helpful, the course material is unfocused and unorganized. Could be a lot better, but still not that terrible.
+
+--- Rating #10 ---
+Class: ENSC201
+Date: 2003-06-18 22:32:22 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments

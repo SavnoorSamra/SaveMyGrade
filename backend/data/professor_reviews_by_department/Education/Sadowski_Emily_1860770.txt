@@ -1,0 +1,11 @@
+Professor: Emily Sadowski
+Professor Legacy ID: 1860770
+Professor ID: VGVhY2hlci0xODYwNzcw
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

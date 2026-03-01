@@ -1,0 +1,115 @@
+Professor: Anne Hales
+Professor Legacy ID: 640624
+Professor ID: VGVhY2hlci02NDA2MjQ=
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.8
+Avg Difficulty: 2.3
+Num Ratings: 8
+Would Take Again Percent: -1
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: FALX99
+Date: 2014-07-28 14:02:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She's the nicest professor I have ever had. She kind helpful and not that strict! Take your fal with her and u will definitely get a good grade as long as you do your Writing
+
+--- Rating #2 ---
+Class: FALX99
+Date: 2014-04-25 23:46:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She is very helpful, nice, clear and generous with grades. If you want to take FAL, take it with her even if the class is early in the morning.
+
+--- Rating #3 ---
+Class: FALX99
+Date: 2014-04-19 21:03:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Really helpful and nice. As long as you do all the assignments and hand them in on time, you'll get a decent mark.
+
+--- Rating #4 ---
+Class: FALX99
+Date: 2013-12-14 14:50:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Very consistent with help of all students, and helpful with everyone amazing teacher and made the class sooo much better; really admirable professor, simply genius!
+
+--- Rating #5 ---
+Class: FALX99
+Date: 2009-03-26 01:07:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Best instructor I ever had! She is very nice and helpful.  She listen to comments and she put her best interest to students! She make me want to retake the course again!
+
+--- Rating #6 ---
+Class: FALX99
+Date: 2008-01-07 17:20:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #7 ---
+Class: EDUC405
+Date: 2007-05-16 01:58:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Too smart and capable for this faculty. She should be running the place (and who forgot SUPER HOT)
+
+--- Rating #8 ---
+Class: PDP
+Date: 2005-07-11 03:02:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Anne is quite possibly the best teacher in PDP/Education.  What a shame they can't keep her, because I would do my M.Ed with her.  She is interesting, knowledgable, and models great teaching practice to her students.  The rest of the faculty should watch and learn how it's done.

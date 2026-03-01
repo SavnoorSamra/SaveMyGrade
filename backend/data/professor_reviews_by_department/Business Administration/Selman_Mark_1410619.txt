@@ -1,0 +1,63 @@
+Professor: Mark Selman
+Professor Legacy ID: 1410619
+Professor ID: VGVhY2hlci0xNDEwNjE5
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 2.4
+Avg Difficulty: 3.5
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: BUS303
+Date: 2010-07-25 15:28:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Super boring! Doesn't give clear instructions on assignments.  Topics covered in class seem irrelevant to &quot;business&quot; ethics.  Not recommended.
+
+--- Rating #2 ---
+Class: BUS303
+Date: 2010-07-23 20:40:14 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I'm sure he's a great guy in person (seems genuinely nice and he cares). But as a professor - BOOOORING!!! Honestly, he will put you to sleep (especially since it's so bloody hot in there!). 3 hrs is way too long to sit through this guy. Discussion/readings are dull too. I want to learn about current ethics cases (ie. US banks), NOT first nations.
+
+--- Rating #3 ---
+Class: BUS303
+Date: 2010-07-22 02:40:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+He's a great guy but very unclear on assignments.  You don't really know what is expected of you until you get your grades back and by then it's too late.  His pop quizzes which are just supposed to make sure you're attending class are way too difficult.  You have to read the book really carefully to be able to do well on them.
+
+--- Rating #4 ---
+Class: BUS303
+Date: 2010-07-12 19:28:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Participation required. (almost 30%) A 5-min skit worths for 20% of final grade. Extremely boring class! Do not recommend him!

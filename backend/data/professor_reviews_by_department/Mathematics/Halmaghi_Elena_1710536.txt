@@ -1,0 +1,271 @@
+Professor: Elena Halmaghi
+Professor Legacy ID: 1710536
+Professor ID: VGVhY2hlci0xNzEwNTM2
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2.9
+Avg Difficulty: 3.2
+Num Ratings: 46
+Would Take Again Percent: 51.8519
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH151
+Date: 2026-02-26 07:56:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If you get past her initial impression, she's actually great. It's just that the course in itself is pretty difficult. I can see how it may sometimes be hard to understand her, but I got past it.
+
+--- Rating #2 ---
+Class: MATH151
+Date: 2025-08-27 17:51:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Elena is amazing when it comes to grading and giving feedback. She's very knowledgeable, but sometimes her voice can make you a bit sleepy. Still, I definitely recommend her&#8212;she doesn't deserve all the bad reviews. If you study and work hard, especially using the lecture notes and her exam reviews, you'll do well and get good grades!
+
+--- Rating #3 ---
+Class: MATH151
+Date: 2024-08-28 00:34:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Please honestly reflect on how much you've actually studied. Most of the test questions are ones we've already covered in class handout. You can't expect to get good grades without doing your homework. I've seen, it seems like 70% of students want to get good grades without studying even though they have the ability to study.
+
+--- Rating #4 ---
+Class: MATH151
+Date: 2024-08-13 02:04:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+awful, awful, awful. the worst prof ive ever had. makes everything more difficult for no reason. tests are ridiculous. doesn't teach in class and relies on jamies recorded lectures. strict and unnecessary grader. unreasonable human being. DO NOT TAKE HER!!!
+
+--- Rating #5 ---
+Class: MATH151
+Date: 2023-08-30 08:35:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+A lot of self learning in this course but tests are based on textbook problems. So if you practice textbook questions you can score good.
+
+--- Rating #6 ---
+Class: MATH151
+Date: 2023-08-17 23:36:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great professor, always willing to help students, and very generous in marking.
+
+--- Rating #7 ---
+Class: MTH151
+Date: 2023-05-10 05:32:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Elena is nice! come to her with whenever questions you have and she doesn't mind explaining it over and over. however, tbh, if I hadn't taken Calc in high school, I would have never understood what is going on! She is not a really good explainer. her grading is quite clear. her homework is long but you only need to submit few of the questions.
+
+--- Rating #8 ---
+Class: MATH151
+Date: 2023-05-04 01:49:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Elena is very sweet and so are her lectures. The loads of homework you get is for you to get well prepared for the exams. If you do everything she says, you will be able to get good grades.
+
+--- Rating #9 ---
+Class: MATH151
+Date: 2023-04-22 03:09:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Useful handouts, clear instructions, concise and yet effective way of teaching. Do not miss the videos and do a maximum of homework questions. Thank you for the inspiration, Elena!
+
+--- Rating #10 ---
+Class: MATH151
+Date: 2022-07-22 00:14:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great professor. She does not really explain the stuff in class, but honestly i think it's for the best since u can speed up video lectures (plus those lectures are great). She is there to help and explain when you need her. The assignment she gives is comprehensive and she marks it all.
+
+--- Rating #11 ---
+Class: MATH151
+Date: 2022-07-07 06:43:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is the worst teacher one can have for math. Gives long assignments filled with lengthy questions, then asks tough questions on the exam and refuses to elaborate on the criteria based on which she assigns students marks. She blatantly asks us to watch videos of another prof at SFU named Jamie, even during class. Nothing is covered during class.
+
+--- Rating #12 ---
+Class: MATH151
+Date: 2022-06-23 03:00:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took Elena last semester, while she is very kind her lectures are not easy to understand, and you are expected to watch other lecture videos from other professors before the class. She will only give a small summary of the topic and let you work on homeworks or excercises.
+
+--- Rating #13 ---
+Class: MATH151
+Date: 2022-06-11 10:40:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She barely teaches anything, you must read the content that she provides or the textbook before coming to class. She will mostly answer doubts and talk about the bits of the content. Until now, classes are basically a mandatory 4-hour "office hour:"
+
+--- Rating #14 ---
+Class: MATH151
+Date: 2022-05-23 23:10:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Doesn't teach in person, expects us to watch video lectures that are NOT by her, but rather Khan Academy and other lectures. Heavy assignment workload. Avoid her by all cost
+
+--- Rating #15 ---
+Class: MATH151
+Date: 2022-01-12 23:18:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Actually I have basic knowledge of calculus so I didnt watch her videos and only read the textbook myself. However, I think she is quit nice when I joined her office hours and the homework actually is needed for your own practice. The exam questions are reasonable if you done her homework from textbook!
+
+--- Rating #16 ---
+Class: MATH151
+Date: 2022-01-06 18:28:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Work hard , listen to all lectures and more importantly do things on time . You will get an A - easily . Elena is so kind , she responds to all your doubts . But the only thing bad about Elena is she doesnt teach us , she tell us to look for DR Jamies videos for the whole semester. This is really annoying. Jamie Mullohands lecture are super.
+
+--- Rating #17 ---
+Class: MATH151
+Date: 2021-03-07 10:12:00 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+She does not explain clearly
+
+--- Rating #18 ---
+Class: MATH151
+Date: 2021-02-23 13:30:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I am currently taking asynchronous class and prof Elena is the one who is SUPPOSED to teach me but in reality, it's youtube and khan academy that's been helping me, She only put out lectures for like just 2 weeks and those were too short and with bad audio. She just posts links to youtube vids and khan academy. Please never take her async class.
+
+--- Rating #19 ---
+Class: MATH151
+Date: 2021-01-13 21:33:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Hi , Dr. Halmaghi was one of the best professor I had in my first semester. She is very kind. At first of her class , the assignments were a bit heavy but as she went further , the assignments got less. The quizzes and final exam's questions are easy if you do all the assignments carefully and absorb her lectures.
+
+--- Rating #20 ---
+Class: MATH151
+Date: 2020-08-26 15:55:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Took her online course and I really had the toughest times of my life coping up. No lecture videos, plenty of assignments, no solution to the problems. Instead, she would ask me to watch khan academy and other sources to take help from. I really don't know why would anyone even pay for her course. On the flip side tho, she's a nice human being.

@@ -1,0 +1,24 @@
+Professor: Yin Ruan
+Professor Legacy ID: 1321370
+Professor ID: VGVhY2hlci0xMzIxMzcw
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 4.5
+Avg Difficulty: 1
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: ECON301
+Date: 2009-10-06 20:01:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+excellent TA, very helpful

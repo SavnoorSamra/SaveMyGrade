@@ -1,0 +1,141 @@
+Professor: Jamal Nazari
+Professor Legacy ID: 1847525
+Professor ID: VGVhY2hlci0xODQ3NTI1
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.4
+Avg Difficulty: 3.3
+Num Ratings: 10
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: BUS420
+Date: 2025-04-15 18:07:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jamal is very clear teaching 420 and makes a "hard" class very easy by the way he explains things. If you keep up with homework and practice questions, you can definitely do well in this class.
+
+--- Rating #2 ---
+Class: BUS420
+Date: 2022-04-05 04:41:32 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He ok.
+
+--- Rating #3 ---
+Class: BUS321
+Date: 2016-12-22 03:56:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+One of the hardest accounting class in SFU. He tried his best to explain things and gave students good practices to prepare for the exams. His lecture notes are gems, included everything you need to know, However, there are so many things, so it is hard to remember all of them for the exams. He seems to be the best prof we have for BUS321 :)
+
+--- Rating #4 ---
+Class: BUS321
+Date: 2016-05-17 23:18:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+He is one of the best accounting pofs I've ever had. He is a great marker and really helpful. He always responds to my emails quickly even after two years. He is amazing.
+
+--- Rating #5 ---
+Class: BUS321
+Date: 2015-12-02 16:12:09 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If there is a way to make accounting fun, Jamal knows how to do it.  His pace was sometimes very slow and sometimes a bit too fast but that is true for most courses anyway.
+
+--- Rating #6 ---
+Class: BUS420
+Date: 2015-10-23 23:01:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jamal is the best professor I have ever had! The course is known to be difficult. However, Jamal provides clear notes and explains the concepts extremely well. He is also always available to provide extra help. Only lazy students do not do well in this course. If you do your homework and study, you will succeed. Jamal is amazing!
+
+--- Rating #7 ---
+Class: BUS321
+Date: 2015-03-06 20:49:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Best 321 professor hands down. Has great notes, basically a summary of the textbook. His exams are very fair- exactly what the HWQ and Notes are.   It's a difficult course, and he makes it manageable. I can't imagine taking this class with any other professor.
+
+--- Rating #8 ---
+Class: BUS321
+Date: 2014-05-30 03:27:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He is a great prof who can give a good understanding of fundamental principles in accounting. Really knowledgeable. Exams are pretty hard though and preparations require tons of effort.
+
+--- Rating #9 ---
+Class: BUS321
+Date: 2014-04-17 17:37:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Very good prof. Study his lecture well. Exam can be hard but the class is curved anyway. Going to class is a must to succeed. Reading textbook is unnecessary.
+
+--- Rating #10 ---
+Class: BUS321
+Date: 2014-04-13 13:57:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+hard exam both midterm and final

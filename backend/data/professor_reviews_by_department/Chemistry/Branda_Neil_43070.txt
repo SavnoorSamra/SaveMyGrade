@@ -1,0 +1,271 @@
+Professor: Neil Branda
+Professor Legacy ID: 43070
+Professor ID: VGVhY2hlci00MzA3MA==
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 4.4
+Avg Difficulty: 3
+Num Ratings: 54
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CHEM282
+Date: 2017-12-03 05:05:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+His slides lack the information needed to properly explain the material and he does not do a great job of explaining things clearly either. He lectures in a way that assumes you already know the material. A lot of people got less than 40% on the final.
+
+--- Rating #2 ---
+Class: CHEM282
+Date: 2017-10-13 17:55:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great lectures.
+
+--- Rating #3 ---
+Class: CHEM282283
+Date: 2017-06-30 15:09:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr Branda is by far the best prof I have ever had! He comes off as a little intimidating but if you show interest, he is actually very caring. No office hours so ask during class. He is a very sweet man and will help you get good grades if you are willing to work for them. 2nd MT was HARD but final was easy! Just work for it!
+
+--- Rating #4 ---
+Class: CHEM282283
+Date: 2017-04-25 17:16:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+very good lecturer. the midterms were fair but hard. the final exam was just brutal. prepare yourself for alot of headaches. I would recommend this prof to anyone taking organic chemistry.
+
+--- Rating #5 ---
+Class: CHEM282
+Date: 2017-04-25 14:17:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great presenter, very basic lecture notes lacking whats needed to know on exams, definitely use a lot of external resources (videos, practice questions), cocky annoying know it all who thinks everything is easy - of course it's easy for the prof, very very difficult exams, midterm was okay, final was death, one of the worst profs I've ever had
+
+--- Rating #6 ---
+Class: CHEM282
+Date: 2017-04-07 17:09:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He has very clear notes. He doesn't focus on mechanisms but more on "here is the final product, what were the reactans". His lectures went by fast. I recommend using his notes as a starting point and find youtube videos that explain the topic in more detail. The class averages were 50-60%. Obviously the best prof at teaching o-chem.
+
+--- Rating #7 ---
+Class: CHEM282283
+Date: 2016-04-18 03:34:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Neil's powerpoint slides are everything. They're nice and clear because he didn't attempt to hand-draw chemical structures. He also loves to get distracted and talks about the chemistry in the real world so his lectures never really get boring. He's a genius and is one of those profs who knows what they're talking about and can actually explain it.
+
+--- Rating #8 ---
+Class: CHEM282283
+Date: 2016-03-22 21:14:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Best prof I have ever had. His lectures are clear and his exams are fair. He is the reason I now love chemistry. Would highly recommend taking a course with him. The only reason to have a text book is to do problems out of, which I'm sure you can probably find online anyways
+
+--- Rating #9 ---
+Class: CHEM282
+Date: 2016-03-15 00:15:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+His lectures are very clear and concise, shows a lot of real-world examples for reactions... He doesn't provide too much detail for each reaction so it's best to review them in a textbook after
+
+--- Rating #10 ---
+Class: CHEM282283
+Date: 2016-01-28 18:11:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+worth waiting for him to teach ochem2, the lectures are full of real world examples and makes the lecture like something you cant wait for. Clear about what to expect on the exam. Usually ochem is nightmare but neil gives you the confidence to do well in the class. Again it will be worth waiting for him to teach the class.
+
+--- Rating #11 ---
+Class: CHEM282
+Date: 2015-06-11 21:50:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+It took less than a lecture for myself and many other students to realize we were in the presence of a true genius - something rare even among professors. Unparalleled mastery of the material. Very to the point. Emphasized understanding and tested on it. Provided context and humor to engage. Not at all arrogant. Just wish he had office hours.
+
+--- Rating #12 ---
+Class: CHEM282
+Date: 2015-05-21 14:15:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Great professor. He always started class by showing us real world applications to what we would be learning that day. Classes always went by in a flash. Tests were difficult as you had to say the one specific key word to get any marks at all. Chem 282 is easy for some, and hard for others. Branda, keeps it fun for everyone.
+
+--- Rating #13 ---
+Class: CHEM282
+Date: 2015-04-17 16:22:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Knows what he's talking about. The exams require original thought and problem solving. So if you just went through the lecture notes you'll get stuck on the exam unless you understand a certain amount of theory... and obviously you need to memorize certain reactions. Do lots of problems and you should be OK.
+
+--- Rating #14 ---
+Class: 282
+Date: 2015-04-08 15:12:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Knows his stuff, but does not know how to teach. His explanation for a questions was: "just push electrons around". He makes the chemistry seem a lot easier than it is and his testproblem sets are really difficult. Each question is worth 10+ marks
+
+--- Rating #15 ---
+Class: CHEM282
+Date: 2015-04-03 15:25:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Best chem prof ever. He's so enthusiastic and passionate; it makes lectures fun and interesting. Great teaching style-he explains concepts really well. Funny guy!
+
+--- Rating #16 ---
+Class: 282
+Date: 2015-04-01 15:56:58 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is an amazing lecturer. The course content was pretty difficult but very interesting in my opinion! First ten minutes of class were the best! (he chose interesting chemistry related topics used in everyday life)
+
+--- Rating #17 ---
+Class: CHEM282
+Date: 2015-03-25 02:43:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Hard material,  but notes were provided and there was no need to use the textbook.
+
+--- Rating #18 ---
+Class: CHEM282
+Date: 2015-03-18 01:43:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+He's the man.
+
+--- Rating #19 ---
+Class: CHEM282283
+Date: 2015-03-14 22:21:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Wonderful Prof, Great at explaining the material, super clear notes, and straightforward tests. Actually made me like Chemistry . The class is still one of the hardest intro science courses, so you will  need to put in the work.
+
+--- Rating #20 ---
+Class: CHEM282
+Date: 2015-02-25 13:13:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Seriously great prof. This is a tough class. If you don't put in the time, you won't get the mark. I got 63% on my midterm for silly mistakes, class average was 62%. The midterm was straight forward, no tricks. He makes you understand the reasoning behind the importance of chemistry and its impacts in our everyday life. 100% recommended prof.

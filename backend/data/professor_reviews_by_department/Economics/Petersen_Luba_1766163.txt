@@ -1,0 +1,279 @@
+Professor: Luba Petersen
+Professor Legacy ID: 1766163
+Professor ID: VGVhY2hlci0xNzY2MTYz
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 4.2
+Avg Difficulty: 3
+Num Ratings: 22
+Would Take Again Percent: 55.5556
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ECON305
+Date: 2024-09-06 17:21:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great Prof. Took during fall 2023 term and found the class pretty easy. There were 3 midterms and no "final" and only the top 2 midterms counted for the final grade. Also had 2 assignments which also counted for the final grade. Didn't really study that much and got an A. Luba was very helpful during office hours. Take with luba if possible.
+
+--- Rating #2 ---
+Class: ECON305
+Date: 2024-01-12 21:18:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great Prof
+
+--- Rating #3 ---
+Class: ECON305
+Date: 2024-01-08 21:44:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Luba is a very smart professor and clearly passionate. However, she's absolutely horrible at teaching. Definitely the hardest economics course I've taken. 
+She spent only one hour teaching us how to code using Dynare in Matlab. Doesn't post online slides/notes.
+It felt like her class is only for those who are naturally on the smarter side.
+
+--- Rating #4 ---
+Class: ECON305
+Date: 2023-12-09 00:11:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The content is extremely difficult when compared to what this course is supposed to offer. Lecture feels like a tutorial as she only does 1 practice problem with no theory. No lectures posted, assumes you have a strong understanding of coding. Avoid at all costs, there is no structure to the course. She is smart but that does not mean you can teach
+
+--- Rating #5 ---
+Class: ECON305
+Date: 2023-12-01 18:50:08 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Difficulty was cranked to 11 due to 4 reasons:
+1. No posted handwritten notes or regular slides with complex graphs and theory.
+2. Latter half of the course entirely based on her notes with 0 textbook support
+3. How she teaches dynare code for assignments is not helpful AT ALL
+4. Only 3 exams and 2 assignments, 1 exam omit allowed
+
+AVOID LUBA!!!
+
+--- Rating #6 ---
+Class: ECON305
+Date: 2021-12-23 13:05:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Honestly, could not have asked for a better prof for the course. She delivers not just the theoretical clearly, but also makes you apply it! It's unusual in a 305 course to be able to apply it. Luba encourages participation and creative questions. She's also incredibly knowledgeable!
+
+--- Rating #7 ---
+Class: ECON305
+Date: 2021-11-18 20:34:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Her midterm is totally and completely indifferent to the sample exercises. She said the code part will not appear in the final exam but it finally did appear in the final exam.
+
+--- Rating #8 ---
+Class: ECON483
+Date: 2021-06-17 02:17:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Good teacher
+
+--- Rating #9 ---
+Class: ECON483
+Date: 2016-12-12 19:10:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This was the hardest Econ class I've done. There was a little bit of coding with Dynare in Matlab,  math heavy readings, and 2 lengthy presentations. With all that said, this was the most enjoyable  economics class I've ever taken. She broadened my perspective and gave a taste of real macroeconomic work! Luba was always available for extra help.
+
+--- Rating #10 ---
+Class: ECON305
+Date: 2016-04-28 02:16:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Luba is awesome. Great lecturer, super responsive to questions whenever. Does well explaining the intuition behind the economic concepts in this class. Never had any doubts about what she was lecturing. She's clearly enthusiastic about macroeconomics, which really helps. Tests are hard but everything on them is taught in class or requires intuition
+
+--- Rating #11 ---
+Class: ECON305
+Date: 2016-04-18 12:30:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Luba makes lectures interesting,  gives you comprehensive notes to study from and encourages students to engage in conversation which is unusual and inspiring. Midterms and the grading is fair. She really wants you to learn the concepts and gain a better overall understanding of macroeconomy. Made us watch a documentary in class which was cool!
+
+--- Rating #12 ---
+Class: ECON305
+Date: 2014-04-24 17:39:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: N
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+She used to be an easy prob but not anymore... She can not give a clearly explanation and exam were really hard.. No calculate and all writing questions!
+
+--- Rating #13 ---
+Class: ECON305
+Date: 2013-11-18 13:52:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Very helpful and straight forward, be prepared to write 1000 words of notes every class. Do not need text book, everything u need is study all the nasty hand written notes. good prof.
+
+--- Rating #14 ---
+Class: ECON305
+Date: 2013-08-26 19:57:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Study lecture notes/tutorial assignments, didn't read the textbook (which she gives online). Take 305 with her! Will not regret it one bit.
+
+--- Rating #15 ---
+Class: ECON305
+Date: 2013-08-15 00:49:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Best prof I ever take!
+
+--- Rating #16 ---
+Class: ECON305
+Date: 2013-08-12 23:39:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Very good and clear. Exams are fair enough as long as you go to the lecture and review all her lecture notes. Good Econ prof in sfu !
+
+--- Rating #17 ---
+Class: ECON305
+Date: 2013-07-28 13:37:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Best econ prof at SFU. Lectures are clear and organized, she goes over many examples so you can understand the material clearly. Exams were fair, some tricky parts but she tells you what she expects during her lectures. Just go to class, video questions on exams are easy free marks.
+
+--- Rating #18 ---
+Class: ECON305
+Date: 2013-07-27 19:55:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Great prof, wants you to actually learn and willing to help! Fair exams, requires intuition, very knowledgeable and interested in material.
+
+--- Rating #19 ---
+Class: ECON305
+Date: 2013-05-13 22:28:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Great prof.  Clear.  Exams and midterm fair.  Ended up with a B+.  Don't buy the Abel textbook as she uses only the Andolfotto textbook.   Exams and midterm based solely on her lecture notess and tutorials.  Recommend!
+
+--- Rating #20 ---
+Class: ECON305
+Date: 2013-04-23 15:29:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+very good Pro.Exams are easy! choose her!

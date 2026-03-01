@@ -1,0 +1,271 @@
+Professor: Payman Jula
+Professor Legacy ID: 922065
+Professor ID: VGVhY2hlci05MjIwNjU=
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.8
+Avg Difficulty: 3.2
+Num Ratings: 44
+Would Take Again Percent: 55.5556
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS437
+Date: 2023-12-28 03:49:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great practical course. Very knowledgable  and caring prof. Pick a right group, as it affects your final grade. I wish I could take more courses with him.
+
+--- Rating #2 ---
+Class: BUS473
+Date: 2023-08-29 19:45:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+
+
+--- Rating #3 ---
+Class: BUS473
+Date: 2023-08-21 18:14:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If you have interests, Bus473 is very practical and fun course. Prof brings real-world issues/discussions to the class. He is an easy marker (Avg is B+/A-). Group projects/cases are a bit challenging, but you have weeks to work on them with your groups. So, pick a good team.
+
+--- Rating #4 ---
+Class: BUS437
+Date: 2023-07-25 19:39:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He doesn't know how to teach. He teaches you the basics and gives you an extremely hard assignment leaving you to fail. When you don't know how to do something even when he didn't teach it, he makes you feel bad and keeps trying to push you for an answer. Very disrespectful and would not recommend anyone to take this class with him.
+
+--- Rating #5 ---
+Class: BUS473
+Date: 2023-07-17 19:38:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Horrendous prof, not worth your time and money!! His lectures are very dry and long, and are often not really related to the assessments. You will have to self-study and complete the textbook questions to pass his course. Compare his notes to other profs, and you will be shocked by how much info is missing on his lectures.
+
+--- Rating #6 ---
+Class: BUS473
+Date: 2023-07-17 16:46:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This is an advanced level of required operations management course. The content is great, and very useful and practical. The key is to stay on top of stuff weekly. Prof is great and available to help. Cases are a bit challenging.
+
+--- Rating #7 ---
+Class: BUS473
+Date: 2023-07-09 23:49:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is one of the worse Business profs that I've ever had. His lecture notes have almost 0 useful information for the midterm.  He will go over 1or2 word problems in class, then ask the class to study off the textbook questions that are nowhere remotely close to what he has taught in class to be prepared for the midterm (all long-word problems).
+
+--- Rating #8 ---
+Class: BUS738
+Date: 2023-01-31 06:17:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+This course was offered as a 6 week online as part of PT-MBA pilot program. It was a very applicable and useful course. The prof is knowledgeable and approachable. Since it is a 4 unit course, it could be better to have it in full semester, rather than intense half semester. All and all, I highly recommend it...
+
+--- Rating #9 ---
+Class: BUS738
+Date: 2022-12-19 21:06:07 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Highly disorganized. His content was confusing with very few opportunitues to ask questions. Lots of wasted class time. Get ready to teach yourself. I would highly recommend a different prof if you are someone who learns from watching examples or through discussion. You will get none of that.
+
+--- Rating #10 ---
+Class: BUS473
+Date: 2022-12-17 07:28:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Great smart prof who cared about his class and put questions we worked on in class for exam
+
+--- Rating #11 ---
+Class: BUS473
+Date: 2022-09-01 23:00:35 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Payman is very kind and does his best to accommodate students, for example he made our 30 min group presentation online instead of in-person which was a great help. The course material itself is incredibly outdated and there was too much time wasted during class. The supplementary videos are from the early 2000s and not applicable today.
+
+--- Rating #12 ---
+Class: BUS437
+Date: 2022-08-21 17:35:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This course is great, with real life application. Payman is awsome and available for extra help. Just attend the class, and do provided sample exams. You will easily ace this course.
+
+--- Rating #13 ---
+Class: BUS437
+Date: 2022-07-28 00:00:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+be ready to teach yourself... payman is a nice guy and is funny during lectures but he doesn't explain things clearly. he assumes you already understand everything. half of this semester was done through recorded videos and his examples are from 2005. questions on exams were completely new and not covered in class... gg if you have him
+
+--- Rating #14 ---
+Class: BUS437
+Date: 2017-12-20 16:06:10 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Payman is like a double edged sword. His lectures in general are fun as he can be quite hilarious, but his tests, projects, and presentations are TOUGH. Especially the presentations, make sure you are well prepared and can argue your decisions/assumptions or he WILL tear you apart in front of class. IMO projects are too hard
+
+--- Rating #15 ---
+Class: BUS437
+Date: 2017-12-09 01:36:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+easy course. great prof. attend the class and participate in discussions. you will easily ace it.
+
+--- Rating #16 ---
+Class: BUS473
+Date: 2017-12-07 18:24:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+His teaching will always be an inspiration to me. His clarity and excellent use of examples make the material he teaches easier to grasp, even if there are gaps in your background knowledge. Fair marking and clear course requirements. Strongly recommend for all the courses he teaches at Beedie.
+
+--- Rating #17 ---
+Class: BUS437
+Date: 2017-12-06 23:25:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I enjoyed this class with Payman. The lectures were fun, and the material was interesting. Do not both to contact him within the last two weeks of the course. He will not respond. Give yourself lots of time for the final project because it is HARD!
+
+--- Rating #18 ---
+Class: BUS437
+Date: 2017-12-01 17:34:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+In my 5 years at SFU, Payman was easily my least favourite professor. He is very intelligent, but gives no direction and is not accessible outside of class. His lecture slides and teaching method are stuck somewhere in the 90's and could use a 21st century update. If you do take this class with him, go to lecture and pay attention, and good luck
+
+--- Rating #19 ---
+Class: BUS437
+Date: 2015-11-29 20:28:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+One of the best prof I have ever had. No textbook meaning you HAVE TO attend his classes and review his ppts to do well. Materials are highly simplified and he tends to repeat crucial concepts again and again to make sure everything is clear, and he marks you effort and understanding of materials over the right answers. Aws pro
+
+--- Rating #20 ---
+Class: 440
+Date: 2015-01-30 05:38:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Payman is no doubt one of the most awesome professors at SFU. His lectures are always entertaining with plenty of real-life examples to help you remember the material. He can be demanding at times, but you will learn a lot from him. I would definitely recommend him.

@@ -1,0 +1,167 @@
+Professor: Keir Moulton
+Professor Legacy ID: 1929489
+Professor ID: VGVhY2hlci0xOTI5NDg5
+Department (CSV): Linguistics
+Department (Fetched): Linguistics
+Avg Rating: 4.8
+Avg Difficulty: 2.5
+Num Ratings: 12
+Would Take Again Percent: 100
+
+Ratings Count Returned: 12
+
+--- Rating #1 ---
+Class: LING322
+Date: 2018-07-12 02:39:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+ive taken LING 222 and 322 with him and i love him! hes one of the best profs in LING, and his courses are all GPA boosters. his lectures are very clear and easy to understand. attendance is mandatory as you have to hand in the homework every week, and the homework actually takes some time, but they definitely help you to do better in exams
+
+--- Rating #2 ---
+Class: LING222
+Date: 2018-04-04 17:10:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Keir is such a great professor. He is very clear with what he expects you know on tests and quizzes, and homeworks were never too tough, but if you had issues he always responded to emails quickly and is always at office hours. This class isn't easy but he makes you want to learn so it doesn't suck. I really hope I can take more classes with him.
+
+--- Rating #3 ---
+Class: LING282W
+Date: 2018-04-02 17:50:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Keir was a very good prof. One of the best Ive had at SFU. Hes charismatic, approachable and lenient on deadlines if you ask. Hes very syntax heavy so if its not your strong suit youll have to really study. Overall, a good professor and a nice guy to say the least.
+
+--- Rating #4 ---
+Class: LING222
+Date: 2018-03-13 18:48:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+id take his class again. great prof
+
+--- Rating #5 ---
+Class: LING322
+Date: 2018-02-03 14:26:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Definitely a great lecturer and really caring about his students. His tests/quizzes are fair and don't contain any trick questions - what is talked about in class is what you will need to know. For the entire course, I only consulted the textbook a handful of times. Put in a bit of effort and you can do well in this course.
+
+--- Rating #6 ---
+Class: LING322
+Date: 2017-12-04 20:30:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Keir's course isn't textbook-heavy. That's good, because the author tries too hard to be the reader's friend, and explains concepts in annoying ways. Keir, however, is not annoying. Lectures are engaging. Exams and quizzes are fair. Few tricks up this guy's sleeve, except wanting the students to understand the building blocks of generative syntax.
+
+--- Rating #7 ---
+Class: LING322
+Date: 2017-11-30 17:52:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A great prof that is great at teaching. Creates good examples and is a funny and nice person. Lectures and lecture notes are easy to understand.
+
+--- Rating #8 ---
+Class: LING282WQ
+Date: 2017-04-06 18:03:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Keir is a fantastic prof. He might end up being one of my all-time favourites at SFU. His feedback on classwork, homework and term papers have been quite valuable over the semester. He's great at breaking down abstract concepts by providing examples students can relate to. I really hope I have him again as a prof before I graduate.
+
+--- Rating #9 ---
+Class: LING480
+Date: 2017-03-26 01:36:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Super easy course. Homework was all straightforward and quizzes were pretty easy. A few stupid questions on quizzes, but they were easily manageable.
+
+--- Rating #10 ---
+Class: LING301W
+Date: 2016-11-24 20:19:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Took 222, 322 and 301W with him. You can get away with not reading the textbook because his slides are quite thorough.  His tests are fair and are usually mostly based on the quizzes and homework. My writing improved a lot since he is really good at explaining how to make solid arguments.
+
+--- Rating #11 ---
+Class: LING222
+Date: 2014-12-07 17:11:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His class was fantastic! He uses lots of examples and tries to make it all relatable. The textbook we used was a little contradictory but he's easily my favourite professor. His tests are a little difficult but he always takes the average into consideration for the next one so that it's not as hard. He wants us to learn and enjoy syntax, not fail.
+
+--- Rating #12 ---
+Class: LING222
+Date: 2014-10-23 08:22:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Class is almost like a tutorial - lots of examples and exercises to help you get through the material. Assignments and tests are frequent, but fair and it makes you keep up with the material. He always makes sure to go over all the answers afterwards. Really approachable and helpful. Highly recommend taking courses with him.

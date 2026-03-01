@@ -1,0 +1,24 @@
+Professor: Joel Blok
+Professor Legacy ID: 1482460
+Professor ID: VGVhY2hlci0xNDgyNDYw
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 4
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: CMNS321
+Date: 2010-10-11 23:52:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+really nice. pretty helpful. Also kinda sexy

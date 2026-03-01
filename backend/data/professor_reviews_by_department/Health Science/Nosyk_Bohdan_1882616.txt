@@ -1,0 +1,271 @@
+Professor: Bohdan Nosyk
+Professor Legacy ID: 1882616
+Professor ID: VGVhY2hlci0xODgyNjE2
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 2.1
+Avg Difficulty: 4.7
+Num Ratings: 20
+Would Take Again Percent: 43.75
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: HSCI416
+Date: 2026-02-01 08:13:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lacks morality and professionalism
+
+--- Rating #2 ---
+Class: HSCI416
+Date: 2026-01-30 16:06:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Class environment feels like an entrapment and it seems forced
+
+--- Rating #3 ---
+Class: HSCI416
+Date: 2026-01-16 19:16:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Warning students about serious professionalism concerns. Inappropriate interactions initiated in this class toward a student outside the context of coursework. It crossed professional boundaries and creating stressful situations regardless. I would strongly advise students to be careful and to document any interactions that feel uncomfortable.
+
+--- Rating #4 ---
+Class: HSCI416
+Date: 2025-11-30 17:11:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Doesn't have the balls to step in and educate his students about ethics. People can just do whatever in front of him and he's going to let it slide because he's intimidated by his own students. What a goof.
+
+--- Rating #5 ---
+Class: HSCI416
+Date: 2025-11-29 21:09:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Don't take this course if you don't wanna be harassed
+
+--- Rating #6 ---
+Class: HSCI416
+Date: 2025-11-12 17:38:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Buddy can't even control his own students.
+
+--- Rating #7 ---
+Class: HSCI416
+Date: 2025-04-22 04:34:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+good person, lectures are decent and can be engaging, overall funny and caring, but definitely one of the hardest markers i had for a prof. small number of huge assignments due, most being group projects. coding system was outdated.
+
+--- Rating #8 ---
+Class: HSCI416
+Date: 2020-12-14 10:45:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The class material was in no way changed to accommodate the switch to online learning. The assignment questions were not clear and left the entire class confused. The class average is the lowest I have ever seen in a 4th year hsci class, which reflects the professor and lab instructor's inability to do their job.
+
+--- Rating #9 ---
+Class: HSCI416
+Date: 2020-12-13 18:25:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Throughout this semester, Bohdan has been super helpful and very accommodating. He gives extensions if you need, and is always available for questions and is open to feedback. This is by no means an easy class, it's 4 credits and you definitely get out of it what you put in.
+
+--- Rating #10 ---
+Class: HSCI416
+Date: 2020-11-15 05:14:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Please do yourself a favour and never take this course. I had to take it in order to graduate on time but it was by far the worst class I have ever taken in my years as a hsci major. The lecture material is super dry, the SAS assignments are super unclear with tough questions that confuse the whole class, especially since everything was online.
+
+--- Rating #11 ---
+Class: HSCI372
+Date: 2020-05-06 06:57:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+marks really hard. his lectures are super dry and boring. I learnt nothing in this class
+
+--- Rating #12 ---
+Class: HSCI416
+Date: 2019-11-24 18:44:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Bohdan is a beauty. He cares for his students and will absolutely help you if you put in the work. Show up engaged, ask questions, and spitball your opinions - you'll get a lot out of it. Plus, it's a great way to get SAS exposure.
+
+--- Rating #13 ---
+Class: HSCI416
+Date: 2019-05-04 00:26:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Not the most exciting prof. He struggled to keep the class engaged at times during class discussions but that couldve been due to the small class size. He is passionate about his work and that comes through when discussing his own work. Solid choice for a pretty difficult class!
+
+--- Rating #14 ---
+Class: HSCI416
+Date: 2019-05-02 22:48:13 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lots of in class discussions regarding real world projects. B- class avg which probably makes this one of the hardest upper div HSCI classes offered. I'd still take his class again based on the emphasis on real world critical thinking and SAS. The real world skills offered in this class is worth the extra effort and risk in GPA drop.
+
+--- Rating #15 ---
+Class: HSCI416
+Date: 2019-04-14 05:21:18 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Nosyk is extremely passionate about what he does - and it shows in his work. Admittedly, he's not the most engaging lecturer, but he does try his best. It may be the nature of the course, or his lecturing style - i'm not sure which - but it's often not quite clear what he'll be examining you on. Don't expect review materials.
+
+--- Rating #16 ---
+Class: HSCI471
+Date: 2019-02-07 18:44:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Love Dr. Nosyk! Difficult class (because I didn't have an economic background) but if you put in effort and see him for extra help it will pay off.
+
+--- Rating #17 ---
+Class: HSCI484
+Date: 2014-04-23 17:15:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+By far the most boring and useless class imaginable. It is beyond me how this course can be a requirement for students in the PQHS stream. Final project involved six groups presenting on the exact 3 same articles... are you kidding me?!? Absolute waste of time and money.
+
+--- Rating #18 ---
+Class: HSCI484
+Date: 2014-04-15 22:04:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I have never hated a class so much in my life. Its not necessarily Dr. Nosyks fault, though he does'nt help make things easier. The course is beyond the scope of an undergrad degree and the material is boring and painful. I strongly urge you to avoid taking this class at all costs. It will ruin, not only your undergrad degree, but your life.
+
+--- Rating #19 ---
+Class: HSCI484
+Date: 2014-03-19 21:15:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Was genuinely interested in population health research and expected this to be a senior seminar followup to hsci307. Could I be more wrong? no. Quite possibly the worst class of my undergrad. I would rather take Organic Chem III.
+
+--- Rating #20 ---
+Class: HSCI484
+Date: 2014-03-03 22:59:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Ok so this is his first time teaching so I'll try and give him some slack. but honestly this is the worste class i've ever taken in my life! The course material is incredibly dry so i can understand it would be hard to teach. But this guys just doesn't even care about students! He does't repspond to suggestions and makes NO effort to help students

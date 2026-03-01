@@ -1,0 +1,37 @@
+Professor: Raheja Rohan
+Professor Legacy ID: 1548026
+Professor ID: VGVhY2hlci0xNTQ4MDI2
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.5
+Avg Difficulty: 4
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS254
+Date: 2012-12-12 19:19:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He's one of the nicest, most approachable, and kind profs I've had. He speeds through lectures but he will go to great lengths to make sure his students do well. He will always be available for extra time and will sit through any amount of problems to help you. His exams are tricky, but they're fair. HIGHLY recommended, amazing guy!
+
+--- Rating #2 ---
+Class: ACCT202
+Date: 2012-05-08 17:10:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Rohan is s great guy, but he only shows power point slides, where as it is really hard to follow accounting and calculations if he dosent use a overhead.He also is very vague at explaining the materials. Even the tutorials werent helpful. But Rohan is very helpful in his office hours. also he is prompt to answer questions from emails.

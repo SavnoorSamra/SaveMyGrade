@@ -1,0 +1,102 @@
+Professor: Marco Galvani
+Professor Legacy ID: 2506164
+Professor ID: VGVhY2hlci0yNTA2MTY0
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 5
+Avg Difficulty: 2.9
+Num Ratings: 7
+Would Take Again Percent: 100
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: BUS217W
+Date: 2021-04-24 21:25:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Took the course in Summer 2020 with Marco. He is engaging, friendly, and clearly explains what is expected from you. I was scared of taking this course as writing is not my strength but taking it with Marco makes it worthwhile.
+
+--- Rating #2 ---
+Class: BUS217W
+Date: 2020-08-05 01:19:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+AMAZING PROF!!! HE MADE ME ENJOY BUS 217W
+
+--- Rating #3 ---
+Class: BUS217W
+Date: 2020-07-15 09:00:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Marco bought us Timbits and food! (5/5). Marco is an amazing prof and tried to make the content really enjoyable and easy to understand. He really made sure everyone understood the concepts and was always available outside of class.
+
+--- Rating #4 ---
+Class: BUS217W
+Date: 2020-03-16 01:31:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I took BUS 217W with Marco and do not regret it one bit. He is one of the most helpful and accessible profs I've come across at SFU. The content is pretty much dry but the course layout and outline change the game. Marco ensures that every student picks up the concept he is trying to convey and aids you in its execution throughout the course.
+
+--- Rating #5 ---
+Class: BUS217W
+Date: 2019-11-28 00:18:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Marco is a great prof and I'd highly recommend taking 217 with him. I found the content very dry, but he made it must more enjoyable. He is super approachable and will always make sure that anybody who reaches out for extra help leaves with the information they wanted to know.
+
+--- Rating #6 ---
+Class: BUS217W
+Date: 2019-11-23 00:28:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Marco always makes class so much fun. He's really young so he is able to relate to us. Always says jokes and makes class fun. I heard BUS217 with other profs can be a real drag... This was my favorite class all semester for sure!
+
+--- Rating #7 ---
+Class: BUS217W
+Date: 2019-07-22 22:11:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Marco is a funny and amazing guy. Insightful and charismatic . You won't regret taking his class!

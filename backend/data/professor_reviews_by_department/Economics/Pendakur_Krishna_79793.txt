@@ -1,0 +1,275 @@
+Professor: Krishna Pendakur
+Professor Legacy ID: 79793
+Professor ID: VGVhY2hlci03OTc5Mw==
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 3.2
+Avg Difficulty: 3.3
+Num Ratings: 85
+Would Take Again Percent: 85.7143
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ECON104
+Date: 2024-07-22 08:50:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Krishna was a great professor, he allows cheat sheets in all his exams. I was able to get an A without really studying my butt off. Pay close attention and watch lecture recordings and add to your notes. The details you need to know to do super well in his class are not really in the lecture slides themselves but in what he says during lectures.
+
+--- Rating #2 ---
+Class: ECON104
+Date: 2023-10-30 16:05:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great professor and great class; would highly recommend to anyone looking for a basic understanding of economics, especially if you aren't an ECON major.
+
+--- Rating #3 ---
+Class: ECON104
+Date: 2023-05-09 04:06:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Krishna provides a comprehensive view of the world of economics and his lectures were engaging due to that reason. Also, his open teaching style made lectures enjoyable. My one complaint is that there could be an awful lot of reading. He also said that if you have a background in economics that this course would be a waste of time, but it was not.
+
+--- Rating #4 ---
+Class: ECON104
+Date: 2023-04-24 21:47:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Never a dull moment in a Pendakur class. Greatest lecturer at SFU, not up for debate. Long live the king
+
+--- Rating #5 ---
+Class: ECON104
+Date: 2023-04-13 20:46:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This course was excellent, and that's a large part due to Krishna's lectures.
+
+The highlight for me was the lecture on carbon taxes. It was fascinating to experience through the lecture and MobLab how carbon taxes are an efficient form of carbon reduction. I've legit relistened to the lecture like 3 times cuz I enjoyed it so much.
+
+--- Rating #6 ---
+Class: 104
+Date: 2022-08-24 17:48:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+He is the GOAT. Super hilarious lectures. You will learn a lot from him. Exams are fair - he just expects you to have paid attention in lecture and explain the basic material. Definitely an awesome class even though it's not required.
+
+--- Rating #7 ---
+Class: ECON104
+Date: 2022-08-05 16:34:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is hilarious - by far one of the most interesting professors at SFU. Class was very laid back. The topics he covers are super important and many aren't covered in other economics courses. He explains things in a non-technical way which is good for economics and non-economics students. Super fair exams and always available for extra help. A+++
+
+--- Rating #8 ---
+Class: ECON104
+Date: 2022-04-30 04:34:44 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The class is very easy (attend every lecture and you're guaranteed to pass). Krishna himself is vey passionate about the material but he's unorganized in the way the lectures are structured. If you've done any econ classes before probably avoid, as this class is insanely boring and the content is pretty dry and won't further your econ knowledge.
+
+--- Rating #9 ---
+Class: ECON104
+Date: 2022-04-28 03:53:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's a phenomenal prof. Lectures are interesting easy to understand with his explanation. He assigns lots of papers but goes through all the key concepts in class. 
+
+Also, 40% of your grade is essentially attendance so if you just go to class your almost guaranteed a pass.
+
+--- Rating #10 ---
+Class: ECON104
+Date: 2019-08-16 08:36:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He's a wonderful prof! Super funny and approachable, and very clear about what his exams are like. For the midterm and final, MAKE SURE you do the practice midterms that he provides AND go on his online website with past exams and lecture notes, as one portion will be identical to the set of questions and the other portion will be very similar.
+
+--- Rating #11 ---
+Class: ECON104
+Date: 2019-06-05 17:48:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Super super easy class if you have taken econ 103!! I skipped half of the classes and ended with an A. Just read over his slides and assigned readings then you will be fine!
+
+--- Rating #12 ---
+Class: ECON104
+Date: 2019-04-14 05:27:44 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Pendakur is very laid back, and an excellent professor for first year students. That being said, his lecture structure is very poor and the concepts he teaches are very abstract. You would expect an economics course to be concrete, but he tries to avoid graphs and equations as much as possible, and his clarity sometimes suffers as a result.
+
+--- Rating #13 ---
+Class: ECON182
+Date: 2018-12-13 21:18:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is a good teacher. His lectures are very clear and exams are fair. The textbook is simple and helpful. One of the hints to prepare for exams is to read each week assigned article and make a summary right away, it will be much easier than doing all of them before exams. He doesn't impose his opinion. He encourages you to think by yourself.
+
+--- Rating #14 ---
+Class: ECON182
+Date: 2017-12-07 22:16:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He's one of the most passionate professors I've ever met in my 3 years at SFU so far. His passion for understanding and solving poverty is contagious. Not afraid to say what most of us are thinking, lively and hilarious, invited guest speakers to bring the material to life. LOVE IT! Be warned, there's lots of reading, it's tough work but FUN WORK!
+
+--- Rating #15 ---
+Class: ECON383
+Date: 2016-04-03 23:48:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Krishna assigns very long papers as reading material, but the subject matter is pretty interesting. The quizzes are one question each and essentially free marks if you read the material. If you can explain each the assigned content of each lecture in a page or two, you can ace the midterm and final. He's also pretty funny.
+
+--- Rating #16 ---
+Class: ECON383
+Date: 2015-03-18 13:32:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+really interesting and funny prof, tries to involve the class in discussions. LOTS to read but if you keep up and participate in class youll love it. My favorite prof and course at SFU
+
+--- Rating #17 ---
+Class: ECON383
+Date: 2014-10-30 22:51:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+For Econ 383 inequality course, make sure to do the readings, make notes from each one, and study your notes. You'll get an A easy. Very knowledgable teacher, has a lot of impressive work he's done, and experience. Also passionate about econ and has a sense of humour :)
+
+--- Rating #18 ---
+Class: ECON836
+Date: 2013-09-10 04:21:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+This course was a grad level applied econometrics course. I would say this prof was disorganized and his lectures were seemingly clear at first but turned out to be very confusing. The worst experience was that the assignments were all about his own papers: replicating his results all the time but never knew the correct answers. Very disappointed!
+
+--- Rating #19 ---
+Class: ECONAABB
+Date: 2011-12-08 06:11:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+ZERO STRUCTURE. His notes are useless and different than what he says in lectures. His exam prep notes are also  completely off topic. DO NOT take this course with him unless you're an economics genius... It's a shame because he's quite funny and also a good speaker. But he does not know how to organize a course... at all.
+
+--- Rating #20 ---
+Class: BUEC333
+Date: 2011-11-10 12:05:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Not sure what everyone is talking about. Professor Pendakur is tough, but he is fair. Just because he doesn't hand out A's to every student, doesn't mean he can't teach. I went to the classes, and read the texbook, and when I couldn't understand something, he was quite helpful in clarifying

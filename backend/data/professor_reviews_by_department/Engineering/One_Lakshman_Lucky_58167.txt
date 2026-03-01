@@ -1,0 +1,273 @@
+Professor: Lakshman (Lucky) One
+Professor Legacy ID: 58167
+Professor ID: VGVhY2hlci01ODE2Nw==
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 2.8
+Avg Difficulty: 3.6
+Num Ratings: 112
+Would Take Again Percent: 35
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENSC426
+Date: 2025-12-20 07:22:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He writes his own reviews.
+
+--- Rating #2 ---
+Class: ENSC350
+Date: 2025-12-04 00:29:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lucky is a strict but fair teacher and rewards students who participate in class. Although lectures are not mandatory, he'll often mention tips for exams and assignments, so it's best to attend and pay attention. 350 is a difficult, and Lucky will ensure you learn the material one way or another. My only gripe is a lack of resources for the DPs/FP
+
+--- Rating #3 ---
+Class: ENSC426
+Date: 2025-08-26 21:09:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lucky's amazing lectures from 416 continued on in 426 as well. He was more strict with exam questions and marking though, where 416 was mostly copy and paste of practice exams, while 426 you actually have to understand the concepts and think for all problems. But, the problems were fair since Lucky's lecture notes provide everything to figure out.
+
+--- Rating #4 ---
+Class: ENSC416
+Date: 2025-04-25 05:38:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lucky has such an amazing lectures with clear and organized lecture notes. Although his exam questions are tough, you can succeed in his class as long as you try and complete his sample exam questions. Plus never skip his lectures because some of his exam questions actually tests you whether you actually listened during his lectures.
+
+--- Rating #5 ---
+Class: ENSC350
+Date: 2024-12-18 03:16:09 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures are the most important aspect of his course, make sure to listen, take good notes and try to attend all of them. He does not make answers available to any of his study material, but if you can demonstrate knowledge on the exams (write as much as you can), you can still get a good grade. Workload of this course is pretty high. Overall 2.5/5
+
+--- Rating #6 ---
+Class: ENSC350
+Date: 2024-12-16 10:49:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The key to success is to attend the lectures. Some of his notes will not make much sense unless you hear him explain them and his thought process on why he designed the notes like that. Exams are weighted the most and should be your priority. The highlight of the class are his lectures. Very engaging, funny, and you will learn a lot. Don't skip!
+
+--- Rating #7 ---
+Class: ENSC426
+Date: 2024-08-14 10:44:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lucky's exams are difficult. He will really test if you know the material. I HIGHLY recommend not skipping, because he is an amazing lecturer. Lucky marks all exams himself and scales by marking very generously. Try not to leave anything blank. You will obtain part marks if you can show that you have some idea of how to do it, even if you don't.
+
+--- Rating #8 ---
+Class: ENSC350
+Date: 2023-12-21 13:28:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lucky has an exam-focused style of teaching; lectures & asking questions are a must for learning the material. Thankfully, he is extremely knowledgeable and tries to give students a deeper perspective on their questions. People's main gripe is that the exams are difficult, but he marks VERY generously based on what you understand, so pay attention!
+
+--- Rating #9 ---
+Class: ENSC350
+Date: 2023-12-17 20:00:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lucky has a more classical teaching approach that I've found to be genuinely helpful in understanding and applying the material in this course. If you fall behind and do not make the effort to either catch up on your own or reach out to peers/TAs/Lucky, you will find that the course is incredibly difficult. Stick to studying, and ask questions.
+
+--- Rating #10 ---
+Class: ENSC316
+Date: 2022-10-24 20:25:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lucky is not so lucky. Equations from NICE Publisher's notes but very little explanation. No Industry links to notes. Horrible. A non-easy course made very difficult. Beware.
+
+--- Rating #11 ---
+Class: ENSC350
+Date: 2022-04-14 19:33:35 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Easily the hardest prof I've had in ENSC. For exams study his practice exams and make sure you can build every piece of hardware you cover in lectures. If your ENSC 252 knowledge is lacking take a review of that course.
+
+Good luck...
+
+--- Rating #12 ---
+Class: ENSC252
+Date: 2022-01-10 06:16:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+when a prof uses his power to ditch other profs that is unethical and trying to deflect his own incompetence. He should focus on your own courses. Prof thinks he is an expert in everything - NOT. Unreasonable demands - cooked up labs and no input. Students just use YouTube and you will learn more and find old exams on course hero.
+
+--- Rating #13 ---
+Class: ENSC350
+Date: 2022-01-01 03:59:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Interesting personality. Lectures are not bad at all, and homework is taken from a well-known textbook. Exams are laid out in a rigorous framework that some people might not &quot;get&quot;, leading to bad scores. Problem is with the labs and the marking, which are inconsistent and way too low. Steep penalties are handed out for the smallest infractions.
+
+--- Rating #14 ---
+Class: ENSC252
+Date: 2021-06-14 16:31:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+The course is not even that difficult it just purely the prof that makes it difficult with nonsense requirements in a rude manner. Like a lot of and very little unimportant points you should pay attention while submitting your work. He is by far the most rude professor I have seen. Discourages you in every way and rejects helping. Avoid at all cost
+
+--- Rating #15 ---
+Class: ENSC150
+Date: 2020-12-15 14:59:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+Not a fair professor
+
+--- Rating #16 ---
+Class: ENSC252
+Date: 2020-03-31 06:25:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Not like other CS lectures, the prof makes their best effort like video/audio recording of the lecture, give out all notes to help you learn things. He give no note other than you write it yourself. Moreover, he writes the assignments, projects unclear to students, even to himself. You will need to spend hours to know what he want you to do.
+
+--- Rating #17 ---
+Class: ENSC350
+Date: 2020-03-30 05:43:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lucky is a very smart and caring professor, although he might seem intimidating and judgmental at first. I've taken two different courses with him, and I have to say he's one of the best professors I've ever had. He'll challenge you and make you learn the material very well, and if you're brave enough to ask questions, he'll help you out.
+
+--- Rating #18 ---
+Class: ENSC316
+Date: 2019-12-30 10:34:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Terrible instructor. He doesn't explained in detail the lecture notes. Exams are hard and most of the questions are not related to the notes taught in class.
+
+--- Rating #19 ---
+Class: ENSC425
+Date: 2019-10-31 14:10:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very thorough in his teachings, tries to give a proper background to each subject he is teaching, expects students to read book, would recommend to students who are actually interested in what they are learning (engineering).
+
+--- Rating #20 ---
+Class: ENSC425
+Date: 2019-07-08 02:48:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+His lecture is really hard to understand. The content is different from text books, but he likes telling students to read the book. He always taught some unpopular subject which is useless and made me more confused. Most of time he was just working on calculating math problem, but I want to learn some engineer staffs which is closer to our life.

@@ -1,0 +1,24 @@
+Professor: Peter Inglis
+Professor Legacy ID: 1435391
+Professor ID: VGVhY2hlci0xNDM1Mzkx
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 4
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BISC101
+Date: 2011-11-22 13:44:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Inglis is a very kind professor. His exams are fair, provided you study his lecture notes and attend the labs. Take a camera to your labs and take photos to remember the details! Not all the photos are provided on WebCT. Also, study your slides :)Try your best to keep up with your readings.

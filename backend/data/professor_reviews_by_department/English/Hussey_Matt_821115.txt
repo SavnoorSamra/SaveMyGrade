@@ -1,0 +1,271 @@
+Professor: Matt Hussey
+Professor Legacy ID: 821115
+Professor ID: VGVhY2hlci04MjExMTU=
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 3.9
+Avg Difficulty: 3.7
+Num Ratings: 39
+Would Take Again Percent: 80
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENG300
+Date: 2026-02-15 07:41:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Extremely disorganized teaching style. While he is highly regarded in his field, his ability to convey material is hindered by frequent, inappropriate remarks that are entirely unrelated. Grading is inconsistent and lacks constructive feedback.
+
+--- Rating #2 ---
+Class: ENGL300
+Date: 2026-01-18 07:50:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Matt is one of the best profs at SFU, hands down. He's super passionate and engaging, and he really cares about his students. This particular class requires you to really sink your teeth in to do well, but Matt is very encouraging and generous with bonus marks and the like. You will get out of the class what you put into it!
+
+--- Rating #3 ---
+Class: ENG300
+Date: 2025-10-18 02:50:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+this class is hard, but hes an awesome prof. highly recommend. he is basically a stand up comedian.
+
+--- Rating #4 ---
+Class: ENGL304
+Date: 2024-11-25 05:39:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best. Prof. Ever. Genuinely super kind, always wants to help, and he's hilarious. He is so, so good and teaching and such a nice person. If you ever have the chance to take class with him, do it!
+
+--- Rating #5 ---
+Class: ENG300
+Date: 2018-01-16 00:53:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Amazing Prof. Very clear about what he wanted and was a straight-forward marker. Loved this class. It was definitely a lot of work but it was a great experience.
+
+--- Rating #6 ---
+Class: ENGL304
+Date: 2016-05-11 12:12:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Professor Hussey was great! He gave excellent feedback (a paragraph response) to every paper & was clear on what was expected for each assignment. I would definitely recommend going to his office hours as he helps you narrow down your thesis (he likes specific) & gives extra insight on the topic and readings at hand.
+
+--- Rating #7 ---
+Class: ENGL400
+Date: 2016-04-19 01:30:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I've taken 4 courses with Matt so far, and they have all been amazing. He's one of the best profs I have ever had. Everyone says how tough a marker he is, and that's true but he's so willing to help you, and his feedback is always great. Definitely recommend his classes but for students who are passionate enough and willing to put in the work.
+
+--- Rating #8 ---
+Class: ENG300
+Date: 2015-10-14 18:55:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Amazing guy. Super upbeat and fun, great sense of humour, very chill and accommodating if you forgot your homework, need to leave class early, etc. However, this was the hardest class I've ever done. There is homework due almost every class, even on quiz days which are almost every other week. It seems easy at first but the work load is brutal.
+
+--- Rating #9 ---
+Class: ENG304
+Date: 2015-02-27 01:43:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Matt is a great prof: passionate, inspirational, genuine nice-guy, knowledgable (and well dressed). He gives fantastic feedback-usually around half a page, typed-but it's worth noting that I've never seen him give a mark higher than an A- on a paper. It's annoying, but his feedback is always valid so I suppose those papers could have been better.
+
+--- Rating #10 ---
+Class: ENGL304
+Date: 2014-12-03 14:43:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+My second time with Matt, and again, the course was just amazing. Intensely knowledgable prof who will make you love, or at least respect Medieval lit.  Course can be intense, but he makes up for it by being hilarious.  If you want to become a better English student, or just enjoy an awesome course, take one with Matt!
+
+--- Rating #11 ---
+Class: ENGL201
+Date: 2012-06-16 01:43:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Hussey is one of the most passionate medievalists I have ever had the privilege of learning from. Very nice human being. Hard marker - but willing to help you work through your writing demons... his tough marking was a wake up call and I owe a lot of my progress to him. Worth every penny!
+
+--- Rating #12 ---
+Class: ENGL306
+Date: 2012-02-07 05:43:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+If you actually love English as a subject then Matt as a professor is awesome. I see a lot of complaints about him being a tough marker, but honestly he's just fair. I thoroughly enjoy his class.
+
+--- Rating #13 ---
+Class: ENGL400
+Date: 2011-07-08 19:19:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Matt is the best English prof I've had so far.  His classes are interesting, he is a very fair marker, and he is flexible when it comes to assignments.  I had him for both 300 and 400, and I didn't want the semester to end!  He definately makes coming to class enjoyable, although be prepared to work hard and be on top of your reading!
+
+--- Rating #14 ---
+Class: ENG102
+Date: 2011-04-23 17:48:39 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+he expects a lot from you! you have to write five papers and for the final exam you have to make sure you know the main themes for about 100 different poems. he assigns poems but never goes over them in class. your grade completely depends on how mean your TA is.
+
+--- Rating #15 ---
+Class: ENGL102
+Date: 2011-04-20 18:22:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Includes five papers which are worth 60% of the total mark and the marking is very unfair. I would not recommend this course.
+
+--- Rating #16 ---
+Class: ENGL102
+Date: 2011-04-20 18:14:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Worst English course.Is the course really an introductory course&#63;&#63;&#63;
+
+--- Rating #17 ---
+Class: ENGL102W
+Date: 2011-04-20 18:11:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Never take this course if u have any respect for your GPA. I still regret choosing it over ENGL 101.
+
+--- Rating #18 ---
+Class: ENGL102
+Date: 2011-04-18 23:06:44 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Never take this course if you are looking to improve your GPA.Also don't take this course if you are interested in poetry. I loved poetry before I took this course, but I hate it now. Matt himself is a TA which is unfair for others. It is not at all an introductory course.       Don't regret afterwards, believe me its the worst it can ever be.
+
+--- Rating #19 ---
+Class: ENG102
+Date: 2011-04-09 16:13:52 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Dont take this class. Matt is a nice guy but the class is terrible. Very boring lectures, lots and lots of writing, hard to understand and overall not enjoyable.
+
+--- Rating #20 ---
+Class: ENG102
+Date: 2011-01-12 11:33:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I am so glad to drop this course. Definitely would not recommend.

@@ -1,0 +1,280 @@
+Professor: Steven Ko
+Professor Legacy ID: 2748049
+Professor ID: VGVhY2hlci0yNzQ4MDQ5
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.6
+Avg Difficulty: 3.8
+Num Ratings: 43
+Would Take Again Percent: 72.093
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT201
+Date: 2026-01-24 07:01:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+hard and tough
+
+--- Rating #2 ---
+Class: CMPT201
+Date: 2026-01-02 22:38:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+For CMPT 201, it doesn't really matter what prof you take it with, as the entire course is designed to be completely standardized. Online lecture notes are good if you miss class, and be sure to keep up with assignments as they're worth more than half your grade.
+
+--- Rating #3 ---
+Class: CMPT201
+Date: 2025-12-22 07:08:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is a good teacher overall, but he gave many students (nearly half the class) a zero on one assignment after accusing them of cheating. Unfortunately, he did not give those students an opportunity to explain their side, and it feels as though he had already made up his mind.
+
+--- Rating #4 ---
+Class: CMPT201
+Date: 2025-12-22 06:36:18 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Steve is a solid prof, but wasn't a fan of his super strict assignment policies. It's not hard to do well in his class though and I would still recommend him to most people.
+
+--- Rating #5 ---
+Class: CMPT201
+Date: 2025-12-21 14:52:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Really good professor, lectures are worth attending, has good notes and you'll do great in his exams as long as you study properly. He does seem very harsh on his cheating policy, as I have a friend who did the assignment without AI or help and got 0 for a academic integrity violation.
+
+--- Rating #6 ---
+Class: CMPT201
+Date: 2025-12-20 22:10:40 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Steve Ko is a very good professor. with extremely fair exams and a strict cheating policy. Although, I doubt every he caught did cheat as it was a lot of students; I would suggest to write your code as uniquely as possible to avoid his detection system. His github repo notes are great, as his in class notes are messy.
+
+--- Rating #7 ---
+Class: CMPT201
+Date: 2025-12-20 22:07:30 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+He gave 58 students (Almost half the class) 0 on a assignment accusing them of using AI since they have simillar patterns/functions in their code. It's also pointless to convince him otherwise, as he's quite confident in his thinking. As long as you don't write industry standard code, its a good class as exams are very fair.
+
+--- Rating #8 ---
+Class: CMPT201
+Date: 2025-12-20 07:01:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best professor! Genuinely care for students, and I love his way of teaching.
+It really does make you go into classroom and pay attention to his lectures. Also, pls DO YOUR OWN WORK. Don't cheat
+
+--- Rating #9 ---
+Class: CMPT201
+Date: 2025-12-20 01:02:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Pros: 
+Cares a lot
+Good lectures
+Fair tests 
+
+Cons: 
+Didn't particularly like the assignments
+Labs/in class assignments do take time but are worth very little 
+Quiz marks affect assignment marks, so u ca mess up a quiz and it'll mess up assignment mark. It'd would have been better to separate the two and weight quizzes less.
+
+--- Rating #10 ---
+Class: CMPT201
+Date: 2025-12-17 23:14:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Ko is the best CS prof I've had so far. :) His teaching is super clear. The assignments are tough and take a lot of time, but they're totally worth it. Exams are fair. I'm sorry to hear a lot of students cheated on assignments. Please don't do that. You will definitely regret it when you get caught.
+
+--- Rating #11 ---
+Class: CMPT201
+Date: 2025-11-29 02:22:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+100/10 go to his lectures.  Lectures are compact but clear and organized; the textbook info is not hard to read but his lectures deliver the information better.  There are 5 long assignments (20-30hr) but they really help cement concepts taught in class.  I can't think of a better prof to teach 201 than Stevey :)
+
+--- Rating #12 ---
+Class: CMPT201
+Date: 2025-06-27 00:54:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+great prof hes rlly good at explaining concepts. there were some in class participation activities but overall easy to reach outside of class either in office hours or on piazza. super hard class but hes a great prof
+
+--- Rating #13 ---
+Class: CMPT201
+Date: 2025-01-10 06:26:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best professor I've had at SFU. His lecture style is incredibly straightforward and simple; never felt lost. Provided notes are well written and comprehensive. Assignments (later ones) are challenging but very rewarding. No surprises on the exams; what is taught is tested. Will remember 201 as a formative course in my education.
+
+--- Rating #14 ---
+Class: CMPT201
+Date: 2025-01-07 07:52:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He makes a lot of sense in lectures and is very willing to help students understand. In class activies and labs were really helpful towards assignments. This class was assignment HEAVY. and they are extremely difficult. Plus the environment that we have to code on is really strict and not enjoyable. Great prof, hard course.
+
+--- Rating #15 ---
+Class: CMPT201
+Date: 2025-01-04 11:31:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Initially disliked Steven for being strict, with no late submission policy. Homework is heavy but essential for CMPT201 and helpful. Exams are fair, covering only class topics. Lectures are excellent; he's passionate, with clear explanations and great notes. Tough class, great professor! Beware there are pop up class activities!
+
+--- Rating #16 ---
+Class: CMPT201
+Date: 2024-12-17 09:06:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Steven is an excellent teacher! His lectures are engaging, and he explains concepts clearly, so don't miss class. The assignments are the hardest I've done in first 2 years but very rewarding&#8212;they teach you the concepts and improve your skills. Exams are fair, and if you complete the work yourself, you'll do well. Be ready to put in a lot of time!
+
+--- Rating #17 ---
+Class: CMPT201
+Date: 2024-12-15 06:34:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is very good at teaching!! The long assignments are heavy but that's just CMPT 201. Steve does a great job making sure everyone understands the concepts and he's fairly active on Piazza if you have questions about assignments. Definitely one of the better profs I've had so far.
+
+--- Rating #18 ---
+Class: CMPT201
+Date: 2024-12-13 21:08:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Steve really cares about his students' learning. He provides lots of examples (code and conceptual) in lectures and is very engaging. The assignments are tough but definitely doable, exams are extremely fair. This course is quite dense (hence 4 credits) but it will completely level up your understanding of everything. So kind and patient, 11/10.
+
+--- Rating #19 ---
+Class: CMPT201
+Date: 2024-12-12 08:25:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good stuff, pretty chill guy and assignments are long but fair. also to whoever the yapper was in class that kept talking over him and all that PLEASE CONSIDER LEARNING TO RAISE YOUR HAND!!!!! and shower too buddy
+
+--- Rating #20 ---
+Class: CMPT201
+Date: 2024-12-12 08:22:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great professor, you can really tell he loves teaching. If the class didn't understand a concept, he would go over it again with a different example until mostly everybody gets it. Lectures were really engaging and Steve was very enthusiatic. The assignments were challenging, but they weren't impossible to figure out.

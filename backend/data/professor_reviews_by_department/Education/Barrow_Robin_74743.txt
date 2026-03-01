@@ -1,0 +1,271 @@
+Professor: Robin Barrow
+Professor Legacy ID: 74743
+Professor ID: VGVhY2hlci03NDc0Mw==
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 3
+Avg Difficulty: 3.3
+Num Ratings: 26
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: EDUC230
+Date: 2017-11-06 20:40:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+very easy course. only midterm, final, and tutorial participations. no assignments or anything and the TA's are very helpful. Make sure you dont study last minute though.
+
+--- Rating #2 ---
+Class: EDUC230
+Date: 2015-04-18 04:00:39 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+The lectures are quite long and boring, but it's an easy class. I did not read the textbook at all. I judge those who received anything less than a B+ in this class.
+
+--- Rating #3 ---
+Class: EDUC230
+Date: 2014-12-28 23:16:27 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This class is quite boring and not enjoyable to me mainly because i don't like the content in this course. After all, it is an easy course to get a moderate grade.
+
+--- Rating #4 ---
+Class: EDUC230
+Date: 2014-07-30 05:03:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+More philosophy than education. Was not an enjoyable class.
+
+--- Rating #5 ---
+Class: EDUC230
+Date: 2014-05-09 02:00:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I'll be honest and say that lectures can be boring, and sometimes so can the textbook. However, the material is fairly interesting. If you plan on becoming a teacher, it will give you a different approach on the education system. Only two in class exams and a paper. Great guy, very nice.
+
+--- Rating #6 ---
+Class: EDUC230
+Date: 2012-04-06 04:57:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Lectures can be a little dull if you aren't interested in the topic, however he explains really well and is passionate about what he does. Only had 2 papers and a final. Very easy marking. His english accent can put you to sleep - I had wonderful naps in that class.
+
+--- Rating #7 ---
+Class: EDUC230
+Date: 2011-10-26 19:28:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+sooo boring do not take this class!
+
+--- Rating #8 ---
+Class: EDUC230
+Date: 2010-04-14 12:06:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I really enjoyed taking this course. The material is not so difficult and the lectures are very clarifying. Dr. Barrow is a very good professor and he is very patient and helpful.I strongely recommend this course to anyone in the education area.
+
+--- Rating #9 ---
+Class: EDUC230
+Date: 2009-12-09 00:05:42 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+One of the best lecturers I've ever had. His views on education cut through the emotional fog that clouds so many educational debates. He's actually willing to think his way to a judgement or two. How rare and refreshing!
+
+--- Rating #10 ---
+Class: EDUC230
+Date: 2009-12-07 23:27:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Dr. Barrow was a great prof! The class was a little dull but overall the material was pretty interesting, and he does his best to explain different concepts. We got a rewrite of the first paper, second paper was a little lengthy and final was easy (if you studied). Everyone applauded for him at the end of his last lecture =)
+
+--- Rating #11 ---
+Class: EDUC230
+Date: 2009-06-17 22:08:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Did intersession with him. Not too difficult as it was a midterm and a final. He has quite the subtle humor and is one of the more &quot;nice&quot; philosophers around. We talked about a lot of different topics and he definitely tries to input his view on them. Otherwise decent class, can get away with not really reading but writing all that he says down.
+
+--- Rating #12 ---
+Class: EDUC230
+Date: 2008-11-13 03:13:09 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+best class ... changes how you understand school and view you personal experince as a student   - Phil of Ed.
+
+--- Rating #13 ---
+Class: EDUC230
+Date: 2008-06-25 15:14:53 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Robin's class was interesting, but since he wrote the text, essentially just repeating the readings.  The focus of the class was philosophy, and not as much education as I had expected.  It was a decent class, with fair grades.
+
+--- Rating #14 ---
+Class: EDUC230
+Date: 2008-03-28 03:25:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Ridiculously easy but the lectures are painfully long and boring. It is best to play devil's advocate in tutorial but go along with whatever Robin says for your essay.  Attendance for lecture is not important but attending the tutorial is essential.  Very little work required. An easy credit if you can think philosophically and write well.
+
+--- Rating #15 ---
+Class: EDUC471
+Date: 2007-05-23 05:46:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He's not kidding when he demands concise critical thinking. If you don't consider yourself an 8/10+ when it comes to written English, avoid his class! You MUST be able to articulate, and he's looking to fail a couple people per course. Anything he tells you on the first day is to be taken LITERALLY; decide then whether to drop or tough it out.
+
+--- Rating #16 ---
+Class: EDUC230
+Date: 2007-04-21 03:37:23 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Neat guy, funny guy, nice guy with intersting lectures. But..he solidifies my idea that philosophy is really common sense. He and probably most philosophers over-complicate everything. The course could have been boiled down and focused into 4 weeks. (Philosophy= a likely career with Black-Top Taxis)
+
+--- Rating #17 ---
+Class: EDUC230
+Date: 2006-11-02 06:06:50 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I think he takes the side of teaching subjects and not teaching students. He's too philisophical and not practical enough.
+
+--- Rating #18 ---
+Class: EDUC220
+Date: 2005-07-17 22:27:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+he is the most amazing brilliant proff ever!!! i love him & wish he never left!!!!
+
+--- Rating #19 ---
+Class: EDUC
+Date: 2005-02-09 13:34:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Excellent a rare treat
+
+--- Rating #20 ---
+Class: EDUC433
+Date: 2004-06-08 23:07:52 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+What was he really talking about&#63; I have no clue.

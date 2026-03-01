@@ -1,0 +1,76 @@
+Professor: Joseph Clark
+Professor Legacy ID: 2304401
+Professor ID: VGVhY2hlci0yMzA0NDAx
+Department (CSV): Culinary Arts
+Department (Fetched): Culinary Arts
+Avg Rating: 3.6
+Avg Difficulty: 2.6
+Num Ratings: 5
+Would Take Again Percent: 60
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: CA186
+Date: 2024-12-04 10:57:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Me and my friends consider this our 'fun class'. His powerpoints are always very concise and easy to follow, and he presents with a lot of energy and a positive attitude. There aren't many assignments, and the ones assigned are very straight forward and not super difficult. Exams are also easy. Absolutely love Joe and this class.
+
+--- Rating #2 ---
+Class: CA135
+Date: 2022-09-10 05:17:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Clark is an amazing professor. He is engaging and is great at explaining concepts to the class, his powerpoint slides were also very concise and informative. Tests and assignments were straightforward. His class is quite boring at times, especially with regards to the films shown in class as many were from the 50's-60's.
+
+--- Rating #3 ---
+Class: CA135
+Date: 2022-07-09 01:34:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Clark is a good lecturer and his assignments/exams were straightforward and fair. His lecture slides contain the key points but it's important to pay attention in lecture, which he also posts online. Dr. Clark enjoys showing films from the 50s-60s which can be boring.
+
+--- Rating #4 ---
+Class: CA186
+Date: 2021-12-23 10:57:39 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+The lectures online are boring as they are pretty long and honestly not worth attending at times (since they're also recorded). The grading definitely lies in your TA's hands as it depends who you get (hopefully an easy marker) and there aren't many assignments as we only had 3 assignments, a midterm, and a final.
+
+--- Rating #5 ---
+Class: CA135
+Date: 2020-06-14 22:44:23 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+Try to avoid him, lecture are not recorded properly. His online session did not illustrate course well, but his exam/paper was actually graded in a very hard way. He didn't demonstrate lecture content well, how to expect students have a good performance? Plus, a lot of bad questions in the exam, a lot students argues with him but he didn't listen.

@@ -1,0 +1,50 @@
+Professor: Jean-Francois Begin
+Professor Legacy ID: 2578281
+Professor ID: VGVhY2hlci0yNTc4Mjgx
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 4.7
+Avg Difficulty: 4
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: ACMA830
+Date: 2025-12-10 11:02:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+JF is a very organized professor, and that usually makes a student's life much easier. His expectations for both the project and the exams are communicated very clearly throughout the course. The content can feel long and dense, so I recommend starting your studying early to avoid falling behind. He also provides constructive and helpful feedback.
+
+--- Rating #2 ---
+Class: ACMA830
+Date: 2025-02-12 01:58:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Extremely difficult subject, though he tries to make it as accessible as it can get. Still very math heavy and lots of homework, and challenging and long projects.
+
+--- Rating #3 ---
+Class: acma340
+Date: 2022-11-27 05:01:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great teacher, makes actuarial science as fun as it can be. Take his courses, he is a very caring teacher.

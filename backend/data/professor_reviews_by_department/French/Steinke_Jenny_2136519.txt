@@ -1,0 +1,24 @@
+Professor: Jenny Steinke
+Professor Legacy ID: 2136519
+Professor ID: VGVhY2hlci0yMTM2NTE5
+Department (CSV): French
+Department (Fetched): French
+Avg Rating: 4.5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: FREN120
+Date: 2016-04-30 14:25:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Languages are hard, Jenny is so nice and helpful but you really need to attend class because falling behind is super easy! The class is mostly quizzes, tests and pop quizzes. As I said if you keep up with everything and stay organized it can be an easy good grade! Oh, there is also weekly participation online that you have to remember to do!

@@ -1,0 +1,24 @@
+Professor: Shanny Chuah
+Professor Legacy ID: 3112281
+Professor ID: VGVhY2hlci0zMTEyMjgx
+Department (CSV): Gender Studies
+Department (Fetched): Gender Studies
+Avg Rating: 3
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: 411
+Date: 2025-07-25 22:38:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Get ready to read and write. You will need to pay for field trips.

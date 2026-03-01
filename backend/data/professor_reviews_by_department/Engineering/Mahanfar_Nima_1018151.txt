@@ -1,0 +1,115 @@
+Professor: Nima Mahanfar
+Professor Legacy ID: 1018151
+Professor ID: VGVhY2hlci0xMDE4MTUx
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 4.6
+Avg Difficulty: 3.4
+Num Ratings: 8
+Would Take Again Percent: -1
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: ENSC325
+Date: 2010-01-10 00:39:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is the best prof at SFU. I dont know what this guy talks about, well he covered the theory and then solved as many questions as was needed. He is 10 times better than Ash or whoever I have taken courses with. The text book was great (100 times better than Sedra). Overall Nima was the greatest prof that I have had at SFU.
+
+--- Rating #2 ---
+Class: ENSC325
+Date: 2009-07-28 18:42:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Best prof I ever had
+
+--- Rating #3 ---
+Class: ENSC325
+Date: 2009-02-18 13:05:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Excellent professor. I'm sure he will be a very well known and important person in future of his life.
+
+--- Rating #4 ---
+Class: ENSC325
+Date: 2009-01-05 00:08:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Awesome prof.
+
+--- Rating #5 ---
+Class: ENSC325
+Date: 2008-08-13 22:03:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is one the best profs at SFU. His lectures were well prepared, and to the point. Nima always had a very nice attitude.
+
+--- Rating #6 ---
+Class: ENSC325
+Date: 2008-08-12 00:54:55 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I found his lectures were very unorganized.  All he did was solve example after example with no theory or explanation behind it.  The text book was almost as bad, with only very specific examples and no solved problems.  The tutorials were also a waste of time.  His only strength was his easy going attitude.
+
+--- Rating #7 ---
+Class: ENSC325
+Date: 2008-03-24 21:44:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+The best 325 prof we have.  Nima took out all the crap that you'd never calculate by hand and focused on building intuition for 'first-order' analysis... Transistor behavior was my weakest area in 225.  After 325 with Nima, I can now figure out impedances/gains of most single/multi-stage transistor amps by inspection.
+
+--- Rating #8 ---
+Class: ENSC325
+Date: 2007-08-16 22:35:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Nima is one of the best teacher/professor I have had in my whole life. He spends an insane amount of time preparing for his lectures, labs, assignments, quizes, etc. And I have learned SO MUCH from him. I have never seen a prof more dedicated to teaching. But be prepared, his course work load is very heavy! I'll update when final grade is out.

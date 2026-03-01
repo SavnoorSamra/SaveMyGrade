@@ -1,0 +1,11 @@
+Professor: Aaron White
+Professor Legacy ID: 1155142
+Professor ID: VGVhY2hlci0xMTU1MTQy
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

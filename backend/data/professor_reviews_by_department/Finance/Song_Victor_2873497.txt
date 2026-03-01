@@ -1,0 +1,120 @@
+Professor: Victor Song
+Professor Legacy ID: 2873497
+Professor ID: VGVhY2hlci0yODczNDk3
+Department (CSV): Finance
+Department (Fetched): Finance
+Avg Rating: 1.9
+Avg Difficulty: 4
+Num Ratings: 8
+Would Take Again Percent: 25
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: BUS413
+Date: 2026-02-05 08:13:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Hard to understand. Poor teaching skills.
+
+--- Rating #2 ---
+Class: BUS418
+Date: 2026-01-29 03:35:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+does not respond to emails. impossible to reach outside of class time.
+
+--- Rating #3 ---
+Class: BUS413
+Date: 2026-01-27 06:18:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the best business profs I had at SFU, materials he taught was very practical. Friendly guy if you &#8220;participate&#8221; in his in class discussions. He will remember who does. Extremely selective about presentations, be prepared to answer questions about tiny details. But if he remembers you from the class discussions, it's a much easier course.
+
+--- Rating #4 ---
+Class: BUS418
+Date: 2025-12-18 04:31:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The professor was very uncomfortable to work with
+
+--- Rating #5 ---
+Class: BUS418
+Date: 2025-12-18 04:06:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The material was easy, but the workload was heavy in a short period of time. The class was run under a strict structure with many rules, particularly regarding participation and phone use. The classroom environment often felt uncomfortable, and student input did not seem fully acknowledged. Students may want to consider carefully before enrolling.
+
+--- Rating #6 ---
+Class: BUS418
+Date: 2025-12-17 21:22:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+This course is way too stressful and overwhelming, creating an uncomfortable experience.
+
+--- Rating #7 ---
+Class: BUS418
+Date: 2025-11-23 17:51:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Worst professor I have ever met at SFU!!!
+
+--- Rating #8 ---
+Class: BUS418
+Date: 2023-04-05 22:59:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Hes one of the better profs at SFU but beware he has VERY strict classroom rules such as 
+- no cameras pointing at him (so dont stand up ur ipad) 
+- No phones at all, esp if it rings
+- Be early or u get told off pretty bad
+
+His teaching is verbal so listen. Participation worth 15%. Major group project worth 15%.

@@ -1,0 +1,76 @@
+Professor: Anjali Bal
+Professor Legacy ID: 1631486
+Professor ID: VGVhY2hlci0xNjMxNDg2
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.8
+Avg Difficulty: 2.4
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: BUS343
+Date: 2017-03-22 13:07:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Angali was great, I hope she is still teaching somewhere!
+
+--- Rating #2 ---
+Class: BUS448
+Date: 2012-02-12 19:03:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Angali is my favorite teacher because she makes you laugh while teaching. My favorite class.
+
+--- Rating #3 ---
+Class: BUS448
+Date: 2012-02-12 18:29:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+The best class I have taken! Anjali was really helpful and challenging in a good way.
+
+--- Rating #4 ---
+Class: BUS345
+Date: 2012-02-09 18:49:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+4 years of SFU business and I still haven't seen a teacher as interesting and nice as Anjali.  She is one of my favourite prof's hands down.  Very helpful, super interesting lectures, uses a lot of real life examples to explain textbook concepts.  She was on the honour roll list of Business Professors.
+
+--- Rating #5 ---
+Class: BUS343
+Date: 2011-10-26 14:29:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+My first marketing class ever and she made it interactive and interesting (plus we got to taste test nacho chips in class). Gave me lots of feedback on my assignments.

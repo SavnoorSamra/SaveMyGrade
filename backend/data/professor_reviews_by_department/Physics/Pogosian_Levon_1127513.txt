@@ -1,0 +1,141 @@
+Professor: Levon Pogosian
+Professor Legacy ID: 1127513
+Professor ID: VGVhY2hlci0xMTI3NTEz
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 4
+Avg Difficulty: 3
+Num Ratings: 10
+Would Take Again Percent: 75
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: PHYS125
+Date: 2022-12-27 21:15:17 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+A pretty caring guy, but his teaching style isn't the best. He solves questions for the whole lecture and sometimes he doesn't even understand the questions he assigns, and then gets super confused. You should already enjoy physics if you want to succeed in this class. The midterms are decently difficult. The homework might take long though
+
+--- Rating #2 ---
+Class: PHYS125
+Date: 2022-12-19 22:23:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Levon's kind & funny, but his deliverance with PHYS125 wasn't great. He was confused with some topics, and he sometimes came to lectures ill-prepared. So his lectures weren't so useful. But he'd make time outside of class to help, and his grading was VERY lenient. I'm sure he's a good prof with other courses, but 125 wasn't a strong point for him.
+
+--- Rating #3 ---
+Class: PHYS126
+Date: 2021-12-16 01:36:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+More prof's need to be like him. most profs are great people and, not-so great at teaching. Levon is a great person and a great prof.
+
+--- Rating #4 ---
+Class: PHYS126
+Date: 2021-12-02 19:32:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Good prof, best of all the professors i've had. He's caring, his midterms are easy. good prof.
+
+--- Rating #5 ---
+Class: PHYS211
+Date: 2015-01-07 19:55:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Great prof. Somewhat dry lectures and can be a bit hard to follow, but he always stops and begs the class to interrupt if there is any confusion.  His assignments are tough but they're good prep work for the exams and go beyond what he'd expect of you on a test. Fair tests and very kind outside of class, especially if he sees you work for it.
+
+--- Rating #6 ---
+Class: PHY131
+Date: 2014-04-24 21:44:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Physics labs were marked by the TA. The professor surveyed the class and does pre-lecture. Feel free to ask the TA's and the prof questions! He seems nice, and interested in the subject. The practical final exam wasn't too hard, just make sure you have a detailed lab notebook and pay attention to every experiment, as well as the practice exam.
+
+--- Rating #7 ---
+Class: PHYS109
+Date: 2013-09-19 13:48:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Best I ever had!!! Armenian teacher at SFU:) great!
+
+--- Rating #8 ---
+Class: PHYS211
+Date: 2010-01-27 02:20:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+the best prof I had at SFU
+
+--- Rating #9 ---
+Class: PHYS211
+Date: 2009-01-15 00:51:05 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+should somehow make classes more interesting.
+
+--- Rating #10 ---
+Class: PHYS126
+Date: 2008-04-25 20:41:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+My class was one of the first classes Levon taught at SFU. Although sometimes he minimizes his explanation and let Math do the job, which could be difficult sometimes. He sometimes follow the lecture notes too mechanically. However, he's always available for help, a very nice prof. I find him quite approachable, and that helps a lot.

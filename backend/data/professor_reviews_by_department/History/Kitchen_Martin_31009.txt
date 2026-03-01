@@ -1,0 +1,206 @@
+Professor: Martin Kitchen
+Professor Legacy ID: 31009
+Professor ID: VGVhY2hlci0zMTAwOQ==
+Department (CSV): History
+Department (Fetched): History
+Avg Rating: 2.8
+Avg Difficulty: 3.4
+Num Ratings: 15
+Would Take Again Percent: -1
+
+Ratings Count Returned: 15
+
+--- Rating #1 ---
+Class: HISTORY
+Date: 2014-12-29 02:02:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Dr. Kitchen was an absolutely amazing prof. I took many of his classes and always looked forward to his lectures and tutorials. Great stuff.
+
+--- Rating #2 ---
+Class: HISTORY
+Date: 2014-10-29 00:35:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+I took several courses from Dr.. Kitchen while doing my history degree. It was a pleasure to learn from such an accomplished and passionate historian.  He always was most helpful when I had questions and was generous with his time.
+
+--- Rating #3 ---
+Class: HIST201
+Date: 2010-01-15 19:16:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Amazing, interesting, engaging, passionate, talented.
+
+--- Rating #4 ---
+Class: HIST225
+Date: 2008-10-19 14:36:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Horrible professor.  Would cancel class to do research for his next book.  Would only use his text in class - money grab.  Knew material but didn't know how to teach.
+
+--- Rating #5 ---
+Class: HIST
+Date: 2006-02-09 17:44:58 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Excellent prof. I took several European history and WW2 courses from him. Dr. Kitchen captivated me with his vast experience and insightful stories. He made it exciting to come to class. I am dissapointed that he will not be teaching this semester.
+
+--- Rating #6 ---
+Class: HIST
+Date: 2005-04-02 15:54:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Horrible instructor.
+
+--- Rating #7 ---
+Class: HIST225
+Date: 2004-12-03 21:00:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Kept cancelling classes to travel to Europe.  Very arrogant.  Stay away if you can.
+
+--- Rating #8 ---
+Class: HIST225
+Date: 2004-08-06 22:04:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Amazing, best professor I have ever had. He is intelligence and writes amazing works of history.Wish we had more like him.....
+
+--- Rating #9 ---
+Class: HIST225
+Date: 2004-07-10 18:41:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He is the best professor I have ever had!
+
+--- Rating #10 ---
+Class: HIST225
+Date: 2004-04-04 13:44:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Whoa guys, cool it! I had him a while ago, maybe he's gotten old, but I don't remember him as bad at all. Actually reminded me of Indiana Jones's English sidesick going off on int'l expeditions on the weekends. Seemed knowledgeable enough
+
+--- Rating #11 ---
+Class: HST205
+Date: 2004-02-19 15:54:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Arrogant piece of work. He lost part of my midterm (10 % of my entire grade) blamed it on me (accusing me of cheating) then left the country.  I got 0 for 10% of my final grade.  To boot, the history dpmt stood beside this fine specimen of an intellect.
+
+--- Rating #12 ---
+Class: HIST
+Date: 2003-07-01 18:57:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Man appears to be senile. Talks about irrelevant things, drifts in and out of material and leaves you hanging. Will often ignore you if he does not like your questions.
+
+--- Rating #13 ---
+Class: HIST225
+Date: 2003-03-20 23:00:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #14 ---
+Class: HIST225
+Date: 2003-02-08 20:19:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #15 ---
+Class: HIST225
+Date: 2002-12-04 20:07:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+A major disappointment.  Totaly unhelpful and out of touch.

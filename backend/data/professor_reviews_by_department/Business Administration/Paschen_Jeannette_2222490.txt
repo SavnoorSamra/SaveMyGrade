@@ -1,0 +1,141 @@
+Professor: Jeannette Paschen
+Professor Legacy ID: 2222490
+Professor ID: VGVhY2hlci0yMjIyNDkw
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3
+Avg Difficulty: 2.8
+Num Ratings: 10
+Would Take Again Percent: 50
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: MRKT1199
+Date: 2018-08-18 00:25:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Makes marketing math fun! Yes, you will need to read but if you do the reading and attend class (and actually do the exercises), you will get a good grade in the exam.
+
+--- Rating #2 ---
+Class: MRKT1199
+Date: 2018-08-15 03:01:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Fun and important if you want to get a good job. My suggestion: Stay on top of the reading and assignments and you will be A-OK.
+
+--- Rating #3 ---
+Class: MRKT1199
+Date: 2018-08-11 22:07:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Worst
+
+--- Rating #4 ---
+Class: BUS341
+Date: 2017-11-20 12:59:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I really enjoyed the marketing class, although it was a lot of work. Content is applicable to all careers. Jeanette is very knowledgeable, related the content to practice and kept the class engaged. You choose your own group project to carry through which is fun and means applying what you learn to a real-life example.
+
+--- Rating #5 ---
+Class: BUS361
+Date: 2017-09-29 18:04:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I dont quite know what happened in the earlier courses, but I had a great experience (Summer 2017). Patient and engaging instructor, really good application of the learnings in the project. Quizzes were not too hard, downright easy if you had done your readings. Make sure to create the video for 2% of bonus grade at the end.
+
+--- Rating #6 ---
+Class: BUS361
+Date: 2017-09-19 21:15:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I took 361 with her in the summer term, and my experience was quite different from what others have been sayin here. Respectful, accessible outside of class, fair marking, interesting real-life examples. There was no TA, so she did all the marking herself. Learned relevant stuff for my professional career.
+
+--- Rating #7 ---
+Class: BUS361
+Date: 2017-04-19 22:58:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Lectures were pointless. The only reason you should go to class is to get participation marks.   Semester long group project was ironically poorly planned and expectations were vague throughout. You were able to choose your group which is nice if you take the course with friends. SOL if you didn't.  I do not feel ready to take the CAPM exam.
+
+--- Rating #8 ---
+Class: BUS361
+Date: 2017-04-19 22:04:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Boring lectures, vague criteria, lazily written final.  Group project was based entirely on documentation, not success of project. Some groups had 3 people show up to their event, other offerings usually base grades on measurements achieved.  Exam 30 min, just memorization of random stuff on the slides eg How many areas are in the PMBOK? - really?
+
+--- Rating #9 ---
+Class: BUS361
+Date: 2017-03-25 18:08:56 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Nice to talk to, but lectures were boring. Expectations for assignments which make up the majority of your grade were very unclear. Show up to class for quizzes but other than that lectures were useless. I do not recommend taking any classes with her.
+
+--- Rating #10 ---
+Class: BUS361
+Date: 2017-03-07 15:38:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Probably the worst prof I've taken a class with at Beedie in the past 4 years. Not available outside the classroom, criteria for all assignments is very vague, lectures are incredibly boring and she shows no passion for the course. Don't take this course with her as it will be a very big regret. She has made this course a waste of money.

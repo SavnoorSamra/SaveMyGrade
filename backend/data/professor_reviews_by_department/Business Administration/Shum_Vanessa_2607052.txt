@@ -1,0 +1,128 @@
+Professor: Vanessa Shum
+Professor Legacy ID: 2607052
+Professor ID: VGVhY2hlci0yNjA3MDUy
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.1
+Avg Difficulty: 3.2
+Num Ratings: 9
+Would Take Again Percent: 77.7778
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: BUS381
+Date: 2020-08-28 03:19:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Vanessa is an all-around good lecturer. She knows HR material inside out, and makes it as relevant and applicable as possible. With the shift to online due to COVID-19, the workload was heavier compared to other professors (there's an assignment/quiz due each week, most group-related). Nevertheless, the class was enjoyable with Vanessa.
+
+--- Rating #2 ---
+Class: BUS381
+Date: 2020-08-25 01:12:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Vanessa was a great instructor. If you have any questions, she always find time to answer them in a timely manner. She puts lots of effort into her lecturing to make it fun and engaging. She has plenty of academia and job experience that she connects to. Loved her class! Take BUS381 with her :) even though I hate HR depts, she gives me hope
+
+--- Rating #3 ---
+Class: BUS381
+Date: 2020-08-18 15:53:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Despite covid protocols and the course moving online, Vanessa made live lectures engaging and not dry. She is clearly passionate about HR and cares for her students. In an online class of 100 students, she made time to answer questions that students had during lecture. Fair marker and accessible. Go to class and you will pass easily.
+
+--- Rating #4 ---
+Class: BUS381
+Date: 2020-08-14 23:05:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Vanessa is really passionate and caring and available for questions. She really knows HR. Guest speakers were interesting. There was a hiccup during the midterm but she was generous and gave people a chance to do well on the FInal. I just finished the final and I think it's not hard if you prepared well. We'll see after I get my grade!
+
+--- Rating #5 ---
+Class: BUS381
+Date: 2020-08-14 22:52:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Vanessa is a good/passionate lecturer who can explain course materials clearly. She brings in real life examples during lecture and if you pay attention, she gives examples that relate to assignments. Exams are fair, material is fairly straight forward. Keep up with lecture material and you'll do fine in this course.
+
+--- Rating #6 ---
+Class: BUS381
+Date: 2020-08-13 22:36:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Vanessa is a really nice teacher and she makes the lectures easy to go through. Overall the course is an easy course, so expect the curve to be high. Most of the midterm questions are based on readings and textbook notes. If you are going into HR then lectures are really useful, but do the readings and take notes and you'll pass.
+
+--- Rating #7 ---
+Class: BUS381
+Date: 2020-07-25 05:00:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This was an interesting class. To put things into perspective, the grading is very unclear. Almost every other week, there's an in-class assignment. Tests are from the information in the textbook, and the lectures are pretty pointless. I think it's her first time teaching a class, because the her expectations are very unclear.
+
+--- Rating #8 ---
+Class: BUS381
+Date: 2020-07-17 22:33:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I don't agree with the other review for Vanessa. Vanessa's midterm was still quite straight forward and she provided a break between the MC and short answer section which I hadn't experienced before, it helped a bunch. LOTS of group work, you can only hope to have a good group. I think she marks fairly and is often available for any help.
+
+--- Rating #9 ---
+Class: BUS381
+Date: 2020-06-30 04:25:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Midterm instruction listed an end time that's 10 min later and many students were kicked out of the canvas quiz midway. Her questions that said (select all the apply) had were not able to multi-select. Briefly after, she emailed everyone that they can re-do some questions, then decided not to and base our midterm MC result on how we do in the final

@@ -1,0 +1,50 @@
+Professor: Cara Tremain
+Professor Legacy ID: 3088092
+Professor ID: VGVhY2hlci0zMDg4MDky
+Department (CSV): Archaeology
+Department (Fetched): Archaeology
+Avg Rating: 5
+Avg Difficulty: 3.3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: ARCH100
+Date: 2025-08-10 00:19:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Professor Tremain has the cutest British English accent! The class average was a C+, but she's still an empathetic prof!
+
+--- Rating #2 ---
+Class: ARCH100
+Date: 2025-04-20 00:35:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Cara is a super nice prof, she doesn't give any information on her slides or any extra notes on canvas because she wants you to attend the class, but that's totally fair and her classes are great. She's funny and also just genuinely very nice and passionate about what she teaches. Only exams for marks, no assignments. AWESOME PROF!!
+
+--- Rating #3 ---
+Class: ARCH100
+Date: 2025-04-11 20:10:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Tremain was fantastic, we were graded on 3 midterms, but they were very fair, and she didn't focus on the dates for anyting, it was mostly focused on the concepts and people we learnt about in class. The lectures were 3hrs, but her enthusiasm really made them interesting, shes a good lecturer and was happy to talk during breaks and after class.

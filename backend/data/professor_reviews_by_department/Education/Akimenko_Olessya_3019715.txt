@@ -1,0 +1,24 @@
+Professor: Olessya Akimenko
+Professor Legacy ID: 3019715
+Professor ID: VGVhY2hlci0zMDE5NzE1
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: EDUC100W
+Date: 2026-02-13 02:40:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+She is very nice and approachable, not just for this course but also as my BUS217 TA!

@@ -1,0 +1,271 @@
+Professor: Jerry Sheppard
+Professor Legacy ID: 229912
+Professor ID: VGVhY2hlci0yMjk5MTI=
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.1
+Avg Difficulty: 2.7
+Num Ratings: 39
+Would Take Again Percent: 69.2308
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS478
+Date: 2025-04-08 06:32:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Doesn't matter whether you spent 20 hours or 2 hours on your assignment, he grades almost every submission a B or B+ and provides almost no useful feedback (standard deviation for class grades is VERY small). He also goes on random useless tangents during lectures.
+
+--- Rating #2 ---
+Class: BUS478
+Date: 2024-01-04 17:07:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+While BUS 478 is quite a boring class, Jerry puts effort in to try to make it a bit more engaging. He's a nice guy and is pretty understanding when you need help. His assignments are time consuming and can be difficult, and the grade ranges are odd and extremely small. This makes grading quite confusing given that it is a curved class.
+
+--- Rating #3 ---
+Class: BUS478
+Date: 2022-08-14 01:40:46 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He just reads off of the slides with an occasional anecdote. I didn't learn anything new in this class. Lots of group work, which was extremely frustrating. The grading felt very arbitrary, but considering this is a qualitative course (BUS478), I guess there's not much he can do about that. Overall, I wouldn't take it again with him again.
+
+--- Rating #4 ---
+Class: BUS478
+Date: 2021-12-14 07:48:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Solid choice for a prof! I really enjoyed his class as he made it bearable. I can see this class being a nightmare with other profs. He was super nice and lenient, always willing to help. The nature of the course is that you dont learn much, his templates to do the assignments are awesome! I would take him again in a heartbeat!
+
+--- Rating #5 ---
+Class: BUS478
+Date: 2021-12-09 20:02:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jerry is a super nice prof and is very easygoing. The lectures are a mix of in-class activities (ungraded) and his lecture. The lectures are useless, as they don't have an impact on the assignments. Don't put in the effort because it probably won't be reflected in your grade. He seems to give every report the same grade (80%).
+
+--- Rating #6 ---
+Class: BUS478
+Date: 2021-01-03 07:35:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+You won't learn much but that's the nature of a capstone course. Jerry is a solid choice for 478. Easy marker and a lot of little assignments that add up. Consistent workload throughout the term however the individual paper is what really distributes the curve.
+
+--- Rating #7 ---
+Class: BUS478
+Date: 2018-12-10 21:46:32 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jerry is a nice guy but he doesn't know what he's doing most of the time. He mumbles and goes off tangent, so it's a waste of time going to class. But his midterm is straight forward and similar to the saple midterm. No need to use his textbook, just use his slides! You learn absolutely nothing from the class :)
+
+--- Rating #8 ---
+Class: BUS478
+Date: 2018-11-23 17:51:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Pros: Nice prof, easy going and not picky at all. Slides very useful for Mid-term Cons: expect to have a 20 pages individual paper, and, of course, 2 group papers. Basically, you can learn nothing from the class.
+
+--- Rating #9 ---
+Class: BUS478
+Date: 2018-03-28 07:56:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Tangents are funny. Notes are done for you. Good class.
+
+--- Rating #10 ---
+Class: BUS478
+Date: 2018-03-28 07:53:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Nice guy. Uses detailed grading sheet when he marks your papers which is helpful.
+
+--- Rating #11 ---
+Class: BUS478
+Date: 2018-03-28 07:26:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Enjoyed his lectures. Knows his stuff. Seems to care about his students. Fair marker.
+
+--- Rating #12 ---
+Class: BUS478
+Date: 2017-12-19 15:21:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Good prof. Definitely knows his stuff. Just an overall good guy vibe. :) *There's quite a bit of group work but the individual parts of the course are where the curve sets grades apart.
+
+--- Rating #13 ---
+Class: BUS478
+Date: 2017-03-31 14:57:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Wouldn't recommend Jerry. There are a lot of reports to write as well as a presentation. Midterm is relatively easy. However, he grades based on how he feels and is extremely inconsistent with his grading. His grading is unfair.
+
+--- Rating #14 ---
+Class: BUS478
+Date: 2014-10-28 12:06:50 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+- Three papers (10 to 25 pages each) + 1 big midterm + 1 presentation - Learn nothing about Strategy. - Awful teaching skills. - Take it with someone else that u learn something.
+
+--- Rating #15 ---
+Class: BUS478
+Date: 2013-04-17 16:57:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Boring but really nice. Not a hard marker...but that could turn out to be bad, as everyone in the class gets high grade and pushes the average high
+
+--- Rating #16 ---
+Class: BUS478
+Date: 2013-03-14 14:43:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Really helpful and understanding. I was not able to finish an assignment that was worth 30% on time and he was willing to give me an 2-day extension. He also tells interesting stories in class, though they may be a little long. :)
+
+--- Rating #17 ---
+Class: BUS303
+Date: 2011-04-22 04:20:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Absolutely the most lazy and boring professor I've ever had. Two group projects, two papers, and two evaluation on the two other groups. They were marked unfairly because he only accepts HIS answers. Just do yourself a favour and don't take this class with him.
+
+--- Rating #18 ---
+Class: BUS303
+Date: 2011-04-19 07:20:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+There is so much to do in his class. 2 group presenations and 2 case studies and a final. His lectures are boring as he reads the slide for half the class and students presentations for the other half. He expects you to know everything for the final. Lecture slides and info from presentations which is unfair as most are poorly done.
+
+--- Rating #19 ---
+Class: BUS303
+Date: 2011-04-19 01:08:33 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Ethics is a boring class already, yet he made the class even more boring. There were so many things you needed to do: a case on a book or an article, a debate, evaluations on other groups, two individual assignments, and a final exam. Lectures slides were very wordy and he basically read off the slides. He used full 3 hours with a 10 mins break.
+
+--- Rating #20 ---
+Class: BUS478
+Date: 2011-01-09 22:52:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Not using much practical experiences. Group presentation everyone will get a 3 no matter how hard you work. Generally will reply your email requests... I didn't learn anything new in this course to be honest.. I wanted someone very case based but it wasn't.

@@ -1,0 +1,141 @@
+Professor: Valorie Crooks
+Professor Legacy ID: 963362
+Professor ID: VGVhY2hlci05NjMzNjI=
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 3.3
+Avg Difficulty: 3
+Num Ratings: 10
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: GEOG486
+Date: 2025-03-04 23:31:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Really enjoyed the in-class discussions. This course requires deep participation.
+
+--- Rating #2 ---
+Class: GEOG386
+Date: 2020-11-18 17:10:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I really enjoyed this class. Valorie is clearly an expert in health geography and her enthusiasm for the subject showed.
+
+--- Rating #3 ---
+Class: GEOG386
+Date: 2020-05-07 23:25:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Terrible lecturer, awkward and disrespectful. Learned more from the TA than from the prof. Lectures were long with an extremely short break. Asks questions to class and stand there in silence until someone speaks up. Asked a question relating to the exam structure as her explanation was very vague and confusing, belittled me and said it was obvious
+
+--- Rating #4 ---
+Class: GEOG386
+Date: 2013-12-15 21:14:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Valorie herself was okay but she is an awful lecturer. Classes were a bore. Weekly readings and online discussions were irrelevant. I understand that this is a health geog course but I felt like there wasn't much geography related concepts. TA wasn't the greatest it was obvious she didn't enjoy TAing. Wouldn't recommended this course ever.
+
+--- Rating #5 ---
+Class: GEOG386
+Date: 2011-11-30 01:49:40 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+The course itself has no start, middle or end. Most of the class walked out not learning a single thing. Having a textbook would be very useful for a discipline such as Health Geography. Valorie is not a good public speaker. When she teaches or answers questions, it sounds like she is making stuff up on the spot.
+
+--- Rating #6 ---
+Class: GEOG386
+Date: 2010-04-13 00:06:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She's a really great lecturer and makes everything really clear! Really wants her students to do well! The final was very straight forward, just study the lecture slides well. I didn't like health geographies before taking this class but she changed my mind!
+
+--- Rating #7 ---
+Class: GEOG386
+Date: 2009-12-11 18:35:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Valorie's lectures are interesting and required to do well on the final exam, which took a full three hours to write. The videos shown in tutorial are a snooze, however, contain information that is vital to know for the final exam especially the true/false and multiple choice. The class did not have a midterm, so the final was brutal. Overall, grea
+
+--- Rating #8 ---
+Class: GEOG386
+Date: 2008-12-04 21:12:07 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+What on earth were we supposed to be learning about&#63; The whole class seemed a bit... superficial, as in, it all sounded like BS. She is also an extremely horrible public speaker! Sounds a but like a valley girl
+
+--- Rating #9 ---
+Class: GEO241
+Date: 2007-10-18 01:31:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Lectures correspond with text, but important to attend lectures to get added information. Study her notes and youre good to go! Very kind and approachable!
+
+--- Rating #10 ---
+Class: GEOG241
+Date: 2007-06-28 21:02:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+No Comments

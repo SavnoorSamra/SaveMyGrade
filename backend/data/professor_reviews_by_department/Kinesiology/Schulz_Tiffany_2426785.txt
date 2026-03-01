@@ -1,0 +1,37 @@
+Professor: Tiffany Schulz
+Professor Legacy ID: 2426785
+Professor ID: VGVhY2hlci0yNDI2Nzg1
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 4.5
+Avg Difficulty: 4
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BPK142
+Date: 2021-12-30 21:14:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+great lab ta. very understanding and easy to approach for help. lab material takes a lot of reading to memorize/get but it's generally not that bad. lab assignments were ok too
+
+--- Rating #2 ---
+Class: BPK142
+Date: 2019-01-16 19:06:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Amazing at explaining concepts, is both kind yet stern when it matters. People say shes a tough marker but if they actually see where and why they were marked wrong, they can see that her marking is both fair and justifiable. Also has a fun and unique sense of humour.

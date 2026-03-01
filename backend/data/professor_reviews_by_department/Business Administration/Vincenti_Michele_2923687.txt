@@ -1,0 +1,115 @@
+Professor: Michele Vincenti
+Professor Legacy ID: 2923687
+Professor ID: VGVhY2hlci0yOTIzNjg3
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.1
+Avg Difficulty: 2.6
+Num Ratings: 8
+Would Take Again Percent: 50
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: BUS313
+Date: 2026-01-07 00:28:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He had no idea what he was teaching. The corporate finance course is supposed to be taught by someone who knows finance. In the first midterm someone said the formula for covariance is wrong on the formula sheet he offered, and he had to check ChatGPT to see if the formula is correct! This was not the only time he did not know basic material.
+
+--- Rating #2 ---
+Class: BUS313
+Date: 2025-09-22 18:55:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Great prof. cares for his students, always available to help and answers emails quickly
+
+--- Rating #3 ---
+Class: BUS413
+Date: 2025-08-06 00:30:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+i found him a very good professor. He was always available to explain when I did not grasp the concepts myself.
+
+--- Rating #4 ---
+Class: BUS413
+Date: 2025-06-15 10:11:12 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Use the textbook to study for tests; there are questions that he does not prepare you for. Quizzes are relatively easy.
+
+--- Rating #5 ---
+Class: BUS312
+Date: 2025-04-23 06:59:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Not recommended
+
+--- Rating #6 ---
+Class: BUS312
+Date: 2024-12-17 15:34:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He cares about the students and he explains the topics very well
+
+--- Rating #7 ---
+Class: BUS312
+Date: 2023-12-05 23:17:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I thought that Vincenti was a great professor. He gave very clear guidelines for the course and straightforwardly explained everything. I would suggest reading the textbook chapters before class and using his lectures to clarify any confusion. If you read the text and do all the practice problems you can easily do well in his class.
+
+--- Rating #8 ---
+Class: BUS312
+Date: 2023-08-14 02:28:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+nice guy for the most part. accent makes it hard to understand, and the material is dry. quizzes are a joke, as approx 30% of the class cheats every week. told prof, and he said "if we saw someone cheating we'd take action". pretty garbage class, marked on barely anything, few opportunities to learn/practice.

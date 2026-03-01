@@ -1,0 +1,89 @@
+Professor: Momoko Ueda
+Professor Legacy ID: 2157448
+Professor ID: VGVhY2hlci0yMTU3NDQ4
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 3.3
+Avg Difficulty: 3.2
+Num Ratings: 6
+Would Take Again Percent: 50
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: CRIM355
+Date: 2022-04-22 22:10:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Distance education with Momoko was great, she replies quickly to emails and helped me out. As long as you read all of the required readings the tests and paper are easy.
+
+--- Rating #2 ---
+Class: CRIM402
+Date: 2022-01-07 00:56:01 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+she is ok
+
+--- Rating #3 ---
+Class: CRIM402
+Date: 2021-12-23 19:17:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very harsh marking rubric. Lectures are messy and material is dense. A lot of reading. Avoid.
+
+--- Rating #4 ---
+Class: CRIM355
+Date: 2021-11-20 05:00:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Probably the most dedicated TA I have ever had at SFU! Thanks Momo!
+
+--- Rating #5 ---
+Class: CRIM355
+Date: 2020-11-04 18:24:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+She was amazing! I would definitely take her courses again. Best TA at SFU!
+
+--- Rating #6 ---
+Class: CRIM355
+Date: 2016-07-14 15:15:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I would not recommend this course if you are taking as Distance Education, in class with another professor may be still better.  the course itself is not tough at all, but the marking is serious as an offence (Pun intended). My advise stay away.

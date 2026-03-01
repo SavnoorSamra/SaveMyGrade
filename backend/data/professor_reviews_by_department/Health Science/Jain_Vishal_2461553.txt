@@ -1,0 +1,141 @@
+Professor: Vishal Jain
+Professor Legacy ID: 2461553
+Professor ID: VGVhY2hlci0yNDYxNTUz
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 2.6
+Avg Difficulty: 4.2
+Num Ratings: 10
+Would Take Again Percent: 40
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: HSCI340
+Date: 2022-04-27 20:10:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+HSCI449.This guy does not know what communication is. He NEVER responds to emails even when you send follow-up emails. He says "Don't worry about it, it's very easy and as long as you write something within the rubric, you'll get an A". Well, that's a LIE! HARD MARKER! and his rubric are not clear at all. He's a nice person, but SHITTY PROF! AVOID!
+
+--- Rating #2 ---
+Class: HSCI340
+Date: 2019-08-09 15:50:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I thought the class was really easy... the concepts are super important and relevant if you want to remain in the health field. Just go in with an open mind and a willingness to learn. I would read the readings the night before and I got 5/5 on every quiz. He would ask questions like &quot;what does intersectionality mean,&quot; - super easy.
+
+--- Rating #3 ---
+Class: HSCI340
+Date: 2019-05-26 22:03:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Vishal is a nice person, but not an appropriate educator. He confuses almost everything; lectures, assignments, quizzes, exams. He over complicates things! In addition to that, there is no point in asking him questions because the answer will be over the top complicated. I would avoid taking classes with him. Just don't do it. Seriously.
+
+--- Rating #4 ---
+Class: HSCI340
+Date: 2019-05-13 04:40:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The course itself is challenging, but Vishal is very helpful during office hour if you have any issue. Vishal is a good listener, he very patient.
+
+--- Rating #5 ---
+Class: HSCI340
+Date: 2019-05-03 05:19:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Super good prof, however to do good in this class you have to go in depth in his readings. I tried studying his notes for his midterm and only got a 70%, but I ended up with an A-. He's really helpful if you go to him after class or during break and the quizzes are great exam prep. I hope to take another course with him in the future
+
+--- Rating #6 ---
+Class: HSCI340
+Date: 2019-04-02 03:41:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+If kindness made an instructor good at their job, then Dr. Jain would be all set. Unfortunately that's not the case. This person cannot facilitate meaningful class discussion, and generally may have the qualifications to teach this course but in now way has the expertise. Not great with accountability, regardless of how friendly he tries to be.
+
+--- Rating #7 ---
+Class: HSCI340
+Date: 2019-03-26 02:50:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Vishal is super approachable &amp; understanding. He tries to make dry topics interesting. He assigns a lot of readings which you get quizzed on some weeks but generally the quizzes are fair. The midterm was a bit difficult and the reviews for it were misleading. Gives you lots of chances to redeem. Over all he's a good prof and I would take him again!
+
+--- Rating #8 ---
+Class: HSCI340
+Date: 2019-02-14 20:54:05 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The prof tries hard to be nice in a way to make us feel like the class is okay. BUT ITS NOT! readings are hard to understand and complicated in terms of its concepts. The contexts covered in this class( which are pretty much already covered in other HSCI classes) are demonstrated in a very complex way which is hard to be understood by human beings.
+
+--- Rating #9 ---
+Class: HSCI340
+Date: 2019-02-13 10:57:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Complex readings without the explanation of what the concepts are beforehand. Started off the term really well by having everything laid out nicely, however as the semester progressed, lectures started getting dry and boring. Tough grader.
+
+--- Rating #10 ---
+Class: HSCI340
+Date: 2019-02-08 08:32:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Requires students to read complex papers and quizzes the students on topics covered with complex questions in readings before he discusses and explain concepts to students in class. Refuses to posts lecture slides before class and doesn't tell students what will and won't be on edited version of lecture slides.

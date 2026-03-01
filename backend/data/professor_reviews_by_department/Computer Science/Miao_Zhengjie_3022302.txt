@@ -1,0 +1,275 @@
+Professor: Zhengjie Miao
+Professor Legacy ID: 3022302
+Professor ID: VGVhY2hlci0zMDIyMzAy
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.2
+Avg Difficulty: 2.9
+Num Ratings: 21
+Would Take Again Percent: 52.381
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT354
+Date: 2026-02-02 20:48:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is very kind, caring, and approachable. He grades generously and records classes, which I found useful. Books aren't required, but suggested. The assignments have the right amount of difficulty and are largely relatable to the lecture materials. Tip: Although exams are open-book, watch out for some tricky questions that test your understanding.
+
+--- Rating #2 ---
+Class: CMPT354
+Date: 2025-12-25 06:09:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Miao is a great prof. Don't listen to these other negative comments. His assignments were extremely helpful and the exams were more than fair. They were open book and he marked very leniently. Very nice prof, I recommend.
+
+--- Rating #3 ---
+Class: CMPT354
+Date: 2025-12-18 06:50:46 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Exams are difficult and assignments have a time-consuming, frustrating setup. Lectures are uninteresting. This course is better suited for self-taught students who can learn independently. The main upside is the lenient grading rubric and generous scaling at the end. Also, the prof is kind of cute! :P
+
+--- Rating #4 ---
+Class: CMPT354
+Date: 2025-12-15 04:06:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Awful all the way around
+
+--- Rating #5 ---
+Class: CMPT354
+Date: 2025-12-15 01:10:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Assignments are doable, but is an awful lecturer. Can't understand very well, midterm and final were very hard and unfair. Completely unrelated to assignments or anything given before, avoid at all costs!
+
+--- Rating #6 ---
+Class: CMPT354
+Date: 2025-12-10 02:57:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+One of the better CMPT 354 instructors I've had. Clear, well-structured lectures and a very kind, approachable prof. 
+
+Highly recommend.
+
+--- Rating #7 ---
+Class: CMPT354
+Date: 2025-12-10 02:49:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He give good feedback and thought me the history MangoDB.
+
+--- Rating #8 ---
+Class: CMPT354
+Date: 2025-12-09 17:24:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Doesn't know how to teach. doesn't know how to reply to emails. Doesn't deserve to be a professor.
+
+--- Rating #9 ---
+Class: CMPT354
+Date: 2025-12-09 06:55:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He does not use body language to teach AT ALL. I mean buddy, Please use blackboard, please draw something so that students can grasp, his voice is TOO low that all the time he sticks mike near his mouth.
+
+May he read this and be more active in teaching! i am shocked where are the BASIC teaching skills gone.
+
+--- Rating #10 ---
+Class: CMPT354
+Date: 2025-12-08 04:09:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+the professor is NOT confident at teaching at all. He is a LOT accented, cannot understand most times and not at all a good teacher!
+
+--- Rating #11 ---
+Class: CMPT354
+Date: 2025-12-03 20:56:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I was so inspired so i took it twice
+
+--- Rating #12 ---
+Class: CMPT354
+Date: 2025-11-06 21:08:23 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+monotone + soft spoken + mumbly + accent = not a great lecturer. has good slides but rushes through important examples while drawing out the backgroundy/less important content. so the lectures were kind of painful. but exams were fair and he was helpful in office hours.
+
+--- Rating #13 ---
+Class: CMPT354
+Date: 2025-10-31 20:29:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Must take!
+
+--- Rating #14 ---
+Class: CMPT354
+Date: 2025-08-20 19:47:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Miao is very generous with both his grading scheme and giving tons of part marks. Exams are open book meaning your grade comes down to how well you are familiar with the material. Homework assignment do take a lot of time to complete. I found it difficult to understand Dr. Miao in lecture but his slides are very straightforwards.
+
+--- Rating #15 ---
+Class: CMPT354
+Date: 2024-12-06 03:15:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+assignments are heavy but fun. there's one coding assignment, no project.
+
+--- Rating #16 ---
+Class: CMPT354
+Date: 2024-09-24 03:30:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Not sure why my review was taken down but Mr. Miao is a great professor and tries very hard. He cares a lot about his students and wants you to do well. Very kind grading scheme and high class average. Would highly recommend.
+
+--- Rating #17 ---
+Class: CMPT354
+Date: 2024-08-12 00:31:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He clearly wants his students to do well and had a very kind grading scheme. Reasonable number of assignments and usually provided a program to check your answers for correctness. Recorded audio lectures. 3 midterms but dropped your worst. No final. Would definitely recommend!
+
+--- Rating #18 ---
+Class: CMPT354
+Date: 2024-08-07 20:26:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Not sure why SFU decided to let him teach an upper division course, because we learned nothing from him. His lecture is from other professor, and it is extremely difficult to understand what he is saying in the lecture. I feel like all of the knowledge I got from this course is from self-learning.
+
+--- Rating #19 ---
+Class: CMPT354
+Date: 2024-07-26 21:50:06 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The first assignment was unnecessarily difficult, after that they are doable and you actually learn something from them. The midterms are open book and difficult.
+
+--- Rating #20 ---
+Class: CMPT354
+Date: 2024-07-18 15:43:23 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He seems to be a nice guy but is completely out of touch with his students. He has taken the complexity of all topics to the extreme and I feel as though my foundation of SQL is poor as difficulty went from 0-100 instantly. The first assignment we had to learn complex syntax that is completely useless as it is not used anywhere in the real world.

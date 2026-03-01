@@ -1,0 +1,271 @@
+Professor: Stephen Spector
+Professor Legacy ID: 75400
+Professor ID: VGVhY2hlci03NTQwMA==
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.6
+Avg Difficulty: 2.6
+Num Ratings: 76
+Would Take Again Percent: 80
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS217
+Date: 2024-12-18 22:40:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+NOT a good instructor for this course! Could not learn anything from him! Waste of money and time
+
+--- Rating #2 ---
+Class: BUS217
+Date: 2024-10-03 07:31:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+A very nice prof, choose him without any doubts.
+
+--- Rating #3 ---
+Class: BUS100
+Date: 2024-06-19 19:55:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Too nice
+
+--- Rating #4 ---
+Class: BUS100
+Date: 2023-12-20 19:24:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Nice prof. BUS 100 was a joke anyway so having a caring guy lecture for an hour about how we should "chase our dreams" was honestly very enjoyable. At the very least, he was inspiring and was there to help with any questions.
+
+--- Rating #5 ---
+Class: BUS201
+Date: 2019-06-10 09:34:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He was my first business professor, and thus was my first impression of Beedie. He was more than just a lecturer; he was a figure of guidance. My friends and I felt a sense of belonging and pride for Beedie, thanks to him. Taught us material and taught us engagement alike. Great personality.
+
+--- Rating #6 ---
+Class: BUS424
+Date: 2015-04-21 07:43:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Stephen is very experienced and does not read off lecture slides. He adds on using examples. You don't really need the textbook, slides should be sufficient to do well in this course.   Only downside is you don't really know what to expect for exams and marking scheme for the exam is unclear.
+
+--- Rating #7 ---
+Class: BUS320
+Date: 2014-11-05 04:18:43 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Half way through the semester and I realized that Spector is not the guy I should have taken this course with. For someone who emphasizes that accounting is all about practice, but DOES NOT provide the solutions for assignment problems after the assignments have been graded, I feel he has lost touch of what it is like to be a student.
+
+--- Rating #8 ---
+Class: BUS321
+Date: 2014-03-04 01:35:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Excellent professor. He is technical but also encourages his students to think outside the box. He cares about his students and is very responsive to requests for help. Best accounting professor I have had.
+
+--- Rating #9 ---
+Class: BUS426
+Date: 2012-04-17 21:03:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He's a very good prof and tries to explain everything clearly. What I liked most about his class is that he doesn't give exams based on dead theory/memory-based questions. Instead, he gives you cases and you are expected to answer accordingly. Very useful if you plan on taking CASB. One of the best in SFU!
+
+--- Rating #10 ---
+Class: BUS421
+Date: 2011-12-11 03:47:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is a nice guy at heart. However, the main issue is that he subconsciously stereotypes students and assigns grades accordingly. What I am saying is, it is impossible to get a high mark if you're Asian and quiet in the class. Try to get to know him personally, talk in class, and become one of his favorites and you will do well regardless.
+
+--- Rating #11 ---
+Class: BUS421
+Date: 2010-12-10 18:24:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very Good
+
+--- Rating #12 ---
+Class: BUS421
+Date: 2010-11-29 11:11:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Amazing prof, seriously! He keeps you interested in the material, and is VERY helpful after class, during break, at office hours, etc. Had him now for 2 semesters and am taking another class with him next semester.
+
+--- Rating #13 ---
+Class: BUS321
+Date: 2010-07-28 03:49:46 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He has good personality and is willing to help you. However, he did not prepare IFRS material and is VERY disorganized. Sometimes he teaches IFRS and yet sometimes it's GAAP..extremely confusing. Does not show effort in making complex material easier to understand. I did not learn much from his 321..might have to redo.. NOT RECOMMENDED for 321
+
+--- Rating #14 ---
+Class: BUS322
+Date: 2008-03-11 01:09:15 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Fun teacher
+
+--- Rating #15 ---
+Class: BUS420
+Date: 2007-12-24 01:15:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Intelligent, fair, helpful, and interesting. Stephen is simply one of the best profs in the business faculty!
+
+--- Rating #16 ---
+Class: BUS421
+Date: 2007-11-27 22:12:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+awesome
+
+--- Rating #17 ---
+Class: BUS421
+Date: 2007-09-13 00:55:01 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Stephen's a good teacher but an even better person.  His courses themselves are okay, but the guy himself is awesome.  One of my favourite instructors by semesters' end.  Also applies to 424
+
+--- Rating #18 ---
+Class: BUS421
+Date: 2007-08-11 03:26:01 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+That's the easiest course to teach. He doesn't have to say anything or provide any lecture notes because the students will do it for him. Do you want to study by using student-version powerpoint slieds&#63; Good luck, then. They are not reliable and vague.
+
+--- Rating #19 ---
+Class: BUS254
+Date: 2007-01-02 04:18:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Lectures could be a bit better.  Often time you hear a bunch of words and phrases all rushing into ur ears but u have no idea what he was talking about.  Anyways Nice Prof!  He likes to joke around sometimes, which makes the lectures a little less boring. Do ALL ur assignments and Redo them a few times to get good marks. Pretty Tough Exams!
+
+--- Rating #20 ---
+Class: BUS322
+Date: 2006-12-20 19:49:06 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+not that easy.. essay questions on exams..feel like a HR course..he's a nice guy though..

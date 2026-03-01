@@ -1,0 +1,76 @@
+Professor: Colin Hawes
+Professor Legacy ID: 1498797
+Professor ID: VGVhY2hlci0xNDk4Nzk3
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.6
+Avg Difficulty: 2.4
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: BUS393
+Date: 2017-03-20 14:15:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Bus 393 was a special topics class that Colin made fun and interesting.
+
+--- Rating #2 ---
+Class: BUS393
+Date: 2012-07-01 04:05:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Amazing professor. Good sense of humor. He genuinely cares about his students. Tests are tricky but as long as you study you'll be fine. One of my favorite classes taken. Definitely recommend you to take this course with him!
+
+--- Rating #3 ---
+Class: BUS393
+Date: 2012-06-29 11:35:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Colin is a great prof! He is extremely nice and helpful, and his lectures were always interesting. Awesome guy and awesome prof, I highly recommend taking any class with him!
+
+--- Rating #4 ---
+Class: BUS393
+Date: 2012-06-12 06:15:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Nice guy, course was very interesting. Always provided good examples. Would take this course again with new cases. Open book exams are tough as its all based on your judgements. Great class.
+
+--- Rating #5 ---
+Class: BUS393
+Date: 2011-01-06 22:34:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Colin is extremely nice and always available for help. Exams were open book. But, they weren't more difficult and the questions were straight-forward, no trick questions. Lectures weren't really useful, but the material made the course that way. Also, it is VERY IMPORTANT to read the textbook. This class is not as boring or hard as it seems.

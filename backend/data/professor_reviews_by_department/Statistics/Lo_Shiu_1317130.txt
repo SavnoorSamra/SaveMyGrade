@@ -1,0 +1,37 @@
+Professor: Shiu Lo
+Professor Legacy ID: 1317130
+Professor ID: VGVhY2hlci0xMzE3MTMw
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 4.8
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: STAT203
+Date: 2010-11-12 03:03:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Extremely helpful. Good notes. Made statistics fun.
+
+--- Rating #2 ---
+Class: STAT203
+Date: 2009-10-05 20:46:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Entertaining and helpful.

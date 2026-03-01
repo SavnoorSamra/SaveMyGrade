@@ -1,0 +1,24 @@
+Professor: Hisako Hayashi
+Professor Legacy ID: 1709084
+Professor ID: VGVhY2hlci0xNzA5MDg0
+Department (CSV): Languages
+Department (Fetched): Languages
+Avg Rating: 1
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: JAPN100
+Date: 2012-04-12 02:24:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+The worst TA I ever had. She is really tough and mean. If you have any problem, she will not help you. The course outline is quite unreasonable.

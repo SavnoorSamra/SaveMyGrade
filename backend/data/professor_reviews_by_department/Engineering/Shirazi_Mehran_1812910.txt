@@ -1,0 +1,206 @@
+Professor: Mehran Shirazi
+Professor Legacy ID: 1812910
+Professor ID: VGVhY2hlci0xODEyOTEw
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 5
+Avg Difficulty: 2.4
+Num Ratings: 15
+Would Take Again Percent: 100
+
+Ratings Count Returned: 15
+
+--- Rating #1 ---
+Class: APSC179
+Date: 2023-10-19 20:05:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing class. He is a great teacher.
+
+--- Rating #2 ---
+Class: ENSC483
+Date: 2019-09-12 08:35:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The G.O.A.T
+
+--- Rating #3 ---
+Class: APSC179
+Date: 2019-07-17 23:15:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is the BEST professor. He brings a lot of energy, joy, and comfort to the classroom. He is extremely funny, patient, nice, organized, professional, and passionate about teaching. He is one of those special people that everyone likes them. He also has a very cute smile. I hope he joins UBC-V soon so that I can take more courses with him.
+
+--- Rating #4 ---
+Class: CIS145
+Date: 2019-05-09 01:06:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very kind
+
+--- Rating #5 ---
+Class: ENSC488
+Date: 2019-04-10 03:12:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Hands down the best professor I have ever had. Im so annoyed SFU is letting him leave. They should pay him a ton of money for him to stay because he is so worth it!! He is so organized that it doesnt seem like he is teaching you a lot. You never feel crammed and you actually want to learn because he doesnt stress you out. Outstanding prof!
+
+--- Rating #6 ---
+Class: CIS145
+Date: 2019-03-17 19:10:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Awesome Fantastic Professor
+
+--- Rating #7 ---
+Class: CIS145
+Date: 2019-03-15 17:58:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is an absolute amazing professor and tries to make the class understand everything he teaches. Participation is not mandatory and the tests are super easy. If you attend his lectures, you will get an A or A+ for sure. I don't think of better professor that i had in my life.
+
+--- Rating #8 ---
+Class: ENSC483
+Date: 2017-11-07 14:55:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Mehran should teach more and more courses even in early years of engineering, so that the students get inspiration by the way he articulates the complex concepts. It's a big difference when he walks you through stuff, vs. when many other profs did. Thank you Mehran. You are making an impact into SFU students career!
+
+--- Rating #9 ---
+Class: ENSC483
+Date: 2016-04-21 00:31:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Fantastic professor. Will spend as much time as you need to help you. If you're interested in the class you'll learn a lot and love it. Mehran you're the best Prof I've had at SFU.
+
+--- Rating #10 ---
+Class: ENSC483
+Date: 2016-02-19 21:38:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Academia lacks profs like Mehran! I wish he was teaching all of those courses.
+
+--- Rating #11 ---
+Class: ENSC483
+Date: 2014-01-08 20:34:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+SFU should keep him at any price, he is born to teach , he clearly loves what he does. gladly spends as much time as you need to help you understand the subject. extremely polite. his exams  seem easy coz you learn the material and the grading scheme is really fair ,, Thank you Mehran, you rock
+
+--- Rating #12 ---
+Class: ENSC483
+Date: 2013-12-07 04:31:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Best Prof in SFU I ever had, period.
+
+--- Rating #13 ---
+Class: ENSC483
+Date: 2013-07-30 20:32:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is phenomenal :)
+
+--- Rating #14 ---
+Class: ENSC483
+Date: 2013-07-09 04:06:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Awesome professor.  His class is super amazing!I enjoyed his class so much and I didn't want to miss a day of it.
+
+--- Rating #15 ---
+Class: ENSC483
+Date: 2013-06-11 16:55:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+The best professor at SFU, amazing personality and superior ability to convey difficult concepts easily, 8:30 am classes are usually too early for me but I found myself looking forward to attend his classes, most helpful prof ever, you will learn in his class even if you nap, take Mehran's class and experience a pleasant course at sfu for a change

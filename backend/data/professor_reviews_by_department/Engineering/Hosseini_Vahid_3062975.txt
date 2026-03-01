@@ -1,0 +1,29 @@
+Professor: Vahid Hosseini
+Professor Legacy ID: 3062975
+Professor ID: VGVhY2hlci0zMDYyOTc1
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 2
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: SEE477
+Date: 2024-12-17 05:52:34 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+- Unclear grading scheme
+- The 2 "quizzes" (worth 25% each, so really midterms) had averages of 39 and 49...
+- Heavy project and one mega-lab
+- Rushed lectures at the end
+
+He is fairly passionate, but so unorganized. If you have to take him for SEE 224 I am sorry for you lmao, however, he seems to care more about some classes more than others.

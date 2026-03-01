@@ -1,0 +1,37 @@
+Professor: Ali Wise
+Professor Legacy ID: 1256950
+Professor ID: VGVhY2hlci0xMjU2OTUw
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.8
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: EDUC220
+Date: 2012-02-25 14:01:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Taking this DE. Being a psych major almost everything in this course has been taught to me already :) online discussions are a little unclear & not your typical set-up, but still manageable. Minimal work required & the course requirements are pretty split up so it's easy to do well!
+
+--- Rating #2 ---
+Class: EDUC416
+Date: 2009-02-24 20:07:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Excellent instructor.  Not a course for slackers.  She went to Yale!  Focus was on chem. Very engaging,empirically focused and extremely flexible.

@@ -1,0 +1,89 @@
+Professor: Peter Anderson
+Professor Legacy ID: 1490882
+Professor ID: VGVhY2hlci0xNDkwODgy
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 4.3
+Avg Difficulty: 1.5
+Num Ratings: 6
+Would Take Again Percent: 100
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: CMNS356
+Date: 2020-04-16 04:12:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This guy's just the sweetest. Dude's really passionate about his work and really wants his students to be interested in it as well. Lectures are boring unless you're actually interested in the content. Assignments aren't too hard either. A great UD for CMNS or non-CMNS students!
+
+--- Rating #2 ---
+Class: CMNS456
+Date: 2017-03-09 13:54:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Peter was a good prof. His lectures may be a little dry, but the class and content is easy to understand. There's also a class field trip. 1 midterm and the rest are projects/paper. He is a knowledgable/friendly teacher who has tons of experience in the field. However, his voice for 3 hours straight can make it a little hard to listen to.
+
+--- Rating #3 ---
+Class: CMNS356
+Date: 2015-12-26 01:39:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The only test is the midterm! I really liked this class, he does a really good job because he is actually IN the field, not just a prof. He's really passionate about what he teaches. Can talk for a long time. Cool field trips. Cool projects. Brings in a lot of great guest speakers too. Videos. You also get a cert. in emergency management from JIBC!
+
+--- Rating #4 ---
+Class: CMNS456
+Date: 2012-04-07 16:48:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I was a little disappointed in this course. It was really easy for a 400-level, but I didn't learn as much as I had hoped I would. Peter is a pioneer in emergency communications, which makes him an amazing resource, but unless you plan on going into that field, what you learn is not going to be particularly useful.
+
+--- Rating #5 ---
+Class: CMNS456
+Date: 2011-04-26 02:28:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I thought that Peter was a great professor, one of the better ones at this school. It's clear he has a great interest in disaster mitigation and preparedness, and he brings a lot of experience as well, being on the forefront of his field in BC. He is responsive to emails and enjoys helping students succeed. The course was also relatively easy.
+
+--- Rating #6 ---
+Class: CMNS456
+Date: 2010-11-03 12:21:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Anderson is such a dud.  I have attentended every class and am still leaving with no more knowledge then I started with.  The class, Mitigating Disasters, might seem like an intersting subject, but Andersons boring dull voice for 3 hours tears it to pieces.  This class was a disaster.  I will never take another class with him, even if it was free.

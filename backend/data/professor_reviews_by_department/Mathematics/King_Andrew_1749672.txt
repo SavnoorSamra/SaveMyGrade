@@ -1,0 +1,24 @@
+Professor: Andrew King
+Professor Legacy ID: 1749672
+Professor ID: VGVhY2hlci0xNzQ5Njcy
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2.5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: MATH240
+Date: 2012-10-02 22:50:17 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Like most linear algebra classes, lectures are pretty useless. Exams are quite fair and final is scaled well. Best to study on your own if you're doing math 240 or 232 in general.

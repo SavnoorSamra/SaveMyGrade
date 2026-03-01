@@ -1,0 +1,128 @@
+Professor: Carolyn Sparrey
+Professor Legacy ID: 1650694
+Professor ID: VGVhY2hlci0xNjUwNjk0
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 3.8
+Avg Difficulty: 3.6
+Num Ratings: 9
+Would Take Again Percent: 75
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: MSE312
+Date: 2020-09-10 06:42:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Worst experience with her during MSE320. She substituted a normal scheduled 3-hour class for her 15-minute youtube videos that were always uploaded outside lecture times. She displayed extreme unprofessionalism by doing this because I am paying SFU a lot of money for her to not be teaching! The material was a review for other classes but still!
+
+--- Rating #2 ---
+Class: MSE222
+Date: 2020-06-06 18:24:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Carolyn is one of the best profs I've ever had. For a hard course like MSE 222, the lectures are amazing and I don't think anyone could have taught this better than her. She is very caring and will definitely understand if you go to her with a problem. She is very open to feedback, and is very adjusting according to the needs of the students.
+
+--- Rating #3 ---
+Class: MSE222
+Date: 2020-04-15 06:55:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The most amazing prof in MSE by far. take any class by her, you won't regret it.
+
+--- Rating #4 ---
+Class: MSE222
+Date: 2019-04-16 18:27:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Carolyn is by far the most awesome MSE prof. She is the perfect example of what a prof should aim to be. She is not the best at explaining things, but she has clear criteria in everything. She is very nice and caring about the students. She makes a really hard class easy to pass (not an easy A though) Clear grading criteria too :)
+
+--- Rating #5 ---
+Class: 222
+Date: 2015-04-22 21:48:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+really good teacher
+
+--- Rating #6 ---
+Class: ENSC282
+Date: 2013-09-11 01:25:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+One of my favourite profs in mechatronics she seemed so passionate about what she was teaching and she taught it so well. Quizzes and final are hard but as long as you solve lots of questions from the book you should do fine cause the course itself is so hard that it will be scaled by a lot and also the marking scheme is fair
+
+--- Rating #7 ---
+Class: ENSC282
+Date: 2013-04-27 02:08:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Bored prof who only does problem solving in class. Exams are very hard so do the assignments and understand the concept. Pay attention to the project and pop quizzes, which are killers.
+
+--- Rating #8 ---
+Class: ENSC282
+Date: 2013-02-01 17:09:49 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Has lots of background regarding Kinematics. Lecture is very boring with lots of detailed notes. She tries to make it interesting which is a plus but its still boring. Watch out for Pop Quizs in the middle of class. Youll know when the TA is there when hes not suppose to be :@ .Her Quizs are hard, make sure you stay on top of your game!
+
+--- Rating #9 ---
+Class: ENSC282
+Date: 2011-11-22 00:56:43 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+She Da BOMB

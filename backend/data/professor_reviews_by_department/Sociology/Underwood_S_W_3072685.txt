@@ -1,0 +1,128 @@
+Professor: S W Underwood
+Professor Legacy ID: 3072685
+Professor ID: VGVhY2hlci0zMDcyNjg1
+Department (CSV): Sociology
+Department (Fetched): Sociology
+Avg Rating: 5
+Avg Difficulty: 2.7
+Num Ratings: 9
+Would Take Again Percent: 100
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: SA331
+Date: 2026-01-09 08:39:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Underwood truly cares for her students and is super personable! Assignments were graded fairly and outlined clearly. It was clear she really wanted everyone to succeed. Hope I get to take another course with her!
+
+--- Rating #2 ---
+Class: SA331
+Date: 2025-12-07 03:22:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This is my second time taking a class with Professor Underwood, and it was such a good experience once again! 100% one of the best professors here at SFU, I would definitely recommend taking any course with them. Genuinely cares for us, students, and understands that we have lives outside of school, which is rare to find in a Professor nowadays.
+
+--- Rating #3 ---
+Class: SA331
+Date: 2025-09-23 17:34:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I only got to attend two lectures because I had to drop due to time conflict but I wish I could stay in this class. Just the first two classes were so interesting to learn about families. Highly recommended, sad I couldn't stay but gonna try again in future
+
+--- Rating #4 ---
+Class: SA250
+Date: 2025-05-12 03:21:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I would 100% recommend this course! Unfortunately, I wasn't able to attend any classes, but due to the kindness and accommodation shown by the professor, I was still able to do good in the class. I have never had a professor who has put this much love and care into the lectures, and in ensuring that the material is easy to understand.
+
+--- Rating #5 ---
+Class: SA250
+Date: 2025-04-10 16:47:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prof Underwood's class is the best one I have taken!! She knows so much about sociology, and she loves teaching, and is really accommodating to students with their personal needs for learning. Knows we have a life outside school. Can't say enough good things. Take her class!
+
+--- Rating #6 ---
+Class: SA250
+Date: 2025-04-10 15:00:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sol helps you connect sociology with the everyday life. The readings are sometimes hard to follow but Sol helps me to understand the main points. Very easy to ask questions if you are confused about expectations. I will take classes with Sol again!
+
+--- Rating #7 ---
+Class: SA250
+Date: 2025-03-27 18:12:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Fantastic professor! I really can't recommend her enough. It is obvious she's passionate about sociology and teaching. She's super friendly and very easy to reach. I had no problem approaching her for help or even just to chat (which I really recommend!). A shame she isn't a permanent professor at SFU. Hoping I can take a class with her again!
+
+--- Rating #8 ---
+Class: SA250
+Date: 2025-03-04 21:13:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+i think this is a tough course but professor underwood is fair. she uses different styles so there is some lecture, lots of discussion and some videos each class. I recommend
+
+--- Rating #9 ---
+Class: SA250
+Date: 2025-01-28 18:08:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Only 4 weeks in and Sol is by far my favorite prof at SFU!! So happy to teach sociology, and loves the students. I get excited to go to class every day.

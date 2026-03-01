@@ -1,0 +1,50 @@
+Professor: Anna Lukkarinen
+Professor Legacy ID: 3098086
+Professor ID: VGVhY2hlci0zMDk4MDg2
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 5
+Avg Difficulty: 1
+Num Ratings: 3
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: BUS240
+Date: 2025-11-29 02:14:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She was a nice prof and her lectures were enjoyable. Regular in-class guests, who are successful students from SFU was really encouraging. Above all she was kind and caring. She valued feedbacks from students and would improve on them and discuss in class.
+
+--- Rating #2 ---
+Class: BUS240
+Date: 2025-11-13 05:27:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She listens, encourages, and adapts to student feedback. While the course is surface-level, can feel childish, and time-wasting, she genuinely cares ab her students. #1 takeaway are the biweekly SFU alumn she brings in, who now have successful businesses/innovations, and they provide real, candid, and applicable business insights. Project is cool.
+
+--- Rating #3 ---
+Class: BUS240
+Date: 2025-09-27 20:21:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+She is great, but this useless course requires so many things to do. In the class just play your phone, and get ready to do the child's contents!

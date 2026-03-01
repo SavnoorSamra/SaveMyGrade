@@ -1,0 +1,50 @@
+Professor: John Falvey
+Professor Legacy ID: 1556832
+Professor ID: VGVhY2hlci0xNTU2ODMy
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.7
+Avg Difficulty: 2.3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: BUS435
+Date: 2017-11-27 01:33:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Sincerely nice guy and hard working prof.
+
+--- Rating #2 ---
+Class: BUS345
+Date: 2011-10-31 20:04:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He is The Best Teacher I have ever had in University. I was really lucky to have taken a class with him. Besides his personal achievements and knowledge about what he is teaching, he is the friendliest prof you will have. He is amazing
+
+--- Rating #3 ---
+Class: BUS435
+Date: 2011-04-04 01:34:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Best class i've ever had with a teacher who is too good for the institution if I could be honest, this guy belongs to a top Ivy leauge school. I feel lucky that I got to have a class with this professor!

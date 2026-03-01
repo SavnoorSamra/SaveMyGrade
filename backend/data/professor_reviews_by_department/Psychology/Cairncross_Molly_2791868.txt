@@ -1,0 +1,11 @@
+Professor: Molly Cairncross
+Professor Legacy ID: 2791868
+Professor ID: VGVhY2hlci0yNzkxODY4
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

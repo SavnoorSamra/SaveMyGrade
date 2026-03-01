@@ -1,0 +1,271 @@
+Professor: Doug Wilson
+Professor Legacy ID: 43191
+Professor ID: VGVhY2hlci00MzE5MQ==
+Department (CSV): Science
+Department (Fetched): Science
+Avg Rating: 4.8
+Avg Difficulty: 2.3
+Num Ratings: 22
+Would Take Again Percent: -1
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BISC329
+Date: 2014-11-13 21:36:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Doug is and always will be one of the profs I've ever had. He is genuinely helpful, approachable, and understanding. His labs are really helpful for future classes.
+
+--- Rating #2 ---
+Class: BISC329
+Date: 2014-04-15 01:01:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+posts notes, great marking scheme, labs were always shorter than the scheduled time.  course material is not so fun or easy.  doug is really helpful though.  If you take the time you'll do well in his course.  even if you don't take the time you'll still get by pretty ok.  he's very straightforward, can be funny, and very approachable.
+
+--- Rating #3 ---
+Class: BISC329
+Date: 2011-08-28 05:40:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I love this prof! He is the first that I thought did more than we ever expect one to do and tries his very best to help students out. I almost felt pity that he gave us all his time! He should get a 5.0! (I think I've never seen anyone else having 4.9 :P) With that said, TAKE THIS COURSE with DOUG! Exams are totally fair :)
+
+--- Rating #4 ---
+Class: BISC329
+Date: 2011-08-22 21:15:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+one of the best professors in SFU. I recommend you to take this course.
+
+--- Rating #5 ---
+Class: BISC329
+Date: 2010-11-12 02:08:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+one of the BEST prof I've had so far at SFU. Very approachable, always willing to go out of his way to help, funny, just a great person. Recommended for any course!
+
+--- Rating #6 ---
+Class: BISC329
+Date: 2008-12-16 18:32:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Like everyone else said, one of the best profs at SFU.  Very easy to approach and always willing to help.  Made labs fun and enjoyable.  Exams were fair
+
+--- Rating #7 ---
+Class: BISC329
+Date: 2008-11-21 15:24:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Awesome prof. Very approachable, always available for additional help - even outside of office hours! Explains things very well, and makes sure that students understand before moving on. This is a tedious class but Doug made it bearable!!
+
+--- Rating #8 ---
+Class: BISC329
+Date: 2006-12-14 04:13:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Lab instructions from the lab handouts were confusing, but other than that, exams, lab reports and lab worksheets were pretty easy. Getting an A+ is doable. Doug occasionally expresses a wry sense of humour during lectures and labs. He's very approachable in case you have questions. You'll like him. Trust me.
+
+--- Rating #9 ---
+Class: BISC329
+Date: 2006-12-05 02:34:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+DOUG ROCKS!  There's a lot of work involved in BISC329, but Doug is totally an awesome guy.  I enjoyed going into lab every week because things were always so laid-back and so chill.
+
+--- Rating #10 ---
+Class: BISC329
+Date: 2006-07-10 22:14:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Best prof at SFU!
+
+--- Rating #11 ---
+Class: BISC329307
+Date: 2006-02-08 15:15:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Oh doug, you really are the most amazing prof I have ever had.  Really funny if you just take the time to talk to him, acts like a normal person.  I almost wish he did less for us, because some people don't appreciate it... but seriously, Doug is the greeatest prof you could ever ask for :) EVER.
+
+--- Rating #12 ---
+Class: BISC329307
+Date: 2005-11-25 17:09:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Great Prof, best i have ever had, he is me as a teacher
+
+--- Rating #13 ---
+Class: BISC329
+Date: 2005-07-19 22:48:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Great prof, he is so nice and he really cares about his students. Very approachable and he really wants you to learn.
+
+--- Rating #14 ---
+Class: BISC307329
+Date: 2005-02-11 12:23:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+One of the best profs up at SFU. He's very approachable and enjoys talking with students unlike some profs. He made bisc 329 an enjoyable/fun class which is very impressive.
+
+--- Rating #15 ---
+Class: 329
+Date: 2005-02-03 21:17:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Take a class with Doug!!  He is one of the nicest, most down-to-earth people you'll meet!  Helps you as much as possible and is very fair with his marking.  He really does go above and beyond to help you with concepts and labs.  Even though 329 is no longer required, take is as a fun 4 credit course
+
+--- Rating #16 ---
+Class: BISC307329
+Date: 2004-11-27 17:34:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Now here is a guy that most profs should be like.  Doug goes above and beyond the call of duty.  He is willing to answer questions and will help you until you understand the concepts.  Keep up the great work!!!
+
+--- Rating #17 ---
+Class: BISC329
+Date: 2004-07-07 22:41:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Cares about students.  Very good notes and a good teacher.
+
+--- Rating #18 ---
+Class: BISC329
+Date: 2003-12-11 17:00:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+as you all know, best lab instructor ever.  If you into a instructor who's helpful, easy going and fair in the marks, you've found the right one
+
+--- Rating #19 ---
+Class: BISC329
+Date: 2003-06-01 21:30:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+The best lab instructor I've had. Super-helpful!
+
+--- Rating #20 ---
+Class: 329
+Date: 2003-02-18 00:01:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+AWESOME TEACHER!!!

@@ -1,0 +1,271 @@
+Professor: Rustum Choksi
+Professor Legacy ID: 14454
+Professor ID: VGVhY2hlci0xNDQ1NA==
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4.1
+Avg Difficulty: 3.2
+Num Ratings: 30
+Would Take Again Percent: -1
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH375
+Date: 2012-12-17 02:14:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Great Teacher for PDEs. Strongly favours you understanding the concepts behind the class rather than focusing on computations. In other words, perfect for honours math and physics students. He sends updated lecture notes throughout the year which provide all the info needed to get through assignments and exams. Extremely good at explaining as well.
+
+--- Rating #2 ---
+Class: MATH375
+Date: 2011-12-03 00:30:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He favors a deep conceptual understanding over exam-type calculations.  I nominated him for a teaching award.  I'm pretty sure he's writing a book on PDE's.  There is no alternative.
+
+--- Rating #3 ---
+Class: MATH0
+Date: 2011-03-04 00:50:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He is a great teacher. Knows his stuff well and is clear when he reaches. He makes sure you get the concepts! I have learned so much just by listening to him during his lectures. His assignments are doable but brilliantly designed to help the students understand some important concept. His exams are reasonable and based on his lectures.
+
+--- Rating #4 ---
+Class: MATH152
+Date: 2009-09-16 15:23:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+The guy is pretty good. He's not very organized and has terrible notes but he knows what he's doing. Just make sure you go over the material BEFORE the lectures, it'll be A LOT easier to follow him during lectures. Exams are fair, no surprises, as long as you do homework. Also, make sure you understand mixing, and volume problems for the final.
+
+--- Rating #5 ---
+Class: MATH152
+Date: 2009-04-24 05:09:53 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Not very good prof. Messy writing, so so teaching methods. BUT, tests very FAIR and EASY. Take him as a prof, then just teach yourself form text. Guaranteed good mark.
+
+--- Rating #6 ---
+Class: MATH152
+Date: 2009-04-14 02:12:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Wow! Decent prof. He keeps right on track even after being interrupted by conversations every 10 mins. He repeats vital theories and concepts throughout the semester. Just listen and do homework. Recommended.
+
+--- Rating #7 ---
+Class: MATH152
+Date: 2009-04-11 17:53:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Is dedicated to teaching the concepts, the only drawback is his notes are barely legible and jump all over the place.  Make sure to attend lecture!
+
+--- Rating #8 ---
+Class: MATH152
+Date: 2009-03-24 12:11:39 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Terrible Professor. His writing is crude and difficult to read. His explanations aren't clear, and his notes are all over the place. He often makes typos, then just scribbles it out, however sometimes the scribble still resembles a word, which leaves you asking, &quot;What did he just write&#63;&quot;. You can do better than Choksi.
+
+--- Rating #9 ---
+Class: MATH152
+Date: 2009-03-18 18:44:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+This guy is probably one of those most dedicated profs at SFU. He will go out of his way to help his students-even when the students act like a**es to the guy. The difference between attending lecture or not will change your grade greatly-thats how good this guy teaches
+
+--- Rating #10 ---
+Class: MATH152
+Date: 2009-03-05 01:06:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+An excellent professor. I like his philosophy on teaching: that it is most important to understand and learn logic more than memorizing formulas and data. He really takes the time to clearly explain concepts, and maintains a level of mutual respect with his students. As long as you respect him, he respects you, and cares for your success.
+
+--- Rating #11 ---
+Class: MATH151
+Date: 2006-06-23 00:25:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+very clear on course material but require some thinking on tests
+
+--- Rating #12 ---
+Class: MATH151
+Date: 2006-04-18 18:51:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Best prof I've had so far. I was so scared about taking university calc, but with him it's not hard to understand.
+
+--- Rating #13 ---
+Class: MATH151
+Date: 2006-02-11 00:22:27 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I found calculus to be very difficult. His teach method leaves the class only listening, not interacting. It is hard to do in a lecture, but he was so focused on lecturing. He is really excited about math and is a great prof.
+
+--- Rating #14 ---
+Class: MATH151
+Date: 2006-01-12 00:46:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Great prof I really enjoyed his class, much better than Dr. Bruin who also teaches 151 or the TAs in answering questions.  I didn't take calculus in high school and it was fine, the prof explains concepts very clearly.  Time management wasn't specifically a problem in this course, do lots of practice exams and they should be ok.
+
+--- Rating #15 ---
+Class: MATH151
+Date: 2006-01-09 22:42:41 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+If you didn't take calculus in high school recommend that you do work one week in advance, otherwise you won't understand prof and will waste lots of time lining up for TAs. His notes and pacing are not very organized: was rushing at end of semester. Just filter out the &quot;concepts&quot; garbage and stick to procedures.
+
+--- Rating #16 ---
+Class: MATH151
+Date: 2005-11-20 22:18:23 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Lecture notes are unhelpful, but the midterms are fair. Glad to have already taken calculus in high school.
+
+--- Rating #17 ---
+Class: MACM316
+Date: 2005-04-17 12:24:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+The mid-terms are designed to take exactly 50 min so you better know your stuff otherwise you're gonna run out of time. Buf if you practice for the exam before hand you should do fine.
+
+--- Rating #18 ---
+Class: MACM316
+Date: 2005-02-17 10:51:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+So far so good ... btu damn this stuff is hard!
+
+--- Rating #19 ---
+Class: MATH251
+Date: 2005-01-06 02:41:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He is an excellent instructor. He teaches very well and the assignments are fare. His exams are  relatively hard and time consuming. If you don't study beyond the course and do the assignments yourself, you will get a good mark. Try to attend all the lectures and MANAGE your TIME in the exams. ;)
+
+--- Rating #20 ---
+Class: MATH251
+Date: 2004-12-20 19:03:42 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He is a very responsible teacher and always willing to help you. His lecture is good and clear.You can see him in the workshop everyweek. Before the final exam, he gave his students more office hours and spent his extra time reviwing problems with them.

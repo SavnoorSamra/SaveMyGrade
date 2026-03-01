@@ -1,0 +1,37 @@
+Professor: Iouri Pankrats
+Professor Legacy ID: 2810442
+Professor ID: VGVhY2hlci0yODEwNDQy
+Department (CSV): Linguistics
+Department (Fetched): Linguistics
+Avg Rating: 4.5
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: ling111
+Date: 2024-12-09 07:07:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very kind professor & you can tell that he is very passionate about what he teaches. Lectures can be long but are very easy to follow along. Everything on the exams was covered in class. Not difficult to do well in his course if you follow along his lectures:)
+
+--- Rating #2 ---
+Class: ling111
+Date: 2024-07-08 00:57:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Eastern European Grandpa in the best way. His lectures are long but the tests cover exactly what is on the slides.

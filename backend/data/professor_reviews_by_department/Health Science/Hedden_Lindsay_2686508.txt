@@ -1,0 +1,102 @@
+Professor: Lindsay Hedden
+Professor Legacy ID: 2686508
+Professor ID: VGVhY2hlci0yNjg2NTA4
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 4.6
+Avg Difficulty: 3.3
+Num Ratings: 7
+Would Take Again Percent: 85.7143
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: HSCI305W
+Date: 2024-12-14 09:01:29 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Okay so I can't really rate the prof because there wasn't any role of the prof in this course other than providing the recorded lectures. The TA's did all the marking and very really tough graders. The lecture material was heavy and the final exam was in person which was really hard and not related to the knowledge checks that were provided.
+
+--- Rating #2 ---
+Class: HSCI305W
+Date: 2024-12-05 05:31:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Very caring professor and her lectures are interesting too!
+
+--- Rating #3 ---
+Class: HSCI305
+Date: 2024-03-31 13:29:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Many professors here seem to believe they are teaching very unintelligent students, leading them to behave foolishly and speak/lecture 'down' to the polite adults in front of them. Lindsay lectures respectfully and is organized- treats the subject matter and students seriously. I hope other professors will consider respecting those they teach more.
+
+--- Rating #4 ---
+Class: HSCI305W
+Date: 2021-12-13 20:14:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Dr. Hedden is very passionate about the Canadian Healthcare System and really cares about her students. She is readily available and willing to provide specific feedback and help with any papers or questions. This course content is different than others and will be helpful to learn about if interested in how healthcare works in Canada.
+
+--- Rating #5 ---
+Class: HSCI305
+Date: 2021-04-27 08:28:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Lindsay is compassionate towards students &amp; always accessible for help. She gave asynchronous lecture videos which were succinct &amp; interesting. Gives helpful study guides for the multiple-choice exams which were fairly difficult. Group assignments also take a lot of time. Overall, would take another class with Lindsay!
+
+--- Rating #6 ---
+Class: HSCI305
+Date: 2021-04-17 23:06:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Relatively short lecture videos, clear grading criteria, very supportive, and gives study guides before exams. Would definitely take a course with this prof again.
+
+--- Rating #7 ---
+Class: HSCI305
+Date: 2021-04-15 16:06:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Very organized and posts asynchronous lectures well before the synchronous class so you have plenty of time to review the material. 3 group assignments, weekly discussion questions for participation, midterm and a final. Very interesting material. Highly recommend this prof!

@@ -1,0 +1,89 @@
+Professor: Gopolang  Mohlabeng
+Professor Legacy ID: 3003667
+Professor ID: VGVhY2hlci0zMDAzNjY3
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 1.8
+Avg Difficulty: 3.8
+Num Ratings: 6
+Would Take Again Percent: 16.6667
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: Phys-126
+Date: 2026-01-08 20:55:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I had hid for Phys 344. The final was really hard, but his lecture notes were actually pretty good and really clear. Definitely need to use the textbook and do lots of practice problems. And ask plenty of questions!
+
+--- Rating #2 ---
+Class: Phys-126
+Date: 2025-03-22 18:20:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Getting mixed up in examples constantly to asking questions that were nonsensical, Gopolang did it all. Glad I'll never be having him again.
+
+--- Rating #3 ---
+Class: Phys-126
+Date: 2025-03-21 05:21:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Not going to Professor Molabeng's lectures was the right decision.
+
+--- Rating #4 ---
+Class: Phys-126
+Date: 2025-03-14 20:28:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+NEVER TAKE THIS MAN AGAIN I ALMOST LOST MY HAIR. HE LITERALLY IS SATAN AND I WILL NOT EVER LOOK AT THIS MAN THE SAME. I HATED THIS SO MUCH SAVE YOURSELF.
+
+--- Rating #5 ---
+Class: Phys-126
+Date: 2025-01-25 04:44:54 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Difficult class and he did not make it any easier to understand, he often made mistakes in lectures. His exams were not the most difficult but his way of explaining made it very hard to understand, it was like he was speaking in only math terms and made little effort to elaborate. Not the worst prof I've had by a long shot but not great either.
+
+--- Rating #6 ---
+Class: Phys-126
+Date: 2024-10-28 08:03:18 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He tries his best to explain and offers a lot of help outside of class, but his test are a bit over complicated. Just make sure to study A LOT

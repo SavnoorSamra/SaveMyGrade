@@ -1,0 +1,271 @@
+Professor: Frederik Lesage
+Professor Legacy ID: 1654648
+Professor ID: VGVhY2hlci0xNjU0NjQ4
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 3.9
+Avg Difficulty: 2.5
+Num Ratings: 21
+Would Take Again Percent: 90
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: 313
+Date: 2026-02-21 06:06:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Fred was a truly engaging lecturer because he clearly loved the material. Lectures were more conversational, making them easy to follow. Above all, Fred is not afraid of grade inflation and will give you what you deserve on the written work, and he gives you entire Word documents of feedback. Would recommend him to literally anyone.
+
+--- Rating #2 ---
+Class: CMNS325
+Date: 2023-07-01 21:04:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great character who loves transferring knowledge to students. Enjoyed the course, if you like readings and applying theory and being able to transfer that into producing a project def go with him
+
+--- Rating #3 ---
+Class: CMNS201
+Date: 2018-12-10 21:50:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The class is very dry but Fred does an amazing job with making things easy to understand and interesting! He's such a caring prof and wants all of his students to succeed. His final exam is not held during final season so that's a yikes! Assignments can be a little confusing but the labs/tutorials really help! Favorite class of the semester.
+
+--- Rating #4 ---
+Class: CMNS253W
+Date: 2018-11-15 23:20:01 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Pretty good. Lectures sometimes are too long, and he can go on tangents. The first midterm was tough, however, all other assignments are pretty reasonable.
+
+--- Rating #5 ---
+Class: CMNS325
+Date: 2017-12-11 18:49:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Fred is truly passionate about what he teaches. He was always open for questions and made the lectures a lot easier to enjoy.
+
+--- Rating #6 ---
+Class: CMNS253W
+Date: 2017-10-24 23:23:34 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Fred is a nice guy, but this is probably the worst class I have ever taken. There are 4 useless assignments that he (and the TAs) fail to explain well. The assignments are also due in multiple parts so there's basically one thing due every other week in addition to the weekly writing assignment. Lectures are confusing and unrelated to the exams.
+
+--- Rating #7 ---
+Class: CMNS253W
+Date: 2017-05-07 23:51:55 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I had mixed feelings about Fred's lectures. Some could be quite interesting, but he has a habit of halting too often to ask the class pointless questions or for awkward group "discussions" that weren't very fruitful. Seemed like the TA's weren't always on the same page as him. His assignments were very fair and relevant, though.
+
+--- Rating #8 ---
+Class: CMNS260
+Date: 2017-01-04 03:28:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Fred is a great prof, easy to follow, sometimes boring but always stays on track with lectures. The bi-weekly quizzes are easy and straight from lecture material, honestly the textbook is pointless. Can't speak to the exam because it was cancelled (snow) but based on everything else I would definitely recommend Fred.
+
+--- Rating #9 ---
+Class: CMNS260
+Date: 2016-12-10 02:47:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I LOVE Fred. He is definitely my favourite prof at SFU. He knows what he's talking about and is always open to questions and super easy to talk to.  Sometimes the lectures were a bit bland but it is a research methods class so what do you expect. Has bi-weekly (ish) quizzes worth 5% each and drops your lowest one (woohoo!) which boosts your grade
+
+--- Rating #10 ---
+Class: CMNS260
+Date: 2016-12-08 00:18:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I came into 260 thinking that the class would be horrible and boring. There were some weeks that proved this theory. However, Fred was a great prof that did his best to make the lecture material as interesting and accessible as possible. Also a nice looking guy, which is a plus!
+
+--- Rating #11 ---
+Class: CMNS354
+Date: 2016-04-26 16:38:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Fred seems like a great person who is genuinely trying his best, but his lectures were just so boring that it is hard to call him a great prof. The course was not hard, but it is heavily reliant on group projects. There is a lot of discussion that takes place, during both the lectures and the tutorials. Overall great person, ok prof, ok class.
+
+--- Rating #12 ---
+Class: CMNS260
+Date: 2015-12-07 04:41:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A model example of a professor. His kindness to his students is reflected in the organization and intention in class design. Assignments and quizzes were very well spaced and manageable. It is a nurturing model for gradual learning. I hate beastly tests that quiz your knowledge all at once. My favorite lecture was the emotional contagion one!
+
+--- Rating #13 ---
+Class: CMNS253W
+Date: 2015-12-04 01:06:21 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Fred seems like a nice guy, but the only thing keeping me going to lecture was his pretty face. I found myself quite bored in lecture and honestly the textbook was more useful and clear. Boring assignments that were somewhat unclear (though he tries to explain them) and four of em, but it is a W class. Probs wouldn't take this class with him again.
+
+--- Rating #14 ---
+Class: 253W
+Date: 2014-12-05 15:15:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Very straightforward class. The TA matters a lot though, I got the one that wasn't very helpful but easy marker. I heard the other TA helped prepare them with organized tutorials.
+
+--- Rating #15 ---
+Class: CMNS260
+Date: 2014-04-12 18:59:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Structures the course well. It's not that difficult and as long as you follow the guidelines in the assignments, you should do OK. Quizzes aren't that difficult either and they are all multiple-choice. Plus I had Yuji as the TA and it's like she came from heaven, she is the best! Great class, especially for a Q! Completely do-able.
+
+--- Rating #16 ---
+Class: CMNS260
+Date: 2014-04-10 02:28:18 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He needs to work on his presentation skills. Too much stuttering that it gets distracting. Also, he needs to revise his assignment criteria. Too confusing to follow and sometimes, HE doesn't even follow it. Overall, it's very term-reliant so be sure to read the book. Also, go to labs as it's vital for the assignments. Lectures are meh.
+
+--- Rating #17 ---
+Class: CMNS260
+Date: 2012-12-24 11:34:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Nice prof. Likes what he teaches. Assignments are hard to follow. To many details perhaps. Exams are fair.
+
+--- Rating #18 ---
+Class: CMNS253W
+Date: 2012-08-05 04:46:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Like other commenters, for a writing course, it was relatively easy. However, there is a large amount of work. As a prof, he's still new, and doesnt clarify his assignments well. but he does well enough in lec to keep up with as he doesn't go off-topic very often.
+
+--- Rating #19 ---
+Class: CMNS260
+Date: 2012-07-23 14:52:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great prof, but work intensive. Although it is meant to be a Q class, the class work load is just too over loaded. I'd dropped the class but I guess the school don't have enough prof for this course. I'll eventually have to take the course with him again :/
+
+--- Rating #20 ---
+Class: CMNS253W
+Date: 2012-07-13 23:13:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+One of the easiest writing intensive course in Communications. 'nuff said.

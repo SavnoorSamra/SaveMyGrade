@@ -1,0 +1,50 @@
+Professor: Mei Fang
+Professor Legacy ID: 3059898
+Professor ID: VGVhY2hlci0zMDU5ODk4
+Department (CSV): Urban Planning
+Department (Fetched): Urban Planning
+Avg Rating: 2.7
+Avg Difficulty: 3.7
+Num Ratings: 3
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: URB101
+Date: 2026-01-07 22:05:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+lectures were a waste,  nothing to do with assignments. gives you 200 pages to read in a week. quizzes are super hard and on the tiniest details that even if you read it 100 times it would be impossible to get full marks. if you do exactly what she asks on rubric youll get a low grade because you didnt read her mind dont take
+
+--- Rating #2 ---
+Class: URB101
+Date: 2025-12-21 03:14:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Mei is a really nice prof + I really enjoyed the course as a whole. Every week was a different lecturer, and we got to learn about lots of interesting topics. TAs were really lifesavers and considerate when it came to quizzes and tutorial work. All quizzes are based on the readings, but use chat to summarize, and its super easy to do well in it.
+
+--- Rating #3 ---
+Class: URB101
+Date: 2025-12-15 05:04:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Overall nice class with different prof coming in to explain aspects of urban planning. Grading wise was pretty harsh in my opinion and weekly quizzes were not effective in understanding readings either. Readings were super heavy. If you put effort into the class you would do pretty well nevertheless but definitely was more of a workload.

@@ -1,0 +1,141 @@
+Professor: Charles Pace
+Professor Legacy ID: 1743616
+Professor ID: VGVhY2hlci0xNzQzNjE2
+Department (CSV): Literature
+Department (Fetched): Literature
+Avg Rating: 3.4
+Avg Difficulty: 3.6
+Num Ratings: 10
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: WL101
+Date: 2025-10-09 07:13:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+super good
+
+--- Rating #2 ---
+Class: WL101
+Date: 2021-06-25 07:55:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is well intentioned but unfortunately, he forgets that this course is meant mostly for first year students. He has ridiculous expectations and is a horrible grader. Also, he keeps harping on the same points. Very boring. Do not take this class.
+
+--- Rating #3 ---
+Class: WL101
+Date: 2021-04-23 04:56:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This course with Charles is very good for people who really want to learn to write close reading essays and analyze texts. It isnt easy but its worth it. Readings are interesting and not that long, raise topical social questions. Charles gives thorough feedbacks for your works and helps a lot.
+
+--- Rating #4 ---
+Class: ENGL113
+Date: 2020-04-23 05:37:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I think he can make his students hate literature after taking his class. He just keeps reading out the PPT consistently and never put a glimpse on students. He assigns some arcane readings and never clarify how to write a decent essay. I think I've learned by myself for a whole semester in this course.
+
+--- Rating #5 ---
+Class: WL110
+Date: 2019-04-05 00:58:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Boring class, a lot of reading. Terrible teacher
+
+--- Rating #6 ---
+Class: WL102
+Date: 2017-05-03 12:01:54 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Good person, yet not very good teacher. Most readings are not interesting and lectures are especially boring.
+
+--- Rating #7 ---
+Class: WL102
+Date: 2015-08-06 21:57:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is a very humble teacher with a relaxed attitude. Explains lectures down to the most minute details and is ready to help whenever you need. The lectures are fun and often small. Readings are crucial but easy.
+
+--- Rating #8 ---
+Class: WL102
+Date: 2014-06-18 04:39:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+GOOD
+
+--- Rating #9 ---
+Class: WL102WL201
+Date: 2013-12-03 22:58:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I have taken 2 world literature courses with Mr. Charles Pace at FIC, and I must say that he is my favorite professor so far. His way of teaching is combined with vast knowledge and a good sense of humor, which is in adequate quantity for an effective teaching. I hardly missed his lectures which were interactive and learning. Love you Charles!
+
+--- Rating #10 ---
+Class: WL201
+Date: 2012-08-24 02:20:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I took WL102&204 with Charles. he is one of the best prof ever. he halped me alot to improve my writing as well as he made me love reading. If you want a helpful, friendly prof then chose Charles. also, his feedback is realy useful.

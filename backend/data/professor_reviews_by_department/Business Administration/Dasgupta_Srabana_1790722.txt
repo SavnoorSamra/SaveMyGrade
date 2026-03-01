@@ -1,0 +1,193 @@
+Professor: Srabana Dasgupta
+Professor Legacy ID: 1790722
+Professor ID: VGVhY2hlci0xNzkwNzIy
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 2.7
+Avg Difficulty: 2.9
+Num Ratings: 14
+Would Take Again Percent: 57.1429
+
+Ratings Count Returned: 14
+
+--- Rating #1 ---
+Class: BUS345
+Date: 2022-12-22 00:18:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Easy but disappointing GDBA class. Discussion posts and accompanying peer reviews were extremely tedious. You're rewarded for regurgitation. Literally, write a blurb and namedrop definitions, and you'll score 9+. MBTNs were more tedious. 30% of our grade was based on a reflection... again, name drop definitions like "SWOT analysis" you'll do well.
+
+--- Rating #2 ---
+Class: BUS345
+Date: 2022-10-06 19:14:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Online GDBA course (BUS556, Marketing Management) and didn't have a choice for instructor selection. The lectures were useless and added no value. E-Mail interactions with Srabana were abrasive and lacked empathy. The marketing simulation was fun but that was about it. This course was a waste of time and money but it was needed to graduate.
+
+--- Rating #3 ---
+Class: BUS345
+Date: 2021-05-13 05:32:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I'm glad I waited to take BUS 345 with Srabana because she was a great professor! She spread out the group project with deliverables every few weeks and gave us feedback to make sure we were on the right path. She was very caring and understanding about the difficulties of online courses and made a lot of accommodations for students.
+
+--- Rating #4 ---
+Class: BUS345
+Date: 2019-01-03 03:24:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Her lecture is fun.
+
+--- Rating #5 ---
+Class: BUS345
+Date: 2018-12-10 21:43:07 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Srabana's lectures are pretty useless if you don't read the textbook. You are going to need to read the textbook and take good notes from the textbook because her midterm and finals are heavily based on that. There's a midterm, group project, small individual assignment and a final. Exams are straight to the point, small standard deviation tho!
+
+--- Rating #6 ---
+Class: BUS345
+Date: 2018-12-03 18:56:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Took it in the evening with her and we only went an hour and a half every week (supposed to be 4). Group projects and midterm was relatively easy... I was surprised since it's a 4 credit course. Defs take it with her (in the evening is shorter haha)
+
+--- Rating #7 ---
+Class: BUS345
+Date: 2016-12-18 12:23:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lots of little things like assignments, exercises, and such throughout the lectures and semester to stay on top of. Easy marker - her feedback literally tells you what to fix. Lectures are straight from the textbook. Expect to do a LOT of group work, and statistics work as well.
+
+--- Rating #8 ---
+Class: BUS345
+Date: 2015-12-26 02:18:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Srabana's expectations are a little bit unclear at times, but she's very helpful if you talk to her individually during office hours. Not a bad prof overall.
+
+--- Rating #9 ---
+Class: BUS343
+Date: 2015-11-09 00:50:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is a good professor. She tries to make every lecture fun by bringing real life examples, and having students participate. The tests are easy, and overall a straight -forward course. I would recommend!
+
+--- Rating #10 ---
+Class: BUS207
+Date: 2014-04-20 20:08:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great prof! Don't know why there's so many bad reviews..Her notes explain everything and she clarifies any questions at the end..couldn't ask for any better
+
+--- Rating #11 ---
+Class: BUS207
+Date: 2013-12-07 22:54:14 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+The examples Srabana covered in class were challenging...definitely hard to follow. This course is very difficult overall and to pass you need to practice practice practice. I use textbooks as a guide for all my courses except this one - reading the slides is enough. Focus on the calculation questions. Toughest course I've taken by far.
+
+--- Rating #12 ---
+Class: BUS207
+Date: 2013-11-29 22:24:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: N
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+She seems to care but overall shes just not that good at teaching.  She makes constant mistakes while doing examples and does not explain things really well.  Would recommend taking the class with someone else
+
+--- Rating #13 ---
+Class: BUS207
+Date: 2013-04-11 17:55:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Srabana means well but doesn't convey the material well. She goes way too fast, her notes are useless, and her lectures are extremely boring. I'd recommend taking this class with another professor.
+
+--- Rating #14 ---
+Class: BUS207
+Date: 2013-03-07 18:12:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Horrible prof, she goes way to fast in class, her notes aren't helpful, and she expects her TA's to answer all questions.

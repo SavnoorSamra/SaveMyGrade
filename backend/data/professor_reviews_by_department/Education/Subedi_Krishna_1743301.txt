@@ -1,0 +1,37 @@
+Professor: Krishna Subedi
+Professor Legacy ID: 1743301
+Professor ID: VGVhY2hlci0xNzQzMzAx
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: MATH105
+Date: 2012-08-24 23:45:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I never was a good math student but I was lucky that I took Math 105 course with this professor in summer 2012 at Alexander College, Vancouver/ Burnaby. He explained the concept so good that I feel like I understood mathematics clearly for the first time in my life.  He is one of the best math professors I have ever had.
+
+--- Rating #2 ---
+Class: CALA
+Date: 2012-08-23 03:16:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Wonderful instructor!

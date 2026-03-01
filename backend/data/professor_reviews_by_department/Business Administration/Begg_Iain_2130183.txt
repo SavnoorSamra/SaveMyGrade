@@ -1,0 +1,37 @@
+Professor: Iain Begg
+Professor Legacy ID: 2130183
+Professor ID: VGVhY2hlci0yMTMwMTgz
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 2.3
+Avg Difficulty: 2
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS314
+Date: 2016-04-21 20:00:33 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Nice, knowledgable, seasoned mentor in entr.  But when it came to teaching, it was another story.  All exams based off his slides - not enough to study off of (needs a txt) b/c there's confusing financial info he skims thru fast (cap tables). Marks HARD and you don't know what he wantsfor assgnmts. Needs rubric or criteria. AVOID if not doing entr.
+
+--- Rating #2 ---
+Class: BUS314
+Date: 2016-04-18 14:09:09 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+He's a nice guy, and pretty chill, but very disorganized, and confusing. Nobody has any idea what is going on in the class, I felt that a lot of his test material was not related to lectures. Also no textbook for this class. I am majoring in entrepreneurship so had to take this class.

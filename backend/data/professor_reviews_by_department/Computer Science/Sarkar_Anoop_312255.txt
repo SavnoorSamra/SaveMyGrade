@@ -1,0 +1,275 @@
+Professor: Anoop Sarkar
+Professor Legacy ID: 312255
+Professor ID: VGVhY2hlci0zMTIyNTU=
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.7
+Avg Difficulty: 3.6
+Num Ratings: 29
+Would Take Again Percent: 60
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT413
+Date: 2025-12-18 20:32:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+All assignments and the project are done in groups, so if you don't like group work then this course might not be for you. Prof is great at explaining concepts in class and uses a lot of real world examples. Exam is online and fair. Grading does take a long time though. Otherwise pretty good.
+
+--- Rating #2 ---
+Class: CMPT379
+Date: 2025-08-23 05:48:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This is a hard course. Lots of time will be spent on the HW. Ranging from 10 to 30 hours per HW. Form groups to reduce workload or solo for better knowledge.
+
+Each HW progressively gets more difficult. Start early. Not necessarily hard theoretically.
+
+Anoop cares that everyone succeeds and is available for questions. Would recommend.
+
+--- Rating #3 ---
+Class: CMPT379
+Date: 2025-08-22 12:49:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+379 is tough but worth it. We built a custom compiler over 4 iterations (30hrs each) with a contest at the end. Anoop's grading criteria is clear, projects are group-based, lectures are recorded, quizzes are online, and he replies quickly to questions. Would highly recommend Anoop, it is very possible to do well in this class and learn a ton.
+
+--- Rating #4 ---
+Class: CMPT825
+Date: 2023-10-01 21:03:06 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He tries to be funny but he is not. I am sorry for any place in which Anoop is a comedian...
+
+--- Rating #5 ---
+Class: CMPT379
+Date: 2020-11-17 04:51:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Great guy, very chill and approachable. Explains things in incredibly detailed fashion and gives solid examples. The homework for this course is pretty hard, so be prepared for that.
+
+--- Rating #6 ---
+Class: CMPT379
+Date: 2019-10-02 01:54:33 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I found his 379 class extremely challenging. Exams are fair and he was quite lenient on the final but his homework is very hard. I only recommend this class if you are a very good programmer and understand abstract concepts very well. I easily spent over 50 hours on assignment 3.
+
+--- Rating #7 ---
+Class: CMPT413
+Date: 2019-09-23 19:00:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Talk a lot of useless stuffs during the class, and very careless about the grading, you can even recieve more than 5 grading update notification for one milestone.
+
+--- Rating #8 ---
+Class: CMPT379
+Date: 2019-08-10 03:51:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Homework mark is mostly known before submission (self auto-grader). Homework starts out easy (HW0,1,2), but becomes more confusing (HW3,4). Final exam reasonable. Grades are split fairly between homework, midterm/final exam. There are few reviews here because Anoop is awesome. Recommended.
+
+--- Rating #9 ---
+Class: CMPT379
+Date: 2019-07-31 03:44:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great guy, course was a lot of work but it was arranged in a way that made it fairly easy if you put in the time. The use of git to deploy assignments and fix bugs was great. Provided a generous amount of reference material to learn from. Compilers aren't really his thing, but he didn't do a bad job at all here.
+
+--- Rating #10 ---
+Class: CMPT413
+Date: 2018-07-02 14:52:43 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This course is available for both graduate and undergraduate students but it is designed for graduate level. I would not recommend this course for undergraduate students. Prerequisite of &quot;completion of nine units in Computing Science upper division courses&quot; is not enough to do well in it. Take this course if you like a challenge and self learning.
+
+--- Rating #11 ---
+Class: CMPT413
+Date: 2018-04-04 19:12:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The course is very well organized, which walks you through basic algorithms with a few more steps exploration. Team projects have heavy workload but really prepare you with actual capability in performing AI research for NLP application. This is rewarding.
+
+--- Rating #12 ---
+Class: CMPT127
+Date: 2017-08-08 17:03:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+A bit of a mixed bag with Anoop, was willing to help you if you needed it both in and outside the lab. Promptly responded to questions on the discussion board but he seemed like he had a bit of a chip on his shoulder and could be quite snarky/combative combative. Tests were easy and marked automatically, basically pass/fail, which was ok I suppose.
+
+--- Rating #13 ---
+Class: CMPT127
+Date: 2017-08-03 23:56:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Decided to punish the class this semester with exams. Normally this class is just assignments, since it's the lab component of CMPT125, and the workload is high.  Exams graded by a robot, so any tiny error gives you a 0.  Super awful prof. Stay away.
+
+--- Rating #14 ---
+Class: CMPT413
+Date: 2017-01-12 18:09:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Amazing lectures, amazing professor. The final project is a working end-to-end translations system which you'd be developing throughout the semester in the form of assignments. The class is heavily applications oriented. I would take any course offered by the prof.
+
+--- Rating #15 ---
+Class: CMPT413
+Date: 2016-12-12 16:39:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Anoop is definitely one of the best in CS at SFU. Classes are clear, the materials on the course website clearer! The assignments are tough, but absolutely helpful. The test framework and the leaderboard helps a lot. Project is really interesting.  He cares for the subject. And his comic gestures are a cherry on the top. Do take the course.
+
+--- Rating #16 ---
+Class: CMPT825
+Date: 2016-01-20 20:09:25 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+He is definitely passionate about what he is teaching; however, only take his course if he is your supervisor. The lectures leave you in a confusing state just because the course is normally filled with his grad students from his lab and he does not care enough for the people who take the class without having previous exposure to the subject.
+
+--- Rating #17 ---
+Class: CMPT413
+Date: 2014-03-13 19:44:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Being a professor means teaching and evaluating students. Anoop has no idea about the 'evaluation' part. His exam consisted of 4 questions, 2 of which required learning his slides by heart and jotting down the formula. He does not test for understanding, just for parroting. The grade you get doesn't correlate with what you know. It's a disgrace.
+
+--- Rating #18 ---
+Class: CMPT379
+Date: 2014-03-09 03:43:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Anoop is one of the best at SFU. His course website is great with very clear pdfs of his slides. Assignments are very well organized. He provides a test framework which helps a lot in trying to solve them. Very personable guy with a good sense of humor.
+
+--- Rating #19 ---
+Class: CMPT379
+Date: 2013-12-12 14:39:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Compilers are hard. But anoop does it in a way thats manageable. Assignments take time and you need to spend a lot of time on them. But talking to my friends who took it in Surrey I spent significant less time on the assignments and felt I learned the same material.
+
+--- Rating #20 ---
+Class: CMPT379
+Date: 2013-04-29 20:17:11 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Super difficult class with very time consuming assignments. He is passionate yes.  Somewhat helpful but 99% time is done plugging away at the assignments.

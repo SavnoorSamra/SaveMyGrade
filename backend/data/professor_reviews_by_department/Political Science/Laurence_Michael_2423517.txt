@@ -1,0 +1,271 @@
+Professor: Michael Laurence
+Professor Legacy ID: 2423517
+Professor ID: VGVhY2hlci0yNDIzNTE3
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 4.3
+Avg Difficulty: 2.8
+Num Ratings: 59
+Would Take Again Percent: 84.7458
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: POL100
+Date: 2025-12-15 09:01:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great teacher, funny, a little awkward, but has a great heart and loves what he teaches. Very much recommend!
+
+--- Rating #2 ---
+Class: POL121
+Date: 2024-01-03 05:03:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Great
+
+--- Rating #3 ---
+Class: POL100
+Date: 2024-01-03 05:01:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Great professer. Sometimes he use textbook sometimes not. But overall great. Very easy
+
+--- Rating #4 ---
+Class: POL310
+Date: 2023-04-13 04:10:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Michael is a great prof who is passionate about what he is speaking about. Lectures were not boring and super engaging. He did his best to make assignments fun and not just a regular research paper. Weekly readings were actually nice to read and not boring. He did a great job of making the course entertaining.
+
+--- Rating #5 ---
+Class: POL310
+Date: 2023-04-09 20:34:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Mike is the BEST. Lectures were engaging and the assigned readings were fantastic (I actually wanted to read them)! Super caring/understanding and wants his students to succeed. He made political theory super interesting and incorporated pop culture in assignments, which were really fun and not typical/boring. Couldn't recommend more!!
+
+--- Rating #6 ---
+Class: POL151
+Date: 2022-12-31 03:58:04 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The TA's  are the only downfall. So unapproachable and give very little feedback. Midterm/final was rather difficult only due to the fact that the essay questions are worth half of the exam marks and you really have to know the content to get full marks on them. otherwise he's a good prof.
+
+--- Rating #7 ---
+Class: POL151
+Date: 2022-12-21 05:24:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Laurence is really funny and chill during lectures, he makes funny jokes. The material is very boring but he makes it fun and I never used the textbook unless it was for the assignments. He also ran my tutorials which was nice when you have questions. The mid term and exam was moderate, he does give hints about what is going to be on them.
+
+--- Rating #8 ---
+Class: POL151
+Date: 2022-12-13 07:10:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+easy class with fair exams, don't but a textbook cause you will never use it. If you study the slides you will be good to go and pass the class with flying colours. Only downside was the TAs marking was very inconsistant and your grade on papers fully depended on which TA marked it
+
+--- Rating #9 ---
+Class: POL151
+Date: 2022-12-09 20:44:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great prof! Lectures are always lighthearted and not droning. Marking was inconsistent, because the TAs switch papers so your TA may not mark your assignment. Midterm and final are reasonable difficulty, nothing too bad. Course readings were boring but not test material, only lectures and slides. He's nice during office hours, and will help with hw
+
+--- Rating #10 ---
+Class: POL151
+Date: 2022-11-28 00:42:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great prof! Took his POL 151 class and just now finishing up the term. I highly recommend him; great lectures and is very approachable and gives thoughtful responses!
+
+--- Rating #11 ---
+Class: POL151
+Date: 2022-11-23 06:10:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Laurence is a very funny guy. he cracks jokes related to lecture material which truthfully helped me retain the knowledge. He is very helpful and understanding of student situations. His lectures are very helpful and he directly covers any materials he will be quizzing you on. textbook is not required but did help in some instances
+
+--- Rating #12 ---
+Class: POL151
+Date: 2022-10-11 00:11:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof, the courses are ok but he makes them interesting. Incredible helpful and a great guy to talk to. Some papers but clear outlines and a good marker. Very highly recommend him
+
+--- Rating #13 ---
+Class: POL325
+Date: 2022-05-04 03:27:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+A fantastic and inspirational professor at SFU. His course was equally fantastic and very interesting. I would highly recommend anyone to take a course with Michael.
+
+--- Rating #14 ---
+Class: POL151
+Date: 2022-04-26 11:47:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Mike is a tremendous professor and a case study on how to treat your students with kindness, respect, and humility. In all my interactions with him, I always felt like I was talking to someone who cared about my success in the course. Put simply, he is a must-take for any student, and will be the standard you evaluate your future profs against.
+
+--- Rating #15 ---
+Class: POL151
+Date: 2022-03-29 18:57:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+A very funny prof, he provides lots of support and has tons of enthusiasm. I would recommend him for any course in POL. Exams and assignments are very straightforward, there are no surprises.
+
+--- Rating #16 ---
+Class: POL121
+Date: 2022-01-25 06:42:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+amazing prof and his TA richard was class too
+
+--- Rating #17 ---
+Class: POL325
+Date: 2021-05-26 00:22:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Every student at SFU needs to take a class with Mike. He is hilarious and can turn any boring subject into something interesting. Not only is Mike funny, but he is incredibly knowledgeable and happy to answer questions from his students.
+
+--- Rating #18 ---
+Class: POL121
+Date: 2020-12-21 18:54:15 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Mike is a super nice guy. Although I never met him because the class was online, he came across really caring and compassionate in his emails. He is very interested in the class material as demonstrated in his lectures which was great for anyone but especially me, a first year student.
+
+--- Rating #19 ---
+Class: POL121
+Date: 2020-12-17 04:49:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I've taken classes with Mike twice now, and he is a GEM. Literally one of the most genuinely funny and kind profs at SFU, especially in political science. I plan on taking every class I can get with him. He is lenient with extensions and released our final one day early for extra time, and marks very fair. Overall, you'll love him.
+
+--- Rating #20 ---
+Class: POL310
+Date: 2020-11-22 22:59:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+One of the best profs I had

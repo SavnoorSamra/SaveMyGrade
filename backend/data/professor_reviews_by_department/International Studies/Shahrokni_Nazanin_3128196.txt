@@ -1,0 +1,37 @@
+Professor: Nazanin Shahrokni
+Professor Legacy ID: 3128196
+Professor ID: VGVhY2hlci0zMTI4MTk2
+Department (CSV): International Studies
+Department (Fetched): International Studies
+Avg Rating: 3.5
+Avg Difficulty: 3.5
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: IS315
+Date: 2026-02-17 12:35:45 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Ok professor but will grade incredibly harshly, she grades assignments as if I had committed a great sin against her, so beware as it could be you.
+
+--- Rating #2 ---
+Class: IS315
+Date: 2025-11-26 11:30:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the best profs I've had at SFU. She goes beyond surface-level course content and discusses deep, important concepts and issues. She also goes out of her way to memorize student names and listen to us, which makes it seem like she cares. The course itself was very interesting and not too difficult; I would recommend taking it with her.

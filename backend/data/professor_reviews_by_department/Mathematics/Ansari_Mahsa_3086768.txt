@@ -1,0 +1,24 @@
+Professor: Mahsa Ansari
+Professor Legacy ID: 3086768
+Professor ID: VGVhY2hlci0zMDg2NzY4
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: FAN-X99
+Date: 2025-11-25 21:41:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Mahsa is such an incredible and caring prof. Her classes are very well organized and makes sure every student understands her. She encourages questions, and always asks if they class is doing okay. The class itself was very easy if you come to class and do all the homework. 100% take this class with her, you won't regret it.

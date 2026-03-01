@@ -1,0 +1,167 @@
+Professor: Bill Scott
+Professor Legacy ID: 2373518
+Professor ID: VGVhY2hlci0yMzczNTE4
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.5
+Avg Difficulty: 2.2
+Num Ratings: 12
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 12
+
+--- Rating #1 ---
+Class: BUS488
+Date: 2023-08-30 23:47:59 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Boring lectures but attendance is necessary. Easy grading. The only thing I didn't like was that he does not mark participation fairly. If you have group conflict, just endure it even if you're the one carrying or else you'll get a lower participation mark for "not attempting to resolve" your group conflict lol.
+
+--- Rating #2 ---
+Class: BUS272
+Date: 2023-01-07 20:58:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Bill Scott is a tremendous professor. He is friendly, approachable, and he cares about his students. His lectures are quite informative and inspirational. He answers emails in good time and makes the work clear. There are quite a few assignments in BUS 272, but they are fair and explained well for the most part. I would recommend Professor Scott
+
+--- Rating #3 ---
+Class: BUS272
+Date: 2022-08-01 19:38:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+for 3credits, there was ALOT of assignments. besides the weekly quizzes, there was always sum to do almost every week, sometimes the assignment would overlap and you end up doing 2 things. they're all group work so if you end up with bad members, you'll do bad. you'll end reading the whole textbook cuz his sides are bad. He's a good teacher tho
+
+--- Rating #4 ---
+Class: BUS272
+Date: 2022-05-10 09:51:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very friendly and responds to emails quickly. Exams are fair but wording can be vague--focus on applying concepts as exams are all written application questions and no MC. Bill is clearly passionate about teaching and cares for his students, def take it w/ him (he made a wheel of fortune game to make lectures more fun and engaging for students)! :)
+
+--- Rating #5 ---
+Class: BUS272
+Date: 2020-12-20 20:04:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Bill Scott is a solid choice. I took BUS 272 online and the course structure is quite simple and easy. Overall the course is quite basic/simple.
+
+--- Rating #6 ---
+Class: BUS488
+Date: 2020-12-18 10:15:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Bill is an amazing professor. He gives great support to his students, replying to emails within the day. He gives clear rubrics which makes it possible to do well on assignments. We had to do 1 report, 1 presentation, a term paper which is more like a reflection, then a short reflection paper, and make a team charter. I highly recommend this course
+
+--- Rating #7 ---
+Class: BUS488
+Date: 2020-12-15 07:29:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+William (Bill) Scott is honestly one of the best Beedie professors I have ever met. I took BUS 488 with him virtually this past semester due to COVID and it was such a great class. The nature of the class is already supposed to be highly interactive and engaging but Bill was able to incorporate those components really well into the online lectures.
+
+--- Rating #8 ---
+Class: BUS272
+Date: 2020-07-13 07:42:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+pair projects and group projects. course concepts are fairly easy to understand. however you need to actually know what you're learning about to do well. memorization does not help. he's a nice guy and his lectures are interesting. a good beginner business course
+
+--- Rating #9 ---
+Class: BUS272
+Date: 2019-11-26 22:13:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very &quot;liberal&quot; course. Loads of group projects and in class activities. The concepts were not difficult, weekly quizes were easy and the professor and TA marked assignments fair. The mid term and final are largely multiple choice and honestly kind of tricky.
+
+--- Rating #10 ---
+Class: BUS272
+Date: 2019-10-02 18:49:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Worst professor ever had. His lecture is useless and the PowerPoint are useless at all! Dont take his class. It is chaotic!
+
+--- Rating #11 ---
+Class: BUS272
+Date: 2019-10-02 18:47:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Worst professor I have ever had. Extremely boring lectures and never cover the main point! Always ask us to do group interactions but is bored to death! Hate him a lot!
+
+--- Rating #12 ---
+Class: BUS272
+Date: 2018-12-12 22:22:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures were whack, not really required. Group project is fairly straight forward and simple. Midterm was easy, but final was very difficult. Basically a really easy class up to the final.

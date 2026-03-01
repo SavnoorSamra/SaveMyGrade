@@ -1,0 +1,271 @@
+Professor: Leanne Barlow
+Professor Legacy ID: 2367634
+Professor ID: VGVhY2hlci0yMzY3NjM0
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 2.7
+Avg Difficulty: 4.2
+Num Ratings: 70
+Would Take Again Percent: 42.8571
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS360W
+Date: 2026-01-04 23:38:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Don't take her. Save yourself the money and time. Not sure how she even got hired as a prof
+
+--- Rating #2 ---
+Class: BUS360
+Date: 2025-12-08 21:32:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Most confusing and hard Beedie marker I have had. Lectures were okay and engaging, but the amount of work and grading criteria was too hard. I wouldn't recommend talking with her, go with another professor.
+
+--- Rating #3 ---
+Class: BUS360
+Date: 2025-12-04 17:56:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Never take this class with Leanne, she is such phony and doesn't care about her students at all. She is a terrible professor. She thinks she is so much better than everyone and seems like the type of person who would write positive reviews for herself. NEVER TAKE A CLASS WITH HER
+
+--- Rating #4 ---
+Class: BUS360W
+Date: 2025-10-11 06:37:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Vague & contradictory grading criteria. Lectures were fine but I have never been graded so harshly. It felt like she was actively looking for issues to create with each paper. I went in for office hours and she was very condescending. A revision I did got a worse grade than the original submission. I only passed because I did well on final pres.
+
+--- Rating #5 ---
+Class: BUS360
+Date: 2025-04-17 16:58:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+solid prof
+
+--- Rating #6 ---
+Class: BUS360
+Date: 2025-04-17 16:56:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+A lot of people will say that Leanne is a very hard prof to take 360 with but for me it was the opposite. Trust me, she makes the class very easy on students and she was always open to helping you understand what you did wrong in your assignments. Yes this course is a lot of work but she try's to make it manageable. class was always engaging too
+
+--- Rating #7 ---
+Class: BUS360W
+Date: 2025-04-16 03:15:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+My mind was blown by this course. The professor. The lectures. The assignments. The grading. All of it was awful. The worst course I've ever taken &#127942;.
+
+--- Rating #8 ---
+Class: BUS360W
+Date: 2025-04-15 18:00:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Course helped me so much with all the exercises and class discussions. Liked the range of topics and started using right away. Know will use approaches a lot - thanks Leanne for all great feedback and learning!
+
+--- Rating #9 ---
+Class: BUS360W
+Date: 2025-04-15 16:35:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best course at Beedie - real examples helped to learn to communicate better and I have used the information every day at work and school. You need to be organized as each week there are assignments. I liked the activities we do so the class goes quickly. Leanne is always ready to help, all you have to do is ask or show up to her office hours.
+
+--- Rating #10 ---
+Class: BUS360W
+Date: 2025-03-23 05:06:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the best profs Ive had in Beedie. The negative reviews are from people who don't pay attention to assignment criteria or the core learning objectives and are upset about their bad grades. She genuinely wants you to succeed and is very understanding and kind. Lectures are engaging (fun too if you have a good class) and the 3 hours go by fast.
+
+--- Rating #11 ---
+Class: BUS360W
+Date: 2025-02-05 19:12:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Most valuable course taken. Use info all the time. Liked the engaging activities and all the real examples to help me learn.
+
+--- Rating #12 ---
+Class: BUS360W
+Date: 2024-12-17 16:30:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Leanne is a kind and fair professor. Her 3 hour lectures are very engaging and go by fast. She finds engaging activities, gives us a break, and gets us moving out of our seats. There is a lot of group work so be ready for that and its true that the grading is though but overall I really enjoyed this class and I would recommend taking it with Leanne
+
+--- Rating #13 ---
+Class: BUS360W
+Date: 2024-12-07 05:09:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Appreciated the engaging classes. Three hours flew by. Learned a lot and have been using this information in my job.  Great feedback and encouraged me to learn and grow.
+
+--- Rating #14 ---
+Class: BUS360
+Date: 2024-12-02 23:46:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+No matter which prof you take this course with, it will be tough. Leanne made the classroom environment fun, engaging, and a good place to learn. She made an effort to create good relationships with the students, which makes her approachable in office hours/after class. She always provided valuable feedback and offered help if you needed it.
+
+--- Rating #15 ---
+Class: BUS360W
+Date: 2024-11-12 08:27:05 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Any guidelines can be fully met and yet there will somehow be ""flaws"" in your writing. Ask yourself how reasonable it is that NOBODY in the history of this class has ever gotten a 100% on any assignment. Go ahead and follow the student guide but it won't change much since they will invent issues with your work if they can't find any.
+
+--- Rating #16 ---
+Class: BUS360W
+Date: 2024-03-15 03:16:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+BUS360 is hard regardless of your prof. Leanne made it a much easier experience - she was engaging, enthusiastic, and had a genuine interest in her students. Marking was strict but overall justified. One of the best profs I've had so far in Beedie.  Also, go to office hours for feedback and clarification if you want a better mark.
+
+--- Rating #17 ---
+Class: BUS360W
+Date: 2023-12-14 04:59:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This course is tedious, will not matter what prof it's with. Leanne was a great prof for this course. Lectures were quite laidback and provided good info/insight into what's expected for the exams. She is fairly helpful with feedback, may be a bit ambiguous in terms of what she expects. Her TA Ina can be a tough grader. Overall great prof for 360W.
+
+--- Rating #18 ---
+Class: BUS360W
+Date: 2023-08-03 01:30:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Leanne was a great professor. She will challenge you & is a very tough grader. Her lectures are engaging & she cares a lot about her students.
+
+--- Rating #19 ---
+Class: BUS861
+Date: 2023-05-01 21:34:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I most enjoyed that this course provided lots of feedback and you could tell lots of time was spent setting up the assignments for us with the clear grading rubrics. The content covered a lot of topics to help prepare us for various situations we may encounter as Managers. This is a good thing! She is always ready to help you.
+
+--- Rating #20 ---
+Class: BUS360W
+Date: 2023-05-01 21:29:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This course is a 4 credit course for a reason - it has weekly assignments and we are expected to think; making us have to carefully consider situations and the nuance of communicating is really important for our future. I'm glad I had a chance to pay attention and get lots of feedback on this while at school so that I can be ready for work!

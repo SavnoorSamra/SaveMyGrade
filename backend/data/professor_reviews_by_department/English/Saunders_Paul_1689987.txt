@@ -1,0 +1,24 @@
+Professor: Paul Saunders
+Professor Legacy ID: 1689987
+Professor ID: VGVhY2hlci0xNjg5OTg3
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 4.5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: ENGL216
+Date: 2012-02-02 21:53:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great prof! Very smart and interesting. Funny too! Seems like a fair marker so far. Probably deserves two chili peppers too!!!

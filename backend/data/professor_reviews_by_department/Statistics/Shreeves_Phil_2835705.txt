@@ -1,0 +1,115 @@
+Professor: Phil Shreeves
+Professor Legacy ID: 2835705
+Professor ID: VGVhY2hlci0yODM1NzA1
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 3.3
+Avg Difficulty: 3.9
+Num Ratings: 8
+Would Take Again Percent: 50
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: Stat100
+Date: 2023-05-25 20:59:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is really caring and his lectures are really done well. He adjusts the pace of the lectures to make sure everyone can keep up. People expect this course to be 0 work but you have to put in a little effort and you will do great. Very nice and helpful during office hours.
+
+--- Rating #2 ---
+Class: Stat100
+Date: 2023-03-22 06:25:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Easy GPA booster. If you just do the practice questions he assigns and read the material, this course should be easy for you. He is a great lecturer and I had a lot of fun in this course. All of the other people saying his tests were hard are thinking this course requires no work. Just study what he assigns and you will be fine.
+
+--- Rating #3 ---
+Class: Stat100
+Date: 2023-02-16 05:05:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took stat100 with Phil, and he is a great prof. My only recommendation if you're taking a class with him is to study and practice the examples he goes over during lectures as that is what he tests you on rather than the textbook questions he assigns.
+
+--- Rating #4 ---
+Class: Stat100
+Date: 2022-12-23 20:40:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Still not done with his stat100 course but Phil is a fantastic lecturer and teacher. He is the best guy, takes every class nicely and slowly, and explains concepts clearly. He really cares for each student's success and does a lot to help us do well in his course. By far the best prof I have and I hope he continues to teach. 10/10 dude.
+
+--- Rating #5 ---
+Class: Stat100
+Date: 2022-12-16 19:42:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took this course because it was listed as one of the easy breadth courses. But it seems to decrease my GPA instead. The course is very easy, but the prof has made it 10 times harder with difficult exams
+
+--- Rating #6 ---
+Class: Stat100
+Date: 2022-12-16 07:23:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Extremely hard tests. All I can say, don't take a class with him. More than half of the class has already dropped
+
+--- Rating #7 ---
+Class: Stat100
+Date: 2022-12-16 07:20:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His lectures are okay. But if you"re looking to boost your GPA, don't take it with him. His tests are really hard and often makes easy material extremely difficult than required.
+
+--- Rating #8 ---
+Class: Stat100
+Date: 2022-12-15 22:04:01 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Phil is nice but exams are very difficult. Often had to lower what the exam was out of because class did so poorly and average was too low

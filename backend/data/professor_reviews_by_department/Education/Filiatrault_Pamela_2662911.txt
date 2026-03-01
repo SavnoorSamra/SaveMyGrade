@@ -1,0 +1,89 @@
+Professor: Pamela Filiatrault
+Professor Legacy ID: 2662911
+Professor ID: VGVhY2hlci0yNjYyOTEx
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.5
+Avg Difficulty: 3
+Num Ratings: 6
+Would Take Again Percent: 83.3333
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: EDUC422
+Date: 2023-04-03 22:06:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Pamela is such a gem. While this is a difficult course, she was available to answer any questions and was not harsh in her marking - she also responds to emails and gets things marked very quickly, so you're not waiting around for too long! I would not hesitate to take a course with her again. Easily one of the best profs I've had at SFU.
+
+--- Rating #2 ---
+Class: EDUC422
+Date: 2022-12-07 20:08:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Pamela was a great instructor. The course itself isn't that difficult, but the readings are. I had to reread a couple of times. Overall assignments were straightforward and Pamela was available for any questions I had and would give hints on where to find information for assignments. You'll do well if you participate in assignments/discussions.
+
+--- Rating #3 ---
+Class: EDUC422
+Date: 2022-08-09 22:43:38 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+She is very old school and only focused on early primary reading interventions. Take if this is what you're looking for otherwise it is a super niche course and I felt like I got nothing out of it.
+
+--- Rating #4 ---
+Class: EDUC315
+Date: 2022-04-13 18:22:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: True
+Comment:
+Pamela is super caring. Took this course last semester and it was great. She definitely deserves these 5/5 stars.
+
+--- Rating #5 ---
+Class: EDUC422
+Date: 2022-04-13 18:19:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+By Far my favourite prof at SFU. She is so caring and will actually set aside time to help you if you ask for it. Her grading/ reasoning is easy to understand. If you try in this class it is not hard to do well. This is my second course with her and I hope to take more with Pamela. If you have the chance to take a class with her, you better take it
+
+--- Rating #6 ---
+Class: EDUC422
+Date: 2021-01-08 06:53:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Pamela is the most caring prof I've ever encountered at SFU. She genuinely cares for her students and is always very accessible for help despite the course being online. Her expectations are clear and when clarification is needed, she goes above and beyond to make sure you really understand. I can't recommend her enough as a prof she's amazing :)

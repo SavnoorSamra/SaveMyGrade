@@ -1,0 +1,37 @@
+Professor: Michael Wilkinson
+Professor Legacy ID: 2395166
+Professor ID: VGVhY2hlci0yMzk1MTY2
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 5
+Avg Difficulty: 5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS217W
+Date: 2018-08-12 15:18:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I feel lucky to meet Michael this semester. He made the tough BUS217 vivid and he let you work for you grade.
+
+--- Rating #2 ---
+Class: BUS217W
+Date: 2018-08-09 18:00:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Michael is nice. He comes from English faculty and probably is a little bit strict in grammar. But this is a good thing since you will benefit a lot especially in english professional writing. This course is tough, but Michael makes the course at least not that boring. His mark is fair.

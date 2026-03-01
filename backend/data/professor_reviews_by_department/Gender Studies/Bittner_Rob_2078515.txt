@@ -1,0 +1,128 @@
+Professor: Rob Bittner
+Professor Legacy ID: 2078515
+Professor ID: VGVhY2hlci0yMDc4NTE1
+Department (CSV): Gender Studies
+Department (Fetched): Gender Studies
+Avg Rating: 4.5
+Avg Difficulty: 2.1
+Num Ratings: 9
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: GSWS210
+Date: 2020-05-25 04:12:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Rob is a great prof, I wish he would teach more classes at SFU. He is a super nice, funny and caring person. His syllabus/grading criteria is very clear/straightforward, marking is easy if you put the effort in. His choices for readings were also super interesting and he's very passionate about what he teaches, he truly wants you to do well. Love!
+
+--- Rating #2 ---
+Class: GSWS210
+Date: 2019-12-11 07:05:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Well rounded prof
+
+--- Rating #3 ---
+Class: GSWS210
+Date: 2019-12-10 04:55:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A very nice guy that cares about his students, but the thing is, he's a teensy bit dumb. He likes to mark every version of a paper, which is fine but he marks like he's a friend editing a paper. Comments things in the margins which anyone with a bit of thought could figure out, like asking for a full explanation in the intro instead of reading more
+
+--- Rating #4 ---
+Class: GSWS100
+Date: 2016-02-25 01:32:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+I'm a bit biased- I absolutely love Rob! The lectures covered a lot of really interesting material. They were entertaining yet informative, and Rob really encouraged discussion. He was also very friendly and helpful when I asked him about career-related things unrelated to the course. Search a little and you can find the texts in a public library.
+
+--- Rating #5 ---
+Class: GSWS100
+Date: 2016-01-07 00:46:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Bittner was one of the best profs I've ever had. He was hilarious, engaging, and chose great reading content. Wish that his lectures were a little more clear, there was always a lot on the slides and not enough time to write it all down. That being said, I would recommend him in a heartbeat!
+
+--- Rating #6 ---
+Class: GSWS100
+Date: 2015-12-28 18:25:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Bittner is so amazing! He's great at explaining things in class and always encourages questions... our lectures ended up like big discussions and it was awesome. He also is super helpful outside of class if you seek it out.
+
+--- Rating #7 ---
+Class: GSWS100
+Date: 2015-12-19 05:56:57 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His midterm was the easiest exam I have ever taken in university. He reviews everything with the class the week before. I just wish his slides had a little more information, I honestly would learn more from my TA. This class is still super easy even if you do not have a great TA, however, mine was spectacular.
+
+--- Rating #8 ---
+Class: GSWS100
+Date: 2015-12-10 03:55:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Really fun and interesting classes! Such a great teacher!
+
+--- Rating #9 ---
+Class: GSWS100
+Date: 2015-12-09 18:50:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+I took Sex Talk with Bittner and he was super fun and engaging the whole time. He was funny during class, and encouraged questions. Loved it. I recommend the class to anyone.

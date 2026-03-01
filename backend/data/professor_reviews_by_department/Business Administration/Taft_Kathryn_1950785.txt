@@ -1,0 +1,37 @@
+Professor: Kathryn Taft
+Professor Legacy ID: 1950785
+Professor ID: VGVhY2hlci0xOTUwNzg1
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.3
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: MGMT310
+Date: 2022-11-09 01:14:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Absolutely amazing Professor. Very practical, knowledgeable and makes everything relatable to today's world.  Fair and understanding. I'm a mature student and she was my very first professor. I have finished all my HR courses, I wish I could go back and retake her class just to pick up on everything I missed the first time around!
+
+--- Rating #2 ---
+Class: MGMT310
+Date: 2014-12-01 13:14:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Kathryn knows her stuff. The midterm is quite hard. Be ready to memorize and be able to apply 7-8 chapters. The multiple choice was super easy, but the written part was difficult. 4 questions @ 10 points each to be written in 45 minutes.  She marks tough, if you do not answer the questions completely you will get a zero on the written part.

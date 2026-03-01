@@ -1,0 +1,50 @@
+Professor: Tsoghik Grigoryan
+Professor Legacy ID: 3160729
+Professor ID: VGVhY2hlci0zMTYwNzI5
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.7
+Avg Difficulty: 2.3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: EDUC322
+Date: 2026-02-13 18:29:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Very prompt and professional. I didn't see her physically the course was online she was a ta for the course but she graded all assignments very well and answered emails same day. Will definitely take any class with her again.
+
+--- Rating #2 ---
+Class: EDUC322
+Date: 2026-02-13 16:42:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+I took EDUC 322 (Social lives of school children course), and she graded so fairly and gave such good feedback about important concepts. Also, the grade and feedback she gives is almost immediate and so you know what to expect and how to improve for the next assignment. That course was online but heavy. She is a professional in her job.
+
+--- Rating #3 ---
+Class: FALX99
+Date: 2026-02-13 00:23:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I honestly feel like I've learned a lot already. She explains everything clearly and breaks down the writing in a way that actually makes sense. She also uses technology in class, which makes things more interactive and fun, not just a regular lecture. The expectations are clear, the feedback is helpful. I can already see improvement in my writing.

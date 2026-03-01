@@ -1,0 +1,63 @@
+Professor: Jessica Stanley
+Professor Legacy ID: 1956072
+Professor ID: VGVhY2hlci0xOTU2MDcy
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 4.1
+Avg Difficulty: 2.8
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: PSYC241
+Date: 2015-05-12 00:59:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Attendance wasn't required, but lectures were not recorded, so if you like to re-listen to lectures, record it yourself
+
+--- Rating #2 ---
+Class: PSYC241
+Date: 2015-04-10 21:05:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great prof; fantastic lectures and a good sense of humor. She knows her content and always makes lectures interesting with examples. Her notes have most of the info you'll need and the textbook helps supplement them. Very clear voice and conveys material in an engaging way. Course is pretty content heavy, but very interesting and worth the effort.
+
+--- Rating #3 ---
+Class: 241
+Date: 2015-01-09 14:55:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Dr. Stanley is highly knowledgeable on the subject and it shows in her lectures. I appreciated her thorough discussion of the topics and using some very interesting examples to illustrate key concepts. She was extremely clear and very helpful. Overall a great instructor and I highly recommend her and this course.
+
+--- Rating #4 ---
+Class: 241
+Date: 2014-12-09 12:48:14 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+She's a pretty good prof., the tests are focused on her lecture notes. You only need the textbook to go into more detail about what is in the lectures.

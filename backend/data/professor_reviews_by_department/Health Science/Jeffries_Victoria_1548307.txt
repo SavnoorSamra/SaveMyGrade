@@ -1,0 +1,24 @@
+Professor: Victoria Jeffries
+Professor Legacy ID: 1548307
+Professor ID: VGVhY2hlci0xNTQ4MzA3
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 2
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: HSCI402
+Date: 2011-03-11 18:18:32 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very stand-offish to students, rolled her eyes at me when I tried to explain a point. Is not open to discussion at ALL despite saying she is. It is a very intimidating experience when you do try to talk to her outside of class. She wasn't clear about expectations and kept having to deal with the many questions as a result.

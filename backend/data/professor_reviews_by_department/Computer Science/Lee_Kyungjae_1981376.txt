@@ -1,0 +1,89 @@
+Professor: Kyungjae Lee
+Professor Legacy ID: 1981376
+Professor ID: VGVhY2hlci0xOTgxMzc2
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.2
+Avg Difficulty: 2.3
+Num Ratings: 6
+Would Take Again Percent: 100
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: CIS145
+Date: 2019-06-04 22:55:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+good to learn.
+
+--- Rating #2 ---
+Class: CMPT128
+Date: 2019-05-30 00:45:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+good
+
+--- Rating #3 ---
+Class: CMPT128
+Date: 2019-05-30 00:44:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+good profesor to take COMP 150
+
+--- Rating #4 ---
+Class: COMP150
+Date: 2017-01-11 00:30:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+KJ was a good prof. Expectations are pretty clear, and assignment proceedings are fairly straightforward. If you do the homework and some studying for the exams, you'll likely receive an A.
+
+--- Rating #5 ---
+Class: CMPT128
+Date: 2015-12-26 23:02:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Actually it was hard to understanding what he's saying during the class. Luckily,  the course material was not very hard for me. If you're new to programming, and if you are not used to listen English with accent, then You'd better not choose him. He's very helpful. (+ Textbook sucks, there's better books around, so other books can help)
+
+--- Rating #6 ---
+Class: CMPT128
+Date: 2015-01-28 01:40:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+A very good and nice prof. Need you think more on questions he tells you to do and practice more on coding. Can ask him a lot in office hour (but you must do on your own first then have a discussion with him is better).Must hand in homework before due time and keep quite on class. DO NOT miss the exams and they won't hard if working hard.I got A.

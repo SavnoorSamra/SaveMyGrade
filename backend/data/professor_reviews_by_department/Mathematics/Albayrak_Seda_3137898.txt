@@ -1,0 +1,63 @@
+Professor: Seda Albayrak
+Professor Legacy ID: 3137898
+Professor ID: VGVhY2hlci0zMTM3ODk4
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3
+Avg Difficulty: 3
+Num Ratings: 4
+Would Take Again Percent: 50
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: MATH232
+Date: 2026-02-04 08:08:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Only take any course with her if you're comfortable teaching yourself the material in it's entirety. Lectures were pointless, would say stay away completely if she ever starts using her own tests instead of department supplied ones.
+
+--- Rating #2 ---
+Class: MATH232
+Date: 2025-12-16 00:54:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Pretty solid prof, although during her course the quizzes were due 2 days before the homework for that section, so be prepared to study ahead if you're lazy like me. Midterms were crazy accessible for a 200 math class and as long as you read the instructions and do the practice you'll squeeze by no problem
+
+--- Rating #3 ---
+Class: MATH232
+Date: 2025-12-09 01:21:19 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lecture is interactive-ish. Her exams are always so specific, they cover multiple tiny section instead of whole largely covered and focused on units. Do not ever go based off the reviews she gives because the exams always have next to nothing she tells you to cover. For the final hope you know the random 5 of the 30 sections very well. Weekly quiz
+
+--- Rating #4 ---
+Class: MATH232
+Date: 2025-12-08 04:35:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Seda was a nice prof and her midterms were very fair. They were very similar to the reviews we would do in class. Her lectures are alright they did get a bit boring sometimes tho. overall W prof would take again.

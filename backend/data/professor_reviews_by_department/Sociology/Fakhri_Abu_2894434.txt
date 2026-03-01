@@ -1,0 +1,24 @@
+Professor: Abu Fakhri
+Professor Legacy ID: 2894434
+Professor ID: VGVhY2hlci0yODk0NDM0
+Department (CSV): Sociology
+Department (Fetched): Sociology
+Avg Rating: 5
+Avg Difficulty: 1
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: SA150
+Date: 2024-03-12 02:41:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is an amazing prof, his real-life examples help relate to the topics a lot. I would highly recommend

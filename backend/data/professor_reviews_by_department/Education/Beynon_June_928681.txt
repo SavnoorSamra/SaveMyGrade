@@ -1,0 +1,11 @@
+Professor: June Beynon
+Professor Legacy ID: 928681
+Professor ID: VGVhY2hlci05Mjg2ODE=
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

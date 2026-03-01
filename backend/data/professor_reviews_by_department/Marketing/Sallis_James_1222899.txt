@@ -1,0 +1,63 @@
+Professor: James Sallis
+Professor Legacy ID: 1222899
+Professor ID: VGVhY2hlci0xMjIyODk5
+Department (CSV): Marketing
+Department (Fetched): Marketing
+Avg Rating: 3.4
+Avg Difficulty: 2.3
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: BUS447
+Date: 2011-04-03 19:01:42 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+I don't think I learned much in this class, luckily I learned tons for the text book... since it's abotu $150, I better make the most use. But James is also very unorganized. He is nice and helpful to student, but lack professional preparation for this class.
+
+--- Rating #2 ---
+Class: BUS447
+Date: 2011-04-03 18:56:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+This is his first time teaching this class, but he was not even well prepared to teach us. I don't think I learned much in this class, luckily I learned tons for the text book... since it's abotu $150, I better make the most use. But James is also very unorganized. He is nice and helpful to student, but lack professional preparation for this class.
+
+--- Rating #3 ---
+Class: BUS447
+Date: 2011-03-31 16:52:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+need more organization.
+
+--- Rating #4 ---
+Class: BUS446
+Date: 2008-12-08 12:24:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+MarkStrat simulation is quite fun, but a bit shallow in terms of what you might be able to learn from using case studies. Overall very high level teaching. Quite clear in his lessons, but they seem to be a bit disjointed and not around a central topic at times (the nature of strategy&#63;). Wish that he was more organized.

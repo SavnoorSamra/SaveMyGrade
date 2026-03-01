@@ -1,0 +1,193 @@
+Professor: Sasha Colby
+Professor Legacy ID: 780111
+Professor ID: VGVhY2hlci03ODAxMTE=
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 4.7
+Avg Difficulty: 3
+Num Ratings: 14
+Would Take Again Percent: 100
+
+Ratings Count Returned: 14
+
+--- Rating #1 ---
+Class: LS800
+Date: 2016-08-02 19:03:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Sasha Colby is one of the best professors I have ever been with. Passionate, very knowledgeable, fair and a terrific facilitator. I've taken two classes with her and would take another given the chance.
+
+--- Rating #2 ---
+Class: LS800
+Date: 2016-07-16 02:14:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Sasha is one of the best professors I have had. A 10 out of 10 in all areas.  Warm, friendly, great presenter and excellent facilitator.
+
+--- Rating #3 ---
+Class: WL100
+Date: 2014-02-08 20:46:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Sasha is amazing. She is funny, approachable, respectful of everyone's opinions, and a fair marker, all around the ideal prof. The exams and assignments were very fair. She made WL a very enjoyable elective.
+
+--- Rating #4 ---
+Class: WL100
+Date: 2013-11-21 19:03:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Sasha is seriously amazing! She's friendly, kind, encouraging, and funny. She really listens to what everyone has to say, and doesn't discredit anyone. She's passionate about the subject, and very clear on assignment expectations. She's also a very fair marker! Love her.
+
+--- Rating #5 ---
+Class: EXPL120
+Date: 2010-03-24 04:31:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+SO incredibly helpful - and perfectly clear in her expectations, critiques, etc. I have never had a prof care so much about my personal improvement! I became a MUCH stronger writer because of Sasha Colby!!
+
+--- Rating #6 ---
+Class: EXPL120
+Date: 2010-01-10 21:45:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Super professor. So enthusiastic, so interesting, pretty funny too. She is my fav prof so far at SFU. She speaks very eloquently and this makes her very understandable because she is able to say precisely what students need to hear to understand material. She will teach you many very useful skills. I quickly signed up for another of her classes!
+
+--- Rating #7 ---
+Class: EXPL120
+Date: 2009-11-13 14:50:56 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+A bit of an airhead, but in a good way. Very artsy and creative, recognizes ingenuity in projects. A bit too politically vocal for an English prof (leftist of some sort) inserting her opinions on topical affairs into relation to  the course in a didactic manner.
+
+--- Rating #8 ---
+Class: ENG101
+Date: 2008-03-31 16:49:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+sasha's the best prof i've had. going into the class i really didn't like her sense of humour, but after getting together and asking her tons of ques one on one, she's extremely helpful and super nice! very easy course if you know what the prof and t.a are looking for in the essays. sooo easy to get good marks if you just read the books assigned!!
+
+--- Rating #9 ---
+Class: EXPL120
+Date: 2008-02-12 22:26:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Interesting and entertaining professor. One must keep up with the readings to fully appreciate the course. It is much like an english course, quite writing intensive, so beware! She seems to be genuinely interested in helping her students improve as writers. Approachable within tutorial and office hours. Overall, good professor for an okay course.
+
+--- Rating #10 ---
+Class: EXPL120
+Date: 2007-11-06 16:04:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Sasha is great, her feedback on your work is REALLY helpful and she genuinely cares about her students. Creative and fun, but heck, if lectures get a little long, you can always comment on her outfits ;)
+
+--- Rating #11 ---
+Class: EXPL120
+Date: 2007-04-04 20:18:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+The course is basically like an english course. marking is a little harsh. Gets annoying at times. the course content is somewhat interesting. i would she is very understanding.
+
+--- Rating #12 ---
+Class: ENG101
+Date: 2006-05-05 15:11:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Sasha is one of the best profs i've had in uni, serious! extremely friendly, very funny and fun to listen to. I'd recommend for you to talk to her, whether you're acing the course, or failing it, she'll definitely help you to improve. awesome teacher!
+
+--- Rating #13 ---
+Class: ENG101
+Date: 2006-02-13 17:50:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+whatever dude. good prof, good lectures. seems to have a thing a against slackers but cool with everyone else.
+
+--- Rating #14 ---
+Class: ENGL
+Date: 2006-01-04 16:50:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Great Sasha has come to SFU!  I took a class with her when she was teaching at Malaspina and she is awesome. Will definitely shake this place up.  Watch out for the wicked sense of humour (and oh, yeah, high expectations) ...

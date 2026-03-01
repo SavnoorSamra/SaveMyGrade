@@ -1,0 +1,63 @@
+Professor: Samantha Vries
+Professor Legacy ID: 3077849
+Professor ID: VGVhY2hlci0zMDc3ODQ5
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 2.3
+Avg Difficulty: 4.3
+Num Ratings: 4
+Would Take Again Percent: 25
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: 318
+Date: 2025-03-12 22:29:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This course contains a group project assignment (debate) and the grading for this group project was so bizarre. Do not take any courses with this professor if you do not want your GPA to suffer. Her criteria is not clear at all.
+
+--- Rating #2 ---
+Class: 318
+Date: 2025-03-09 00:41:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is blunt, rude, and nit picky. CRIM 318 (Wildlife Crime) should be considered a W course. This course is paper based so even if you know the material well, if you are not a good writer she will not be forgiving. The feedback is not helpful at all. The criteria is vague. She is extremely anal with referencing and word count. Awful experience.
+
+--- Rating #3 ---
+Class: 318
+Date: 2025-02-27 23:20:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She takes time to outline paper guidelines and expectations. She  marks the first paper gives helpful feedback. From there the TA marks the second and third paper, which is where people felt feedback was inconsistent (not her fault).She is chill and very accommodating to the stresses of being a student. 45% of grade is known 1/2 way through term
+
+--- Rating #4 ---
+Class: 318
+Date: 2025-02-27 02:18:49 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She grades super harsh and the feedback she provides is completely different every time. She won't give you a clear idea of what she wants and contradicts her guidelines.

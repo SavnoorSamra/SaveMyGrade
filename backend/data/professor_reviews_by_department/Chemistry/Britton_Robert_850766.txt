@@ -1,0 +1,271 @@
+Professor: Robert Britton
+Professor Legacy ID: 850766
+Professor ID: VGVhY2hlci04NTA3NjY=
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 4.1
+Avg Difficulty: 3.4
+Num Ratings: 136
+Would Take Again Percent: 77.4194
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CHEM281
+Date: 2023-05-03 22:09:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I can't say enough good things about Dr. Britton, he was clear in his explanations, always available outside class hours, and answered every question from the class during lectures. He provided the class with many practice midterms and finals which were very similar to our actual midterms and finals. He was also a nice guy in general, and funny
+
+--- Rating #2 ---
+Class: CHEM281
+Date: 2023-04-28 00:44:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Overrated prof, he's mid-prof at best (which I think is highly flattering to call him that)
+
+--- Rating #3 ---
+Class: CHEM281
+Date: 2023-01-13 06:21:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I truly despised the way he conducted his lectures as in did not post any notes. That was the most frustrating part and made my life way more difficult than needed. Otherwise yeah he is a mid prof. His exams aren't like that difficult he just puts ridiculous amount of questions and theres like no time to finish which was a pain
+
+--- Rating #4 ---
+Class: CHEM281
+Date: 2023-01-05 05:28:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+No offense but a very overrated prof
+
+--- Rating #5 ---
+Class: CHEM281
+Date: 2022-12-28 02:34:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Everything was just easy at first, and I even got close to 80% in the first midterm. But materials later got ridiculously hard and exams were extremely different to the practice midterms he gave, leaving merely a 50% average. Also he put MANY iclickers on the same few lectures which I COINCIDENTLY missed, directly took almost 4% of my final score.
+
+--- Rating #6 ---
+Class: CHEM281
+Date: 2022-12-27 09:07:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His classes okay and he is a chill prof. Exams are hard but he gives a lot of practice questions and the actual exams are a lot similar which makes it easier to study.
+
+--- Rating #7 ---
+Class: CHEM281
+Date: 2022-12-27 03:59:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Britton is a very nice professor to have if you already understand the course materials and are only seeking for chill lectures. Otherwise, he is not recommended.
+
+--- Rating #8 ---
+Class: CHEM281
+Date: 2022-12-25 03:01:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the nicest professor but also the worst at teaching
+
+--- Rating #9 ---
+Class: CHEM281
+Date: 2022-12-24 06:21:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Britton is a great professor. He doesn't have any lecture slides and writes all his notes in class so attending lectures is definitely encouraged. The material itself is difficult but Dr. Britton is extremely helpful when you go to him for help during his office hours.
+
+--- Rating #10 ---
+Class: CHEM281
+Date: 2022-12-24 04:58:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Britton is amazing. Organic chem is pretty challenging but he makes it very manageable. He is pleasant, knowledgeable, and well respected and he goes to lengths to ensure that his students are cared for. His practice exams are very helpful for exam prep. All his work is greatly appreciated.
+
+--- Rating #11 ---
+Class: CHEM281
+Date: 2022-12-24 04:33:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the best professors I've ever had. The topics covered were interesting (though may appear challenging at first). He is excellent at explaining principles and building an intuitive understanding of key concepts. Midterms and the final were fair and can be prepared for effectively. He was inspiring and helped me grow fond of Organic Chemistry
+
+--- Rating #12 ---
+Class: CHEM281
+Date: 2022-12-24 00:34:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Rob is a very approachable prof who has very clear and straightforward lectures. If you put the effort in the lectures and tutorials you won't have any problem passing ochem.
+
+--- Rating #13 ---
+Class: CHEM281
+Date: 2022-12-23 22:14:26 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The prof made the exam way harder than expected.
+
+--- Rating #14 ---
+Class: CHEM281
+Date: 2022-12-23 21:27:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Britton is an absolute legend. He is extremely caring, charismatic and fun professor. Chem281 is very tough course but he made it so fun and engaging that I would definitely take another course with him. I know you gonna see this Dr. Britton. THANK YOU!
+
+--- Rating #15 ---
+Class: CHEM281
+Date: 2022-12-12 05:13:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+good prof
+
+--- Rating #16 ---
+Class: CHEM281
+Date: 2022-12-09 21:52:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Rob makes lectures very interesting and makes complicated topics easy to understand. The exams are tough, but he gives practice exams which are similar in structure to the actual exams and were useful. This is a tough class, but Rob makes it bearable.
+
+--- Rating #17 ---
+Class: CHEM281
+Date: 2022-12-08 21:04:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+MADE MY LIFE 100X EASIER. ochem is a breeze with him just put in a bit of effort and watch that gpa flourish. still waiting for the final but the 2 midterms were easy peasy with senor roberto. No homework, just tutorials,iclicker, 2 midterms, and a final. No notes are provided so he writes while he talks which is the only thing that sucks.
+
+--- Rating #18 ---
+Class: CHEM281
+Date: 2022-12-08 20:56:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Robert makes an incredibly hard course manageable. Exams are challenging but the layout is identical to the practice exams.
+
+--- Rating #19 ---
+Class: CHEM281
+Date: 2022-12-08 20:49:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I see he's gotten a lot of 5's for difficulty but its an ochem course so thats expected. I was really scared coming into this class, but Robert makes ochem not so scary. He's an amazing prof and have amazing lectures. If you want to actually understand ochem, he's the prof for you!
+
+--- Rating #20 ---
+Class: CHEM281
+Date: 2022-12-08 20:46:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+One of the best professors I've had so far! Robert is a great professor and really helps you understand ochem. His lectures and examples are clear and he encourages questions for clarification throughout the lectures. Do the practice midterms and you're set for the exams. Highly highly recommend!!

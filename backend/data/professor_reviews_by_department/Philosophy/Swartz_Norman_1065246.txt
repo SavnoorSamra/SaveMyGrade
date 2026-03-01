@@ -1,0 +1,11 @@
+Professor: Norman Swartz
+Professor Legacy ID: 1065246
+Professor ID: VGVhY2hlci0xMDY1MjQ2
+Department (CSV): Philosophy
+Department (Fetched): Philosophy
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

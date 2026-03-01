@@ -1,0 +1,141 @@
+Professor: Anthony "Tony" Leyland
+Professor Legacy ID: 1302104
+Professor ID: VGVhY2hlci0xMzAyMTA0
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 3.7
+Avg Difficulty: 3.1
+Num Ratings: 10
+Would Take Again Percent: 75
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: BPK201
+Date: 2020-05-23 10:55:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Tony is able to deliver contents very concisely, even though every topic seems daunting at first. His exams are very fair, and he also has a ton of practice questions and problem sets which can ensure your success. His lectures are hilarious and he also gives out what is going to be on the midterms which is very helpful.
+
+--- Rating #2 ---
+Class: BPK201
+Date: 2020-03-28 01:05:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Tony's lectures seemed really easy but his exams were brutal. His explanations and demonstrations did not make sense. The first few weeks of lecture were very slow-paced but after the first midterm, he rushed through every topic. DO NOT TAKE HIS CLASS.
+
+--- Rating #3 ---
+Class: BPK201
+Date: 2019-12-11 06:32:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Tony is incredibly knowledgable about biomechanics. His course is organized and fair. Some topics can be hard and not as Intuitive but he provides every resource possible. He's caring and you can tell the material is part of his daily life, examples and explanations come to him naturally and lectures are super smooth. I enjoyed this course a lot!
+
+--- Rating #4 ---
+Class: BPK143
+Date: 2016-12-08 16:43:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Tony was an amazing prof and was very caring. He engaged all his students and kept everyone happy.
+
+--- Rating #5 ---
+Class: BPK142
+Date: 2016-04-15 01:02:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+I'm a BPK major and I absolutely loved this course.  His lectures were engaging and I learned so much from him!  For a level-100 science course,  the course load was light and the exams were fairly easy as long as you study a decent amount. However, if you are not a science major student, you may find this course slightly difficult.
+
+--- Rating #6 ---
+Class: KIN143
+Date: 2014-12-05 13:58:15 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Tony is probably one of the most enthusiastic profs I've had so far. Gives  lots of examples and goes all out on explanations. Also makes fair exams, does not live up to the easy A reputation this course has. However getting an A is totally doable.
+
+--- Rating #7 ---
+Class: KIN143
+Date: 2012-06-26 13:55:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Tony was very interested in the material. He loved his field of study and was very friendly and approachable. Great prof over all.
+
+--- Rating #8 ---
+Class: KIN201
+Date: 2012-01-26 00:09:16 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+He's not clear and not a very good teacher but he gives you very hard exam :( nothing to say ...
+
+--- Rating #9 ---
+Class: KIN143
+Date: 2010-09-22 17:20:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I took this class online so I did not have much contact with the prof himself. His exams are easier than you would expect after going through the course material. The self-test/study questions for each chapter are really helpful. Some of his exam questions are straight from there. Lots of memorizing.
+
+--- Rating #10 ---
+Class: KIN143
+Date: 2009-11-01 20:26:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+No Comments

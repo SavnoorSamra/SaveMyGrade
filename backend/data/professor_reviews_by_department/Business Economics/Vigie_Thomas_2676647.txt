@@ -1,0 +1,128 @@
+Professor: Thomas Vigie
+Professor Legacy ID: 2676647
+Professor ID: VGVhY2hlci0yNjc2NjQ3
+Department (CSV): Business Economics
+Department (Fetched): Business Economics
+Avg Rating: 4.8
+Avg Difficulty: 3.2
+Num Ratings: 9
+Would Take Again Percent: 100
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: ECON220W
+Date: 2023-05-04 01:44:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Thomas is a great professor. His way of teaching is quite unique and effective. It's clear that he truly enjoys his job and wants his students to succeed. He makes all the complex concepts relatively easier. Whatever I learned from his lectures, I know I'd never forget. This professor is a gem. :)
+
+--- Rating #2 ---
+Class: ECON483
+Date: 2022-11-07 02:24:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+A really nice instructor.
+
+--- Rating #3 ---
+Class: ECON302
+Date: 2022-08-24 17:46:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Thomas is really good at explaining difficult concepts. This course is really tough, so naturally he gets some pushback about tough exams. However, if you show up to lectures and pay attention you will be ok. Pay attention when he covers extra problems - they will definitely come up later. Definitely the GOAT for economics profs at SFU.
+
+--- Rating #4 ---
+Class: ECON220W
+Date: 2022-08-01 21:18:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Thomas was friendly and approachable. He values a hard-working student. The lectures were amazing and he provided a lot of examples to support economic concepts. Constantly looked for feedback from students regarding his lecture quality. Exams were reasonable as he included the chapter materials in lecture slides and tutorials.
+
+--- Rating #5 ---
+Class: ECON302
+Date: 2022-01-07 06:12:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Amazing is all I can say. This prof TRULY cares and responds to your questions very quickly! Honestly was way more accessible than his TA's.
+
+--- Rating #6 ---
+Class: ECON302
+Date: 2021-08-25 19:07:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I have never met someone more worthy of tenure and a 10 figure salary! He is the best econ prof I have had. A god among mortals. A certain demographic struggled with using English at an English-speaking university, but you should be fine if you didn't use a cheating company to pass TOEFL.
+
+--- Rating #7 ---
+Class: ECON302
+Date: 2021-03-28 06:42:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Absolute amazing professor that will answer your questions instantly! He truly cares for his students and I really loved taking his class. As long as you watch the lectures, attend tutorial and do practice problems you will be fine!
+
+--- Rating #8 ---
+Class: ECON220W
+Date: 2021-03-15 23:07:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Although he is a new professor, this does not affect his teaching attitude in the slightest. Give students good feedback and discuss interesting things with students after class.
+
+--- Rating #9 ---
+Class: ECON302
+Date: 2021-03-15 23:05:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Take him and he'll carry you

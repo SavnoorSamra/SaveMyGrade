@@ -1,0 +1,89 @@
+Professor: Elizabeth MacDonald
+Professor Legacy ID: 1048497
+Professor ID: VGVhY2hlci0xMDQ4NDk3
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 2.6
+Avg Difficulty: 3.7
+Num Ratings: 6
+Would Take Again Percent: 0
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: BUS251
+Date: 2019-06-05 21:08:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Attends every lecture and relies on youtube videos to understand the material. Funny how 5 minutes videos explain so much better than her 2 hour lecture.
+
+--- Rating #2 ---
+Class: BUS251
+Date: 2014-10-02 00:08:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Very self-directed teaching method. Lectures will cover a topic like an income statement, tutorials will review textbook questions regarding income statements, but when it comes down to creating and putting appropriate information into an income statement, you must learn that yourself through the textbook. Previous ACCBUS experience  is recomended
+
+--- Rating #3 ---
+Class: BUS251
+Date: 2012-11-22 19:57:32 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+her name is actually Anne MacDonald and she is highly recommended for 251.
+
+--- Rating #4 ---
+Class: CMNS100
+Date: 2011-05-27 19:37:27 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+very good.
+
+--- Rating #5 ---
+Class: BUS251
+Date: 2010-04-01 14:25:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+gpa killer
+
+--- Rating #6 ---
+Class: BUS251
+Date: 2007-11-07 23:05:09 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+not bad

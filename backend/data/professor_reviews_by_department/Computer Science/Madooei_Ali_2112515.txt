@@ -1,0 +1,37 @@
+Professor: Ali Madooei
+Professor Legacy ID: 2112515
+Professor ID: VGVhY2hlci0yMTEyNTE1
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: CMPT102
+Date: 2016-12-23 15:36:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This was my first cmpt class and I was terrified. Madooei teaches topics really well and as long as you pay attention to class you wont have many problems with the assignments. If you understand the assignments  the midterm and final should be no problem. Overall hes a great prof and always wants to help you.
+
+--- Rating #2 ---
+Class: CMPT126
+Date: 2016-03-22 13:30:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ali is an amazing lecturer and shows great respect for his students (he even brought cookies for us). He will definitely push you. In one semester, you can go from being a total C++ beginner to a master. However, the pace is definitely reasonable. Ali is very helpful and is always available at his office hours if you have any extra questions.

@@ -1,0 +1,271 @@
+Professor: Owen Ward
+Professor Legacy ID: 2991505
+Professor ID: VGVhY2hlci0yOTkxNTA1
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 3.8
+Avg Difficulty: 3.3
+Num Ratings: 21
+Would Take Again Percent: 71.4286
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: STAT260
+Date: 2026-01-10 19:26:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The course is well structured and literally has practice questions and solutions for every quiz and assignment and practice exam. Practice exams prepare you well for the actual exam. Honestly a great professor!
+
+--- Rating #2 ---
+Class: STAT452
+Date: 2025-12-19 02:59:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Owen's one of the best professor in the stats department. I have taken Stat240 and Stat260 with him as well as this course. His explanations are very clear and the slides are pretty good. The exams are very fair and you can do well if you prep enough. I don't understand what people are complaining about, it's not even math heavy per se.
+
+--- Rating #3 ---
+Class: STAT452
+Date: 2025-12-15 19:54:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Owen's lecture slides were very text-heavy, which made it difficult at times to stay engaged during class. However, his exams were extremely fair, and the homework assignments were enjoyable and well-designed. Owen himself was very accessible, approachable, and understanding, which made a big difference overall.
+
+--- Rating #4 ---
+Class: STAT452
+Date: 2025-12-15 05:32:17 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I see Team Owen coming here, so had to explain the point: The final was pretty decent, didn't expect that from him, but I still don't understand what he taught in the lectures, like they were him reading his notes, that is all. I had to study myself but the sample final definitely helped, but would not recommend him, if you want a good experience.
+
+--- Rating #5 ---
+Class: STAT452
+Date: 2025-12-13 21:43:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Course content is fine, he tests more on the theoretical concepts of ML model during exams. Very picky grading on the homework (each worth 3%). The cheat sheet layout for the final he gave was absolutely useless (4-6 keywords per concept). His lectures are pretty straight forward though.
+
+--- Rating #6 ---
+Class: STAT452
+Date: 2025-12-11 05:17:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took two courses with Owen and he's a great prof. The midterm and final were very similar to the practice and mainly focused on big-picture concepts. He had lots of office hours and they were very helpful. It's a 4th year stat course. It's going to be tough. Just study the material and understand the main ideas. You'll be fine.
+
+--- Rating #7 ---
+Class: STAT452
+Date: 2025-12-11 01:21:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Saw some reviews & felt compelled to write one myself. I've taken 2 STAT courses with him in the past (240&260) because he explains things very well. If there's a query, he'll take time during the class & breaks to clear up what you don't understand WITHOUT COMPLAINTS. Quite rare in the dept. Just goes to show how much he cares about one's success.
+
+--- Rating #8 ---
+Class: STAT452
+Date: 2025-12-10 17:51:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Saw him target people on the exam!!!
+
+--- Rating #9 ---
+Class: STAT452
+Date: 2025-12-10 05:36:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Bad professor. His cheatsheet was literally a page and that's it, and that too was split into boxes which you couldnt write a lot in because he said "4-6 keywords only". weird prof, weird grading, unfair assignments too, so much work for 3% of the grade
+
+--- Rating #10 ---
+Class: STAT452
+Date: 2025-12-10 03:37:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Owen makes the exams even harder. His exams are purely theoretical and which I'm not even going to use in such depth in an actual workplace. Should focus more on coding so students can learn what's actually important. The worst part is he wants you to remember each line of 20 chapters without a proper cheat sheet. Sucks DONT CONSIDER DOING WITH HIM
+
+--- Rating #11 ---
+Class: STAT452
+Date: 2025-12-05 01:23:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He should be teaching STAT 100 with how he teaches. Definitely not seeing him again. There are goated people in stat department, dont know why he's teaching the course when i took it??
+
+--- Rating #12 ---
+Class: STAT452
+Date: 2025-12-03 20:22:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+AVOID. HE DOES NOT KNOW HOW TO TEACH
+
+--- Rating #13 ---
+Class: STAT240
+Date: 2025-04-21 04:19:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is a very good lecturer and gives plenty of time for questions during lectures. Also very approachable and fast at responding to discussions on canvas. Exams were extremely fair.
+
+--- Rating #14 ---
+Class: STAT240
+Date: 2025-04-09 21:59:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The labs are really hard and time-consuming. Midterms and finals are in the lab, and it's very stressful.
+
+--- Rating #15 ---
+Class: STAT240
+Date: 2025-04-02 22:45:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This is my second time taking a course with Owen, and he's absolutely fantastic. His lectures are clear and easy to follow, and he's incredibly approachable during office hours. While the labs can be on the slightly tougher side, they really help you succeed on the exam if you put in the work. Just ask him during office hours, and you will be ok.
+
+--- Rating #16 ---
+Class: STAT240
+Date: 2025-03-26 23:43:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His coded quizzes are too difficult for this class. He packs a lot of topics in and covers all pretty rushed for how in depth each topic is. This also might be a flaw in the STAT240 class as the curriculum is sort of predetermined.
+
+--- Rating #17 ---
+Class: STAT260
+Date: 2025-03-05 21:58:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Attendance is mandatory for tutorials to do quizzes & problem sets. Lecture attendance is necessary since quiz questions come from the lecture exercises omitted from posted slides. Exams were super fair and reflected the lectures and problem sets. Cheat sheets are provided for the midterm and the final. He's an awesome guy and encourages questions.
+
+--- Rating #18 ---
+Class: STAT260
+Date: 2025-01-08 18:19:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Owen's class was the best coding class I have taken. The weekly quizzes are just the examples done in class so if you go to class, take notes on the examples you will be fine. Midterm was a breeze because he gave a practice package that was almost identical but final was a bit tricky. Just do the lab work and you'll be fine.
+
+--- Rating #19 ---
+Class: STAT452
+Date: 2024-12-23 03:22:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I learned so much about data modelling and machine learning as well as the general goal of predicting with data and understanding error. Owen did an amazing job at helping the class understand these very difficult concepts. With that said, be prepared to study hard at times. Some concepts are not intuitive to learn.
+
+--- Rating #20 ---
+Class: STAT260
+Date: 2024-10-30 08:09:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Solid lecturer, answers any and every question students may have. Although attendance is not mandatory, I recommend heavily you attend lectures. Overall, Owen Ward is solid professor for stats260. Good lectures, lectures are based on the book, and exams should not have any surprises if you did all the assigned practice questions.

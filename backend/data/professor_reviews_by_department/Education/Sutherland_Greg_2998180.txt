@@ -1,0 +1,76 @@
+Professor: Greg Sutherland
+Professor Legacy ID: 2998180
+Professor ID: VGVhY2hlci0yOTk4MTgw
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 5
+Avg Difficulty: 2.6
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: EDUC400
+Date: 2025-08-23 17:48:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Greg is truly one of the best there is. Makes every class interesting and gives VERY detailed feedback so you know exactly where and how to improve. Highly highly recommend!
+
+--- Rating #2 ---
+Class: EDUC400
+Date: 2025-03-05 10:06:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Greg is an amazing prof. He is organized, communicates effectively, and offers great lectures with many opportunities for community building within the classroom, and accessible entry points to connect to each lesson. He also offers so many useful resources with his students! I'm really grateful I took his class.
+
+--- Rating #3 ---
+Class: EDUC400
+Date: 2025-03-04 01:06:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Greg has been one of my absolute favourite professor's at SFU. He's very caring, kind, and understanding. If you get the chance to take a course with him I would 100% suggest it!
+
+--- Rating #4 ---
+Class: EDUC400
+Date: 2024-12-08 07:19:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+It's a pass/fail course so it's pretty easy by nature, but even by those standards Greg made it so easy, and I was never stressed thanks to his relaxing and laid-back attitude. He is very caring and approachable, definitely hope to take him again in the future.
+
+--- Rating #5 ---
+Class: EDUC-311
+Date: 2024-08-10 21:27:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Greg is the best! I have taken many classes with him at SFU and wouldn't hesitate to take another class of his. Highly recommend!

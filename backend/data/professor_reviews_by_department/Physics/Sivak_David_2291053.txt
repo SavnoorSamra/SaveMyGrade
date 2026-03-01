@@ -1,0 +1,115 @@
+Professor: David Sivak
+Professor Legacy ID: 2291053
+Professor ID: VGVhY2hlci0yMjkxMDUz
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 3.5
+Avg Difficulty: 3.1
+Num Ratings: 8
+Would Take Again Percent: 75
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: PHYS101
+Date: 2024-01-23 16:27:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Somehow, he has a disrespectful manner in the discussions.
+
+--- Rating #2 ---
+Class: PHYS101
+Date: 2018-07-25 19:34:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Explains material very clearly and is willing to help and answer questions in class. There is a lot of homework, but it helps you out in the long run. Midterms and finals were fair and are based off of homework. In lecture he sometimes ask for a volunteer in the audience to help perform some demonstrations which are very engaging. Awesome prof.
+
+--- Rating #3 ---
+Class: PHYS101
+Date: 2018-02-16 00:55:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He posts his notes online and gives a list of textbook problems that are relevant to the course (which I'd suggest doing because very similar questions showed up on the exams). Clear lecturer, went over lots of problem solving strategies in lecture which was awesome. Tons of online homework but it honestly helps to keep on top for the midterms
+
+--- Rating #4 ---
+Class: PHYS101
+Date: 2018-01-03 11:43:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Sivak was an awesome, funny prof and was super caring. He did tons of examples in class, which were similar to exam material and tried his best to make the material interesting. 10/10 best physics prof!
+
+--- Rating #5 ---
+Class: PHYS101
+Date: 2017-12-11 12:42:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very bad notes, studying for an exam and reading them again they make no sense AT ALL. There is way too much homework, almost everyday of the week!!! Seems like a chill guy overall but i do not recommend him as a prof.
+
+--- Rating #6 ---
+Class: PHYS101
+Date: 2017-12-08 16:33:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Sivak is a really chill guy. He explains lectures very well, and gets straight to the point. Encourages a lot of questions, and if most people don't get a concept, he'll go over it again during the next lecture. If you attend lecture and do the homework, you're golden. Not very heavy. The tests were very fair and based off the practice problems.
+
+--- Rating #7 ---
+Class: PHYS101
+Date: 2017-12-08 16:32:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Respected, chill, fresh, cool looking prof. Good lecture notes which are posted online so attendance isn't mandatory, but its recommended. Exams are fair, not too difficult or too easy. Not the best at answering questions, but a great lecturer and great at explaining concepts in class.
+
+--- Rating #8 ---
+Class: PHYS101
+Date: 2017-11-07 14:08:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lots of clicker questions. Interesting lectures and he teaches well.

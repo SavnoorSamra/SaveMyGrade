@@ -1,0 +1,271 @@
+Professor: William Small
+Professor Legacy ID: 2038399
+Professor ID: VGVhY2hlci0yMDM4Mzk5
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 4.8
+Avg Difficulty: 2.9
+Num Ratings: 27
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: HSCI402
+Date: 2025-12-27 08:25:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor and TA were very nice and I learned alot in this class. Course content was interesting and classes were fun, tests are very lecture heavy so be ready. Overall, I would take this prof again as he showed alot of dedication and care for the class. There is textbook but I didnt read it at all
+
+--- Rating #2 ---
+Class: HSCI402
+Date: 2025-12-15 21:40:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Easily one of the best professors I've had. He's extremely nice & cares so much about his students. He remembers each of our names in a class with so many students. He has a very positive energy and all his assignments and exams are super fair. Jeanine is also a great TA and her + Will work super great together. The class was interesting and fun
+
+--- Rating #3 ---
+Class: HSCI214
+Date: 2025-10-31 02:09:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very dense course and lectures were quite long and dry, but tutorials were fun and Dr. Small truly does care about your success! 2 Exams that were very fair as long as you attend lectures and completed readings, though there are a lot of slides and readings to do. Final paper was graded very leniently.
+
+--- Rating #4 ---
+Class: HSCI214
+Date: 2025-09-11 08:58:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing Professor. Loves to answer questions and support your learning. Makes 100% fair tests. Actually cares about his students learning. Nice guy.
+
+--- Rating #5 ---
+Class: HSCI214
+Date: 2025-02-12 03:50:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great Professor! He had very clear lectures, good notes and the exams didn't have any surprises. He was caring and super easy to get ahold of. He seemed very passionate about mental health and addiction which added to the course. You don't need to buy the textbook. For exams there is a lot of memorization required but nothing too difficult.
+
+--- Rating #6 ---
+Class: HSCI214
+Date: 2025-01-23 05:22:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Had Will for Health Science 214 and he was AWESOME. The course itself was interesting and his attitude and just his fun lecturing demeanour was out of this world. If I could take another course with him, I for sure would. He is also very accessible outside of class and replies fast to emails. Genuinely a caring prof.
+
+--- Rating #7 ---
+Class: HSCI214
+Date: 2025-01-11 11:54:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+cant count how many times i fell asleep but i still loved the lectures and him as a prof. he is very interested in the topic of the lectures. saving you $80, dont buy the textbook. his notes are long but i enjoyed reading them. really nice guy. 10/10! will take your upper division class! see you there!
+
+--- Rating #8 ---
+Class: HSCI214
+Date: 2025-01-08 03:59:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+he actually cares about the students and tries to help them succeed in the course. content was interesting and tutorial was actually very useful (shoutout jeanine). everything was easy until the final exam which tanked my grade. definitely recommend this course
+
+--- Rating #9 ---
+Class: HSCI214
+Date: 2025-01-03 03:10:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Extremely lecture heavy course, if you want to get an A you have to study weeks prior to the midterm/final. Lectures are extremely info dense and are mostly just words on a white background making it hard to follow. I will say professor Small was easily accessible outside of class times and was incredibly helpful before exams, always responsive.
+
+--- Rating #10 ---
+Class: HSCI214
+Date: 2024-12-16 07:00:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Solid professor, extremely nice person. class is content heavy though
+
+--- Rating #11 ---
+Class: HSCI431
+Date: 2024-04-26 02:30:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+It was my first time taking a course with Dr. Small and I can see why others have taken multiple courses with him. His lectures were interesting, relevant, and enjoyable as he was genuinely passionate about the content and incorporated interesting in-class activities to complement the learning materials. I learned so much from this class!
+
+--- Rating #12 ---
+Class: HSCI803
+Date: 2024-02-07 17:23:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Best prof I've ever had. Incredibly kind, caring, and approachable. I learned so much from this course and would 100% take a course with him again!
+
+--- Rating #13 ---
+Class: HSCI402
+Date: 2023-12-22 05:20:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is one of the best professors you can ask for. He cares about his students and is willing to make adjustments to help students be successful in his course. The lecture is quite dry, but all the information on the slides is the exam content. Clearly explained everything before moving onto the next topic. Highly recommend his class10000%
+
+--- Rating #14 ---
+Class: HSCI402
+Date: 2023-12-16 04:59:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Small is probably one of the best profs in the department. Super nice and approachable. Lecture heavy but very easy to understand. He values students time and is honestly the most caring prof ever. Goes above and beyond to make sure that everything is clear and comfortable for students.
+
+--- Rating #15 ---
+Class: HSCI402
+Date: 2023-12-04 03:23:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Will is the best, I would take every course with him if I could. He is so caring towards students and always happy to accommodate any needs if you ask. Lectures are all based off the readings, midterm and quizzes are easy to do good on if you review the lectures. Always nice to take a course with a prof who is passionate about the topic!
+
+--- Rating #16 ---
+Class: HSCI402
+Date: 2023-11-22 02:00:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+William is the best, please take a class with him and enjoy learning about a topic that is actually interesting and relevant to public health. He cares a lot for his students and is always trying to communicate with them. I have never had a prof who actually listens to students concerns and wants to make thing easy for them. He is truly a gem.
+
+--- Rating #17 ---
+Class: HSCI803
+Date: 2022-04-28 00:05:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+A great prof, through and through. Dr. Small made it his goal to be kind and create a welcoming environment in his classes. He tends to fall a bit behind in his lectures but it is so obvious he loves teaching and wants students to succeed. Super accessible after class and by email and makes sure you feel respected and heard!
+
+--- Rating #18 ---
+Class: HSCI803
+Date: 2022-04-06 22:01:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Will is awesome! I thoroughly enjoyed his class, thought the material was comprehensive & interesting, assignments were relevant to our future practice & fairly graded, and lectures were engaging. 10/10, would take a class with him any time.
+
+--- Rating #19 ---
+Class: HSCI214
+Date: 2022-03-26 20:58:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He cares a lot about his student and he tries to create a very respectful learning environment for his student. His lecture is fun and I really love his way of presenting the materials in class. All the content are basically on the lecture slides. One of the best professor I have ever had, highly recommended every class with him!!!
+
+--- Rating #20 ---
+Class: HSCI214
+Date: 2022-01-17 20:50:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Favourite prof at SFU so far. Truly caring and accommodating, speaks very respectfully and encourages ALL questions and comments. You can tell he is very passionate at what he does. Lectures are info dense and you could get a decent grade with only the slides, A- and above will require textbook readings

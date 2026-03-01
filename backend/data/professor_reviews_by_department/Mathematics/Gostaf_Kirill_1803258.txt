@@ -1,0 +1,271 @@
+Professor: Kirill Gostaf
+Professor Legacy ID: 1803258
+Professor ID: VGVhY2hlci0xODAzMjU4
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4.5
+Avg Difficulty: 3
+Num Ratings: 23
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MACM316
+Date: 2017-05-03 03:57:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Recommend
+
+--- Rating #2 ---
+Class: MATH232
+Date: 2014-12-07 16:58:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His lectures might be boring to some of the students. Because his voice is not high nor enthusiasm. But he will write his notes while he is speaking. And that is the most important key point for this corse!!!! It helps you know what is the steps when he solving the problems, what is he talking and how is he thinking, and how you should learn MATH.
+
+--- Rating #3 ---
+Class: MATH232
+Date: 2014-11-27 06:37:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+He is an excellent teacher: clear, organized, informative. And there is something charming in his attitude: he is not really snob, but he knows to keep a distance - he is hot and cold at the same time. He makes me feel like it was in my childhood, when I tried to be a good boy. I know that other students feel similar. Nice experience.
+
+--- Rating #4 ---
+Class: MATH232
+Date: 2014-11-15 17:07:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Very nice prof. Definitely he loves teaching. Classes are not tedious. In fact, I spend quite lot of time on assignments. Fair marking. Midterms are passable.
+
+--- Rating #5 ---
+Class: MATH232
+Date: 2014-11-11 19:43:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Likerecommend this prof. midterms follow both assignment questions and class notes. marking is very fair. classes are well structured. he gives clear examples to the course is not stuffy.
+
+--- Rating #6 ---
+Class: MACM316
+Date: 2014-09-09 19:58:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Literally, one of the best professors at SFU. Very clear on what he talks about, well organized notes. I agree with prev. posts, he seems to love lecturing. Straightforward exams, fair marking.
+
+--- Rating #7 ---
+Class: MACM316
+Date: 2014-09-02 01:37:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Overall, he is a good prof. He is maybe not talented in teaching but really passionate and makes lots of effort into the course for students. Lectures are more theoretical, while tutorials are for problem solving. Assignments are very time consuming and expect you to use a Math software like Maple. Exams are fair where the class avg is about 65%.
+
+--- Rating #8 ---
+Class: MATH310
+Date: 2014-04-12 22:19:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Highly recommend. He knows how to teach and he makes it interesting. Be careful, he asks quit lot of 'must understand' questions, definitions, theorems, etc...
+
+--- Rating #9 ---
+Class: MATH130
+Date: 2014-04-08 01:27:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+really nice man. He is not the kind of skilled math teacher, but he will answer you question in patience. make few mistake in class but not a big deal, very clear class note, and very nice on your mark. Most importantly, very easy exam, almost everything you have done from notes and assignment.
+
+--- Rating #10 ---
+Class: MATH310
+Date: 2014-04-07 22:42:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+This guy is awesome
+
+--- Rating #11 ---
+Class: MACM316
+Date: 2014-03-14 14:40:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: N
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Best professor ever. Learned more in this course than I learned in my whole life prior and since.
+
+--- Rating #12 ---
+Class: MATH232
+Date: 2014-02-21 20:43:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Love this prof. He is so gentle, so courteous. He knows exactly what to teach, when and how: no panic, no rash. Though, notes are not trivial, quit lot of theory. Room 108 seats, enrollment 103. Only few free seats each time. So, take your own conclusions. The first midterm was quite successful; still have the second one and the final to reap.
+
+--- Rating #13 ---
+Class: MATH310
+Date: 2013-12-13 16:29:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+His test were very well written. Good evaluations. He appears to love being a prof, there is euphoria behind his eyes when he goes up to teach. It's kinda great. He can be unclear if you zone out for a bit, then come back to it (lullaby voice). I found him to be my best professor of the semester (not a great selection though).
+
+--- Rating #14 ---
+Class: MATH310
+Date: 2013-11-19 03:00:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+like this prof
+
+--- Rating #15 ---
+Class: MACM316
+Date: 2013-11-15 22:21:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Course is not easy. This prof does well his job. Do not miss his classes, the midterms/exam are strongly related.
+
+--- Rating #16 ---
+Class: MACM316
+Date: 2013-09-25 21:17:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+good prof
+
+--- Rating #17 ---
+Class: MACM316
+Date: 2013-09-05 18:31:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He is very unorganized. Always cannot finish the material before the test and assignment, so no time to review the staff. The course is very boring. The test is not reasonable and shouldn't be tested on paper since we learned to calculate the huge number by computer for a whole term.
+
+--- Rating #18 ---
+Class: MACM316
+Date: 2013-08-27 17:44:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Perfectly organized (but) challenging course. Interesting.
+
+--- Rating #19 ---
+Class: MACM316
+Date: 2013-08-03 18:32:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very understanding professor. Genuinely wants his students to pass. Exams are pretty straightforward. MUST ATTEND THE TUTORIAL. Lectures are pure theory can can get quite boring. Tutorials are set up to help the HW assignments. Overall a great professor.
+
+--- Rating #20 ---
+Class: MACM316
+Date: 2013-08-02 16:09:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+a very nice prof, dedicated and tries hard to explain. midterms / exams are not so easy, take care. I got my A-, but it wasn't simple....

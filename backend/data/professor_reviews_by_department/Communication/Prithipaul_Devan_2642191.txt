@@ -1,0 +1,50 @@
+Professor: Devan Prithipaul
+Professor Legacy ID: 2642191
+Professor ID: VGVhY2hlci0yNjQyMTkx
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 5
+Avg Difficulty: 3.7
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: CMNS331
+Date: 2023-09-11 17:23:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Devan is at the U of A now in the political science department but I can hands down say he is the best TA I have ever had. He has clear expectations for us and comes up with fun ways of engaging with the readings.
+
+--- Rating #2 ---
+Class: CMNS331
+Date: 2022-08-10 04:38:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Amazing TA who goes above and beyond for every student. For the final exam he had drop-in office hours for over 5 hours! Really respect him and hope to have him as a TA in the future.
+
+--- Rating #3 ---
+Class: CMNS253
+Date: 2020-11-23 00:22:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Class with Devan feels more like a fashion show than actual class, but he really cares about students and it's easy to make office hours with him and figure out what to do.

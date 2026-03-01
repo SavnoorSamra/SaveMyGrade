@@ -1,0 +1,275 @@
+Professor: Xiaoqiong HU
+Professor Legacy ID: 1551201
+Professor ID: VGVhY2hlci0xNTUxMjAx
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 2.4
+Avg Difficulty: 4.1
+Num Ratings: 36
+Would Take Again Percent: 35
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: STAT203
+Date: 2025-06-18 02:44:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+-midterm and homework heavy
+-strong non-understandable accent
+-doesnt know how to explain content which made learning hard no one came to class due to this
+-class was very hard thought i was doing good before the final
+-final worth 45% (class average 38%) didnt curve it filled with content never taught, grammar errors and lots of incoherences
+
+--- Rating #2 ---
+Class: STAT203
+Date: 2025-04-28 07:14:51 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Overall, the class was pretty difficult. Joan's lectures did not particularly help, unfortunately due to her strong accent and the overwhelming amount of material. With around 25+ chapters cramming is not option. However, thanks the curve and pop quizzes throughout the semester I survived.
+
+--- Rating #3 ---
+Class: STAT203
+Date: 2025-04-16 22:10:28 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I thought I was smart before taking this class. Joan is such a sweet lady but by the end of the term I was convinced she was manipulating me. Her final was a psychological game, nothing like any of the homework or even the midterm. If you take this class I would also recommend you start praying to a god.
+
+--- Rating #4 ---
+Class: STAT203
+Date: 2025-04-16 04:48:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I am not kidding when I say professors who cannot speak a lick of English should teach heavy courses like this. The final exam (worth 45% of the grade) was filled with content never taught, grammatical errors, and countless incoherences which made the class so much harder. I had no idea what was being asked of me in any of the exams.
+
+--- Rating #5 ---
+Class: STAT201
+Date: 2025-04-07 23:40:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I would say I have more of a stats background then most of the people who take this course which was the only reason I passed (many of my friends did not). Prof does not care about your learning. Slides were terrible, I almost completely relied on the textbook which was not enough to do well on the exams.
+
+--- Rating #6 ---
+Class: STAT201
+Date: 2025-01-29 18:45:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Theres three midterms, just did one for which the content was EASY, except we had 50 minutes and 25 questions, so 2 minutes per question. Class average for this was 13/22 and she said that it was good. Ridiculous to take a class who's content is easy and make it nearly impossible to do by not giving students enough time - just give us the class.
+
+--- Rating #7 ---
+Class: STATS270
+Date: 2025-01-06 05:51:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I took 305 and Joan as a person is very kind, and sweet but as a professor honestly she is terrible.  Avoid this course with her at all costs.  Her lectures make no sense, even though she spends the entire time speaking none of it makes sense.  Tests are ridiculously difficult I failed this course the first time, and squeezed a C second time around
+
+--- Rating #8 ---
+Class: STAT201
+Date: 2024-12-16 20:12:28 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+*not for stat 201, but 305 - she is the sweetest, nicest, kindest and most passionate stat prof, however she is terrible at explaining concepts and you have to teach urself for the whole course. 3 midterms, started off super easy then got progressively worse and the exams are entirely written w no mc. hw is all r code that u have to teach urself
+
+--- Rating #9 ---
+Class: STAT450
+Date: 2024-04-16 04:58:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Joan has a genuine excitement for statistics that I find to be contagious beyond the classroom. Her assignments helped me to engage with the material and challenged me exactly the right amount. She also happens to be a great person that will be in your corner if you demonstrate interest and effort in her class.
+
+--- Rating #10 ---
+Class: STAT285
+Date: 2023-11-14 19:09:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+tough exam
+
+--- Rating #11 ---
+Class: STAT285
+Date: 2023-04-30 21:16:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Nice and her exams are fair, lecture may contain extra difficult content.
+
+--- Rating #12 ---
+Class: STAT285
+Date: 2022-04-19 03:14:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very caring professor.
+
+--- Rating #13 ---
+Class: STAT285
+Date: 2022-01-02 17:14:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Professor Hu is amazing! She is very reasonable and respectful professor. The course material itself is challenging. However if you try to understand the concepts in the lectures, its not that bad. Homework questions are not much related to exam questions but her lecture examples are similar to exams. Pay attention to the lectures!
+
+--- Rating #14 ---
+Class: STAT285
+Date: 2021-12-02 22:34:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is incapable of teaching, that's it. Her lecture notes make easy concepts hard to understand. You have to study by yourself, the assignment has nothing to do with the lectures, and lectures shows no examples. She expects you to know everything.
+
+--- Rating #15 ---
+Class: STAT285
+Date: 2018-12-21 01:10:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I had nothing but complaints about her as well and I bombed the first midterm even though I was studying hard on my own using the book. But if you focus on the keys points she's saying in lecture, and yes do some additional work on your own, and go to her for help then you'll do fine. She is super helpful! Her exams and marking are extremely fair.
+
+--- Rating #16 ---
+Class: STAT285
+Date: 2018-12-10 21:16:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Yes, it is sometimes hard to understand her during lectures but it's definitely not out of this world. The material of the course is naturally challenging but Joan is a professor that truly cares about her students in my experience and is happy to help you out. Her tests are beyond reasonable and are actually not that difficult. I fully recommend.
+
+--- Rating #17 ---
+Class: STAT285
+Date: 2018-09-25 18:36:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+ABORT! ABORT! Worst professor ever, DONOT take her class, you will regret immediately. Horrible lectures and horrible notes. You may as well skip class and do self study.
+
+--- Rating #18 ---
+Class: STAT270
+Date: 2016-12-13 22:11:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Worst experience I have ever had. As mentioned before, it's all about self-studying because the lectures are not helpful at all. The textbook, although it is cheap, does not explain concepts well. I highly recommend you do not take a course with her. If you do, be sure to visit the workshops often.
+
+--- Rating #19 ---
+Class: STAT270
+Date: 2016-12-12 13:33:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The course it self is pretty tough, and her lectures weren't the greatest but she is very helpful if you go to her office hours.
+
+--- Rating #20 ---
+Class: STAT270
+Date: 2016-12-08 01:42:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Lectures are useless and you are paying money for self-studying, though you can see the teacher for help about the problems in the textbook.

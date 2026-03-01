@@ -1,0 +1,271 @@
+Professor: Michael Hayden
+Professor Legacy ID: 39375
+Professor ID: VGVhY2hlci0zOTM3NQ==
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 3.9
+Avg Difficulty: 3.7
+Num Ratings: 67
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PHYS421
+Date: 2022-01-11 18:26:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+One of the best lecturers I've had, he really opens your eyes to the material which encourages fundamental understanding of the topics. He puts a lot of effort in each lecture which allows you to just listen and write or stop and contemplate. Very kind grader with great feedback but tests are hard and his custom assignments are killer but also fun.
+
+--- Rating #2 ---
+Class: PHYS126
+Date: 2021-05-08 06:12:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Prof Hayden seems to genuinely care about students, and enjoy teaching. My one complaint is that he gives very little time for quizzes and midterms, leading to rushing and mistakes. He adjusts grading for the final and later midterms though, so although stressful, the time shouldn't affect marks too much.
+
+--- Rating #3 ---
+Class: PHYS421
+Date: 2020-06-10 07:24:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I took PHYS421 with him. I am glad that I have received a grade of A with him. I studied daily for at least 6 hours for this course. Sadly, I cannot apply things I learned in class to my own life/career. Although I graduate few years ago, I still remember every single question in the exams.
+
+--- Rating #4 ---
+Class: PHYS126
+Date: 2020-05-05 20:36:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Super great lectures, very helpful and passionate about the subject. Difficult class because you really need to know the material
+
+--- Rating #5 ---
+Class: PHYS321
+Date: 2017-04-21 22:51:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Mike's lectures are the best ones I have ever taken in my 3 years at SFU. He is also accessible outside of the classes, as he has a open office door policy. But be careful if you are taking his course: his tests and exams are very difficult and requires you to really understand the material to do well.
+
+--- Rating #6 ---
+Class: PHYS130
+Date: 2015-05-21 17:22:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Great at explaining things in a way thats easy to understand. Super interested in the subject, and more than willing to help students with any and all concerns.
+
+--- Rating #7 ---
+Class: PHYS192
+Date: 2013-12-14 02:19:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+horrible final exam.
+
+--- Rating #8 ---
+Class: PHYS192
+Date: 2011-07-29 18:36:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+The best science teacher ever!Extremely helpful to questions. Interesting lecture and clear explanation.He is always ready to help and make students feel in ease when going to his office. The exam will not be hard if you understand the material. Everything is well related! I hope I can take class with him again!
+
+--- Rating #9 ---
+Class: PHYS192
+Date: 2011-07-28 00:11:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Kept the whole class pretty interesting, although sometimes he doesn't 'dumb-down' his explanations enough. Exams are really hard too I found, but lectures are never boring with all the demos.
+
+--- Rating #10 ---
+Class: PHYS321
+Date: 2011-04-25 16:15:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very hard course. He's a very helpful prof. If you go to his office hours he's more than happy to explain questions and concepts. But his exams are ridiculously hard. You should talk to people who have taken the course before to get a grasp of the exams. Also hw is mandatory. Try to do as many other text problems as you can. They will def help
+
+--- Rating #11 ---
+Class: PHYS192
+Date: 2010-08-21 16:16:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Super nice guy. Many times stood after class with me answering my questions. He makes the course easy to understand and fun course, amazing since I had never taken physics before. Really wants students to do well, and weights your mark most favorably-- HUGE GPA booster.
+
+--- Rating #12 ---
+Class: PHYS192
+Date: 2010-08-21 16:13:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+By far the best prof to date I've had at SFU! I always looked forward to going to class because it was just like going to science world: he does super fun and cool experiments every single class that really explain concepts and made the class exciting.
+
+--- Rating #13 ---
+Class: PHYS192
+Date: 2010-07-13 15:00:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+This guy is by far the best teacher I've had at SFU. He was so dedicated and taught the class impeccably. Bravo.
+
+--- Rating #14 ---
+Class: PHYS321
+Date: 2010-06-11 14:32:03 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+This prof goes into his own world when teaching, which should b a gd thing, since he's THAT interested in phys, however, he goes on way too fast, does not stop to verify that students r understanding the material or not.  this course is extra hard for engineering students as we jump from 1st yr to 3rd yr phys, hw is much needed to help comprehend
+
+--- Rating #15 ---
+Class: PHYS192
+Date: 2010-05-13 04:10:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Nice, cheerful and dedicated professor. Perhaps a great transition course for people fresh from high school ready to adjust to university. Took this course as an elective and the work load was very minimal. He does skim through the chapters fairly fast towards the end of the semester, but if you read the text regularly, you should be fine.
+
+--- Rating #16 ---
+Class: PHYS192
+Date: 2009-06-26 14:29:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He was the worst prof I have ever had. He doesn't care about his students and is just there to get paid and do boring physics research. Don't ever take his class. You are wasting your money. He doesn't deserve the title as professor.
+
+--- Rating #17 ---
+Class: PHYS192
+Date: 2009-05-10 02:47:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Most awesome class ever; it's so fun. Even if you aren't very good at science, don't let the whole physics thing scare you: the concepts are not hard and he has these awesome demos to keep the course interesting. Take it!!!!
+
+--- Rating #18 ---
+Class: PHYS192
+Date: 2009-04-07 04:58:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+awesome.
+
+--- Rating #19 ---
+Class: PHYS321
+Date: 2009-03-19 13:51:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Talks and writes veryyyyyyy fast.. uses every single second of the lecutre time productively... one minute left of lecture to him means he can teach another chapter of the book... never pauses for questions to verify student understanding..he just enters his own physics world when he's teaching. H.W. should be mandatory so stdents keep up with clas
+
+--- Rating #20 ---
+Class: PHYS192
+Date: 2007-11-20 19:46:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+never taken a physics course before. even so i found this course a blast. best prof i've ever had!

@@ -1,0 +1,50 @@
+Professor: Khaled Diab
+Professor Legacy ID: 2643779
+Professor ID: VGVhY2hlci0yNjQzNzc5
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.3
+Avg Difficulty: 1.7
+Num Ratings: 3
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: CMPT471
+Date: 2020-12-16 07:07:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+For a first time professor, he delivered lectures well, was very lenient and accommodating to students, and was extremely accessible to questions students had.
+
+--- Rating #2 ---
+Class: CMPT471
+Date: 2020-12-16 06:49:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Organized lectures, very lenient to student requests such as extensions or extra credit. Gives bonus marks. Great prof and easy course.
+
+--- Rating #3 ---
+Class: CMPT471
+Date: 2020-11-26 22:25:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+great

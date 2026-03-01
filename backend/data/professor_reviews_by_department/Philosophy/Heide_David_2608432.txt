@@ -1,0 +1,24 @@
+Professor: David Heide
+Professor Legacy ID: 2608432
+Professor ID: VGVhY2hlci0yNjA4NDMy
+Department (CSV): Philosophy
+Department (Fetched): Philosophy
+Avg Rating: 5
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: PHIL203
+Date: 2021-05-05 14:05:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Goes by Dai Heide - probably why it seems like there are no ratings. Very nice guy. Quite funny too when his humour slips out. The class was difficult but great if you like a challenge. The level assignments take a deceptively long time - dont be fooled by word count. Choosing an argument is the hardest part. Would take his classes again.

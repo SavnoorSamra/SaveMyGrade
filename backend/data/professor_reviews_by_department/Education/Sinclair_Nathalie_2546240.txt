@@ -1,0 +1,37 @@
+Professor: Nathalie Sinclair
+Professor Legacy ID: 2546240
+Professor ID: VGVhY2hlci0yNTQ2MjQw
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 3
+Avg Difficulty: 4.5
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: EDUC212
+Date: 2023-01-10 00:20:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+W prof
+
+--- Rating #2 ---
+Class: EDUC212
+Date: 2019-12-03 01:02:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Not only does prof Sinclair not give any feedback, she will mark you brutally for absolutely no reason. Her homework makes no sense compared to what you have learned in the class, and her marking is way too harsh for a supposed arts-friendly math class. She also never uploaded her syllabus, never had office hours, and made fun of student in class.

@@ -1,0 +1,37 @@
+Professor: Carmen Bott
+Professor Legacy ID: 3089984
+Professor ID: VGVhY2hlci0zMDg5OTg0
+Department (CSV): Physical Education
+Department (Fetched): Physical Education
+Avg Rating: 4
+Avg Difficulty: 4
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BPK141
+Date: 2025-12-12 10:57:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+BPK343 - Fun labs, don't like assignments (case study -no practice with doing it + she got mad we did bad on it). Grading was kinda strict in my opinion for tests and assignments. Great lectures though, the info I learned was great, I just feel like I didn't get to prove that with the testing she had. Unclear on what is tested + lots of reading
+
+--- Rating #2 ---
+Class: BPK141
+Date: 2025-12-10 01:12:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+The course is very useful in daily life, but it is also quite challenging. Lectures and material get really compact and abstract, especially after the midterm. The assignments were fairly easy, while the exams, especially the final, were really hard. Personally, I would only take this course if you took a bio course or is passionate in working out.

@@ -1,0 +1,141 @@
+Professor: Jim Carter
+Professor Legacy ID: 2194465
+Professor ID: VGVhY2hlci0yMTk0NDY1
+Department (CSV): Biomedical Physiology & Kinesiology
+Department (Fetched): Biomedical Physiology  Kinesiology
+Avg Rating: 4.9
+Avg Difficulty: 3.3
+Num Ratings: 10
+Would Take Again Percent: 100
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: BPK142
+Date: 2024-01-11 03:12:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+W prof, very straightforward and explains things very well. His lectures are engaging and interesting, his exams are fair but require a lott of studying. You have to keep up with the material or you'll cram near exams. Labs are pretty easy and the anatomy exam is as well. He makes sure to go over the outlines so you know what to expect. Great prof
+
+--- Rating #2 ---
+Class: BPK142
+Date: 2024-01-07 20:02:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He was the most organized and fair professor I've had. Exams are very far and focus on general open-concept
+
+--- Rating #3 ---
+Class: BPK142
+Date: 2022-12-14 19:40:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Goat
+
+--- Rating #4 ---
+Class: BPK142
+Date: 2022-12-05 00:22:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Jim was awesome. His lectures were super engaging, he has little quizzes at the end of each lecture to encourage you to go but they are super easy. The lab quizzes were easy too. The course itself has so much content and you are tested on all of it. Great class but you really have to to hit the books hard to do well.
+
+--- Rating #5 ---
+Class: BPK142
+Date: 2022-12-03 02:34:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Professor Carter is amazing. He gives good lectures within depth content and explanation. Go to class it will benefit you every time. LISTEN TO THE EXAMPLE EXAM QUESTIONS (usually on exam). Keep up with the content it will benefit you in the long run. Work put in = your grade. Use your time wisely, content heavy.
+
+--- Rating #6 ---
+Class: BPK142
+Date: 2022-01-11 03:02:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+BEST PROF I'VE EVER HAD. He is super caring and knowledgeable about the topic which makes it more interesting. I got a C in the class which was totally my fault and it was my first year so I was getting used to the environment. Otherwise, Jim gave us plenty of resources to make the topic more clear.
+
+--- Rating #7 ---
+Class: BPK142
+Date: 2021-11-03 22:38:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Carter is an amazing professor. He explains everything very in depth and he is very approachable if you have any questions. His exams are also very fair. However, this is a really heavy course and I wouldn't recommend taking it as an elective.
+
+--- Rating #8 ---
+Class: BPK142
+Date: 2018-05-12 23:36:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jim is the best BPK142 prof, he is clear, makes lectures interesting and easy to follow. Provides students with lecture notes with all examinable material to study. You can get by without attending lecture if you study on your own but Carter makes you actually WANT to go to class.
+
+--- Rating #9 ---
+Class: BPK142
+Date: 2016-12-08 21:08:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jim really makes sure that you understand the concepts of the material before moving onto the next topic. It's a tougher first year BPK class but I really enjoyed having Jim as a prof. He includes videos and personal photos, which are a really nice touch. Super approachable and really kind!
+
+--- Rating #10 ---
+Class: BPK142
+Date: 2016-11-18 00:37:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I took this class as a science elective and actually really enjoyed it.  Professor Carter is a great lecturer! He always tries to make them interesting with videos and real life applications.  Labs are interactive and fun!

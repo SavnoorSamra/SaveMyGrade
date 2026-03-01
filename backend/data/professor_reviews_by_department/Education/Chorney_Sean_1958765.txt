@@ -1,0 +1,128 @@
+Professor: Sean Chorney
+Professor Legacy ID: 1958765
+Professor ID: VGVhY2hlci0xOTU4NzY1
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.3
+Avg Difficulty: 2.8
+Num Ratings: 9
+Would Take Again Percent: 87.5
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: EDUC211
+Date: 2023-05-11 22:17:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Sean is honestly one of the best profs I've had at SFU. He made it easy to understand the concepts and mostly was looking for how much effort we put into the HWs. He also let us redo most of the HWs. I would not call the class an easy A, but it was not a hard class by any means if you put in the effort. Would take more classes with Sean.
+
+--- Rating #2 ---
+Class: EDUC211
+Date: 2021-12-19 23:26:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Sean was a kind and sweet prof who was also pretty entertaining. His midterm was pretty hard but youll be fine if you keep up with the other weekly assignments. Overall, its not an easy A but its manageable.
+
+--- Rating #3 ---
+Class: EDUC211
+Date: 2021-11-18 05:23:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Sean Is a fantastic Prof. He introduces idea methodically and makes them very digest-able. He is a tough marker but if you follow his guidelines and take his feedback seriously it is easy to do well. He is a bit of an odd fish but one of the good kind. Unintentionally really funny at times and real relaxed most of the time as well. One of the best.
+
+--- Rating #4 ---
+Class: EDUC375
+Date: 2021-08-04 01:50:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Sean is extremely sweet &amp; understanding. He's clearly dedicated to providing the utmost support for his students. The class had a very unique angle by asking us to examine Math as a &quot;gate keeper&quot; of sorts. Although it's biased of me since I'm not a &quot;Math student&quot; by any means, I found myself agreeing with his less &quot;traditional&quot; or clinical approach
+
+--- Rating #5 ---
+Class: EDUC211
+Date: 2018-04-07 22:16:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Sean Chorney has shown wonderful 3 hour lectures every Friday. 3Hour lecture was not boring even it was Friday. Homework is very fair (about 5 question every week). All midterm and final is take home so it can be done without mistakes like other math class. The best professor I ever had.
+
+--- Rating #6 ---
+Class: EDUC211
+Date: 2017-08-09 17:11:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Sean is an excellent teacher. I am horrible at math and had't done it since grade 11 but this is one of the best courses I have taken at SFU. He makes classes and content engaging and interesting. He is very patient and willing to help you learn in his office hours. I learned to conceptualize math in different ways and truly loved it.
+
+--- Rating #7 ---
+Class: EDUC211
+Date: 2017-05-19 14:34:19 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Sean does his best to vary his teaching style throughout the course of a semester. He is always willing to help during his office hours, but sometimes is unable to explain how he reached answers.  Lectures are often vague, so read the textbook. Furthermore, I found a large disconnect between what was done in class and homework vs. exams.
+
+--- Rating #8 ---
+Class: EDUC845
+Date: 2016-12-14 15:41:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Sean was incredibly approachable and flexible in the learning in this class. I learnt a lot and enjoyed doing so. He did his best to vary the style of the course day by day and always handed back assignments in a timely and fair manner with clear feedback. I would recommend his class.
+
+--- Rating #9 ---
+Class: EDUC211
+Date: 2016-01-29 20:53:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Sean is a great teacher but his lectures and instructions can sometimes be a bit unclear. However he is always available for extra help outside of class and he truly made learning math a lot more fun than I would've expected. If you pay attention and work hard you can get a good grade.

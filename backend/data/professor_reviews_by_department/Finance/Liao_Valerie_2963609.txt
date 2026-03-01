@@ -1,0 +1,79 @@
+Professor: Valerie Liao
+Professor Legacy ID: 2963609
+Professor ID: VGVhY2hlci0yOTYzNjA5
+Department (CSV): Finance
+Department (Fetched): Finance
+Avg Rating: 2
+Avg Difficulty: 4.2
+Num Ratings: 5
+Would Take Again Percent: 40
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: BUS411
+Date: 2024-05-08 20:36:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+She is okay, but the course is good. If you are good with calculations, take it. At least you will be a bit ready for CFA.
+
+--- Rating #2 ---
+Class: BUS411
+Date: 2024-04-26 04:12:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Valerie is a nice person, but some of her explanations on concepts were a bit confusing. I think the concepts of fixed income are difficult and to blame, rather than it being her teaching. Some questions within case studies are too hard, but she marks them leniently.
+
+--- Rating #3 ---
+Class: BUS411
+Date: 2024-02-15 02:04:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+you wont be able to understand a thing she said in the lecture not because of her accent but because she kept correcting her words every 5 seconds.
+AVOID AT ALL COST
+
+--- Rating #4 ---
+Class: BUS418
+Date: 2023-12-14 19:46:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She seemed to now know the material well, as she used slides that were directly from the internet and just read them during lectures. I would avoid taking her class unless you have to, most of it will come down to luck and hoping that she just likes you as that will be a large determinant of the group paper mark.
+
+--- Rating #5 ---
+Class: BUS418
+Date: 2023-12-14 19:40:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+All multiple choice exam and none of the questions come from anything she provides, nor the textbook. It comes down to guessing, and the best part is that if you speak to others in the exam she will not care at all.
+
+Unfortunately I had nobody else in the course to collaborate with on the exam so I didn't do so well.

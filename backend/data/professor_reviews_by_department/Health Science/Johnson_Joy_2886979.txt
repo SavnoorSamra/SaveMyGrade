@@ -1,0 +1,11 @@
+Professor: Joy Johnson
+Professor Legacy ID: 2886979
+Professor ID: VGVhY2hlci0yODg2OTc5
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

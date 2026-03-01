@@ -1,0 +1,50 @@
+Professor: Keith Hamilton
+Professor Legacy ID: 2899291
+Professor ID: VGVhY2hlci0yODk5Mjkx
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 3.3
+Avg Difficulty: 2.7
+Num Ratings: 3
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: Psyc365
+Date: 2023-07-24 16:38:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I don't know why Keith has such low reviews? He's a great instructor and you can tell cares about the wellbeing of students. He's a grad (I think Phd now) student so he gets the stress of school & tries to accommodate to such. Psyc 365 is a lot of material, making it hard for any prof to cover everything in class - hence why he says to read the TB
+
+--- Rating #2 ---
+Class: Psyc365
+Date: 2023-04-29 00:32:15 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Keith is pretty much unhelpful. Asked for questions regarding lectures, he would say it's in the slides or textbook. But the course was interesting. I learnt a lot. Read the textbook
+
+--- Rating #3 ---
+Class: Psyc365
+Date: 2023-04-24 08:06:43 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The professor was kind and the course was easy yet engaging. Reading the textbook was crucial for exams. Although there were two midterms, the final was cumulative and had 100+ multiple-choice and a few essay questions. Be ready to read if you take this course.

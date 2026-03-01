@@ -1,0 +1,273 @@
+Professor: NICHOLAS VINCENT
+Professor Legacy ID: 2932037
+Professor ID: VGVhY2hlci0yOTMyMDM3
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.9
+Avg Difficulty: 2.1
+Num Ratings: 67
+Would Take Again Percent: 98.5075
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: cmpt419
+Date: 2026-02-08 02:38:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He deserves all 5 stars. He clearly knows what he's talking about, he's so good at answering questions, he's a huge expert in his field, AND he's super generous and gracious to students. He clearly wants the best for all of us! And he cares about real impacts of AI. Wish he started teaching at SFU earlier so I could've taken more courses with him!
+
+--- Rating #2 ---
+Class: cmpt120
+Date: 2026-01-09 07:21:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+0 experience with anything programming/compsci but he made things incredibly easy. his lectures are fast paced and can be a bit confusing, but its mostly recap of the readings. he spends time going over questions in detail, and notices when theres a lull. the midterms were similar to the final, and he gave a lot of hints for the project. the goat!!
+
+--- Rating #3 ---
+Class: cmpt120
+Date: 2025-12-22 17:58:26 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+the course is very easy. maybe it's ok for someone who never programmed, but for me the course was a total waste of time, and the prof doesn't even try to make it challenging for the students who have previous experience. i had more difficult homeworks and exams in grade 11. just waste of time and money
+
+--- Rating #4 ---
+Class: cmpt120
+Date: 2025-12-22 05:27:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Nicholas is a very good teacher for people with little to no coding experience. He is very clear in his lectures and spends time explaining the smallest things. The practice material he gave is very good and highly similar to the actual midterms and final. A very nice and good teacher. Would highly recommend
+
+--- Rating #5 ---
+Class: cmpt120
+Date: 2025-12-20 22:43:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The amount of practice material he gives is really helpful. His lectures can sometimes be boring, but they still taught me a lot. Highly recommended if you don't have any previous coding experiences (like me). He makes the course easy to grasp. I can tell that he's passionate when teaching!
+
+--- Rating #6 ---
+Class: cmpt120
+Date: 2025-12-17 22:20:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+hot but slightly complicated.
+
+--- Rating #7 ---
+Class: cmpt120
+Date: 2025-12-16 21:11:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+he's the best prof and hot.
+
+--- Rating #8 ---
+Class: cmpt120
+Date: 2025-12-11 22:09:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing professor, the way he teaches makes the class easy
+
+--- Rating #9 ---
+Class: cmpt120
+Date: 2025-12-11 00:39:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's super helpful and tries to make sure he clearly explains concepts. His assignments and tests and easy.
+
+--- Rating #10 ---
+Class: cmpt120
+Date: 2025-12-10 19:46:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the easiest classes I've ever taken. The amount of practice material he gives you is incredible and prepares you so well for the midterms and finals. He's overall a super nice guy and always quick to respond to any questions you have
+
+--- Rating #11 ---
+Class: cmpt120
+Date: 2025-12-08 17:34:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He talks very fast, but records all lectures with video and audio. He's super helpful and easy to reach on Discord or by email. For the course, keep up with the weekly readings (which isn't boring and easy to comprehend), his lectures make more sense if you've done them, and going in without reading makes it harder to follow. Super Nice Guy !
+
+--- Rating #12 ---
+Class: cmpt419
+Date: 2025-12-06 09:11:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Nicholas is the goat. This is a must take course for anybody interested in AI research especially with respect to HCAI & data centric AI. Good blend of practical and theory with a mix of readings (research papers), coding (ML), and a final project. Nick is also very tech savvy so he is easy to reach online unlike other profs. 100% would recommend.
+
+--- Rating #13 ---
+Class: cmpt120
+Date: 2025-11-20 04:51:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+practice midterms were very helpful and similar to the exams. goated prof and might i add VERY pleasant to look at (marry me).
+
+--- Rating #14 ---
+Class: cmpt120
+Date: 2025-11-17 20:59:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+prof vincent is a super passionate and energetic guy who genuinely loves what he teaches. super good explainer + gives access to LOTS of resources to prepare for exams. speaking of which, they are usually pretty easy. if you can take a course with prof vincent, take it.
+
+--- Rating #15 ---
+Class: cmpt120
+Date: 2025-11-17 19:13:14 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Nothing needs to work on much. Only spent 30 mins per week for the class. 
+If you already took highschool cmpt course, attending class would be meaningless. 
+Got high grade cause the class itself is pretty easy, but Vincent, though hes kind and very helpful on email but honestly, his lecture is boring and pretty much no one seems paying attention.
+
+--- Rating #16 ---
+Class: cmpt120
+Date: 2025-11-06 21:26:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing professor. Super kind, passionate about what hes doing, and gives great feedback. Exams are fair and he provides plenty of practice material that helps you.
+
+--- Rating #17 ---
+Class: cmpt120
+Date: 2025-11-03 20:02:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Saved my life
+
+--- Rating #18 ---
+Class: cmpt120
+Date: 2025-11-03 19:40:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+hes a great prof!!
+
+--- Rating #19 ---
+Class: cmpt120
+Date: 2025-09-05 17:03:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Inspiring very understanding and easy to follow pace
+
+--- Rating #20 ---
+Class: cmpt120
+Date: 2025-08-11 22:01:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+LOVE him. he is the best prof out thr. no one else can compare, brain, parsa, no one else is better than him. he was my first computer prof. and i think he is the only reason, i was able to continue this degree. I feel like if it was any one else, i would have changed majors. Lowkey sad tho, caz i thought every prof was gonna be like this :(

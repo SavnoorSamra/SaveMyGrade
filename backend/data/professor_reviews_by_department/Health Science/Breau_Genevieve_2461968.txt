@@ -1,0 +1,271 @@
+Professor: Genevieve Breau
+Professor Legacy ID: 2461968
+Professor ID: VGVhY2hlci0yNDYxOTY4
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 2.3
+Avg Difficulty: 2.8
+Num Ratings: 28
+Would Take Again Percent: 35.7143
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: HLTC19
+Date: 2021-03-31 01:24:28 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Her lectures are fine, but the workload was quite heavy. 3 assignments, 3 exams, plus weekly discussion board posts. Quite unreasonable if you ask me. She was also so busy with other stuff in her life, so she was not very accessible. She is okay but not my favourite.
+
+--- Rating #2 ---
+Class: HLTC19
+Date: 2021-03-27 20:37:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: True
+Comment:
+Her exams and assigns are fairly easy, however she is a new prof and does not make frequent announcements about imp course deadlines/assigns. Her schedule changes a lot, and doesn't account for that fact that students need assignment instructions and related lecture slides at least 2 weeks prior to a major assign, esp for online group submissions
+
+--- Rating #3 ---
+Class: HSCI305
+Date: 2020-09-22 22:29:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Breau was an amazing professor. Her exams were based only on her notes, no tricky questions, and she had some group projects from which you could get easy marks from. Anyone that is complaining about her just lacks proper studying skills, honestly I skipped most of the time and only came for exams and iclickers but still got an A.
+
+--- Rating #4 ---
+Class: HSCI130
+Date: 2020-08-24 19:45:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Dr. Breau is a really good prof. She made the course very interesting and I have learned great deal about health science in general. I would definitely recommend taking 130 from her.
+
+--- Rating #5 ---
+Class: HSCI130
+Date: 2020-08-20 23:57:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Genevieve is one of my favourite profs at SFU. She really cares about her students and marks assignments fairly. You have to read a ton to do well in her class. Otherwise she is a very good instructor and person, a real gem.
+
+--- Rating #6 ---
+Class: HSCI130
+Date: 2020-08-10 21:58:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Amazing prof, really easy course. I would definitely recommend taking a class from her as she provides clear grading criteria. You also have to read quite a bit of papers each week for the weekly quiz.
+
+--- Rating #7 ---
+Class: HSCI130
+Date: 2020-08-05 19:57:13 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Not a horrible prof, but does not seem particularly knowledgeable in class content, often unable to clearly answer questions in lecture. Lectures are slow and boring, and she usually just reads off of slides word for word. That being said, the class is very easy and she seems like a kind person.
+
+--- Rating #8 ---
+Class: HSCI130
+Date: 2020-08-04 21:53:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Dr. Breau is one of my favorite instructors at SFU. Although she is hard to follow during the lectures, she is very helpful and accommodating. You have to read to get a good grade in her class. I would recommend taking this class from her if you are interested in the field of health sciences. Thank you, Dr. Breau!
+
+--- Rating #9 ---
+Class: HSCI211
+Date: 2020-01-23 00:49:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Idk why peopole are complaining, you show up, you get a good grade and you leave. Who cares if she sounds weird when the class is super easy!!! Just come in, get your grade then leave!
+
+--- Rating #10 ---
+Class: HSCI305
+Date: 2019-12-12 04:47:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Took HSCI 305 with her and did well in the class, but would not take a class with her again. I didn't learn anything from going to lectures and only went because of participation marks. She packs a lot of information into her lecture slides and doesn't seem interested in class content when teaching. I learnt way more from reviewing material myself
+
+--- Rating #11 ---
+Class: HSCI305
+Date: 2019-12-12 04:34:55 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+honestly, she's not the worst professor students can have but certainly not the best. her class is fairly easy going with 3 *group* assignments making up 45% of your grade. she has the most dense, word-filled slides and basically reads word for word off it. her voice is like scissors to ears so if you have a high tolerance, you'll be okay.
+
+--- Rating #12 ---
+Class: HSCI305
+Date: 2019-11-20 22:52:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Her lecture slides are really filled with a lot of useless information that wont be testing on the exam or final. The group assignment has unclear instructions and the TAs and prof has differing opinions on what they want from us. She uses iclicker to keep students coming to lecture but this class is basically something you learn on your own.
+
+--- Rating #13 ---
+Class: HCSI305
+Date: 2019-11-14 18:49:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Professer Breau is a very sweet lady. However she is not a good professor. Her slides have way too much information in the slides and she reads them word for word without explaining anything. I had to teach myself in this course, the only reason I went to class was for iclicker. If you can skip her as a Prof, do so. Not a good experience.
+
+--- Rating #14 ---
+Class: HSCI305
+Date: 2019-10-31 17:52:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Yo this class still gives me mad ptsd even though i took it over the summer. Easier to just learn the material on your own than to force your ears to go through that torture. Scales so crazy a lizard would be jealous.
+
+--- Rating #15 ---
+Class: HSCI305
+Date: 2019-10-29 18:14:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Likes to put essays on her slides and then picks minute details to ask you about on the MT/final. Just imagine a phone dial tone going off for three hours and its about a third of what her actual lectures are like. Her insecurity about her credentials will lead to her calling you out for not referring to her as &quot;Dr. Breau&quot; with emails. Just don't.
+
+--- Rating #16 ---
+Class: HSCI305
+Date: 2019-10-13 04:02:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Please for the love of god do not take this class. asks you to memorize exact dates when she said she would not. Her lectures are really boring and it really is as bad as everyone says it is. I regret not dropping out the first week.
+
+--- Rating #17 ---
+Class: HSCI305
+Date: 2019-09-11 20:12:48 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The course material was very dense, however, Dr Breau doesn't make it any easier with her monotone voice. The assignments fair, but make sure to study hard for the exams!
+
+--- Rating #18 ---
+Class: HSCI305
+Date: 2019-08-12 05:37:45 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+she is not as bad as previous ratings. Genevieve is willing to help and has informative slides.
+
+--- Rating #19 ---
+Class: HSCI211
+Date: 2019-05-20 16:04:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Breau is very experienced in her profession but that doesn't translate well when she teaches. Her lecture slides contain so much information that won't be tested on exams. Even if you didn't attend her lectures you would be able to pass the exam with a decent B+. So many people in the class got an A that she had to scale down so beware.
+
+--- Rating #20 ---
+Class: HSCI211
+Date: 2019-04-27 00:27:25 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She reads off the lecture slides which might be annoying for some. She is a new prof and sometimes can be unclear, but if you attend lectures she will give out hints and explanations on exams and assignments. Shes a decent prof with easy exams and the people complaining are salty because they expect it to be an easy class and dont put enough effort

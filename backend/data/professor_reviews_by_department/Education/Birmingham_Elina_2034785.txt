@@ -1,0 +1,37 @@
+Professor: Elina Birmingham
+Professor Legacy ID: 2034785
+Professor ID: VGVhY2hlci0yMDM0Nzg1
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: EDUC426
+Date: 2022-12-17 09:01:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Elina was so lovely to have! I think she really cared about the well-being of students and wanted everyone to succeed. It was great to have her as a prof.
+
+--- Rating #2 ---
+Class: EDUC426
+Date: 2019-11-27 04:15:13 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Nice professor, however does not give much feedback and marks hard than expected. No one got a perfect mark on our paper, yet she stated that she enjoyed them. Textbook was not very useful, except for weekly questions that don't even require you to read the book to get the answer to them, mostly opinion-based. Final exam was clear.

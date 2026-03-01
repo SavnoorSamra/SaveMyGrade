@@ -1,0 +1,271 @@
+Professor: Joshua Boitnott
+Professor Legacy ID: 1824114
+Professor ID: VGVhY2hlci0xODI0MTE0
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 3.7
+Avg Difficulty: 3.8
+Num Ratings: 46
+Would Take Again Percent: 71.4286
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ECON102
+Date: 2024-12-21 01:35:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His exam was tough ngl, but he is a great prof
+
+--- Rating #2 ---
+Class: ECON201
+Date: 2024-09-18 23:55:52 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Honestly if you're a business student I would not recommend you take this class. As someone who did really well in Econ 105 and 103, this class was very difficult. The TA that I had did not know how to teach so tutorials felt like a waste of time but the only way you get participation marks is if you talk not just show up. Definitely take BUS 207.
+
+--- Rating #3 ---
+Class: ECON201
+Date: 2024-09-09 12:51:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Honestly one of the best professors I had the honour of studying with. Made the notoriously difficult course quite interesting and relatively easy to learn. Does not bore you with ALL the material, rather, clearly and concisely explains the material, then clarifies on specifics and various shortcuts. Very helpful with office hours and assignments.
+
+--- Rating #4 ---
+Class: ECON201
+Date: 2024-06-04 06:11:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The class is really hard in nature, but Josh helped make it easier to understand. The lectures are a bit confusing at first but going to his office hours really helps. The assignments are really hard but he basically will tell you what to do if you ask. Test averages were really low and pretty difficult.
+
+--- Rating #5 ---
+Class: ECON201
+Date: 2024-05-10 21:54:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Probably one of the best teachers I've had in University. If you love Economics, he will definitely help you deepen that. He made a class with a low pass rate very enjoyable, just overall a great teacher and great person. If you are able to take a class with him, count yourself lucky
+
+--- Rating #6 ---
+Class: ECON201
+Date: 2024-04-17 08:16:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good guy but good luck with the exams !
+
+--- Rating #7 ---
+Class: 103
+Date: 2024-01-08 22:09:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Josh made microeconomics very accessible and at times entertaining. He doesn't require a textbook, and his notes are ridiculously detailed (too much even). Take solid notes and you should be fine. A warning however, his exams are tough, and you won't do well if you're the "walk into lecture half an hour late in pyjama pants" type.
+
+--- Rating #8 ---
+Class: ECON201
+Date: 2023-12-24 05:30:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I found Josh's assignments struck a great balance of challenge and concept testing, and tutorials were engaging, but exams felt comparatively much more difficult. Josh is super accessible outside of class time and is always willing to assist students who are engaging with the material. I would gladly take another course in economics with him.
+
+--- Rating #9 ---
+Class: 103
+Date: 2023-12-21 03:54:05 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+If you are like me and taking this course is not a requirement, I don't recommend taking it. The problem is the weighting in this class is awful. That combined with him being a hard grader, the exams being difficult and a big part of your mark makes it hard to do well. My classes average was in the 50's for both the midterm and final.
+
+--- Rating #10 ---
+Class: ECON201
+Date: 2023-12-17 07:44:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Josh is alright, relatively nice guy who was open to questions. however the structure of ECON 201 was ridiculous. His lecture examples, tutorial questions and quizzes could not even come close to prepare you for his exams even though they are open book the averages are 15/50 because he underprepared you by sharing easy examples and then rails you
+
+--- Rating #11 ---
+Class: ECON201
+Date: 2023-12-16 04:50:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Where do I even begin. He's teaching style isn't the best. He'll go over the general concepts in class then he'll give you 'tutorial questions' which weren't explained on his lecture slides. The class average for the final was 15/50! DON"T TAKE HIS CLASS!
+
+--- Rating #12 ---
+Class: ECON102
+Date: 2023-11-29 01:32:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very nice professor. Midterm and final was open book, open laptop. Course was pretty straight forward and no real trick questions. Overall a pretty solid experience.
+
+--- Rating #13 ---
+Class: 115
+Date: 2023-11-25 00:48:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+as long as you follow the lecture and take notes, you'll be fine with half of the midterms and final. he shares practice exams and answers, and it really helps. the exams are open book which is both good and bad. if you understand the content and do the practices you should be fine. i personally did not study enough and just don't like econ
+
+--- Rating #14 ---
+Class: 103
+Date: 2023-11-24 19:46:18 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+he's whatever. There is way to much material to remember, exams are open book and laptop but still tough as the average was in the 50s.
+
+--- Rating #15 ---
+Class: ECON113
+Date: 2023-06-05 07:37:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Josh is a kind and caring professor. His lecture slides are a condensed version of the textbook, so it's important to take good notes when he speaks to make sure you don't miss any information. His tutorial material is very helpful and I like the amount of practice exams he provides. His exams are open book, but there are trick questions.
+
+--- Rating #16 ---
+Class: 115
+Date: 2023-06-01 06:53:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Don't take econ 115, do yourself a favor and take 103 for extra credit. Exams are insanely difficult with low averages (52%) considering it's open book and laptop. Exams are weirdly worded, and don't expect to boost your grade with quizzes, they're hard too. Econ overall requires time to understand theories, you get lost w/ Josh's lectures.
+
+--- Rating #17 ---
+Class: BUSN290
+Date: 2023-05-09 04:17:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Josh is down to earth. This characteristic helps him teach better and makes the class more enjoyable. One of the best profs to date.
+
+--- Rating #18 ---
+Class: 115
+Date: 2023-05-01 17:24:11 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures were fine, but as a person who doesn't care about Econ, it did not help. All exams were open laptop, which was a good and bad thing. Good thing is that I did not need to deeply memorize the gritty details and they were readily available. Bad thing is that the exam results was very low (52% median score for recent finals).
+
+--- Rating #19 ---
+Class: 115
+Date: 2023-04-27 23:16:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The weighting is terrible
+
+--- Rating #20 ---
+Class: ECON113
+Date: 2023-04-26 07:50:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Josh gives a lot of practice material for all his exams and is extremely responsive to emails and great at explaining concepts if you go to his office hours. His exams are tricky and sometimes contains trick questions, and you would need to study for them just as much you would study for a closed book exam, relying on open book won't get you an A.

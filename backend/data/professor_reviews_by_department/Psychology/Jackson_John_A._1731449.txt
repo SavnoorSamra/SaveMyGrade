@@ -1,0 +1,24 @@
+Professor: John A. Jackson
+Professor Legacy ID: 1731449
+Professor ID: VGVhY2hlci0xNzMxNDQ5
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 5
+Avg Difficulty: 1
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: PSYCD100
+Date: 2012-06-19 15:50:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+good

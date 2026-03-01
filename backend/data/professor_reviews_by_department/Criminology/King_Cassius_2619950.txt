@@ -1,0 +1,89 @@
+Professor: Cassius King
+Professor Legacy ID: 2619950
+Professor ID: VGVhY2hlci0yNjE5OTUw
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 5
+Avg Difficulty: 1.5
+Num Ratings: 6
+Would Take Again Percent: 100
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: CRIM135
+Date: 2020-09-06 03:00:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Went out of his way to organize and administrate one of the greatest events any professor could have ever, a true king and the realist.
+
+--- Rating #2 ---
+Class: CRIM135
+Date: 2020-09-06 02:23:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I really appreciated Dr. King's attention to detail and passion in his delivery of lectures.
+
+--- Rating #3 ---
+Class: CRIM135
+Date: 2020-09-06 02:14:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Ive gotta be real with yall. Ive been deadass depressed for the past four months. Its a literal nightmare. But having Cassius as a prof has made me enjoy life more than I think I ever have before. Im goina be smiling for the next two hours, bet you anything. Thank you so much Cassius.
+
+--- Rating #4 ---
+Class: CRIM135
+Date: 2020-09-06 01:50:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+A really great professor. You can tell he truly cares about his students and what he is teaching. Exams are difficult, but he provides lots of practise and feedback, so if you are willing to put in the time and effort it is not that hard to do well. Best professor I have had at SFU so far.
+
+--- Rating #5 ---
+Class: CRIM135
+Date: 2020-09-06 01:49:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Cassius is a great prof! Super attentive to students and the right level of humour in course content. Make sure to pay attention to his postings/announcements and you'll do great
+
+--- Rating #6 ---
+Class: CRIM135
+Date: 2020-09-06 01:45:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Dr. King was very helpful and easy to approach. There are times when Cassius was too busy and could not reply as quickly, but he is multitasking during the course. 135 was lit!

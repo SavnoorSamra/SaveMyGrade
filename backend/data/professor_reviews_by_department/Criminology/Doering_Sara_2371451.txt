@@ -1,0 +1,193 @@
+Professor: Sara Doering
+Professor Legacy ID: 2371451
+Professor ID: VGVhY2hlci0yMzcxNDUx
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 4.1
+Avg Difficulty: 3.7
+Num Ratings: 14
+Would Take Again Percent: 78.5714
+
+Ratings Count Returned: 14
+
+--- Rating #1 ---
+Class: CRIM320
+Date: 2025-03-06 23:48:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sara is amazing, I would not be able to make it through 320 without her. She really cares about your success if you show up and put in the effort. She is kind and patient and makes sure that you understand what's going on before moving on.
+
+--- Rating #2 ---
+Class: CRIM000
+Date: 2023-04-17 19:59:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Labs with Sara aren't mandatory, but she helps us a lot with the confusing content that the professor teaches. The assignments are not worded very clearly, and Sara will spend time explaining what the professor wants from us in labs and help us understand all of the course content and re-teach us material. I don't think I'd pass without her help!
+
+--- Rating #3 ---
+Class: CRIM320
+Date: 2022-09-12 21:26:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Sara and the TA Hana are really helpful for this class! It's a hard one, but they both made it very manageable
+
+--- Rating #4 ---
+Class: CRIM320
+Date: 2022-06-28 21:19:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Sara was really kind when I needed extra accommodations in the course, very understanding and helpful instructor.
+
+--- Rating #5 ---
+Class: CRIM104
+Date: 2022-05-06 21:47:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+So knowledgeable about everything she teaches. Would for sure take a class taught by her again.
+
+--- Rating #6 ---
+Class: CRIM320
+Date: 2022-02-10 19:17:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Sara gives a lot of feedback on assignments and goes over what she expects to see on assignments in labs. She makes sure we are all keeping up when learning SPSS, and stops if someone is confused until they catch up. I don't think I would have been able to get the grade I did without her help!
+
+--- Rating #7 ---
+Class: CRIM320
+Date: 2022-01-31 21:12:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+if you have her as your ta, switch asap.
+
+--- Rating #8 ---
+Class: CRIM000
+Date: 2022-01-19 06:37:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Horrible. Good luck getting anything from her, including an email back.
+
+--- Rating #9 ---
+Class: CRIM413
+Date: 2021-04-30 03:30:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I had Sara as a TA for both CRIM413 and CRIM 320. She marked everything so hard. She didnt even explain her reasoning behind her grading when I asked for it. Avoid her by all costs, she will tank your GPA. Most Ruthless TA Ive ever had
+
+--- Rating #10 ---
+Class: CRIM320
+Date: 2021-03-22 07:28:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+The fact that she's on zoom in essentials hoodies says enough about how chill she is, but Sara is so nice and really does a good job of explaining concepts and makes online learning so much less confusing! Makes you feel so much less stressed about stats after meetings
+
+--- Rating #11 ---
+Class: CRIM104
+Date: 2020-11-28 02:16:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I just want to come on here and say that Sara has been amazing during COVID, and so accommodating when I have had issues related to COVID in my family. She really cares about us and our wellbeing and prioritizing that over school work :)
+
+--- Rating #12 ---
+Class: CRIM320
+Date: 2018-06-19 02:16:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Sara was an awesome TA, and responded to emails quickly and really knows the material. She always said hi to my friends and I in the halls and was really nice. And shes just an awesome TA overall, especially for stats!
+
+--- Rating #13 ---
+Class: CRIM320
+Date: 2018-05-07 00:57:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Had her as a TA for Crim 320 and she is by far the best TA I've every encountered. She is so caring and helpful and was extremely fair with her grading. Any mark deducted was justified and explained. TAKE ANY CLASS SHE IS TA-ING FOR AS SHE LITERALLY MAKES YOUR DAY BETTER. She helps students readily and just an amazing person overall!!!
+
+--- Rating #14 ---
+Class: CRIM320
+Date: 2018-05-04 19:42:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Having labs with Sara was super helpful and probably the only reason that I passed 320. She always knew the answers to our questions, and gave feedback to help us improve. She really cared about students, and was an awesome ta to have

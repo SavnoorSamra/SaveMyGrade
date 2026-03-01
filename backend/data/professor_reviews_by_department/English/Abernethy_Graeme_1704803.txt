@@ -1,0 +1,141 @@
+Professor: Graeme Abernethy
+Professor Legacy ID: 1704803
+Professor ID: VGVhY2hlci0xNzA0ODAz
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 4.7
+Avg Difficulty: 2.5
+Num Ratings: 10
+Would Take Again Percent: 100
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: ENG1100
+Date: 2021-01-21 20:30:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Such a great teacher. Very accomodating and very clear on what he wants and expects. He is easy going and works with students very well. He understands the difficulty of online classes and is very helpful and teaching style is awesome compared to other English teachers
+
+--- Rating #2 ---
+Class: ENGL438
+Date: 2020-01-08 08:39:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He was actually at VCC for Fall 2019 and he was the best English teacher I've had. I showed him each of my essays and Graeme made it even better, correcting grammer and strengthening ideas. Takes everyone's ideas/thoughts into consideration and will not pick on anyone. I wish he was teaching at VCC more often! We need more teachers like him.
+
+--- Rating #3 ---
+Class: ENG101
+Date: 2019-07-20 00:09:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+His class was enjoyable and gives good background information on the reading material. Only gave reading assignments for homework and that's about it.
+
+--- Rating #4 ---
+Class: ENG100
+Date: 2018-07-06 00:11:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is one of the best English prof i ever had, I feel lucky to be in his class he is an amazing person he help everyone and always be very friendly and respective plus he is very handsome and have very good personality i wish there will be more teachers like him.
+
+--- Rating #5 ---
+Class: ENG101
+Date: 2018-03-26 16:39:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+ok
+
+--- Rating #6 ---
+Class: ENG101
+Date: 2012-11-14 02:17:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He was really passionate about all the topics, but it's sometimes upsetting that his students aren't as enthusiastic because it was an introductory course that students can take for their writing credits. Overall, very very nice, and very helpful, and well, just about everything that's been said, haha.
+
+--- Rating #7 ---
+Class: ENGL438
+Date: 2012-11-08 14:20:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Really knows his stuff and is always willing to meet with you if you need some extra guidance with the material. One of my favourite profs at SFU! I would hands down take another class with him.
+
+--- Rating #8 ---
+Class: ENGL438
+Date: 2012-09-07 03:35:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+A really nice guy who is super willing to help. He is passionate while being a little anxious and fidgety, but he's great. Would definitely take a class with him again.
+
+--- Rating #9 ---
+Class: ENGL438
+Date: 2012-07-23 20:15:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+One of the best professors I've ever had! He really knows what he's talking about and is very approachable!
+
+--- Rating #10 ---
+Class: ENGL438
+Date: 2012-04-06 19:41:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Really awesome, really nice guy. A little quiet, but you can tell he really loves what he's teaching and is VERY smart. He's a little bit nervous but his teaching style is excellent and I would definitely take another class from him. Plus he's adorable.

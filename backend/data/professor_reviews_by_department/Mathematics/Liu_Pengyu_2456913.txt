@@ -1,0 +1,271 @@
+Professor: Pengyu Liu
+Professor Legacy ID: 2456913
+Professor ID: VGVhY2hlci0yNDU2OTEz
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4
+Avg Difficulty: 2.8
+Num Ratings: 86
+Would Take Again Percent: 76.7442
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MACM316
+Date: 2022-01-01 04:50:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Good enough professor, knows what he's talking about and takes feedback well. Topic is fairly dry but his delivery is good. Homework is reasonable and marking for coding assignments are pretty generous. Exams are on the long side, require memorization of formulas, and I was ultimately unable to finish both midterms.
+
+--- Rating #2 ---
+Class: MACM316
+Date: 2021-12-05 05:21:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Good prof
+
+--- Rating #3 ---
+Class: MACM316
+Date: 2021-09-13 19:24:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+He cannot explain well, he just copy-pastes the questions and answers from his own notes and his marking is so unfair. and he scales down terribly. IGNORE AT ALL COST
+
+--- Rating #4 ---
+Class: MACM316
+Date: 2021-09-13 18:11:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He is very accessible and patient to answer students questions. Exams are easy if you do the work.
+
+--- Rating #5 ---
+Class: MACM316
+Date: 2021-09-13 01:39:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Best lectures!
+
+--- Rating #6 ---
+Class: MACM316
+Date: 2021-09-12 02:28:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+I'd like to thank the professor for the amazing course!
+
+--- Rating #7 ---
+Class: MACM316
+Date: 2021-09-12 02:25:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I'm happy with the overall course experience provided by Prof. Liu. Lectures were interesting and inspiring. Contents were well organized and explained. Schedule and scheme were clearly laid out. Tutors are very supportive. I just thought I could've got a better grade. The prof is great!
+
+--- Rating #8 ---
+Class: MACM316
+Date: 2021-09-10 20:13:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+He explained well and made the course so easy to learn. Do the work and its an easy A.
+
+--- Rating #9 ---
+Class: MACM316
+Date: 2021-09-10 20:09:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The prof gave amazing lectures combing math with a lot of applications! Grades are fair.
+
+--- Rating #10 ---
+Class: MACM316
+Date: 2021-09-10 20:06:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Prof. Liu is a very good professor. He explained the course well and made the lectures very accesible and easy to learn. He is also very caring. I found it is really helpful for an online course that he stayed 10-15 mins after each lecture just to answer students questions regarding the lecture. I learned a lot from him. He is a great!
+
+--- Rating #11 ---
+Class: MACM316
+Date: 2021-09-10 18:45:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+He is not that good
+
+--- Rating #12 ---
+Class: MACM316
+Date: 2021-09-04 22:32:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I like his attitude. He is patient and kind. Go to his office hour when you have any difficulty.
+
+--- Rating #13 ---
+Class: MACM316
+Date: 2021-09-04 22:29:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I took his MATH152 and MACM316. Both are well organized online courses. The amount of homework and the grade given are fair. But that is not important, I learned much from his knowledge and lectures. This is difficult time, but overall I liked the learning experiences with him.
+
+--- Rating #14 ---
+Class: MACM316
+Date: 2021-09-04 22:20:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Nice person, easy course! Go take it, you will like him!
+
+--- Rating #15 ---
+Class: MACM316
+Date: 2021-09-04 22:17:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+This textbook should be difficult because of proof, but peter liu makes it easy
+
+--- Rating #16 ---
+Class: MACM316
+Date: 2021-09-04 22:16:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+AVOID this prof if you don't like math, knowledge or interesting stuff but only your pitiful GPA. I think if you like the material and are willing to study, it's an easy and interesting A.
+
+--- Rating #17 ---
+Class: MACM316
+Date: 2021-09-04 22:15:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+He is such a good teacher I have seen who can combine music and mathematics. He will even play the guitar for you in class. Lively and interesting classes make me learn faster and better.
+
+--- Rating #18 ---
+Class: MACM316
+Date: 2021-09-04 22:08:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+A nice teacher who treats his students as friends, every time the class ends, I will ask him questions, he can always give me satisfactory answers. thanks to peter Liu, I can get an A in this class.
+
+--- Rating #19 ---
+Class: MACM316
+Date: 2021-09-04 22:03:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+This is the first time I have got an A+ class in sfu. I am very excited and very happy. I have to say that pengyu Liu's contribution is very huge, he is really a good teacher!
+
+--- Rating #20 ---
+Class: MACM316
+Date: 2021-09-04 22:00:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Those who give bad reviews should not use their own opinion to deny the efforts of a good teacher just because that did not work hard. Peter Liu is really a very good teacher, he is also very kind, and his class is very relaxed. What is more worth mentioning is his The exam is really easy!

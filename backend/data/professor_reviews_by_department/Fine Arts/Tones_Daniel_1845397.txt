@@ -1,0 +1,102 @@
+Professor: Daniel Tones
+Professor Legacy ID: 1845397
+Professor ID: VGVhY2hlci0xODQ1Mzk3
+Department (CSV): Fine Arts
+Department (Fetched): Fine Arts
+Avg Rating: 3.2
+Avg Difficulty: 3.6
+Num Ratings: 7
+Would Take Again Percent: 100
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: ARTS1100
+Date: 2021-01-15 13:59:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is an awesome professor. I literally learned alot from him. His classes are super interesting. He designed the course material in a excellent way. I will definitely recommend him. If you follow guildlines, he is an easy A.
+
+--- Rating #2 ---
+Class: FPA341
+Date: 2013-12-11 00:00:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+The worst prof I have never met. Too much things you have to memorize, lots of definition, essay type question...too lazy to reply your email or doesn't reply.
+
+--- Rating #3 ---
+Class: FPA341
+Date: 2013-12-09 18:16:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+DO NOT TAKE THIS CLASS WITH THIS PROF!!! The prof himself was nice and friendly. HOWEVER, class content was extremely boring and useless!! As mentioned by other comments, LOTS OF HISTORY AND NON ENGLISH TERMS TO MEMORIZE!! most of them were meaningless to be remembered. definitely a HARD MARKER! if u r looking for an easy upper elective, AVOID HIM!
+
+--- Rating #4 ---
+Class: FPA341
+Date: 2013-12-06 17:35:36 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+No textbook required, which is good. He'll send lecture notes to you over email after the lecture. The content of this class was boring and useless to me. For the midterm and final, LOTS of memorization. A large number of non-English terms.He expected 5-page long answers for each final question(3 questions in total), which was a heavy workload.
+
+--- Rating #5 ---
+Class: FPA341
+Date: 2013-11-18 22:26:40 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+The course was a really general survey. Memorizing names and dates felt like a high-school level course. There was rarely any discussion of deeper concepts, even though there would have been time for it. On the up side, he was always very clear (TOO CLEAR?) about what he wanted. We literally spent 20% of class time reading the project outlines.
+
+--- Rating #6 ---
+Class: FPA341
+Date: 2013-11-14 03:23:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Very engaging,and clear lectures. Easy to follow and gives reading guides out on first day of class which are essentially the midterm/final exam questions. Lots to memorize, but overall a very interesting class. Definitely would suggest this course for an easy upper division elective. You get the mark you worked for.
+
+--- Rating #7 ---
+Class: FPA341
+Date: 2013-10-29 06:05:21 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Lectures organized. Exams questions given but 5 page answer expected. Genre study takes up too much time compared to what it's worth. HARD MARKER. A LOT OF HISTORY and memorization of non-english names = HARD.

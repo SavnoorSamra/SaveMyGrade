@@ -1,0 +1,154 @@
+Professor: Mona Yourdshahy
+Professor Legacy ID: 2757385
+Professor ID: VGVhY2hlci0yNzU3Mzg1
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 5
+Avg Difficulty: 2.6
+Num Ratings: 11
+Would Take Again Percent: 100
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: BUS473
+Date: 2026-01-17 00:49:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+So nice, goes above and beyond when responding to emails and helping students. Class is decently hard but she is patient and teaches very well. Exams are reasonable. Interesting content. One of the best profs in the department
+
+--- Rating #2 ---
+Class: BUS473
+Date: 2026-01-11 00:22:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof!! Teach the concepts very well and easily. Highly suggest!
+
+--- Rating #3 ---
+Class: BUS473
+Date: 2025-12-20 21:58:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+It's a straight forward class. Put in some efforts and you can easily >B. She prepares you well before any exams.
+
+--- Rating #4 ---
+Class: BUS473
+Date: 2025-12-20 14:19:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Mona is by far the best instructor in Beedie! Since the beginning, she has given clear instructions on how the class would be structured. Her passion for Operations Management made all classes engaging and easy to understand (although it is a math-heavy class). I would definitely recommend her for any OM class she offers.
+
+--- Rating #5 ---
+Class: BUS473
+Date: 2025-12-03 19:28:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing professor!
+
+--- Rating #6 ---
+Class: BUS373
+Date: 2023-12-17 15:51:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Mona is probably one of the best profs in Beedie, especially for a course like 373. She taught exceptionally well and made sure the students understood the material before moving on. Lecture speed is not too slow or fast, and if you know the material, just go on your phone for a bit. Would recommend taking 373 with her when you can.
+
+--- Rating #7 ---
+Class: BUS373
+Date: 2023-12-06 08:04:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Honestly, Mona is one of the best professors I have had at SFU. She explains everything so well and is so kind and compassionate to students whenever they need help. She was always clear on expectations and provided a ton of helpful practice problems and detailed solutions. She deserves a more than a 5/5 and I highly recommend her to anyone in BUS.
+
+--- Rating #8 ---
+Class: BUS373
+Date: 2023-10-24 22:45:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+the classroom is so hot in Room WMC3520 i almost die every lecture. There is a fan sitting next to her that she wont turn on while i'm dying from the heat. Great professor, but the heat is killing me. i legit wear shorts and t shirt in winter lectures and i'm still dying from the heat, its legit like sitting in an oven for 3 hours. Great prof 10/10
+
+--- Rating #9 ---
+Class: BUS473
+Date: 2023-04-18 19:49:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I don't usually write these but Mona is easily one of the best professors I have had at SFU. You are doing yourself a disservice if you dont take BUS 473 with her. She had clear, well-paced lectures with lots of in-class time for examples and working through problems. She posts all lecture slides and notes on Canvas, and assignments/tests are fair.
+
+--- Rating #10 ---
+Class: BUS473
+Date: 2023-01-03 19:21:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Mona is a fantastic professor! She is knowledgable and passionate about what she teaches. Mona is also very good at explaining concepts to students for their level of understanding. She encourages questions and is accessible outside of class time for further clarification and help. I highly recommend taking any class that she teaches!
+
+--- Rating #11 ---
+Class: BUS473
+Date: 2021-12-18 04:38:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Mona is probably the best prof I've had at SFU! The concepts might seem kind of difficult at first, but the way she explains everything and the pace she teaches at makes it that much easier to understand. The assignments and exams were also very fair, and class was engaging/interesting. She is also incredibly smart and super nice!

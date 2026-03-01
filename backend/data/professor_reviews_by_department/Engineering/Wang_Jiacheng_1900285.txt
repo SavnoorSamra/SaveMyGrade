@@ -1,0 +1,24 @@
+Professor: Jiacheng Wang
+Professor Legacy ID: 1900285
+Professor ID: VGVhY2hlci0xOTAwMjg1
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 4
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: MSE490
+Date: 2014-12-07 01:31:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great prof, had him for embedded systems but wasn't able to gauge his teaching ability since he used lecture slides supplied from the course text. Those classes were at 8:30am and that course was the least of my worries. MSE 490 was a great eng. elective, he was very experienced with the topics & content was straightforward. Labs were a pain though

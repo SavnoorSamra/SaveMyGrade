@@ -1,0 +1,24 @@
+Professor: John Grant
+Professor Legacy ID: 2681499
+Professor ID: VGVhY2hlci0yNjgxNDk5
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 1
+Avg Difficulty: 1
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BUS202
+Date: 2021-08-17 19:12:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The absolute worst. A tough look for Beedie to have this guy first thing into entering. Disappointed because you work so hard to get into Beedie then this dude treats you like a 12 year old. Avoid at all cost.

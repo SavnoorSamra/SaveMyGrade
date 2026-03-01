@@ -1,0 +1,128 @@
+Professor: Scott Bursey
+Professor Legacy ID: 2048943
+Professor ID: VGVhY2hlci0yMDQ4OTQz
+Department (CSV): Religion
+Department (Fetched): Religion
+Avg Rating: 4.2
+Avg Difficulty: 2.4
+Num Ratings: 9
+Would Take Again Percent: 100
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: REL3170
+Date: 2022-11-09 17:02:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is legitness.
+
+--- Rating #2 ---
+Class: REL3170
+Date: 2022-04-30 19:00:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is awesome, most caring teacher and responds to emails extremely fast. Really works with students who are struggling and has great lectures. This is a paper heavy course, you will only have to write papers. Participation matters.
+
+--- Rating #3 ---
+Class: REL3170
+Date: 2022-03-04 17:51:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is one of the coolest guys I&#39;ve ever met. Super understanding and gets that you have a life outside of school. No tests or quizzes, just an essay due every couple of weeks. I would highly recommend taking his class
+
+--- Rating #4 ---
+Class: HIST338
+Date: 2017-04-19 04:49:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Scott is the man! I had him for History 338 online this semester. ALWAYS willing to help, even if that means reading your whole paper and giving you feedback before you hand it in. A really caring professional at SFU who wants you to succeed, which is rare to find at SFU. Highly recommend this guy.
+
+--- Rating #5 ---
+Class: HIST215
+Date: 2016-04-23 00:21:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+If you go to his tutorial you will learn everything you need to know. Whenever you ask him a question he is extremely helpful and really likes the fact that his students are involved. If you participate in tutorial you will get a way better mark!
+
+--- Rating #6 ---
+Class: EDB7618
+Date: 2015-10-27 18:44:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I showed up to his office without notice, not only was he welcoming, he was also extremely helpful. Hands down the best TA I've ever had. Scott is very easy to talk to, he offers valuable feedback, and the tutorial isn't half bad either. A+
+
+--- Rating #7 ---
+Class: HIST 151
+Date: 2015-10-23 20:02:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Talks good in depth during tutorials.
+
+--- Rating #8 ---
+Class: 101
+Date: 2015-10-23 15:38:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Only reason I'm in his tutorial is because he is semi good looking.  Wonder if he has any food in his beard.
+
+--- Rating #9 ---
+Class: 100
+Date: 2015-10-23 15:33:01 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+DO NOT TAKE A TUTORIAL WITH HIM, WORST TA EVER

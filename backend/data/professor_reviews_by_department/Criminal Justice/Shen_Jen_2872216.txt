@@ -1,0 +1,11 @@
+Professor: Jen Shen
+Professor Legacy ID: 2872216
+Professor ID: VGVhY2hlci0yODcyMjE2
+Department (CSV): Criminal Justice
+Department (Fetched): Criminal Justice
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

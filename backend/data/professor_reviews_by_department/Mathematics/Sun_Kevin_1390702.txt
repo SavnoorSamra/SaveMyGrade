@@ -1,0 +1,63 @@
+Professor: Kevin Sun
+Professor Legacy ID: 1390702
+Professor ID: VGVhY2hlci0xMzkwNzAy
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.9
+Avg Difficulty: 2.8
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: MTH100
+Date: 2012-11-18 16:27:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Excellent professor that really knows his material. Very helpful and provide relevant examples that are used in the tests. Work hard and you will be doing well in this class.
+
+--- Rating #2 ---
+Class: PRECA1
+Date: 2012-09-27 15:33:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Kevin was a great prof, the best Ive had so far. He tests on his examples given in class, tests are fair. Can be a bit hard to understand at times due to accent, but he explains concepts well. Also answered my emails quickly. Sometimes if you have a question, he jumps through it a bit quick but overall, I wish he could teach the rest of my courses!
+
+--- Rating #3 ---
+Class: MATH100
+Date: 2011-10-10 18:29:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+His course is a little bit difficult compared with the other courses which are the same level.Anyway,to study with him is challenging and students can really learn sth important.
+
+--- Rating #4 ---
+Class: MATH100
+Date: 2010-11-16 03:40:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Excellent!

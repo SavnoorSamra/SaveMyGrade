@@ -1,0 +1,128 @@
+Professor: Michael Adachi
+Professor Legacy ID: 2394985
+Professor ID: VGVhY2hlci0yMzk0OTg1
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 4
+Avg Difficulty: 2.3
+Num Ratings: 9
+Would Take Again Percent: 77.7778
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: ENSC495
+Date: 2025-05-30 17:29:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+You can really tell he's passionate about what he teaches. He explains things clearly and tries to help us understand the material from all angles. Appreciate how fair he is with grading and how much he cares about students learning.
+
+--- Rating #2 ---
+Class: ENSC495
+Date: 2025-05-13 04:10:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Michael is a great professor. His tests and homeworks are fair, and the labs were very fun and interesting. He is also very kind and helpful when students need help outside of class, and accommodates when people request. Clear grading scheme and marking, but long lectures (still manageable for 1 lecture a week).
+
+--- Rating #3 ---
+Class: ENSC387
+Date: 2020-04-14 03:54:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+a very kind and understanding prof. Always listens to what his students has to say and will try to adjust accordingly.
+
+--- Rating #4 ---
+Class: ENSC225
+Date: 2018-08-16 00:10:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+solid guy; puts notes online and doesn't speak much.
+
+--- Rating #5 ---
+Class: ENSC225
+Date: 2018-08-09 02:16:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+When I'm trying to find a place to sleep, I can always count on Michael Adachi's voice to knock me right out, solid 10/10
+
+--- Rating #6 ---
+Class: ENSC225
+Date: 2018-08-09 02:11:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Terrible.
+
+--- Rating #7 ---
+Class: ENSC225
+Date: 2018-08-09 01:45:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Michael Adachi is by far the greatest professor I've ever had at SFU, a god send to humanity.
+
+--- Rating #8 ---
+Class: ENSC225
+Date: 2018-08-09 01:45:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Just copies notes the whole time, great prof , would definitely take again
+
+--- Rating #9 ---
+Class: ENSC225
+Date: 2018-08-09 01:44:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This has been by far the most useless course I have ever taken. Man means well, but you're basically reading the entire book in lecture

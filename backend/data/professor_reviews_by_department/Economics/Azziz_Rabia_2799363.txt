@@ -1,0 +1,11 @@
+Professor: Rabia Azziz
+Professor Legacy ID: 2799363
+Professor ID: VGVhY2hlci0yNzk5MzYz
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

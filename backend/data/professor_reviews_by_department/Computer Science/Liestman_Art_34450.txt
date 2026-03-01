@@ -1,0 +1,271 @@
+Professor: Art Liestman
+Professor Legacy ID: 34450
+Professor ID: VGVhY2hlci0zNDQ1MA==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.9
+Avg Difficulty: 3.6
+Num Ratings: 31
+Would Take Again Percent: -1
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT376
+Date: 2011-05-19 14:20:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Art is great - he is a fantastic teacher and really knows his stuff. I am glad I didn't get him for 307 though! This writing course was a piece of cake, although I was a bit dissapointed with my grade. I had 86% and ended up with a B+, was hoping for an A range but not a big deal. Highly recommended :)
+
+--- Rating #2 ---
+Class: CMPT307
+Date: 2010-05-26 03:38:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Art is a good teacher and is always available for extra help (which you WILL need). HOWEVER, he gives VERY difficult exams and is also a very strict marker. The midterm average was 20-30%, and I'm pretty sure more than half the class failed. Though I like Art, I advise you wait for a different prof unless you thought MACM 201 was an easy course.
+
+--- Rating #3 ---
+Class: CMPT307
+Date: 2007-04-24 17:52:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He teaches the material well, exams are fair. Unfortunately, he seemed to have an irrational hatred for our class. Midterms were arbitrarily remarked and marked down A LOT. He then flipped out on us and said he wouldnèt scale. Final was really easy, yet his marking, again... put the average way below 50%. More than half the class failed.
+
+--- Rating #4 ---
+Class: CMPT307
+Date: 2007-04-16 03:22:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Had a very negative attitude and marked the class brutally. 40 students, and the third highest mark was a C+. One of the most negative experiences I've had at SFU.
+
+--- Rating #5 ---
+Class: CMPT307
+Date: 2007-01-08 18:32:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+The worst teacher ever. I don't know how this guy is still allowed to teach. Avoid him at all cost.
+
+--- Rating #6 ---
+Class: CMPT307
+Date: 2006-02-21 01:52:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Great at teaching a difficult subject.  Any problems usually came from the complexity of the subject, no from him.  Able to keep things light and entertaining even when you brain is about to explode.  Pop-quizes were great in forcing you to keep up with the material.  Tests/assignments were hard but fair.
+
+--- Rating #7 ---
+Class: CMPT307
+Date: 2005-12-06 14:46:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Engaging prof, wry but lively sense of humour (as long as you don't ask stupid questions, you should be fine...).  Midterms and quizzes were hard but fair.
+
+--- Rating #8 ---
+Class: CMPT307
+Date: 2005-11-14 14:36:23 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+One word. HARD!!!!!! Exclamation point. The class average is around 30%. NO online notes (just handwritten) brutal pop quizzes, brutal midterm, convers tons of material. However if you keep up and read the text (yeah right) you can do ok, but kiss your GPA good bye.
+
+--- Rating #9 ---
+Class: CMPT308
+Date: 2005-06-29 15:56:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Disappeared for a quarter of the semester, left a grad student to teach us. The class became hopelessly lost and dwindled far behind. Upon return he was indignant and arrogant, trundling forward as the class dwindled behind. One of the few courses where I swear I could feel the animosity between the students and prof permeating the air around me.
+
+--- Rating #10 ---
+Class: CMPT307
+Date: 2004-12-03 03:12:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+6 'HARD' surprise quizes worth 20%!!  The midterm was hard, he talks while he writes, and has very messy handwritting to boot!  Some say he's funny, some say he's cocky...
+
+--- Rating #11 ---
+Class: CMPT307
+Date: 2004-10-22 13:47:16 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Funny as far as CS profs go, which is to say, not very funny at all. Good teaching style.
+
+--- Rating #12 ---
+Class: CMPT308
+Date: 2004-06-26 00:22:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+no comment, funny guy tho
+
+--- Rating #13 ---
+Class: CMPT405
+Date: 2003-11-20 18:52:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+final was hard, but this guy is the funniest in comp sci. he's into arts (pottery) as his first name suggests as well. very smart and sympathetic.
+
+--- Rating #14 ---
+Class: MACM101
+Date: 2003-09-03 00:31:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+This is a nice jolly guy.
+
+--- Rating #15 ---
+Class: MACM101
+Date: 2003-03-06 05:26:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+final was just way too hard!!!
+
+--- Rating #16 ---
+Class: CMPT308
+Date: 2003-02-26 17:29:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #17 ---
+Class: MACM101
+Date: 2003-01-21 18:51:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Funny guy, great prof. Made lectures interesting
+
+--- Rating #18 ---
+Class: CMPT308
+Date: 2003-01-03 03:48:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Only had tests...  He made it really hard to learn the material. (no answer keys
+
+--- Rating #19 ---
+Class: CMPT405
+Date: 2002-12-30 02:40:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+entertaining and fair
+
+--- Rating #20 ---
+Class: CMPT308
+Date: 2002-12-11 03:48:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Nice teacher...compared to others who teach this course

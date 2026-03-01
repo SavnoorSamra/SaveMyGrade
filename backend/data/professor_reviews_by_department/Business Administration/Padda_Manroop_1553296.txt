@@ -1,0 +1,63 @@
+Professor: Manroop Padda
+Professor Legacy ID: 1553296
+Professor ID: VGVhY2hlci0xNTUzMjk2
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.9
+Avg Difficulty: 2.5
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: BUS478
+Date: 2013-12-14 18:30:10 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I can't say I found him "awesome", but he was reasonably good.  The course is a total snoozer though.
+
+--- Rating #2 ---
+Class: BUS478
+Date: 2012-10-21 20:53:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+This prof was pretty awesome, he conveys the material well and his exams are fair. Only downside is it may be a bit hard to pay attention in his class because he is so damn good looking. Would definitely reccomend taking it with him.
+
+--- Rating #3 ---
+Class: BUS478
+Date: 2011-12-23 00:05:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+good
+
+--- Rating #4 ---
+Class: BUS478
+Date: 2011-12-23 00:02:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Good guy. A extremely smart individual who I learned a lot from. However, he may consider giving more feedback to students during the course so that we may know our weakness and improve them. Overall, I would recommend him to future students taking his course.

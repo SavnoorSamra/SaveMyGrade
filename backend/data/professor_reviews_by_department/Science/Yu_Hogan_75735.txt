@@ -1,0 +1,273 @@
+Professor: Hogan Yu
+Professor Legacy ID: 75735
+Professor ID: VGVhY2hlci03NTczNQ==
+Department (CSV): Science
+Department (Fetched): Science
+Avg Rating: 3.3
+Avg Difficulty: 3.1
+Num Ratings: 82
+Would Take Again Percent: 42.8571
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CHEM122
+Date: 2026-01-07 23:51:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+do not listen to the other reviews. other than the fact he can't teach the material he is amazing, he uses the same questions from the midterm on the final and he actually uses questions from loncapa. watch chads prep and you will get an A. he replaces your midterm mark with your final mark if you do better. 100% recommend.
+
+--- Rating #2 ---
+Class: CHEM122
+Date: 2025-12-12 06:21:13 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+it was probably me but his exams were so hard, most of his lecture slides didn't get into how challenging he would make the questions in his midterm and final. he is a funny prof for sure but if u dont have the time to study hard for this class then prob dont take this with him
+
+--- Rating #3 ---
+Class: CHEM122
+Date: 2025-10-18 23:38:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures were confusing and the slides were short (only around 9-12 slides per lecture). He is a great guy though and really funny! Midterm was a bit tricky but fair. He had an alternate grading system (if you do better on final than midterm, midterm is excluded and final becomes worth 80%) Final had questions straight from loncapa! Do practice Qs!
+
+--- Rating #4 ---
+Class: CHEM122
+Date: 2025-09-10 06:12:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is one of the worst profs I've ever had. The fact that he is funny and nice like most reviews say literally doesn't matter! Avoid taking with him if you can. He rambles about random stuff most lecture and doesn't walk through any examples. His exams are insanely difficult and not like the lon-capa or iclicker like he says.
+
+--- Rating #5 ---
+Class: CHEM122
+Date: 2025-08-15 00:51:04 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's a nice and funny guy but the exams are really hard and did not reflect what was taught in class. The midterm average was 48% and was extremely difficult. However he did make the final easier than the midterm which helped my grade a lot. Overall he's a decent guy but this course and exams are really challenging so be ready for that.
+
+--- Rating #6 ---
+Class: CHEM122
+Date: 2025-07-20 18:05:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's a nice guy but exams were very difficult. It's all quantitative but he barely goes over any examples so you need to teach yourself. The hmwrk and exam questions far exceeds the level of difficulty in any examples given in lecture or the textbook. Basically just a self taught course. Average for the midterm was 48%.
+
+--- Rating #7 ---
+Class: CHEM122
+Date: 2025-06-28 03:26:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is honestly one of the worst profs I've ever had. His lectures are useless but mandatory since iClicker is 10% of your grade. You need to have the textbook so you can teach yourself and his exams are insanely difficult.
+
+--- Rating #8 ---
+Class: CHEM122
+Date: 2025-06-15 02:36:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Yu is great, he's funny and makes the lectures tolerable because of that. Chem 122 is very quantitative so there is a lot of math and if it weren't for his sense of humour and nice personality, it would be really tough. I would definitely recommend taking this one with him!
+
+--- Rating #9 ---
+Class: CHEM122
+Date: 2025-06-06 01:53:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very chill prof and approachable. Exams contain no tricks very related to Lon Capa practice. Nothing bad to say about him
+
+--- Rating #10 ---
+Class: CHEM122
+Date: 2025-03-16 23:11:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+must take with him
+
+--- Rating #11 ---
+Class: CHEM122
+Date: 2025-01-23 07:29:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+love hogan hes great
+
+--- Rating #12 ---
+Class: CHEM122
+Date: 2025-01-23 07:27:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very fair exams and nice person. Highly recommend
+
+--- Rating #13 ---
+Class: CHEM122
+Date: 2024-09-17 01:28:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The exams are similar to the iclicker questions from the lectures and the loncapa, and the final was the same difficulty was the midterm.
+
+--- Rating #14 ---
+Class: CHEM122
+Date: 2024-09-12 15:05:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Not a bad chem prof better than most. But the biggest thing is read the textbook (there's an online version). Everything on his lecture is from the book. Midterm was a little tricky but the final was very straightforward as it's worth 55%.
+
+--- Rating #15 ---
+Class: CHEM122
+Date: 2024-08-21 23:45:48 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Just do the LON CAPA questions, since exams are identical to those style styles of questions. 
+Review I-Clicker questions as well. 
+I don't think he scaled since the class average was C+
+
+--- Rating #16 ---
+Class: CHEM122
+Date: 2024-07-28 01:00:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+awesome
+
+--- Rating #17 ---
+Class: CHEM122
+Date: 2024-07-27 05:35:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He isn't too bad of a prof and seems like he cares about what he's doing. His tests were fair and based off of lon capa assignments. Textbook practice questions also helped with the course and he is an approachable and friendly guy.
+
+--- Rating #18 ---
+Class: CHEM122
+Date: 2024-07-26 02:51:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I'm his biggest hater!!!
+
+--- Rating #19 ---
+Class: CHEM122
+Date: 2024-07-25 05:13:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures are absolutely useless, tutorials absolutely useless, have to teach yourself everything from the textbook, and exam questions are confusing. Too much effort for a 2 credit course
+
+--- Rating #20 ---
+Class: CHEM122
+Date: 2024-07-24 18:11:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+lectures suck so much. tutorials are competely useless. but exams are fair and no trick questions, if you understand the material. ur gonna have to teach everything to yourself tho, bc his lectures only confuse. loncapa hw was doable, and sometimes he takes loncapa questions verbatim and puts them on exams.

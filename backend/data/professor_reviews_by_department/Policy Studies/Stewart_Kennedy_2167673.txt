@@ -1,0 +1,11 @@
+Professor: Kennedy Stewart
+Professor Legacy ID: 2167673
+Professor ID: VGVhY2hlci0yMTY3Njcz
+Department (CSV): Policy Studies
+Department (Fetched): Policy Studies
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

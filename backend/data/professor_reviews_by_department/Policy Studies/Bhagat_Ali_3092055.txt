@@ -1,0 +1,30 @@
+Professor: Ali Bhagat
+Professor Legacy ID: 3092055
+Professor ID: VGVhY2hlci0zMDkyMDU1
+Department (CSV): Policy Studies
+Department (Fetched): Policy Studies
+Avg Rating: 2
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: PLCY100
+Date: 2026-02-28 08:12:37 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Solid lecture videos that are divided into digestible chunks.
+
+30-50 pages of reading per week.
+
+Tests are meant to test your "memory retention, understanding core concepts, critical thinking skills, and critical reading skills".
+
+You have to be familiar with content covered in readings and lectures to do well on tests.

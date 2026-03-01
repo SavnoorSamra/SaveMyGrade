@@ -1,0 +1,271 @@
+Professor: Hali  Kil
+Professor Legacy ID: 2882407
+Professor ID: VGVhY2hlci0yODgyNDA3
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 1.2
+Avg Difficulty: 3.6
+Num Ratings: 30
+Would Take Again Percent: 6.6667
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: 250
+Date: 2025-07-31 19:13:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dont recommend
+
+--- Rating #2 ---
+Class: 250
+Date: 2025-06-08 21:40:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Terrible communication throughout the course. Didn't learn anything from the class. The prof is unhelpful and unkind.
+
+--- Rating #3 ---
+Class: 250
+Date: 2025-01-18 16:05:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Participation is mandatory and Dr Kil doesn't teach but instead has everyone do group worksheets.
+
+--- Rating #4 ---
+Class: 250
+Date: 2025-01-15 14:14:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+The Prof doesn't teach and your grade relies on group projects.
+
+--- Rating #5 ---
+Class: 250
+Date: 2025-01-14 00:59:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Grade is dependent on group project with a system that is set up very poorly. Unclear communication. Difficult to communicate with. Lectures did not teach much- all learning was self-taught. We were expected to do a lot of readings with unclear ideas of what was important to know
+
+--- Rating #6 ---
+Class: 250
+Date: 2025-01-07 00:43:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Course completely depends on the groups that you're put in&#8212;even then you're teaching yourself. Prof is completely disconnected and unreachable, with her list of "email guidelines" to follow. Grandfather died suddenly and had to miss class, emailed to let prof know and was met with no response, most likely due to me not following her email rules.
+
+--- Rating #7 ---
+Class: 250
+Date: 2025-01-07 00:40:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+The course completely relies on the quality of the groups you're put into. Prof is completely disconnected and hardly responds to emails&#8212;even when they follow the "email guidelines." Grandfather died so emailed prof to advise I wouldn't be in class and received no response&#8212;likely due to my potential failure in adhering to the "email rules."
+
+--- Rating #8 ---
+Class: 250
+Date: 2025-01-03 16:10:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+A large part of your grade relies on group projects. If you get a bad group, Dr Kil doesn't help.
+
+--- Rating #9 ---
+Class: 250
+Date: 2024-12-16 21:19:45 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+I wish I took 250 with a different prof. Take this class with her if you just want credits, but if you're interested in the content wait until it's being instructed by someone else. Very uninvolved, the "lecture" component is nonexistent, but tests were online and open-book. Don't take if you don't like group work, that's most of the course.
+
+--- Rating #10 ---
+Class: 250
+Date: 2024-12-16 17:59:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+The course itself is easy, as most of the grades were self evals, peer evals and completion marks. The professor seemed lazy and uninvolved in her own class, we had NO LECTURES, just the textbooks and weekly "mandatory" (they dont check) synchronous breakout rooms. Got stuck with a TERRIBLE group for the term project and prof showed no empathy
+
+--- Rating #11 ---
+Class: 250
+Date: 2024-12-15 23:16:43 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+This is an online course with no lectures. Everything you learn is from the textbook & then applied in a weekly group discussion assignment. You're graded on a big group project, participation quizzes & 4 online open-book exams. These things are easy if you read the textbook but that does make the grading scale competitive.
+
+--- Rating #12 ---
+Class: 250
+Date: 2024-12-13 07:00:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Grading scale makes no sense. The difference between an A and B is 1%.
+
+--- Rating #13 ---
+Class: 250
+Date: 2024-12-13 06:58:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Very unresponsive professor. Save yourself the headache and don't take.
+
+--- Rating #14 ---
+Class: 250
+Date: 2024-12-13 06:35:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Final grades dont make sense. Grade cut offs are much higher than outlined in the syllabus
+
+--- Rating #15 ---
+Class: 250
+Date: 2024-12-04 07:16:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Very disorganized, with minimal engagement in lectures and a lack of responsiveness to emails. The majority of the material must be self-taught, and their demeanor often comes across as unnecessarily harsh. If you're seeking a course that challenges not only your academic skills but also your ability to find joy, this might be the one.
+
+--- Rating #16 ---
+Class: 250
+Date: 2024-11-26 01:34:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Tests have extremely short time limits without a buffer for technical issues.
+
+--- Rating #17 ---
+Class: 250
+Date: 2024-11-25 22:35:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Dr. Kil doesn't teach. The class is mostly self taught with a bunch of group projects. Super stressful for no reason.
+
+--- Rating #18 ---
+Class: 250
+Date: 2024-11-18 15:32:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Dr. Kil did not teach anything. The course was pretty much self taught. Assignment instructions would contradict themselves, making assistants unnecessarily hard.
+
+--- Rating #19 ---
+Class: 250
+Date: 2024-11-15 02:42:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Dr. Kil did no teaching through the whole semester. You're paying to teach yourself everything.
+
+--- Rating #20 ---
+Class: 250
+Date: 2024-07-20 05:12:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Warning: very bad do not take

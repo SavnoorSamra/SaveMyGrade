@@ -1,0 +1,271 @@
+Professor: Nicole Tunbridge
+Professor Legacy ID: 1442425
+Professor ID: VGVhY2hlci0xNDQyNDI1
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 4
+Avg Difficulty: 3.1
+Num Ratings: 34
+Would Take Again Percent: 0
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BIO1110
+Date: 2018-10-24 18:30:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Tough grader, very unfair marker,She gives two quizzes a week, her tests and exams are extremely hard,she is very picky,Would not recommend to take her as a prof
+
+--- Rating #2 ---
+Class: BIO100
+Date: 2018-09-25 17:05:03 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very nice teacher, but be prepared to study hard. She gives two quizzes per week. One online, and one in class. Given that there is only one day in between to study for these quizzes, they are extremely hard and specific, making it very unfair
+
+--- Rating #3 ---
+Class: BISC204
+Date: 2015-03-20 23:34:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Went out of her way to help me with an administrative mix-up so I could actually take the course! Very polite but fair. I enjoyed her lectures. My one complaint is the group assignment toward the end of the course - but that's more an issue with the other students in the course.
+
+--- Rating #4 ---
+Class: BISC204
+Date: 2014-12-05 14:36:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Nicole is super funny and nice. The class was pretty easy too but sometimes she goes off on tangents or is really disorganized. Easily flustered but she means well
+
+--- Rating #5 ---
+Class: BISC309
+Date: 2014-11-13 17:24:18 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Unlike most people I really didn't like Nicole as a prof. I also took BISC300 with her and both classes turned out to be some of my most boring. She often answers questions with "I don't know" and makes many mistakes which she then giggles about. Her facts are based upon Wikipedia and she acts like she is a student - not a professor.
+
+--- Rating #6 ---
+Class: BISC102
+Date: 2014-08-10 20:50:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Easiest mid term ever. Didn't really need to study as long as you attended lecture and did home work.
+
+--- Rating #7 ---
+Class: BISC300
+Date: 2014-08-05 15:43:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Nicole is amazing. Had her for BISC204 as well. Never any surprises on her exams and doesn't just test memorized facts, she wants you to apply it to other situations. Didn't use the textbook at all. Just her notes are enough to get you through with a good grade.
+
+--- Rating #8 ---
+Class: BISC102
+Date: 2014-08-01 01:27:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+So enthusiastic and animated that it's cute.  Always happy to help and in general, a very nice prof who isn't trying to fail you all.  However, she never finishes her lectures so she ended up lecturing about last week's readings.  Otherwise, she's fab and fair.
+
+--- Rating #9 ---
+Class: BISC102
+Date: 2014-07-21 23:49:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+One of the most kind and wonderful personalities for a prof - taking her class is just amazing
+
+--- Rating #10 ---
+Class: BIO100
+Date: 2014-02-04 18:44:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: N
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Nicole is a great professor, her lectures are clear and interesting, her exams are fair and fairly comprehensive, and her notes accompanied with her audio-recorded lectures that she posts online make the course easy to follow and also to catch up on if you fall behind.
+
+--- Rating #11 ---
+Class: BIO204
+Date: 2013-12-11 00:13:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: N
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+One of the best biology profs in my opinion, notes and lectures were crystal clear, didnt even need to use the textbook for the entire semester. exams were tough but fair. I would totally recommend her! she really cares about her class and tries to make it fun!
+
+--- Rating #12 ---
+Class: BISC204
+Date: 2013-11-20 18:59:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+interesting lecture, easy to study and get along with.
+
+--- Rating #13 ---
+Class: BISC100
+Date: 2013-09-02 14:23:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Excellent prof, very helpful, easy to talk to:).Loves biology and puts alot of effort into her teaching. The only q's she answered with "I don't know" were ones that were off-topic(crazy right?lol).Goes through alot of material so attend lecs AND labs as she clarifies what she wants you to know - applied q's on exams are the most difficult.
+
+--- Rating #14 ---
+Class: BISC102
+Date: 2013-08-13 18:28:00 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Although a lot of people here seem to think Tunbridge is great I strongly disagree. She wasn't really capable of answering a lot of basic questions and would simply answer 'I don't know.' Some of her midterm and exam questions were misleading and actually quite ridiculous. Her level of incompetence is a huge part of the reason i changed majors.
+
+--- Rating #15 ---
+Class: BISC100
+Date: 2013-08-07 15:43:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I wasn't sure what to expect in my first university science course, but Nicole made it a great experience. She is a lovely professor.
+
+--- Rating #16 ---
+Class: BISC100
+Date: 2013-08-01 22:59:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+This is the best professor I have had. She tries her best to teach this course. Very nice!
+
+--- Rating #17 ---
+Class: BISC
+Date: 2013-07-02 16:23:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+If you're looking for some eye candy profs well you got one right here. She's def hot and you will enjoy your class. Oh yeah the material was fine.
+
+--- Rating #18 ---
+Class: BISC204
+Date: 2013-05-31 03:31:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Excellent lecturer. Although each problem set was worth far too much, you will come out the class satisfied with your grade and have a real understanding of the material. TEXTBOOK NOT NEEDED AT ALL!!!!!
+
+--- Rating #19 ---
+Class: BISC204
+Date: 2013-04-25 19:06:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Overall, she was a really good prof. Her first midterm was a bit tough, but the second was too easy, and the final was totally 100% fair. She doesn't try to trick you at all - but she wants really specific details. The ta's were a little bit on the picky side, but as an overall course it was really well done.
+
+--- Rating #20 ---
+Class: BISC300
+Date: 2013-01-02 01:07:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Dr. Tunbridge is really enthusiastic about the material and genuinely interested in helping students - answered a ton of my questions on a late night right before the exam! One of the things I really appreciated was that she references classic papers from literature and also keeps students informed of volunteering opportunities in the department.

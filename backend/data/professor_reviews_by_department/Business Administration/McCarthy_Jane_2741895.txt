@@ -1,0 +1,37 @@
+Professor: Jane McCarthy
+Professor Legacy ID: 2741895
+Professor ID: VGVhY2hlci0yNzQxODk1
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS217
+Date: 2023-11-09 08:31:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Jane had long, boring lectures. Tough, rigorous marking. Looks for very specific work, attention to detail is an absolute MUST in her class. Lots of group work. People don't usually do well in 217, but I did my best to stand out and put in lots of effort and it paid off for me in Jane's class. Be prepared to go the extra mile to be above the curve.
+
+--- Rating #2 ---
+Class: BUS217
+Date: 2023-08-08 00:02:20 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Jane loves group work. Course was divided into 4 main assignments (15% each) and lots of little quizzes and activities worth less than 10% each. Very long, boring lectures but content was very simple. Class avg was low on every assignment, but gave good feedback for how to improve. Just pay close attention to detail + get all the easy marks.

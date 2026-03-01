@@ -1,0 +1,272 @@
+Professor: Jiang Ye
+Professor Legacy ID: 1911570
+Professor ID: VGVhY2hlci0xOTExNTcw
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.4
+Avg Difficulty: 3.6
+Num Ratings: 71
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT135
+Date: 2026-02-26 02:45:56 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She was kind, but the course wasn't that great. However, her exams were mostly based on the assignments and practice questions she provided. It was difficult in the sense that 80% of the students failed, and the highest grade was a B.
+
+--- Rating #2 ---
+Class: CMPT130
+Date: 2025-12-22 06:11:34 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Although her exams are easier, her practices are not enough for a beginner. Take CMPT130 with Yonas if possible as he provides lots of practices that help you pass his exams.
+
+--- Rating #3 ---
+Class: CMPT135
+Date: 2025-12-19 22:43:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+While I was taking this course with this instructor, it was clear to me that if I'm not writing the code in her way, that means I'm totally wrong.  Also, her grading is so bad; one time I made two mistakes, and I received less than half the mark. I do not recommend taking this course with this instructor.
+
+--- Rating #4 ---
+Class: CMPT125
+Date: 2025-11-05 01:49:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+good job!!
+
+--- Rating #5 ---
+Class: CMPT135
+Date: 2024-06-24 08:30:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+dont take
+
+--- Rating #6 ---
+Class: CMPT130
+Date: 2024-06-23 23:40:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+sure
+
+--- Rating #7 ---
+Class: CMPT130
+Date: 2024-06-05 02:45:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sometimes She doesn't explain things well. If you're taking class with her, you better study the ppt and watch some coding on youtube. \
+
+--- Rating #8 ---
+Class: CMPT130
+Date: 2024-04-25 21:14:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+So strict
+
+--- Rating #9 ---
+Class: CMPT135
+Date: 2024-03-04 20:13:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+She doesn't explain the theory behind each code she just goes through roughly, but I am a fxxking rookie!! and this makes my learning very difficult. DO NOT TAKE HER!!!  It is a waste of money, sleep, brain and time.  Finally, if you ask her a question, it is better a small issue. otherwise she will mock you with her eyes.
+
+--- Rating #10 ---
+Class: CMPT130
+Date: 2024-02-07 22:01:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Do not asking question if you don't want to be in her black list.
+
+--- Rating #11 ---
+Class: CMPT130
+Date: 2024-02-04 03:02:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Never take this teacher 
+Worst
+
+--- Rating #12 ---
+Class: CMPT128
+Date: 2024-01-30 21:24:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+never take this prof
+
+--- Rating #13 ---
+Class: CMPT130
+Date: 2024-01-15 23:43:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+i will not recommend taking this class with her.
+
+--- Rating #14 ---
+Class: CMPT130
+Date: 2023-08-21 19:10:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Started this course with no background in programming. I just listened to every word she said, went to every lecture, did every homework and even found some programming projects on my own. Please, read the chapters before coming to class and ask questions. Thank you Jiang Ye!
+
+--- Rating #15 ---
+Class: CMPT130
+Date: 2023-02-24 13:37:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I made a few fake reviews back in august so that i could take 135 with yonas
+
+--- Rating #16 ---
+Class: CMPT130
+Date: 2022-11-02 21:44:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Follow her advices and you will learn a lot. They did a great job for first year computer science courses.
+
+--- Rating #17 ---
+Class: CMPT135
+Date: 2022-08-23 20:59:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I contacted her about reviewing my final exam and grades, and she changed my grade up from c- to c+ after finding her own mistake. I think she give grade fairly.
+
+--- Rating #18 ---
+Class: CMPT130
+Date: 2022-08-22 05:27:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Will give you grade u deserve
+
+--- Rating #19 ---
+Class: CMPT130
+Date: 2022-08-21 04:15:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is nice prof. She helps people out and is funny. She has really inspired me to learn more about coding and I will not have got this grade without her. Professor Jiang, thank you, for the help, for the challenge, for the inspiration. Take her and you will not regret!
+
+--- Rating #20 ---
+Class: CMPT130
+Date: 2022-07-26 17:58:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is very strict with coding style format and all, she is good if you are really good at coding, she don't explain she just revise and this makes it difficult for new coders I would HIGHLY NOT RECOMMEND her it's just waste of money and time.If you do not do well or fail in first quiz, you wouldn't pass any other quiz. Please don't take her.

@@ -1,0 +1,89 @@
+Professor: Kenneth Lam
+Professor Legacy ID: 1545766
+Professor ID: VGVhY2hlci0xNTQ1NzY2
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 3.5
+Avg Difficulty: 3
+Num Ratings: 6
+Would Take Again Percent: 100
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: ECON105
+Date: 2016-11-28 02:06:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Don't really understand what he was saying, but his powerpoints are great. Do the homework he assigned because exam will be based off homework.
+
+--- Rating #2 ---
+Class: ECON383
+Date: 2016-03-16 02:30:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+notes are too long and, confused. Midterm and Final are all essay question. Need to memorize lecture notes.
+
+--- Rating #3 ---
+Class: ECON105
+Date: 2016-01-08 16:49:44 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Poor english skills, hard to understand. Due to the lack of communication he doesn't explain very well. Midterm questions are much like those given in class
+
+--- Rating #4 ---
+Class: 383
+Date: 2015-04-12 00:16:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+best professor ever
+
+--- Rating #5 ---
+Class: ECON305
+Date: 2012-12-15 13:01:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Sometimes he doesn't look professional during the lecture scratching his head and rubbing the face but he explains the material very precisely. His true/false questions a a bit hard, you need to learn every slide from his notes and pay attention to all details. Extremely helpful in person, fair final. Overall decent prof
+
+--- Rating #6 ---
+Class: ECON105
+Date: 2012-12-13 17:45:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+he's average

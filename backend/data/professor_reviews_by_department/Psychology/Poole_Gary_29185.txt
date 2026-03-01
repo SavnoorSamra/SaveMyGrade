@@ -1,0 +1,271 @@
+Professor: Gary Poole
+Professor Legacy ID: 29185
+Professor ID: VGVhY2hlci0yOTE4NQ==
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 4.8
+Avg Difficulty: 2.7
+Num Ratings: 20
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PSY100
+Date: 2018-03-21 16:27:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Gary is just wonderful.
+
+--- Rating #2 ---
+Class: PSYC365
+Date: 2017-12-16 17:43:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Gary really is a wonderful prof. Extremely genuine and funny. However his exams were tough, be prepared for a lot of memorization especially on tiny details from the textbook.
+
+--- Rating #3 ---
+Class: PSYCH101
+Date: 2006-01-15 19:25:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I had Prof. Poole even before he had finished his Ph.D., and already then, he was one of the best profs I could have then imagined.  Turns out, 17 years later as I finish my own Ph.D, (in a different field) I was right.  An amazingly gifted teacher who you would never forget if you ever had the great fortune to have learned from him. Inspirational.
+
+--- Rating #4 ---
+Class: PSYCH100102
+Date: 2005-04-29 03:11:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I took his course in 1994 and it warms my heart that students still love him the way we did 11 years ago. He is the BEST professor on this planet. Warm, engaging, interesting, dynamic. I'm about to enter my Phd and I talk about him as my teaching role model all the time to my classmates.
+
+--- Rating #5 ---
+Class: PSYC100
+Date: 2004-05-05 00:36:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Gary Poole is the BEST psyc prof SFU ever had!!!!
+
+--- Rating #6 ---
+Class: PSYC100
+Date: 2004-04-11 00:21:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I agree, his distance ed videos are awesome!! I was laughing more than I was taking notes, and he makes things make SENSE. We should definitely have more teachers like him.
+
+--- Rating #7 ---
+Class: PSYC100
+Date: 2004-04-04 13:52:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Enjoyable class, great guy.
+
+--- Rating #8 ---
+Class: PSYC101
+Date: 2003-12-01 16:22:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+My favorite teachers EVER
+
+--- Rating #9 ---
+Class: 100102
+Date: 2003-03-29 03:04:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Simply amazing. No teacher will ever compare.
+
+--- Rating #10 ---
+Class: 100102
+Date: 2003-03-28 19:51:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #11 ---
+Class: PSYC100
+Date: 2003-03-08 02:57:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Great Prof, We need more of them who can actually teach.
+
+--- Rating #12 ---
+Class: PSYC102
+Date: 2002-09-25 17:42:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+The video lectures for his distance ed. course were awsome!
+
+--- Rating #13 ---
+Class: PSYC100
+Date: 2002-08-04 03:38:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Best prof ever, period. Why did he have to leave SFU&#63; Come back Gary!!! snif
+
+--- Rating #14 ---
+Class: PSY100
+Date: 2002-07-27 20:04:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I actually laugh in class
+
+--- Rating #15 ---
+Class: PSYC
+Date: 2002-05-15 14:57:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #16 ---
+Class: PSY100P
+Date: 2002-04-14 21:25:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+very good teacher, exams are tough, explanations are amazing
+
+--- Rating #17 ---
+Class: PSYC100
+Date: 2002-03-15 01:27:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Funny Guy
+
+--- Rating #18 ---
+Class: PSYC100
+Date: 2002-02-09 22:21:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I've always wondered if we like him because he uses a mind control technique..
+
+--- Rating #19 ---
+Class: 101
+Date: 2002-02-07 22:25:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #20 ---
+Class: PSY100
+Date: 2002-02-06 09:00:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments

@@ -1,0 +1,37 @@
+Professor: Andrea Tagliasacchi
+Professor Legacy ID: 1104980
+Professor ID: VGVhY2hlci0xMTA0OTgw
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 5
+Avg Difficulty: 4
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: CMPT412
+Date: 2025-04-08 08:27:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very considerate of students time and workload.
+
+--- Rating #2 ---
+Class: CMPT412
+Date: 2025-02-06 22:28:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing professor, great at explaining and very passionate about teaching! It's impressive to see a professor balancing all his research alongside being an excellent teacher. You will learn a lot from him and he speaks a ton about his industry experiences as well which I love!

@@ -1,0 +1,24 @@
+Professor: Naghmeh Jahangir-Tafreshi
+Professor Legacy ID: 2181767
+Professor ID: VGVhY2hlci0yMTgxNzY3
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: PSYC110
+Date: 2022-11-22 21:36:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+took this class fall 2021. Loved it. was afraid since im not good in the number area but the way she explained everything, asked us if clarification was needed was great. very thorough in her teachings and not a very hard marker. watch her videos, take notes and you'll do great

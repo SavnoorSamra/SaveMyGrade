@@ -1,0 +1,271 @@
+Professor: Jeremie Lumbroso
+Professor Legacy ID: 1875838
+Professor ID: VGVhY2hlci0xODc1ODM4
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3
+Avg Difficulty: 3.1
+Num Ratings: 28
+Would Take Again Percent: 0
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CPMT225
+Date: 2025-05-27 14:00:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Has passive aggressive tendencies and can be scary at times.
+
+--- Rating #2 ---
+Class: CMPT120
+Date: 2016-02-07 13:57:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+He is a very good preceptor, he explains the concepts clearly, and he has a nice sense of humor.
+
+--- Rating #3 ---
+Class: CMPT225
+Date: 2015-02-17 01:20:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great prof, One of the best
+
+--- Rating #4 ---
+Class: CPMT225
+Date: 2014-09-02 01:52:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Pros: He gives a lot of bonus marks. (e.g. For the midterm, the max grade a student could get was about 120%.). His marking scheme is also generous. Cons: Very unclear instructions especially on quizzes and the project. I had to make a guess what he expects. His exam instructions were clear, though. Overall: Not a bad prof for self-reliant learners
+
+--- Rating #5 ---
+Class: CMPT225
+Date: 2014-08-25 23:40:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+A bit disorganized, but passionate and very kind. He relied on the fact that students were supposed to read textbooks, but as long as I followed the readings, his explanations and assignments were very clear. Final exam ressembles much of what had been during the term.
+
+--- Rating #6 ---
+Class: CMPT225
+Date: 2014-08-12 20:22:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Terrible prof
+
+--- Rating #7 ---
+Class: CMPT225
+Date: 2014-08-10 13:30:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+This guy is awesome
+
+--- Rating #8 ---
+Class: CMPT225
+Date: 2014-08-04 15:10:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+really boring class, really boring lectures. he doesnt explain concepts and terms in a thorough way. Instead of defining concepts, he just gives very incomprehensive examples. really bothers me
+
+--- Rating #9 ---
+Class: CMPT225
+Date: 2014-06-27 23:44:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: N
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+no study guide, no review, tons of work needed to do. I was in his cmpt 120 class, he was nice before. Now he is really bad. Jerry, seriously..I would like you to be a little more helpful.
+
+--- Rating #10 ---
+Class: CMPT225
+Date: 2014-06-26 19:51:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I used to like computer science. Did terrible on midterm.  Even doing all the homework questions or understanding all the textbook examples did not help at all.
+
+--- Rating #11 ---
+Class: CMPT225
+Date: 2014-06-24 16:27:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+the method he is teaching is not helping at all! 3 hour class, he used 2 hour as open discussion, while only a few people know what to do. I wish I drop this course, ruined my entire summer
+
+--- Rating #12 ---
+Class: CMPT225
+Date: 2014-06-22 23:14:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+HORRIBLE PROFF. IN SIMON FRASER UNIVERSITY.HOMEWORK AND MIDTERM ON SAME DAY AND MIDTERMS ARE COMPUTER BASED(WRITE CODE IN CLASS). NOT TAKE CLASS WITH THIS PROFF.
+
+--- Rating #13 ---
+Class: CMPT225
+Date: 2014-06-22 15:07:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+had Ta covered half of the first term, The stuff he taught is simple, but ridiculous hard exam and hw. I really dont know anything! he can not teach
+
+--- Rating #14 ---
+Class: CMPT120
+Date: 2014-05-05 00:19:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+This guy is awesome!! I didn't think computer science was for me, and I struggled in the beginning - but he did tutorials and answers question, and I pulled through. I enjoyed his attempts (sometimes failed) to make the topic relatable: like showing use plagiarism detection program. Too many labs to submit though.
+
+--- Rating #15 ---
+Class: CMPT120
+Date: 2014-04-28 21:13:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I had no prior programming experience, but found the course very easy. The tests had questions very similar to the ones from class and from the homework; we were also allowed to bring crib sheets. There were plenty of opportunities to get bonus marks. There were also many optional tutorials for extra help.
+
+--- Rating #16 ---
+Class: CMPT120
+Date: 2014-04-24 20:03:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+This prof is really dynamic, and while his humour is terrible it made most classes almost fun. Lots of clicker questions were usaful to check that I got what was going on. Textbook use is abysmal - officially there is a study guide, but it does not follow the course. But I got as much help from the prof as I needed with office hours. Great guy!!
+
+--- Rating #17 ---
+Class: CMPT120
+Date: 2014-04-23 17:55:25 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Nice guy, exams were pretty fair, lectures were good enough, etc. Grading was very slow but that might be the TAs' fault.
+
+--- Rating #18 ---
+Class: CMPT120
+Date: 2014-04-15 16:37:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Jérémie is a good professor. His lectures are straightforward and provides his lecture notes after the class is done. I would have liked to see a textbook be used though to further understand the material, sometimes just the class examples aren't sufficient enough to do assignments and labs. Exams are fair. But overall, he's a decent prof!
+
+--- Rating #19 ---
+Class: CMPT120
+Date: 2014-04-14 23:34:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Jérémie is an excellent lecturer. Not only is he passionate about what he teaches, he actually knows how to teach! Not to mention that he has a very good sense of humour and was ALWAYS available for help at your request. Good Guy Lumbroso.
+
+--- Rating #20 ---
+Class: PHYS100
+Date: 2014-04-13 01:54:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Great sense of humour! Keeps the lectures interesting with his silly little jokes. Very helpful/accommodating towards the students as well. However, if you don't have any programming knowledge, you're going to get pretty confused in class.

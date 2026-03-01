@@ -1,0 +1,141 @@
+Professor: Elizabeth King
+Professor Legacy ID: 2901582
+Professor ID: VGVhY2hlci0yOTAxNTgy
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 3.3
+Avg Difficulty: 3.7
+Num Ratings: 10
+Would Take Again Percent: 60
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: HSCI212
+Date: 2025-04-14 07:50:25 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Tbh she's not that bad. I wish the instructions for the group project could be clearer tho. It was confusing. We finished the final exam 3 days ago (April 11) and it was difficult. Idk why someone said they got an A+ before the exam lol. According to the syllabus, the MT worths 25% and the final worths 35%.It's test heavy so yeah ik it's stressful.
+
+--- Rating #2 ---
+Class: HSCI212
+Date: 2025-04-11 01:21:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The exams were not 60% whoever mentioned that. Dr.King is a great professor because she's so passionate in her field that it's contagious! (Infectious disease pun). midterms, exams, and assignments were all fair and she provides study guides which basically have everything u need to study. She's a very caring professor and 100% recommend her.
+
+--- Rating #3 ---
+Class: HSCI212
+Date: 2025-03-20 17:52:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Francis is the rudest TA ever. Avoid him at all costs.
+
+--- Rating #4 ---
+Class: HSCI212
+Date: 2025-03-04 22:55:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. King is a great professor. She posts weekly study guides with questions on that week's lecture materials, as well as articles that dive deeper into the topics. The study guides are extremely crucial to complete. Don't skip them. They aren't for marks but they can be the difference between a pass and a fail.
+
+--- Rating #5 ---
+Class: HSCI212
+Date: 2025-02-20 06:24:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She never posted the answers of the study guide. Very awkward
+
+--- Rating #6 ---
+Class: HSCI212
+Date: 2025-02-19 10:39:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Get ready to memorize a lot&#8230;Lecture slides are extremely long and the exams worth 60% of the final grade. Very stressful
+
+--- Rating #7 ---
+Class: HSCI207
+Date: 2024-04-26 19:27:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+solid prof, her exams + assignments r really fair and shes not a bad lecturer, the course content is a bit boring sometimes but overall a really solid prof
+
+--- Rating #8 ---
+Class: HSCI207
+Date: 2024-04-18 21:13:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Elizabeth makes her lectures interesting but the content is naturally bland. The assignments are interesting, but there are weekly discussion posts or quizzes. Would recommend taking 207 with dr king!
+
+--- Rating #9 ---
+Class: HSCI207
+Date: 2023-05-04 20:57:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. King has been an amazing professor! She is clear on what she wants you to study in the exams and gives us a specific criteria on what to write in the essays. I would recommend to go to her class in-person and her tutorials because she does not post any lecture recordings and the tutorials gives you a better understanding of the content.
+
+--- Rating #10 ---
+Class: HSCI207
+Date: 2023-04-26 20:38:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. King was a great prof over the semester. Assignments are clear with examples and midterm and final were fair. Participation was not really "participation" when it came to the quizzes because you needed to get the answers right to get the "participation" marks.

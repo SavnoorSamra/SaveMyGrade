@@ -1,0 +1,154 @@
+Professor: Bruce Lanphear
+Professor Legacy ID: 2515695
+Professor ID: VGVhY2hlci0yNTE1Njk1
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 4.4
+Avg Difficulty: 3.2
+Num Ratings: 11
+Would Take Again Percent: 81.8182
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: HSCI408
+Date: 2024-04-26 21:33:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Bruce is a passionate professor. He enjoys talking about his research and family to incorporate to the concepts. The TA is amazing and provided helpful feedback. I find the lectures a bit long and the material is a lot to handle for one lecture. Each lecture is about 120 slides and sometimes he does not have time to finish the content
+
+--- Rating #2 ---
+Class: HSCI408
+Date: 2024-04-18 21:07:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Bruce is amazing and his lectures are interesting to listen to. Brings his own knowledge and research. An A is a 90 but easy if you complete all assignments and put in effort. 2 writing assignments and a midterm. Con: doesnt record lectures, but you dont even rlly have to go after the midterm. And hes funny. Highly recommend!
+
+--- Rating #3 ---
+Class: HSCI483
+Date: 2023-04-26 22:55:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Bruce is a legend and is highly respected in the field of environmental health. He is incredibly knowledgeable and passionate about the field, and his lectures show this. His lectures are great, and if you come looking to learn you'll have the opportunity to learn from one of the best!
+
+--- Rating #4 ---
+Class: HSCI408
+Date: 2022-09-25 00:21:30 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Mid. I was expecting more from the class given the course description and the ratings here! Heavily focused on historical diseases (I.E. measles, smallpox, etc.) as opposed to public health. Also, occasional questionable comments made in lectures. Not the worst, but not the best. Would not take again.
+
+--- Rating #5 ---
+Class: HSCI408
+Date: 2022-04-11 02:22:53 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prof is knowledgeable about the material and very approachable, but the course is basically a history of public health and his own research in lead. It's interesting stuff but fairly useless unless you want to do research on environmental pollutants. Emphasis on prevention over cure. Grading scheme is set up so that 93% is an A.
+
+--- Rating #6 ---
+Class: HSCI408
+Date: 2020-05-10 03:41:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Bruce is a great guy. You can tell he is passionate about what he teaches which makes a huge difference. He brings fresh perspectives to topics that you may have some previous knowledge of which means you will never be bored. You need to be in class if you want to get good grades, as his slides are mainly references/photos
+
+--- Rating #7 ---
+Class: HSCI408
+Date: 2020-05-05 17:53:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Bruce is the real life embodiment of a Hollywood professor. You know? The kind you see in the movies. His thought provoking lectures will leave you thinking about broader global health issues the rest of your week. If you are interested in the history of infectious disease, this is your class. Show up to lectures - you will not be disappointed!
+
+--- Rating #8 ---
+Class: HSCI408
+Date: 2019-11-21 22:50:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Just an all around inspiring prof. Super friendly and loves his students. Gives such good talks and really wants to share his experiences and why students should care about topics regarding our environment. Always open to help and super fair in his marking. One of the best profs in health science without question
+
+--- Rating #9 ---
+Class: HSCI408
+Date: 2019-11-17 22:27:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Over 5 years at SFU, no professor has influenced my life like Bruce. He is one of the most respected in the field of environmental toxicants, but also an amazing teacher. He makes class incredibly engaging and gives great feedback on all assignments. If you are in the faculty of HSCI or are just looking to take an elective, take this.
+
+--- Rating #10 ---
+Class: HSCI483
+Date: 2019-09-16 17:26:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Easily one of the best profs at SFU. Bruce cares SO much about his students, and fought for years to make 483 a week long course. Seems tough at first, but brings in SO much amazing speakers and shares so many personal experiences in a way that makes you understand WHY he does what he does. Not a hard marker and gives AMAZING feedback!
+
+--- Rating #11 ---
+Class: HSCI483
+Date: 2019-09-05 16:27:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Bruce is very passionate about his work, it is very inspiring. I found the lecture and the guest lecturers all engaging and he really encourages you to participate. I would definitely take a class with him again. This class was only 6 days in the summer with no exams!

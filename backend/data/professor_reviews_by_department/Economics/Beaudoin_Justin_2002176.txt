@@ -1,0 +1,24 @@
+Professor: Justin Beaudoin
+Professor Legacy ID: 2002176
+Professor ID: VGVhY2hlci0yMDAyMTc2
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: ECON362
+Date: 2015-04-17 11:24:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Justin is an amazing professor.  His notes are clear and understandable and include graphs to illustrate each topic.  His lecture style is great because he takes the time to explain each section of natural resource economics REALLY WELL.  Too bad this was a temporary teaching assignment and Justin is leaving SFU.  He's awesome.

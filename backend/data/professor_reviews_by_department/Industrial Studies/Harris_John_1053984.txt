@@ -1,0 +1,37 @@
+Professor: John Harris
+Professor Legacy ID: 1053984
+Professor ID: VGVhY2hlci0xMDUzOTg0
+Department (CSV): Industrial Studies
+Department (Fetched): Industrial Studies
+Avg Rating: 3.5
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: IS319
+Date: 2021-09-30 08:05:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I didn't finish my class with him but he was one of the most engaging professors I ever had. He is passionate and committed to the study of India. He is respectful of the subject matter and others views on material. Hopefully, he comes back to teach.
+
+--- Rating #2 ---
+Class: IS800
+Date: 2011-05-03 16:48:28 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Harriss is the living, breathing stereotype of a pompous British academic. He's incredibly passive aggressive and has been known to send rude and unprovoked inappropriate emails to the entire MA cohort. Quality of instruction was pitiful, he is only interested in his students regurgitating his own point of view. Generally a childish jerk all round.

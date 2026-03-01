@@ -1,0 +1,282 @@
+Professor: Ash Parameswaran
+Professor Legacy ID: 58118
+Professor ID: VGVhY2hlci01ODExOA==
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 4.1
+Avg Difficulty: 2.8
+Num Ratings: 100
+Would Take Again Percent: 53.5714
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENSC120
+Date: 2025-11-22 00:57:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+goated prof
+
+--- Rating #2 ---
+Class: ENSC220
+Date: 2025-02-17 11:56:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Ash runs an engaging class, though tests can be challenging. Using unstuck AI and practicing past questions helped me stay on top of the material. Overall, a worthwhile course if you're willing to put in the work.
+
+--- Rating #3 ---
+Class: ENSC220
+Date: 2024-12-13 09:53:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Fun and caring professor. He tries his best to ensure students understand the fundamental concepts and the practical topics which will be useful for future courses. Exams are difficult but fair, and lab tests are very straightforward.
+
+--- Rating #4 ---
+Class: ENSC225
+Date: 2024-12-04 19:32:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ash is great, I'm really grateful to have him here at SFU. If you put effort in his class, you will get a good grade. Exams are marked strictly.
+
+--- Rating #5 ---
+Class: ENSC225
+Date: 2024-09-06 23:22:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+How does Ash have a 4.1 on this site??? He is a terrible prof and doesn't prepare you at all for exams.
+
+--- Rating #6 ---
+Class: ENSC225
+Date: 2024-08-23 00:47:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures are generally pretty useless and the notes are just a mess. The notes only got better once he used another profs notes. Exams are significantly more difficult than any practice or homework he assigns. Prepare to learn everything yourself through the textbook or videos. Watch Razavi Electronics to actually get the concepts.
+
+--- Rating #7 ---
+Class: ENSC225
+Date: 2024-08-21 22:20:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Rating him because he doesnt deserve such a high score on this site. Lecture pointless and did not prepare you for the tests
+
+--- Rating #8 ---
+Class: ENSC225
+Date: 2024-08-17 09:13:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Class attendance was so low for this course I wonder why....
+
+--- Rating #9 ---
+Class: ENSC220
+Date: 2024-07-27 22:14:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures are helpful and entertaining, you feel he is one of your friends. Expectations are pretty clear, lab tests are hard to fail as long as you practice before hand. Exams are challenging but not if you practice a lot and can do all of the practice and lecture questions. Ash does his best to make the class fun and for you not to fail
+
+--- Rating #10 ---
+Class: ENSC220
+Date: 2024-01-05 10:18:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ash is a nice guy but pretty useless lectures and will scale the grades to his liking at the end of the term.
+
+--- Rating #11 ---
+Class: ENSC220
+Date: 2023-12-16 20:19:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Scaled the grades so much, but no one understand anything with a 45% final average...
+
+--- Rating #12 ---
+Class: ENSC220
+Date: 2023-12-10 00:25:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ash could be an amazing professor if he didn't have the tendency to get defensive when students are asking him questions. Students ask questions because they want to understand the material, not because they are doubting his knowledge of the material.
+
+--- Rating #13 ---
+Class: ENSC854
+Date: 2023-11-22 04:32:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The best professor in SFU Engineering. He is detail oriented and gives very good feedback. He supports your thought process through puzzles and gives encouragement. :)
+
+S
+
+--- Rating #14 ---
+Class: ENSC220
+Date: 2023-08-09 17:09:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures are fun and engaging, tests are tough but fair.
+
+--- Rating #15 ---
+Class: ENSC220
+Date: 2022-12-07 22:36:45 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ash uses the most awful marking scheme and then scales the class by an enormous amount. Not sure why he does this and is really unnecessary.
+
+--- Rating #16 ---
+Class: ENSC220
+Date: 2022-11-11 08:59:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ash made me realize that I am not fit to be an electronics engineer. Truly the GOAT of the Engineering Science department.
+
+--- Rating #17 ---
+Class: ENSC220
+Date: 2022-10-10 22:50:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Doesn't explain the lecture content clearly
+
+--- Rating #18 ---
+Class: ENSC220
+Date: 2022-05-09 20:40:34 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Pros
+-prepared and can answer any question you have about the material
+-passionate
+-funny
+-good explainer
+
+Cons
+-No excuses in his class, don't miss any labs/quizzes/pretty much anything because he won't care for what causes the absence (ie covid, losses, etc)
+-Loses patience very easily
+-Has a knack for making you feel bad about yourself
+
+--- Rating #19 ---
+Class: ENSC324
+Date: 2022-01-01 03:50:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Has a good understanding of the subject and is able to deliver that knowledge in an interesting and engaging way. He is a good professor for any class that he teaches, and if you compare him to the rest of the faculty he's a saint. Exams are rough but the subject matter is rough as well since most people aren't cut out to be chemical physicists.
+
+--- Rating #20 ---
+Class: ENSC220
+Date: 2021-12-16 06:39:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Ash is the G O A T. Awesome guy who is always willing to help you out and great lecturer. He's easily approachable and super funny!

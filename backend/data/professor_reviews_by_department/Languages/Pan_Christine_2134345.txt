@@ -1,0 +1,37 @@
+Professor: Christine Pan
+Professor Legacy ID: 2134345
+Professor ID: VGVhY2hlci0yMTM0MzQ1
+Department (CSV): Languages
+Department (Fetched): Languages
+Avg Rating: 1.5
+Avg Difficulty: 4
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: JAPN100
+Date: 2019-06-14 17:29:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The in-class quizzes were very easy, but she did not prepare us properly for the final exam at all. Her classroom also felt very hostile, no one was willing to practice with each other which is unlike most language classes. Instead of helping students who were struggling to read out loud, she would tell them to hurry up.
+
+--- Rating #2 ---
+Class: JAPN100
+Date: 2016-04-26 19:50:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Super confusing - I knew some of the material beforehand but she made me MORE confused than before! She also makes a lot of mistakes when explaining. You have to memorize vocab pretty fast, but only need to know how to read kanji from that lesson's section in the back of the textbook.

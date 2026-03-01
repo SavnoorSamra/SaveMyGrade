@@ -1,0 +1,63 @@
+Professor: Chris Shaw
+Professor Legacy ID: 3065989
+Professor ID: VGVhY2hlci0zMDY1OTg5
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1
+Avg Difficulty: 4.3
+Num Ratings: 4
+Would Take Again Percent: 0
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: IAT167
+Date: 2025-09-16 00:11:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He hates people who care about the course or want to do good in it. Don't ask questions, don't send emails, don't be inquisitive. He just wants to monologue and get out. I don't even know why he has a teaching job.
+
+--- Rating #2 ---
+Class: IAT167
+Date: 2025-01-21 20:13:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Added a midterm abruptly without consulting with the class and undergraduate committee, which resulted in a formal complaint from dozens of students. Was not help at all within or outside of class and absolutely never responded to any emails. Chris was also very condescending to students who asked questions during lecture.
+
+--- Rating #3 ---
+Class: IAT167
+Date: 2024-12-25 15:49:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took IAT 167 during the Fall 2024 semester, and I felt there was a significant lack of communication and support from Professor Shaw. Despite reaching out multiple times for assistance, I did not receive any responses throughout the semester. This made it difficult to clarify concepts or address issues related to the coursework.
+
+--- Rating #4 ---
+Class: IAT167
+Date: 2024-12-25 14:39:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Never respond to a single email I sent him! Never tried to help students during semester I only got help from TAs.

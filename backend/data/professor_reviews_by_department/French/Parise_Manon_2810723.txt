@@ -1,0 +1,24 @@
+Professor: Manon Parise
+Professor Legacy ID: 2810723
+Professor ID: VGVhY2hlci0yODEwNzIz
+Department (CSV): French
+Department (Fetched): French
+Avg Rating: 1
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: FREN
+Date: 2023-04-22 04:45:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is a really nice and caring person, but is EXTREMELY picky about her marking. It almost feels as if she's just looking at what she can deduct marks from (and some of her justifications for those deductions are weak at best). She expects a level of dedication to her class that is just not proportional to the subject. Waste of my time.

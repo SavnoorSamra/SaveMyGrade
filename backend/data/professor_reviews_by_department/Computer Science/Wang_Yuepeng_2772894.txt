@@ -1,0 +1,118 @@
+Professor: Yuepeng Wang
+Professor Legacy ID: 2772894
+Professor ID: VGVhY2hlci0yNzcyODk0
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.3
+Avg Difficulty: 3
+Num Ratings: 8
+Would Take Again Percent: 87.5
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: CMPT383
+Date: 2025-04-20 18:09:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Really good professor and he knows his stuff really well. The class homework and assignemnts are not hard. The final was very fair and you can do well if you can understand the homework. The midterm was a little challenging. The course is very interesting and Professor Wang is really good. Highly recommend.
+
+--- Rating #2 ---
+Class: CMPT383
+Date: 2025-03-27 01:33:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Haskell changed my life. 
+Before: miserable, sad, depressed. After: enlightenment, free from the cycles of suffering.
+He (in my opinion) has a very deep understanding of functional programming/Haskell and really cares about communicating abstract topics in ways that are easier to understand.
+Who wouldda thought that abstract topics are abstract.
+
+--- Rating #3 ---
+Class: CMPT777
+Date: 2024-12-13 03:12:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prof. Wang's lectures are a bit dry and abstract. It is hard to understand everything in the lecture, but the homework helps with understanding. Homework and midterm are reasonably challenging, and the final projects are graded very generously. The course is interesting and provides a very important foundation for advanced software engineering.
+
+--- Rating #4 ---
+Class: CMPT383
+Date: 2024-04-18 15:40:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Wang is a very good professor. He understands the course material and he can explain it clearly. He is very willing to help if you have questions on your assignments. You should expect a relatively heavy workload in this course. The material is kind of abstract. Don't take it if you don't have a solid background.
+
+--- Rating #5 ---
+Class: CMPT383
+Date: 2022-12-21 22:12:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Informative notes. Timely responses. Always ready to provide feedbacks and help people. Great professor that you don't want to miss at SFU!
+
+--- Rating #6 ---
+Class: CMPT383
+Date: 2022-04-14 10:53:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This is a challenging course with tons of assignments and hard quizzes, but if you survive you will get a lot out of it. Unlike the other sessions (which are basically functional programming bootcamps), Professor Wang diverts to covering abstract topics in the latter half of the course, such as Semantics Verification. Overall, great experience!
+
+--- Rating #7 ---
+Class: CMPT383
+Date: 2022-04-14 04:04:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Unlike previous 383 classes, this class with Yuepeng is purely Haskell. The lectures are very abstract and hard to follow, there is weekly homework, as well as extremely difficult programming assignments. Quizzes were very unreasonable, both had a failing average. Overall, Yuepeng is nice and is trying to improve. He takes class feedback seriously
+
+--- Rating #8 ---
+Class: CMPT383
+Date: 2022-02-11 04:23:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Haskell only. Very reasonable individual assignments that only require concepts from the slides/lectures. Lots of homework assignments, but each one can be finished quickly. Can skip class and just read slides for all information. Does not answer Piazza questions well.

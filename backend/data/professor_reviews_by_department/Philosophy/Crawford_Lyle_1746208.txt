@@ -1,0 +1,275 @@
+Professor: Lyle Crawford
+Professor Legacy ID: 1746208
+Professor ID: VGVhY2hlci0xNzQ2MjA4
+Department (CSV): Philosophy
+Department (Fetched): Philosophy
+Avg Rating: 3.6
+Avg Difficulty: 3.3
+Num Ratings: 161
+Would Take Again Percent: 61.2903
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PHIL100
+Date: 2025-12-23 19:08:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Not a good teacher.
+
+--- Rating #2 ---
+Class: PHIL105
+Date: 2025-07-31 23:37:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lyle felt no sympathy during a difficult time, refusing to give an exam extension. As a disabled student trying to attend law school, this was extremely difficult. An otherwise straight-A semester was ruined. I had to jump through many extra hoops to make my dream happen. Someone should refuse him a small kindness that costs him 100x more pain.
+
+--- Rating #3 ---
+Class: PHIL105
+Date: 2025-06-26 19:46:56 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Him and Dr. Calico could be twins, he tried really hard even though the material is dry as toast. The project was confusing.
+
+--- Rating #4 ---
+Class: PHIL105
+Date: 2025-06-19 11:12:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Grading is super subjective. TA is the worst, nitpicking kind
+
+--- Rating #5 ---
+Class: PHIL105
+Date: 2025-05-28 22:19:15 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took Phil 105 for a Q credit and would recommend it to others who are looking for a low stakes Q class.  Lyle's lectures do tend to drag on, but the only thing you need to do to succeed is review the course manual (and do ALL the practice questions bc they are the same on the tests) before exams and you will do fine!
+
+--- Rating #6 ---
+Class: PHIL105
+Date: 2025-04-22 22:29:16 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Attendance isn't mandatory but you get marks if you're in the lecture and do the iClickers. Lyle takes something that can be easily explained and explains it in a way that in the end makes the whole chapter extremely difficult. The class notes "clear" imo and just confuses me even more. Literally, a YouTube explains it 10 times better than Lyle.
+
+--- Rating #7 ---
+Class: PHIL300
+Date: 2025-04-16 00:21:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This class is extremely confusing, Attendance was not mandatory but there was participation marks. More than half the class did not show at all for the entire semester but somehow got a higher mark than someone who showed up to 3/4 of the lectures. There were no clear guidelines on how the exams were graded and was very subjective.
+
+--- Rating #8 ---
+Class: PHIL105
+Date: 2025-04-10 21:25:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+-As long as you read and understand the textbook, its pretty easy
+-The final exam was kinda tough
+
+-w teacher
+-engaging class
+
+--- Rating #9 ---
+Class: PHIL105
+Date: 2025-03-17 15:58:23 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+This was a good professor but sometimes a bit hard to understand during lectures. Course followed a course manual that was a bit difficult to understand but had all the information you needed to succeed in the course. Easy to succeed if you do the practice in the manual as it is exactly what is on the exams
+
+--- Rating #10 ---
+Class: PHIL105
+Date: 2025-02-21 19:21:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He was honestly a great prof, even though I struggle with English and social subjects, it was pretty fun, interesting, and easy to learn. There are Iclicker quizzes during lectures, but only 7% of grade. Every business student that needs an English/Phil class for requirement, this is great and highly recommended, best class by far.
+
+--- Rating #11 ---
+Class: PHIL105
+Date: 2025-01-22 06:07:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+The material interested me, including the textbook. But when 120 min feels like an eternity, something is wrong! The lecture slides felt incomplete and dry. I love philosophy, but not enough to sit through these lectures.
+
+--- Rating #12 ---
+Class: PHIL105
+Date: 2025-01-21 07:59:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+By far the worst Phil prof I have had at SFU. The lectures are disorganized and confusing and his condescending responses are totally uncalled for. I could have studied until the cows came home and it wouldn't have made a difference. Extremely hard material with terrible lectures and an impossible hard midterm. GPA killer.
+
+--- Rating #13 ---
+Class: PHIL300
+Date: 2025-01-19 13:32:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Awful teacher and TA. The lectures and readings were inaccessible. Some students really struggled. When the TA handed papers back, one person got an F. He joked that some students are incapable of 'doing philosophy', but need to fail miserably to find out.
+
+--- Rating #14 ---
+Class: PHIL105
+Date: 2025-01-09 06:15:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lyle is an overall great guy who is both a great person and great teacher. His lectures are interesting and engaging making it very easy to follow and learn the content. Exams are very fair and are formatted identical to the practice exams that are provided.
+
+--- Rating #15 ---
+Class: PHIL105
+Date: 2025-01-08 14:51:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lyle is completely full of himself. He's unapproachable and dismissive, acting like he's above answering student questions. He seems more interested in showing off how much he knows than actually teaching. The TA is just as bad, clueless about the material and totally unhelpful. Save yourself and avoid this class.
+
+--- Rating #16 ---
+Class: PHIL105
+Date: 2025-01-08 03:46:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+contrary to popular opinions, i actually thought this was one of the most straightforward classes ive ever taken. the second half of the sem was harder than the first (only because math was introduced and i suck at math), but my grade was an 100 before the final. slides arent posted because its completely unnecessary (course manual explains all)
+
+--- Rating #17 ---
+Class: PHIL110
+Date: 2025-01-02 11:45:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Probably the least approachable professor I've had at SFU. The TA is even worse, doesn't understand the material well and cannot answer questions. Do not make the mistake of taking this class
+
+--- Rating #18 ---
+Class: PHIL300
+Date: 2024-12-31 20:09:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I highly recommend this class! The lectures are really engaging and the focus is on thinking philosophically about contemporary issues, not learning about specific philosophers. The teacher makes the material extremely accessible and the readings are also easy to read through. This is a great elective if you need an upper division course.
+
+--- Rating #19 ---
+Class: PHIL300
+Date: 2024-12-28 16:25:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The lectures were some of the best I have had at SFU. Very engaging, and you can tell that Lyle wants to be there and cares about the subject. Attendance isn't marked, but you kind of need the in-class content. Slightly tough grader, but worth it. Take this class!
+
+--- Rating #20 ---
+Class: PHIL105
+Date: 2024-12-28 01:34:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Prof Lyle's philosophy class is a challenging but rewarding experience. His lectures can be tricky to follow, but his custom course manual with practice exams is super helpful. Unstuck AI and regular study sessions made a big difference for me.

@@ -1,0 +1,37 @@
+Professor: Anna Lund
+Professor Legacy ID: 1712412
+Professor ID: VGVhY2hlci0xNzEyNDEy
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 3.8
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: CRIM135
+Date: 2012-09-14 16:26:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Easy class, straight forward.  Assignments super straight forward and short.  Tests were verbatim from her notes and outlines.  Easy A without opening textbook
+
+--- Rating #2 ---
+Class: CRIM135
+Date: 2012-04-20 01:49:26 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Seemed like a new interim professor, no power point slides, just had outlines. Exams are quite difficult have to know material inside and out. And once again, NO POWERPOINTS, first time in three years a lecture did not have a power point. That's a first so if you're a visual learner like me, well tough luck.

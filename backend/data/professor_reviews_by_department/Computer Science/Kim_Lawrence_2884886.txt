@@ -1,0 +1,63 @@
+Professor: Lawrence Kim
+Professor Legacy ID: 2884886
+Professor ID: VGVhY2hlci0yODg0ODg2
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3
+Avg Difficulty: 3
+Num Ratings: 4
+Would Take Again Percent: 50
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: CMPT363
+Date: 2024-10-22 08:19:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Solid choice for CMPT 363. Assignments and tests as well as their markings was fair for the course content.
+
+--- Rating #2 ---
+Class: CMPT363
+Date: 2024-08-18 12:18:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the better professors at SFU. Lectures were a bit boring at times but were usually engaging. Assignments were good and fair. Exams were fair. No major complaints, you can do a lot worse.
+
+--- Rating #3 ---
+Class: CMPT363
+Date: 2023-04-28 01:49:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Needlessly over-complicated course materials with no bearing on practical interface design, marks get docked randomly for things not on the rubric, and going to lectures is completely useless as they cover nothing that isn't just on the slides. Easy enough in hindsight, but needlessly stressful, arbitrary, useless, and (worst of all) boring.
+
+--- Rating #4 ---
+Class: CMPT363
+Date: 2023-03-02 00:28:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+very boring, can't even complete a sentence without stuttering, really really specific with his grading and takes away marks for tiny mistakes, doesn't have interest in his own content, and did i say very boring? but he's a really nice guy

@@ -1,0 +1,271 @@
+Professor: Owen Thomas
+Professor Legacy ID: 369291
+Professor ID: VGVhY2hlci0zNjkyOTE=
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 3.7
+Avg Difficulty: 3
+Num Ratings: 74
+Would Take Again Percent: 53.3333
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PSYC109
+Date: 2024-08-18 22:22:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His lecture notes do not have much information; therefore, you must attend class to listen. He cares about students and is ready to give advice on studying. To get a good grade, just follow what he says during the lecture, take notes, and if you don't understand, ask him. He's always ready to explain it again until you get it.
+
+--- Rating #2 ---
+Class: PSY109W
+Date: 2024-08-01 16:22:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He gives good feedback, makes everything clear and easy.
+
+--- Rating #3 ---
+Class: PSYC201
+Date: 2021-08-03 22:37:35 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+The lectures get really difficult towards the end and he has set the final exam and the project on the same day Im probably going to have to cry myself to finish the work. Thats 70% of the grade all in the same day. He also never shows you any of the exams so you dont know where you went wrong Take this class at sfu He is nice tho
+
+--- Rating #4 ---
+Class: PSYC201
+Date: 2021-07-15 07:50:10 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Not a great option to take his class. He never goes into detail about what he wants from students; just really vague instructions. Also, only like 10% of the class can get an A so most of us aware pretty much screwed.
+
+--- Rating #5 ---
+Class: PSYC201
+Date: 2021-07-02 11:17:15 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+He's quite sensitive and he gets very irritated when a student tries to ask him a question. He rambles so much in classes. His 2 hour classes can easily be condensed into 40 minutes. He can never stay focused on one topic. He constantly jumps around. He is a nice guy and it is very easy to talk to him but he's really flighty and unfocused.
+
+--- Rating #6 ---
+Class: PSYC201
+Date: 2020-09-13 06:00:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Owen is always being happy and patient to help students to succeed. He gives much effective advice for the research project and helpful feedback, which helps a lot for the psychology career
+
+--- Rating #7 ---
+Class: PSYC201
+Date: 2020-08-10 05:52:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Especially bad teacher, work efficiency is very low, paper must always ask him to tell you the problem, only say one at a time, the next time ask him to tell you the next problem. The material in class is not very useful for the exam, if you want to pass it, you can only read books. A lazy teacher.
+
+--- Rating #8 ---
+Class: PSYC109W
+Date: 2019-11-24 03:18:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+This prof is pretty rude and doesnt respect student. His attitude makes students unconfortable and even highly depressed. Never take class with him.
+
+--- Rating #9 ---
+Class: PSY109W
+Date: 2019-11-24 03:18:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is too sensitive and not open minded.
+
+--- Rating #10 ---
+Class: PSY109W
+Date: 2019-09-02 20:00:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I love his voice, really soft and help you remember material immediately. Maybe because he teaches psychology, he knows how to help students study with minimum effort but gain great result. The way he teaches helps students not to feel stressful at all. You can meet him at office hour and ask for his advice to arrange schedule and reduce stress
+
+--- Rating #11 ---
+Class: PSYC109W
+Date: 2019-04-03 07:00:00 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Don;t take this course bro..
+
+--- Rating #12 ---
+Class: PSYCH109W
+Date: 2018-10-24 00:04:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I took two of his courses. If you do your work regularly you will get good grades
+
+--- Rating #13 ---
+Class: PAYC109
+Date: 2017-07-19 13:37:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Owen tells you exactly what he wants from you, so don't even go beyond that. Just follow what he asks you and you will get a good mark easily.  Most of the info he tells you in class and lectures are super interesting , so don't skip lectures.
+
+--- Rating #14 ---
+Class: PSY109W
+Date: 2016-11-26 03:26:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+His voice is kinda monotonous but you may be interested in the course material, which is fascinating. Ask Owen on how to write a clear essay and he will help you. Be sure to listen to his lecture
+
+--- Rating #15 ---
+Class: PSYC109
+Date: 2016-09-04 20:19:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is an attractive gentleman with high lecturing skills. His slides might be tough tho. He is friendly yo every single student(although he wont remember who u are lol). During the presentation he shows patient to every group, even though their presentation is boring and out of topic.
+
+--- Rating #16 ---
+Class: PSYC109
+Date: 2015-08-21 16:44:15 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very explicit in teaching. Bravo to him!!!
+
+--- Rating #17 ---
+Class: 109W
+Date: 2015-08-17 16:25:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Do not waste your time here - this prof is someone who has been teaching the same material for so long that if you do not give him exactly what he expects to receive you will not do well. Seems to hone in on one or two students and seems to favour their attention and engages them throughout the class. I say pass and find a different prof.
+
+--- Rating #18 ---
+Class: PSYC109
+Date: 2015-07-08 04:24:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+The lectures are very important for you to pass the course. Anytime if you have questions on your paper, go and ask him, it's the best way to solve your problem!
+
+--- Rating #19 ---
+Class: PSYCH109W
+Date: 2015-04-04 19:24:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+If you are the type of student who comes late to class, isn't willing to go an extra mile for the essay and doesn't do weekly homework(or submits it late), then this class isn't for you! But if you can manage all the above, surely you can get a good grade.
+
+--- Rating #20 ---
+Class: PSYC201
+Date: 2015-04-04 03:47:11 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+He cracks some jokes about football and hates when you're late, so try not to do that. Overall not bad. The biggest part of this course is the research project worth 40%, and the worst part about it is there are lots of stipulations - you can't pick any experiment you want. Kind of limiting. Lectures are pretty chill, though. Read the textbook.

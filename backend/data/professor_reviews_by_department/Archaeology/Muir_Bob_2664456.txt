@@ -1,0 +1,102 @@
+Professor: Bob Muir
+Professor Legacy ID: 2664456
+Professor ID: VGVhY2hlci0yNjY0NDU2
+Department (CSV): Archaeology
+Department (Fetched): Archaeology
+Avg Rating: 3.9
+Avg Difficulty: 2.9
+Num Ratings: 7
+Would Take Again Percent: 85.7143
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: ARCH100
+Date: 2025-04-19 07:18:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+not a great guy. very unresponsive and unwilling to listen
+
+--- Rating #2 ---
+Class: ARCH282
+Date: 2025-04-09 18:30:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+he gives you the answers to his midterms in a canvas announcement the week before exams and midterms, they are labelled as "last year's exams." They're 99% recycled USE THE INFO and also do the readings. he LOVES details. very easy grader, not hard to get an A
+
+--- Rating #3 ---
+Class: ARCH100
+Date: 2025-01-03 19:56:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Super nice guy and great GPA booster. He randomly marked the last assignment super hard and kinda just assumed everybody was cheating which was a little unfair.
+
+--- Rating #4 ---
+Class: ARCH100
+Date: 2025-01-03 03:13:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Class was amazing, took the class online this semester and Bob was always replying to emails instantly, I will say if you want to get an A you must study and prep hard before his quizzes. The content itself isn't hard however there's a lot per lecture and the lectures can be super boring at times.Bob overall was a nice guy who wanted you to succeed
+
+--- Rating #5 ---
+Class: ARCH100
+Date: 2023-04-17 19:37:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Make use of office hours to get recommendations and feedback as it can be quite helpful. All in all, Mr. Muir is a great prof who is an expert in the field of Archaeology and loves teaching it. Arch100 is a basic course so it shouldn't be a problem.
+
+--- Rating #6 ---
+Class: ARCH282
+Date: 2022-01-11 01:56:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I took 271 &amp; 282 with Bob. He has a mean face and his tone may come off as condescending at times. However, he is actually nice and really helpful when you reach out to him. Important thing to know is that unless you are going above and beyond, you are not getting anything past a B+. Meeting all the criteria does not ensure an A in his class.
+
+--- Rating #7 ---
+Class: ARCH201
+Date: 2021-01-13 23:43:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+My absolute favourite class and professor from the semester. Lectures were engaging and often quite entertaining, and complimented the textbook very well; little repetition, but one was necessary to understand the other. Assignments were very clear and feedback was excellent, especially in Canvas discussions to help us plan our final paper.

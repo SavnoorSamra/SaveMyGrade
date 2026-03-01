@@ -1,0 +1,76 @@
+Professor: Owen Ware
+Professor Legacy ID: 2244570
+Professor ID: VGVhY2hlci0yMjQ0NTcw
+Department (CSV): Philosophy
+Department (Fetched): Philosophy
+Avg Rating: 4.8
+Avg Difficulty: 2.4
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: PHIL120W
+Date: 2017-09-05 21:19:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Owen definitely cared a lot about his students and he really put effort into his lectures to make them more enjoyable. He chose to do Aristotle and Plato philosophy. If you don't read some of the books you probably won't do well on the essays. His tests were easy and definitely go to tutorials it really helped with the understanding of material.
+
+--- Rating #2 ---
+Class: PHIL120
+Date: 2017-04-25 18:10:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I loved this class! I've never taken Philosophy before and he made it very interesting. It wasn't hard either, you'll do well if you show up and listen in lecture! Owen is a great, enthusiastic professor.
+
+--- Rating #3 ---
+Class: PHIL120
+Date: 2017-04-15 23:22:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great Prof! Highly reccomend. Actually cares about his students, and makes material interesting.
+
+--- Rating #4 ---
+Class: PHIL120
+Date: 2017-04-10 04:36:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Easy course, can watch all of his lectures online. 2 papers and 2 quizzes all based on his lectures, super easy!
+
+--- Rating #5 ---
+Class: PHIL358
+Date: 2017-04-08 19:31:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I would highly recommend taking Owen Ware's class. He is an exceptional professor and incredibly kind to his students. He has a way of making his lectures captivating and hilarious at the same time.

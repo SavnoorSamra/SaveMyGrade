@@ -1,0 +1,271 @@
+Professor: Zamir Punja
+Professor Legacy ID: 12328
+Professor ID: VGVhY2hlci0xMjMyOA==
+Department (CSV): Science
+Department (Fetched): Science
+Avg Rating: 4.5
+Avg Difficulty: 2.6
+Num Ratings: 146
+Would Take Again Percent: 97.0588
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BISC101
+Date: 2026-01-22 18:53:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very fun lectures.
+
+--- Rating #2 ---
+Class: BISC328
+Date: 2024-12-29 09:45:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+memorize the names of the species and know what they are involved in. He is very transparent on what will be included in the exams. The final took an hour and half max which was very kind of the prof. The lab had stations you rotate between then lab work outside of class which are bigger assignments that you submit . lab matters a lot so do well
+
+--- Rating #3 ---
+Class: BISC328
+Date: 2024-12-29 09:38:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+for labs just be super creative with the projects and how they look and what you include to do good. Exams ask very small things and theres very little content taught in the course. different from other bio courses. gives lots of exam hints. easy class if you memorize small facts and can explain broad concepts. For labs just go all out and be extra
+
+--- Rating #4 ---
+Class: BISC328
+Date: 2024-12-11 06:29:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Punja gave really engaging and approachable lectures. He is friendly and funny, and goes through concepts in a slow and clear (but not boring) way. You can tell he really wants students to get a good idea of the material and gain a broad appreciation for fungi. Exams were memorization-based but pretty reasonable. Great lecturer and fun course.
+
+--- Rating #5 ---
+Class: BISC101
+Date: 2024-11-16 01:46:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Zamir is a fun and passionate prof who makes biology engaging with his raps and jokes. While the exams focus on memorization, using resources like Unstuckstudy alongside the textbook can help you ace this class.
+
+--- Rating #6 ---
+Class: BISC101
+Date: 2024-10-25 17:41:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Awesome teacher who is clearly passionate. Really funny and generous, overall my favourite teacher I've had here. Definitely memorization heavy for tests but they're still fair.
+
+--- Rating #7 ---
+Class: BISC101
+Date: 2024-05-04 21:53:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+was really nice
+
+--- Rating #8 ---
+Class: BISC101
+Date: 2024-04-25 19:35:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is a great prof! He explains the material in a clear and concise manner, and never fails to make and us laugh with his poems and rap. He tests fair, but memorize all the content that is in his slides as his exams are more memorization than applications of specific processes. Overall if you have to take any biology class, take one with him!
+
+--- Rating #9 ---
+Class: BISC101
+Date: 2024-04-18 06:37:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+A really passionate professor who seems to really care about his students. The lecture are entertaining and you get useful practice questions every week. His exams though aren't great. They contain questions that are unrelated to the field of bio and are rather for example what he said is a good study tip. He looks for very specific keywords to.
+
+--- Rating #10 ---
+Class: BISC101
+Date: 2024-04-14 19:55:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very good prof. Attend lectures do his practice and you will be fine. Great lectures and prioritizes understanding
+
+--- Rating #11 ---
+Class: BISC101
+Date: 2024-04-13 20:19:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Super fun and passionate professor. He makes an obvious effort to engage students and has colourful engaging lecture slides. Definitely get ready to memorize for the tests!
+
+--- Rating #12 ---
+Class: BISC101
+Date: 2023-10-27 19:46:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Great rapper!
+
+--- Rating #13 ---
+Class: BISC101
+Date: 2023-06-19 05:31:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+funny guy, boring lectures but he did a rap for us at the end of the sem
+
+--- Rating #14 ---
+Class: BISC101
+Date: 2023-06-02 04:53:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His slides are full of pictures and very colourful. They are some of the best slides to look at. He also had some entertainment going on at the end of the semester to wish me good luck on my exam. Arf-arf.
+
+--- Rating #15 ---
+Class: BIO101
+Date: 2023-04-16 07:00:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Funny prof. His exam questions are not bad
+
+--- Rating #16 ---
+Class: BISC101
+Date: 2023-04-12 22:26:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He clearly knows his stuff, he cares a lot about his students, and his lectures are really engaging. THE END OF SEMESTER RAP WAS AMAZING!!! He is an awesome teacher!
+
+--- Rating #17 ---
+Class: BISC101
+Date: 2023-04-06 18:11:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The GOAT
+
+--- Rating #18 ---
+Class: BISC101
+Date: 2023-03-28 18:04:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Absolute beauty. One of the few profs actually good at his job. 11/10 recommend.
+
+--- Rating #19 ---
+Class: BISC326
+Date: 2022-12-09 21:02:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Really good prof! Engaging lectures, loved his poems and he played a song for us. Sometimes I found the slides to be disorganized since some topics overlap across lectures so it wasn't clear but I liked how there was less text and lots of pictures. The final was a lot of memorization, including small details so study lots.
+
+--- Rating #20 ---
+Class: BISC326
+Date: 2022-12-06 06:18:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I have no idea who gave him a 5 star difficulty, because man was this the easiest class I have ever taken. He is such a genuine and funny dude and SO passionate about fungi. Read poems he wrote in class. Really knows his stuff.

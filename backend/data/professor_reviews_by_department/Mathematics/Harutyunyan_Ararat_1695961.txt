@@ -1,0 +1,50 @@
+Professor: Ararat Harutyunyan
+Professor Legacy ID: 1695961
+Professor ID: VGVhY2hlci0xNjk1OTYx
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.8
+Avg Difficulty: 3.7
+Num Ratings: 3
+Would Take Again Percent: -1
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: MACM201
+Date: 2012-08-18 22:23:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Be prepared to transcribe very lengthy, typed slides at high speed each lecture, or you'll miss something.
+
+--- Rating #2 ---
+Class: MATH150
+Date: 2012-08-10 01:07:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I'm not a calculus person. But he is great. Very clear, and if you go to lectures you will see he is very clear and caring. Take it with him. Midterms are easy, final is a bit tricky, but all the questions are from textbook. He doesn't try to trick you.
+
+--- Rating #3 ---
+Class: MACM201
+Date: 2012-04-18 16:56:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+generally nice guy. exams are alright. however very harsh on giving out grades. A great portion of students failed(including me). lectures are extremely boring. Do not take his class unless you are a math person. he would spend whole lectures just proving theorems and then expect u to reproduce those long proofs on exam. very painful course!

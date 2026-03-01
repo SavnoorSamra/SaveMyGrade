@@ -1,0 +1,37 @@
+Professor: Beau  Wallbridge
+Professor Legacy ID: 2978159
+Professor ID: VGVhY2hlci0yOTc4MTU5
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: PSYC352
+Date: 2026-02-11 03:31:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Love beau, super nice, super caring, super engaging.
+
+--- Rating #2 ---
+Class: PSYC352
+Date: 2024-12-16 11:21:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+i have had beau as a TA for two classes (COGS100 and PSYC352) and he has just been the best for both. very easy to contact and gives in depth feedback on all assignments. it's really hard to find TAs who aren't praying on my downfall at SFU, but beau has always been very caring and supportive of his students!

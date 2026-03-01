@@ -1,0 +1,24 @@
+Professor: Kaveh Rayani
+Professor Legacy ID: 2307356
+Professor ID: VGVhY2hlci0yMzA3MzU2
+Department (CSV): Biomedical Physiology & Kinesiology
+Department (Fetched): Biomedical Physiology & Kinesiology
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BPK142
+Date: 2017-11-28 15:56:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very very good TA. He explains the lab and procedures really clearly. If you're half awake when he explains, you'll still understand. Really guides you on what you should study for the midterms and finals. Really approachable and is really more of a friend than a TA. Would definitely try to get him a TA again if I have the chance. Really funny too!

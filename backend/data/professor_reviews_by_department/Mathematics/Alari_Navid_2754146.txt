@@ -1,0 +1,11 @@
+Professor: Navid Alari
+Professor Legacy ID: 2754146
+Professor ID: VGVhY2hlci0yNzU0MTQ2
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

@@ -1,0 +1,37 @@
+Professor: Lorraine Malcoe
+Professor Legacy ID: 1116258
+Professor ID: VGVhY2hlci0xMTE2MjU4
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 4.5
+Avg Difficulty: 4
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: HSCI340
+Date: 2009-11-17 19:00:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great class and Prof. Definitely makes you work hard, but it's worth it because you will learn a lot! Provides very helpful handouts. High expectations, but they are all very clear and grading is transparent and fair.
+
+--- Rating #2 ---
+Class: HSCI340
+Date: 2009-07-13 10:32:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+If you like to work hard, engage in lively class discussions, and learn exciting new things, Lorraine is for you.  If you've been getting through school on cruise control, you'll be in for a shock because she has very high standards and expectations.  Makes a great effort to help students understand material, and is very approachable and accessible

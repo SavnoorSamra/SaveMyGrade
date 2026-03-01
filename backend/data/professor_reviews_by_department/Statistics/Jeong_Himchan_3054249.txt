@@ -1,0 +1,50 @@
+Professor: Himchan Jeong
+Professor Legacy ID: 3054249
+Professor ID: VGVhY2hlci0zMDU0MjQ5
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 5
+Avg Difficulty: 2.7
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: ACMA231
+Date: 2025-10-27 21:41:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Come with a positive mindset, and you'll do great.
+
+--- Rating #2 ---
+Class: ACMA201
+Date: 2025-10-27 21:36:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He plays plants vs zombies.
+
+--- Rating #3 ---
+Class: ACMA201
+Date: 2025-10-24 01:16:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+My pronouns are he, not him, because I'll never be him(chan).

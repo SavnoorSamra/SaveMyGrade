@@ -1,0 +1,89 @@
+Professor: Andreanne Doyon
+Professor Legacy ID: 2636563
+Professor ID: VGVhY2hlci0yNjM2NTYz
+Department (CSV): Resource Management
+Department (Fetched): Resource Management
+Avg Rating: 2.8
+Avg Difficulty: 3
+Num Ratings: 6
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: SD100
+Date: 2025-12-11 08:44:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Knowledgeable in their field, but: not accessible, they have not responded to my emails; the content is explained vaguely, and the criteria are unclear at times; they grade harshly; a group project at the end that feels a bit useless. It's an easy class, but I'd avoid taking it unless you have to. Not the best elective to take.
+
+--- Rating #2 ---
+Class: SD381
+Date: 2021-12-31 22:22:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Doyon has good lectures and the course is really interesting. However, the grading criteria for the papers were pretty vague and unclear. This is especially an issue because your mark is based on 4 papers (and canvas discussions). As a result, it is not easy to get a good mark on the papers unless you reach out and clarify the criteria with Doyon.
+
+--- Rating #3 ---
+Class: REM381
+Date: 2021-07-15 14:32:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Prof Doyon was tough but I really enjoyed her content. I learnt a heck of a lot and would 100% recommend her as a prof. Biggest tip is to email her if you have any questions.
+
+--- Rating #4 ---
+Class: REM356W
+Date: 2021-01-20 20:00:08 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Professor Doyon did a good job adapting to the online format. The lecture videos were well done. She has very high standards and you will likely be marked a lot harder than you're used to. This aspect of the course was quite frustrating. Having said this, I appreciated the extensive feedback we received on our assignments.
+
+--- Rating #5 ---
+Class: REM381
+Date: 2021-01-15 05:25:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Bummed out cuz the class sounded so interesting and I had high hopes, but the prof marks way too hard with unclear guidelines so this class was not as fun as I thought it would be. Has very high expectations even though she doesn't provide detailed criteria. Super bummed out.
+
+--- Rating #6 ---
+Class: REM381
+Date: 2021-01-06 01:02:26 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Extremely difficult to know what she wants from you in order to receive marks. Overall, a nice person, but a terrible prof that has personal biases in all aspects of her teaching. The lecture recordings are incredibly hard to follow at times so it's best to just read the assigned material. If you can avoid her, do yourself a favour and do so.

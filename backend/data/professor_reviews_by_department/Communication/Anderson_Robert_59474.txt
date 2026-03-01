@@ -1,0 +1,271 @@
+Professor: Robert Anderson
+Professor Legacy ID: 59474
+Professor ID: VGVhY2hlci01OTQ3NA==
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 3.5
+Avg Difficulty: 3
+Num Ratings: 28
+Would Take Again Percent: 50
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS393
+Date: 2023-09-08 20:38:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Exams were lengthy!!!
+
+--- Rating #2 ---
+Class: CMNS460
+Date: 2017-11-28 22:07:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Bob is great. He can be a little dry and can ramble on at times. But if you really listen, it can be quite interesting. He responds to feedback and is very flexible with assignments (as long as they fulfill its purpose). Do check-in with him often to make sure that you are on track.
+
+--- Rating #3 ---
+Class: BUS254
+Date: 2014-02-02 23:08:30 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+EASY class. Exams were ridiculously easy. If you understood the material and homework questions, u would have no problem on exams. Lectures were pointless, just look at the textbook examples before attempting weekly homework and ur set.
+
+--- Rating #4 ---
+Class: BUS254
+Date: 2014-01-20 19:10:42 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Bob is a nice guy so it makes it hard to rag on him. But he can not teach. It is nearly impossible to pay attention & you will take nothing away from lecture. But he wants the class to do well and gives the easiest exams you'll ever write. Averages were 75%. I learned everything the night before the exams by doing his practice qsts and got an A+.
+
+--- Rating #5 ---
+Class: CMNS347
+Date: 2012-07-11 16:47:38 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Avoid this prof like the plague. The class should be called "war", cause he only discusses conflict in war contexts (Vietnam war, cold war, etc.). The readings do not correlate at all to the lectures, and the lectures are incredibly disorganized. The whole class is disorganized, for that matter. I to re-write a group presentation three times cause he didn't leave enough time in class. He'll also hold you to a higher standard if he thinks you're smart, while others get an "A for effort" deal.
+
+--- Rating #6 ---
+Class: BUS254
+Date: 2011-09-12 02:16:23 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Nice prof, knows the material very well but lectures can be a bit dry. Exams are not difficult, just make sure you read the textbook and do the practice questions.
+
+--- Rating #7 ---
+Class: BUS254
+Date: 2011-04-23 21:47:15 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Midterm and final written was fair b/c he lets you know what's on it. MC is tricky, calculation MC was straightforward. Can't teach, but such a great guy! Lectures and text don't help. Chapter questions much more difficult than on exams. Take it with him to get a good grade, but don't expect to learn much. Gestures and speech...absolutely hilarious
+
+--- Rating #8 ---
+Class: BUS254
+Date: 2011-04-23 20:17:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Decent prof. Not super engaging, but what do you expect when accounting is the subject&#63; Really nice guy, very laid back and doesn't want you to feel any stress from his class. Multiple choice on midterm + final were both challenging, with the calculation M/C and written parts being pretty straightforward.
+
+--- Rating #9 ---
+Class: BUS254
+Date: 2011-04-18 17:04:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+The lectures were very dry and hard to follow. Anderson does not do a good job of communicating in a way that keeps the students interested. He tends to be quite repetitive and mumbles a lot of jibberish. One of the worst profs i've ever had. Not recommended.
+
+--- Rating #10 ---
+Class: BUS254
+Date: 2011-03-20 14:12:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Really good prof, no surprises on his exam and tell you before hand exactly what is going to be on the exams. Just read ahead and do tutorial questions and sample exam and you will be fine. Very understanding as well. Course load is not heavy and is not difficult nor easy its average.
+
+--- Rating #11 ---
+Class: CMNS447
+Date: 2010-12-18 00:48:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+WATCH OUT FOR THIS CLASS ITS ROUGH AND THE TEACHER EXPECTS THE WORLD, YOU WILL GET A C ON AN A PAPER
+
+--- Rating #12 ---
+Class: BUS251
+Date: 2010-12-16 15:12:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very gentle and nice prof!Even though his lectures notes tend to lose you sometimes but if you read through the chapters in the textbook you will go good than average on his exams! His finals are easier than midterms and VERY similar to his practices questions!
+
+--- Rating #13 ---
+Class: CMNS388
+Date: 2010-09-02 21:34:33 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Not helpful at all, the Prof and TA will ask you to go read your text book. Really no point going to lecture, if we are suppose to learn everything from textbook. The quiz and midterm was hilarious, it ask about things that wasn't taught in class, or something that has no right answer, but you will lose marks for not giving enough points.
+
+--- Rating #14 ---
+Class: CMNS388
+Date: 2010-09-02 21:29:11 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+agree Anderson is a nice person, but expects too much for a new class CMNS388. His requirement for the projects are messy and unclear. Waste of time going to this lectures, because he talk super slow, and can't hear him speak sometimes. Ending up with wasting the whole lecture on just one topic.
+
+--- Rating #15 ---
+Class: CMSN400
+Date: 2009-04-15 21:07:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Definitely a great instructor.  Encourages discussion.  Put in the work, you'll do great.
+
+--- Rating #16 ---
+Class: CMNS347
+Date: 2009-01-12 19:53:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+His TAs sucks.  He is nice teacher but make sure to get in his tutorial.
+
+--- Rating #17 ---
+Class: CMNS447
+Date: 2009-01-12 19:47:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great guy!  Loved the material.  Really made me think.  I agree, memorization will not work in his class.  Critically think and engage with the material well before class and you can probably pull off at least a B.  A bit picky for grammar and proper English.
+
+--- Rating #18 ---
+Class: CMNS447
+Date: 2008-08-06 18:45:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Highly recommend taking a course with Bob.  His style is different than other profs - more subtle, and encourages self-directed learning and critical thinking.  Not difficult to get good grades, but the usual high-school technique of memorizing information will not work here.  You have to think, observe and reflect.
+
+--- Rating #19 ---
+Class: CMNS347
+Date: 2008-07-26 13:23:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He was not my kind of teacher. I felt he was under prepared for classes, but instead would just take bits of information on any given subject from his expansive knowledge. It shows that while he knows a lot, he is not interested in passing the information to students, merely just showing the information.
+
+--- Rating #20 ---
+Class: CMNS456
+Date: 2005-06-22 10:41:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I took a few CMNS classes with Anderson and I must say, he gets 2 thumbs up!~  His classes are very interesting and he knows his stuff. I loved all his classes. As a CMNS major, Anderson is the best prof I ever had.

@@ -1,0 +1,277 @@
+Professor: M. Hahn
+Professor Legacy ID: 60362
+Professor ID: VGVhY2hlci02MDM2Mg==
+Department (CSV): Philosophy
+Department (Fetched): Philosophy
+Avg Rating: 3.3
+Avg Difficulty: 2.5
+Num Ratings: 44
+Would Take Again Percent: 62.5
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: YES
+Date: 2024-08-22 05:48:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Seems: 
+*Doesn't care for his students and lectures to himself
+
+In fact:
+Cares for input - insofar as it stimulates his knowledge in the "field".
+
+--- Rating #2 ---
+Class: YES
+Date: 2024-08-22 05:19:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+*There's a stark difference between knowing/understanding your subject (material) and teaching it.*
+
+Especially for Mr. HAHN, The former has been too much of a pleasure that it might be recommended the efforts thereof be (very much) invested in the latter  :)
+
+--- Rating #3 ---
+Class: PHIL201
+Date: 2022-01-25 11:02:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+Nice prof, understanding of students, and straightforward. Lecture content for this class however is very long and heavy, can easily lose focus. The papers are okay, but grading is tough. Key aspect is review review and ask questions if you dont understand.
+
+--- Rating #4 ---
+Class: PHIL100W
+Date: 2020-08-20 02:17:29 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Lectures were good, paper assignments were okay. Main criticism is the final. It was awful, as we were told that we could rely on the help of the notes, but the questions given were not related to what was presented to us. I guarantee that the average is low.
+
+--- Rating #5 ---
+Class: PHIL100W
+Date: 2019-10-03 17:32:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Awesome prof. His lectures were straightforward but he goes very fast. Would take another course with him again!!
+
+--- Rating #6 ---
+Class: PHIL100W
+Date: 2019-08-17 04:20:38 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Martin's teaching style is very casual. He also tends to go through the slides very quickly. Be sure to bring a laptop to his lectures if you want to quickly jot things down. If you have a genuine interest in philosophy, you'll enjoy his class. Very little homework. The open book final was heavily based on comprehension and not memorization.
+
+--- Rating #7 ---
+Class: PHIL100W
+Date: 2017-05-26 20:33:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+A very easy mark. I accidentally did my homework and was good to skip 3 weeks of lectures, where the same material was mulled over. Martin doesn't take this class too seriously, hence the tone of the lectures. Make sure to befriend your TA - all real marking is done by them. Exam is open book, so print the notes and major readings the night before,
+
+--- Rating #8 ---
+Class: PHIL100
+Date: 2016-12-26 03:36:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+amazing lecturer but talks too fast
+
+--- Rating #9 ---
+Class: PHIL100
+Date: 2015-04-10 04:36:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+decent... easy course, he was clear and organized when lecturing..
+
+--- Rating #10 ---
+Class: PHIL100W
+Date: 2014-12-28 23:26:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This is an easy course to get a moderate grade and there is not much work in this course. The final is open book and easy. Two short papers in this course. The only thing i don't like is that you may need to read the textbook for the tutorial's short writings.
+
+--- Rating #11 ---
+Class: PHIL100
+Date: 2014-12-05 08:48:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Overall, great prof. He's really passionate about the subject and explains it pretty well. Only drawback is he talks too fast sometimes. Papers are very fair & rather short. Create good notes for the final as it is open book, and you should be good to go!
+
+--- Rating #12 ---
+Class: PHIL100W
+Date: 2014-12-03 16:53:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He can be a little difficult to understand at times, but he really does put in the effort to deliver an understandable lecture with many examples to explain the concepts! He is passionate about what he is teaching. He seems very friendly and likes to laugh. Overall a really cool professor.
+
+--- Rating #13 ---
+Class: PHIL332
+Date: 2013-08-04 19:28:37 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I was very surprised to find out that Martin is the department chair. I have no doubt that he is a very smart man, but his teaching skills are pretty terrible. Its as if he is lecturing to himself. He most often reads from the book and then lectures at the speed of an auctioneer leaving me and those around me very lost. Non phil majors, avoid!
+
+--- Rating #14 ---
+Class: PHIL203
+Date: 2009-12-14 21:35:05 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I've taken at least 3 courses with Martin Hahn, including 203 and 333. His classes are enjoyable because he always makes philosophically interesting and funny commentary when giving examples and such. I love his witty humor! He is a fair marker (not too hard at all), and a nice guy :)
+
+--- Rating #15 ---
+Class: PHIL3XX
+Date: 2009-11-24 17:40:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Phil of language. Good course. The readings are interesting and clear and Hahn is ok as a lecturer. BUT, comments on papers are extremely rude if you get any at all, even if you get a decent grade! Ask anyone: doesn't read the finals at all, just randomly guesses at a mark. Then is &quot;away&quot; until next semester. You wont learn how to improve at all.
+
+--- Rating #16 ---
+Class: PHIL344
+Date: 2007-08-15 23:50:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He was enthusiastic and well informed, and he looked at essay drafts.  But his comments on the drafts were snipey and of no help at all.  He also went too fast, and I lost information for his speed and somewhat sloppy English.  Anyways, take him if you want.
+
+--- Rating #17 ---
+Class: PHIL352
+Date: 2006-10-14 13:42:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very well informed.  Knows hist and switches easily between historical thinkers ideas.  Has good natured humour and smiles alot.  Talks at the speed of thought, but gives multiple examples (sometimes).  He does not seem very demanding, but will probably see through any lame attempts on papers.  Follow closely or you will be left behind.
+
+--- Rating #18 ---
+Class: PHIL203
+Date: 2006-02-24 01:16:31 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He is super fun and interesting yet I found myself lost half the time. The paper topics were given to late to really do a superb job and the topics had no flair.
+
+--- Rating #19 ---
+Class: PHILOFSCIENCE
+Date: 2006-02-12 06:08:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Fantastic lecturer - incredible sense of humour, and really motivates the material.
+
+--- Rating #20 ---
+Class: PHIL341
+Date: 2006-02-09 17:46:44 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He could never show me why my arguements against the topic of the week were wrong.

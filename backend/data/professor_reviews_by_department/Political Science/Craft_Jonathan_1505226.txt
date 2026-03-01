@@ -1,0 +1,24 @@
+Professor: Jonathan Craft
+Professor Legacy ID: 1505226
+Professor ID: VGVhY2hlci0xNTA1MjI2
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 4.5
+Avg Difficulty: 1
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: POL359
+Date: 2010-12-05 13:39:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Awesome Prof. Easy going and classes are fun. He uses a lot of youtube videos to illustrate his points. extremely helpful and encouraging.

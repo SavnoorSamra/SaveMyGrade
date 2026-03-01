@@ -1,0 +1,275 @@
+Professor: Anders Miltner
+Professor Legacy ID: 2827692
+Professor ID: VGVhY2hlci0yODI3Njky
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.6
+Avg Difficulty: 4.1
+Num Ratings: 28
+Would Take Again Percent: 39.2857
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT383
+Date: 2025-12-08 01:24:43 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Seems like a nice guy; lectures are pretty good and encourages questions/class participation. I do feel like a learned something from this class but the assignment descriptions are pretty confusing and you are punished on exams for trying (negative marks & no part marks). I got 0/20 on 2 questions because I was close but not 100% correct.
+
+--- Rating #2 ---
+Class: CMPT383
+Date: 2025-12-07 08:09:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Assignments are intense, spend lots of time on them if you want to actually gain anything from them. Lots of readings and they're absolutely necessary, lectures are supplemental. If you need help you need to ask. Rust portion much easier for those used to imperative languages. Overall not easy but not atypical for a CMPT course at this level.
+
+--- Rating #3 ---
+Class: CMPT383
+Date: 2025-12-07 00:49:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Assignments are easy and typically have 100% averages. Exams are hard but not for the reasons you think. Easy questions but rarely gives part marks (either 0 or full points), so know your stuff. Generous scaling since everyone did bad. Don't listen to the people who failed, you only needed a 35% average on both exams to pass and it's a low bar.
+
+--- Rating #4 ---
+Class: CMPT383
+Date: 2025-12-06 11:24:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He want us to be compilers rather than understanding the code and write the logic behind it. If there is even a mistake of brackets, he takes away all the marks and give 0. If you are super into details, only then take this course or else you will fail.
+
+--- Rating #5 ---
+Class: CMPT383
+Date: 2025-12-06 08:58:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Anders Miltner is flat-out terrible. He can't teach, he grades like he enjoys watching students fail, and taking his class is the fastest way to tank your GPA. Avoid him. Seriously.
+
+--- Rating #6 ---
+Class: CMPT383
+Date: 2025-12-03 06:49:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The assignments are very tough but you learn a lot working through them and his practice midterms are similar to the actual midterms, so I thought the class was fair. His lectures are largely coding examples working through the chapters covered in the readings and he's very enthusiastic and open to any and all questions asked during lectures.
+
+--- Rating #7 ---
+Class: CMPT383
+Date: 2025-12-02 22:35:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Wack ahh prof. His lectures are so bad and the slides are so vague. With the way he teaches, it sounds like he's trying to learn with the students. Midterms average are pretty low and the coding questions tend to be tricky. Don't take this professor
+
+--- Rating #8 ---
+Class: CMPT383
+Date: 2025-11-29 00:49:06 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Anders is a very knowledgeable guy. His lectures he demonstrates the ideas we are talking about. There are small weekly assignments and then larger assignments. The small assignments are not bad, the larger ones are ok for the most part but Anders' class suffers from a lack of clear instructions, which can make the assignments frustrating. Exams ok
+
+--- Rating #9 ---
+Class: CMPT383
+Date: 2025-10-23 19:29:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Anders is one of the worst profs at SFU. He wants his students to fail, and has created his grading scale to ensure they do. Do not take any courses with him, even if he's your only option.
+
+--- Rating #10 ---
+Class: CMPT383
+Date: 2025-10-23 18:17:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Don't use AI to get 100% on every assignment and then complain about his "teaching style" after doing poorly on the midterm. He is a great prof, very understanding and helpful when you have questions.
+
+--- Rating #11 ---
+Class: CMPT383
+Date: 2025-03-26 20:48:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Really hard marker...hard to understand. Instructions for assignments are unclear.
+
+--- Rating #12 ---
+Class: CMPT383
+Date: 2025-03-22 16:20:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+CMPT 384 - 
+
+One of the worst professors at SFU. Homework is so hard and does not give partial marks in Exams. He does not know how to teach. Expects you to know everything. More than half the class dropped. Only 50 students were left at end.
+
+--- Rating #13 ---
+Class: CMPT383
+Date: 2025-01-13 21:55:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+People keep saying that homework/assignments were just "practice" but fail to realize that if everyone does similarly on the homework/assignments, then the only thing differentiating them is their exam performance. The exams weren't even that unfair for a 3rd year course, (reverse a linked list/check code will compile).
+
+--- Rating #14 ---
+Class: CMPT383
+Date: 2024-12-24 05:10:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Nice prof, but the course is graded very harshly.
+
+--- Rating #15 ---
+Class: CMPT383
+Date: 2024-12-12 07:38:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I want to say I liked Anders. He was funny and nice and I liked his assignments, but the final grade distribution was so egregious that it ruined the otherwise not so bad class/teaching style and I can't give him more than a 2.
+
+--- Rating #16 ---
+Class: CMPT383
+Date: 2024-12-12 05:39:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Anders is a cheerful and competent lecturer. He is approachable after class, willing to answer questions, and has strong interest and knowledge in his field. Attending class is very helpful, if you miss any lectures, reading the provided material is a good alternative. The exam was quite challenging, but partial marks were given and curved.
+
+--- Rating #17 ---
+Class: CMPT383
+Date: 2024-12-12 04:02:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I took CMPT 383 the first time it was taught by Anders and it was lovely; he has new photos of his pet at the beginning of every lecture, and the assignments are fun, despite that the content gets tricky in the first half. If you email him you'll get back thoughtful responses.
+
+If you enjoy programming, you'll love this course and this prof.
+
+--- Rating #18 ---
+Class: CMPT383
+Date: 2024-12-11 01:21:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Grade is mostly based on the exams even though 60% is on assignments. Very strict grading on exams w/ no partial grades. For example, either you get 0, 5, or 10 out of 10 for a question. You will get penalized for incorrect answers, so make sure to BOX the CORRECT answers. C- to B+ was spread across 70-77% w/ 150 students in the class. C+ average.
+
+--- Rating #19 ---
+Class: CMPT383
+Date: 2024-12-11 00:47:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+First midterm had 3 mistakes and he gave us no extra time, we wasted time reading wrong questions. Teaches horribly, you have to go through the attached readings yourself to learn. Following the slides is very confusing, this guy has never put any ounce of information together without making mistakes in them. Yet if YOU make a mistake, then C-
+
+--- Rating #20 ---
+Class: CMPT383
+Date: 2024-12-11 00:40:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This was a very stressful course to take. The exams were insanely difficult for both midterms (had 3 typos too). He expects you to be as good as him in coding Haskell and Rust when you've only had 1 and a half months learning each language. He himself is extremely disorganized and has said "I'm too lazy" literally in every class about 5 times.

@@ -1,0 +1,271 @@
+Professor: Milad Parpouchi
+Professor Legacy ID: 1989149
+Professor ID: VGVhY2hlci0xOTg5MTQ5
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 4.6
+Avg Difficulty: 2.5
+Num Ratings: 36
+Would Take Again Percent: 92.3077
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: HSCI120
+Date: 2025-10-31 02:13:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Probably the most fun professor in the whole faculty. Lectures were incredibly engaging, tests were very fair, iClicker participation marks add up so don't miss out on them! Though, final paper is graded pretty tough.
+
+--- Rating #2 ---
+Class: HSCI120
+Date: 2025-09-17 06:07:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+he is an amazing prof. he made lectures fun and worth while. assignments are just standard and not hard at all. I would recommend this class with him to anyone considering it
+
+--- Rating #3 ---
+Class: HSCI120
+Date: 2025-06-16 22:58:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+His teaching style kept me engaged throughout the entire lecture (despite the lecture being quite long) and made it so I could properly understand the material. Although the course I took with him was memorization heavy, he simplified everything so that it was easy to follow! I would love to take a class with him again!
+
+--- Rating #4 ---
+Class: HSCI481
+Date: 2025-04-30 00:49:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's the friendliest prof I've ever seen. I feel very comfortable around him.
+
+--- Rating #5 ---
+Class: HSCI481
+Date: 2025-04-28 00:06:27 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Milad was very engaging. The lectures passed by quickly. However, expectations for assignments were unclear, in contrast to the very specific criteria that he used for evaluation, which was mostly left until end of term. Before taking this class (HSCI 485), you should know that grading was unpredictable and harsher compared to other HSCI courses.
+
+--- Rating #6 ---
+Class: HSCI481
+Date: 2025-04-26 03:06:14 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+The class content itself was very interesting, however, the grading scheme for the assignments is very unclear and there is too much information packed into projects with strict time constraints. This made it challenging to dive deep into the material and deliver quality work without feeling rushed.
+
+--- Rating #7 ---
+Class: HSCI120
+Date: 2025-04-22 21:00:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I need what Milad takes before 3 hour lectures because he's always jumping around and making (non cringey) jokes and enthusiasm to keep things interesting and engaging. He always made it clear what is expected of us and he pulls quite a few questions from iclicker in the midterm and final. One of my favorite courses this semester!
+
+--- Rating #8 ---
+Class: HSCI120
+Date: 2025-04-17 21:16:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's so nice, I wanted to cry after my final exam knowing I probably won't be able to take another class with him since I'm not majoring in HSCI. His tests were fair, lectures were entertaining, and is just all around a great and caring prof. Brings in lots of guest speakers to give us different perspectives on topics we've learned in class as well
+
+--- Rating #9 ---
+Class: HSCI120
+Date: 2025-03-04 22:58:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's hilarious. The lecture is just under 3 hours, but he keeps the class engaged for sure. Expect lots of jokes, dancing, and performances. He uses iClickers so make sure you show up because it'll take out a chunk of your grade if you don't.
+
+--- Rating #10 ---
+Class: HSCI120
+Date: 2025-01-08 04:05:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Literally the best prof! He keeps the class engaging for the full 3 hours with so many jokes, dancing and impressions. the hardest part of the course is the midterm but 20% of your grade is from clicker and you don't even need to get the right answer to get the marks. couldn't recommend this course enough!
+
+--- Rating #11 ---
+Class: HSCI120
+Date: 2024-12-04 00:43:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The best professor
+
+--- Rating #12 ---
+Class: HSCI120
+Date: 2024-11-21 22:46:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Best HSCI prof. Super enthusiastic and encourages questions. Lectures are content heavy but the exams are SO light.
+
+--- Rating #13 ---
+Class: HSCI120
+Date: 2024-11-12 05:47:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+lectures are fun, he is very caring and always making sure students understand the topic, exams are not supper hard
+
+--- Rating #14 ---
+Class: HSCI214
+Date: 2024-07-10 00:21:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+really nice prof would definitely take classes with him again!
+
+--- Rating #15 ---
+Class: HSCI130
+Date: 2024-06-12 09:06:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof!!! Took this course in the fall and loved his lectures. He always made sure everyone was engaged and made many jokes. Very few assignments, made exams fair(gave lots of hints and format of the test) and always asked for our opinions to make the class better. 100% would retake!!
+
+--- Rating #16 ---
+Class: HSCI481
+Date: 2024-05-17 22:02:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Parpouchi is my favourite professor I have had at SFU. Incredibly knowledgeable and motivated about his field of study, and conveys this passion during lectures. Looks for participation and a willingness to learn, he isn't always looking for you to have the right answer, but rather to try and participate. Super manageable if you're engaged!
+
+--- Rating #17 ---
+Class: HSCI120
+Date: 2024-05-13 21:10:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Milad is the best prof I've had so far, you can tell he's very passionate about teaching. His lectures are very engaging and he also has a great sense of humour which makes the lectures fun. I also found the exams to be fair because he's very open to students' suggestions and provides hints as to what will be on the test.
+
+--- Rating #18 ---
+Class: HSCI120
+Date: 2024-05-12 20:15:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Favourite Prof by far! He's very engaging and you can get a good grade on exams if you do the work and study. He's very approachable and is always asking questions to make sure you get the most of the course!
+
+--- Rating #19 ---
+Class: HSCI120
+Date: 2024-04-23 19:25:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best prof ever.
+
+--- Rating #20 ---
+Class: HSCI481
+Date: 2024-04-18 21:16:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Milad is my favourite. His lectures are interesting and hes funny and very knowledgeable and passionate. Hes so caring and open to discussion. 2 group projects and a presentation was rough but it is a seminar. Still super fun class and prof, take a class with Milad if you have the chance!

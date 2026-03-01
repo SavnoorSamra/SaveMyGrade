@@ -1,0 +1,50 @@
+Professor: Mike Church
+Professor Legacy ID: 2381990
+Professor ID: VGVhY2hlci0yMzgxOTkw
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.7
+Avg Difficulty: 1.7
+Num Ratings: 3
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: BUS466
+Date: 2024-03-20 09:02:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's knowledgeable, enthusiastic, and relatively easygoing. Offers helpful advice in and outside of class. Adapts the course as needed. Not so great at responding to emails in a timely manner, but still the best professor I had at SFU.
+
+--- Rating #2 ---
+Class: BUS466
+Date: 2023-12-19 06:44:53 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+good guy, but didn't really teach at all. classes consisted of discussing tech news, talking a bit about our online discussions, and then each week a group presented on their tech topic. His key takeaways from the course were essentially to read the news and develop your skills. Was pretty easy though as the exam was open book.
+
+--- Rating #3 ---
+Class: BUS466
+Date: 2018-08-21 02:00:15 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Mike is a likeable guy and decent for his first semester at SFU. He encourages fruitful discussion and is approachable. However, his expectations were often unclear and communication was inconsistent; I'm sure he'll hash this out later on. Getting started early on the group project, participation, and thorough citations / referencing are key

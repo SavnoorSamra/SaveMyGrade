@@ -1,0 +1,76 @@
+Professor: Martin Behr
+Professor Legacy ID: 1263561
+Professor ID: VGVhY2hlci0xMjYzNTYx
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 1.5
+Avg Difficulty: 4
+Num Ratings: 5
+Would Take Again Percent: -1
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: ENG101
+Date: 2015-09-18 15:40:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Boring
+
+--- Rating #2 ---
+Class: ENG105
+Date: 2014-10-28 16:41:25 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is not that bad actually. Though his lecture is long and boring, but if u always pay attention and make notes, you can do well in the exam. All the questions in exam are from the lecture and notes. Besides, he grade on essay and paper is pretty fair. Talk to him and get advised, you will get what you deserve.
+
+--- Rating #3 ---
+Class: ENGL101
+Date: 2009-05-06 03:49:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I totally agree with what people said above!! One of my friends got lower scores than me in all the categories. However, he got higher overall grade. His grading systems completely totally entirely sucks. You will be regretful to choose his course.
+
+--- Rating #4 ---
+Class: ENG199
+Date: 2009-04-08 07:55:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Dont take his class. He doesnt teach you anything , does not provide a clear grading scheme, always unprepared. Follow his directions on assignments, if your thoughts do not agree with his own, he will give you a bad mark. So suit his needs. Prof to Avoid
+
+--- Rating #5 ---
+Class: ENG199W
+Date: 2009-03-23 17:03:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Worst prof at SFU , horrible horrible horrible horrible , He does not know what he is doing. He does not give you a clear outline or expectations on what he wants. He'll just vaguely say and mark you in comparison of what others have provided. If you're work is better overall to your classmates. He doesn't teach anything. Worst Prof Ever

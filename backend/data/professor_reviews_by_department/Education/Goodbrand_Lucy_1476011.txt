@@ -1,0 +1,37 @@
+Professor: Lucy Goodbrand
+Professor Legacy ID: 1476011
+Professor ID: VGVhY2hlci0xNDc2MDEx
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 5
+Avg Difficulty: 3.5
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: EDUC479
+Date: 2012-05-28 22:19:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+down to earth, approachable, full of insight, relevant
+
+--- Rating #2 ---
+Class: EDUC479
+Date: 2011-09-26 11:30:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+awesome!

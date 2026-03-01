@@ -1,0 +1,115 @@
+Professor: Brianne Kent
+Professor Legacy ID: 2774292
+Professor ID: VGVhY2hlci0yNzc0Mjky
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 4.3
+Avg Difficulty: 3.5
+Num Ratings: 8
+Would Take Again Percent: 87.5
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: PSYC325
+Date: 2025-07-05 19:21:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The classes were heavy but thats just the nature of the course. Dr. Kent explained concepts very well and had clear expectations for assignments. The way she spoke about the material shows she's obviously very passionate, which made each lecture very engaging. Just be sure you allot enough time to study for exams.
+
+--- Rating #2 ---
+Class: PSYC325
+Date: 2025-06-18 19:24:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+PSYC 325 was a more difficult course than I was expecting. Brianne's lectures were well organized and engaging but the material was not easy and the exams were very challenging in my experience.
+
+--- Rating #3 ---
+Class: PSYC325
+Date: 2025-04-13 20:25:33 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The exams were non sensical and did not test much on the content of the textbook or papers that we were required to read. So you'll spend a lot of time studying for things you won't be tested on. Her midterm and final questions are based on random studies from the lecture that seem unimportant. I feel defeated trying to get a good grade lmao
+
+--- Rating #4 ---
+Class: PSYC325
+Date: 2025-04-10 20:12:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Kent is very kind and a good lecturer. First few lectures are a little boring because she has to go over basics, but once she gets into the later lectures you can tell that she's very passionate, which makes for engaging classes. Tests are pretty hard, but fair. Pay attention to graphs and pictures on slides as they are tested often.
+
+--- Rating #5 ---
+Class: PSYC325
+Date: 2025-04-02 18:26:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This prof is so kind and seems like she cares a lot about student. I didn't enjoy this course content as it was a lot of animal studies but she made it easy to do well. Exams aren't cumulative and purely on the notes so you don't even need to look at the textbook at all. Group project was annoying but overall easy outline to do well in the course
+
+--- Rating #6 ---
+Class: PSYC325
+Date: 2023-05-10 08:17:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Always listens to student feedback and cares for students. The course has multiple components (midterm, final, group projects, etc.) but they are almost evenly weighed. There is lots of material so she could sometimes go a bit fast, but she's always open to questions whenever.
+
+--- Rating #7 ---
+Class: PSYC325
+Date: 2023-04-20 04:01:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Kent is a really good prof, TBH she is one of the best profs that I had at SFU. She cares about her students, she is not a tough grader, her exams are fair, and she teaches well. The only thing I did not like was that she sometimes can speak very fast, which makes it hard to learn the concepts (considering that PSYC 325 is a heavy course).
+
+--- Rating #8 ---
+Class: PSYC325
+Date: 2022-03-04 17:59:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is a very caring prof and always listens to all feedback from her students and wants to make this course as easy and accessible as possible. I do find the pace of lecture to be quite fast even with typing my notes and she does read off of slides mostly (which isn&#39;t a big deal IMO). This course is very bio heavy btw so just be weary of that

@@ -1,0 +1,245 @@
+Professor: Carl Schwarz
+Professor Legacy ID: 53006
+Professor ID: VGVhY2hlci01MzAwNg==
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 4
+Avg Difficulty: 3.2
+Num Ratings: 18
+Would Take Again Percent: -1
+
+Ratings Count Returned: 18
+
+--- Rating #1 ---
+Class: STAT342
+Date: 2016-03-08 18:44:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+recently in January semester, almost 20 ppl in the class drop out from Stat 342 and another 20 ppl failed the class. He pretty much expect everyone in the class to be A+ students and able to follow his pace as an introductory course for STAT's program SAS. He is good in teaching, unfortunately, i aint the A  type student in class
+
+--- Rating #2 ---
+Class: STAT340
+Date: 2016-01-15 17:56:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Such a disorganized lecture notes and non- readable hand writing. Overall, this class is  so  Messy.
+
+--- Rating #3 ---
+Class: STAT340
+Date: 2016-01-09 19:16:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+My favourite prof at SFU. He's very clear, knowledgable, and helpful. Those long assignments had me well prepared for his exams. He did not only teach me knowledge in stats, but also its applications. If you want to learn stats, take courses with him!
+
+--- Rating #4 ---
+Class: STAT340
+Date: 2015-07-13 20:59:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+This class is a lot of work, but totally worth it. You learn some really interesting stuff.. but it helps if you're into the topic.  Carl is a great teacher, really knows his stuff and wants you to learn. show up for class and listen and take notes.
+
+--- Rating #5 ---
+Class: STAT340
+Date: 2015-01-01 00:29:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+I found it difficult to concentrate on hardcore computing language at 8:30am; it would better if this was an afternoon course.  This weekly assignments have WAY too many parts; guarantee a loss of brain cells by the end of the term.  Also, cross your fingers that your TMs this term slack off and do not read everything you hand in
+
+--- Rating #6 ---
+Class: STAT300
+Date: 2014-04-07 22:23:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: N
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He is so knowledgeable; the exams fair; you LEARN from his assignments ; his lectures are clear and interesting.  He is passionate about Stats and always has excellent examples that clearly demonstrates his point.   He has an open door office hour. If you ever need/want to take Stat, take it with Carl! I can't say enough good things about him.
+
+--- Rating #7 ---
+Class: STAT340
+Date: 2014-03-07 18:04:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Carl is a great prof, especially for those that actually want to learn. The weekly assignments are a lot of work but they make sure that you learn the material. He is frequently available to answer any questions, whether after class or by simply dropping by his office. This course actually teaches things that are applicable to a career.
+
+--- Rating #8 ---
+Class: STAT340
+Date: 2014-01-05 12:30:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+this teacher is ridiculous, gives assignment before school starts, and the most ridiculous thing is that he gives no help at all when student have problems. His email reply is as follow: Due to a large number of students, blah blah blah, WTF, if you are no use, why are you even here. SO FREAKING BAD !
+
+--- Rating #9 ---
+Class: STAT340
+Date: 2013-12-06 17:50:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Best prof ever.
+
+--- Rating #10 ---
+Class: STAT340
+Date: 2013-04-28 00:33:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+He is really nice prof. He has open office hour policy, so everytimes if you have a question, he is in office.Midterms and Final exams are fair.assignments were really hard, but I felt I learn a lots from this course.
+
+--- Rating #11 ---
+Class: STAT340
+Date: 2013-01-16 14:46:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+too much assignments. i have to spend the whole weekends on his assignment.
+
+--- Rating #12 ---
+Class: STATS201
+Date: 2006-12-14 17:04:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+gives clear lectures. Assignments do take a bit of time to do, but they really help you with the term tests and the final if you do them. Don't really need the textbook, read his online notes/lecture notes and do all his online practice exams and you'll be okay.
+
+--- Rating #13 ---
+Class: STAT201
+Date: 2006-12-12 17:06:00 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Good prof, his lectures are informative and clear. His exams are ok but his assignments take a long time.
+
+--- Rating #14 ---
+Class: STAT302
+Date: 2006-11-07 04:53:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Very nice, responsible and helpful prof.  exams are very straight forward.  If you do all his online reading and know what is going on during lecture, its not hard to get an A.  Assignments give you very good practice for midterm.
+
+--- Rating #15 ---
+Class: STAT302
+Date: 2006-08-25 12:46:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Very clear but doesn't have the best writing.  Very ugly in fact, sometimes hard to read.  The class itself was very easy if you did all the hwk.  Didn't even open the textbook so just use the notes he gives you and online.
+
+--- Rating #16 ---
+Class: STAT430
+Date: 2004-04-10 03:27:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #17 ---
+Class: STAT301
+Date: 2003-11-11 10:40:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Greatest prof for Stats you'll ever have.  He's got such enthusiasm.  My friend who is a prof uses his notes for teaching stats to other people!
+
+--- Rating #18 ---
+Class: STAT403
+Date: 2002-05-17 18:56:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Dr. Stats makes Statistics interesting and exciting!

@@ -1,0 +1,271 @@
+Professor: David Green
+Professor Legacy ID: 371990
+Professor ID: VGVhY2hlci0zNzE5OTA=
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 3.8
+Avg Difficulty: 3
+Num Ratings: 34
+Would Take Again Percent: 90
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BISC204
+Date: 2025-06-24 00:13:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Super cool guy that really does care about his students. He gives out practice questions with some of the answers that are of similar format to your exams. His lectures were recorded and super easy to follow both in person and via recording, and seems super passionate about what he teaches. He also brings in his dog, so cute!
+
+--- Rating #2 ---
+Class: BISC204
+Date: 2025-04-26 22:30:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Super nice and chill guy. Liked how he put effort into learning everyone's names. Explains questions well during office hours and love that he brings his dog. Exams are ok tho there was lots of writing. Overall, great course with lots of interesting content! Also shout out to Katie the TA for being awesome.
+
+--- Rating #3 ---
+Class: BISC204
+Date: 2025-04-25 18:48:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The sweetest prof ever, took time to learn names and was helpful in class and outside. He allows cheat sheets and makes exams very fair. I recommend going to lecture, as his slides sometimes can be vague and has questions he answers in person. The TA was also super helpful
+
+--- Rating #4 ---
+Class: BISC204
+Date: 2023-06-20 16:48:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Cool and interesting guy. I felt like he could have given harder tests and assignments for what he taught us, which I mean. Still a problem, not a bad problem to have
+
+--- Rating #5 ---
+Class: BISC204
+Date: 2022-04-30 20:26:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+David was a very kind professor, that took the time to remember everyone's name, and he always took the time to answer questions from the class during lectures. He also was eager to help during office hours. My only complaint is that I attended every office hour and still am not too sure how to improve my answers to his questions on exams and such.
+
+--- Rating #6 ---
+Class: BISC204
+Date: 2022-03-03 04:45:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+David is an extremely helpful prof who tries to make sure that every student will succeed in his course. Puts in effort to remember everybody&#39;s name in the class. Some lectures are a bit dry, but that&#39;s more of the content and less his teaching style
+
+--- Rating #7 ---
+Class: BISC204
+Date: 2021-04-30 20:45:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I liked that Davids lectures were short and easy to digest, and I enjoyed the content. However, the grading was a bit nit picky and feedback on the limited practice problems wasnt easily accessible unless you went for office hours. I feel like the tutorial time couldve been used better to go over the worksheets that were given out for practice.
+
+--- Rating #8 ---
+Class: BISC410
+Date: 2020-12-23 20:17:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+David is a delight. Lectures were interesting, funny, and informative. He consistently made himself available on Zoom, which was greatly appreciated for remote learning. He was responsive to feedback and more than fair with his expectations. I genuinely enjoyed this course both in terms of the content and the delivery.
+
+--- Rating #9 ---
+Class: BISC420
+Date: 2020-04-30 20:24:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+David is an amazing professor, he's really passionate about his work too. I'll admit his lectures could come off as a bit dry but he tries his best to convey the class material and to interact with the class. He's really helpful in office hours as well. So accommodating during the covid-19 period, and you can tell he really cares for his students.
+
+--- Rating #10 ---
+Class: BISC204
+Date: 2017-07-21 19:39:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Funny Brit. He sounded monotonous in the first lecture and I thought 'this is going to be so boring'. But the rest of the semester was actually very enjoyable and he gets to know each of his students really well. Takes his time explaining lectures and he does group activities in class which are really fun! Lots of writing in his exams but are fair!
+
+--- Rating #11 ---
+Class: BISC304W
+Date: 2015-04-20 23:12:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+He really needs to work on his lecturing skills, especially when it's an 8:30am class. I have to strain to try and understand what he's trying to say especially when his lecture slides aren't explaining things. Half the time I end up not getting a clear answer even when he's supposed to give one. Tough marking on midterms and exams.
+
+--- Rating #12 ---
+Class: BISC304
+Date: 2015-02-11 12:41:49 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Not good. unnecessarily complicated examples that are not explained well. Too much group discussion when he should be taking that time to explain better ie, actually teach. Way too many assignments worth 5%. Goes too fast through lectures. Pretty much says you're dumb if you can't get his "simple" example questions. No one knows the answers.
+
+--- Rating #13 ---
+Class: BISC304
+Date: 2014-11-09 22:45:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Really great prof. Bisc 304 has pros: open book midterm and final and cons: final paper 25%  However, he's a prof that really wants you to succeed and is really willing to help you on the assignments one on one. If you go to lecture and take good notes the class is straight forward. Interesting class, would recommend.
+
+--- Rating #14 ---
+Class: BISC309
+Date: 2013-03-19 22:58:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Great prof, I'd recommend him to anyone interested in ecology. He's friendly, interesting, easy to listen to. He will learn your name! His teaching style takes a bit of getting used to - assignment instructions are a little unclear. Go to the TA for help if you need it.  Fair marker, interesting content, excellent attitude towards students.
+
+--- Rating #15 ---
+Class: BISC304
+Date: 2012-12-19 14:55:32 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+challenging because of his teaching style - so many complicated examples, and unclear communicating. But I would definitely take him again! he has a great attitude, extremely fair marking and assignments, and interesting content. I learned to get TA help and that all I needed to know was the general principle behind all his complicated examples!
+
+--- Rating #16 ---
+Class: BISC304
+Date: 2011-12-16 00:25:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+David is an interesting guy and really likes what he is teaching. He lacks some actual lecturing skills (such as not standing behind his computer for half the class) but he more than makes up for that with interest level and genuine interest in his students doing well. Tests were pretty hard but you get lots of marks through proposals and tutorials
+
+--- Rating #17 ---
+Class: BISC304W
+Date: 2011-12-14 01:40:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He seems to make class fun and interesting. No need for textbook at all. His tests are all open book but kind of hard if you're not used to open book exams. Marks papers pretty hard. You really really need to be good at writing proposals and summaries or you're screwed. Exams were marked fairly though.
+
+--- Rating #18 ---
+Class: BISC304
+Date: 2010-12-03 02:30:21 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I found the lecture slides very useful; those who had difficulties with them probably didn't attend lectures, as he described them in great detail. I liked that he asked for participation. If your answer is wrong, it's wrong. That's not a bad thing, and not the point. He is trying to get everyone thinking ahead. The exams fair, but needed more time
+
+--- Rating #19 ---
+Class: BISC304
+Date: 2009-11-17 21:42:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+very arrogant prof; when he asked questions to get people involved, he would tell them they were completely wrong. papers were marked extremely low on average and notes as well as exams were scattered and disorganized
+
+--- Rating #20 ---
+Class: BISC304
+Date: 2009-05-21 15:00:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Unorganized lectures and lecture notes, always tried to get students involved but when anyone would speak up, he would tell them their answers were flatout wrong, exams were unorganized and papers were unfair and narrow-minded.

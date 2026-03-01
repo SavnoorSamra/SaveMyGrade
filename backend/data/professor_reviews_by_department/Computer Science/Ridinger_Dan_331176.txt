@@ -1,0 +1,271 @@
+Professor: Dan Ridinger
+Professor Legacy ID: 331176
+Professor ID: VGVhY2hlci0zMzExNzY=
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2
+Avg Difficulty: 2.8
+Num Ratings: 57
+Would Take Again Percent: 17.0732
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT475
+Date: 2025-04-28 06:03:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very harsh and ridiculous grading. Looks for exact words in the assignment and very unclear rubric. Almost impossible to get anything more than a B+.
+
+--- Rating #2 ---
+Class: CMPT475
+Date: 2025-01-07 20:01:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The grading is ridicules. No logical or clear criteria on the grading and you are expected to read his mind. The course is not difficult but the highest grade on the assignments were around 65% because no one could tell what he wanted! You won't fail but this is not a GPA booster. The idea behind the course is interesting but the content is useless
+
+--- Rating #3 ---
+Class: CMPT475
+Date: 2025-01-07 19:57:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Useless course! The grading is ridicules because there is no logical or clear criteria on the grading and you are expected to read his mind. The highest grade on the assignments were around 65% because no one could tell what he wanted! You won't fail but this is not a GPA booster. The idea behind the course is interesting but the content is useless
+
+--- Rating #4 ---
+Class: CMPT475
+Date: 2024-12-11 00:34:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Is it easy to pass? Yes. Is it easy to get an A? No. The content only touches on broad business aspects that has little to do with comp sci. Ridinger is also incompetent at teaching as he just reads off the slides, and expects a lot from us but gives very little help. We need to read his mind or ask tons of questions to figure out the assignments.
+
+--- Rating #5 ---
+Class: CMPT475
+Date: 2024-11-04 20:36:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+what's wrong with this guy?!
+
+--- Rating #6 ---
+Class: CMPT475
+Date: 2024-11-04 20:35:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+whats wrong with this guy?!
+
+--- Rating #7 ---
+Class: CMPT475
+Date: 2024-01-09 04:32:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prob easiest course ever. You wont learn more things here, but just a gpa booster with 400 level credit
+
+--- Rating #8 ---
+Class: CMPT475
+Date: 2024-01-08 23:04:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Easy course, lectures were boring because of the material.
+
+--- Rating #9 ---
+Class: CMPT475
+Date: 2023-11-27 21:58:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dan Ridinger is probably one of the professors at Simon Fraser University. Bro knows how to screw over his students by making the final assignment worth 50%. HAHAHAHAHAHAHHAHHHAHAHA.
+
+--- Rating #10 ---
+Class: CMPT475
+Date: 2023-09-28 02:50:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+he worked for an accounting company so he knows his stuff
+
+--- Rating #11 ---
+Class: CMPT475
+Date: 2023-08-11 02:27:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Vague rubric for assignments. Unclear on what they take points away on. Refuses to give partial points. Unnecessarily made the entire final assignment (worth 50% of our grade) hard and the average for that was less than 50%. Very poor professor.
+
+--- Rating #12 ---
+Class: CMPT475
+Date: 2023-05-09 19:21:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Learned absolutely nothing. This is NOT a GPA booster if you think so. Don't think that this course is "easy". The TAs don't give clear explanations for the markings. There is no rubric for the group assignments. The prof won't explain clearly why they marked a question that way. You must have the ability to read his mind to do well in this course.
+
+--- Rating #13 ---
+Class: CMPT475
+Date: 2023-04-11 22:52:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+While this could possibly be a good course, you learn absolutely nothing from this class. Every slide is a list of adjectives. Dan acts like there is only one correct way to make a diagram, and this is the only thing you "do" besides work with a broken system which was relevant for his Hanes project in the 90s. Take if you like drawing.
+
+--- Rating #14 ---
+Class: CMPT475
+Date: 2022-12-20 19:46:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+GPA booster is a lie. Don't fall into the pit that this course looked "easy". You don't know how you either got good marks or bad marks because you won't get understandable answers from the prof. Just pray to hope if you or your group mates could read his mind.
+
+--- Rating #15 ---
+Class: CMPT475
+Date: 2022-12-07 22:46:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Avoid him. Lectures have no use on your study and assignments. You can't find a way to improve your grade when you are behind  but you also have no idea how got a good grade. If you are confused with assignments, you don't get clear answers from him or TA. You just use your intuition to do it. Lectures are light, but it's not GPA booster.
+
+--- Rating #16 ---
+Class: CMPT376W
+Date: 2022-04-22 19:15:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dan is arguably one of the worst profs at SFU. His assignments are unclear and have no description or rubric, and when you ask questions he tells you to "read between the lines" which is impossible with his scrambled brain so you just lose marks. Lectures are boring so he makes attendance mandatory and curved down marks by >10% per student. AVOID!!
+
+--- Rating #17 ---
+Class: 376W
+Date: 2022-04-19 03:52:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Unclear grading schemes, boring lectures, cryptic emails. Teaches you very well about incompetency as he is a first class example in it.
+
+--- Rating #18 ---
+Class: CMPT376W
+Date: 2022-04-18 21:34:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Marking criteria one of the poorest I have come across in any courses I've encountered so far. It is a writing course, but the corrections and comments are riddled with errors themselves. The rubric for grading had been consistently unclear throughout the course.
+
+--- Rating #19 ---
+Class: CMPT376W
+Date: 2022-04-16 04:11:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Awful lectures that have 0 relation to assignments. The worst part of this class was that he is deliberately uses confusing and vague wording for assignments, leaving you to literally guess what you have to do in order to satisfy his requirements that he pulls out of his ass. Then he docks you marks for not reading his mind. Unbelievably terrible.
+
+--- Rating #20 ---
+Class: CMPT376W
+Date: 2022-04-12 18:46:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Class has a pretty small workload, and that's about the only positive. No criteria for anything and Dan doesn't give clear answers so it's up to you to decipher what you need. He will dock marks for things he said you didn't need for seemingly no reason, and grades are mostly assigned at random because TAs don't know what's going on either. Avoid.

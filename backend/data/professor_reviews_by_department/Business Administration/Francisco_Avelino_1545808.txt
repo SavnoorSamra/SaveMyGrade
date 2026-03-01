@@ -1,0 +1,24 @@
+Professor: Avelino Francisco
+Professor Legacy ID: 1545808
+Professor ID: VGVhY2hlci0xNTQ1ODA4
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 1
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BUS322
+Date: 2011-03-03 18:29:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He teaches everything from the book. he doesn't make his own slides and uses the slides that comes with the book. Class is not hard, but boring.U will not learn anything in his class. Avoid at any cost.

@@ -1,0 +1,167 @@
+Professor: Marinko Sarunic
+Professor Legacy ID: 1097217
+Professor ID: VGVhY2hlci0xMDk3MjE3
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 4.3
+Avg Difficulty: 2.3
+Num Ratings: 12
+Would Take Again Percent: 40
+
+Ratings Count Returned: 12
+
+--- Rating #1 ---
+Class: ENSC476
+Date: 2020-09-10 03:25:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Easily the worst professor you will come across, and I don't say that. lightly. He is hateful, discriminatory, and a horrible teacher. Do anything to avoid him. Very rude and disrespectful. Avoid at all costs. It's tragic he's teaching.
+
+--- Rating #2 ---
+Class: ENSC476
+Date: 2019-12-09 00:19:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Yes Prof Marinko You are the best :)
+
+--- Rating #3 ---
+Class: ENSC476
+Date: 2018-12-27 09:55:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very knowledgeable prof. You'll learn something at the end of the day. If you're willing to put in the hours, take his courses cuz he will make you work hard. Exams are tricky, assignments are hard. Go in with the mindset that you'll have to invest more effort for his course than other courses. Just taking any of his course for credits? Stay away.
+
+--- Rating #4 ---
+Class: ENSC476
+Date: 2018-03-20 13:49:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Nice prof! Recommended
+
+--- Rating #5 ---
+Class: ENSC410
+Date: 2018-01-12 16:30:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This professor is great and fun but he made tricks on the tests or exams, I personally don't like him because of this. The ENSC 410 is extremely but I feel like this prof doesn't want everyone get A+ on it.
+
+--- Rating #6 ---
+Class: ENSC476
+Date: 2015-04-09 15:35:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Great professor. I really enjoyed his lectures and the course overall. Very supportive as well and want you to succeed. Marinko is the  chair of biomedical engineering and would spend time with you to discuss  and work on improving the curriculum. One of the best biomedical professors!
+
+--- Rating #7 ---
+Class: COOP1ST
+Date: 2011-10-30 17:01:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I had Marinko for Co-op. Just posting this, it's pretty easy for him to guess who this is. Nevertheless, I found him to be a very nice guy, very clear, and thoughful. He was also very knowledgable and informative. I haven't taken a course with him just yet, this is only from my co-op.
+
+--- Rating #8 ---
+Class: ENSC225
+Date: 2011-05-09 15:45:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+One of the best profs I've ever had. Explains the concepts very well. He's very organized. Exams are fair, but there are always a couple of unexpected questions. Homework and labs are easy.
+
+--- Rating #9 ---
+Class: ENSC225
+Date: 2011-04-28 01:16:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+His midterm is easy, but the final is a little challenging. As long as you know the basic concepts you'll be doing fine on exams.
+
+--- Rating #10 ---
+Class: ENSC225
+Date: 2011-04-26 19:47:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very good instructor.  Does a good job of conveying the important concepts and goes through the details of solving complicated problems well.  The lab requirements for the course were a bit hefty, but overall not a bad course.
+
+--- Rating #11 ---
+Class: ENSC225
+Date: 2008-10-04 20:44:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He's so nice
+
+--- Rating #12 ---
+Class: ENSC325
+Date: 2008-08-18 04:28:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+he was OK..

@@ -1,0 +1,271 @@
+Professor: Duan Ying
+Professor Legacy ID: 2115696
+Professor ID: VGVhY2hlci0yMTE1Njk2
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 2.3
+Avg Difficulty: 3.8
+Num Ratings: 20
+Would Take Again Percent: 27.7778
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS315
+Date: 2025-12-18 22:17:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Ying is one of the best professors at sfu. Her homework is challenging, but her grading policy is lenient. She is patient to students, and her teaching is very clear and easy to follow. All details are clearly presented on the slides. Most of the bad ratings are due to the tough assignments, but you can learn a lot from these assignments.
+
+--- Rating #2 ---
+Class: BUS316
+Date: 2025-11-05 18:43:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is very patient to students
+
+--- Rating #3 ---
+Class: BUS316
+Date: 2025-06-26 04:16:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Though she has bad reviews, she is a really good professor. The course material itself is tough, but she is always open to questions and demonstrates in class how to solve problems. Provides a solid outline of what to expect. Would definitely take an again. Very kind and humble.
+
+--- Rating #4 ---
+Class: BUS316
+Date: 2025-06-15 10:12:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Make sure you actually understand the concepts instead of memorizing patterns. Final exam is much harder than the midterm so study in advance. Understanding the homework assignments will help you immensely on exams as some questions are repeated and the hw assignments are comprehensive in nature, preparing you for exams. She is a good teacher.
+
+--- Rating #5 ---
+Class: BUS316
+Date: 2022-04-14 05:35:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She's nice but her notes aren't that good. Her teaching pace is terrible and kind of dry.
+
+--- Rating #6 ---
+Class: BUS316
+Date: 2021-12-24 18:55:46 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Ying was very nice and was clear with all the grading criteria and what was going to be tested. Only complaint is that her lectures were quite boring and dry, so it was pretty hard to focus and understand the material. Best way I learned was just by doing practice problems and reviewing the answers.
+
+--- Rating #7 ---
+Class: BUS316
+Date: 2021-12-23 04:04:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Told us what we needed to know and what we didn't from lecture material. Suggested we do the textbook questions to prepare for the final and ALL of the final questions were word for word questions from the assigned tb/hw questions (w/ different numbers). If you listen to her, the course is very doable and you might actually learn something.
+
+--- Rating #8 ---
+Class: BUS316
+Date: 2021-12-16 04:49:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Without a doubt the worst prof I've had at SFU. Her homework assignments are wordy, long, and cover concepts we don't even talk about in lecture. We have a final worth 62% coming up and when she asked for a practice final, format, what to study , etc., she responded &quot;read the textbook and do the practice problems in the book&quot;. AVOID AT ALL COSTS
+
+--- Rating #9 ---
+Class: BUS316
+Date: 2021-12-14 21:55:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Ying the worst prof I have ever had at SFU. If you have to take this class, PLEASE save yourself and take it with a different prof. Let's talk about the final exam as this is worth 62% of your final grade (no midterm) We were not given any instructions, practice, or chapters/concepts to focus on. Format of exam was found when we started it.. AVOID
+
+--- Rating #10 ---
+Class: BUS316
+Date: 2021-12-10 05:33:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Hardest class taken in beedie so far. Ying was super hard to understand and hearing her voice just makes you want to rip your hair out. She only responded to emails with a few words when asked about her ambigiously worded assignments. 60% Final exam too... Well, my conclusion is AVOID HER AT ALL COSTS. I hope she gets fired.
+
+--- Rating #11 ---
+Class: BUS316
+Date: 2021-05-03 05:40:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Worst prof at beedie so far.... the final exam was unrealistically difficult in terms of content and time limit. Each question required an individual word doc which takes a significant amount of time out of the 2 hours. Avoid at all costs.
+
+--- Rating #12 ---
+Class: BUS316
+Date: 2021-04-30 07:35:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Absolute worst prof at beedie. First class I've ever taken where I seriously considered asking for a refund.
+
+--- Rating #13 ---
+Class: BUS315
+Date: 2020-12-13 23:12:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+She is very bad at teaching, heavy lecture, not fun at all, she makes it even harder and skips important steps when solving questions, investment is supposed to be a very interesting and engaging course, but she just....I don't want to write too much about her, just skip her if you have the chance. 4 assignments and 2 mini projects, 1 final. skip!
+
+--- Rating #14 ---
+Class: BUS315
+Date: 2020-01-05 17:00:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Her writing is illegible, she skips a lot of material in class and assumes we know too much. She doesn't go through many examples in class and the homework has little or no relation to exam material
+
+--- Rating #15 ---
+Class: BUS316
+Date: 2019-04-10 06:07:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Doesn't explain how she got answers. Kinda wish Andrew Florstrand teaches this class. One of those profs that knows her crap but can't teach.
+
+--- Rating #16 ---
+Class: BUS316
+Date: 2019-04-10 06:04:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Her notes are so messy that it pisses me off. She posts problems on the slides and use a surface pro pen to write the answer all over it. She skip steps because she expects everyone is following along, and I had to go home and figure out how she got the answers. Also, she doesn't post the solutions to problems done in class. Exams were fair tho
+
+--- Rating #17 ---
+Class: BUS316
+Date: 2019-04-09 00:35:40 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Messy notes, skip steps, hard to follow on. Literally write directly on the slides and solutions to problems shown in class are not posted. She does answer email questions really quick.
+
+--- Rating #18 ---
+Class: BUS315
+Date: 2017-12-24 12:18:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+I really liked the subject, financial investments, till I met Ying Duan. She speaks in a super tired voice, not explaining anything that makes sense. Her slides are out of this world awful so you will need to study a lot by yourself to get a good grip of her courses.
+
+--- Rating #19 ---
+Class: BUS316
+Date: 2016-04-21 20:03:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She's really kind and will help you if needed.  I found it difficult to follow her methods because she would skip steps in long formulations so I read the textbook and taught myself instead. Her averages were quite high for Finance (probably bc shes nice).. which is not necessarily a good thing.  I would take Avi Bick if I were to do it over again
+
+--- Rating #20 ---
+Class: BUS316
+Date: 2016-03-07 12:40:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She does have an accent, but it doesnt affect her ability to teach. However, it is a fundamentally hard course to teach. It requires a lot of practice to get used to derivatives. Tests are fair. Just be prepared to read (because she skips content sometimes) and work for your grades.

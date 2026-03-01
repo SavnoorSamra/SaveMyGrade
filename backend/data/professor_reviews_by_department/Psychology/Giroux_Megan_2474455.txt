@@ -1,0 +1,50 @@
+Professor: Megan Giroux
+Professor Legacy ID: 2474455
+Professor ID: VGVhY2hlci0yNDc0NDU1
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 3.7
+Avg Difficulty: 3.7
+Num Ratings: 3
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: PSYC102
+Date: 2025-04-06 11:58:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+i love baddie teacher yummy
+
+--- Rating #2 ---
+Class: PSYC102
+Date: 2019-11-15 21:51:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof. never thought a three hour lecture would be so enjoyable. She is very nice and her exams are pretty fare. Study her lecture notes and you're fine.
+
+--- Rating #3 ---
+Class: PSYC102
+Date: 2019-11-06 23:53:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Megan is one of the best profs I've ever had. She's younger and that somehow makes lectures tolerable even though they're 3 hours long. Attendance is necessary because there are 3 group discussions throughout the semester and you don't know when they are. Her exams are not hard, study the slides and you'll be fine.

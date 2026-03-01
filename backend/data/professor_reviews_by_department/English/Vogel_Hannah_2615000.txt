@@ -1,0 +1,11 @@
+Professor: Hannah Vogel
+Professor Legacy ID: 2615000
+Professor ID: VGVhY2hlci0yNjE1MDAw
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

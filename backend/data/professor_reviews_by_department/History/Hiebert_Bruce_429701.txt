@@ -1,0 +1,76 @@
+Professor: Bruce Hiebert
+Professor Legacy ID: 429701
+Professor ID: VGVhY2hlci00Mjk3MDE=
+Department (CSV): History
+Department (Fetched): History
+Avg Rating: 4.8
+Avg Difficulty: 3
+Num Ratings: 5
+Would Take Again Percent: -1
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: HIST390
+Date: 2009-12-31 18:04:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+This is one of the few classes I've taken where I actually felt that I was growing as a person. I went in as an arrogant atheist and came out as a more accepting atheist.
+
+--- Rating #2 ---
+Class: HIST424
+Date: 2008-05-03 04:24:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+A wonderful prof. Great course and fun learning environment.  Just do your homework and come prepare to class and you'll do just fine.
+
+--- Rating #3 ---
+Class: HIST390
+Date: 2004-11-13 00:48:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Genuinely interested in his students. His interest and bias in his topic make the course fun and clear. Wants his students to succeed, very approachable.
+
+--- Rating #4 ---
+Class: HST36363
+Date: 2004-11-12 16:54:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+wonderful teacher; very thoughtful and interested in student's opinion's and ideas; also very knowlegable and clear in his lectures
+
+--- Rating #5 ---
+Class: HIST390
+Date: 2004-07-02 15:51:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No midterm and only one large paper.  Interesting class.  Openly disdainful of historians.  Can't quite figure out his religious slant but definitely there.  Post-modernist....ugh

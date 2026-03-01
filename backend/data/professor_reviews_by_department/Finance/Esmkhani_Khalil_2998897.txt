@@ -1,0 +1,82 @@
+Professor: Khalil  Esmkhani
+Professor Legacy ID: 2998897
+Professor ID: VGVhY2hlci0yOTk4ODk3
+Department (CSV): Finance
+Department (Fetched): Finance
+Avg Rating: 3.8
+Avg Difficulty: 4
+Num Ratings: 5
+Would Take Again Percent: 60
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: BUS315
+Date: 2025-09-25 22:57:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very nice guy and receptive to feedback - can tell he genuinely cares about students' learning. 
+
+Class is out of 110%, the extra 10% is participation 
+
+Not the best teacher, goes off on tangents relating to theory that are not directly testable, and doesn't make that clear. 
+
+Class is hard - not his fault, just difficult content.
+
+--- Rating #2 ---
+Class: BUS315
+Date: 2025-04-16 16:40:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Pay attention in class, study the homework and class examples and you will do fine. It's worth participating in class as you get extra marks.
+
+--- Rating #3 ---
+Class: BUS315
+Date: 2025-04-12 04:40:22 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He was personable and receptive to feedback, but his teaching lacked effectiveness. Lectures veered off on non&#8209;testable theory, skipped core concepts, and frequently backtracked, muddling the message. Despite studying the text and problem sets, exam content exceeded the syllabus, and grades for assignments&#8239;2 and&#8239;3 remain unreleased.
+
+--- Rating #4 ---
+Class: BUS315
+Date: 2024-04-21 03:27:25 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+it was his first semester teaching so there were a few kinks but was but he was committed to students learning and incorporating our feedback, the midterm was difficult but similar in comparison to other finance classes study the assignments/excel and you'll be fine, overall khalil was very caring and personable
+
+--- Rating #5 ---
+Class: BUS315
+Date: 2024-04-19 18:40:58 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His lectures are quite boring. He's a little unorganized. His midterm was a bit difficult, requiring a thorough understanding of the materials. Additionally, he tends to include Excel questions in both the midterm and assignments.

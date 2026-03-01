@@ -1,0 +1,271 @@
+Professor: Emily Ip
+Professor Legacy ID: 2343885
+Professor ID: VGVhY2hlci0yMzQzODg1
+Department (CSV): Art & Design
+Department (Fetched): Art amp Design
+Avg Rating: 2.7
+Avg Difficulty: 3.6
+Num Ratings: 24
+Would Take Again Percent: 41.6667
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: IAT102
+Date: 2025-07-06 04:47:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is very knowledgeable. Knows her stuff well. Willing to help if you are not shy to ask. Very awesome if you ask me.
+
+--- Rating #2 ---
+Class: IAT102
+Date: 2022-08-04 01:33:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Emily is a fantastic professor. She has near-total expertise on Graphic Design, and will answer any question you might have (as long as your question is understandable). Workload on projects is pretty sizeable, weekly assignments should take 2-3 light days, but you'll grasp the concept pretty consistently. PAIR UP WITH HARD WORKING CLASSMATES
+
+--- Rating #3 ---
+Class: IAT110
+Date: 2022-04-25 07:02:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dont take class with her
+
+--- Rating #4 ---
+Class: IAT110
+Date: 2022-04-10 08:01:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Emily has created a very well structured curriculum that can be perfectly fit into a single semester, but unfortunately does not fit the bill when it comes to grading. This is a 100-level IAT course meant for non IAT majors (hence the Burnaby campus location, etc), but she grades your work as if you're a senior design student. ESL students beware.
+
+--- Rating #5 ---
+Class: IAT110
+Date: 2022-01-06 16:26:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Emily is very accessible outside of class hours, make the effort to visit her + get feedback on your projects. Workload was based off of lectures (concepts were easy to understand + apply, but the work was time consuming). Brush up on concepts to prep for midterm and you'll do fine.
+
+--- Rating #6 ---
+Class: IAT110
+Date: 2021-11-14 22:28:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I hated her so much. I've never had such a bad experience in a class before. Not only is she an extremely hard marker (harder than IAT100) but she is just a terrible prof who barely cares about her students. I complained about my terrible groupmates who did no work and she barely did anything to resolve it. literally made me cry at office hours.
+
+--- Rating #7 ---
+Class: IAT102
+Date: 2020-05-18 19:17:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She gives amazing and helpful feedbacks if you really try your best in doing the projects.
+
+--- Rating #8 ---
+Class: IAT110
+Date: 2020-04-18 00:15:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The worst class and professor at SFU. Do not take this class. Absolutely destroyed my GPA and my will to live. You have to go to class to pass the class, and the assignments are ridiculous. Absolutely useless for real life, might as well watch a youtube video on how to take pictures and draw stick people. DO NOT TAKE THIS CLASS!
+
+--- Rating #9 ---
+Class: IAT110
+Date: 2020-02-26 07:45:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She's really a good professor and I love her soooooo much
+
+--- Rating #10 ---
+Class: IAT110
+Date: 2020-01-09 01:06:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+In her class, she asks for specific things. Before you submit your assignments, ask her first on what to improve (sometimes she will let you do this through email). My grades jumped from 50s to 90s after doing this. She gives A LOT of assignments in order for students to practice more. But the course itself is not too hard as long as you listen
+
+--- Rating #11 ---
+Class: IAT110
+Date: 2019-08-09 23:45:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+4 assignments, one group project and one midterm this prof is fine, but TAs are not TAs hardly speak English and one of TA is kind of mean This course is marked by the feeling fo TA
+
+--- Rating #12 ---
+Class: IAT110
+Date: 2019-06-26 20:15:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Too many assignments
+
+--- Rating #13 ---
+Class: IAT102
+Date: 2019-06-06 00:10:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+kind
+
+--- Rating #14 ---
+Class: IAT110
+Date: 2019-05-12 00:39:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+lots of assignments, very hard class. I don't recommend to take any class with her.
+
+--- Rating #15 ---
+Class: IAT110
+Date: 2019-05-09 22:01:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She is a tough grader
+
+--- Rating #16 ---
+Class: IAT102
+Date: 2019-04-24 05:54:35 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Never Take Emily. She will cut down your marks. Horrible at Grading.
+
+--- Rating #17 ---
+Class: IAT102
+Date: 2019-01-24 23:31:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+It is tough for beginner, lecture is super boring, heavy HW. Overall, I did not find i learned anything from her course at the beginning of first three classes. Skip her! (Plus, you won't get any feedbacks after she graded your HW, I spent more time and energy on her course than other three.)
+
+--- Rating #18 ---
+Class: IAT110
+Date: 2019-01-07 19:57:15 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Even though Emily gives you readings from the textbook, they were not that necessary and didnt cover anything that wasnt in the lecture slides. Id recommend not buying them if youre looking to save a few bucks. The marking schemes were a pain, if you didnt go above and beyond what they asked of you, you wouldnt get full marks in that section.
+
+--- Rating #19 ---
+Class: IAT110
+Date: 2018-12-08 22:27:55 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Emily goes through her lectures and everything pretty thoroughly and is straight to the point. She likes to use videos and in-class assignments in lectures to help you learn which is nice. Overall pretty chill and very open for students to come after class or during office hours for extra help. Her class was an easy A just workload heavy
+
+--- Rating #20 ---
+Class: IAT110
+Date: 2018-12-06 02:10:28 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+You would need to work extra hard to get decent grades, and sometimes even the best work I've put in wasn't enough. The work itself is not super difficult but it's way too much workload for every week and the grading is relatively tougher than other courses. Hard to believe it is a first-year course for non-siat students.

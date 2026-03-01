@@ -1,0 +1,76 @@
+Professor: David Kaufman
+Professor Legacy ID: 1835730
+Professor ID: VGVhY2hlci0xODM1NzMw
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 3.8
+Avg Difficulty: 2.4
+Num Ratings: 5
+Would Take Again Percent: 75
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: EDUC351
+Date: 2020-06-04 04:20:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This was the easiest class I have ever taken. I am a science major and took this as an upper-div elective . Two short summaries and 3 assignments plus a take-home midterm and final paper. All marked super easy and only thing that takes time is the take home midterm. 10/10 take this course as a gpa booster. In person is 10x easier than online
+
+--- Rating #2 ---
+Class: EDUC351
+Date: 2019-08-18 22:36:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+Weekly discussions were easy marks, assignments were extremely boring but graded fairly, final assignment is a 3000 word essay so start on time! take home midterm was soooo long and poorly written and organized, but fairly marked. I would recommend this course as an elective
+
+--- Rating #3 ---
+Class: EDUC863
+Date: 2018-06-15 18:00:26 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Oh boy, here we go. David is a very caring person, but he is an incompetent instructor. This is especially confounding because he's in the Ed department. He's disorganized, doesn't really give instruction in class (well anyway) and overall really doesn't know how teach a very challenging subject. He is willing to help as much as you need, however.
+
+--- Rating #4 ---
+Class: EDUC351
+Date: 2017-08-02 15:35:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+David is an amazing professor! I am so glad I took this class- the work load was very manageable. 100% recommend him for any class. Formula to do well- show up to class, do the group work & readings, and put in effort into the assignments.
+
+--- Rating #5 ---
+Class: EDUC351
+Date: 2013-12-10 21:52:35 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: True
+Online Class: True
+Comment:
+I took this class online so cant say too much about David. The set up of the class was confusing and the assignments were boring. Take home midterm was very long and poorly set up. Emily was a terrible TA. Marked way too hard and wouldn't answer questions for days at which point it was too late. Awful TA which ruined the class

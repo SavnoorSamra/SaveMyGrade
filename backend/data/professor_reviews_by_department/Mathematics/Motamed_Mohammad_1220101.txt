@@ -1,0 +1,50 @@
+Professor: Mohammad Motamed
+Professor Legacy ID: 1220101
+Professor ID: VGVhY2hlci0xMjIwMTAx
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.5
+Avg Difficulty: 2.7
+Num Ratings: 3
+Would Take Again Percent: -1
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: MATH151
+Date: 2011-08-23 09:46:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+enthusiastic
+
+--- Rating #2 ---
+Class: MATH151
+Date: 2009-08-30 15:31:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #3 ---
+Class: MATH151
+Date: 2009-04-06 22:58:28 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Prof has high interest in subject, but unable to clearly communicate the concepts. As an example, I once asked him a LON CAPA question, he was unable to get the right answer and said he would &quot;omit&quot; it (but he never did). I then asked one of the TA's in the calc workshop and she was able to quickly clarify the soluion for me.

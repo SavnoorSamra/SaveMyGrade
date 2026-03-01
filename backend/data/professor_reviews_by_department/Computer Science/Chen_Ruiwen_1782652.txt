@@ -1,0 +1,128 @@
+Professor: Ruiwen Chen
+Professor Legacy ID: 1782652
+Professor ID: VGVhY2hlci0xNzgyNjUy
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.1
+Avg Difficulty: 2.3
+Num Ratings: 9
+Would Take Again Percent: -1
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: CMPT470
+Date: 2015-01-09 19:47:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+best
+
+--- Rating #2 ---
+Class: CMPT125
+Date: 2014-08-17 13:27:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Ruiwen is a good prof. He can sometimes be unclear at time but overall he's good at explaining concepts. He's also a very easy prof!
+
+--- Rating #3 ---
+Class: CMPT126
+Date: 2014-08-06 17:17:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+This class is better if you have previous knowledge of programming in Java.  I took this class as a refresher course , and compared to other Intro to Programming classes I've taken at other schools, you're mostly on your own here, and the lectures don't go as in depth as they should.  But I suppose for such a large class, its difficult.
+
+--- Rating #4 ---
+Class: CMPT126
+Date: 2014-07-21 17:53:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Lecture is useless
+
+--- Rating #5 ---
+Class: CMPT125
+Date: 2013-04-02 16:19:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+So easy and fun class. Absolutely loved the way he used google docs for assignments with comments and discussions. Got an A and never used a textbook, all from his slides and some google =)
+
+--- Rating #6 ---
+Class: CMPT125
+Date: 2013-02-11 22:23:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+aw he's such a sweetie! explains, posts helpful hints and answers to assignments. only thing is that some assignments were extremely hard compared to the final. not doable for a new programmer (they were what brought my mark down). final was fair unlike other cmpt courses. 3 page double sided cheatsheet, YES. STUDY LOTS.
+
+--- Rating #7 ---
+Class: CMPT126
+Date: 2013-01-04 17:18:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Sessional instructor, originally from China. English is poor, but he does his best to explain everything in a clear manner. Very good for first time teaching a course. Only 1 or 2 classes were taught poorly. Extremely prompt in replying to emails and good office hours.
+
+--- Rating #8 ---
+Class: CMPT126
+Date: 2013-01-03 02:39:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+very clear, very helpful
+
+--- Rating #9 ---
+Class: CMPT125
+Date: 2012-12-15 04:39:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Gives you interesting problems to solve for assignments. Always willing to help and answers emails very fast.

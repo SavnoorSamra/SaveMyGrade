@@ -1,0 +1,128 @@
+Professor: Shawn Chartrand
+Professor Legacy ID: 2953529
+Professor ID: VGVhY2hlci0yOTUzNTI5
+Department (CSV): Environmental Science
+Department (Fetched): Environmental Science
+Avg Rating: 5
+Avg Difficulty: 2.2
+Num Ratings: 9
+Would Take Again Percent: 100
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: EVSC100
+Date: 2026-01-02 21:47:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+He is great! One of my favourite professors. He is so passionate and loves talking about EVSC. Every week, I looked forward to going to his classes, as they taught me so much. His tutorials are useful, as well as his weekly quizzes. His exams can be challenging. He is amazing, very approachable and cares to improve. Thank you! I highly recommend.
+
+--- Rating #2 ---
+Class: EVSC100
+Date: 2025-12-07 06:34:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Shawn is possibly the best professor I had in SFU, amazing class. Thank you sir
+
+--- Rating #3 ---
+Class: EVSC100
+Date: 2025-11-15 03:11:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Shawn is such a kind person. He was extremely approachable in and outside of class, and was willing to connect with students if he ran into you, even if it was not about the course. Very passionate about what he teaches. The material is not easy if you are not an STEM student, but if you put in the work you can do well. Take a course with Shawn!
+
+--- Rating #4 ---
+Class: EVSC100
+Date: 2025-05-04 16:13:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The best professor I've had at SFU so far. I had him for EVSC 410 and despite being in my second year, he made the content very understandable and easy to follow with no background in restoration. Definitely recommended him in the course surveys. Make sure to take a class with him, he is an excellent professor!
+
+--- Rating #5 ---
+Class: EVSC100
+Date: 2025-02-26 12:24:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Chartrand is very passionate about what he does, he really tries to engage the class. The lectures were easy to understand and often he'd play videos or podcasts. I ran into him at Starbucks and he recognized me and said hello and we had a conversation. Very genuine caring professor. Lectures were interesting if you want them to be
+
+--- Rating #6 ---
+Class: EVSC100
+Date: 2025-02-04 10:16:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Shawn is the best professor I've had at SFU, and the only one I've gotten to know on a personal level. I took EVSC100 with him and he was incredible. Clearly very passionate about his work and personable. He was a friendly face in the hallways and my friend and I were able to enjoy coffee with him a couple times during the semester. Take his class!
+
+--- Rating #7 ---
+Class: EVSC100
+Date: 2024-12-08 00:50:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Super chill guy. You can tell he cares about his students, and is passionate about his field of study. All around he's a really great human.
+
+--- Rating #8 ---
+Class: EVSC100
+Date: 2024-09-12 21:50:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+HOMELANDER!!!!!
+
+--- Rating #9 ---
+Class: EVSC100
+Date: 2023-11-25 01:54:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Had Shawn for EVSC100 in Fall 2023, and he was one of the easiest and best classes I've had. Easy-to-follow lectures and engaging short articles. One midterm, final, and easy weekly engagement quizzes. Tutorials are super easy as well (mostly just looking at charts + analysing data), but make sure to attend to understand the assignments.

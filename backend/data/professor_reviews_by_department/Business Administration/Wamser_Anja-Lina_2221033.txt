@@ -1,0 +1,50 @@
+Professor: Anja-Lina Wamser
+Professor Legacy ID: 2221033
+Professor ID: VGVhY2hlci0yMjIxMDMz
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.7
+Avg Difficulty: 4
+Num Ratings: 3
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: MARK1120
+Date: 2017-09-15 14:45:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is one of the best instructor I have ever met. It's easy to follow her and join in her class activities without any pressure. Her marking is clear and helpful.
+
+--- Rating #2 ---
+Class: MARK1120
+Date: 2017-09-13 20:20:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is a nice professor! She is very helpful whenever you have any questions or problems. The simulation project is fun and the study sheets for exams are effective.    I learned a lot from her including theories, practice and language!
+
+--- Rating #3 ---
+Class: BUS489
+Date: 2016-12-30 03:17:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+There were too many written assignments due every week. She had rigid assignment instructions, which required additional clarity to actually do the work. She's also a tough grader who has unclear grading expectations. Overall, I'm disappointed I took this class with her since I didn't learn anything.

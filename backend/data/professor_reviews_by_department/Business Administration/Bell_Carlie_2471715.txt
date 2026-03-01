@@ -1,0 +1,76 @@
+Professor: Carlie Bell
+Professor Legacy ID: 2471715
+Professor ID: VGVhY2hlci0yNDcxNzE1
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.4
+Avg Difficulty: 3.6
+Num Ratings: 5
+Would Take Again Percent: 80
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: BUEC232
+Date: 2020-04-30 23:00:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Carlie is the best among the other buec 232 profs. She's a bit of a ditz sometimes LOOL but still teaches the concepts well. For a 4-credit course, 232 had very little workload (2 assignments, midterm, and final). Midterm average is high so study hard.
+
+--- Rating #2 ---
+Class: BUEC232
+Date: 2019-05-04 06:53:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is a good prof to take BUEC 232 with. She tells what concepts are useful and what are not in real life. She gives a clear idea of the concepts she will test in exams. Focuses on the understanding of the concepts and tests the same in the exams. Missed few classes and did majority of the studying last week still managed to do fairly good.
+
+--- Rating #3 ---
+Class: BUEC232
+Date: 2019-04-25 00:29:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This is her first time teaching in SFU Spring 2019. She is kind and caring about her students. She tries her best to help students with questions about materials. Its 4 credits so just lots of stuff to learn if you havent taken any stat course. Honestly, recommend taking class with her cz she makes things easy for you to learn
+
+--- Rating #4 ---
+Class: BUEC232
+Date: 2019-04-18 03:40:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Her lecture notes are confusing compared to another stat course I took in the past. I hope she can go through examples by hand rather than just presenting them on the slides. She does not provide practice questions, instead, you have to resort to Wileyplus (which sucks!!!) Questions from this site are confusing in terms of wording and length.
+
+--- Rating #5 ---
+Class: BUEC232
+Date: 2019-04-07 02:32:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is prof who gives you real-life advice and which is helpful. This is the first time she is taking a course at SFU Spring 2019, but she is fantastic. She tries hard to make it easy for the student. BUEC 232 is a four credit course. The course load is usually substantial. It is highly recommended to take a class with her.

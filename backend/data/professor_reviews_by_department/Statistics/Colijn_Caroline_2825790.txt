@@ -1,0 +1,11 @@
+Professor: Caroline Colijn
+Professor Legacy ID: 2825790
+Professor ID: VGVhY2hlci0yODI1Nzkw
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

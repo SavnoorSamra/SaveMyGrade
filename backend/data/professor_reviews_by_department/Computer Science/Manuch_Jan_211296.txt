@@ -1,0 +1,193 @@
+Professor: Jan Manuch
+Professor Legacy ID: 211296
+Professor ID: VGVhY2hlci0yMTEyOTY=
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.3
+Avg Difficulty: 3.1
+Num Ratings: 14
+Would Take Again Percent: -1
+
+Ratings Count Returned: 14
+
+--- Rating #1 ---
+Class: MATH157
+Date: 2010-12-12 14:09:11 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Lectures were fast, and easy to follow, sometimes difficult to understand him because of his accent, but it is a pretty easy course. Assignments are not difficult, and midterms and final all had marks taken off the total to give everyone a higher percentage! Prof is helpful to the questions you ask him, and will tell you exactly what's on the exams
+
+--- Rating #2 ---
+Class: MATH157
+Date: 2010-12-12 02:29:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Jano (Ya-Know) cannot teach for his life. He had to scale both mid-terms significantly and trimmed the total of the final exam from 100 to 75. His inability to translate his knowledge infuriates you as you pay nearly $500 to listen to a person who just arrived from Europe. Lastly, his tests are non calculator and are EXTREMELY hard.
+
+--- Rating #3 ---
+Class: MATH157
+Date: 2010-11-09 01:45:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Lets put it this way: when you have to scale both midterms because the class average was a definite fail- we know there is an issue. He tries his best- but he should really stick to what he knows. The material is easy; but he cant teach it.
+
+--- Rating #4 ---
+Class: MATH157
+Date: 2010-11-05 01:55:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He seriously needs to work on his penmanship and his english. I find it incomprehensible and I have to rely on my textbook most of the time. Also, he goes through the material in lectures too fast.
+
+--- Rating #5 ---
+Class: MATH308
+Date: 2009-08-12 00:41:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+308 is as easy as upper maths get.  Course pace is slow due to proofs (of which a good deal aren't really necessary).  I skipped most lectures and relied mainly on textbook.
+
+--- Rating #6 ---
+Class: MATH308
+Date: 2009-08-05 19:26:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I don't know why he is teaching math even though he is in cs. I can't understand his lectures, I can't even understand his English or his writing. He seems to know the material but can't teach. Assignments are hard as well.
+
+--- Rating #7 ---
+Class: CMPT225
+Date: 2006-08-22 16:29:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+nice guy, however, speaks not clear enough and give lectures without interacting with students. However, he seems really care. If u ask him a question, he will explain to u in detail. I say, attitude counts too.
+
+--- Rating #8 ---
+Class: CMPT225
+Date: 2006-08-22 14:29:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+His lectures aren't that great, but he is fairly helpful in terms of questions/deadlines/marking schemes. Also, the material he presents in his powerpoint slides covers the course well enough to get a good grade on both assignments and the exams.
+
+--- Rating #9 ---
+Class: CMPT225
+Date: 2006-08-08 04:18:19 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+This guy needs to learn to speak english.
+
+--- Rating #10 ---
+Class: CMP212
+Date: 2006-01-16 01:09:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+nice guy, horrible english, understood the notes but not him. super difficult assignments that did not concentrate on learning the synatx and structure of c++. mostly learnt all the theory of c++, which is what was on the test, (this saves you)
+
+--- Rating #11 ---
+Class: CMPT212
+Date: 2004-08-11 00:17:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+His lecture notes are unclear and hard to understand. He speaks unclearly and too softly during lectures (I can't hear much of what he says). He understands the material, but have a hard time putting it into words.
+
+--- Rating #12 ---
+Class: CMPT307
+Date: 2003-10-17 01:56:19 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Sucks!  Can't speak or write~I can't believe the calibre of profs that sfu can only hire with the already increased tuition.  This guy can't communicate his work with students.  I saw more than 1/2 the class not hand in their hwk after midterm 1!
+
+--- Rating #13 ---
+Class: CMPT307
+Date: 2003-08-13 05:04:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #14 ---
+Class: CMPT307
+Date: 2003-06-13 18:41:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He's a nice guy but he can't speak or write clearly, seriously

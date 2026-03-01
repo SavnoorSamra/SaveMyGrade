@@ -1,0 +1,63 @@
+Professor: Ryan McBride
+Professor Legacy ID: 2564783
+Professor ID: VGVhY2hlci0yNTY0Nzgz
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.8
+Avg Difficulty: 3.5
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: MACM101
+Date: 2020-07-21 17:03:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This is his first time teaching. First impression wise, it can get a bit awkward from time to time. However, his lecture slide is very useful and clear. His exams are fair. He is also very responsive either through email or meeting him in person. Pay attention to his lecture slides. Some questions may come up during the exam.
+
+--- Rating #2 ---
+Class: MACM101
+Date: 2020-06-09 00:06:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+One of the best professors I've met at SFU, do not hesitate to take his class. Aside from well-taught lectures, he makes really good jokes. I honestly wished he taught more courses, especially the CMPT ones.
+
+--- Rating #3 ---
+Class: MACM101
+Date: 2020-05-05 17:50:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+His exams are fair enough. Make sure you study lecture slides and sample questions given by the prof!
+
+--- Rating #4 ---
+Class: MACM101
+Date: 2020-05-02 18:51:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Ryan is overall an amazing instructor! The course material is famous for being hard, but he did a very good job of teaching. His exams are fair, grading from TAs can sometimes be weird, but if you bring it up to him, he will fix it for you Tips for future students: ALWAYS ALWAYS ALWAYS review his slides, he will take questions from there on exams.

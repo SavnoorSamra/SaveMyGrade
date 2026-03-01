@@ -1,0 +1,50 @@
+Professor: Lisa Julian
+Professor Legacy ID: 3024825
+Professor ID: VGVhY2hlci0zMDI0ODI1
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 3.3
+Avg Difficulty: 3
+Num Ratings: 3
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: BISC447
+Date: 2024-08-12 01:56:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lisa is amazing & clearly passionate about stem cells & where the field is heading (which she is helping trailblaze). One of the most interesting courses I ever took at SFU. Grading was more than generous, the profs want you to succeed & as long as you show your effort and understanding (even if a bit incorrect) they would reward you for that.
+
+--- Rating #2 ---
+Class: BISC333
+Date: 2024-08-06 19:29:48 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+She goes very fast through the material and reads straight from the slides. There's a lot of information in her lectures and it's very disorganized. She seems nice and willing to help students learn, but sadly, it doesn't make up for not being very organized and clear. She's enthusiastic, but it's hard to follow what she's saying.
+
+--- Rating #3 ---
+Class: BISC333
+Date: 2024-08-06 19:16:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Lisa is friendly and easy to talk to. I appreciated that she included summaries or learning objectives on her slides, which were really helpful for studying. However, she can be a bit disorganized and often just reads from the slides.

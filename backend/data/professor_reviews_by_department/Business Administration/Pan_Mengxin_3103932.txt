@@ -1,0 +1,11 @@
+Professor: Mengxin Pan
+Professor Legacy ID: 3103932
+Professor ID: VGVhY2hlci0zMTAzOTMy
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

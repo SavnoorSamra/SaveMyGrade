@@ -1,0 +1,273 @@
+Professor: Erin Barley
+Professor Legacy ID: 780484
+Professor ID: VGVhY2hlci03ODA0ODQ=
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 3.8
+Avg Difficulty: 3.3
+Num Ratings: 75
+Would Take Again Percent: 72.2222
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BISC101LAB
+Date: 2025-12-19 08:58:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+The instructor teaches lab material really well and explains things clearly. Sometimes she can come off a bit blunt. One time a student needed medical help, and it felt like she wasn't very supportive. Overall, good teacher but interactions can be frustrating.
+
+--- Rating #2 ---
+Class: BISC102LAB
+Date: 2025-11-29 20:02:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Spent an hour of every lab essentially doing a mini-lecture; REALLY helpful bc she touches on the stuff that's in lectures too.
+Seems really passionate about what she does, is really patient with questions and instructions. 
+VERY clear about what was on/not on the lab exam; literally a whole slide about what you'd see on it. Love her.
+
+--- Rating #3 ---
+Class: BISC102LAB
+Date: 2025-11-25 23:02:42 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Somewhat unclear instructions, harsh and nitpicky grading and unhelpful feedback
+
+--- Rating #4 ---
+Class: BISC316
+Date: 2025-08-14 01:18:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Cannot say enough good things about Erin. I had her for invertebrate biology and liked the class and her teaching style so much, I had to take vertebrate biology with her again. She sadly didnt teach the lecture part. Extremely insightful and patient in labs. Clear grading criteria. Exam length and format appropriate and u can easily do well.
+
+--- Rating #5 ---
+Class: BISC316
+Date: 2025-08-14 01:06:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Erin was my Lab professor for BISC 316. She's amazing and I wish she would teach the lectures too. She has great prep material even if you don't have the textbook. She spends an hour of the lab explaining and going through everything which is so helpful. She was the best part of this course because the lectures were a nightmare.
+
+--- Rating #6 ---
+Class: BISC316
+Date: 2025-08-14 00:26:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Erin was great I only had her for labs but I learned more about the course material from her then I did the lecture prof she great to talk to if you need help and will away answer questions and is also very exited if you want to learn more in depth about a topic. Her exam aren't hard if you STUDY and she very clear on what you need and dont need
+
+--- Rating #7 ---
+Class: BISC316
+Date: 2024-12-20 06:08:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I thought Erin was a fantastic professor! She was always willing to answer questions, had unlimited patience in the labs, which was excellent because I kept asking her the same questions, and she presented information during lectures in a clear and concise manner.
+
+--- Rating #8 ---
+Class: BISC316
+Date: 2024-08-07 06:16:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took BISC316 with Erin this summer 2024 and she was amazing. Handful of us didnt do well on the 1st lecture midterm so in she gave us an alternative grading option to allow us to still do well in the course. She is also extremely approachable and so knowledable about vertebrate biology. I took this class at random and ended up learning so much.
+
+--- Rating #9 ---
+Class: BIOL102
+Date: 2023-04-26 23:05:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She was sweet but a tough grader. Always open to helping, and being nice. Evens out how awful the lecture prof was.
+
+--- Rating #10 ---
+Class: BISC306
+Date: 2023-04-08 09:29:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Erin is excellent. She is kind, approachable, and great at explaining concepts and running interesting labs. She makes exams very fair and is abundantly clear about what to expect - she seems to really value student learning and success. Would recommend any class with her!
+
+--- Rating #11 ---
+Class: BISC316
+Date: 2023-03-22 03:48:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Erin is great. She is really nice and actually cares about her students. She explains things well and makes sure to connect concepts across the whole semester. I think she is one of the best bio instructors at SFU.
+
+--- Rating #12 ---
+Class: BISC316
+Date: 2022-07-31 00:19:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Erin is an excellent professor; it is clear that she cares about students and their learning, and makes lectures and labs interesting and helpful. Her exams are very challenging and answers do sometimes have to be overly specific, but in general the tests and assignments were fair and fun.
+
+--- Rating #13 ---
+Class: BISC316
+Date: 2022-01-24 19:56:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Erin is a great prof and explains concepts very clearly. Her slides contain all the information that she examines you on. There is a lot of material for this class, but she breaks it down into a very understandable way. She is also a very fair grader on exams. One of my favourite classes I've taken!
+
+--- Rating #14 ---
+Class: BISC316
+Date: 2022-01-22 07:56:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Erin Barley is an excellent prof. I could tell she puts effort into her course structure and lectures. She knew this course was extremely heavy and did a good job of breaking it down to make it easier for her student. A great prof overall.
+
+--- Rating #15 ---
+Class: BISC316
+Date: 2021-12-19 19:12:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Erin is super sweet and she's fantastic at explaining concepts! Her lecture notes are clear and straightforward and contain all the information you need to know for exams. Her grading is more lenient compared to the TAs and she even gives outlines for her finals so you know what to expect and can prepare ahead of time. 100% would reccommend!
+
+--- Rating #16 ---
+Class: BISC102
+Date: 2021-09-23 23:54:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Don't expect such a horrible experience during her semester. Low efficiency, rush on course material, rough grading of various aspect of labs.
+
+--- Rating #17 ---
+Class: BISC102
+Date: 2021-07-25 10:12:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+BISC 102 is challenging but also interesting at the same time. Dr. Barley expects students to put forth their best effort. She simplifies complex concepts and is very willing to help you out.
+
+--- Rating #18 ---
+Class: BISC102
+Date: 2021-02-22 00:51:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Don't expect that you can acquire any good accomodation from her. You will feel overwhelmed if you take her course with competent workload. Avoid at all cost, self study would be a much better choice.
+
+--- Rating #19 ---
+Class: BISC102
+Date: 2020-07-24 09:23:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Erin earns my respect. She as well as the other Instructors have really worked hard in creating interesting labs. By far BISC 102 is the most organized online course that I am taking. I really appreciate the check list of things to do at the beginning and end of the week. Erin challenges you to think, which is vital for a great Instructor.
+
+--- Rating #20 ---
+Class: BISC102
+Date: 2020-07-14 22:20:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Refuse to provide any alternatives to any adversity.

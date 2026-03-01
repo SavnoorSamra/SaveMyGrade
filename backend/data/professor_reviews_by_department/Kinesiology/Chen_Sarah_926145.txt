@@ -1,0 +1,11 @@
+Professor: Sarah Chen
+Professor Legacy ID: 926145
+Professor ID: VGVhY2hlci05MjYxNDU=
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

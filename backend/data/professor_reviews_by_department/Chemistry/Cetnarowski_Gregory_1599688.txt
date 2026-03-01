@@ -1,0 +1,37 @@
+Professor: Gregory Cetnarowski
+Professor Legacy ID: 1599688
+Professor ID: VGVhY2hlci0xNTk5Njg4
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: CHEM261
+Date: 2015-05-11 15:22:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Really good professor who understands the material extremely well. Lectures are well put together so there is no need for a textbook. He tests you specifically on what he teaches, but don't expect it to be easy. One of the best classes I've taken including both my undergrad and masters degree.
+
+--- Rating #2 ---
+Class: CHEM371
+Date: 2012-11-18 00:20:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Awesome teacher.  If you have questions after class, he is available to clarify it for you.  Well organized lectures with a witty tone.

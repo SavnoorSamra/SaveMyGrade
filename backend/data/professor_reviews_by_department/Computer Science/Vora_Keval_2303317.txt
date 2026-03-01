@@ -1,0 +1,278 @@
+Professor: Keval Vora
+Professor Legacy ID: 2303317
+Professor ID: VGVhY2hlci0yMzAzMzE3
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.3
+Avg Difficulty: 4
+Num Ratings: 88
+Would Take Again Percent: 56.8182
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT431
+Date: 2026-02-27 03:58:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Never again, another professor abusing the ability to get away with C- averages. It's a prof problem and a school problem, it's not the students. Absolute worst experience, I hope he sleeps poorly.
+
+--- Rating #2 ---
+Class: CMPT431
+Date: 2026-02-11 00:10:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Poor grading schemes that don't reflect student's work, but rather reflect a clear effort in trying to undermine students no matter how well they actually do.
+
+--- Rating #3 ---
+Class: CMPT431
+Date: 2025-12-22 16:20:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+C- average what can i say :sob:
+
+--- Rating #4 ---
+Class: CMPT431
+Date: 2025-12-14 23:01:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+If exams are easy if you attend lectures then why the C- average.
+Take this only if you want a challenge and a low gpa.
+
+--- Rating #5 ---
+Class: CMPT431
+Date: 2025-12-14 11:30:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+RUN! DON'T TAKE THIS COURSE!!!!!!
+prof have heavy accent.
+Assignments worth 40% and Exams 60%.
+Class final grade average C-, NO SCALE UP. Exam 1 Mean  57% Median 59% Exam 2 Mean 40% Median 40% Exam 3 Mean 42% Median 43%
+
+If "Exams are easy if you attend lectures" then why we have 86 people but only 7 people got 60% or above on Exam 3
+
+--- Rating #6 ---
+Class: CMPT431
+Date: 2025-12-14 10:56:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Run! All the good review u saw were fake. Class average is c- no curves. If you ask him questions he in class he will just mock you for being dumb.
+
+--- Rating #7 ---
+Class: CMPT431
+Date: 2025-12-14 05:05:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+How the department approved a C- avg is beyond me. Exam avgs are 40-50% and is worth 60% of the total. Assignments are better but still ambiguous. At least with other tough courses they'd scale or curve if the class is failing. This guy doesn't do that. Never take a course with him unless absolutely necessary or if you don't care about your GPA.
+
+--- Rating #8 ---
+Class: CMPT431
+Date: 2025-10-21 16:20:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Everything is coding based. Exams are easy if you attend lectures. Keval covers a lot in lectures than his slides actually.
+
+--- Rating #9 ---
+Class: CMPT431
+Date: 2025-07-22 01:21:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Keval is a good teacher who makes you work hard, but we learn a lot. The coding assignments are practical but not simple. This course made me realize my previous classes were useless money wasted. I got job in cloud infrastructure company because of this course because the interviewing team knew about Keval's tough standard!!!!
+
+--- Rating #10 ---
+Class: CMPT431
+Date: 2025-05-05 04:50:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Amazing lectures getting easy topics could cover advanced topics
+
+--- Rating #11 ---
+Class: CMPT431
+Date: 2025-04-23 16:03:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Keval is super nice and understanding. The classes were awesome and more like discussions sometimes boring. The TA grades assignments very hard though. I thought I would get B but I got A- and my friends also got higher grades so we think he curves grades. Bad is many people failed because of plagiarism.
+
+--- Rating #12 ---
+Class: CMPT431
+Date: 2025-03-27 06:16:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Assignment descriptions are often vague, yet the expectations for implementation are extremely specific. Lecture slides could also be much clearer. Also lost marks on being too verbose on one assigment but for the following assigment they docked marks for not being verbose enough. Assigments didnt teach me much either, it was repetitive.
+
+--- Rating #13 ---
+Class: CMPT431
+Date: 2025-03-19 15:51:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Very good professor. Knows what he is teaching and knows coding. Only problem is he expects students to know basic coding from courses taken before. He also expects students to remember topics like discrete math and operating systems which is totally unreasonable.
+
+--- Rating #14 ---
+Class: CMPT431
+Date: 2025-03-10 03:15:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Quizzes, despite being online were only open Tuesdays between 2pm and 7pm, despite the lecture being on Friday. It's fine, not like people have jobs, commutes or anything important between 2pm and 7pm. Professor didn't even respond to an email asking for accommodation for this nonsensical policy.
+
+--- Rating #15 ---
+Class: CMPT431
+Date: 2025-01-30 04:08:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof in explaining and lecturing. Assignments are not difficult if you know simple C++.
+
+--- Rating #16 ---
+Class: CMPT431
+Date: 2025-01-27 19:48:46 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He explains well but the assignments are hard.  Also I'm really bad with accents but I got used to it by the second week.
+
+--- Rating #17 ---
+Class: CMPT431
+Date: 2025-01-27 19:29:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I felt that I did good on assignment 0 since tests passed but I got 30%, so I dropped the course. Hear me out. He explains really well as long as you stay engaged. But the assignments are too rough for me. There is an assignment every week, and I struggle so much despite starting 4 days before due date. In interest of mental health I had to leave.
+
+--- Rating #18 ---
+Class: CMPT431
+Date: 2024-01-23 02:20:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Lecturing is informative to learn a lot. Quizzes are easy if you follow material. I think the quizzes and assignments can be made more challenging. Plagiarism checking make many students get F grade. One of the few profs at SFU I respect.
+
+--- Rating #19 ---
+Class: CMPT431
+Date: 2024-01-14 23:51:18 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Quizzes are pretty rough, make sure to pay attention on the example in the lecture. Using chatGPT is even worse, you may get worse mark.
+The assignments are ok, but make sure you do it earlier.
+
+--- Rating #20 ---
+Class: CMPT431
+Date: 2023-12-20 07:10:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Quizzes are tough, so make sure you keep up with lecture material and ask questions. Assignments are graded very strictly as even a small seemingly small mistake (such as continuously allocating/deallocating an array in a loop) could cost you half marks of a 15% assignment. TA office hours are extremely helpful for coding assignments. Cheers.

@@ -1,0 +1,271 @@
+Professor: Ted Kirkpatrick
+Professor Legacy ID: 221641
+Professor ID: VGVhY2hlci0yMjE2NDE=
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.4
+Avg Difficulty: 2.3
+Num Ratings: 41
+Would Take Again Percent: 50
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT743
+Date: 2019-05-09 16:57:38 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The grading schemes kept shift according to the pace of the course. Lectures are recorded. Assignments are detailed. Communicate if you have questions or issues with assignment. Would also give an extension, if needed. You can easily get an B+/A if you follow instructions and do the submissions on time. Enjoyed the class
+
+--- Rating #2 ---
+Class: CMPT474
+Date: 2018-11-05 03:26:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Never take this professors class. Awful classes and simply awful grading practices
+
+--- Rating #3 ---
+Class: CMPT474
+Date: 2018-07-04 15:40:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Worst professor I have ever come across. He acts really nice and screws the student. Lot of favoritism. Worst class i have been to. Teaching is really poor as well. Wish I had not taken his class
+
+--- Rating #4 ---
+Class: CMPT474
+Date: 2016-08-16 04:47:08 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+easy stuff but the prof's very disorganized and not very good at teaching in general. i'd recommend to take this course tho as a gpa booster.
+
+--- Rating #5 ---
+Class: CMPT276
+Date: 2016-05-09 23:40:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Most disorganized prof ever! He's a great prof tho, really knows what he is talking about. Almost like a student as he procrastinates so much . Final was hard.
+
+--- Rating #6 ---
+Class: CMPT276
+Date: 2016-04-29 22:11:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Amazingly funny and very knowledgeable. Great at explaining concepts and ideas and is very patient. Really helpful outside of class as well. An amazing teacher in every way.
+
+--- Rating #7 ---
+Class: CMPT276
+Date: 2016-04-23 07:50:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Generally Ted is a very good professor however he's very disorganize. He procrastinates at the same level as a normal university student, so our group project was being written up while we're doing it. Also because of the time crunch a lot of the project was done by Ted and we wrote very little code. Great experience overall.
+
+--- Rating #8 ---
+Class: CMPT276
+Date: 2016-04-17 22:57:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Ted seemed to always be behind schedule in terms of topics and assignments. This made the first few weeks fairly slow and lacking in content and the latter half was basically a rush to get things done on time.  To be fair, he tries his  best to answer any questions and is always open to feedback.
+
+--- Rating #9 ---
+Class: CMPT225
+Date: 2016-03-11 21:13:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He's big on C++, so if you don't know it, then get ready for lots of work. He tried hard to make the class do-able for non-C++ students, but I still found it difficult. It was his first time teaching 225 (Fall 2015). 225 shouldn't be difficult if you study well. Textbook is your friend. And GO TO HIS OFFICE HOURS! He'll help you.
+
+--- Rating #10 ---
+Class: CMPT225
+Date: 2015-12-23 13:42:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+A great instructor - keeps class interested, hilarious if you share his sense of humour. Assignments are a bit long, but not at all difficult if you start early. Negatives: goes on tangents when students ask questions, could give more review material. Assignments took forever to mark, but fast exam marking more than compensated.
+
+--- Rating #11 ---
+Class: CMPT474
+Date: 2015-04-26 23:46:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+cmpt474 is still in course design stage. Assignments were not defined until very late in the semester. The prof and TA had to program more than all the students in order to setup assignment environments. Group processes consumed 23 of assignment time while most of the other 13 in his office asking for assignment requirement clarification.
+
+--- Rating #12 ---
+Class: CMPT474
+Date: 2015-04-24 22:06:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+He's very disorganized, and doesn't really know where the course is headed. Extremely unclear instructions. Scarce feedback. Irrelevant lectures. Save your money, and learn AWS on your own (unless you need this course for grad).
+
+--- Rating #13 ---
+Class: CMPT2XX
+Date: 2013-04-29 20:14:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Chipper, helpful but quite disorganized.  I spent a lot of time with the textbook on my own to get through the course.
+
+--- Rating #14 ---
+Class: CMPT120
+Date: 2011-12-28 18:20:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very good at clarifying questions. The first half of the course goes by too slowly and the second half is done very quickly so if you have a lot of trouble at the beginning this may not be the course for you.
+
+--- Rating #15 ---
+Class: CMPT120
+Date: 2011-12-15 00:38:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Prof is helpful during his office hour, really wants you to figure out for yourself how to solve your problem while giving little hints. Lectures are a little boring but informative, bring a coffee to keep awake. Nice professor, will miss him.
+
+--- Rating #16 ---
+Class: CMPT120
+Date: 2011-07-11 15:39:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+He's a good, fair professor. A bit disorganized but lectures are still interesting and he's clearly very knowledgeable in the material.
+
+--- Rating #17 ---
+Class: CMPT120
+Date: 2011-06-23 17:51:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Very accessible and very generous with his time in office hours. He's well-spoken and also more well-rounded in his knowledge than most cmpt profs. Interesting fellow who made the most of fairly dull material. Doesn't work off slides, takes criticism well--it was his first time teaching the class.  Would definitely take another class with him.
+
+--- Rating #18 ---
+Class: CMPT363
+Date: 2011-05-19 14:36:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Fun/interesting prof, although he was unorganized at times. It was also annoying to not have a textbook, not very used to HAVING to attend lectures and take notes these days. I actually feel like I learned some very important principles pertaining to user interfaces - but for the amount of content in this course,it could have been taught in a month
+
+--- Rating #19 ---
+Class: CMPT120
+Date: 2011-05-17 02:41:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+This class is easy as long as you keep you and know what you're doing. His lectures are boring. He gave only 1 assignment before the midterm and 5 assignments due before the final. Unfair marking. Gave 5 questions on the midterm that he DID NOT cover in lectures, then only gave 2.6 more marks. UNFAIR FINAL GRADE! I deserved WAY BETTER.
+
+--- Rating #20 ---
+Class: CMPT363
+Date: 2011-05-06 01:29:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Great lectures, no textbook needed.

@@ -1,0 +1,37 @@
+Professor: Eric Wong
+Professor Legacy ID: 2150566
+Professor ID: VGVhY2hlci0yMTUwNTY2
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 5
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS237
+Date: 2020-03-04 07:04:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+not sure why this is here, but I don't think Eric teaches this class anymore at SFU. I hear many people want to know where he went and if he is still teaching 237. He made the course fun with dad jokes, but it was a memorable class!
+
+--- Rating #2 ---
+Class: BUS237
+Date: 2017-05-01 22:11:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Eric is an awesome TA. He's always willing to help his students on assignments, and he replies to emails very quickly! Eric will teach you a lot about Microsoft Office and he makes tutorials very engaging and interactive. If you're taking BUS237, make sure to take a tutorial with Eric.

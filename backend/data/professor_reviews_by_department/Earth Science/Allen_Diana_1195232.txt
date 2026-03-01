@@ -1,0 +1,128 @@
+Professor: Diana Allen
+Professor Legacy ID: 1195232
+Professor ID: VGVhY2hlci0xMTk1MjMy
+Department (CSV): Earth Science
+Department (Fetched): Earth Science
+Avg Rating: 3
+Avg Difficulty: 4.6
+Num Ratings: 9
+Would Take Again Percent: 75
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: EASC315W
+Date: 2022-07-09 06:43:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Diana is a great prof. She really cares abut the students and will take the time to help you. But the labs and term project are difficult and take a lot of time. Go to her office hours and the TA's too. She will give you a good grade but will make you work for it.
+
+--- Rating #2 ---
+Class: EASC315W
+Date: 2021-12-19 02:02:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+extremely tough course, and workload is large + unclear instruction for lab assignment (over 12 hours/lab), means you need to attend all the labs and ask questions. Midterm and final are tough too. The course includes a individual term project that I felt unreasonable as the 5 weeks of software works were not graded (only writing's graded).
+
+--- Rating #3 ---
+Class: EASC315W
+Date: 2021-11-23 18:27:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Diana Allen sure knows her stuff and makes you work for every single grade percentage. Taking EASC315W was extremely tough, as it's basically a chemistry course added to a writing course. The midterm was different this year, it was all written. The highest mark was a 71% with an average of 40%. This course is not for the faint of heart.
+
+--- Rating #4 ---
+Class: EASC304
+Date: 2019-03-25 23:42:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The final project is a lot of work, but gives you an idea of what going into consulting will be like. She is well respected and knowledgeable in her field. The midterm was rough, but if you do the labs well they can saved your grade.
+
+--- Rating #5 ---
+Class: EASC304
+Date: 2016-04-15 22:50:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Quite possibly one of the best professors I've had at SFU. She is very clear in explanations, and very approachable even though she is incredibly smart. The term project was not as hard as everyone makes it out to be. Final was long but fun. Good thinking questions.
+
+--- Rating #6 ---
+Class: EASC304
+Date: 2011-01-30 14:24:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+This term, she said she gave the highest mark on midterm EVER - 92%.  Something is wrong with that.  In 10 years of teaching you'd think one person could achieve an A+. Prepare for a ding on your GPA. Terrible notes, unnecessary additives, poorly organized! Simple, elegant material presented in an unnecessarily convoluted and confusing manner.
+
+--- Rating #7 ---
+Class: EASC304
+Date: 2008-12-15 21:43:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Content intensive course! Yes, she speeds through the lectures but it's necessary to get through all of the material; was available for help and asked before moving on if there were any questions. Text necessary, more examples in class would help;LOTS of work req'd but she knows her stuff and it's a useful course not a basket weaver like many here.
+
+--- Rating #8 ---
+Class: EASC304
+Date: 2008-12-11 00:13:13 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Final and midterm were really long; nobody left before the end in either. Labs are time-consuming and project took forever.
+
+--- Rating #9 ---
+Class: EASC304
+Date: 2008-12-09 13:19:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Her lectures are really fast, she doesn't explain concepts well or give many examples. She assumes that giving mathematical derivations for the equations is informative for students. Midterm was hard - class average 59%, final project took more than 40 hours to complete (3 week timeframe to do it in). Not very helpful in lab or in class.

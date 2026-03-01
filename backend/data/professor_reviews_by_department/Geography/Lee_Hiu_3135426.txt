@@ -1,0 +1,11 @@
+Professor: Hiu Lee
+Professor Legacy ID: 3135426
+Professor ID: VGVhY2hlci0zMTM1NDI2
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

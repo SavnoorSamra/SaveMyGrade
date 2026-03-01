@@ -1,0 +1,271 @@
+Professor: Golnar Sheikshab
+Professor Legacy ID: 2279062
+Professor ID: VGVhY2hlci0yMjc5MDYy
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1.5
+Avg Difficulty: 4.1
+Num Ratings: 26
+Would Take Again Percent: 15.3846
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT225
+Date: 2018-01-05 18:28:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+run while u can
+
+--- Rating #2 ---
+Class: CMPT225
+Date: 2017-12-27 04:33:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Good person with zero skills in teaching. Assignments and labs were hard and intricate, while exams were a little bit complicatedf. The course is boring by itself, but Golnar makes every lecture the most boring event on the Earth.
+
+--- Rating #3 ---
+Class: CMPT225
+Date: 2017-12-21 09:08:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+To do the labs you have to understand her weird logic, taking you 40 minutes, and then write 5 lines of code in the right place The assignments were brutal, as not only you had to understand her logic, but also make your code compatible with hers The exams were ridiculous, as she only said &quot;All questions have equal probability to be on the exam&quot;
+
+--- Rating #4 ---
+Class: CMPT225
+Date: 2017-12-20 19:44:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Yes, she's a new professor with a few hiccups along the way, but she always fixed them and seemed to really care about the class. Final class avg was B-, and a reasonable grade distribution, so read the emotional reviews here with a grain of salt. If you paid attention in class and read the text book, the tutorials and assignments were good.
+
+--- Rating #5 ---
+Class: CMPT225
+Date: 2017-12-17 18:21:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Final is unreasonable. Too many coding question, I even don't know whether TAs and prof could give grade fair. There's too many codes to read and everyone's answer are completely different. The assignments are super hard. we usually spent over 20 hours in lab to finish one assignment. However, Prof is very nice and friendly in office hour.
+
+--- Rating #6 ---
+Class: CMPT225
+Date: 2017-12-17 08:52:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Final exam had 5-6 C++ coding questions and it was super hard and very unrelated to what we've been studying. Not related to labs or assignments or lectures. They were just random coding questions that you cannot prepare for.
+
+--- Rating #7 ---
+Class: CMPT225
+Date: 2017-12-15 21:51:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Apparently people say it's her first time teaching. She's improved over the semester, but she's still got many problems. Her assignments are difficult in both completing them, and understanding what she wants. The final exam was much harder than her midterms. She likes to use Microsoft Paint or a sheet of paper at a 45 degree angle for messy notes.
+
+--- Rating #8 ---
+Class: CMPT225
+Date: 2017-12-15 21:44:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+You'll get used to it but that's not necessarily a good thing. I felt like she went easy on us this semester since she was pretty new. Anyone after us should expect to be decently challenged, since the course content isn't all that hard you guy'll probably do fine. Put a little effort in to the course and you could pass with a rock teaching you.
+
+--- Rating #9 ---
+Class: CMPT225
+Date: 2017-12-15 20:22:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+4 or 5 written code for Final Exam.
+
+--- Rating #10 ---
+Class: CMPT225
+Date: 2017-12-15 19:51:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is not good, her lectures are not useful for learning stuffs and those are just copy of textbook, there is few thing we can learn from the materials of her lecture. In her mind, she thinks almost everyone of us are really good at c++, actually we are not. Her assignments are heavy. Try to avoid her course!
+
+--- Rating #11 ---
+Class: CMPT225
+Date: 2017-11-24 19:04:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+not even once
+
+--- Rating #12 ---
+Class: CMPT225
+Date: 2017-11-23 22:37:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Avoid her...
+
+--- Rating #13 ---
+Class: CMPT225
+Date: 2017-11-17 02:24:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+CMPT 225 is basic C++ and Golnar teaches and tests nothing more. I dont understand why everybody on here has given her a bad review. Labs done in 5 lines of code? gives out completed notes? openly answering questions in and out of class? extra practice questions before the midterm? WHAT MORE COULD YOU ASK FOR?
+
+--- Rating #14 ---
+Class: CMPT225
+Date: 2017-11-13 19:48:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+horrible.
+
+--- Rating #15 ---
+Class: CMPT225
+Date: 2017-11-11 14:22:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I transferred over, so im not sure whether I just dont know enough, but judging from what everybody else is saying, Golnar expects the class to already know how to do everything in C++, leaving assignements and labs vague, and having hard to follow lectures, constantly drawing over things in mspaint which makes no sense.
+
+--- Rating #16 ---
+Class: CMPT225
+Date: 2017-11-11 01:40:18 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Golnar isn't the best at delivering material to a class, she sometimes asks questions on why or when we need to do something, which is very helpful. During office hours she is very nice and approachable, she always helps us lead to the answer. Very accessible through emails. You have to work really hard in this class.
+
+--- Rating #17 ---
+Class: CMPT225
+Date: 2017-11-10 23:42:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Started off unprepared during lectures and giving no details on assignments/labs, but has greatly improved as the semester continued. First midterm was easy compared to past courses with a 74% average.
+
+--- Rating #18 ---
+Class: CMPT225
+Date: 2017-11-09 23:25:56 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is easily accessible during office hours, can be funny during lectures and is nice when you ask her questions but everything else about her teaching style is terrible. Her Labs and Assignments make absolutely no sense and appear to be written by a child. It is physically impossible to learn anything from her lectures. Still a really easy class.
+
+--- Rating #19 ---
+Class: CMPT225
+Date: 2017-11-06 04:10:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Cons :( - Convoluted lectures that often cover information not used elsewhere in course - Lectures lack substance. Most slides included towers of code - Assignments/labs poorly explained and very time consuming - Drawn explanations of concepts impossible to decipher Pros :) + Responds to your frustrated emails quickly + Uphill from here
+
+--- Rating #20 ---
+Class: CMPT225
+Date: 2017-10-29 00:27:39 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Good person, just bad a teaching. Shes very accessible through email, and replies within an hour or so (shes a lot better answering questions in email than during a lecture). Shes not too good at explaining assignments and labs, making them more difficult and leaving a lot of us confused.

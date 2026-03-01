@@ -1,0 +1,24 @@
+Professor: George Chow
+Professor Legacy ID: 2649534
+Professor ID: VGVhY2hlci0yNjQ5NTM0
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: CMPT732
+Date: 2021-10-25 23:05:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very nice guy and patient when helping you during the lab. The lectures, however, are quite dry and I have a hard time staying focused for the entire 2 hours.

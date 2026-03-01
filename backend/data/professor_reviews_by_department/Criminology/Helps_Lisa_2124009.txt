@@ -1,0 +1,24 @@
+Professor: Lisa Helps
+Professor Legacy ID: 2124009
+Professor ID: VGVhY2hlci0yMTI0MDA5
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 4.5
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: CRIM319
+Date: 2016-04-05 02:45:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Hard class but fair. Text is expensive and sometimes she rambles but Id totally take this again. Super good experience

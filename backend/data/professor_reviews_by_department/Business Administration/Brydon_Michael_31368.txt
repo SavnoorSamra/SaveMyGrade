@@ -1,0 +1,271 @@
+Professor: Michael Brydon
+Professor Legacy ID: 31368
+Professor ID: VGVhY2hlci0zMTM2OA==
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.6
+Avg Difficulty: 3.4
+Num Ratings: 27
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS462
+Date: 2026-02-13 03:47:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Plenty of office hours and provided great feedback/guidance on assignments.
+
+--- Rating #2 ---
+Class: BUS462
+Date: 2025-12-14 04:20:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the best professors at SFU. He is supportive and genuinely helpful. He takes the time to answer questions and help students solve problems. He creates a supportive, low-stress learning environment and truly adds value to your journey at SFU. I wish I could take more classes with him. His class is like a dream; do not miss this opportunity.
+
+--- Rating #3 ---
+Class: BUS462
+Date: 2025-11-03 23:10:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Michael is an amazing professor! His instructions are very clear and he's super helpful and accommodating. He's willing to accommodate if you miss labs. The class is group heavy with different groups each week however it's a good learning experience. Kinda sad i won't be able to take him again.
+
+--- Rating #4 ---
+Class: BUS462
+Date: 2020-12-17 23:46:25 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Michael was a great prof with a flipped class style where most content was taught asynchronously allowing for typical lectures to be used for help on the current week's assignments. Very group project heavy, with a different group every week, but was good for learning the many different analysis tools in the course.
+
+--- Rating #5 ---
+Class: BUS462
+Date: 2020-11-18 01:31:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Mylanta. Probably the most organized and accessible professor I've had in my undergraduate degree. Sure there's a steep learning curve with all the material at the start, but once you're in the groove this class is really fun and interesting! If you love group projects, this class is good for you. His lower score is old reviews only Cheers!
+
+--- Rating #6 ---
+Class: BUS462
+Date: 2018-11-16 00:23:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Michael is the best professor I have had in my four years at SFU. Not only is he very good at explaining why the material matters in the real world, he knows every student by name and is very flexible for the labs if you have something that comes up. Heavily recommend and I'm sad I will never have a professor like Michael again.
+
+--- Rating #7 ---
+Class: BUS462
+Date: 2018-08-11 18:00:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great prof, confused as to why he has so many negative reviews. I am taking BUS462 with him this semester (summer2018). He is very good at explaining the bigger picture, but it is expected that you learn how to do things on your own. There are group assignments every week, which you must come prepared for if you want to do well in this course.
+
+--- Rating #8 ---
+Class: BUS462
+Date: 2015-06-06 15:58:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+One of the best profs at Beedie. Very experienced and knowledgeable, you will learn a ton. Get a good group.
+
+--- Rating #9 ---
+Class: BUS462
+Date: 2014-11-30 21:31:05 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+He looks good but his class is another story. Just an average class, non-directive after all.
+
+--- Rating #10 ---
+Class: BUS462
+Date: 2012-07-28 17:25:35 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Teaches and explains things like they are a piece of cake, then drills down and asks the most complex and confusing questions.  An example: an MC question 3 sentences long, 2 of the sentences are complicated and irrelevant to the question being asked.  Just meant to confuse you and take up your time (time pressured quizes and assignment).
+
+--- Rating #11 ---
+Class: BUS462
+Date: 2010-12-07 16:04:04 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+ok first off, I think he looks like Will Ferrell and I love it. Brydon is pretty pro in his field, the problem is he is not very good at getting the point across to students. He's off in his own world and doesn't really half the stuff he teaches isn't really useful for us. However, he is really nice and willing to change deadlines, etc, sometimes.
+
+--- Rating #12 ---
+Class: BUS462
+Date: 2009-12-24 18:35:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+getting an 'A' without knowing anything any bit in the class. Exams are easier than previous exams.
+
+--- Rating #13 ---
+Class: BUS462
+Date: 2009-12-08 03:52:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+One of the worst profs in my 5 year BBA. Nightmare for my last business course. Power assignment too confusing no one understand anything. Not helpful to explain. class ends at 8:30 but students have to go his office hour after 9:30 when the lab closed. Classes are boring. Difficult to keep attention. Every assignment takes greater than 5 to 20 hrs
+
+--- Rating #14 ---
+Class: BUS462
+Date: 2009-12-05 17:24:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He seems to be a very disorganized when it comes to teaching material and lecture preparation. The course is difficult, and most of the time you have to figure things out by yourself (a bit of technical knowledge will actually helps). He's somewhat helpful in the lab, but still, this is a challenging course for 3 hours a week.
+
+--- Rating #15 ---
+Class: BUS362
+Date: 2007-08-16 13:20:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+This class is fairly easy because of all the sample midterms and finals he provides. The class project takes some time, but is easier than it seems at first.
+
+--- Rating #16 ---
+Class: BUS362
+Date: 2007-07-18 02:39:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Good prof. You learn a lot, but be prepared to spend a lot of time on assignments. Assignments /labs were pretty vague, but it made you learn a lot. Use the TA and office hours! Overall a good prof and I would recommend, but be prepared to work and find a good group.
+
+--- Rating #17 ---
+Class: BUS462
+Date: 2007-01-09 05:38:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Good prof. He is very strict with the curve, so be sharp and try and try and do extra well on individual work. He is helpful. I've taken 2 courses with him now, and would take more.
+
+--- Rating #18 ---
+Class: BUS462
+Date: 2006-11-19 20:44:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He actullay has a good sense of humor. Nice prof, very intense course (lots of work) and high expectations. you have to compete against some of the smartest and most technically savvy students of business faculty. Mike is very helpful and class is very interesting.
+
+--- Rating #19 ---
+Class: BUS362
+Date: 2006-02-17 18:02:07 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Good. Very vague expectations, specially on lab materials. Multiple choice questions for a system analysis course&#63;!! Not impressed.
+
+--- Rating #20 ---
+Class: BUS362
+Date: 2006-01-12 02:10:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments

@@ -1,0 +1,25 @@
+Professor: Christopher Napier
+Professor Legacy ID: 2944915
+Professor ID: VGVhY2hlci0yOTQ0OTE1
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 2
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BPK303
+Date: 2023-12-16 21:04:39 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Only teaches one class and I see why. Made us write weekly lab reports during 3 weeks when labs were canceled (strike) so we had to figure it out ourselves. Just reads his boring lecture slides and expects you to write the EXACT wording from slides for exam definitions and marks off if you write in your own words.
+2/5 only cause he dresses stylish

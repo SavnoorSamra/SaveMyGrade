@@ -1,0 +1,76 @@
+Professor: Roselene Dhaliwal
+Professor Legacy ID: 1526693
+Professor ID: VGVhY2hlci0xNTI2Njkz
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 3.2
+Avg Difficulty: 4.2
+Num Ratings: 5
+Would Take Again Percent: -1
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: KIN110
+Date: 2011-07-04 21:49:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Way to much information for a first year class. If you're taking it as a science requirement, and you're from the Arts faculties, get ready for LOTS of work in this class.
+
+--- Rating #2 ---
+Class: KIN110
+Date: 2011-04-13 11:03:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Way to much info at once. It's hard to keep on top of material occasionally.
+
+--- Rating #3 ---
+Class: KIN110
+Date: 2011-04-11 23:16:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Too much information for a first year course.  A science background is essential to get a decent grade.  Kind of like fishing the dark when studying for the exams.  She does not direct you any way whatsoever in what you should focus on.TAs are also useless.
+
+--- Rating #4 ---
+Class: KIN140
+Date: 2011-04-07 15:02:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+It more of the material in the class that sucks, not so much Rosie's teaching ability. I found she was clear and exams were fair. However, this course covers way too much topic, basically Bio 12 with more detail. Good prof, but would not recommend the course if you're not a big science student.
+
+--- Rating #5 ---
+Class: KIN110
+Date: 2011-04-07 00:44:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+don't take it

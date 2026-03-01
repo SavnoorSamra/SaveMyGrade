@@ -1,0 +1,271 @@
+Professor: Paul Hibbitts
+Professor Legacy ID: 96450
+Professor ID: VGVhY2hlci05NjQ1MA==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.3
+Avg Difficulty: 3
+Num Ratings: 44
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT363
+Date: 2022-08-20 08:41:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Paul is the most approachable professor I have ever met. You can even find him any time after class. All assignments are closely related to the course, and you need to understand the course content and assignment requirements, writing skills are also required.attend all classes. you will get a high score because the grading is very clear.
+
+--- Rating #2 ---
+Class: CMPT363
+Date: 2022-08-16 21:53:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Paul is a great person, however, the course itself is subjective. It's hard to know if you're on the right track or even remotely doing the right thing. Paul is very accessible however and truly seems to care. It would be nice if this course was more objective than subjective, but I guess with the nature of the material that would be hard.
+
+--- Rating #3 ---
+Class: CMPT363
+Date: 2022-06-28 02:51:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+I was baited by the reviews to take this course, but be warned that you don't learn anything useful related to UI/UX design since everything that is taught is very basic and intuitive. This course is a huge time sink with no reward, assignments are mind-numbing and tedious, and weekly readings eat up time that I'd rather spend on other courses.
+
+--- Rating #4 ---
+Class: CMPT363
+Date: 2021-12-15 18:20:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+The teacher is very responsible, very quick to answer questions, and the materials needed to provide in class are also very thoughtful. The course content was also interesting, although I felt that the excessive writing assignments and the grading of the written assignments made it difficult to improve the grades
+
+--- Rating #5 ---
+Class: CMPT363
+Date: 2021-04-15 18:09:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+I have mixed feelings about this course. The content is very interesting and Paul is a good instructor, but his grading is heavily based on writing skills which I don't have. Also, there are not many opportunities to practice ui design hands-on before the group project. Will not recommend if you care about GPA and are not good at writing.
+
+--- Rating #6 ---
+Class: CMPT363
+Date: 2020-12-21 02:35:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Gonna do weekly readings and summarize them. Lectures are optional, but I shown up to them anyways. Have to write a exam question each week which I was terrible at so YMMV Subjective grading for projects but it is UX so uhh yeah Overall, great course. Learnt lots about new things.
+
+--- Rating #7 ---
+Class: CMPT363
+Date: 2020-12-14 18:18:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Very good professor. Read the weakly readings and you wont have to study for the final. Very easy course but requires a lot of your weekly time. I recommend taking 363 with him.
+
+--- Rating #8 ---
+Class: CMPT363
+Date: 2020-12-10 23:12:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+CMPT 363 (online) requires constant, but low-stress effort. You have weekly readings, which are surprisingly helpful, and make up most of the content of the course. You have enough time for the group projects, so doing a little bit every other day is an easy way to get a good mark. Getting Paul's feedback is essential for improving your marks.
+
+--- Rating #9 ---
+Class: CMPT363
+Date: 2020-08-29 03:06:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Paul Hibbitts is one of the best professors I have had. This man is passionate about UX design, and applies it to every aspect of the course. He makes sure the course is interesting, he helps you in every way possible, and he asks for feedback and applied it to make sure the course is perfect. Really an amazing prof and a treat to have.
+
+--- Rating #10 ---
+Class: CMPT363
+Date: 2020-08-25 19:24:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great prof, provides good feedback and all the resources you will need to do good on his assignments and final exam. He also acts on the feedback he is given unlike other profs where it feels like you're sending your feedback straight into the trash.
+
+--- Rating #11 ---
+Class: CMPT363
+Date: 2020-08-25 15:58:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Paul is one of the best CMPT professors at SFU, he gives really good feedback and makes sure you never make the same mistake twice. Other than that, he is also very clear in his lectures and his grading, the final exam also consists of student generated answers. The course overall was very fun with paul
+
+--- Rating #12 ---
+Class: CMPT363
+Date: 2020-08-25 15:55:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+This is how all courses should be taught. We were actually graded on our ability to think critically about a problem - rather than your ability to regurgitate information - something most SFU CS profs love to test.... In some ways I think this course should almost have a writing designation though, as you will spend a lot of time reading/writing.
+
+--- Rating #13 ---
+Class: CMPT363
+Date: 2020-07-23 21:56:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: True
+Comment:
+Unclear grading criteria and mark assignments subjectively on what he thinks right. If you have a bad grammar, dont take it. His grading is just does not make sense. He grades based on grammar and how the answer is easy for him to understand. He does not care about his international students who have bad grammar but understands the topic.
+
+--- Rating #14 ---
+Class: CMPT363
+Date: 2020-07-21 22:54:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Paul is great, he is really interested in getting student feedback on things to improve and actually applies the feedback quickly. This course with him feels like you learn useful things you can actually apply in the field. No midterms just two group projects and a final exam that comes from student weekly questions.
+
+--- Rating #15 ---
+Class: CMPT363
+Date: 2020-07-14 21:37:40 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Tough grader, avoid at all cost. Dont have high hope on him, you wont get 90-100 on your assignment. Hard to get an A.
+
+--- Rating #16 ---
+Class: CMPT363
+Date: 2020-07-11 20:27:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+This teacher just wants to be respected. He does NOT LISTEN to the students opinions and mark assignments based on what he and his TA is right. He does not care about you students! UX cant be marked based on one or two person who are experienced. It just doesnt go like that sir.
+
+--- Rating #17 ---
+Class: CMPT363
+Date: 2020-07-11 20:19:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Look guys, Paul is very tough in grading and so his TA's. The course seems easy but the teacher just made it tough. I do not recommend this teacher if you are looking for GPA. He is just not good at grading. His grading scheme just does not make sense for the assignments and quizzes. He makes you read every week and create questions for his final.
+
+--- Rating #18 ---
+Class: CMPT363
+Date: 2017-12-11 17:19:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Paul is definitely the best prof I have ever met in my SFU life. Take this course, go to lecture, I guarantee you will change your perspective on UX design completely
+
+--- Rating #19 ---
+Class: CMPT363
+Date: 2017-12-11 16:28:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Paul is honestly one of the best profs at SFU. Talking to him was like talking to a friend. Asking him for help was always super easy because he usually responds on the Canvas discussion board. If anyone is interested in Cmpt 363 or needs extra credits. Paul's class is honestly the best choice.
+
+--- Rating #20 ---
+Class: CMPT363
+Date: 2016-12-14 11:28:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Paul is one of the best professors at SFU. He not only lectures, but also actively works in the industry. He has a highly modern teaching style & seems to genuinely care about his students. He is polite, professional & is always available. All readings are (free) online, group project is big but allows you to pick your own groups & grade your peers

@@ -1,0 +1,275 @@
+Professor: Sam Black
+Professor Legacy ID: 36068
+Professor ID: VGVhY2hlci0zNjA2OA==
+Department (CSV): Philosophy
+Department (Fetched): Philosophy
+Avg Rating: 3.4
+Avg Difficulty: 3.3
+Num Ratings: 127
+Would Take Again Percent: 63.4615
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PHIL322
+Date: 2025-12-13 06:16:07 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The prof? Good and caring.
+
+The course? Hmmm...
+
+Do not take it if you're not already experienced in philosophy. You NEED experience to know what you're doing and how to write papers. Only the intro courses (PH120, PH203) will explain paper structure. This course, like other higher ones, will not. Just expectations for grading.
+
+--- Rating #2 ---
+Class: PHIL322
+Date: 2025-12-10 17:47:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Fantastic prof! Genuinely cares about your success and is willing to go out of his way to help. 10/10 can't say enough good things about Professor Black!
+
+--- Rating #3 ---
+Class: PHIL322
+Date: 2025-11-30 20:22:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing lecturer and an interesting person. Would 100% recommend taking a class with him if you can find one.
+
+--- Rating #4 ---
+Class: PHIL322
+Date: 2025-11-27 05:34:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sam's a good dude. The course is challenging, and he's a tough marker, but he's not unfair. If you can think through the material and formulate coherent positions, you'll do fine. The material could be dry, but he makes up for it by encouraging lively discussion. I'd take a course with him again for sure.
+
+--- Rating #5 ---
+Class: PHIL120W
+Date: 2025-02-07 03:58:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Professor Black has a unique teaching style that some find engaging, others a bit dry. The workload is manageable if you stay on top of the weekly reflections. For test prep, ChatGPT and unstuck AI were a big help.
+
+--- Rating #6 ---
+Class: PHIL120W
+Date: 2025-01-21 01:12:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+He's a really good professor who cares about his students and a good lecturer , but you're grade will be mainly decided by your TA's since they are the ones who will mark your papers. The TA's for my classes were were good though
+
+--- Rating #7 ---
+Class: PHIL120W
+Date: 2025-01-11 07:25:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Full of contempt, dismissive and totally allergic to original ideas. Not only does he not have a clue about what he himself is talking, he does not have a clue about what you (as a student) are saying. Fails to understand most of the philosophical concepts; very limited philosophical insight.
+
+--- Rating #8 ---
+Class: PHIL120W
+Date: 2025-01-09 07:51:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Sam Black is a nightmare of a professor. His lectures are unbearably boring, with confusing slides crammed with 70-170 pages of content for a two-hour session. Tutorials are mandatory, weekly reflections are tedious, and your grade depends entirely on your TA. The final exam is poorly structured and doesn't match the course content.
+
+--- Rating #9 ---
+Class: PHIL120W
+Date: 2024-12-21 00:47:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sam is a very good prof. There's around 1-2 hours of reading a week but they are not super hard. For essays, go to office hours because a lot of the time your arguments are not as strong as you think and the ta's will give you good feedback. One thing is that sam says he's open minded but he in fact very liberal and it will reflect in his lectures.
+
+--- Rating #10 ---
+Class: PHIL120
+Date: 2024-12-18 06:10:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+He is funny and kind in a very genuine way.
+
+--- Rating #11 ---
+Class: PHIL120W
+Date: 2024-12-12 01:24:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The lecture notes in this class basically aim to slowly turn you into a far left liberal. I now understand why all of these people in society that have these beliefs have bs degrees like arts, communications ect. They are indoctrinated into believing this nonsense and marked according to it. Shame
+
+--- Rating #12 ---
+Class: PHIL120W
+Date: 2024-12-10 21:54:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Go to class, go to TA's office hours for essay feedback before submitting. It's a GPA booster. the professor said it himself. His final exam is just MCQ with 30 questions, so do the readings! Overall really enjoyed this class!
+
+--- Rating #13 ---
+Class: PHIL120W
+Date: 2024-12-10 02:46:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Hes amazing, make sure to check the reviews under "Samuel Black" becuase they are also about him, and are more accurate in my opinion. Take his classes!!
+
+--- Rating #14 ---
+Class: PHIL120W
+Date: 2024-12-07 01:17:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best professor I had this semester. Lectures can get boring but if you really lock in they are quite fun. I enjoyed the topics we learned about and my TA was awesome. There are 3 papers and while I had some difficulty writing them, the rubric was clear to follow so it helped me a lot.
+
+--- Rating #15 ---
+Class: PHIL120W
+Date: 2024-12-03 19:02:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I loved Sam Black's class, there was always something interesting in lecture and I was always engaged with the topics. If you're not as interested in the course material your experience would be much different than mine. I enjoyed in class discussions as they did help with understanding the papers we have read. Assignment topics are challenging
+
+--- Rating #16 ---
+Class: PHIL120W
+Date: 2024-11-30 00:54:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sam's lectures are engaging (albeit, lengthy) and he's passionate about his work. The readings to which he refers in his slides use confusing language, but he does a great job of simplifying them. Don't take this class as a GPA booster; you should genuinely be interested in Philosophy. Papers can be tricky but TAs help a lot. Best prof so far.
+
+--- Rating #17 ---
+Class: PHIL120W
+Date: 2024-11-28 18:07:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Remember: You HAVE to be passionate about PHIL for this class. If not, this class is not for you. Lectures drag on a bit, I'm not a fan of how he formats his slides, & lots of reading to be done. We had 3 papers so get ready. Listen to your TAs for that. Despite that, he has so much personality, & is a cool guy, but his class is just not for me.
+
+--- Rating #18 ---
+Class: PHIL120W
+Date: 2024-11-25 06:07:42 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+You have to write 3 papers in this course.The papers are often on very difficult to argue concepts.What is even worse is that these old papers you use as references are so confusingly written that even reading a sentence 5 times you do not understand what it means. I am saying this as a person born in Canada fluent in English! Torture/Waste of Time
+
+--- Rating #19 ---
+Class: PHIL120W
+Date: 2024-11-23 23:21:23 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Embarrassing to see him push his beliefs so hard on students and sharing false information. He mentions that Elon Musk never donates any money, but he signed a pledge to donate 99% of his net worth long ago. Also claims that he is a white supremacist?! Calls Trump a fascist too. Only took this as a B-HUM is required. Thank god I'm not a PHIL major.
+
+--- Rating #20 ---
+Class: PHIL120W
+Date: 2024-11-22 13:22:48 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His lectures dragged on and there are 100+ slides per lecture which are confusing & horribly organized. He's very passionate about what he teaches, but the way he teaches is not for me. Attendance is required as he posts quizzes on Canvas that require a password that changes every class. If you want a GPA booster, this is def not the right class.

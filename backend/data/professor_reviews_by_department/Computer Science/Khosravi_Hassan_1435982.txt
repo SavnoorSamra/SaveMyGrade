@@ -1,0 +1,271 @@
+Professor: Hassan Khosravi
+Professor Legacy ID: 1435982
+Professor ID: VGVhY2hlci0xNDM1OTgy
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.9
+Avg Difficulty: 3.5
+Num Ratings: 24
+Would Take Again Percent: -1
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT354
+Date: 2012-04-25 23:51:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Attend the lectures and learn what he teaches in the lectures, and you'll do just fine.
+
+--- Rating #2 ---
+Class: CMPT354
+Date: 2012-04-25 20:03:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He knows the material well and does a good job of teaching it. He was using some of the material from the online Stanford course which I thought was clever. Totally recommend taking 354 with him.
+
+--- Rating #3 ---
+Class: CMPT354
+Date: 2012-04-25 14:26:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+you will feel confidence in databases at the end.
+
+--- Rating #4 ---
+Class: CMPT354
+Date: 2012-04-25 14:13:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Good instructor and fair mareker.
+
+--- Rating #5 ---
+Class: CMPT354
+Date: 2012-04-25 00:18:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+If you follow the instruction well, it's easy to get an A+!
+
+--- Rating #6 ---
+Class: CMPT354
+Date: 2012-04-24 21:52:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Good prof, knows the material well and extremely fair marker.
+
+--- Rating #7 ---
+Class: CMPT310
+Date: 2011-08-18 18:13:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Excellent Professor! He cares students so much that although some materials in lecture might be hard, he will explain and show examples more than once until he made sure that everyone can understand. You will find the course under his teaching become interesting. Some assignments takes time, but  he will give detailed instruction!
+
+--- Rating #8 ---
+Class: CMPT310
+Date: 2011-06-11 12:59:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Honestly, his knowledge is not  enough to teach and manage the course.
+
+--- Rating #9 ---
+Class: CMPT310
+Date: 2011-05-02 05:53:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+If you enjoy every piece of information taught to you right out of a text book this is your guy. He covers material way too quickly without proper explanations or examples(a chapter every few days). His assignment were tough and so were his exams. This was the first computing science class I ever got a D in.
+
+--- Rating #10 ---
+Class: CMPT310
+Date: 2011-04-22 19:52:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great prof, course is not that hard for a upper division CS course.
+
+--- Rating #11 ---
+Class: CMPT310
+Date: 2011-04-22 02:48:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great guy. This course is very interesting to me and is actually not hard. His lectures were interesting, assignments and exams were pretty fair to me although I do messed up the last assignment...but interesting enough I've got pretty high marks on his mid term and final. Be advised, START YOUR ASSIGNMENTS EARLY OR YOU'LL MESS THEM UP.
+
+--- Rating #12 ---
+Class: CMPTD100
+Date: 2011-04-22 01:34:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I dont understand why our final should be that hard .....assignment are unclear and he don't explane things well not recommended
+
+--- Rating #13 ---
+Class: CMPT310
+Date: 2011-04-21 20:53:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Nice guy :) He explains things very clearly
+
+--- Rating #14 ---
+Class: CMPTD100
+Date: 2011-04-21 19:55:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+realy bad- hard final he didnt even teach what he asked on final , worst TA , no respond to your email , dont take with him
+
+--- Rating #15 ---
+Class: CMPT310
+Date: 2011-04-21 17:52:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Knowledgeable, personable, interesting, and clear.  Better than many profs in the faculty, even though he is a sessional.  For those who commented that the assignments/tests were too hard, you are clearly not ready for upper-division CS,as this was one of the easier and clearer courses I've taken.
+
+--- Rating #16 ---
+Class: CMPT310
+Date: 2011-04-21 17:48:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Helpful, knowledgeable, personable.  Knows his material well, and can teach it well. To the previous commenters that claim the assignments/exams were too hard, you are clearly not ready for upper division CS, as this was a relatively clear and easy course.
+
+--- Rating #17 ---
+Class: CMPT310
+Date: 2011-04-21 17:22:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Easy Assignments, If your not clear with what to do go and ask him directly during his office hour, he is helpful.the last assignment is hard (given the time) limited time but tons of things to do, not if your taking 1 course.The only thing i dont like about his course is his final exam, extremely hard! From A+ to B-
+
+--- Rating #18 ---
+Class: CMPT310
+Date: 2011-04-21 16:38:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Thanks a lot. Hassan. I've had a lot of fun in your class. Hope you do well in the future.
+
+--- Rating #19 ---
+Class: CMPT310
+Date: 2010-11-19 23:23:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Hard assignments and exams
+
+--- Rating #20 ---
+Class: CMPT310
+Date: 2010-08-20 16:11:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Interesting assignments and final.

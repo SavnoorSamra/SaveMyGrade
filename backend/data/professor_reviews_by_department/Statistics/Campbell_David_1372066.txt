@@ -1,0 +1,232 @@
+Professor: David Campbell
+Professor Legacy ID: 1372066
+Professor ID: VGVhY2hlci0xMzcyMDY2
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 3
+Avg Difficulty: 3.9
+Num Ratings: 17
+Would Take Again Percent: 87.5
+
+Ratings Count Returned: 17
+
+--- Rating #1 ---
+Class: STAT240
+Date: 2020-01-16 11:18:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dave Campbell no longer teaches at SFU. He essentially teaches data science using very step-by-step assignments. He gives you an example, then gives you a question. He shows you the code, what it does and you're ready to do it. Dave has a breadth of thing in this class, APIs, JSON, SQL, R plotting, only class I felt i learnt something practical!
+
+--- Rating #2 ---
+Class: STAT240
+Date: 2019-05-04 02:32:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This is by far the most useful class I have taken at sfu, but also very difficult and time consuming. Weekly labs that take a long time to complete, difficult midterm, fair final! But Dave and the Ta's are super nice and helpful, and very smart indeed. This class prepares you for real jobs. Previous coding and statistics skills are REQUIRED or F.
+
+--- Rating #3 ---
+Class: STAT240
+Date: 2019-05-02 23:14:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The most useful course I have taken so far. Great pro. Get ready to put effort but you would learn a lot
+
+--- Rating #4 ---
+Class: STAT240
+Date: 2019-04-26 23:05:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+DO NOT CHOOSE HIM UNLESS YOU WANT TO DROP YOUR GPA. Dave personally is nice and he is glad to answer your questions. However, his marking is the weirdest that i have ever seen at SFU. You have about 10 labs to do and MiD/Final. However, you will not get the marks and ANY feedback for assignments nor final. Then you find a C in your transcript.
+
+--- Rating #5 ---
+Class: STAT240
+Date: 2019-04-17 04:12:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Assigned quite a bit of work over the semester but it did a good job bringing you up to speed on a lot of data manipulation/representation techniques. Midterm was somewhat difficult, final was quite fair. Your success in this class depends on how well/quickly you can write R code.
+
+--- Rating #6 ---
+Class: DATA180
+Date: 2019-01-02 16:21:15 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Every class was a talk given by someone. You had to show up to class and ask a question every other class and write a report. You also had to create a linked-in profile and attend an event and give a short 3-minute talk about it. The course was well organized. I guess my only complaint is that he didn't release any grades on any assignments.
+
+--- Rating #7 ---
+Class: STAT203
+Date: 2018-03-07 23:15:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dave is a super nice prof, and he's always available when you have questions for him. His teaching can sometimes be confusing but if you ask him to explain it to you again you will probably understand it.
+
+--- Rating #8 ---
+Class: STAT285
+Date: 2016-09-29 22:44:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dave is actually very nice. I especially like the "applied" approach to teaching Stats course (he teaches us how to use R). If you ask him a question he is willing to help.
+
+--- Rating #9 ---
+Class: 203
+Date: 2014-12-03 16:09:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+If you see Dave teaching a course stay away from him at all costs. $140 textbook is pointless, uses SPSS software again, pointless. According to him graduates use this program, thought 203 was undergrad?? Lecture slides are hard to follow and he has a very monotone voice. Assignments are ok and he posts past exams for practice that's helpful prep.
+
+--- Rating #10 ---
+Class: STAT203
+Date: 2012-12-08 17:56:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Boring and dry as could be. Confuses you beyond beleif with the use of SPSS. You have an "extra help lab" in order to learn how to use this $2000 useless computer program, but naturally none of the TA's in the lab know what SPSS is. Exams are hard and assignments are even harder to understand.
+
+--- Rating #11 ---
+Class: STAT285
+Date: 2012-11-15 04:19:08 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+he is actually a nice prof, but the exams were totally different with the assignments, exams are quite tricky
+
+--- Rating #12 ---
+Class: STAT203
+Date: 2012-07-25 15:57:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He is a great teacher, except when he tries to explain voluntary samples - then he makes no sense at all.
+
+--- Rating #13 ---
+Class: STAT203
+Date: 2011-12-14 04:11:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+disorganized, does not explain very well. powerpoint are useless and exams are just all over the place. I am extremely nervous about the final, did well on the first MT, second MT 50% (after he curved it). many errors from his marker, you will receive less mark if you don't look over your work and talk to him.
+
+--- Rating #14 ---
+Class: STAT203
+Date: 2010-12-18 16:53:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+he tries to explain but too bad he doesn't have the talent to explain well.. when he says that the final is related to the assignment questions and has nothing to do with definitions don't believe him.. &gt;.&gt; you should know your definitions to at least pass this course!
+
+--- Rating #15 ---
+Class: STAT285
+Date: 2010-12-15 01:06:35 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Not that clear.. Have to read the text and study by yourself most of the time, little relation between his lecture and his exam..
+
+--- Rating #16 ---
+Class: STATS203
+Date: 2010-12-12 00:28:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+horrible...his slides have so many errors and their BIG errors too it's not funny. His emails are inaccurate and gives you the wrong answer also BEWARE
+
+--- Rating #17 ---
+Class: STAT203
+Date: 2009-12-11 19:35:37 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+he can't explain... doesn't relate materials to textbook... crappy book, crappy lecture... wording on exams are different from his lectures and the book.  Extremely easy first midterm cuz the material is basically grade 8 math... our class avg for 2nd midterm was 47%... so i'm thinking it's not really my problem...

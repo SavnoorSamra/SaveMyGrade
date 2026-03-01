@@ -1,0 +1,167 @@
+Professor: Fatima Jalali
+Professor Legacy ID: 2346300
+Professor ID: VGVhY2hlci0yMzQ2MzAw
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 3.9
+Avg Difficulty: 2.3
+Num Ratings: 12
+Would Take Again Percent: 75
+
+Ratings Count Returned: 12
+
+--- Rating #1 ---
+Class: EDUC250
+Date: 2025-04-27 01:12:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Class is 3hrs and very interactive. Prof was nice but somewhat scattered. Lots of reading. A couple papers and there are group projects, not all projects are related. Relies heavily on self-reflection. Seems to be easy marker.
+
+--- Rating #2 ---
+Class: EDUC199
+Date: 2024-01-04 17:12:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Fatima seems like an easy and kind professor, but she was quite hard to get ahold of throughout the semester and does not offer much feedback on assignments.
+
+--- Rating #3 ---
+Class: EDUC250
+Date: 2023-04-14 22:29:21 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I wish she had done more to make the course less dry and I wish she gave personalized feedback on work but still a good professor. Accommadating, kind, and approachable
+
+--- Rating #4 ---
+Class: EDUC250
+Date: 2023-04-04 07:20:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+doesnt really seem focused on teaching or students. but it's an easy class because you dont learn anything so if you like that then this is for you
+
+--- Rating #5 ---
+Class: EDUC250
+Date: 2023-04-04 07:15:35 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Seems nice and class is easy enough but so boring and dry. She doesnt really teach nor does it seem like she plans anything
+
+--- Rating #6 ---
+Class: EDUC250
+Date: 2022-12-07 07:03:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+absolutely amazing, cared for the entire class. remember details about each student and continued to ask about them and check in on us. finished the class with a 97%
+
+--- Rating #7 ---
+Class: EDUC250
+Date: 2022-11-11 04:43:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very caring and compassionate! She made the content enjoyable.
+
+--- Rating #8 ---
+Class: EDUC250
+Date: 2022-04-29 18:44:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Fatima is a kind and extremely passionate professor. She gives amazing feedback and ultimately gives students ample opportunity to succeed. My only complaint about the course was that the textbook was not accessible other than purchasing it, and it was expensive ($200+ for a fresh copy). Definitely try and get a used copy from someone if you can!
+
+--- Rating #9 ---
+Class: EDUC250
+Date: 2021-10-26 17:23:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Easy A. Class was relatively dry, and the papers were marked leniently, but fairly. Presentation was also simple enough. Would recommend as a GPA booster.
+
+--- Rating #10 ---
+Class: EDUC250
+Date: 2021-08-05 18:23:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Fatima was an awesome professor this semester. I had her as my business TA in the past and she was awesome. Her being a prof for Educ250 was absolutely awesome. She is a gem and her class is enjoyable. This class really opens up your perspective and if this prof is ever teaching definately, absolutely take it. No doubt the best prof.
+
+--- Rating #11 ---
+Class: EDUC250
+Date: 2020-08-27 02:31:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Fatima was a very sweet prof. Her class was very dry, but really easy. The only assignments that were marked were a short 300 word midterm paper, final paper and two small projects. Fatima gave great feedback on assignments and was always available to answer questions outside of class. She really cares about students success
+
+--- Rating #12 ---
+Class: FALX99
+Date: 2018-02-23 12:57:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Her class was fun and I learned a lot about academic writing. She is pretty flexible and very enthusiastic. I enjoyed her class.

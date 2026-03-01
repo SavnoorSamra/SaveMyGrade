@@ -1,0 +1,90 @@
+Professor: amanda zacharuk
+Professor Legacy ID: 3036296
+Professor ID: VGVhY2hlci0zMDM2Mjk2
+Department (CSV): Biomedical Physiology & Kinesiology
+Department (Fetched): Biomedical Physiology & Kinesiology
+Avg Rating: 2.7
+Avg Difficulty: 3.8
+Num Ratings: 6
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: BPK140
+Date: 2025-03-04 17:47:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amanda was a good professor. Not sure why her ratings are so low. Her lectures were interesting and  easy to understand. A lot of content to remember but overall manageable if you pay attention in class, take notes, and study a little bit each week. Midterm was hard but was able to redeem myself on the final which was surprisingly easier.
+
+--- Rating #2 ---
+Class: BPK140
+Date: 2024-12-12 00:44:26 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I'm pretty sure the first rating for this prof was written by the prof herself. She seems like a nice person with a lot of knowledge in health but this class is insanely hard for a 100 level course. Midterm was very difficult and covered things that weren't mentioned in lecture. You would have to memorize the entire textbook to get a good grade.
+
+--- Rating #3 ---
+Class: BPK140
+Date: 2024-12-11 01:22:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Ain't no way the prof wrote her own review lmao. Amanda you're awful stick
+to Physiotherapy. There's a reason we had like the lowest average compared to recent semesters. Even our TA was confused with some of your explanations.
+
+--- Rating #4 ---
+Class: BPK140
+Date: 2024-12-10 18:27:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amanda was a good prof, lectures were not too bad but boring at times. The midterm exam was unreasonable and focused on oddly specific details rather than practical knowledge. Tutorials helped a lot for the written part of exams. I am also pretty sure the prof herself wrote the good review.
+
+--- Rating #5 ---
+Class: BPK140
+Date: 2024-11-23 07:30:05 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+I regret taking this course as a B-Science elective. While the content is informative, lectures are unengaging, as the professor reads from slides. Exams are overly detailed, focusing on statistics rather than practical knowledge. However, the professor is caring and open to questions, showing potential for improvement.
+
+--- Rating #6 ---
+Class: BPK140
+Date: 2024-11-21 08:58:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amanda is the best! Her lectures are to the point and her slides are helpful, there is a textbook that is optional but if you can find it just studying the learning objectives listed on every lecture will help you do great on exams. She is very friendly and has great clinical anecdotes from her physiotherapist job and atheletic background.

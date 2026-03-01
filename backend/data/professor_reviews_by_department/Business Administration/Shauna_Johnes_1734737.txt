@@ -1,0 +1,50 @@
+Professor: Johnes Shauna
+Professor Legacy ID: 1734737
+Professor ID: VGVhY2hlci0xNzM0NzM3
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3
+Avg Difficulty: 3.7
+Num Ratings: 3
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: BUS202
+Date: 2023-03-17 00:34:33 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She was alright, BUS 202 is a pretty easy class itself and I enjoyed most of it. Never really learnt anything that value from her lectures. She adds alot of group work which made the class less boring.
+
+--- Rating #2 ---
+Class: BUS202
+Date: 2021-11-22 06:29:35 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+A boring class, Ive never seen the entry class so boring and so many things
+
+--- Rating #3 ---
+Class: BUS202
+Date: 2020-12-04 14:53:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+This is an easy course so the instructor does not really matter. Shauna will often incorporate group discussions, videos, assessment tools, personal examples, and ask questions in class, so you'll never know when the class is over. For an A, ask questions, do pre-readings, follow grading criteria, show understanding of course concepts.

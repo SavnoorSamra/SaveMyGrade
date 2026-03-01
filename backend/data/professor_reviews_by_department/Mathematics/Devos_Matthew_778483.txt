@@ -1,0 +1,283 @@
+Professor: Matthew Devos
+Professor Legacy ID: 778483
+Professor ID: VGVhY2hlci03Nzg0ODM=
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4.1
+Avg Difficulty: 2.9
+Num Ratings: 105
+Would Take Again Percent: 80.2817
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH151
+Date: 2025-12-12 06:18:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+(152) matthew was a great prof, he barely got through all the slides but i think it was just because the first few units had so much to cover. but he really did his best on helping us understand. exams were fair nothing that was outside of what he taught us in class
+
+--- Rating #2 ---
+Class: MATH151
+Date: 2025-10-31 23:36:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+(MATH 152) Took me a bit to get the hype, but Matt taught the course well. More importantly to me though, I thought his tests were extremely fair, and there wasn't anything to catch you off guard. Very manageable. Dude doesn't respond to emails though, so if you need to get a hold of him you'll have to catch him in person.
+
+--- Rating #3 ---
+Class: MATH338
+Date: 2025-08-24 07:15:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Amazing professor, one of the best I've ever had.
+
+--- Rating #4 ---
+Class: MATH151
+Date: 2025-08-21 21:00:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing lecturer, passionate, but definitely has some problematic ways of running the course. 
+
+Rather than releasing weekly textbook questions along with the weekly WebAssigns, he releases all those weeks worth of textbook questions a week before every exam. 
+
+Never once has replied to an email of mine.
+
+Other than that, he's a great CALC2 prof.
+
+--- Rating #5 ---
+Class: MATH338
+Date: 2025-08-21 18:59:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+DeVos is an amazing professor, so kind and enthusiastic, has a compassionate approach for an upper level math course. Assignments were good practice and questions were taken from the textbook. Exams were based on assignments and lectures, and were very fair. I wish he could teach all of my math courses.
+
+--- Rating #6 ---
+Class: MATH338
+Date: 2025-08-03 03:28:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+DeVos is simply awesome. Explains concepts intuitively, very approachable and enthusiastic, fair assignments and exams. It was great taking Advanced Linear Algebra with him this semester. It was his first time teaching this course and hopefully not his last.
+
+--- Rating #7 ---
+Class: MATH304
+Date: 2025-04-29 06:55:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing. Took 2 math 301 and 304 with him. Fair assignments and exams. Give practise questions and exams are very similar. He is the best math prof i have had at SFU.
+
+--- Rating #8 ---
+Class: MATH304
+Date: 2025-04-29 06:02:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Matt is a fantastic prof. He is very willing to help you succeed in his course! Weekly homework gives you a good review of the material. Sample exam and practice questions can greatly help you prepare for exams. He also provides the free textbook for students! Just read through the book and ask questions. Learn Geometry and Symmetry with him!
+
+--- Rating #9 ---
+Class: MATH301
+Date: 2025-04-25 07:43:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very caring upbeat prof. Makes sure every student understands and goes into great detail to answer questions. Only problem is his teaching style is a bit disorganized and i didn't know why were learning certain things. The homework was much harder than the exams. Exam were very easy and fair. Similar to the samples he gives
+
+--- Rating #10 ---
+Class: MATH301
+Date: 2023-12-21 08:53:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Such a jolly person. My only criticism is that he stutters like crazy in lecture and can often take a while to get to the point, thus why I'm giving 4. The assignments helped teach us almost everything on the exams. Final project was very free in regards to what we wanted to do it on. Super accessible for questions after class. Stress-free course.
+
+--- Rating #11 ---
+Class: MACM201
+Date: 2023-12-16 03:30:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Matthew is definitely one of the best math profs at SFU. His passion in his lectures is great and it really keeps you engaged. The assessments were very straight forward and reasonable. This class is definitely very tough but with him, it was a breeze. He's super approachable and his teaching style is awesome, would recommend 10000%.
+
+--- Rating #12 ---
+Class: MACM201
+Date: 2023-12-16 00:07:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Matthew is very passionate about MACM and it shows, he also cares about his students. I did find his lectures slightly scattered (would jump between points while explaining) or rushed sometimes, which didn't match my learning style great (obviously might be different for you). BUT he is very engaging and the quizzes and exams were fair. Great prof!
+
+--- Rating #13 ---
+Class: MATH304
+Date: 2023-04-25 15:17:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+MATH 304 - Geometry and Symmetry
+
+Gives clear lectures and encourages questions after class if you have difficulty with concepts or (especially) homework. His exams were fair and allowed me to demonstrate my knowledge of the material. If you see this course being offered by him, I recommend taking it because it was generally easy to perform well.
+
+--- Rating #14 ---
+Class: MACM201
+Date: 2023-01-09 22:56:10 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He knows the content very well, but has difficulty explaining it. Very kind and considerate, but not great at teaching. Save yourself some time and watch Jamie Mulholland's video series instead.
+
+--- Rating #15 ---
+Class: MACM201
+Date: 2022-12-20 23:15:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Devos is a great proff! He is very caring and takes the time to actually listen to your concerns. Just talk to the guy and you will feel more confident in the subject. His lectures are quick and the pace of the class is quite demanding but it is to be expected from a MACM class. Makes MACM a bit let threatening so he deserves a 5/5.
+
+--- Rating #16 ---
+Class: MATH345
+Date: 2022-12-07 00:39:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's a very interesting/passionate guy, but his lectures weren't helpful and I preferred to just study at home.
+
+He doesn't upload assignment solutions online, which is a pretty big downside.
+
+Assignments and tests are difficult, but normally they're either curved or only evaluated based on the easier questions. I didn't find this class tough.
+
+--- Rating #17 ---
+Class: MATH345
+Date: 2022-11-16 02:47:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Don't take this course if you don't need to. Not for human. All course materials are not making sense. If the course wasn't taken with DeVos, must have whole class failed. He will curve! He is a great prof. Hope he teaches all upper level math.
+
+--- Rating #18 ---
+Class: MATH302
+Date: 2022-06-18 05:01:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Not bad. He is always nervous. Final were similar to the practice final. Study practice final to prepare. Try talk to him if you are not doing good in class, he could help you by looking through your progress. Seldom reply email, find him in person.
+
+--- Rating #19 ---
+Class: MATH154
+Date: 2021-11-23 20:33:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Was open to answering questions during class, made note taking engaging, and was thorough in explaining calculus concepts.
+
+--- Rating #20 ---
+Class: MACM201
+Date: 2020-12-14 04:26:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Knows well and explains well, although can be absent-minded sometimes. Homework every week to be tested in quizzes, the usual LD math setup. Exams are fair and reasonable in length. Does not expect you to have crazy deep knowledge of theorems at this level. I recommend him for any math class.

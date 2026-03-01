@@ -1,0 +1,24 @@
+Professor: Valentina  Martinoia
+Professor Legacy ID: 3020868
+Professor ID: VGVhY2hlci0zMDIwODY4
+Department (CSV): Anthropology
+Department (Fetched): Anthropology
+Avg Rating: 5
+Avg Difficulty: 1
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: ARCH321
+Date: 2024-11-16 01:28:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Really wonderful lecturer who designed a fantastic and engaging class! Valentina is very knowledgeable and friendly. Extremely accommodating and eager to help her students succeed & learn. Take a class with her if possible!

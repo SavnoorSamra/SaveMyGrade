@@ -1,0 +1,154 @@
+Professor: Daniela Blettner
+Professor Legacy ID: 2085751
+Professor ID: VGVhY2hlci0yMDg1NzUx
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.5
+Avg Difficulty: 2.8
+Num Ratings: 11
+Would Take Again Percent: 75
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: BUS478
+Date: 2025-05-02 05:46:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Take her! Super chill class with only a few assessments. 2 quizzes and a paper, very doable and manageable course load.
+
+--- Rating #2 ---
+Class: BUS471
+Date: 2024-03-06 02:36:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Daniela is a great professor and I learned a lot in her class.
+
+--- Rating #3 ---
+Class: BUS478
+Date: 2021-11-27 08:09:26 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Daniela is a very nice and caring professor, however she is a tough grader. It is hard to get high marks on her exam and homework unless you have the exact detail that she is looking for. Overall, not a hard course but hard to get high grade!
+
+--- Rating #4 ---
+Class: BUS478
+Date: 2020-12-21 15:20:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I love Daniela!!! She is very considerate and patient. And always ready to help you with your assignment and group project. She provides many helpful ideas for our group project, and we can make improvements continuously before the deadline based on her comments and it is totally different from other prof I took! Take her course if you can!
+
+--- Rating #5 ---
+Class: BUS471
+Date: 2020-11-16 19:44:14 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Basically a Psychology course which is fine if that is what your into. Was expecting more of a business angle. A massive research paper is HALF of your grade
+
+--- Rating #6 ---
+Class: BUS471
+Date: 2020-08-05 06:35:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The best prof I have ever met in my SFU life
+
+--- Rating #7 ---
+Class: BUS478
+Date: 2019-09-12 00:10:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Super nice prof. She's really caring and very willing to help students. Her class was very enjoyable and I would def recommend her to anyone who is taking Bus 478.
+
+--- Rating #8 ---
+Class: BUS471
+Date: 2019-04-16 22:57:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Daniela is an amazing prof, who wants all her students to do well. She is open to feedback and to making the class better for all students. Although there is a lot of academic papers to read, she really only cares about the key takeaways. Overall great prof and good course.
+
+--- Rating #9 ---
+Class: BUS340
+Date: 2016-04-04 00:10:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Daniela is great. 340 is a pretty social class, the semester-long group assignment is pretty fun, the lectures involve a lot of discussion and relation to real world examples. Assignments are dead easy, but the midterm is hard. Great for business minors. Cruised to an easy B. If you put in the time this class is definitely not a hard A.
+
+--- Rating #10 ---
+Class: BUS340
+Date: 2015-12-14 17:17:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Some lectures were truly great, some a little less than.  Dani works hard and you won't regret taking 340 with her.
+
+--- Rating #11 ---
+Class: BUS340
+Date: 2015-12-14 02:03:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Great prof. Super hard marker though! Super helpful!

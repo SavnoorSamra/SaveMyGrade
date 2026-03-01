@@ -1,0 +1,167 @@
+Professor: Jeffrey Mathesius
+Professor Legacy ID: 1820568
+Professor ID: VGVhY2hlci0xODIwNTY4
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 3.5
+Avg Difficulty: 3.6
+Num Ratings: 12
+Would Take Again Percent: 44.4444
+
+Ratings Count Returned: 12
+
+--- Rating #1 ---
+Class: CRIM320
+Date: 2026-01-03 17:27:53 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+puts exams on stats!! tougher exams challenging,take only if you can handle in depth readings
+
+--- Rating #2 ---
+Class: CRIM320
+Date: 2025-12-09 19:03:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+has great knowledge, knows what he is taking about..way too rude in &out of classes...tough grader..he traumatized me with his stories and attitudes
+
+--- Rating #3 ---
+Class: CRIM320
+Date: 2025-12-09 04:20:08 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+rudest prof ever, way too tough on grading.. skip him if you want a good gpa
+
+--- Rating #4 ---
+Class: CRIM131
+Date: 2025-01-17 21:02:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+great prof def take him if you can
+
+--- Rating #5 ---
+Class: CRIM1150
+Date: 2023-01-10 03:53:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jeff is a great professor who tries to make the boring criminological theory stuff interesting with examples and personal stories. He is very organized and his exams are directly from the content in the slides and lectures making them very easy to do well on! (btw the textbook for this particular class was not super important so maybe save your $)
+
+--- Rating #6 ---
+Class: CRIM1150
+Date: 2017-12-08 18:51:25 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jeff was thrown into our class the middle of the semester in replacement of our previous professor. Despite this inconvenience Jeff still did a great job at teaching us the content without making things too confusing. Lecture heavy, so pay attention in class. Lecture slides are a clear and organized, few points and uses own anecdotes to simplify.
+
+--- Rating #7 ---
+Class: CRIM1150
+Date: 2017-11-27 19:28:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lecture heavy, with little time for note taking of your own. Power points are helpful for studying off and exams are fair. However, while he makes himself accessible to students, he is very condescending and rude when answering questions. Little guidance was given for assignments. Ruined the experience for me completely, I felt held back by him.
+
+--- Rating #8 ---
+Class: CRIM1150
+Date: 2017-11-13 15:21:43 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very average teacher. If you're a hands on learner who doesn't learn well through lecture, do not take this class. He talks the whole class, no group work or anything interactive. Lectures are dragged on and boring, hard to understand sometimes. Heavily based on slides and text. Reasonable/fair marker but his tests can be confusing.
+
+--- Rating #9 ---
+Class: CRIM131
+Date: 2016-12-14 03:22:25 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+His lecture slides are not the clearest thing to study from. Definitely go to the lectures and take notes or you'll be kicking yourself come final's time.  Very content heavy but interesting material.
+
+--- Rating #10 ---
+Class: CRIM320
+Date: 2016-04-17 19:07:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+So 320 is super easy with this guy. He makes everything super simple and easy to understand. Genuinely is concerned about his students' understanding of the material. Almost weekly assignments and quizzes like the other profs but wayyyyy easier. Midterm was also super easy... class average of 74%
+
+--- Rating #11 ---
+Class: CRIM320
+Date: 2016-03-06 19:16:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This class is no joke. Lectures are long & fast.. when he gives u a break, take it, go get air, content makes u feel like u can't breathe. Expect quizzes, hw, exams. He is nice but very inconsistent with material. Does not seem to take TA opinions into consideration. The TAs know what us students need. Maybe he should TA this before he teaches
+
+--- Rating #12 ---
+Class: CRIM320
+Date: 2013-05-17 18:32:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Always really good about being really willing to answer questions and responding to emails.  Super good.

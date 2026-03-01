@@ -1,0 +1,11 @@
+Professor: Lisa Donovan
+Professor Legacy ID: 2346289
+Professor ID: VGVhY2hlci0yMzQ2Mjg5
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

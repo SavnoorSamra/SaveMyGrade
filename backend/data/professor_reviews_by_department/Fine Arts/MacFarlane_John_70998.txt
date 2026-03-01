@@ -1,0 +1,154 @@
+Professor: John MacFarlane
+Professor Legacy ID: 70998
+Professor ID: VGVhY2hlci03MDk5OA==
+Department (CSV): Fine Arts
+Department (Fetched): Fine Arts
+Avg Rating: 3.3
+Avg Difficulty: 3.6
+Num Ratings: 11
+Would Take Again Percent: 50
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: FPA170
+Date: 2020-04-23 07:19:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Pathetic professor. Talks too much. Very tough grader
+
+--- Rating #2 ---
+Class: FPA170
+Date: 2017-12-05 15:42:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Laid back and great to talk to if you're genuinely interested in the course and show effort. Get as much experience as you can during crew calls so you're not struggling to get hours towards the end of semester. Other than a quiz and essay, you're graded on what you do in lab. Pay attention, not to your phone, be on time, and it's an easy pass.
+
+--- Rating #3 ---
+Class: FPA170
+Date: 2014-05-29 16:56:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+John is very nice, but his lectures are very boring! Attendance in the class and lab are mandatory. Do leave a good impression in the lectures, and labs. And be on time for all your crew calls, and make sure you are being helpful, as the people who are supervising you, send comments to the prof. Review exam is based on labs.
+
+--- Rating #4 ---
+Class: FPA170
+Date: 2012-01-10 13:16:08 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Nice guy, treats students well. However, if you want a stimulating class or an easy grade, this is not where to look for it. There is no homework but because of that he marks on your behaviour, and although I was fairly interested and paid close attention, I got a B-. This course is not to be taken seriously, but it was an interesting experience.
+
+--- Rating #5 ---
+Class: 170
+Date: 2005-08-03 00:31:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very nice guy - interesting - helpfull - means well  - wants to have fun - likes to talk - lectures weren't that boring - get over it - they're lectures!
+
+--- Rating #6 ---
+Class: 170
+Date: 2004-11-02 04:01:03 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+a little too subjective....super boring lectures..almost fall asleep everytime i go into the room
+
+--- Rating #7 ---
+Class: FPA389
+Date: 2004-05-13 22:25:03 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+.
+
+--- Rating #8 ---
+Class: FPA
+Date: 2003-05-12 12:18:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+a bit scattered but his advice is excellent !
+
+--- Rating #9 ---
+Class: 389
+Date: 2003-03-20 04:34:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+This class was way too performance heavy for a multidiscipline class. Isn't too concerned with helping the visual art students.
+
+--- Rating #10 ---
+Class: FPA171
+Date: 2003-01-09 22:09:11 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He is a pretty nice guy. But boring lectures. Final project is not hard
+
+--- Rating #11 ---
+Class: FPA171
+Date: 2002-11-29 05:52:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Underrated prof due to his scatterbrained tendencies.  Hit or miss if u like him

@@ -1,0 +1,24 @@
+Professor: Hasheem Hakeem
+Professor Legacy ID: 2437853
+Professor ID: VGVhY2hlci0yNDM3ODUz
+Department (CSV): French
+Department (Fetched): French
+Avg Rating: 4
+Avg Difficulty: 5
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: FREN304
+Date: 2021-03-06 01:11:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+The course is awful, but he is not. I find him very kind and approachable. He is readily available during office hours and his criteria is very clear. Its not his fault FREN304, advanced French grammar, is a nightmare. He is definitely trying his best. There are like 8 quizzes, 3 homework assignments, 3 tests and a final so beware of that.

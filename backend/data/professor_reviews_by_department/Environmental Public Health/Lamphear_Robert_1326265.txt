@@ -1,0 +1,11 @@
+Professor: Robert Lamphear
+Professor Legacy ID: 1326265
+Professor ID: VGVhY2hlci0xMzI2MjY1
+Department (CSV): Environmental Public Health
+Department (Fetched): Environmental Public Health
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

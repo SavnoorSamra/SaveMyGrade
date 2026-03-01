@@ -1,0 +1,63 @@
+Professor: Michael Hiatt
+Professor Legacy ID: 1991453
+Professor ID: VGVhY2hlci0xOTkxNDUz
+Department (CSV): Biochemistry
+Department (Fetched): Biochemistry
+Avg Rating: 3.1
+Avg Difficulty: 3.5
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: MBB231
+Date: 2015-06-12 01:41:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+MBB 231 is a dry, material heavy course that requires students to do a lot of rote memorization on their own time. Mike was clear on what would be tested and gave fair exams. Great prof, boring course.
+
+--- Rating #2 ---
+Class: MBB231
+Date: 2015-04-26 00:58:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He talks really fast in the lecture which makes it really difficult to understand. There's a lot to memorize. You will need to memorize even the most ridiculous name like glycosylphosphatidylinositol (no abbreviation). The grading scale is also crazily high. You will need 60% to pass and that's just a D.
+
+--- Rating #3 ---
+Class: MBB231
+Date: 2015-04-11 12:23:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is awful. His lecture slides make no sense, he talks way too fast and is awful at explaining concepts. In terms of applying to exams the tutorials were a waste of time. MBB 231 has a lot of material and this course with any prof is time consuming,  but I feel like I had to spend so much more time  than needed on this course because of him
+
+--- Rating #4 ---
+Class: MBB231
+Date: 2015-04-08 21:54:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Goes through lecture material VERY fast but his exams are in super simple format, takes questions right out of the textbook. Course material is super dry, LOTS to memorize and read. Overall a very nice guy, willing to help and tutorials were a waste of time. All marks come from exams, no assignments or tutorial grades so be prepared to read

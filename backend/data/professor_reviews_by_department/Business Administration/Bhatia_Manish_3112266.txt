@@ -1,0 +1,156 @@
+Professor: Manish  Bhatia
+Professor Legacy ID: 3112266
+Professor ID: VGVhY2hlci0zMTEyMjY2
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3
+Avg Difficulty: 2.6
+Num Ratings: 11
+Would Take Again Percent: 54.5455
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: BUS217W
+Date: 2025-12-24 18:15:21 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The prof is fine but there are too many graded assignments. TAs are tough
+
+--- Rating #2 ---
+Class: BUS217W
+Date: 2025-12-19 01:23:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very kind prof throughout the sem. He consistently encourages students to keep working hard and stay engaged. A great motivator who genuinely cares about student learning.
+
+--- Rating #3 ---
+Class: BUS217W
+Date: 2025-12-18 07:39:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The TA is what matters in this class. He transferred from Langara, and does not know how to use Canvas or any technology. His lectures are uninformative, but mandatory. Do not bother emailing him as well, he says a whole lot of nothing, guy is unaware from the fact that he's governing body of the class.
+
+Take Ilia Bykov in Burnaby instead.
+
+--- Rating #4 ---
+Class: BUS217W
+Date: 2025-11-18 23:56:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Supportive and organized prof. He cares about his students' success.Classes are engaging, and he explains concepts in a way that makes them easy to understand. TAs markings are complicated.
+
+--- Rating #5 ---
+Class: BUS217W
+Date: 2025-11-18 23:21:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+The professor repeated common knowledge, which was not particularly useful. The entire semester, I did not gain any substantial knowledge. The tutorial assignments are graded harshly without clear criteria and only 50 minutes to write a comprehensive paper.
+
+--- Rating #6 ---
+Class: BUS217W
+Date: 2025-11-18 23:00:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He will change policies mid semester, and it's unfair but he's extremely stubborn and refuses to change. The syllabus is very stupid and he makes it worse. He is unreasonably strict and doesn't properly teach. He doesn't post lecture slides because he hates students.
+
+--- Rating #7 ---
+Class: BUS217W
+Date: 2025-11-03 08:55:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very engaging class. I'm glad I chose him. His real-life business examples are very helpful in understanding the course, but the TAs are tough on grading.
+
+--- Rating #8 ---
+Class: BUS217W
+Date: 2025-10-31 00:52:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He will make you regret taking this class, he makes the class way more difficult then it should be. You probably won't pass if you take it with him
+
+--- Rating #9 ---
+Class: BUS217W
+Date: 2025-10-31 00:50:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Not empathetic at all, doesn't care for students, gives in class assignments that are very intense for no reason at all
+
+--- Rating #10 ---
+Class: BUS217W
+Date: 2025-10-22 20:36:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is a kind and genuine professor who is always willing to help and provides great support even during office hours.
+
+--- Rating #11 ---
+Class: BUS217W
+Date: 2025-10-13 08:05:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+He is a good instructor for this course, not sure if he will teach again at SFU Beedie! Good choice to take his section

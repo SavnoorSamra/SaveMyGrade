@@ -1,0 +1,89 @@
+Professor: Peyman Taheri
+Professor Legacy ID: 1791042
+Professor ID: VGVhY2hlci0xNzkxMDQy
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 4.1
+Avg Difficulty: 3
+Num Ratings: 6
+Would Take Again Percent: -1
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: MSE321
+Date: 2014-10-30 00:57:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A really great professor, but a really hard course. Do all his homework assignments and you'll do well. Otherwise you'll be lost
+
+--- Rating #2 ---
+Class: MSE321
+Date: 2013-12-18 17:48:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Nice prof with really clear notes. The first part of the course is harder than the second part. The nice thing is he scales,if the whole class did bad!
+
+--- Rating #3 ---
+Class: MSE321
+Date: 2013-12-18 06:51:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+A good teacher and a nice guy. But hard work is essential for his courses.
+
+--- Rating #4 ---
+Class: MSE321
+Date: 2013-12-07 05:27:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Exams are somewhat hard, but if you read the notes and go over examples you will realize that he is pretty fair with his exams. That being said you need to study for this guy.
+
+--- Rating #5 ---
+Class: ENSC283
+Date: 2013-04-27 02:12:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+A humorous prof. He has excellent notes, a moderate midterm and a hard final.
+
+--- Rating #6 ---
+Class: ENSC388
+Date: 2013-01-09 18:10:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Well organized , Clear on notes marking and exams

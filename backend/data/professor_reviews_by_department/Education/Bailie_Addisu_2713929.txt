@@ -1,0 +1,76 @@
+Professor: Addisu Bailie
+Professor Legacy ID: 2713929
+Professor ID: VGVhY2hlci0yNzEzOTI5
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 2.4
+Avg Difficulty: 3
+Num Ratings: 5
+Would Take Again Percent: 40
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: AIS111
+Date: 2025-10-30 03:43:45 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I have this prof at UFV, and although course material is pretty basic, lectures are dry and the worst thing is the group essays. Selection of subjects is broad, and you have to work with at least one other person to write two academic essays. Long readings to do before classes and he checks in with the class' reading progress, and makes you present
+
+--- Rating #2 ---
+Class: EDUC252
+Date: 2025-06-09 07:06:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+I'm taking Addisu Bailie at UFV, but the listing for him at UFV is not yet created. I know AIS299 is a useless class, but Addisu's class is worse than useless. His online class feels like he did the bare minimum, using videos from 12 years ago for Indigenization units. He also has assignments that are less helpful than high school planning classes.
+
+--- Rating #3 ---
+Class: educ326
+Date: 2023-08-21 20:38:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Addisu was unreasonable with his students in this online course. He scheduled short quizzes on weekends (sat-sun), 5qs long, worth 1% of our overall mark for each q. Despite being asked to adjust the schedule, it took a heavy push for him to do so. Group assignments were unfairly weighted & groups were assigned by himself. Grading scale was tough.
+
+--- Rating #4 ---
+Class: EDUC252
+Date: 2023-04-17 05:25:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Addisu is very kind, however, the lectures were extremely dry. He's a pretty easy marker, but just make sure you participate as much as you can.
+
+--- Rating #5 ---
+Class: EDUC252
+Date: 2021-11-02 22:44:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+I had Addisu as a TA for educ252 and he always gave good feedback and overall, wanted us to succeed!

@@ -1,0 +1,50 @@
+Professor: Sarah Yerich
+Professor Legacy ID: 1941124
+Professor ID: VGVhY2hlci0xOTQxMTI0
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 5
+Avg Difficulty: 2.7
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: CRIM131
+Date: 2021-03-18 19:48:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Sarah was a very thoughtful prof, I took Crim 131 in person with her in fall 2019. Her lectures were never short of engaging and she spent a lot of time focussing on current issues which I thought was wonderful. I found the exams for this class to be a bit long and overwhelming, but I otherwise had few problems. she made an 8:30 am class worth it!
+
+--- Rating #2 ---
+Class: CRIM317
+Date: 2020-09-01 09:30:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: True
+Comment:
+Took this course online due to COVID-19. Sarah seems like a very fun professor if you take the course her in person too. In our recorded lectures she would talk about her cats (and dog) in addition to the occasional cat-related pictures inserted into the slides, which I find endearing. Also keeps us up to date via announcements and approachable.
+
+--- Rating #3 ---
+Class: CRIM213
+Date: 2018-12-05 22:39:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Sarah is an amazing prof, probably one of my favorites at sfu. She makes the class content interesting and you can tell she genuinely cares about it. She was always open to questions and even let us make up a question/answer key for the final. Great prof would deff recommend.

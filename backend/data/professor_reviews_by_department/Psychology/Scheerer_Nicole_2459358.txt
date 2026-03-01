@@ -1,0 +1,24 @@
+Professor: Nicole Scheerer
+Professor Legacy ID: 2459358
+Professor ID: VGVhY2hlci0yNDU5MzU4
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 2
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: PSYC389
+Date: 2019-04-13 02:03:53 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+pretty harsh grader, seems open but not really

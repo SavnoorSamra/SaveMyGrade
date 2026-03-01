@@ -1,0 +1,11 @@
+Professor: Robyn Woodward
+Professor Legacy ID: 1955598
+Professor ID: VGVhY2hlci0xOTU1NTk4
+Department (CSV): Archaeology
+Department (Fetched): Archaeology
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

@@ -1,0 +1,50 @@
+Professor: Prashant Shukla
+Professor Legacy ID: 1650517
+Professor ID: VGVhY2hlci0xNjUwNTE3
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.7
+Avg Difficulty: 2.3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: BUS478
+Date: 2017-03-01 14:45:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great course, fun instructor.
+
+--- Rating #2 ---
+Class: BUS401
+Date: 2013-08-01 03:36:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Amazing professor.  Interacted well with the class and gave interesting lectures on entrepreneurial topics.  One of the best profs I've had at SFU by far.
+
+--- Rating #3 ---
+Class: BUS478
+Date: 2011-11-21 20:33:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Prashant is awesome. Take this course with him because he makes it fun and interesting.  Really great professor, young and in touch with students unlike many old profs

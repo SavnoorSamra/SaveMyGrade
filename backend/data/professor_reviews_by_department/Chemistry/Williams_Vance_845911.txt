@@ -1,0 +1,273 @@
+Professor: Vance Williams
+Professor Legacy ID: 845911
+Professor ID: VGVhY2hlci04NDU5MTE=
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 3.7
+Avg Difficulty: 2.8
+Num Ratings: 74
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CHEM391
+Date: 2025-04-29 04:36:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Williams did a great job teaching this course. The material was always interesting and relevant. We also got to decide what topics we would like to learn about. 
+
+If you are taking 391 with him, I strongly recommend taking plenty of notes, and going to office hours if you think you missed something.
+
+--- Rating #2 ---
+Class: CHEM391
+Date: 2025-04-25 00:30:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Vance is such a funny and caring professor; exams were open book and very fair. Assignments were a bit trickier. Overall, it was a fun class, and it is clear that professor Vance is very knowledgeable
+
+--- Rating #3 ---
+Class: CHEM380
+Date: 2020-11-25 05:23:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Gem of a teacher. Truely cares for his students and passionate about Chemistry. Engaging lecturer and funny sense of humour.
+
+--- Rating #4 ---
+Class: CHEM380
+Date: 2017-01-05 16:21:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr Williams is a great prof. Even if the lecture material got boring at times, he used his dry humor to get us all through it. Labs were forgiving, i.e. I accidentally dumped my final product down the sink, yet still got 75% on the lab report. Assignments are time consuming but help boost your grade. Tests were fair.
+
+--- Rating #5 ---
+Class: CHEM380
+Date: 2017-01-04 10:20:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Vance was a great prof, very clear on what's needed to be understood and known in the class. He gives out practice problems makes sure you understand those.
+
+--- Rating #6 ---
+Class: CHEM380
+Date: 2016-11-30 20:30:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great prof. Super chill, very helpful in office hours. His practice problems and exams are the key to success... do those, ask about them in office hours if you don't get it, and you'll be prepared for exams. Lecture pace is nice and he goes through examples there. Lab is chill. Textbook unnecessary, but might want to review 281/283 a bit.
+
+--- Rating #7 ---
+Class: CHEM391
+Date: 2016-11-09 21:05:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Overall really enjoyed the class.  He has extensive knowledge of not just the chemistry but all of interesting history of where the chemistry came from which is neat.  Posts lecture slides ahead of class which I find hugely helpful.  Teaching was clear with lots of examples, no textbook used in either classes I took with him.
+
+--- Rating #8 ---
+Class: CHEM391
+Date: 2014-04-30 01:37:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He was a decent instructor, clearly having an interest in chemistry. I did well in his class and only attended 66% of the lectures. Overall I liked him as a person and found him to be crystal clear. The only downfall was that there was no textbook.
+
+--- Rating #9 ---
+Class: CHEM380
+Date: 2013-12-30 18:22:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Dr.Williams is a great chem prof, much easier than Dr.Merbouh, so I would highly recommend him if you need 380 for a Chem minor or major. He is incredibly helpful during office hours, lectures are pretty solid. Also, plenty of hints and practice questions for his exams, and the practice exams are very similar to the actual exams, which is nice.
+
+--- Rating #10 ---
+Class: CHEM122
+Date: 2012-06-27 02:54:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I did not find his lectures to be of any use, although went to all of them for clickers. I managed to get an A+ in his class solely studying from the textbook, doing multiple problems in the textbook, and reviewing loncapa/tutorial questions.
+
+--- Rating #11 ---
+Class: CHEM122
+Date: 2012-05-07 22:47:17 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Will talk for 30 mins for a slide that only has 4 words on it. Doesn't really go over example problems in lecture in detail but that's what tutorial if for. Other than that, OK prof
+
+--- Rating #12 ---
+Class: CHEM122
+Date: 2012-05-07 20:51:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Useless lectures, only attended for iClicker. Very boring, and spends hours explaining useless simple stuff, then tests on much more difficult problems and concepts. Also very disorganized in his slides as well as in posting marks/exam results. All exams are done on scantron with both multiple choice and exact answer questions.
+
+--- Rating #13 ---
+Class: CHEM122
+Date: 2012-05-02 20:54:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Difficult to pay attention in class due to his long-winded lecture style, but very helpful during office hours. Gives out some easy marks for iClicker & LonCapa. Preparing for exams was very challenging. Very few problem sets done in class and, as mentioned previously, the LonCapa/tutorial problems are easier than exam problems. Would not recommend
+
+--- Rating #14 ---
+Class: CHEM122
+Date: 2012-05-01 05:16:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Perhaps due to the simplicity of the materials, Prof. Williams paces in speed that is too slow. Another problem is his wordy lecturing style. Midterms and assignments are extremely easy, whereas the final maybe a little bit more frustrating for some students because of a lack of time. Generally, a recommended professor.
+
+--- Rating #15 ---
+Class: CHEM122
+Date: 2012-04-13 16:16:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+he spends too much time on the easy stuff. The Lon Capa and practice problems are way too easy compared to what was on the final. You cannot prepare for the final in anyway but study the material and pray. Lecture slides were very disorganized, he kept making mistakes and the solutions to the problem sets were full of mistakes. Avoid him.
+
+--- Rating #16 ---
+Class: CHEM380
+Date: 2011-12-21 14:09:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great professor, laid back and easy to approach with questions. The only problem was that the lectures were not very indepth and I was hoping more material would be covered.
+
+--- Rating #17 ---
+Class: CHEM190
+Date: 2011-05-12 02:19:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Great prof.  Interesting course for science or non science major.  Not very difficult. class average on midterm was 72.  easy assignments and exams
+
+--- Rating #18 ---
+Class: CHEM281
+Date: 2011-04-22 20:47:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+i learned nothing in his class. i learned the material thru the textbook, and tutorials were helpful. his midterm was on the easy side, the final was ridiculous (some girl was actually CRYING afterwards). i thought i'd end up with a C- after failing the final (i literally guessed 70% of the test), but somehow, magically, ended up with a B+.
+
+--- Rating #19 ---
+Class: CHEM281
+Date: 2011-01-09 01:09:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+You really have to pay attention to lecture and understand what's going on. His notes are all over the place. I'm not trying to be mean because I got an A+ in his class. Don't let the easy midterm fool you, the final is going to be crazy hard
+
+--- Rating #20 ---
+Class: CHEM281
+Date: 2010-12-17 19:51:44 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He's NOT a good organic chem prof.First I should say that I got an &quot;A&quot; in his class so I have no reason to be overly critical BUT his notes are terrible and very unclear.His midterm was way easier than the problem sets and the average was 72 but the final was nothing like the problem sets and it was so hard that most people failed.

@@ -1,0 +1,277 @@
+Professor: Mo Chen
+Professor Legacy ID: 2430949
+Professor ID: VGVhY2hlci0yNDMwOTQ5
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.5
+Avg Difficulty: 4.2
+Num Ratings: 55
+Would Take Again Percent: 38.1818
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT726
+Date: 2026-01-17 02:02:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This is a Machine Learning course, but it is mostly heavy math. I was expecting more on the coding side, but there was none. The course is not helpful at all when now I am looking for ML job I have 0 coding knowledge! The final did not make any sense and was not related to its final materials.
+
+--- Rating #2 ---
+Class: CMPT726
+Date: 2026-01-08 23:53:30 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His teaching is lackluster. At the start, over 200 students attended; by the end, only about 50 remained. He relies heavily on mental math and moves too fast for students to follow. His favorite phrase is &#8220;hopefully it makes sense&#8221; before moving on. In the end, he became Santa Claus and was generous with grades.
+
+--- Rating #3 ---
+Class: CMPT726
+Date: 2025-12-24 18:01:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I hate him!
+
+The course is academically dense but practically hollow. It substitutes deep mathematical derivation for actual conceptual understanding, resulting in a curriculum that is disconnected from modern ML engineering.
+
+--- Rating #4 ---
+Class: CMPT726
+Date: 2025-12-09 07:06:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Extremely difficult final; avoid at all costs!
+
+--- Rating #5 ---
+Class: CMPT983
+Date: 2025-04-17 21:21:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Mo is highly intelligent and knowledgeable. He sometimes makes one mistake and that is assuming everyone has the same level of intelligence as him. Therefore, the level of his courses might be to tough for some people at SFU. But he is an amazing and kind person. It was a pleasure for me to get to know and work and take courses with him.
+
+--- Rating #6 ---
+Class: CMPT726
+Date: 2024-04-27 22:18:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Avoid this class.
+
+--- Rating #7 ---
+Class: CMPT726
+Date: 2024-04-27 16:56:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Awful professor. He made the final exam so challenging and didn't bother to scale up the course...
+
+--- Rating #8 ---
+Class: CMPT726
+Date: 2024-04-14 03:56:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+The lectures are not helpful. He reads off from the slides, without explaining why or how. Avoid this class.
+
+--- Rating #9 ---
+Class: CMPT726
+Date: 2024-03-15 15:22:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Mo's homework often requires readings and material not explicitly taught in class. This is further exacerbated by the lack of a requirement of STAT 270 and MATH 251.
+
+--- Rating #10 ---
+Class: CMPT726
+Date: 2024-03-05 01:34:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Avoid him, he can't teach machine learning at all.. the lectures are waste of time
+
+--- Rating #11 ---
+Class: CMPT726
+Date: 2024-03-03 04:07:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+The course itself may not be that interesting (lots of math) but Professor Chen explains everything well and clearly. Also, he is patient during the office hour.
+
+--- Rating #12 ---
+Class: CMPT726
+Date: 2023-01-13 06:04:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He explained mathematic in a very clear way and this course is really useful if you'd like to take the other 700-level courses, e.g. NLP, CG. 
+However, this course is heavy of maths and includes lots of quizzes. If you are not confident in math skill, I would suggest to audit instead of enrolment.
+Good luck for those also interested in ML. :)
+
+--- Rating #13 ---
+Class: CMPT726
+Date: 2022-12-21 04:25:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Awful
+
+--- Rating #14 ---
+Class: CMPT726
+Date: 2022-11-11 08:36:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+He shows pre-recorded lectures in which he dispassionately reads math off slides.
+Does not explain tough concepts properly.
+Will never take it again.
+
+--- Rating #15 ---
+Class: CMPT726
+Date: 2022-05-03 07:17:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I suspect that the quizzes are made by TAs. The questions are unclear and usually have mistakes, which are sources of disputes and arguments. Hope that professor can spend more time to improve the quizzes and logistics of the course, so that students won't feel confused with no timely clarifications. The course is easy if you are good at math.
+
+--- Rating #16 ---
+Class: CMPT726
+Date: 2022-03-29 21:03:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This has got to be the worst course I have ever taken in my university career. I would estimate that the professor spent less than 2 hours per week of effort. All assignments, quizzes, and even the final exam were made by the TAs, Mo did nothing - that's how lazy he is. All were littered with typos, errors, and unclear questions.  Absolutely awful.
+
+--- Rating #17 ---
+Class: CMPT726
+Date: 2021-12-23 19:51:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Kind, decent lecturer; toxic course environment. Professor/course staff largely inaccessible with inconsistent/confusing office hours schedule, and largely ignored Piazza. Unclear homeworks weren't always connected to course material, quizzes were unclear/imprecise and usually had incorrect answer keys, and grades were released late/never.
+
+--- Rating #18 ---
+Class: CMPT419
+Date: 2021-03-05 23:12:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+CMPT419 is really hard. I've done ML, now I'm in Robotic Autonomy. Mo knows what he is doing and doesn't dumb down the material. I can see classes like this making me get paid more in the future, thats why I took it, while a lot of people dropped. The class is hard! high risk, high reward. My only issue is that questions on piazza got ignored
+
+--- Rating #19 ---
+Class: CMPT125
+Date: 2020-11-12 03:41:19 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The lectures were really boring but he knew what he was teaching, and the notes are good. But the assignments were really hard + weekly, so there was a large workload every week. The TAs marked the assignments, and it was a huge mess, wouldve liked this class more if not for that. The final exam was really hard with not enough time to finish.
+
+--- Rating #20 ---
+Class: CMPT125
+Date: 2020-07-20 06:15:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Even though Mo knows his stuff, he's a really tough prof. He mostly reads off the slides, which don't even help when you look back at them, and leads to the assignments being impossible toDo. Literally EVERYONE failed the midterms and final exams, to where I think he threw the final exams away. I mostly slept in his class due to his monotone voice.

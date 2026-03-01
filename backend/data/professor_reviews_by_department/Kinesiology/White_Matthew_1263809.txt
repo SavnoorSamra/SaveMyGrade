@@ -1,0 +1,272 @@
+Professor: Matthew White
+Professor Legacy ID: 1263809
+Professor ID: VGVhY2hlci0xMjYzODA5
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 2.6
+Avg Difficulty: 3.6
+Num Ratings: 42
+Would Take Again Percent: 5.2632
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BPK312
+Date: 2024-04-29 03:20:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Most unprofessional prof in my 6 years at SFU. Rude with students/TA, spent one hour arguing about midterm grades with the class during lecture. Released grades after WD. Office hours were during one of the tutorials. Project outline was impossible to follow, strict formatting. Most the class went to the chair, nothing was done. Avoid at all costs.
+
+--- Rating #2 ---
+Class: BPK312
+Date: 2024-04-29 03:14:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I've never had a more negative experience with a professor at SFU. Stunning lack of respect for students and TA, no clarity on project outlines and exam expectaions, and was even 10 min late for the final. Avoid at all cost, the kin dept. isn't getting rid of him any time soon. Course content isn't hard, but he makes it feel like climbing Everest.
+
+--- Rating #3 ---
+Class: BPK312
+Date: 2024-04-24 02:52:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This is the worst professor I have ever had in all my years at SFU. I cannot even begin to explain how frustrated I am with BPK 312. This is a very poorly laid out course with the most disorganized and jumbled slides that are extremely LONG and boring. There is an INSANE amount of irrelevant info that you're expected to know! AVOID AT ALL COSTS!
+
+--- Rating #4 ---
+Class: BPK312
+Date: 2023-12-16 20:39:18 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Most unorganized prof I've had all 4 years at SFU. Battled with TA entire semester. Remarked all midterms after TA had finished marking & most students lost grades. TA left for 3 weeks (& I don't blame her) cause she was so fed up with him so he tried to run tutorials himself 
+Anyway, didn't give him 1/5 cause he brought snacks for the last class
+
+--- Rating #5 ---
+Class: BPK312
+Date: 2023-12-16 03:12:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+There are so many unnecessary projects and assignments in this class as well as extremely long lectures that have unlimited amounts of typos and are repetitive. Don't bother going to class since when he just READS off the slides he READS WRONG and confuses not only himself but everyone sitting there. Seems like his teaching days are behind him...
+
+--- Rating #6 ---
+Class: BPK312
+Date: 2022-12-24 19:46:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. White was the worst professor I have had in my 3 years at SFU so far. His lecture slides were jam packed with info, to the point it took 10 min to understand a single slide, with lots of typos and useless info. He would just read off lecture slides during lecture, and was condescending when speaking to students. Huge miscommunications with TA.
+
+--- Rating #7 ---
+Class: BPK312
+Date: 2022-12-16 05:48:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Would recommend to avoid if possible. His slides are some of the worst I've seen in my 5 years at SFU (he does not event take the time to read them over; tons of spelling errors and things stated multiple times). Additionally, he has not bothered marking anything that occurred in the last 1.5 months. TA was the only reason this course was worked.
+
+--- Rating #8 ---
+Class: BPK312
+Date: 2021-01-06 17:11:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Wouldn't recommend this professor to any fellow students, by far one of the most boring lecturers ever in my academic life. I am not the only one, all my friends agreed that he literally went off the slides words by words, without expanding any useful material possible. Super disorganized, needed to send him several emails to get a reply
+
+--- Rating #9 ---
+Class: BPK312
+Date: 2020-04-20 20:00:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+One of the worst professors that I have ever had. His lectures are old and are literally copied and pasted from the course textbook - verbatim. He reads off his lectures with no elaboration on any of the topics. His exam questions are poorly written and most often results in wrong answers, not because the topic is hard, but the ?s don't make sense
+
+--- Rating #10 ---
+Class: BPK110
+Date: 2019-12-08 02:33:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+avoid.
+
+--- Rating #11 ---
+Class: BPK110
+Date: 2019-12-07 00:36:29 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Do not take BPK 110 w/ Matt. His slides are like as if they were written decades ago, he uses a lot of acronyms that drive you CRAZY, he reads off his slides mainly; no point in going to lecture, he does not use Canvas and uses his own websites instead, TAs were not good; didn't know much about course
+
+--- Rating #12 ---
+Class: BPK110
+Date: 2019-12-04 04:42:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Midterm and final questions were hard. Material on tests is harder than textbook and lectures. I wouldn't recommend taking it unless it's absolutely necessary. Matt just reads off the slides for the whole two hours in lectures and tutorials were useless (no discussion of class materials most of the time)
+
+--- Rating #13 ---
+Class: BPK110
+Date: 2019-11-27 00:06:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He expects us to memorize hours of him reading off of slide verbatim. Brutal professor.
+
+--- Rating #14 ---
+Class: BPK110
+Date: 2019-11-26 21:39:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+BORING LECTURES, He reads his lectures for 2 hours straight. Mid term and Final require extreme memorization. Also the tests seemed to focus heavily on concepts that were not stressed in lectures at all. Wouldn't recommend unless you need to take his class.
+
+--- Rating #15 ---
+Class: BPK110
+Date: 2019-11-09 05:39:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Matthew should be ashamed of himself for not teaching textbook materials. He makes the hardest test which lead to AVG of 64. Slides are dry and useless for test. He is unwilling to answer student's questions and often late for lecture. Be prepare to teach yourself/memorized details/ do presentations
+
+--- Rating #16 ---
+Class: BPK110
+Date: 2019-10-23 02:47:17 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The presentation slides were blue and yellow wish made it hard to focus, he just read off the slides and would barely give extra information. He would post the slides on a website but doesn't use canvas. There is tutorial work that is mandatory to complete, there is also a presentation by the end of the semester too.
+
+--- Rating #17 ---
+Class: BPK432
+Date: 2018-10-21 16:53:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+he just read out what's on his slides.
+
+--- Rating #18 ---
+Class: BPK312
+Date: 2018-04-09 02:12:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Nicest prof ever! He brought us timbits and coffee to class, how sweet! Plays jeopardy games with the class to give you a chance to boost your grade. Would definitely take another one of his classes! Thanks Matt :)
+
+--- Rating #19 ---
+Class: BPK422
+Date: 2016-06-28 17:39:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Matt is a super nice guy who will bend over backwards to help you. However, he has difficultly explaining relatively simple concepts and didn't seem to be able to answer straight-forward questions about discrepancies in lecture slides or whatever. will need patience to work out what he thinks is important. Debates are a LOT of work but graded fair
+
+--- Rating #20 ---
+Class: BPK312
+Date: 2015-04-25 05:28:27 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+he seems to be a nice guy but he's so boring when he's lecturing, he tries though but he's so confusing and fast paced that he doesn't make anything clear. he basically repeats his slides. his exams are hard but still doable, his marking scheme is very detailed though and the group projects are totally killer since he marks so hard.

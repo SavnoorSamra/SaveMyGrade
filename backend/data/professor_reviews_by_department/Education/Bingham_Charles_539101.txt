@@ -1,0 +1,271 @@
+Professor: Charles Bingham
+Professor Legacy ID: 539101
+Professor ID: VGVhY2hlci01MzkxMDE=
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.5
+Avg Difficulty: 1.8
+Num Ratings: 101
+Would Take Again Percent: 86.4865
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: 240
+Date: 2026-01-06 21:19:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His lectures were interesting but lacked diverse perspectives, leading to controversial points being made. Unfortunately he wasn't as open to criticism and feedback as he had previously stated. The TA was amazing, she wasn't afraid to bring up controversial points made in lecture and gave great feedback when asked.
+
+--- Rating #2 ---
+Class: EDUC240
+Date: 2025-12-19 07:01:00 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+As a 1st year, I took his class for Education. I enjoyed listening to Bingham's lectures, although it seemed like they weren't fully planned, but he always knew what to talk about. The TA I got was a tough grader, but she is really nice and understandable. I learned more from her tutorial class than Bingham's lectures. Final project had no rubric.
+
+--- Rating #3 ---
+Class: EDUC250
+Date: 2025-12-19 06:04:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This class was very interesting. There are weekly logs based on the lectures and readings. He is an easy grader, but make sure to do good on the final project, as it is worth 40% of the final grade.
+
+--- Rating #4 ---
+Class: EDUC240
+Date: 2025-12-12 08:00:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+chill and caring prof, some of the logs were marked sort of harshly, but overall great course grading scale is cooked though
+
+--- Rating #5 ---
+Class: EDUC250
+Date: 2025-10-20 19:56:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The best I professor ive ever had! He's an easy marker and super funny. Most of the time it is easy to get by without doing any of the readings assigned as he basically summarizes everything important the next class. He makes learning fun and never puts too much pressure on a student. He also watched movies with us and tells stories, Love him!
+
+--- Rating #6 ---
+Class: EDU240
+Date: 2025-10-20 19:53:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The funniest, most caring professor ever. He makes learning so much fun and his classes are so engaging. Three hours fly by with him as the professor.
+
+--- Rating #7 ---
+Class: EDUC240
+Date: 2025-08-24 08:51:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Both the Prof and the TA are so nice. They give really good feedback and are always willing to help. The course itself isn't hard at all, very manageable. Honestly one of the most chill classes I've taken
+
+--- Rating #8 ---
+Class: EDUC240
+Date: 2025-07-08 20:28:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+I've never written a review but he deserves it. I'm not finished the course yet but Bing and the TA's genuinely want their students to succeed. All you have to do is go to class (he does do attendance) and go to tuts. Tuts are super easy the first half is literally basically just grounding exercises. Take this class if you want to boost your gpa!
+
+--- Rating #9 ---
+Class: EDU240
+Date: 2024-11-29 07:13:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Bing really is a super caring and nice teacher. His lectures are always engaging and he makes me want to learn more. I felt happy coming to his class. Super kind person and I would recommend him highly!
+
+--- Rating #10 ---
+Class: EDU240
+Date: 2024-11-20 00:06:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is amazing. Yes he goes on tangents but he cares about everything he teaches. Easily the best prof I've had at SFU highly recommend. Tutorials will go over the readings and the lectures are their own thing.
+
+--- Rating #11 ---
+Class: EDU240
+Date: 2024-10-23 06:32:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His lectures are highly unprepared and he just keeps yapping about his personal life. Interesting readings but we don't really talk about them. The tutorial addresses the readings more than the lecture. No slides. Pretends everything is a big revelation when it's the most basic thing we have all heard about already.
+
+--- Rating #12 ---
+Class: 240
+Date: 2024-08-19 23:34:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Genuinely speaking, Bingham is a one of a kind academic inspiration unlike any other that I have ever witnessed in undergrad. Lecture concepts share a common philosophical thread that all tie into the course themes in which he explains and reiterates thoroughly throughout the semester. Workload was quite easy and the marking was reasonable.
+
+--- Rating #13 ---
+Class: 240
+Date: 2024-03-06 08:50:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Lectures are really engaging and the course concepts are really interesting. Weekly readings and logs and a project for grading, but very do-able and you have a lot of freedom to write about what you want as long as you refer to readings and lecture. Funny guy but rambles a lot. Lecture is mandatory as you have to input attendance to get a grade.
+
+--- Rating #14 ---
+Class: EDU240
+Date: 2023-11-28 01:41:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Such an unorganized prof with the most unorganized TAS. The lectures were super random and all over the place. Never had slides. He just rambled forever. Worst class I have ever taken by far.
+
+--- Rating #15 ---
+Class: 240
+Date: 2023-03-30 22:42:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Charles is the most wholesome professor. He is so kind hearted and truly cares about his students. He is the best professor I have had at SFU and he makes me feel like this is how school and teachers should all be like. Caring of your mental health, understanding, and patient. He understands that we are just human and we make mistakes.
+
+--- Rating #16 ---
+Class: EDU240
+Date: 2023-03-23 04:33:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His lectures are always interesting and very inspirational. He doesn't use slides to conduct his lecture, he just uses the readings or artifacts to guide what he discusses. He's hilarious and unlike any Prof I've had. Highly recommend! No quizzes or exams in EDUC240! Just a project at the end of the semester. He doesn't give clear criteria though
+
+--- Rating #17 ---
+Class: EDU240
+Date: 2023-03-15 00:54:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I have had Dr. Bingham as my prof for 2 courses (educ 100 and 240) and keep hoping to find another course that he teaches. He is hands down my favourite prof that I have had at SFU. He made the lectures engaging and explained things very thoroughly. He gave really insightful feedback and made learning the content very enjoyable!
+
+--- Rating #18 ---
+Class: EDUC250
+Date: 2021-12-28 23:46:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He's a well-respected prof for a reasonhe's kind, intelligent, and inspiring. However, I noticed he often came to class unprepared, resulting in personal tangents. Lectures would sometimes be cancelled 2h before start time and I felt like it was a waste of my money and time (each lecture was around 2h 50min long). Easy marker/easy class though!
+
+--- Rating #19 ---
+Class: EDUC240
+Date: 2021-12-16 06:39:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Charles is the most inspiring professor I have yet encountered. His lectures are super engaging because they are mostly filled with story telling about his own personal accomplishments (which are motivational). just show up to lectures and take notes and you will be fine. All of the assignments, project and interview are super simple.
+
+--- Rating #20 ---
+Class: EDUC240
+Date: 2021-12-07 23:31:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This is my second time in a course with Dr. Bingham, and I have to say that he is the best education prof at SFU hands down. His teaching style is unique and philosophical, but he has been the most influential professor that I have had in terms of shaping my teaching pedagogy. Course grading is fair and materials are interesting!

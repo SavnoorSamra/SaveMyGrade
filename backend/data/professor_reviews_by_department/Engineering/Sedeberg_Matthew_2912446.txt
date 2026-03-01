@@ -1,0 +1,24 @@
+Professor: Matthew Sedeberg
+Professor Legacy ID: 2912446
+Professor ID: VGVhY2hlci0yOTEyNDQ2
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 4
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: ENSC324
+Date: 2023-12-29 21:19:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great professor, tough class. Semiconductor physics is tough but he makes it manageable. 2nd midterm was fair, 1st was tough and the final was a curveball but he likely scaled as class average was a B- so overall he is fair. To do well on the tests review and understand homework and tutorial questions. Know how to use the associated formulas.

@@ -1,0 +1,11 @@
+Professor: Mauve Page
+Professor Legacy ID: 2990107
+Professor ID: VGVhY2hlci0yOTkwMTA3
+Department (CSV): Art & Design
+Department (Fetched): Art & Design
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

@@ -1,0 +1,196 @@
+Professor: Ted Wisniewski
+Professor Legacy ID: 2401696
+Professor ID: VGVhY2hlci0yNDAxNjk2
+Department (CSV): Art
+Department (Fetched): Art
+Avg Rating: 3.7
+Avg Difficulty: 3.4
+Num Ratings: 14
+Would Take Again Percent: 64.2857
+
+Ratings Count Returned: 14
+
+--- Rating #1 ---
+Class: ENGL113
+Date: 2024-11-05 10:00:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+i skipped the first three weeks of class thinking it's some bs class, and boy i was wrong.. at first i didn't give a single damn to seriously learn anything from a "literature class" and only took it to boost my gpa. ted brings so much emotion and passion on his lectures. def made me reflect the deeper purpose of life from his selection of books.
+
+--- Rating #2 ---
+Class: ENGL113
+Date: 2023-11-09 02:49:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing professor!
+
+--- Rating #3 ---
+Class: ENGL113
+Date: 2023-10-18 06:36:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is an amazing professor who helped me through a lot. His lectures were amazing and honestly I'm glad i took his course.
+
+--- Rating #4 ---
+Class: ENGL113
+Date: 2023-10-12 04:31:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Avoid it if you can. Terrible and very difficult assignments (essays). I don't understand how we suppose to write an essay to get more than a B. I wish I had not taken this course. Also, midterm is called a quiz just to save the class and after a very boring 1.5 hours, you will have to answer a million questions.
+
+--- Rating #5 ---
+Class: ENGL113
+Date: 2023-08-17 22:17:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+One of the worst courses I have taken. Too difficult to be elective, needs much more effort than required courses. Do not recommend
+
+--- Rating #6 ---
+Class: ENGL113
+Date: 2023-04-10 10:14:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Ted is probably one of the best professors I've ever met. Great teaching that gets you so engaged with the course material during and even outside of class. I used to hate literature but now I really learnt to appreciate good plays and the emotions and messages behind them.
+
+--- Rating #7 ---
+Class: ENGL113
+Date: 2023-01-14 00:47:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's amazing and passionate, he truly cares about his students and makes it a really easy-going class. You will like theatre plays you'd never imagine you would like. 
+He's pretty open and supportive. 
+
+Would definetly take him again if I had the chance.
+
+--- Rating #8 ---
+Class: ENG112
+Date: 2022-12-07 21:47:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His books are interesting but exams are way too hard, you need to remember every sentence in your stories and able to analysis them, also there is standard answer for each of them while everyone has different thoughts. Not a bad instructor but a hard grader and exams simply ruin the literature.
+
+--- Rating #9 ---
+Class: ENG112
+Date: 2022-08-30 19:10:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+My course was fast -only seven weeks, it was well planned. Read 2-3 short stories a week. The lectures were short and interesting, professor easily makes contact if he understands that you are left, just tell what is happening. If you listen to everything, read and write down- you will pass exam without problems.
+
+--- Rating #10 ---
+Class: ENGL113
+Date: 2019-12-08 03:03:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is one of the nicest profs you can have!!!!!!!!!! You will be able to relate to the books he teaches and he explains everything in the most amazing way. He is always looking out for his students and will help you as much as you need.
+
+--- Rating #11 ---
+Class: ENGL112
+Date: 2019-07-19 04:43:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Love his class. I wish I can take his History class in next semester.
+
+--- Rating #12 ---
+Class: ENG112
+Date: 2019-05-07 06:33:33 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is nice. However not sure how he marks our papers and exams. I wonder if there is straight forward criteria. Essay topics, I was not sure if it's really related to what we learned throughout the course. Good books, good explanation, can really tell Ted enjoys the books when he teaches. Overall, ok, but very different from those typical Lit class
+
+--- Rating #13 ---
+Class: ENG114
+Date: 2019-03-19 19:04:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Interesting prof. Good comments, but can mark harshly at some points. Very passionate about reading which makes the class more involved.
+
+--- Rating #14 ---
+Class: ENGL115
+Date: 2018-12-08 02:55:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He tells you to do group discussions as on what the lecture has given you but then cuts marks because you write the answers you learned in the group he teaches really nice but then he should make slides and everything that gives us what he wants from us he just wants us to perform as a grad student its so stupid

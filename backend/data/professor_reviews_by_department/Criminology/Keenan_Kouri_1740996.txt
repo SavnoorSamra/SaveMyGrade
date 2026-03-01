@@ -1,0 +1,63 @@
+Professor: Kouri Keenan
+Professor Legacy ID: 1740996
+Professor ID: VGVhY2hlci0xNzQwOTk2
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 5
+Avg Difficulty: 2.5
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: CRIM330
+Date: 2014-09-10 20:56:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He was extremely helpful and makes you think critically. He chooses to challenge you in class so that you can do better in the course. He will truly be missed now that he has left :(
+
+--- Rating #2 ---
+Class: CRIM356
+Date: 2013-04-05 01:40:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great TA, the course is easy and relaxed.
+
+--- Rating #3 ---
+Class: CRIM330
+Date: 2012-09-12 20:12:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Kouri is one of the BEST TAs at SFU. He is extremely helpful, knowledgeable, and approachable. He helps you understand very complex legal issues and genuinely cares about his students. However, this is university and he's not going to spoon feed you the answers (you need to do your own work) hes a tremendous asset to haveSFU needs more TAs like him
+
+--- Rating #4 ---
+Class: CRIM330
+Date: 2012-08-14 14:46:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Fantastic TA, so helpful and knowledgeable and willing to go the extra mile to help students. This is the guy to have for Crim 330!

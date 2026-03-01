@@ -1,0 +1,271 @@
+Professor: Suzana Dragicevic
+Professor Legacy ID: 377606
+Professor ID: VGVhY2hlci0zNzc2MDY=
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 3.3
+Avg Difficulty: 3.2
+Num Ratings: 37
+Would Take Again Percent: 60
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: GEOG352
+Date: 2025-07-18 20:18:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The assignment and materials were fine and straight forward. The two quizzes and final were really hard. So really prep for quizzes and final.
+
+--- Rating #2 ---
+Class: GEOG351
+Date: 2024-12-23 19:52:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The prof seems nice, but the course structure is poor. Lecture material is not novel if you've taken Geog 251, 255, 355, etc., but exams have certain questions that require detailed memorization with no study guide/mention of specific memorization beforehand. Assignments graded 1-2 days before next assignment due, hard to implement feedback.
+
+--- Rating #3 ---
+Class: GEOG352
+Date: 2017-01-22 01:24:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Super course! The assignments and lectures are structured well. I like that we are given real data to practice the spatial statistics techniques. Overall a great course experience.
+
+--- Rating #4 ---
+Class: GEOG451
+Date: 2017-01-22 01:19:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This is one of the most useful courses in the SIS certificate! I am glad I took it, got a good grade in the end! The content is good and the prof and ta explained well. The practical and hands-on parts were really enjoyable. I interviewed for a job and got it based on my skills from this course. Thanks Suzana and Taylor!!
+
+--- Rating #5 ---
+Class: GEOG352
+Date: 2016-09-29 02:30:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Get to know the TA for any class you take of hers and ask them questions. Prof not helpful with clarification in terms of what material will be tested. Material is interesting but delivery is somewhat underwhelming. Her lectures felt as though it was a chore for her as though she wanted to get it over with. Class is passable, would not recommend.
+
+--- Rating #6 ---
+Class: GEOG352
+Date: 2016-04-29 04:21:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She is very nice, very patient and very helpful during office hour. Fair exams and fair marker. I got a C+ , but it's because I did not study hard. If you put effort in, guarantee a B for u.
+
+--- Rating #7 ---
+Class: GEOG451
+Date: 2016-04-20 23:39:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Learned valuable skills that got me a job!  If you are willing to work you do well. Was in a group with quite a few slackers who were looking to pass the work on to me. I did the work, got the skills and then a job while my group members are still complaining!! Goes to show, do the work and you will come out well. All round good course.
+
+--- Rating #8 ---
+Class: GEOG451
+Date: 2015-12-01 18:19:39 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Absolute nightmare of a course. TA was helpful at working on our models and was the only reason I came out of this course alive. Prerequisite were entirely useless. Expectations were that if you had never used Idrisi before you would be okay, however, the learning curve was so steep that I drowned. If you haven't worked with Idrisi stay far faraway
+
+--- Rating #9 ---
+Class: GEOG352
+Date: 2013-08-21 21:56:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+What she asks of you is trivially easy; the way she asks it makes it nearly useless and incomprehensible. Dumbed-down, annoying, and worthless class. Should be revamped with a new instructor. Worst geography class I've taken. (BSC student)
+
+--- Rating #10 ---
+Class: GEOG351
+Date: 2012-12-10 01:20:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I enjoyed this course. It was very hands on and practical. In the end you get a project for your portfolio. If you follow all the instructions the prof gives there is no problem. Don't skip classes, you will fall behind. Thanks Suzana!
+
+--- Rating #11 ---
+Class: GEOG351
+Date: 2012-11-10 12:30:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Very unclear with what she expects of students. Poorly designed course. Really hard marker. Reads off slides. Expects you to know things that you haven't learned. TA and her do not sync together. Learned everything on my own for dreamweaver. Learned NOTHING from this class. She is easy to approach, and seems nice. Grades suffered from this class!
+
+--- Rating #12 ---
+Class: GEOG352
+Date: 2012-05-01 15:38:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+The prof does an excellent job at explaining the stuff. I like the hands-on approach used in the lectures. I was a bit nervous about taking this Q course but now looking back I am glad I did. I am happy with the grade I got. These concepts come up all the time in GIS work. Thanks for a great course Suzana!
+
+--- Rating #13 ---
+Class: GEOG352
+Date: 2012-05-01 14:11:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Excellent course and prof! Learn a lot of practical skills. She took the time to explain some class stuff to me during office hours. Fair prof. Will take more courses with her.
+
+--- Rating #14 ---
+Class: GEOG352
+Date: 2012-04-19 13:49:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+The course is well organized and delivered. Suzana does a good job at explaining the concepts. I learn some valuable Q skills that I am already using. Thanks Suzana.
+
+--- Rating #15 ---
+Class: GEOG451
+Date: 2011-12-20 01:15:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+The course was very well organized and delivered. The Prof is good at explaining difficult concepts. I enjoyed this course.
+
+--- Rating #16 ---
+Class: GEOG351
+Date: 2011-12-16 04:00:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very practical and hands-on course. I developed some very useful GIS skills. Thanks for a super class Suzana!
+
+--- Rating #17 ---
+Class: GEOG351
+Date: 2011-10-05 17:48:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very nice course structure with good practical components. The teacher explains well and takes the time to go over materials.
+
+--- Rating #18 ---
+Class: GEOG352
+Date: 2011-04-28 03:57:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I enjoyed this course despite a lot of it was about numbers and calculations. As a human geographer the skills I gained will give me an edge in the workplace. The teacher used some interesting examples for the assignments. I wish the software could be changed though.
+
+--- Rating #19 ---
+Class: GEOG352
+Date: 2011-04-27 04:53:14 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+This is a well organized course. The Prof was very considerate and helped willingly during office hours. The textbook was dry but I couldn't find anything else in the library. The TA was a bit picky with the marking.
+
+--- Rating #20 ---
+Class: GEOG352
+Date: 2011-04-27 02:56:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I didn't find anything wrong with the course or with Suzana's teaching. I was at the labs and lectures and got a good grade. I know a few people who gambled on skipping lectures and expected a good grade. I guess those are the people with the vindictive comments below.

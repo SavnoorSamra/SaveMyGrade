@@ -1,0 +1,273 @@
+Professor: Craig Scratchley
+Professor Legacy ID: 345749
+Professor ID: VGVhY2hlci0zNDU3NDk=
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 1.9
+Avg Difficulty: 3.7
+Num Ratings: 186
+Would Take Again Percent: 20.1493
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENSC151
+Date: 2025-12-12 01:55:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Craig FORGOT to mark my grade for a group project worth roughly 10-15% of my final mark. When I confronted him about the mark, he told me either I write a whole new quiz, or I don't get credit for the mark...
+
+Terrible classes, lectures are just updating his own project, meaning if you miss one you're screwed.
+
+--- Rating #2 ---
+Class: ENSC254
+Date: 2025-11-14 00:34:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I imagine this guy copes to himself. "Oh, I am actually the best professor in the world. Students cannot comprehend my greatness" - William Craig Scratchley
+
+--- Rating #3 ---
+Class: ENSC251
+Date: 2025-11-07 00:13:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+it takes real talent to be this bad at teaching
+
+--- Rating #4 ---
+Class: ENSC351
+Date: 2025-11-01 00:38:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I feel like he actually tries his best. It's just he is no good at teaching.
+
+--- Rating #5 ---
+Class: ENSC351
+Date: 2025-10-11 23:43:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I remember having an interview that asked me about embedded projects that I had in the past. And I was embarrassed to talk about the ymodem stuff that this guy taught in 351. That stuff is not even remotely close to embedded. What a joke
+
+--- Rating #6 ---
+Class: ENSC251
+Date: 2025-09-16 10:53:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I dont know how after all the bad reviews he still doesn't wanna admit that he's the problem. Every prof i had in the past admit their own mistake and change to be a better prof. This guy is close minded. Feel like he still thinks his students are lazy and overreacting. So sad this is what our department has become
+
+--- Rating #7 ---
+Class: ENSC151
+Date: 2025-09-08 05:43:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Take a course with Craig and you'll understand how important slide is for teaching. Without those slides, you literally forget the main point after a while and be confused. Also his test multiple choice gets really technical wording distinctions. He's a nice guy, tho I don't know how he would react if you skip lecture but go to office hour.
+
+--- Rating #8 ---
+Class: ENSC151
+Date: 2025-04-18 02:04:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Horrible, very disorganised.
+
+--- Rating #9 ---
+Class: ENSC351
+Date: 2025-04-14 12:44:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Istg this guy and Lucky know they got favored cause they went to sfu, so they can do whatever they want
+
+--- Rating #10 ---
+Class: ENSC351
+Date: 2025-04-14 11:57:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+holy sfu doesn't give a f about their students that's why Craig could teach for more than 20 years now. honestly feel sad at this point
+
+--- Rating #11 ---
+Class: ENSC351
+Date: 2025-04-09 01:58:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+this guy is a pos
+
+--- Rating #12 ---
+Class: ENSC251
+Date: 2025-04-07 22:06:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+To anyone who has no choice but to take with craig. I dont know anything about coding and could careless about coding and I also failed both the midterm and final horrendously and I still passed lol
+
+--- Rating #13 ---
+Class: ENSC351
+Date: 2025-04-06 21:34:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+At least he is a bit more likeable than trump
+
+--- Rating #14 ---
+Class: ENSC351
+Date: 2025-03-13 01:33:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This guy is absolute dog water. I imagine craig reads these reviews every night before crying himself to sleep then wakes up the next day and doesn't care to improve his teaching skills.
+
+--- Rating #15 ---
+Class: 351
+Date: 2025-03-13 01:22:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Craig gets worse each time.
+
+--- Rating #16 ---
+Class: ENSC151
+Date: 2025-03-13 01:20:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+&#1101;&#1090;&#1086;&#1090; &#1087;&#1072;&#1088;&#1077;&#1085;&#1100; &#1091;&#1078;&#1072;&#1089;&#1077;&#1085;, &#1082;&#1090;&#1086; &#1087;&#1086;&#1079;&#1074;&#1086;&#1083;&#1080;&#1083; &#1077;&#1084;&#1091; &#1087;&#1088;&#1077;&#1087;&#1086;&#1076;&#1072;&#1074;&#1072;&#1090;&#1100;?
+
+--- Rating #17 ---
+Class: ENSC251
+Date: 2025-03-13 01:18:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This guy is a con artist
+
+--- Rating #18 ---
+Class: ENSC405W
+Date: 2025-03-13 01:16:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+When will he stop yapping??
+
+--- Rating #19 ---
+Class: ENSC251
+Date: 2025-03-13 01:16:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Failed this class lol
+
+--- Rating #20 ---
+Class: ENSC251
+Date: 2025-02-05 17:25:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ain't no way this guy is teaching ensc 251 next sem

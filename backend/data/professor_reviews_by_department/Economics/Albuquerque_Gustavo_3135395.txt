@@ -1,0 +1,67 @@
+Professor: Gustavo Albuquerque
+Professor Legacy ID: 3135395
+Professor ID: VGVhY2hlci0zMTM1Mzk1
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 5
+Avg Difficulty: 2.5
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: ECON355W
+Date: 2026-02-06 01:29:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Gustavo is someone who knows the material well, answers questions you have, and actually cares about how well you do. The exams correspond to what he teaches in class, and if your midterm grade is bad, it gets replaced by your final exam grade if that is higher. He is very kind and is not strict. I would recommend taking him for Econ courses.
+
+--- Rating #2 ---
+Class: ECON102
+Date: 2026-01-08 02:48:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Had him for 102. Was an amazing experience and got to know dr tovar very well. He's very enthusiastic and knowledgeable about what he teaches. he makes 3 hour lectures seem like 1. At the end of the year he even let us take photos with him. Very approachable.
+
+Would take again 100%
+
+If you have him your in for a good class.
+
+--- Rating #3 ---
+Class: ECON102
+Date: 2025-12-17 01:39:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very nice professor, made every concepts clear and organized. Good choice to take with
+
+--- Rating #4 ---
+Class: ECON355W
+Date: 2025-12-17 01:38:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is a good professor, new to SFU.

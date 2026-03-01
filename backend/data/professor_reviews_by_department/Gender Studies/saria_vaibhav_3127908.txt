@@ -1,0 +1,24 @@
+Professor: vaibhav saria
+Professor Legacy ID: 3127908
+Professor ID: VGVhY2hlci0zMTI3OTA4
+Department (CSV): Gender Studies
+Department (Fetched): Gender Studies
+Avg Rating: 4.5
+Avg Difficulty: 3.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: GSWS-332
+Date: 2025-12-04 23:42:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Saria is the best prof I've ever had! I've taken all of their classes and enjoyed their immense wisdom and wit. You might think Dr. Saria is "harsh", but they're actually just keeping it real and giving you the feedback you need to be better, dont waste the opportunity to learn from them.

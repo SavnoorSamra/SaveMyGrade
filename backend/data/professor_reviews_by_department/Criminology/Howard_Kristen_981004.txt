@@ -1,0 +1,63 @@
+Professor: Kristen Howard
+Professor Legacy ID: 981004
+Professor ID: VGVhY2hlci05ODEwMDQ=
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 3.6
+Avg Difficulty: 2.8
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: CRIM315
+Date: 2009-07-01 20:26:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+She is very helpful and nice. She is passionate about what she teaches.
+
+--- Rating #2 ---
+Class: CRIM315
+Date: 2008-01-02 01:37:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+One of the best TA's I've had! She's really friendly, and a fair marker. I would highly recommend her!
+
+--- Rating #3 ---
+Class: CRIM315
+Date: 2007-08-01 12:13:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I thought this TA was pretty good.  She will go out of her way to help you, and seems to want to see people in the class do well.  This is not a good course to take by distance ed, but she does her best to help you learn and get through it.
+
+--- Rating #4 ---
+Class: CRIM315
+Date: 2007-04-23 00:30:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Terrible TA who marks unfair and is very unhelpful. avoid at all costs. she didn't like me, so she gave me one percent lower than i needed for an A-. not amused. crim 315 is known to be a gpa boost class, but not in this case.

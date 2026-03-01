@@ -1,0 +1,24 @@
+Professor: John Lyon
+Professor Legacy ID: 2684393
+Professor ID: VGVhY2hlci0yNjg0Mzkz
+Department (CSV): Linguistics
+Department (Fetched): Linguistics
+Avg Rating: 4
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: LING324
+Date: 2021-04-17 22:46:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+John is a great prof who really cares for his students and always makes sure we understand the material. This class was difficult because of the content, but he checks in and provides lots of practice. He replies to emails fast and provides an extra credit quiz at the end of the sem. For a class I found very hard, John helped make it doable!

@@ -1,0 +1,271 @@
+Professor: Michael Eikerling
+Professor Legacy ID: 254401
+Professor ID: VGVhY2hlci0yNTQ0MDE=
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 3
+Avg Difficulty: 3.4
+Num Ratings: 30
+Would Take Again Percent: 0
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CHEM122
+Date: 2016-09-20 13:29:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Nice person but not clear because of his accent. Slow class in general.
+
+--- Rating #2 ---
+Class: CHEM122
+Date: 2015-04-21 00:02:57 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+CHEM122 was practically a review of high school chemistry 12 with a few harder elements added. Eikerling's lectures got boring around the 2nd one and it's very easy to fall asleep in his class but the LONCAPA and the tests are pretty fair. A lot of entropy, enthalpy and Kp on the final.
+
+--- Rating #3 ---
+Class: CHEM122
+Date: 2015-03-11 23:15:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Eikerling is a nice guy, but he literally makes no sense. The midterm is brutal
+
+--- Rating #4 ---
+Class: CHEM122
+Date: 2015-02-16 01:02:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Excellent prof if you're willing to put in the work that it takes to be successful -- and would you expect any different for a class in thermodynamics and kinetics? It's tough material but Prof. Eikerling is savvy and willing to share it if you take the time to ask and work hard. Looking forward to upper level thermo and electrochem with him.
+
+--- Rating #5 ---
+Class: CHEM122
+Date: 2015-01-28 16:02:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+What motivation to switch majors? Take a class with him and you will be running!
+
+--- Rating #6 ---
+Class: CHEM122
+Date: 2014-12-07 23:10:15 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Be prepared physically and mentally to sit in lecture. It gets real boring real quick. Midterm was alright, TA's were super helpful. He really loves thermodynamics, and that topic alone pretty much sums up the entire final. Final was straight up brutal. Don't recommend taking it with him.
+
+--- Rating #7 ---
+Class: CHEM122
+Date: 2014-12-06 19:50:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very kind professor,  somewhat difficult but thats the nature of the course and not due to the professor. Contrary to what people are saying  his accent is not bad at all. Reccomendations: Read the whole thermodynaics chapter in the textbook and go to office hours.  Go through and do the problems he posts in lecture it will appear on exams
+
+--- Rating #8 ---
+Class: CHEM122
+Date: 2014-12-05 05:17:56 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+final is really hard!! it all base on thermodynamic!!!!! midterm is fair.  But, ancient is too strong. sometime idk what he is saying:(
+
+--- Rating #9 ---
+Class: CHEM122
+Date: 2014-09-25 22:31:32 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Wow. Insane class. The accent is not at all a problem. It's German but not hard to understand at all. Most people here just get flustered when there's a foreign accent around. The tests on the other hand... killer. The final was so insanely hard, I was sure I failed. The class average had to have been a fail.
+
+--- Rating #10 ---
+Class: CHEM122
+Date: 2014-07-01 18:28:56 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Dr. Eikerling is a very nice guy, and could be a great teacher for upper level courses. However, this class with him was a nightmare. His lectures were essentially nap or gaming time, and he only cared about the students who sat up front. Midterm was fine, final was brutal. I give credit for my A to the TA's, textbook, and the curve... not him.
+
+--- Rating #11 ---
+Class: CHEM281
+Date: 2014-04-30 19:11:23 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Honestly did not try in this class, so I don't know what my grade would have been otherwise. Ended up with a C only because of the bell curve (so many students failed the final). I liked his lecture slides, but his accent makes it super hard to comprehend, even if you're at the edge of your seat listening. There are better profs out there.
+
+--- Rating #12 ---
+Class: CHEM122
+Date: 2014-04-23 00:03:58 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Yeah his accent is hard to understand but I can promise that if you do questions from the textbook and read his notes before attending the lecture, you can get a really good grade. His exams are super fair and he loves thermodynamics! at least 60% of the final was thermodynamics
+
+--- Rating #13 ---
+Class: CHEM122
+Date: 2014-04-22 23:30:09 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+To the person above, you are one legit student. I couldn't keep up with anything he was saying. Only the TA's helped. But that wasn't enough to save me from the grotesque mark I received at the end. The prof is a nice guy but those ppt slides are confusing as heck. This class is more like nap time than anything. Sorry Prof Eikerling.
+
+--- Rating #14 ---
+Class: CHEM122
+Date: 2014-04-22 22:05:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Really nice proff, he is a bit awkward and has an accent but is extremely helpful if you ask for help. He is kind of more interested in thermodynamics than kentics. Some people complain about his accent but it is not that bad if you actually try and pay attention. His midterm was super easy and final was fair. Gives really good notes.
+
+--- Rating #15 ---
+Class: CHEM122
+Date: 2014-04-19 01:15:10 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+His accent makes the lectures hard to follow. During final exam, few mistakes that he had to make announcements for, but no one understood what he was trying to correct so it was very confusing... nice guy though, just can't teach well. I would suggest taking this class with another prof if possible, otherwise be prepared to learn on your own
+
+--- Rating #16 ---
+Class: CHEM122
+Date: 2014-04-15 20:30:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Extremly difficult to keep up with his teaching, which is very confusing. He's a really nice guy, but his final killed everyone.
+
+--- Rating #17 ---
+Class: CHEM465
+Date: 2011-12-14 19:40:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Very friendly prof who is willing to help students. students be warned, this class is not for slackers. The material is interesting but can be hard to understand, so make sure you come to class and tutorials. the hw is kinda tricky but he'll help. mt avg 50%. He'll allow cheatsheet for final. Overall good prof and course.
+
+--- Rating #18 ---
+Class: CHEM465
+Date: 2009-09-25 02:43:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+good prof, good person, great eye candy. what more can you ask for&#63;
+
+--- Rating #19 ---
+Class: CHEM465
+Date: 2009-05-04 16:55:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+seriously good guy. want for you to learn and can explain difficult concepts very well
+
+--- Rating #20 ---
+Class: CHEM465
+Date: 2008-12-23 22:15:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+He is a great prof. The best way to understand the materials is to solve the assignments. The assignments are very long and difficult but they are very helpful. The attendance is v important also; try not to miss classes because the discussions in the class can clear up rather difficult concepts. He has a very nice accent and he is v approachable.

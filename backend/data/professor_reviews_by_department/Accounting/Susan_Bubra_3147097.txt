@@ -1,0 +1,11 @@
+Professor: Bubra  Susan
+Professor Legacy ID: 3147097
+Professor ID: VGVhY2hlci0zMTQ3MDk3
+Department (CSV): Accounting
+Department (Fetched): Accounting
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

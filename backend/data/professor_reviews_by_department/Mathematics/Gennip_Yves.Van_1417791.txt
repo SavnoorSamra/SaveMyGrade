@@ -1,0 +1,24 @@
+Professor: Yves.Van Gennip
+Professor Legacy ID: 1417791
+Professor ID: VGVhY2hlci0xNDE3Nzkx
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 1
+Avg Difficulty: 5
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: G12MAN
+Date: 2018-02-28 05:33:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+In the exam he made us state definitions hed never said before and arent in the lecture notes.

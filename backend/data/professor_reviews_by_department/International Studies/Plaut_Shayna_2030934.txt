@@ -1,0 +1,63 @@
+Professor: Shayna Plaut
+Professor Legacy ID: 2030934
+Professor ID: VGVhY2hlci0yMDMwOTM0
+Department (CSV): International Studies
+Department (Fetched): International Studies
+Avg Rating: 5
+Avg Difficulty: 3.8
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: IS319
+Date: 2017-11-28 22:11:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+BEST PROFESSOR I'VE EVER HAD. She has lit a fire in me! Amazing course design, great content, caring and on time.
+
+--- Rating #2 ---
+Class: IS319
+Date: 2016-10-15 08:50:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Shayna has extensive experience in the field of human rights and journalism and expects students to put what is learned in the classroom into practice. This course relied heavily on work with the community and challenged us to go beyond anything we had ever done before. She expects nothing less than your best work. Bonus: class was always engaging!
+
+--- Rating #3 ---
+Class: IS319
+Date: 2015-08-20 20:16:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Best professor I have ever had. Shayna is so passionate about the material and is supportive of students' interests and ambitions. I learned so much in the class, made great friends due to the interaction facilitated by Shayna and am dying to take another class with her. Always looked forward to this course.
+
+--- Rating #4 ---
+Class: IS419
+Date: 2015-07-31 04:25:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Shayna is such an unique amazing human being. I have never learnt so much and had so much fun while doing so. Her class is eye opening, she shows you a different way to look at issues that are key to social justice. Shayna knows how to develop your potential to be an A student if you let her. I wish she was professor to every SFU course.

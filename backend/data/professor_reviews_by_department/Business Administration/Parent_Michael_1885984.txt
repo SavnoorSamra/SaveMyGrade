@@ -1,0 +1,63 @@
+Professor: Michael Parent
+Professor Legacy ID: 1885984
+Professor ID: VGVhY2hlci0xODg1OTg0
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 1
+Avg Difficulty: 4.3
+Num Ratings: 4
+Would Take Again Percent: 0
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: BUS718
+Date: 2026-01-29 18:57:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Close minded, only wants to hear what he wants to hear.
+
+--- Rating #2 ---
+Class: BUS718
+Date: 2026-01-29 01:23:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Closed minded and dismissive toward students. Attempts to ask questions or discuss grading were often met with hostility. Raising concerns felt risky, as there were implications that future grades could be penalized. Created an intimidating and unsupportive learning environment.
+
+--- Rating #3 ---
+Class: BUS718
+Date: 2023-05-01 21:44:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Not open minded and kinda disrespectful toward students
+
+--- Rating #4 ---
+Class: BUS718
+Date: 2014-08-10 18:01:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Extremely terrible

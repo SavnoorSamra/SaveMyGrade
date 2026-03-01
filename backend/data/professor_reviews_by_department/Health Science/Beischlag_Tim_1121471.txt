@@ -1,0 +1,258 @@
+Professor: Tim Beischlag
+Professor Legacy ID: 1121471
+Professor ID: VGVhY2hlci0xMTIxNDcx
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 2.9
+Avg Difficulty: 3.2
+Num Ratings: 19
+Would Take Again Percent: 53.8462
+
+Ratings Count Returned: 19
+
+--- Rating #1 ---
+Class: HSCI100
+Date: 2025-02-05 21:39:44 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Tim is a good person but does expect students to have prior knowledge despite no prerq for this course. Dont recommend unless mandatory. All info dumped on slides + no clear learning outcomes provided which makes studying for tests hell. He curved first midterm but class average was not great. Final was tough with majority written questions.
+
+--- Rating #2 ---
+Class: HSCI100
+Date: 2024-12-11 04:59:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures not very engaging, and slides are often filled to the brim. Over 50% of the course failed the first midterm, so he raised the grades up by 30%, and took student feedback for how the next midterm should be formatted. I had a great TA as well. Lots of reading and details, so get ready for that!
+
+--- Rating #3 ---
+Class: HSCI100
+Date: 2024-11-06 03:18:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This course covers a lot of content in a lot of detail and exams, as expected, are super specific. Knowledge of specific biological terms is a must. First exam was curved heavily because of low average. Dr. Beischlag is responsive to student needs and changed the format of the next exam which was really appreciated !
+
+--- Rating #4 ---
+Class: HSCI100
+Date: 2024-04-18 01:49:28 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+lectures so boring and heavy, he doesnt really care about students and gives no exam prep or guidance. 3 midterms each 28% with questions about random details. do not recommend him
+
+--- Rating #5 ---
+Class: HSCI100
+Date: 2024-04-12 23:13:13 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Slides were just filled to the max. Two or three chapters assigned most weeks. Multiple choice exams based on very specific details rather than concepts. no guidance for studying, prof read lectures off from the ppt. Memorizing slides barely helps. Flashcards also wont help, just so much disorganized info. Memorize textbook + lecture
+
+--- Rating #6 ---
+Class: HSCI476
+Date: 2022-12-19 23:03:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I had Dr. Beischlag for my previous HSCI course, and I enjoyed both classes. My final class with him was much more relaxing compared to the other. We had three group presentations and received good grades as long as you put in the effort. He's always available for help and loves to make jokes in class too. Don't be afraid to speak with him!
+
+--- Rating #7 ---
+Class: HSCI323
+Date: 2022-12-19 02:45:35 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very clear at explaining the lecture slides. Willing to answer questions at any time and approachable. Older lectures are available online but going to class can help. 3 exams were totally fair! Would take another course with him!
+
+--- Rating #8 ---
+Class: HSCI323
+Date: 2022-12-01 16:49:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Class is based on lectures. There are only 3 midterms in the semester, which are not cumulative, so it's pretty easy. They were online and open book.  As long as you read through the slides, your good. Lots of memorization.
+
+--- Rating #9 ---
+Class: HSCI100
+Date: 2021-02-10 23:13:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Dr. Beischlag makes lectures engaging. He uses analogies that are easy to understand. Exams are very straightforward and mainly based on lecture recordings. However, the textbook provides good info for reference or simply a better understanding of the concepts. There is minimal communication with him directly, but the TA's are very responsive.
+
+--- Rating #10 ---
+Class: HSCI323
+Date: 2018-02-05 20:18:28 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This class is based on 3 exams that come directly out of the lecture slides, reading is important to complete your understanding but no material will be tested that was not mentioned in lecture. His teaching skills are pretty average, but enthusiastic :P He genuinely wants you to succeed in his class and he is very accommodating .
+
+--- Rating #11 ---
+Class: HSCI323
+Date: 2017-12-18 19:58:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+As mentioned, 323 is a straight memorization course around drug names, functions and their agonists/antagonists. Most of it is from the slides, but he emphasizes some things that'll be on the midterms during lectures (which were pretty optional as long as you have a friend going). He's a nice guy, but his explanations are very unclear.
+
+--- Rating #12 ---
+Class: HSCI323
+Date: 2017-12-01 22:09:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+120% Hardcore memory class. Attendance is not mandatory, but he tends to mark the exam easier for people who show up on the lecture. The course content is interesting if you enjoy it. (2 out of 3 best midterm will be used) Friendly reminder: The last midterm is a bitxx so make sure you work extremely hard on that if you want to get a decent grade.
+
+--- Rating #13 ---
+Class: HSCI323
+Date: 2016-12-07 18:46:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+100% memorization class! Lecture is kind of dry and attendance is not really important. Memorize everything in his slides and you will pass.
+
+--- Rating #14 ---
+Class: HSCI323
+Date: 2013-12-05 16:22:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He is rude, not a very good teacher, does not wanna come to class, does not know his material, tedious exams that do not test ur knowledge instead test ur memorizing skills. All in all it is a very very bad class!
+
+--- Rating #15 ---
+Class: HSCI323
+Date: 2011-12-29 01:19:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+This class would have been better in three one-hour lectures rather than one three-hour lecture. The course content is easy, though memorizing the names of drugs gets tedious. Compared to 3rd year MBB courses, this course required minimal studying. Regardless of how the course was taught and how the exams were graded, it was easy to get an A.
+
+--- Rating #16 ---
+Class: HSCI323
+Date: 2011-12-22 15:21:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Agree with the comments below; unprepared for lectures, unfair marker, and he could care less you actually learn something or not. Late for appointments, and a not so friendly attitude towards students when met in person.
+
+--- Rating #17 ---
+Class: HSCI323
+Date: 2011-12-21 15:11:32 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Very rude prof. He has no interest in coming to class to teach. Spends many minutes during class searching the textbook to tell us stuff;we can do that at home ourselves.
+
+--- Rating #18 ---
+Class: HSCI323
+Date: 2011-12-21 00:16:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I would avoid this prof if possible. Exams were okay, claims that the textbook is absolutely necessary when it is not, and he is condescending when you talk to him. The lectures are also boring - duller than most
+
+--- Rating #19 ---
+Class: HSCI471
+Date: 2008-04-13 01:16:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Great guy, very approachable, easy marker, well spoken and makes the material interesting. UNDERSTANDS STUDENTS

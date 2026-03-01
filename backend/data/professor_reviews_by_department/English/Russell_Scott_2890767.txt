@@ -1,0 +1,37 @@
+Professor: Scott Russell
+Professor Legacy ID: 2890767
+Professor ID: VGVhY2hlci0yODkwNzY3
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 4.5
+Avg Difficulty: 3.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: 114
+Date: 2023-04-08 01:05:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Scott is a TA who understands the importance of being a good TA.  Always accessible outside of class to answer any questions or concerns. If you email and ask him for additional feedback on something, he is gonna make sure to go above and beyond to provide that for you. Attendance matters, but he doesnt force anyone to participate which is good.
+
+--- Rating #2 ---
+Class: 114
+Date: 2023-03-28 00:20:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Scott was my TA for Engl 114W. He is a really good TA. He is incredibly knowledgeable about academic writing. He is a tough grader sometimes, but also provides some of the best feedback ever. His feedback makes it easier for you to see your weakness early on and improve it.

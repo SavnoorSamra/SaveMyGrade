@@ -1,0 +1,103 @@
+Professor: Stephen Steele
+Professor Legacy ID: 2027547
+Professor ID: VGVhY2hlci0yMDI3NTQ3
+Department (CSV): French
+Department (Fetched): French
+Avg Rating: 3.6
+Avg Difficulty: 3
+Num Ratings: 7
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: FREN341
+Date: 2025-10-01 17:49:34 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Stephen is a nice man but he seriously has the most boring lectures imaginable and picks the worst material to read for class.
+
+--- Rating #2 ---
+Class: FREN341
+Date: 2024-11-29 20:13:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Stephen is kind, hilarious and passionate about literature. His only downside is not using any powerpoint material while teaching. He just talks to the class about the material we've read. So sometimes it's difficult to stay engaged. If you come to class prepared, and try to be engaged, you'll get more out of it. If you zone out, you will get lost.
+
+--- Rating #3 ---
+Class: FREN245
+Date: 2023-04-13 18:29:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Stephen is probably the kindest man ever and clearly passionate about the course material. It was challenging at times to follow his lectures when there were few slides or visual aids but if you put in effort and participate in class you will get a decent grade.
+
+--- Rating #4 ---
+Class: FREN245
+Date: 2023-03-20 18:32:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Literally the sweetest man, but doesn't know how to make engaging lectures. Literally never seen him touch a computer, so no powerpoint slides, he instead runs around the class writing keywords on the board. He's clearly passionate, but it's hard to follow when he simply just talks about the books for 3 hours straight with no slides to  
+follow.
+
+--- Rating #5 ---
+Class: FREN4XX
+Date: 2018-10-25 14:54:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+My FAVE French Dept. prof @ SFU. He's extremely passionate about the subject and very concerned about his students in &amp; outside of class. He'll act out certain things in lecture and occasionally speak in English to be very clear. Speaks French well but with a super Anglophone accent. Be ready to answer questions though because he might pick on you!
+
+--- Rating #6 ---
+Class: FREN245
+Date: 2017-03-23 18:10:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The sweetest man I have ever met. Stephen is clearly passionate about the course which shows in his lectures and above all his relationship with students.  Highly recommend taking a course with him.
+
+--- Rating #7 ---
+Class: FREN245
+Date: 2015-12-05 05:12:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Very expressive and clearly passionate about the literature he teaches about! Very kind and helpful. Make sure to pay attention in lecture because he WILL call on you to finish his sentences, haha.

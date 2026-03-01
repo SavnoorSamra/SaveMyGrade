@@ -1,0 +1,37 @@
+Professor: Jessica Palma
+Professor Legacy ID: 1463651
+Professor ID: VGVhY2hlci0xNDYzNjUx
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 4.8
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: HSCI214
+Date: 2012-02-22 16:58:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Ms Palma is able to hold your attention during lectures, and she is very articulate. She is very friendly and approachable.
+
+--- Rating #2 ---
+Class: HSCI214
+Date: 2010-08-31 23:32:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Palma taught this class with Emily Jenkins. Lectures were kind of dry as both profs just read directly off the ppt notes, but the videos shown in class were really interesting. Midterm + final consisted of MC Q's and were sometimes kind of tricky. The 2 assignments were marked pretty fairly though. Overall, it was your typical 200 level course.

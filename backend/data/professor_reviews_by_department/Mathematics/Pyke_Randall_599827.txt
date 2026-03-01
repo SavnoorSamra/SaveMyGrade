@@ -1,0 +1,271 @@
+Professor: Randall Pyke
+Professor Legacy ID: 599827
+Professor ID: VGVhY2hlci01OTk4Mjc=
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2
+Avg Difficulty: 4.2
+Num Ratings: 200
+Would Take Again Percent: 22.6415
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH232
+Date: 2026-02-10 01:57:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If you want to pass MATH 232, do not take his class. Trust me, just trust me.
+
+--- Rating #2 ---
+Class: MATH232
+Date: 2026-02-10 01:54:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: True
+Comment:
+give her the meds.
+
+--- Rating #3 ---
+Class: MATH232
+Date: 2026-02-09 17:47:38 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Did I forgor my meds again?????
+
+--- Rating #4 ---
+Class: MATH232
+Date: 2026-02-08 23:11:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+This prof loved me alot.
+
+--- Rating #5 ---
+Class: MATH232
+Date: 2026-02-08 22:24:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Absolutely goated. The best prof u will ever have. 100% guarantee u will get A+ just like I did. Scales really well. Went from 2% to 3%. ALL HAIL KING PYKE.
+
+--- Rating #6 ---
+Class: MATH152
+Date: 2026-02-06 20:20:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This guy is absolutely goated, everyone needs a teacher like this in their lives, I feel as if I've found my purpose in life.
+
+--- Rating #7 ---
+Class: MATH152
+Date: 2026-01-27 16:39:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+He does not care.
+
+--- Rating #8 ---
+Class: MATH232
+Date: 2025-04-25 02:28:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+randall is by far the worst prof i have ever and probably will ever take. expects hours among hours of pre-lecture videos that must be watched. he gives lots of practise but the tests are never anything like them. i BARELY passed that course after making it my entire life for 3 months. bless the textbook because its the only teacher in that class
+
+--- Rating #9 ---
+Class: MATH232
+Date: 2025-04-22 07:08:48 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's not that bad. The class is very fast-paced, and he makes it clear at the start that you need to make time to study linear algebra, whether you like it or not. He offers good review packages before each exam and the questions are similar to those ones. The computing assignments were the most difficult portion, even with some coding knowledge.
+
+--- Rating #10 ---
+Class: MATH232
+Date: 2025-04-21 17:57:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Almost failed but he helped me a lot
+
+--- Rating #11 ---
+Class: MATH232
+Date: 2025-04-19 19:06:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very easy professor that can teach very well! Also very kind when you ask questions. Very very good!!
+
+--- Rating #12 ---
+Class: MATH157
+Date: 2025-04-19 17:37:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+he cannot teach. watch professor v on youtube if you want any chance at passing the class. hes also rude when you ask him questions.
+
+--- Rating #13 ---
+Class: MATH232
+Date: 2025-04-18 17:25:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's kind but can't teach. You'll need to teach yourself (I used the textbook). Attend lectures because he'll occasionally drop a formula not in the book. Do all assignments in full and train for speed for exams and quizzes. Quizzes are paced extremely fast, exams a bit slower but the content is harder. A deep understanding is required for success.
+
+--- Rating #14 ---
+Class: MATH157
+Date: 2025-04-17 23:42:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I feel like Randall gets a lot of bad reviews because of the class he teaches which is calc as many people fail and then blame it on him. Overall, he was a good prof with a clear grading format. If you keep up with the class and do his IQ questions, you will do good on the midterms and finals. Yes, he does curve the class.
+
+--- Rating #15 ---
+Class: MATH157
+Date: 2025-04-17 20:20:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Randall Pyke&#8230; I don't even know where to start. This man doesn't teach math, he performs it. Every lecture is a masterclass, clear, passionate, and somehow fun. He makes the impossible feel easy. If math were a sport, Pyke's already in the Hall of Fame. Absolute legend.
+
+--- Rating #16 ---
+Class: MATH157
+Date: 2025-04-17 00:13:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Class wasn't too bad. Boring professor with confusing lectures but he's free to talk if you have any issues with the material. If you're not strong at math I wouldn't recommend this prof, but also most people were so you can't blame him for your bad grade. 1/3 of the people were even at lectures so it makes sense lots of people did bad
+
+--- Rating #17 ---
+Class: MATH157
+Date: 2025-04-16 02:14:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Horrible professor probably the worst ive ever had. Whatever you do, do not take him. Avoid him at all costs. Super hard exams, no curve, and has no clue what hes teaching himself. Learned everything from online chem tutor.
+
+--- Rating #18 ---
+Class: MATH232
+Date: 2025-04-16 02:11:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+countless hours of videos that he expects you to watch prior to lectures, lectures are terrible too. hes just bad bro. honestly just read the textbook instead. will not curve either
+
+--- Rating #19 ---
+Class: MATH232
+Date: 2025-04-15 14:24:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very clear and easy to understand lectures. Was a pleasure to take this course!
+
+--- Rating #20 ---
+Class: MATH157
+Date: 2025-04-15 07:37:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+dont believe any good reviews on here he clearly writes them himself. not helpful at all &everytime someone asks questions he answers it so ambiguously, literally even asking him about how the class is graded he wont give a clear answer.doesnt even know what hes teaching like he will literally be figuring out the question as he does it. f u randall

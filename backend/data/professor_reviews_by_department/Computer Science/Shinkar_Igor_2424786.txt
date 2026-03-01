@@ -1,0 +1,289 @@
+Professor: Igor Shinkar
+Professor Legacy ID: 2424786
+Professor ID: VGVhY2hlci0yNDI0Nzg2
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.2
+Avg Difficulty: 3.5
+Num Ratings: 172
+Would Take Again Percent: 80.814
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT125
+Date: 2026-01-07 23:43:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Igor is great.
+
+his lectures are dense and sometimes hard to follow when learning things for the first time but if you take the time outside of class to mess around by yourself then you'll be fine.
+
+tests were hard but fair, do the previous exams and you should be fine.
+
+his jokes were hilarious and deserve a standing ovation.
+
+--- Rating #2 ---
+Class: CMPT225
+Date: 2025-12-26 05:29:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+the lectures were alright but given the prior rating they weren't that amazing too. Many times while explaining he would say "you would know"made me feel a little less likely to ask more questions cause I wouldn't usually know the things already. The assignments were easy. The final project however was very hard. Midterm & final were fair.
+
+--- Rating #3 ---
+Class: CMPT125
+Date: 2025-12-20 01:36:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+avoid. lectures are so boring, he only talks about binary trees and pointers. then he asks question and just stands there in silence waiting for an answer. and his jokes are not funny.
+
+I got 100% on all homeworks, and above 50% total average. He gave me D and didn't agree to round up to C-. now becuase of him I need to retake the course
+
+--- Rating #4 ---
+Class: CMPT125
+Date: 2025-12-20 00:02:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures are extremely boring and only once a week (he posts videos once a week too). No scaling at all, so roughly half of the class has to retake the course due to bad marks or fails.
+
+--- Rating #5 ---
+Class: CMPT125
+Date: 2025-12-19 23:45:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He doesn't scale. Approximately, 40% have to retake this course.
+
+--- Rating #6 ---
+Class: CMPT225
+Date: 2025-12-14 02:00:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Igor's lectures were great and he explained the concepts very well. The final project was very difficult, so it's a good idea to start on it early. The tests were a bit difficult, but fair. He also provides you with lots of practice problems which help a lot when studying for the tests.
+
+--- Rating #7 ---
+Class: CMPT225
+Date: 2025-12-12 20:16:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+good prof, fair exams, fair assignments, and very difficult final project. 
+
+but be weary because there was no curve.
+
+--- Rating #8 ---
+Class: CMPT225
+Date: 2025-12-12 20:12:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Igor is one of the best computer science professors at the school. he responds to messages fast, his assignments are fair, and his midterm and final are very similar to the practice. 
+
+the only thing is, his final project was VERY hard, so make sure to start at least  a week before. 
+
+also his course is in java so it's already 10 times easier.
+
+--- Rating #9 ---
+Class: CMPT225
+Date: 2025-12-12 07:01:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+While there are many topics and the final project is pretty tough, professor Shinkar is extremely fair and helpful. Would def recommend
+
+--- Rating #10 ---
+Class: CMPT225
+Date: 2025-12-12 03:43:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Igor's getting a lot of hate, but I would describe him as very fair. Extremely fairly graded regular assignments, reasonable difficulty on midterm & final. Final project was hard - definitely harder than most stuff - but Igor is very helpful & active on piazza. Don't expect to be able to fully coast with him, just put in the work and you're fine.
+
+--- Rating #11 ---
+Class: CMPT225
+Date: 2025-12-11 23:05:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This was a solid course. The work was fair and a lot of time was given for the project, which while difficult as long as you put in effort you got s good mark (even if you couldn't fully solve it). The tests were fair and covered topics he layed out pretty clearly on the online class forum.
+
+--- Rating #12 ---
+Class: CMPT225
+Date: 2025-12-11 21:55:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He cares about his students, EXTREMELY fair and understanding. I'd take all my courses with him if I could. 
+
+He can understand if you've genuinely studied/attempted something and gives you marks based on that as well as having the correct solution. 
+
+project was a difficult but there are people that solved less than 25% and still got 75%+
+
+--- Rating #13 ---
+Class: CMPT225
+Date: 2025-12-11 06:38:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Decent professor, but beware Igor is slightly overrated or has decreased in teaching quality. Exams are fair and reasonable. Lectures and course in general felt poorly planned, a few last minute cancelled lectures. Final project was hilariously difficult but at least was marked lightly. Definitely not a bad professor, but not an amazing one.
+
+--- Rating #14 ---
+Class: CMPT225
+Date: 2025-12-10 09:54:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+one of the best profs I've had over the years. super caring and understanding towards students.
+
+--- Rating #15 ---
+Class: CMPT225
+Date: 2025-12-10 07:41:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great prof and a really caring person. Allowed for resubmissions and was very lenient with his marking, his lectures weren't the best but then again I just used youtube to supplement my learning and it worked out great for his midterms and finals.
+
+--- Rating #16 ---
+Class: CMPT225
+Date: 2025-12-10 07:20:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Igor is an amazing professor! His lectures are great and is very understanding and caring. His exams were a bit tough but he was also lenient with his marking. The project was also stressful but again, very lenient with the marking. Overall, W course would take again.
+
+--- Rating #17 ---
+Class: CMPT125
+Date: 2025-12-10 04:12:22 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Hilarious guy; the only thing to look out for is the tests. They're fair, and he gives students almost all of the past exams, but they're still hard, and he only does half his lectures in person, so it's hard to keep up. Practice and review often and you should be fine, but keep yourself accountable, because he won't.
+
+--- Rating #18 ---
+Class: CMPT225
+Date: 2025-12-09 22:26:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Igor is the best CS prof hands down. This prof is a tiny bit disorganised, but I would say that most of his lectures were clear. Final project was definitely a bit tough, but his exams were super fair (and he was able to accommodate me taking it later). Overall, if you put the effort into this class you can do super well. Thank you for the sem!
+
+--- Rating #19 ---
+Class: CMPT225
+Date: 2025-12-08 21:52:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Igor was a solid prof. He was rusty after teaching this course in 2023, but the midterm and final were fair, lectures were rushed later in the semester due to him missing some days. My advice would be to do things much ahead of time as many people had issues with the project, but if you give yourself a lot of time and do research you can succeed.
+
+--- Rating #20 ---
+Class: CMPT225
+Date: 2025-12-08 20:25:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Although the final project was difficult it helps you prepare for the final exam, his exams were very fair and he genuinely wants his students to succeed. Highly recommend taking it with him! Thanks Igor bless you.

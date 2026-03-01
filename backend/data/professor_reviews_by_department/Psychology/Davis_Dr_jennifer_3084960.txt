@@ -1,0 +1,129 @@
+Professor: Dr jennifer Davis
+Professor Legacy ID: 3084960
+Professor ID: VGVhY2hlci0zMDg0OTYw
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 2.9
+Avg Difficulty: 3.2
+Num Ratings: 9
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: psyc260
+Date: 2025-04-30 21:14:59 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+All content discussed in class were from the textbook, so rely on that when studying for her exams. Attend the lectures because she writes down definitions on the board and is not in the slides. The group discussions were graded very harshly and guidelines were unclear. Hard to reach outside of class and responded to my email 3 weeks later.
+
+--- Rating #2 ---
+Class: psyc260
+Date: 2025-04-29 18:03:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I found this class with Dr. Davis really interesting and engaging. She explains concepts clearly, and the textbook helps deepen your understanding. It made the exams, which ask you to apply the concepts situationally, much easier. The podcasts were interesting, and I enjoyed the group discussions. You can do well if you engage with the material!
+
+--- Rating #3 ---
+Class: psyc260
+Date: 2025-04-26 05:09:50 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Did not like her. Along with a 2 hour lecture, we were meant to listen to an hour long podcast each week and come to the 50 min discussion classes. Paper was easy but the questions on her exams make no sense. I could recite the textbook and didn't do well on the first 2 exams. A lot of the content was covered in 102. Last one was super easy though.
+
+--- Rating #4 ---
+Class: psyc260
+Date: 2025-04-25 19:05:28 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Friendly but bad prof. Exams are random and often do not reflect what we learn in class. Podcast discussions do not provide much to the course and are graded with very vague guidelines, seems impossible to do well. Slides have like 3 words on them-if you miss a class you are screwed, no recordings posted. Everything felt like a trick to lose marks.
+
+--- Rating #5 ---
+Class: psyc260
+Date: 2025-04-15 08:04:34 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The prof wasn't great, her teaching style is boring and she assigned 1 hour podcasts to discuss and write about each week without giving a clear grading criteria. 
+Hard marker and the short answer questions on exams had to do with activities she did in class so if you didn't attend you won't be able to answer the SAQ
+
+--- Rating #6 ---
+Class: psyc260
+Date: 2025-04-14 02:10:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Course material is exciting but her way of teaching isn't. You'll be assigned to discuss buncha boring podcasts with your group and they grade them randomly. Her questions and wording is also vague. Take notes of out of slides material she mentions, it'll be on exams. If you're lucky, you'll be in a good group for discussion and your TA is Jesse.
+
+--- Rating #7 ---
+Class: psyc260
+Date: 2025-04-09 23:09:25 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Prof Davis is kind and approachable, but the course lacks structure. Podcasts don't clearly relate to the topics we're supposed to discuss, lectures aren't recorded and feel disconnected. Content focuses on definitions, while exams are more scenario-based with little prep. The material is interesting, but hard to enjoy because of how it's taught.
+
+--- Rating #8 ---
+Class: psyc260
+Date: 2025-04-04 04:29:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+DrDavis is very inspirational professor. She really cares about her students, never tires of answering questions, and is always open to clarify whatever students find unclear. Podcasts weren't my favorite, but she used then to encourage engagement with the content and attendance, which is fine. She is kind and approachable, and would recommend her.
+
+--- Rating #9 ---
+Class: psyc260
+Date: 2025-04-02 18:32:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She's nice and seems to care about students but class was set up strange, 1 hr class to talk about a podcast each week (annoying) which she randomly marks certain ones so you have to go each week. Then 2hr lecture she has a lot of examples but no break so I get bored. Overall okay class, I loved the material but lectures were slightly boring

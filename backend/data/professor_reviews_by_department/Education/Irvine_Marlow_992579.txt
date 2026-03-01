@@ -1,0 +1,37 @@
+Professor: Marlow Irvine
+Professor Legacy ID: 992579
+Professor ID: VGVhY2hlci05OTI1Nzk=
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.8
+Avg Difficulty: 3.5
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: EDUC807
+Date: 2013-04-06 01:13:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Made me think VERY hard about education. His own writing was tough but his explanations of everything were totally clear. And he seemed to know me as a teacher. I earned my master's and feel better for having to work so hard.
+
+--- Rating #2 ---
+Class: EDUC406
+Date: 2007-05-16 01:53:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He made me a better person, better teacher, better parent.  I hope he gets only good things in his life. He deserves them.

@@ -1,0 +1,50 @@
+Professor: Mina Sedaghatjou
+Professor Legacy ID: 2178547
+Professor ID: VGVhY2hlci0yMTc4NTQ3
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.3
+Avg Difficulty: 3.3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: EDUC451
+Date: 2019-04-28 15:37:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Really makes you think, also lets you work on your project in class. Furthermore, uses class time so that you can go and implement your inquiry in practicum. P.S: Passed the course @UBC
+
+--- Rating #2 ---
+Class: EDUC212
+Date: 2016-10-20 13:22:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The course is inspiring for Art students. I enjoyed the lecture and activities, but didn't like Geogebra software. I challenged with 3D geometry too.
+
+--- Rating #3 ---
+Class: EDUC212
+Date: 2016-10-19 19:51:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Mina was always available for help, was very patient and always encouraged us to speak up. She was open and flexible in her teaching style. Mathematics is not my strong point, it was actualy a topic that initialy scared me but Mina's  enthusiasm for the subject made it relatable!

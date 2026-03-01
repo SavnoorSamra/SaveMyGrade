@@ -1,0 +1,271 @@
+Professor: Ken Li
+Professor Legacy ID: 2058551
+Professor ID: VGVhY2hlci0yMDU4NTUx
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 3.2
+Avg Difficulty: 3
+Num Ratings: 29
+Would Take Again Percent: 70
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: 3AB3
+Date: 2021-12-05 16:02:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+VERY GOOD!!
+
+--- Rating #2 ---
+Class: STAT200
+Date: 2018-12-18 22:37:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Really Great class
+
+--- Rating #3 ---
+Class: STAT200
+Date: 2018-12-18 01:46:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Ken is AMAZING!!!! I took his lecture at UBC and it was wonderful, he's funny, informative and a wonderful guy. He has a lot of passion for stats and it really shows. He made showing up to a lecture on a Monday morning a fun experience. Arguably one of the best profs at I've had at UBC
+
+--- Rating #4 ---
+Class: STAT200
+Date: 2018-11-28 20:52:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+If you want to understand the material, take this class with Ken. He makes the process of learning new material easy and fun. Lectures are useful and informative. Lots of jokes, so you will leave his class feeling happy and energetic.
+
+--- Rating #5 ---
+Class: STAT200
+Date: 2018-11-28 20:48:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Ken is a good instuctor. He explains the material using simple language and it makes all concepts clear. Although sometimes he makes little typos, he always corrects himself, so it is good to attend lectures. Also, all slides are posted online in case you skip a class. Stat200 is fun with Ken, his lectures are full of jokes and funny comments.
+
+--- Rating #6 ---
+Class: STAT200
+Date: 2018-11-28 19:25:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Ken was an awesome prof! Sometimes he could be hard to understand through the accent, but once I got used to it it wasn't really an issue. Super funny and energetic prof, who would say the most random hilarious things in class and definitely kept me engaged. Very caring guy who once drove to UBC from Burnaby at 8:00pm just to hold an office hour.
+
+--- Rating #7 ---
+Class: STAT200
+Date: 2018-04-10 00:05:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I am quite confused why Ken could be an instructor at Universities like UBC and SFU. His lectures are confusing. It's really hard to catch up. Moreover, the materials he provided were really nonsense, they were just some basic concepts or formulas. It's impossible for you to finish his webwork or assignment by reviewing his powerpoint.
+
+--- Rating #8 ---
+Class: STAT200
+Date: 2018-03-07 13:36:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+SO many tricky questions in the midterm and the lecture is just repeating the pre-reading
+
+--- Rating #9 ---
+Class: STAT200
+Date: 2018-03-02 23:56:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Out of my 3 years at UBC never had I experienced an instructor like Ken. I've played games that were nowhere as fun as this man. 50 minutes fly by with this guy. If you need to take STAT 200, take it with Ken. If you don't need to take it, still come to class and enjoy his presence. Trust me, you will learn what passion and humor are.
+
+--- Rating #10 ---
+Class: STAT200
+Date: 2018-02-19 02:43:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He's such a caring person. Always tries to make lectures fun!
+
+--- Rating #11 ---
+Class: STAT200
+Date: 2018-02-17 03:00:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I don't think I have ever taken a class where I have had this much fun. Ken is a great instructor who knows how to make lectures funny and interesting.
+
+--- Rating #12 ---
+Class: STAT200
+Date: 2018-02-17 02:52:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof!!
+
+--- Rating #13 ---
+Class: STAT200
+Date: 2018-02-16 17:43:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He's not as bad as people say! Good lectures and pre reading material. He is always prepared for his lectures. Once you get past his accent he's not as bad!
+
+--- Rating #14 ---
+Class: STAT200
+Date: 2018-02-16 17:40:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+&#55357;&#56613;&#55357;&#56613;
+
+--- Rating #15 ---
+Class: STAT200
+Date: 2018-02-13 20:57:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+worst prof I've ever had in my entire life. heavy accent, extremely poor grammar, awfully confusing webwork/homework questions. Trust me, it will be a luck that you take stat200 without him. students often struggle with his poor English speaking abilities.
+
+--- Rating #16 ---
+Class: STAT200
+Date: 2018-01-02 14:21:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Takes the time to make detailed slides and is always accessible outside of class. Some people dislike his strong energy in the morning, but I personally liked it. If you pay attention in class, he breaks down all the material into a simplistic, understandable form.
+
+--- Rating #17 ---
+Class: STAT200
+Date: 2017-11-30 13:18:45 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He always had lots of energy for class, but he also has a very strong accent. I found that he over-simplified the course a lot, his notes are something I would expect in high school. Doesn't use the typical jargon so it makes the webwork a little hard because I sometimes don't understand the question. Wouldn't take his course again, but didnt hate.
+
+--- Rating #18 ---
+Class: STAT200
+Date: 2017-10-04 18:16:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Best Stat instructor in UBC. So energetic although somehow jump a lot. Pls don't hesitate to take his course. When you do so you will find that heaven do exist!!
+
+--- Rating #19 ---
+Class: STAT200
+Date: 2017-10-04 14:01:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Ken is one of the most energetic professors I've had at UBC. I look forward to his 9am class because he knows how to energize the students. He says really random things that are just so out there, you can't help but laugh. His slides are SO great, they very clearly lay out the material. give this guy a chance, he really cares about his students!!
+
+--- Rating #20 ---
+Class: STAT100
+Date: 2016-09-10 16:44:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I didn't know what he was asking for at times because of the confusing wording. For the most part I did okay, but that was until the final exam. Material from his notes was not really on the final exam.

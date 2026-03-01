@@ -1,0 +1,24 @@
+Professor: Cheryl Matthew
+Professor Legacy ID: 3003944
+Professor ID: VGVhY2hlci0zMDAzOTQ0
+Department (CSV): Archaeology
+Department (Fetched): Archaeology
+Avg Rating: 4
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: ARCH-200
+Date: 2024-04-22 19:38:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Super passionate and caring prof!! her grading criteria was a bit vague and she was a bit forgetful at times but very kind and understanding prof

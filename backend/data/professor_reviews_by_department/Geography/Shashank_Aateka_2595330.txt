@@ -1,0 +1,89 @@
+Professor: Aateka Shashank
+Professor Legacy ID: 2595330
+Professor ID: VGVhY2hlci0yNTk1MzMw
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 1.7
+Avg Difficulty: 4.8
+Num Ratings: 6
+Would Take Again Percent: 16.6667
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: GEOG355
+Date: 2021-07-12 20:41:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Tough grading.
+
+--- Rating #2 ---
+Class: GEOG355
+Date: 2020-12-23 03:09:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Pros: Easy marker, short lectures, great in labs Cons: soooooo slow in marking and responding to emails. This class is SO HARD! You won't get a good grade without putting the effort in. There's a lot of homework and the assignments are time consuming but Aateka was great with giving extensions and really wants her students to succeed!
+
+--- Rating #3 ---
+Class: GEOG355
+Date: 2020-11-30 21:04:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Only upload video on time for the first two weeks, then they are delayed or even no video uploaded. We've been studying on our own the whole semester
+
+--- Rating #4 ---
+Class: GEOG355
+Date: 2020-11-10 22:01:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+She is helpful when we ask her qs but more like a TA, not a prof. The assignment: She doesn't know if it is doable, she just writes the assignment without a doable test, she even has trouble doing it on her own. She told us &quot;this is GIS&quot; but we don't want a boss like prof to grade us when she does not fully understand the question she gives out.
+
+--- Rating #5 ---
+Class: GEOG355
+Date: 2020-11-05 08:31:01 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Her tests require you to know every concept and be able to apply them to different scenarios. Don't expect to just memorize anything. Labs are based off textbook exercises that take forever. Her grading is tough; I got 5% deductions for minor things like symbols too small or two colours not contrast enough. Also, her instructions are never clear.
+
+--- Rating #6 ---
+Class: GEOG355
+Date: 2020-05-07 23:20:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+One of the worst instructors Ive dealt with at SFU. Lack of communication between her and her TA's. Lack of direction for studying for exams, no outlines for which material to study etc., tries to be relatable during lectures but doesn't fully explain material being presented, mostly just reads what is said in the notes. Hard marker!

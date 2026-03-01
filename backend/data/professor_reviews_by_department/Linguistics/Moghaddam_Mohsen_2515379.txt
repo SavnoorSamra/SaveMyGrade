@@ -1,0 +1,50 @@
+Professor: Mohsen Moghaddam
+Professor Legacy ID: 2515379
+Professor ID: VGVhY2hlci0yNTE1Mzc5
+Department (CSV): Linguistics
+Department (Fetched): Linguistics
+Avg Rating: 4.7
+Avg Difficulty: 3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: EDUC100
+Date: 2020-08-13 21:40:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+He is a wonderful teacher. He is very understanding and very helpful. He is a bit picky with essay writing but if you follow his feedback you will do well. Overall I would recommend.
+
+--- Rating #2 ---
+Class: LING160
+Date: 2019-12-07 06:50:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This was the BEST class especially with the prof. We didnt really need to buy the textbook because he teaches so well everything sticks in your head. And you can use the PowerPoints to study. It is a very engaging class and you can easily relate it to your life. You have online discussions every week which are easy and interesting. Fun lectures!!!
+
+--- Rating #3 ---
+Class: LING160
+Date: 2019-09-04 05:33:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Less workload !! There are many small group discussions during the lectures. I found that it is good for me to remember the course material, he is not a tough grader for the midterm and final, you will need to give short answers in each question, as long as you can show him the main idea and elaborate the details for your points, you will be fine.

@@ -1,0 +1,24 @@
+Professor: Jenny Scott
+Professor Legacy ID: 2231824
+Professor ID: VGVhY2hlci0yMjMxODI0
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 4
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: HSCI412
+Date: 2017-02-10 02:46:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Awesome prof, who is very approachable and eager to help! A large portion of your grade comes from the group project but everything else is straight forward and pretty simple!

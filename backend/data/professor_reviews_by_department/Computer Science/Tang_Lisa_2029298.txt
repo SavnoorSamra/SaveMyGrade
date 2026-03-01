@@ -1,0 +1,273 @@
+Professor: Lisa  Tang
+Professor Legacy ID: 2029298
+Professor ID: VGVhY2hlci0yMDI5Mjk4
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1.8
+Avg Difficulty: 4.7
+Num Ratings: 26
+Would Take Again Percent: 0
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT470
+Date: 2023-04-26 23:07:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+It is hard to overstate how bad this instructor is at teaching and organizing a class. She is unorganized, never teaches, and gives insanely difficult tests with material not covered in class. It felt like we learned NOTHING all semester, and testing was outrageously hard and no one ever finished. BY FAR the worst instructor I've had. 
+
+BE WARNED!
+
+--- Rating #2 ---
+Class: CMPT165
+Date: 2023-02-09 02:58:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very awful and unclear with her instructions
+
+--- Rating #3 ---
+Class: CMPT470
+Date: 2018-04-21 20:12:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The most unclear prof i have ever met. Avoid this prof!!!!!!!!!!!! Hard to communicate with heavy assignments !!!!!! And the grading outline is also unclear! Avoid !
+
+--- Rating #4 ---
+Class: CMPT165
+Date: 2017-10-03 04:32:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Worst teacher!! Knows nothing about computer science! Don't ever spoil your future taking class from this worthless teacher!!!
+
+--- Rating #5 ---
+Class: CMPT165
+Date: 2016-01-11 02:52:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Definitely way too tough for an beginner-level CMPT course. If you decide to go along with it, be prepared to put in a lot effort or you won't get out alive. She doesn't allow cheat sheets for tests, while the other CMPT 165 profs do. For the 2 midterms we had, both averages were around 50% - and this class isn't scaled nor curved. Be warned.
+
+--- Rating #6 ---
+Class: CMPT165
+Date: 2016-01-03 04:18:18 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Lisa taught the first portion (HTML) of the course very well, however, her lectures with Python were unclear and confusing. Exams and assignments are quite difficult, be prepared to work hard in this class if you do  not know anything about computer science at all.
+
+--- Rating #7 ---
+Class: CMPT165
+Date: 2015-12-17 00:58:34 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Tough grader, some of the homework requires days of coding and troubleshooting, lectures are often repetitive as many people don't get the material, yet she just repeats original explanation.
+
+--- Rating #8 ---
+Class: CMPT165
+Date: 2015-12-14 21:41:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+She isn't good at teaching, I did go to almost all lectures but most of my learning was done at home. Her lectures are confusing, and she often like gets sarcastic or blames us when we don't understand certain concepts instead of trying to get us more interested. Like she'll often say "You guys should know this already, how don't you get this"
+
+--- Rating #9 ---
+Class: CMPT165
+Date: 2015-12-14 15:04:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+The class was full of kids who just played on their phone/laptop. Half the class never even shows up except for exams. Here's the real gist: it's a technical class. So put in the effort to study, Google (makes assignments easy) or ask TAs for help. Lectures aren't mandatory if you don't need hand-holding.
+
+--- Rating #10 ---
+Class: CMPT165
+Date: 2015-12-13 03:38:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures are unclear and confusing. She expects you to be able to do a lot of things in the assignments that she never taught. Make praying to the cmpt sci gods a ritual.
+
+--- Rating #11 ---
+Class: CMPT165
+Date: 2015-12-06 04:45:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Honestly just completely useless and incompetent  but clearly thinks she's phenomenal based on the tests and assignments she gives. Lectures are irrelevant to anything. No organization or flow in the class. Time consuming and annoying class! AVOID!
+
+--- Rating #12 ---
+Class: CMPT165
+Date: 2015-12-04 22:13:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I still took the class after reading reviews and was pretty worried, but they're exaggerated or she's improved since. She's fair. Frequently gives bonus marks and extensions. Some midterm questions are tedious to write out, but not hard. Honestly, just treat it like any other class. Don't complain if you expect an easy A, slack off, and do poorly.
+
+--- Rating #13 ---
+Class: CMPT165
+Date: 2015-12-03 17:20:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is useless in terms of teaching. 0 reason to go to lectures because nothing makes sense coming out of her mouth. Just read lecture slides, study guide, and pray to god.
+
+--- Rating #14 ---
+Class: CMPT165
+Date: 2015-12-03 17:19:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+If you take this course, let almighty god have mercy on your soul. Even if you are not religious, pray like you never prayed before. However, praying is not enough, you must also put the textbook under your pillow and ask the tooth fairy for help. This is still not enough, put the textbook in your stockings and hope santa hears your cry-Avoidclass.
+
+--- Rating #15 ---
+Class: CMPT165
+Date: 2015-12-01 16:52:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lisa is one of the worst profs I've had. Her two midterms involve tedious detailed work to complete in a ridiculous amount of time (50 mins at max). She is unreceptive of criticism and has high expectations. The class readings are helpful but I spent a lot of time googling. She did not give class time to complete course evaluations.
+
+--- Rating #16 ---
+Class: CMPT165
+Date: 2015-11-30 19:28:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Seems like a nice person outside of class, just not meant to be a teacher. Assignments and exams go way beyond her lecture notes or the textbook. Very nervous and uncomfortable as a teacher and wastes a lot of time in lectures. Definitely AVOID if possible!
+
+--- Rating #17 ---
+Class: CMPT165
+Date: 2015-11-26 16:08:08 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Gives very little amount of time during exams (compared to exam length). Gives extentions on assignments and exercises, but her exams are AWFUL.
+
+--- Rating #18 ---
+Class: CMPT165
+Date: 2015-09-24 16:15:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+She is quiet. She isn't clear. She doesn't offer more information. Everything she says is straight from the lecture slides. The readings offer more information than her lectures. Doesn't sound like a worthy professor. Makes this course harder than it is. Would not recommend this course if it is taught by her. That is all.
+
+--- Rating #19 ---
+Class: CMPT165
+Date: 2015-09-08 18:13:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+The midterm was horrible. She only marked the multiple choice because it was so bad, the average was like 57% after she gave a few free marks.   Knowing how to program isn't good enough, she tests on the smallests details. This course used to be a gpa booster but with her teaching it, it felt way too intensive for unimportant course.
+
+--- Rating #20 ---
+Class: CMPT165
+Date: 2015-08-14 17:53:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+BAD and tough  professor.  I have ever seen.  Take her class, then get F.

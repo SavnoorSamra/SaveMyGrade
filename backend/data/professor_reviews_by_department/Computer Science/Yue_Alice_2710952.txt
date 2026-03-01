@@ -1,0 +1,11 @@
+Professor: Alice Yue
+Professor Legacy ID: 2710952
+Professor ID: VGVhY2hlci0yNzEwOTUy
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

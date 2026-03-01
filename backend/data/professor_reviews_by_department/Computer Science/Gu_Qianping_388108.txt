@@ -1,0 +1,276 @@
+Professor: Qianping Gu
+Professor Legacy ID: 388108
+Professor ID: VGVhY2hlci0zODgxMDg=
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.9
+Avg Difficulty: 3.6
+Num Ratings: 51
+Would Take Again Percent: 52.9412
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT307
+Date: 2025-04-29 20:35:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His lectures were dense and hard to follow, forcing you to learn the material on your own.  His exams were also not a great test of the material, as the averages were often failing grades. I would recommend you take this course with another professor.
+
+--- Rating #2 ---
+Class: CMPT405
+Date: 2025-04-29 19:11:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+The professor is really nice and freakishly smart. I asked him about a few coding interview problems i got stuck on and he can just instantly find the solution
+
+For this course, the midterms are only questions from the textbook. The people who got 100% all went through each problem with chatgpt/google and ignored the slides. The final though...
+
+--- Rating #3 ---
+Class: CMPT405
+Date: 2025-04-19 02:07:32 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+prof is okay but horrible TA.
+
+--- Rating #4 ---
+Class: CMPT307
+Date: 2025-03-28 17:46:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+MY GOAT. This prof is awesome. Although he may not be the best at lectures, he clears any professor in terms of tests. He gives clear instruction for the midterms and finals. Questions don't deviate much from what you've already done in the homework. As long as you know how to solve homework questions and don't rely on ChatGPT, you should be fine.
+
+--- Rating #5 ---
+Class: CMPT405
+Date: 2024-12-18 06:17:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Extremely fair midterms and finals, if you do the textbook questions and assignments they are a breeze
+
+--- Rating #6 ---
+Class: CMPT307
+Date: 2024-09-03 00:11:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Terrible professor. Could not understand anything he said. Makes the concepts more harder than needed.
+
+--- Rating #7 ---
+Class: CMPT307
+Date: 2024-04-21 17:39:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very fair exams. Reasonable expectations. Hard to read questions if you're not used to mathematical notation.
+Recommendation is that you don't solely rely on his slides, also look at other resources and do a few LC easy/med questions.
+
+--- Rating #8 ---
+Class: CMPT405
+Date: 2024-04-16 01:55:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+A great professor. The people complaining about his accent are wild, he has an accent but he speaks clearly and is easy to understand. Assignments and exams were difficult but fair. If you do the assignments and make sure you understand them you will do well. His lectures are good and he will answer all questions thoughtfully.
+
+--- Rating #9 ---
+Class: CMPT405
+Date: 2024-04-15 05:12:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+So hard
+
+--- Rating #10 ---
+Class: CMPT405
+Date: 2024-03-18 20:31:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Ignore what others say about his accent. He's PERFECTLY understandable, these people just want an excuse for their lack of effort. This is one of the better profs of the faculty, he's very fair and responds quickly to questions. The assignments are fantastic for preparing for the midterm. Grading distribution is great too. Very respectable prof.
+
+--- Rating #11 ---
+Class: CMPT307
+Date: 2023-12-07 10:28:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The problem, first of all, is that you would not understand any word he says. This is an Algorithm class, and you'd find the class challenging even with a professor who can speak clear English. Do not believe students when they say he's the GOAT. He's not! Anything you learn will be from your own self-study. It's useless attending his class.
+
+--- Rating #12 ---
+Class: CMPT307
+Date: 2023-05-30 22:17:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very lenient marking. If you don't mind learning everything on your own, you can take this to get a good mark. Lectures are just him reading the textbook.
+
+--- Rating #13 ---
+Class: CMPT307
+Date: 2023-04-17 21:14:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Gu was very lenient on grading which was helpful for such a tough class. The assignments were basically free marks. The midterms and final were graded by few questions which could be tough if you didn't understand a question.
+
+I would take 307 with him again. Sometimes he is hard to understand but he is a nice enough guy and not a bad choice.
+
+--- Rating #14 ---
+Class: CMPT705
+Date: 2023-01-10 22:36:25 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very bad teaching skills. Kind of hard to understand what he is saying. Teaching an important course at too early in the morning.
+
+--- Rating #15 ---
+Class: CMPT705
+Date: 2022-12-29 20:14:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The most useless course I've ever taken in my academic life. I could barely understand anything he said in class. His lecture materials are harder to understand than the textbook. I had to download materials from other schools to understand concepts. What is most annoying about the course is that asides from the horrible grade, I learned NOTHING.
+
+--- Rating #16 ---
+Class: CMPT405
+Date: 2022-12-18 01:19:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The course is extremely heavy and he didn't try to make it better. Writing this review 16 hours before the final exam and half of the assignments are not graded yet. 12 chapters are included in the final exam that's worth 40% of the total grade. His explanation is OK at best. Excruciatingly hard assignments that are worth only 5% each.
+
+--- Rating #17 ---
+Class: CMPT307
+Date: 2021-06-30 01:16:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I didn't like CMPT 307 with him at first. But as time went by, I came to enjoy it. He answered everyone's questions immediately (literally!) during lectures, and his assignments &amp; exams were fair. The only con is that his lectures are not that good. But I think his handling of other things really makes up for it. He is also very nice and reasonable
+
+--- Rating #18 ---
+Class: CMPT307
+Date: 2021-06-25 13:53:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+This professor maybe not the best professor i have met in university life, but he is one of those most caring one. He always replies email very quick, not like other professors and TAs. If you have any questions, you are welcome to ask him. He is very supportive and willing to help. I never thought of passing this course with a B-.
+
+--- Rating #19 ---
+Class: CMPT307
+Date: 2021-05-03 10:35:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Pretty old school (boring) lectures. Exams and assignments were graded lieniently, but that also meant there wasn't much feedback.
+
+--- Rating #20 ---
+Class: CMPT307
+Date: 2021-04-29 03:13:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I agree with the good feedback below. He makes complex concepts in algorithm matters easier. I liked his way of caring for students. His exams are fair and only asked the important part of the course, not covering all the trivial details.

@@ -1,0 +1,11 @@
+Professor: Heidi  Wudrick
+Professor Legacy ID: 1989280
+Professor ID: VGVhY2hlci0xOTg5Mjgw
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

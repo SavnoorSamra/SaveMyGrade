@@ -1,0 +1,89 @@
+Professor: Lawrence McCandless
+Professor Legacy ID: 1437702
+Professor ID: VGVhY2hlci0xNDM3NzAy
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 3.3
+Avg Difficulty: 3.3
+Num Ratings: 6
+Would Take Again Percent: 0
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: HSCI410
+Date: 2022-04-11 02:31:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Watched students correct his lack of knowledge in class a few times. He didn't really know R beyond the basics. Class concept has potential but if you wanna learn R and how to work with datasets, you're better off with a stats prof. Lectures content is a repeat of STAT 305. He had a few mistakes in the slides. A lot of self-teaching for the project
+
+--- Rating #2 ---
+Class: HSCI330
+Date: 2022-01-14 05:32:31 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures hardly ever made it past the 1.5 hour point and were very vague and basically only a summary of the textbook. He seemed a little indecisive on what to teach. Better off just reading the textbook and not the lecture. Exams were difficult, but most questions were pulled from the textbook, so make sure to do the practice questions.
+
+--- Rating #3 ---
+Class: HSCI330
+Date: 2021-12-13 20:10:33 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He seems like a good guy. He was not very clear with the grading as he changed his mind half way through the course. Exams were challenging and he did not give any part marks even when asked about a question. Quizzes were pass/fail which was good practice. Assignments didn't help. Lectures basically followed the textbook but had interesting studies
+
+--- Rating #4 ---
+Class: HSCI410
+Date: 2014-05-01 15:02:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+One of the most practical classes in the faculty. It's a challenging course, but in a good way. There's a huge project where you work with real national datasets and build a paper from scratch.Make sure you have a good team and the project will be rewarding. Pretty chilled guy. He's extremely helpful and so very pleasant and has a gorgeous smile!
+
+--- Rating #5 ---
+Class: HSCI410
+Date: 2012-05-07 13:06:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+best prof ever! makes things very clear and interesting. This man was born to do teach!!
+
+--- Rating #6 ---
+Class: HSCI410
+Date: 2012-04-13 13:27:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Best stats prof I have ever had

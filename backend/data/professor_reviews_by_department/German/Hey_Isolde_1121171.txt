@@ -1,0 +1,63 @@
+Professor: Isolde Hey
+Professor Legacy ID: 1121171
+Professor ID: VGVhY2hlci0xMTIxMTcx
+Department (CSV): German
+Department (Fetched): German
+Avg Rating: 1.4
+Avg Difficulty: 3.5
+Num Ratings: 4
+Would Take Again Percent: 0
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: GER104
+Date: 2025-04-20 02:25:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+The teacher is OK, and only because of her enthusiasm. Her teaching techniques could be better. I was a language teacher in the past, and she shoud have done better job involvng students in learning proccess and checking homework. After 6 weeks of this course I felt that I just wasted my time...
+
+--- Rating #2 ---
+Class: GERM104
+Date: 2013-06-16 20:48:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: True
+Comment:
+I took it online and she is the most rude instructor I have ever seen from sfu. Once I misunderstood something from assignment, she says "It was very inconvenient to mark and it was my waste of time" Is this supposed to be the right way to give a feedback to a student? She handed back the assignment few days later than the expected date. TERRIBLE!
+
+--- Rating #3 ---
+Class: GER104
+Date: 2011-06-26 23:35:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Online class.Coming up to the midterm and she's only replied to our questions three times in 7 weeks. It took her over 10 days to respond to our problems with the textbook and then she didn't have an answer. Only take this course if you want a hard time or if you're willing to do all the work on your own with no guidance or help from the instructor
+
+--- Rating #4 ---
+Class: GERM104
+Date: 2008-04-11 23:57:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+It's a distance ed. course.  Isolde's been slow in answering questions (and worse still, her answers are not that helpful); and unreasonably slow in marking assignments.  Not to mention being 10 minutes late in the final exam (the whole class was anxiously waiting for her to arrive)!!  Needs totally independent study in the course.

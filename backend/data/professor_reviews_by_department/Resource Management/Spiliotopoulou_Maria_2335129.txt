@@ -1,0 +1,11 @@
+Professor: Maria Spiliotopoulou
+Professor Legacy ID: 2335129
+Professor ID: VGVhY2hlci0yMzM1MTI5
+Department (CSV): Resource Management
+Department (Fetched): Resource Management
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

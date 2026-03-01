@@ -1,0 +1,271 @@
+Professor: Michael Walsh
+Professor Legacy ID: 1090472
+Professor ID: VGVhY2hlci0xMDkwNDcy
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 2.6
+Avg Difficulty: 3.7
+Num Ratings: 96
+Would Take Again Percent: 40.3509
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BPK142
+Date: 2025-02-16 21:51:20 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Professor Mike's class is an information overload, but using Unstuckstudy alongside the lectures and studying hard can help you do well. Exams are fair, if tough. Definitely attend class!
+
+--- Rating #2 ---
+Class: BPK142
+Date: 2025-02-16 21:47:48 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Professor Mike's class is a lot of work, but using tools like Unstuck AI alongside the lectures can really help. Be ready to memorize details, but the exams are fair if you put in the time to study. Not the most engaging lectures, but worth pushing through.
+
+--- Rating #3 ---
+Class: BPK142
+Date: 2024-04-20 15:26:31 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+you need to go to lectures to do well. firstly he gave quizzes at the end of every lecture and before too. his tests he will bring up something random he said during lecture and put it on there, but he also does ask for question to put on tests from students and does a handful of them. labs were easy. mike lectures just werent all that great tbh
+
+--- Rating #4 ---
+Class: BPK140
+Date: 2024-01-24 08:03:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Not as bad as I thought he would be. You really have to pay attention in lectures though because he'll use random things he said in lecture on the tests. The tests weren't too bad, but the quizzes were.
+
+--- Rating #5 ---
+Class: BPK140
+Date: 2023-12-13 19:20:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The exams felt fair to me but the quizzes were difficult. I liked mike as a professor and he was entertaining and relatable.
+
+--- Rating #6 ---
+Class: BPK142
+Date: 2023-11-08 00:51:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Mike's lectures can be hard to follow, but so long as you make an effort to take notes and ask questions, you'll do alright. You will likely face a few surprises in the exams, but they are definitely fair. This course is very information-heavy, so pay attention and study outside class, and you'll do alright. [but fr, do study outside of class]
+
+--- Rating #7 ---
+Class: BPK142
+Date: 2023-04-30 16:33:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+overall good proff. he includes tons of info in lec but so does every other stem proff and as a HSCI major this was not that bad. I did put lots of time towards this but I do that anyways. Although he adds lots of info to lec's, the MT/Finals are VERY BRIEF STUFF. I did wayyy too much studying for this course. exams are super light. good man
+
+--- Rating #8 ---
+Class: BPK142
+Date: 2022-12-22 02:35:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+I would've preferred lecture slides with more words than just images. LOTS of memorizing tidbits of information, lots of time put into the course, but the midterms are fair. This course is information overload but I'd highly recommend it for any student doing sciences since the material expands all across the board. Lectures are very fast-paced!!
+
+--- Rating #9 ---
+Class: BPK140
+Date: 2022-12-02 01:24:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very disorganized prof, docs don't match his hour long slides at all. Things he says don't match the docs or the slides. it's like 3 lectures combined into one. BPK140 is interesting, but taking it with any other prof would be more beneficial. He also brags about himself a lot, really think he should just retire at this point
+
+--- Rating #10 ---
+Class: BPK140
+Date: 2022-08-11 18:31:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+First BPK140 is the most underrated course. A course content that should have been mandatory during high school. The truth is many people don't take the time to learn about modern health and managing your wellness. This course provides insights into these topics and will definitively increase your awareness to make better decisions in life.
+
+--- Rating #11 ---
+Class: BPK142
+Date: 2022-07-30 17:55:58 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+BPK142 is honestly one of the most difficult courses I have taken at SFU, because of Mike. Although he is very fast with answering emails, and gives straight forward answers he includes the most random information on his slides and expects you to memorize it for tests. Brags about his accomplishments too much to teach sometimes.
+
+--- Rating #12 ---
+Class: BPK142
+Date: 2022-05-10 21:36:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I am not sure how he is still teaching fr. He gives students a crap tonna information and expects us to memorize the most useless parts of it. He brags about himself all the time and most of the marking apparently depends on your TAs so if you end up with a strict one like me you'll end up failing 3/4 of the exams. So get a guy TA.
+
+--- Rating #13 ---
+Class: BPK142
+Date: 2022-05-03 08:23:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Everything about this course is torture. Be prepared to memorize a crap load of content because he expects you to know the smallest details of his lecture notes, powerpoints, and the lab manual (I mean it). Exams are full of fill in the blanks, short & long answer questions (no mcq).
+
+--- Rating #14 ---
+Class: BPK142
+Date: 2022-04-30 15:44:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+I was scared taking a course with Dr. Walsh prior to this class. However, he is one of the most kindest and most understandable profs that I have ever had. His lecture materials is kind of disorganized(there is bunch of information on PP, word, video)but he puts an effort to teach and he is always accessible outside of the class or office hours.
+
+--- Rating #15 ---
+Class: BPK142
+Date: 2022-04-25 00:06:53 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I may be an outlier because I actually liked prof Walsh. I've heard some pretty negative things among peers but I found this course really interesting, he provided lots of material (powerpoints, docs and extra videos) to help me better understand the material. I think Mike is a decent prof though his exams are challenging but you can find success.
+
+--- Rating #16 ---
+Class: BPK140
+Date: 2022-01-10 06:22:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+I was scared prior to taking his course because of his ratings, but he's not that crazy bad except for the fact that he didn't give any lectures. The weekly quizzes were fairly easy but the midterm and the final exam were hard. I didn't use the textbook and still got a B, but if you want an A, you probably should read the textbook.
+
+--- Rating #17 ---
+Class: BPK304
+Date: 2021-12-13 20:20:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Mike is honestly a nice person but just shouldn't teach. For most of the semester, we would have in-person lecture where we watched his old recorded zoom lectures individually and the lectures weren't great. He didn't care to make sure that the class understood the material, especially after the class got a 50% average on the lab midterms.
+
+--- Rating #18 ---
+Class: BPK142
+Date: 2021-10-12 18:14:25 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+His redeeming quality is he's a funny guy. His teaching sucks. He uses a textbook, manual, videos, PPTs and Word docs that don't match up with each other. So much work. I made sure to email my TA wayyy before deadlines for clarification, she saved me from his careless &amp; unclear instructions. I enjoyed the content but wouldn't reccommend this prof.
+
+--- Rating #19 ---
+Class: BPK304
+Date: 2021-08-23 19:46:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Absolutely awful professor. This is the worst teacher I've ever had at SFU, he is lazy and reuses lecture material. He doesn't help, he is quick to give you a 5-word answer during office hours and dismiss you as soon as possible. Lecture quizzes were next to impossible to do well in because of the time restraint. Final exam avg was 50%.
+
+--- Rating #20 ---
+Class: BPK142
+Date: 2021-08-20 06:53:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Hilarious guy that gets along with all the students and tries to explain the concepts in a simple manner for it to be easier to digest. Class has a lot of info but the tests are easy enough to get through. Very much high school gym teacher energy

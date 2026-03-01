@@ -1,0 +1,128 @@
+Professor: Ho Henny Yeung
+Professor Legacy ID: 2182775
+Professor ID: VGVhY2hlci0yMTgyNzc1
+Department (CSV): Linguistics
+Department (Fetched): Linguistics
+Avg Rating: 3.8
+Avg Difficulty: 3.1
+Num Ratings: 9
+Would Take Again Percent: 88.8889
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: LING350
+Date: 2026-01-18 07:57:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Henny is a great prof, very approachable and takes student feedback about the class in real time. I learned a lot from him and hope to have him again someday! Be very selective with your groups in this class, though; you'll need dependable teammates for the project(s).
+
+--- Rating #2 ---
+Class: LING350
+Date: 2025-12-31 06:38:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Henny is a great professor. I enjoyed taking Ling 350 with him this fall (2025). His lectures are very well-structured and easy to follow. He's also very fast in replying email and is very understanding. The TAs were great and did two of the lectures. Great team. Also we went to Science World for our presentation.
+
+--- Rating #3 ---
+Class: ling190
+Date: 2025-07-22 19:32:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Personally found his class quite easy, only watched his lectures online and aced quizzes regularly. Had a decrease in grade in the final exam and project, however the weekly quizzes basically offset the falloff at the end. There is memorization in this class but memorizing it all was easy once you got a hang of it.
+
+--- Rating #4 ---
+Class: ling190
+Date: 2025-06-16 19:13:39 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's a nice person, but I really hated how this course was structured. There was supposed to be 2 hours of lecture followed by an hour of asynchronous learning. The 2 hours of class was just us doing the quiz, and answering online review questions on the recorded lectures. It felt like a total waste of time, and that he got of really teaching.
+
+--- Rating #5 ---
+Class: LING350
+Date: 2025-01-09 01:33:29 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+A solidly 'eh' prof for me. Very personable, but irritatingly vague in grading. 1 word in a question would change the entire meaning of the answer, wordings were tricky and sometimes felt deliberately misleading. Weekly attendance for group quizzes got old fast - lectures were only reviewing previously assigned material. Felt like a waste of time.
+
+--- Rating #6 ---
+Class: LING350
+Date: 2021-05-02 05:25:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Henny is a kind, accessible prof. Nice voice too. His lectures are great. I like how his slides have outlines and clear learning objectives. His open-book quizzes can be tricky so take notes. The group and final projects are hard and have 'creative' components. Make sure you understand their requirements. Tell him what you're planning to make sure.
+
+--- Rating #7 ---
+Class: LING350
+Date: 2018-02-17 19:56:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is really amazing! Lectures are mandatory for you to do well, but you don't need the textbook because all of his exams are based on lectures. Just pay attention in class. He is very clear when it comes to presenting the material, but sometimes students find some questions on the exams ambiguous, just ask! Definitely recommend his class!
+
+--- Rating #8 ---
+Class: LING221
+Date: 2017-03-10 17:52:40 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Nice guy, and definitely knows his stuff, but the fact that it was his first time teaching the class was obvious. Didn't have much of an idea what level people were at. Different materials specified different conventions, which is 50% of phonetics. Very responsive to respectful feedback, as he is aware of need to smooth off the rough edges.
+
+--- Rating #9 ---
+Class: LING221
+Date: 2016-11-17 20:48:07 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He's a really cool guy but his marking scheme is waaaay off. Expects us to know a lot more than we think we should. Group quizzes are easy but the midterm and assignments can be a bit tough.

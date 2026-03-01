@@ -1,0 +1,24 @@
+Professor: Sutrisno Setya Hartana
+Professor Legacy ID: 2717306
+Professor ID: VGVhY2hlci0yNzE3MzA2
+Department (CSV): Music
+Department (Fetched): Music
+Avg Rating: 1
+Avg Difficulty: 1
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: CA341
+Date: 2025-12-13 00:05:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+An unorganized class. The syllabus is unreflective of how our classes progress. He does not have a clear criteria for any of the projects, he'll just talk about them in class briefly. By week 6, all I have learned is a couple music theory terms that do not require any critical thinking. Too much time spent stalling, finding random music on Youtube.

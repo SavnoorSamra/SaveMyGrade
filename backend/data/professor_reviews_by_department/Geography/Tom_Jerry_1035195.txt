@@ -1,0 +1,11 @@
+Professor: Jerry Tom
+Professor Legacy ID: 1035195
+Professor ID: VGVhY2hlci0xMDM1MTk1
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

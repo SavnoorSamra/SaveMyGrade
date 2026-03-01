@@ -1,0 +1,275 @@
+Professor: Ghassan Hamarneh
+Professor Legacy ID: 438310
+Professor ID: VGVhY2hlci00MzgzMTA=
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.8
+Avg Difficulty: 3.9
+Num Ratings: 44
+Would Take Again Percent: 21.7391
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: 340
+Date: 2025-12-07 19:08:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I liked Ghassan. He is very smart to talk to especially about math. 
+
+He cares about students too. 
+
+The course content is complex and gets time to settle in.
+
+--- Rating #2 ---
+Class: 340
+Date: 2025-12-03 16:21:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Terrible course. 60% in person final exam after an entire semester online, feels cruel. The less people that take this course the better, it should be replaced with something else or at the very least a different professor who cares about the students wellbeing
+
+--- Rating #3 ---
+Class: 340
+Date: 2025-10-27 21:33:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+NEVER AGAIN
+
+--- Rating #4 ---
+Class: CMPT419
+Date: 2025-05-06 23:10:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+What kind of professor doesn't give any feedback for a semester-long project that everyone is putting dozens of hours into? Was not a fan of this guy, will not take another class with him. His 20% quizzes were also horrible with topics that weren't taught and next to no time to do the questions.
+
+--- Rating #5 ---
+Class: CMP340
+Date: 2025-04-25 08:13:12 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Everyone mostly gets good grades on assignment and projects, so you guessed it. Your grade is determined by your final exam. I had 72% overall, and ended up with a C. Class was extremely boring and can get mathy. I only took because it was fully online. You could possibly end up with a very cool project and the prof encourages the use of AI for it.
+
+--- Rating #6 ---
+Class: CMPT419
+Date: 2025-04-04 00:40:04 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Three quizzes worth a total of 60% of your grade, all online. It's a dense, boring and somewhat directionless look at many medical imaging techniques and equations. The group project is cool and there is a good reason to take this class for that. However, the professor is a mediocre lecturer with difficult, dense and long quizzes that are difficult
+
+--- Rating #7 ---
+Class: CMPT419
+Date: 2025-03-22 03:09:27 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Very difficult. This course is just insane. There is no prerequisites (probably because there would be too many to list), yet you need to be an expert in every field from coding to math, biology, physics etc. to be somewhat successful in this course. Quizzes are just crazy. The professor is ok I guess. But how is this even allowed??
+
+--- Rating #8 ---
+Class: CMPT419
+Date: 2025-03-18 01:27:18 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This class is an extremely dense and tedious look into the mathematics of various medical imaging techniques and methods. The quizzes are online with an average of
+
+--- Rating #9 ---
+Class: CMPT340
+Date: 2025-03-05 03:26:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+This course is actually terrible. While the assignments are not hard, they are EXTREMELY tedious, and can take hours to do since he wants you to HAND WRITE everything. It is so annoying. I am about to graduate and this is most likely the most boring and pointless course I have ever taken. Unless if you are a masochist do not take.
+
+--- Rating #10 ---
+Class: CMP340
+Date: 2024-12-09 05:30:16 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Videos posted online were an uninspired slog to watch. Homework assignments were fair, but one took so many hours and another other 30 minutes. You NEED reliable team members for the final project, as this is not something you can target solo. I don't feel as though I learned anything. If you don't have extreme self-discipline, avoid.
+
+--- Rating #11 ---
+Class: CMPT340
+Date: 2024-11-08 21:54:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Avoid......It's not worth spending money and time on taking this class
+
+--- Rating #12 ---
+Class: CMPT340
+Date: 2024-04-17 21:18:25 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Pointless course. Dont feel like I learnt anything. There's a group project, would be better off just doing an ML project on your own time.
+
+--- Rating #13 ---
+Class: CMPT128
+Date: 2019-12-31 21:11:49 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I really struggled in Ghassan's class. I found it very hard to follow along and pay attention when he taught because the lectures were too boring and plain. However, his lecture notes were very good so I just used those and skipped class. The midterm exams were fair and I did really well on them, but not the final so be careful!
+
+--- Rating #14 ---
+Class: CMPT128
+Date: 2019-12-07 19:14:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Wouldn't recommend him to any buddy of mine
+
+--- Rating #15 ---
+Class: CMPT128
+Date: 2019-02-11 08:23:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+when you bring up problems to him, he will listen and cares about students. lectures are kind of dry, but he listened to past criticism and codes more in class.
+
+--- Rating #16 ---
+Class: CMPT128
+Date: 2019-01-11 11:45:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He taught me a lot in my first semester of University, really good prof.
+
+--- Rating #17 ---
+Class: CMPT128
+Date: 2019-01-09 21:07:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I took 128 and it was honestly one of the best first year engineering course that I took. Ghassan honestly cares about his students and his lectures are amazing, I was hooked the entire time. His explanations are thorough and the labs are just as amazing, big up to the TAs who honestly care
+
+--- Rating #18 ---
+Class: CMPT128
+Date: 2019-01-04 22:39:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+One of the most easiest classes i've taken, just do your labs and you'll get an A. Final exam was MC and the written component was just like the labs, SUPER EASY!!! I barely showed up and got an B+
+
+--- Rating #19 ---
+Class: CMPT128
+Date: 2018-11-02 15:07:54 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is a living meme
+
+--- Rating #20 ---
+Class: CMPT128
+Date: 2018-01-09 19:16:14 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+For a first-year programming course, Ghassan's teaching style moved at a pace that was unclear and too general. Labs and lectures did not align fluidly, and what was taught in lecture did not help much for the labs. Many students got by with not attending and reading his posted slides, and using the textbook. Best advice is to practice a lot.

@@ -1,0 +1,24 @@
+Professor: Cameron Brewer
+Professor Legacy ID: 2621083
+Professor ID: VGVhY2hlci0yNjIxMDgz
+Department (CSV): Resource Management
+Department (Fetched): Resource Management
+Avg Rating: 4
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: REM319
+Date: 2021-01-20 19:49:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Professor Brewer is very knowledgeable about environmental law, and you can tell that he is passionate about the subject. The one critique that I have is that we received no feedback for any assignments in this course. How can we be expected to learn if we just receive a percentage and nothing else? The lectures were great though!

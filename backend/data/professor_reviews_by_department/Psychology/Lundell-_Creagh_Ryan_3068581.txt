@@ -1,0 +1,89 @@
+Professor: Ryan Lundell- Creagh
+Professor Legacy ID: 3068581
+Professor ID: VGVhY2hlci0zMDY4NTgx
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 3.8
+Avg Difficulty: 2.7
+Num Ratings: 6
+Would Take Again Percent: 83.3333
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: PSYC370
+Date: 2025-04-08 04:19:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+prof is approachable and friendly, but the structure of the class and the assignments were quite confusing at times and disorganized. syllabus was not up to date nor the due dates of exams/assignments, leading to last-minute changes that were unfair for many students. would take again if it was more organized in the future
+
+--- Rating #2 ---
+Class: PSYC370
+Date: 2025-03-15 07:52:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This is probably one of the easier psyc courses I have taken. The grading criteria for the papers are bit unclear, but other than that the course is easy to do well in if you take good notes. He is very approachable and accommodating. And you learn a lot about yourself in the course with the personality tests you take in the class.
+
+--- Rating #3 ---
+Class: PSYC201W
+Date: 2025-03-14 17:35:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Ryan is an amazing professor who cares ACTUALLY cares about his students. 201W is a very coding heavy course and he acknowledges that some student have never seen a coding program. All tutorials have an explanation video and open book midterm
+
+--- Rating #4 ---
+Class: PSYC370
+Date: 2025-03-14 13:03:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Course is SO FUN! Weekly personality tests don't feel like work because they're interesting ways to learn about yourself. Syllabus seems intimidating, but some assignments are optional if you do well on the others. Lecture videos are posted so most work is done outside of class, but live sessions help consolidate the material. Strongly recommend!
+
+--- Rating #5 ---
+Class: PSYC370
+Date: 2025-03-04 08:29:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+This class has a ridiculous amount of work involved. There are essentially five papers, including three article reflections. While having these, weekly personality tests and discussions due, this class takes so much time outside of the lecture components. It is basically a writing heavy, stats class. Do not recommend. He's kind, but very demanding.
+
+--- Rating #6 ---
+Class: PSYC201W
+Date: 2025-01-08 20:47:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I really wish I did better with Ryan, because he is such an amazing Professor. He cares and is very approachable. His teaching style is casual. No book needed, but be aware that this class is mostly coding in R with a little bit of theory! All exams, tests, papers, and homework, except midterm, was R-based

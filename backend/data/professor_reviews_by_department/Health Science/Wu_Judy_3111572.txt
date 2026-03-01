@@ -1,0 +1,37 @@
+Professor: Judy  Wu
+Professor Legacy ID: 3111572
+Professor ID: VGVhY2hlci0zMTExNTcy
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 5
+Avg Difficulty: 2.3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: HSCI230
+Date: 2025-08-25 22:54:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Enjoyed taking this class with Judy! The group assignments were really easy, and the TA graded them fairly. The exams were also manageable as long as you studied.
+
+--- Rating #2 ---
+Class: HSCI230
+Date: 2025-08-11 21:02:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Despite being a young, new prof, she is such an excellent teacher. She has clear grading criteria, and gives lots of resources to do better in assignments and exams. Please give her a chance and you will highly benefit from it!

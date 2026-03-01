@@ -1,0 +1,91 @@
+Professor: Brett Hodinka
+Professor Legacy ID: 2642297
+Professor ID: VGVhY2hlci0yNjQyMjk3
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 6
+Would Take Again Percent: 100
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: BISC-475
+Date: 2022-04-24 21:33:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Brett is a super caring ta he helped me with so many times with my papers! He is always available for help and he helped me edit my papers which was super helpful. Hopefully will get him as a TA again!
+
+--- Rating #2 ---
+Class: BISC-475
+Date: 2022-04-19 21:48:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Brett was extremely helpful. He provided us with review information that was necessary for the midterm/final where he emphasized what was important. He was very approachable and friendly which made it easier to ask questions via email/participate in tutorial. His review sessions helped solidify information and discussion was encouraged.
+
+--- Rating #3 ---
+Class: BISC455
+Date: 2022-04-13 19:10:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+BISC 475 - Biology of Sex
+
+Brett was really great. Very approachable and open to questions. It was clearly important to him that people understood the material. I appreciated that he shared some details of his field experience to enrich the course material and ground it in real world examples.
+
+--- Rating #4 ---
+Class: BISC455
+Date: 2020-12-09 07:40:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Brett was awesome! You can clearly tell hes interested in the stuff hes speaking about. Work load is moderate and time given before deadlines was generous. Hes also very easy to communicate with and is always willing to answer questions.
+
+--- Rating #5 ---
+Class: BISC455
+Date: 2020-12-08 22:36:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Very supportive at ensuring every student understands the material!
+
+--- Rating #6 ---
+Class: BISC455
+Date: 2020-12-07 02:02:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Truly one of a kind! He is very helpful and wants everyone to succeed. Definitely recommend 100%

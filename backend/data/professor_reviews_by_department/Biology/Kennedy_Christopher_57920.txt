@@ -1,0 +1,272 @@
+Professor: Christopher Kennedy
+Professor Legacy ID: 57920
+Professor ID: VGVhY2hlci01NzkyMA==
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 3.6
+Avg Difficulty: 3.2
+Num Ratings: 93
+Would Take Again Percent: 96.4286
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BISC313
+Date: 2025-02-25 23:39:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Professor Kennedy's BISC313 class is a gem. His engaging lectures, clear explanations, and fair exams make for an enjoyable learning experience. Staying on top of the material, using unstuckstudy and attending class are key to doing well.
+
+--- Rating #2 ---
+Class: BISC313
+Date: 2024-12-19 20:04:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Doesn't answer questions clearly and insults students verbally during class. Never taking a course with him again:)
+
+--- Rating #3 ---
+Class: BISC313
+Date: 2024-05-04 21:19:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Chris is a great professor, lectures are straightforward, interesting, and exams cover exactly what you expect. He is also very funny at times, which makes up for some of the more dry lectures. Exams did have a fairly low average, which really surprised me, but Chris does scale the class.
+
+--- Rating #4 ---
+Class: BISC313
+Date: 2024-05-03 23:01:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Chris was one of my favourite profs at SFU. His lectures were fun and engaging, but for some reason that didn't carry over to the online lectures (he'll assign these during reading week/holidays to keep up with the course). The 40/60 exam split is tough, but you'll do fine if you study his examples (don't forget the slides) and his exact wording.
+
+--- Rating #5 ---
+Class: BISC313
+Date: 2024-04-30 22:26:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+BISC 313 with Chris was great because he made the course content easy to understand through his hand-written lecture notes. This class had one midterm (40%) and a final (60%), while there was a lot of content the exams were fair as long as you went to class and kept up with the material.
+
+--- Rating #6 ---
+Class: BISC313
+Date: 2023-04-24 18:12:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Kennedy gave really great lectures with clear explanations of key concepts. The 40/60 exam weighting scheme was intimidating at first, but as long as you keep up with the material and focus on understanding the main ideas, you will be fine! Very interesting and enjoyable class overall.
+
+--- Rating #7 ---
+Class: BISC313
+Date: 2023-04-21 04:13:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Chris was a fantastic prof. Lectures r super engaging and funny & def recommended to attend as the content is more easily digestible in person. STUDY THE EXAMPLES & read any external sources he gives you for midterm + final. Tests aren't hard if you study/understand the notes and anything he says in class. Highly recommend
+
+--- Rating #8 ---
+Class: BISC313
+Date: 2023-04-20 22:12:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The best prof out there, this is my first time in sfu having a prof like him, he writes his notes with us in class and we just have to study them. Reminded me of high-school. He made the content very interesting. I really wish he taught other courses. Take my words on this one, just take BISC313 with him
+
+--- Rating #9 ---
+Class: BISC313
+Date: 2023-03-04 03:06:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+If you keep up every class with lectures (with showing up to lecture and tutorials being the best way for me) - you'll definitely do well. Study the notes closely! He is so likeable that I can easily invest myself in this course. 
+The grading can be a little picky on specific details, so make sure to write carefully in short-essay questions.
+
+--- Rating #10 ---
+Class: BISC313
+Date: 2022-05-03 04:58:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Really good & funny prof who makes things simple with his notes. Imo, this course is not a GPA booster cuz it's a lot of info to remember & it has a 40/60 mt/final weighting (online mb easier)? I didn't like the long lec vids lol. Study for it as u would for any normal class. Exams aren't hard but lots to rmb. Rly interesting class & amazing TA!
+
+--- Rating #11 ---
+Class: BISC313
+Date: 2021-05-04 01:59:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Hands down the best biological sciences professor here at SFU! He makes the normally confusing lecture material super easy to understand. Tests are fair but require a quite a bit of detail, but thats expected of every science class. 100% would recommend &lt;3
+
+--- Rating #12 ---
+Class: BISC313
+Date: 2021-05-02 22:57:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Chris and Ruben (TA) were very approachable for any doubts outside of class. The class itself is interesting. Exams are fair and you will do well as long as you make good notes about the lectures. Highly recommend taking a class with him as he is very passionate about what he teaches and it shows.
+
+--- Rating #13 ---
+Class: BISC313
+Date: 2021-05-02 01:35:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Decent prof. His online lecture organization was off. His lectures were quite long and dry. He'd post lectures usually at least 1h long and up to 2h long. These lectures took 2-3X longer to watch than the posted time. Material and exams were straightforward, and no homework. If you know the lecture material well, you'll do fine.
+
+--- Rating #14 ---
+Class: BISC313
+Date: 2020-06-27 20:56:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Really funny, engaging prof that doesn't assign homework or readings. Show up to class and study the lecture notes and you'll do well on the midterm (40%) and final (60%).
+
+--- Rating #15 ---
+Class: BISC0000
+Date: 2020-06-14 02:43:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Kennedy is by far the best professor I have taken at SFU. He is a very hilarious prof that makes the lectures amazing. He teaches the course material and makes sure that everyone understands the topic. The down side is that he has a very bad hand writing so make sure that you attend the lectures. Exams were straight from the notes.
+
+--- Rating #16 ---
+Class: BISC313
+Date: 2019-12-12 20:37:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+His lectures are awesome but with a little heavy work.
+
+--- Rating #17 ---
+Class: MATB24
+Date: 2019-12-12 20:32:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+It's so difficult in exams but his teaching style is awesome.
+
+--- Rating #18 ---
+Class: BISC313
+Date: 2019-08-29 06:13:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Chris was amazing! His lectures were engaging and I enjoyed attending them. He presented the material to you in ways that just made sense, and his grading criteria was clear and discussed with the class. Tutorials were not mandatory but very helpful leading up to the exams. He's a funny man who clearly loves what he studies and wants you to do well
+
+--- Rating #19 ---
+Class: BISC313
+Date: 2019-07-21 19:30:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Just an overall great guy. He makes lectures interesting and relevant to the real world. His exams were straight out of his notes but study well because there weren't many questions so a wrong answer will affect your grade. Lectures were recorded but go to class because its worth your time and he has messy writing so its hard to decipher sometimes.
+
+--- Rating #20 ---
+Class: BISC313
+Date: 2019-03-09 08:07:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+HONESTLY JUST THE BEST AND MOST RELATABLE PROF AT SFU!! Overall a great guy and his exams are more conceptual and straight out of lecture notes.

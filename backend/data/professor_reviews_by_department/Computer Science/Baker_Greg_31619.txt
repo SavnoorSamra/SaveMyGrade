@@ -1,0 +1,277 @@
+Professor: Greg Baker
+Professor Legacy ID: 31619
+Professor ID: VGVhY2hlci0zMTYxOQ==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.2
+Avg Difficulty: 3
+Num Ratings: 348
+Would Take Again Percent: 57.265
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT353
+Date: 2026-02-08 02:35:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He deserves all 5 stars for SURE. His courses taught me how to think, not just fumble around with code until it does something. Also, he's a lecturer, so he devotes himself to teaching (unlike other profs who do research). His lectures are easy to follow and the assignments are very fair. Bonus: he's slightly cynical and very funny.
+
+--- Rating #2 ---
+Class: CMPT295
+Date: 2026-01-09 21:44:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Greg knows ball
+
+--- Rating #3 ---
+Class: CMPT295
+Date: 2025-12-22 21:17:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Relatively easy weekly lab assignments. Quizzes were fine for the most part (tho not much study material besides slides). Course website is very organized and friendly to read. Responds to all questions (makes it clear if he can't explicitly give u the answer). Straightforward and sometimes cracks a joke in lecture. Cool guy overall
+
+--- Rating #4 ---
+Class: CMPT295
+Date: 2025-12-22 06:38:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Greg is a really great professor, especially for 295. Unfortunately, I did use AI on some of the labs and got docked quite a bit of marks for academic dishonesty. However, the class itself was great and I learned a lot. Highly recommend Greg to anyone.
+
+--- Rating #5 ---
+Class: CMPT295
+Date: 2025-12-22 00:45:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Greg is honestly one of my favourite profs that I've had. His lectures are engaging and he clearly cares about the subject that he's teaching. The material provided for the class is very informative, and there are a lot of links provided for additional information on almost everything.
+
+--- Rating #6 ---
+Class: CMPT295
+Date: 2025-12-18 23:17:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I love Greg Baker. He loves you too if you lock in. Do the labs, its pretty interesting and you will do well in tests (if u don't use AI). I love Greg Baker.
+
+--- Rating #7 ---
+Class: CMPT295
+Date: 2025-12-16 21:24:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Weekly Lab assignments were directly from the slides he gave. Slides are very detailed and easy to understand. Midterm 1 and 2 were very fair, directly from the slides, just remeber to remeber the little things. Overall great semester and prof. Made a four credit class feel like a breeze
+
+--- Rating #8 ---
+Class: CMPT120
+Date: 2025-12-13 21:37:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the most arrogant and narcissistic prof ever!!!! His trick is to send email to first year students saying "I know you used AI so confess" just want to show off to his colleagues that I can catch people who use AI and ruin their whole academic life and future by wrongfully accusing them. Lectures r so bad and quizzes were worst
+
+--- Rating #9 ---
+Class: CMPT295
+Date: 2025-10-31 04:30:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Great at teaching, genuinely passionate about what we're learning and explains things really well and like conversationally which I like a lot. I become more passionate from it and idk he just like actually cares about his students and he wants us to do well ex. he drops by labs even tho he isnt required to, stuff like that he is really great.
+
+--- Rating #10 ---
+Class: CMPT383
+Date: 2025-08-26 21:01:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Greg is one of the best profs I've had at SFU. Some ppl say he's &#8220;rude,&#8221; but I'd call it blunt. He's direct and doesn't waste words. The course had 15% weekly exercises, 3 longer/harder assignments 35%, and exams worth 50%. Homework was easy marks if you kept up, assignments took ~20 hrs, and exams were tough, but fair. I'd recommend Greg any day.
+
+--- Rating #11 ---
+Class: CMPT383
+Date: 2025-08-24 18:46:38 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+As a lecturer, Greg is pretty good at delivering engaging lectures. He is clearly knowledgable, and even likes to crack a joke every once and a while. Outside of lectures, he was helpful, although I felt he could come across as a bit of a jerk sometimes. Felt like he had a bit of a superiority complex and isn't interested in your side of the story.
+
+--- Rating #12 ---
+Class: CMPT353
+Date: 2025-08-08 22:47:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He doesn't teach, he just talks for two hours. No clear grading criteria or outline for final project worth 22%. Nothing can prepare you for his multiple choice questions. Honestly, he's a rude person.
+
+--- Rating #13 ---
+Class: CMPT383
+Date: 2025-07-20 06:43:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good prof. People complaining he's rude are just not used to being treated like adults. He's not gonna waste your time and expects you to know your stuff from the prereqs. You're dipping into two new languages, be ready and willing to research on your own. Assignments, exercises, exams are fair. No quizzes.
+
+--- Rating #14 ---
+Class: CMPT732
+Date: 2025-06-30 09:54:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Passes rude disrespectful comments in the class.
+
+Is always talking about something else other than the course material.
+
+Avoid.
+
+--- Rating #15 ---
+Class: CMPT353
+Date: 2025-01-03 19:27:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+JUST AVOID HIM. Hands down the worst prof I've had at SFU. Rude with a terrible attitude, especially to international students. Streams lectures of him coughing every couple of sentences all semester long weekly on YouTube. Really hard to follow lectures. This was not what I signed up for in an in-person class. Such a waste of time and tuition.
+
+--- Rating #16 ---
+Class: CMPT353
+Date: 2024-12-24 05:28:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Assignments are pretty easy to get 100% on (Greg would even point you in the right direction if asked). If you get 100% on them and understood what to do, you would likely get a high grade on the project. The quizzes are fairly straight forward if you memorized key points and did the assignments. 100% online with exception of quizzes. B average.
+
+--- Rating #17 ---
+Class: CMPT120
+Date: 2024-11-21 22:55:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Weekly exercises and assignments were not too hard even if you are a beginner to Python. 
+He went over many examples in the lectures which was really helpful. The 2 quizzes and the final exam were all reasonable./
+I miss this class!!
+
+--- Rating #18 ---
+Class: CMPT732
+Date: 2024-11-20 06:20:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The most entertaining lectures. Definitely holds your attention throughout the class. Very no-nonsense and will teach you practical stuff. However, the lecture will only be an introduction to the topic and you will learn more when you try the assignment yourself.
+
+--- Rating #19 ---
+Class: 470
+Date: 2024-09-16 20:30:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Greg was an absolute bully. I went to his office hour for group project. Completely dismisses my questions and replied rudely. I was simply asking questions about the scope. I will never forget: I'm the prof. I get to decide your grade.
+
+--- Rating #20 ---
+Class: CMPT295
+Date: 2024-09-11 04:06:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+All of his lecture notes are online and they make a lot of sense. He seems to care for his students and what he is teaching. In office hours he is also really nice and helpful. His assignments/labs are very doable and are similar to the tests. His exams are pretty short and reasonable.

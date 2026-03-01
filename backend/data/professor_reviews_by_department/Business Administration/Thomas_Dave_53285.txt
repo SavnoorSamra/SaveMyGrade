@@ -1,0 +1,206 @@
+Professor: Dave Thomas
+Professor Legacy ID: 53285
+Professor ID: VGVhY2hlci01MzI4NQ==
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.4
+Avg Difficulty: 2.6
+Num Ratings: 15
+Would Take Again Percent: 71.4286
+
+Ratings Count Returned: 15
+
+--- Rating #1 ---
+Class: BUS338
+Date: 2022-05-09 23:11:05 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dave's rubrics are extremely vague and everyone receives roughly the same grade, which makes it difficult to estimate your grade given that 338 is a curved class. It is clear that Dave teaches based on his own biases and is not open to hearing different views from students. Basically just tell him that he's right and you'll get a good grade.
+
+--- Rating #2 ---
+Class: BUS338
+Date: 2020-12-15 07:35:18 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Dave is a nice and engaging prof but his grading rubric is either non-existent or it doesn't make sense. You are graded on an individual assignment, 2 quizzes, 3 group presentations, and a final report but the margins for the grade average vary by 0.1 points. I'm not kidding you. You won't know what your final grade will be until the end.
+
+--- Rating #3 ---
+Class: BUS200
+Date: 2019-05-22 23:02:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Easy going guy, approachable really
+
+--- Rating #4 ---
+Class: BUS200
+Date: 2018-12-06 23:49:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He gave everyone very high a score of assignment and presentation. He shared lots of funny stuffy during his lecture also if you read and memories the textbook, you can get A!
+
+--- Rating #5 ---
+Class: BUS338
+Date: 2018-11-05 03:23:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great lecturer and a very good working professor that teaches you valuable real life information.
+
+--- Rating #6 ---
+Class: BUS432
+Date: 2018-04-21 16:26:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great professor. Definitely an asset to Beedie. Very knowledgeable in IHRM material (as he has published a good amount of it). Engaging class, valuable material, and easy to understand. Take a class with him if you can!
+
+--- Rating #7 ---
+Class: BUS200
+Date: 2018-01-30 22:34:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great prof with a sense of humour what makes 4-hour lecture past as 1 hour, grades are fair and the course is interesting even if it's not your major.
+
+--- Rating #8 ---
+Class: BUS338
+Date: 2016-04-22 17:25:39 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dave is a nice guy, knows his stuff and is a good mentor for those who are begginers in entrepreneurship, however he is a very hard marker/ hard to please & 65% of your grade is based on a group project which includes doing  work for a real start up company (very hands on), so it will either make you or break you! + the curve
+
+--- Rating #9 ---
+Class: BUS432
+Date: 2016-03-31 03:14:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+THE coolest professor I ever had.  Abu Dhabi!!
+
+--- Rating #10 ---
+Class: BUS380
+Date: 2008-10-22 22:49:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Dave is hardcore.
+
+--- Rating #11 ---
+Class: BUS380
+Date: 2007-04-05 16:35:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Dave is aweomse! very helpful, I loved his class! He grades very fair! One o my fave profs so far :D
+
+--- Rating #12 ---
+Class: BUS380
+Date: 2002-12-09 13:52:13 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Great lectures, good sense of humor, intersting course.
+
+--- Rating #13 ---
+Class: BUS380
+Date: 2002-12-01 20:19:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Great lecturer and made waking up early all worthwhile!
+
+--- Rating #14 ---
+Class: BUS380
+Date: 2002-11-13 14:32:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+very funny guy, makes three hour lecture seem like half hour, great prof!
+
+--- Rating #15 ---
+Class: BUS432
+Date: 2002-05-20 18:50:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+funny guy, great discussions, but hard marker...high expectations

@@ -1,0 +1,11 @@
+Professor: Paul McFeteidge
+Professor Legacy ID: 1643692
+Professor ID: VGVhY2hlci0xNjQzNjky
+Department (CSV): Languages
+Department (Fetched): Languages
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

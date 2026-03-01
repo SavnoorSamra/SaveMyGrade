@@ -1,0 +1,273 @@
+Professor: Avi Bick
+Professor Legacy ID: 77934
+Professor ID: VGVhY2hlci03NzkzNA==
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4
+Avg Difficulty: 2.7
+Num Ratings: 43
+Would Take Again Percent: 85.7143
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS316
+Date: 2023-12-05 02:17:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Avi is the best prof I've ever had!!! Had the absolute pleasure of being one of his last students. Even though he is retiring - insight into 316 (couldn't find any when I looked be4): MT and 1/2 of course quite easy. Becomes increasingly complex into B/S model and binary trees. Nevertheless a straightforward course. Staying on track is imperative.
+
+--- Rating #2 ---
+Class: BUS316
+Date: 2023-04-05 23:02:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Without a doubt BEST PROF I have ever had. All the material u need is provided. He tests based on his practice questions so make sure to practice.
+
+--- Rating #3 ---
+Class: BUS316
+Date: 2022-12-24 04:13:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+The midterm was reasonable as you could do well on it by doing the practice ques. The assign were fine as well. His classes were soo boring and long that he just read over the notes and it was a waste of time.
+
+The final exam was extremely difficult. Did all the practice ques but none of the ques came from there. He chose very specific ques.
+
+--- Rating #4 ---
+Class: BUS316
+Date: 2022-10-26 09:58:04 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is knowledgeable but cannot deliver his knowledge in lectures. Makes it super boring and hard to understand. His notes are confusing but save textbook costs. Would prefer other profs over him. Overall, a sweet person.
+
+--- Rating #5 ---
+Class: BUS814
+Date: 2021-10-09 11:21:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+He is a true gem. He kept it simple enough for class. Pay attention in class and you&quot;ll get a good grade. but if you want to learn quant he is the prof you go to. You will use his approach and methods for the rest of your life in finance. He is more than a professor and can teach you how to think (in Finance). Also the most knowledgeable prof...
+
+--- Rating #6 ---
+Class: BUS818
+Date: 2021-05-01 11:36:57 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Just like BUS 814, BUS 818 is too theoretical and not practical at all. Avi is a nice person (like a grandfather) but someone else should teach these two courses. I was disappointed in them because I didn't find them overly useful for my career goals.
+
+--- Rating #7 ---
+Class: BUS814
+Date: 2021-05-01 11:28:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Very nice guy, and he possesses great class notes. The midterm was fine and the final was harder. No issue with that. The big concern that I and others have is he is too theoretical and not practical experience. This was evident in how he taught the course. I hate to say it but we think he should be retired by now.
+
+--- Rating #8 ---
+Class: BUS316
+Date: 2020-04-05 00:57:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very patient and generous. He replied to e-mails quickly. He is also willing to explain his expectations clearly so that his students can have an easier life. Final exams are harder than the mid-term. But you can still get good grades if you through all his notes and do his practice questions.
+
+--- Rating #9 ---
+Class: BUS316
+Date: 2018-12-18 21:13:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Prof provides you all the notes that he will go through, so going to class isn't mandatory. Nice professor, and will definitely try to help you understand. Make sure you do majority of the practice problems before exams. Midterm was easy high average, but final is much harder and had a much lower average.
+
+--- Rating #10 ---
+Class: BUS316
+Date: 2018-12-17 20:12:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very patient and nice prof! Midterm is easy and final is hard. But it is fair!
+
+--- Rating #11 ---
+Class: BUS316
+Date: 2017-12-24 12:10:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Awarded best teacher twice, not for nothing. Extraordinarily creative ways of simplifying and explaining financial methods. One of the best profs I ever had. Take any course you can with him. It'll be a pleasure.
+
+--- Rating #12 ---
+Class: BUS316
+Date: 2016-12-22 04:14:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+One of my best at SFU :) He explained everything clearly and slowly so that students can follow in class without any preparation in advance. Midterm is just like optional practices, so make sure you do them. Final is harder, especially theory MCQs, but still fair.
+
+--- Rating #13 ---
+Class: BUS316
+Date: 2016-12-19 14:20:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+His explanations are straightforward if you pre-read before class. MIdterm average was ridiculously high, but is a given as he posts everything online and it is very, very similar. Final was a bit harder, but pretty straightforward. If you dont do well in a high-average class, youll probs do below average here.
+
+--- Rating #14 ---
+Class: BUS316
+Date: 2016-12-18 20:28:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+One of the best prof I've met in SFU, he is definitely knowledgeable and kind. Derivatives is a hard and complicated topic while Avi made it super simple to learn through his well-organized notes. And he always gives good feedbacks, he doesn't speak fast but he makes it clear for students. Highly recommend him for BUS 316.
+
+--- Rating #15 ---
+Class: BUS818
+Date: 2016-01-10 13:33:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Lectures prepared extremely well. Grades on average are a bit higher that people deserve. Always willing to help. Overall, he is such a nice fella.
+
+--- Rating #16 ---
+Class: BUS316
+Date: 2016-01-02 17:31:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+He is a really good prof. Learn a lot from him. His lectures are so clear and well-organized. He gives you everything so that no need to buy textbook. In order to do well, just attend every lecture, pay attention, do the assignments and sample practices, you will be good. PS: He is like a warm grandpa
+
+--- Rating #17 ---
+Class: BUS316
+Date: 2015-01-07 04:00:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+His lecture notes are very clear so no need to buy the textbook. The class is boring that he just reads his notes. Easy midterm, the final is cumulative and more difficult. Make sure you have do all the readings, do practice problems and homework before the exam.
+
+--- Rating #18 ---
+Class: 814
+Date: 2014-01-14 14:51:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Terrible professor
+
+--- Rating #19 ---
+Class: BUS316
+Date: 2012-12-20 16:56:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Took 316 this fall. Notes are crystal clear. Easy midterm, only a bit slightly harder final. As long as you do the practice and homework by yourself, you will be fine. Easy A+
+
+--- Rating #20 ---
+Class: BUS818
+Date: 2012-04-27 05:35:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Avi is one of the best professors I have ever had throughout my seven years study at SFU.(Both at undergrad and graduate level).The notes are well written and made the material much clear than any existing textbooks (Hull, McDonald, Jarrow Turnbull). The notes are also clear enough substitute attendance of lecture. Exams are fair for those practice

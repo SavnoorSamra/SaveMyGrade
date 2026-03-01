@@ -1,0 +1,143 @@
+Professor: Erika Horwitz
+Professor Legacy ID: 1747779
+Professor ID: VGVhY2hlci0xNzQ3Nzc5
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 1.4
+Avg Difficulty: 2.7
+Num Ratings: 10
+Would Take Again Percent: 0
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: CNPS364
+Date: 2023-01-04 18:27:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Truly the worst course structure I have had as a student.
+
+--- Rating #2 ---
+Class: CNPS364
+Date: 2022-12-11 17:23:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+The class is based on how well you can understand difficult and unclear instructions with ambiguities. I would not recommend. For me, it didn't matter how much work I put in, but how well I could understand how the teacher's brain works. I like clear instructions, which does not exist in this class.
+
+--- Rating #3 ---
+Class: CNPS364
+Date: 2022-11-28 08:11:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+There is no incentive to learn any of the material since there are only 3 large assignments and we are only given 3 days notice (had to miss work so I'd have time to write them) and the instructions are very disorganized :( She also posted the assignments before she said she would so some may have had more time to write the assignments.. not fair!
+
+--- Rating #4 ---
+Class: CNPS364
+Date: 2022-06-23 22:49:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Grade is only based on 3 assignments. There are no quizzes, lectures, or exams. Assignments have very confusing instructions on how to complete them. 
+
+Assignment instructions are released with 3 days notice so no work to do during the semester except for the 3 day periods for each assignment. Easy to get a good grade in, but a quite a headache
+
+--- Rating #5 ---
+Class: CNPS364
+Date: 2021-04-15 05:31:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+One of the worst profs I have had. Instructions for assignments were confusing and unorganized. Also not easily available for help outside of class. Assignment instructions are given with only 3 days notice. Work required for each assignment varies. Assignment 3 was double the work and yet worth about the same.
+
+--- Rating #6 ---
+Class: CNPS364
+Date: 2020-06-26 20:59:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Course was graded on 3 assignments with vague instructions, the weights of which do not match how much work is needed (3rd assignment was worth 35% yet twice the amount of work as the assignment worth 40%). Instructor did not reply to students who asked questions on the public forum. Easy course, just don't expect to gain much out of it.
+
+--- Rating #7 ---
+Class: CNPS364
+Date: 2019-10-11 08:51:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Registered for her CNPS 364 course online at UBC this current semester and a week before an assignment I had emailed her with some questions; waited 3 days and got no response. Sent her another email, and now two days before the assignment is due I still have gotten no response. Course is 3 assignments only, no discussion marks, a lot of research.
+
+--- Rating #8 ---
+Class: CNPS364
+Date: 2019-09-30 03:58:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+This professor shouldn't teach an on-line courses. The course does not create an opportunity to engage with the material. No marks are given for discussion or comprehension of the material. The marks are based on three assignments that are marked on very narrow grading criteria. I have taken 10 on-line courses and this course was disappointing.
+
+--- Rating #9 ---
+Class: CNPS364
+Date: 2015-11-08 18:11:29 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Don't take her class. She replied her student's email using all capital letters. A very rude professor. Her reply is often useless too and never actually clarify anything. Wouldn't recommend her to anyone!
+
+--- Rating #10 ---
+Class: EDUC324
+Date: 2014-04-02 00:16:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+She is super nice and friendly. She teaches things so you will remember them not to give you a grade. She marks easy if you give her thoughtful responses and put effort into it. Interesting and fun course.

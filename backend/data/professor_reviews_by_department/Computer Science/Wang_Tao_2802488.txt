@@ -1,0 +1,185 @@
+Professor: Tao Wang
+Professor Legacy ID: 2802488
+Professor ID: VGVhY2hlci0yODAyNDg4
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.7
+Avg Difficulty: 3.9
+Num Ratings: 13
+Would Take Again Percent: 46.1538
+
+Ratings Count Returned: 13
+
+--- Rating #1 ---
+Class: cmpt479
+Date: 2024-07-04 04:53:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Makes exam questions have answers based on a technicality. Makes assignments have acoustic clues that you need to decipher to figure out what he really wants.
+
+--- Rating #2 ---
+Class: cmpt479
+Date: 2024-07-04 04:52:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Tao
+
+--- Rating #3 ---
+Class: cmpt479
+Date: 2024-07-03 03:46:25 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Tao is very passionate and it's clear he's an expert, but he can come off as arrogant and looks down on students who are struggling. He also speaks fast and bases exams off of things he says, so it's difficult to keep up when you can't hear what he saying but it's important. He also seemed to get a kick off of people being upset over the midterm.
+
+--- Rating #4 ---
+Class: cmpt276
+Date: 2024-02-06 22:20:03 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Pros: Accessible and responsive; good feedback if you ask.   
+Cons (group project): too open-ended; groups poorly balanced; prompt was not good relative to other offerings; lectures were not helpful; not enough guidance; vague requirements.
+Cons (exams): No practice questions; difficult; heavily based on lecture material. 
+Bad learning experience
+
+--- Rating #5 ---
+Class: cmpt276
+Date: 2023-10-08 23:54:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Pretty good lectures. Accessible outside of class. I don't get why people are complaining about implementing an AI! All that was asked was a simple, reasonably logical one for a board game you make! 
+Midterm and Final questions were stuff mentioned in lectures and slides. 
+Issue was that the material is mostly memorization based. Be prepared.
+
+--- Rating #6 ---
+Class: cmpt276
+Date: 2023-09-07 14:33:23 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Never done so bad in course exams. Very memorization based and MCQ heavy but that's not a good thing. Project deadlines were quite late, as in you pretty much had to do 70% of the project in 2 weeks for the second deadline. It asks for an AI (way hard for a 200 course) as well. Pray for good group members or you're botched.
+
+--- Rating #7 ---
+Class: cmpt276
+Date: 2023-08-21 07:36:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Prof Wang is an accommodating, kind professor. It is certainly hard to make group projects fair, nevertheless, the project with my group was fun, and I enjoyed doing it. However, the exam's MC are certainly difficult, as there are not much practice questions, and the questions cover many topics, making the testing scope broad I think
+
+--- Rating #8 ---
+Class: cmpt276
+Date: 2023-08-21 05:25:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Half of the course grade is on the project, which entails implementing AI in a 2nd year level course. If you find yourself with bad group members, you're done! It appears the professor doesn't address issues with unfavorable team assignments. It might be worth considering a different professor to save yourself some potential difficulties.
+
+--- Rating #9 ---
+Class: cmpt479
+Date: 2023-08-19 21:01:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This is a rating for CMPT 276 with tao. it was his first time teaching the course and I can say this was one of the worst course experiences I've had. our course was 50% project based, and each phase of the project was revealed late, leading to short deadlines. the other 50% in exams was 2/3 mcq and was laid out poorly for the long answer.
+
+--- Rating #10 ---
+Class: cmpt479
+Date: 2023-08-11 18:20:15 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He clearly cares, but I have to disagree about the "best CS lectures" review. His lectures are very rambly. He'll show a slide and just ramble about the topic in an unorganized way. He's not explaining the topic (teaching), he's just talking about it, as if he were having a conversation. It made his lectures unlistenable for me personally.
+
+--- Rating #11 ---
+Class: cmpt479
+Date: 2022-08-16 21:05:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Tao has some of the best lectures in the CS department and is very good at keeping people engaged. However he needs to improve his course organization skills as we had an assignment due during finals. He also does not properly prep you for his brutal exams and aims to keep the avg low. That being said he is still better than most profs out there.
+
+--- Rating #12 ---
+Class: cmpt479
+Date: 2022-07-29 05:22:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He did put a lot of effort into his slides and explained things well. Programming assignments are fun to do but does take a lot of effort. Good Prof in general.
+
+--- Rating #13 ---
+Class: cmpt479
+Date: 2022-06-29 18:02:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+lectures are engaging and course load is managable

@@ -1,0 +1,180 @@
+Professor: Paul Ho
+Professor Legacy ID: 183244
+Professor ID: VGVhY2hlci0xODMyNDQ=
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 3.9
+Avg Difficulty: 3.1
+Num Ratings: 13
+Would Take Again Percent: 75
+
+Ratings Count Returned: 13
+
+--- Rating #1 ---
+Class: ENSC380
+Date: 2018-12-03 23:02:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+A very tenured professor, he is well-versed in the subject and extremely knowledgeable. Examples/lecture notes don't translate 1-to-1 on exams and the lecture material tends to be fairly dense. He spoke with an accent but is comprehensible. If you try to understand the &quot;big&quot; ideas over the details, you will be able to understand exam questions.
+
+--- Rating #2 ---
+Class: ENSC380
+Date: 2018-05-19 11:15:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very professional. Explains things down to the details
+
+--- Rating #3 ---
+Class: ENSC380
+Date: 2018-04-16 05:48:50 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Expecting to learn nothing from the class.
+
+--- Rating #4 ---
+Class: ENSC380
+Date: 2017-11-20 08:27:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Paul ho is a daily reminder that I could be better in life. I strive to be like him and make a name as prestigious as his in the engineer world. his English is amazing and his mom is fine af
+
+--- Rating #5 ---
+Class: ENSC380
+Date: 2013-08-22 14:47:49 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+What he taught in the lecture differs from assignment and exam. His note is useful but hard to understand. Easy midterm and final if you study the sample exam.
+
+--- Rating #6 ---
+Class: ENSC380
+Date: 2013-05-24 19:30:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Horrible Prof. Doesn't know how to teach. Even TA's couldn't understand his exams. Couldn't communicate with the students, literally...
+
+--- Rating #7 ---
+Class: ENSC380
+Date: 2013-04-25 15:47:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Paul Ho, in a few words, is a clear speaker yet if you are in class, you need to ask questions because there is a lot of concepts that he may assume you already know. As a second year student, who took this third year course, I did struggle to some extent. The exam was not easy for me. If you are a 2nd year I recommend waiting to take it later.
+
+--- Rating #8 ---
+Class: ENSC380
+Date: 2013-04-18 22:44:14 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Just because he gives easy grades does not necessarily means he is a good prof. The lectures are not useful, and not enough examples are used. I had better luck understanding theories by watching Youtube lectures.
+
+--- Rating #9 ---
+Class: ENSC380
+Date: 2010-09-25 13:38:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Paul Ho is an excellent professor. Not only is he good at delivering difficult concepts he is also good at keeping the class alive. I did not need the textbook at all. Received an A+. Thanks for a great class!
+
+--- Rating #10 ---
+Class: ENSC380
+Date: 2009-09-07 23:54:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+if you try a little harder you will easily get an A+ with this prof
+
+--- Rating #11 ---
+Class: ENSC380
+Date: 2009-07-26 20:26:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+One of the best profs at sfu engineering. Very clear in explaining the material. Very logical and experienced. Thank you.
+
+--- Rating #12 ---
+Class: 832
+Date: 2003-04-08 18:55:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+PSAM forever!
+
+--- Rating #13 ---
+Class: ENSC832
+Date: 2003-04-08 18:50:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments

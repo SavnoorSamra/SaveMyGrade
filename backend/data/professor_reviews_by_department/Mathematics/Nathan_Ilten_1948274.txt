@@ -1,0 +1,271 @@
+Professor: Ilten Nathan
+Professor Legacy ID: 1948274
+Professor ID: VGVhY2hlci0xOTQ4Mjc0
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3
+Avg Difficulty: 4.1
+Num Ratings: 99
+Would Take Again Percent: 50.6173
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH340
+Date: 2026-01-22 06:09:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Questions are often answered vaguely, which makes it hard to clarify confusion. Overall, students are left to self-teach much of the material. I would not recommend this course unless you are comfortable learning almost entirely on your own.
+
+--- Rating #2 ---
+Class: MATH340
+Date: 2026-01-22 06:08:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Assignments and tests don't match what's taught in class, making it feel like you're teaching yourself everything. Office hours aren't very helpful either. If you take this course, be prepared to rely heavily on YouTube and textbooks instead of lectures.
+
+--- Rating #3 ---
+Class: MATH242
+Date: 2026-01-22 06:07:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Overall, students are left to self-teach much of the material. I would not recommend this course unless you are comfortable learning almost entirely on your own.
+
+--- Rating #4 ---
+Class: MATH242
+Date: 2026-01-22 06:05:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Questions rarely receive clear answers, and overall the course feels largely self-taught. I would not recommend taking this class if you rely on lectures to learn.
+
+--- Rating #5 ---
+Class: MATH242
+Date: 2026-01-22 06:04:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures are unclear and poorly organized, with most content read directly from slides and little explanation.
+
+--- Rating #6 ---
+Class: MATH242
+Date: 2026-01-22 06:00:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The teaching quality is very weak. Lectures lack clear explanations and mostly consist of reading directly from slides without adding insight. Key concepts are not broken down, yet exams and assignments assume a deep understanding.
+
+--- Rating #7 ---
+Class: MATH340
+Date: 2026-01-22 05:59:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures are extremely unclear and poorly structured. The professor mostly reads off slides without explaining concepts, then expects students to somehow understand complex material on exams. Questions are often brushed off or answered vaguely.
+
+--- Rating #8 ---
+Class: MATH152
+Date: 2026-01-22 05:58:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Prof is very confusing does not explain the topics clearly very test heavy
+
+--- Rating #9 ---
+Class: MATH152
+Date: 2026-01-21 20:44:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Goes through lecture really fast very hard to understand
+
+--- Rating #10 ---
+Class: MATH152
+Date: 2026-01-21 20:44:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Bad at teaching
+
+--- Rating #11 ---
+Class: MATH152
+Date: 2026-01-21 20:07:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Explains everything very vaguely hard to understand, rushes through lectures and does not explain topics.
+
+--- Rating #12 ---
+Class: MATH152
+Date: 2025-11-26 14:14:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+No just no no nonono
+
+--- Rating #13 ---
+Class: MATH242
+Date: 2025-11-26 06:46:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He is quite good at explaining concepts and his exam questions are much easier than his homework questions. But he's a harsh marker, so keep that in mind.
+
+--- Rating #14 ---
+Class: MATH340
+Date: 2025-06-26 15:58:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Please avoid this course with Nathan. The concepts in 340 CAN be fun, but Nathan seems to make the course more about flexing his math knowledge than actually walking students through abstract concepts. Docks marks like crazy rather than actually helping students learn from mistakes. Wouldn't recommend him for any proof-based course.
+
+--- Rating #15 ---
+Class: MATH340
+Date: 2025-06-26 15:45:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Absolutely not. Worst math prof I've ever had. Comes across as nice, but it's a facade. He WILL gatekeep the course. Not designed to pass, policies that auto fail students (concept comprehension exams). Insanely difficult assignments. His class made me think math wasn't for me, but having taken other upper year math courses, Nathan is just bad lol
+
+--- Rating #16 ---
+Class: MATH152
+Date: 2025-04-25 17:40:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took this class quite a while ago but if you put in the work, study in advance (1-2 lectures), and practice often, this class is great. Not sure if it was the effort I started putting in to understand Calc (I've never taken Calculus in my life), but I actually found his classes fun. The midterms and finals were tough, but fair so practice!
+
+--- Rating #17 ---
+Class: MATH152
+Date: 2025-04-22 00:33:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+A super nice guy who is also really good at math, you can tell he knows his stuff not just in calculus, but way higher than that (look at his website). Lectures are a bit rushed and messy, but he definitely cares, and his exams aren't too bad.
+
+--- Rating #18 ---
+Class: MATH152
+Date: 2025-04-21 20:04:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Tends to skip over steps while doing notes and rushes through examples or skips them entirely. Otherwise pretty good at teaching and explaining concepts. Midterms are fairly straight forward but final exam was difficult. Final marks ended up not getting curved despite a lower average.
+
+--- Rating #19 ---
+Class: MATH152
+Date: 2025-04-21 00:12:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Nathan was a good prof who was genuinely interested in the material. His explanations were great and the exams were very fair as long as you did the homework.
+
+--- Rating #20 ---
+Class: MATH152
+Date: 2025-04-21 00:04:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+A fair prof who sometimes goes too fast, but you get used to the style, exams are a bit tough but a lot of practice is provided, so if you keep it up I think you'll do fine

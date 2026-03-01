@@ -1,0 +1,24 @@
+Professor: Sad Yalinejad
+Professor Legacy ID: 2924311
+Professor ID: VGVhY2hlci0yOTI0MzEx
+Department (CSV): Finance
+Department (Fetched): Finance
+Avg Rating: 1
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BUS312
+Date: 2023-08-13 19:13:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The prof read off the slide and did a few easy example questions that were already given to you on Canvas. We had quizzes every week that also came straight from same answer key we already had. Gave little information about midterm and final and the difficulty level was way harder than practice questions from each chapter.

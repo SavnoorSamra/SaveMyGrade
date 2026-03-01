@@ -1,0 +1,24 @@
+Professor: Caleb Tarzwell
+Professor Legacy ID: 2356875
+Professor ID: VGVhY2hlci0yMzU2ODc1
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 1
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: STAT203
+Date: 2018-04-09 14:13:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Doesn't know how to teach. Smart guy and knows his stuff but dreadfully boring and not good at making stuff clear. Stopped going after the first midterm and my grade went up just relying on the textbook and its practice problems. Does post all his notes which is nice.

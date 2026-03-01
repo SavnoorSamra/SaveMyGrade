@@ -1,0 +1,271 @@
+Professor: Michael Ling
+Professor Legacy ID: 61153
+Professor ID: VGVhY2hlci02MTE1Mw==
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.9
+Avg Difficulty: 1.8
+Num Ratings: 29
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: EDU100W
+Date: 2025-11-17 07:42:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Michael is literally the nicest guy I've ever met.
+
+--- Rating #2 ---
+Class: EDU100W
+Date: 2025-05-01 21:28:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Michael is the kindest professor. Soft-spoken, understanding & someone I wish more professors were like. His classes, mostly lectures & videos were engaging, making me rethink education. Was a bit unorganized due to a busy semester, but it's understandable. A group presentation near the end. Will take another course with him again in the future!
+
+--- Rating #3 ---
+Class: EDUC100W
+Date: 2025-04-11 03:35:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+i believe that michael is the most impactful and inspiring human. everyone should take a class with him.
+
+--- Rating #4 ---
+Class: EDUC811
+Date: 2023-07-28 01:07:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Michael is, I believe, the kindest person I have ever met. He is open-hearted, thoughtful, soft-spoken, and an excellent listener. His feedback was really helpful in revising my thesis.
+
+--- Rating #5 ---
+Class: EDU883
+Date: 2022-02-25 02:39:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Ling is an amazing professor for the Master of Education program. He will delve into who you are and help you find a path that aligns with your core beliefs. He will use your experiences and somehow consistently tie it into his talks - not lectures. Dr. Ling thrives with participation. To see his genius you must conversate &amp; challenge. Best.
+
+--- Rating #6 ---
+Class: EDUC100W
+Date: 2018-03-12 01:59:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very inspirational Professor who is caring towards his students, willing to help support our learning whenever possible. He helped broaden my views on Education-as a way of life and that everyone have their own potential &amp; Identity. He had taught us many valuable gems of Education and I will definitely take another course with him!
+
+--- Rating #7 ---
+Class: EDU100W
+Date: 2017-12-11 23:04:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Micheal is an amazing instructor and person. He truly cares about his students learning and well being. His lectures are very interesting and will make you want to become an educator. At first, you may find that his instructions are vague but there is a method to all his madness. I would take his class again in a heartbeat.
+
+--- Rating #8 ---
+Class: EDU100W
+Date: 2017-12-01 01:29:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Honestly his class is simply life changing. The world needs more people like micheal.
+
+--- Rating #9 ---
+Class: EDUC100W
+Date: 2017-11-29 02:11:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Wonderful seminar class! Michael asks students to dig into what they are personally interested in in relation to education. Very interesting in terms of material, as Michael brings forward his thoughts alongside the students'. A very caring and knowledgeable professor that makes university experience a little brighter.
+
+--- Rating #10 ---
+Class: EDU100W
+Date: 2017-11-05 21:22:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Michael is an amazing prof. He is very engaging and his lectures are super interesting. He is truly a great teacher and the way the course is delivered is not like any other class I have taken. Not only is he one of the best profs ever he also occasionally brings Candy. I would recommend this course to everyone you will like it no matter what.
+
+--- Rating #11 ---
+Class: EDUC100W
+Date: 2016-04-21 20:07:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I love this class! Really inspiring & changes the way you view education & what a good life means to you.  This is one of my fav classes + I'm in business.  He's the type of teacher every teacher should be.  Michael is a great person his positive energy just rubs off on you. Good grade regardless, so he focuses on you actually learning something
+
+--- Rating #12 ---
+Class: EDUC100W
+Date: 2016-04-10 14:42:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Michael is one of the most thoughtful and caring people I've ever met. He genuinely tries to reach out to every student and our 3 hour lectures flew by fast. Loved this class so much. Take it with him if you have the chance, you will not regret it!
+
+--- Rating #13 ---
+Class: EDU100W
+Date: 2015-12-28 00:47:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Super easy GPA booster class. Michael is a great guy and he's really engaging. He's always there to chat and help. If you miss one class it doesn't really matter because he always talks about the same things but he seems a bit confused sometimes. I had no idea how the class was graded but it was easy.
+
+--- Rating #14 ---
+Class: EDUC100W
+Date: 2015-12-16 22:51:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Not only is it important to attend lectures it is also fun! Michaels lectures are engaging and he is enthusiastic about education and make you want to come to class to hear what he will say. He makes an effort to get to know each student and encourages participation in class. I wish I could take this course again.
+
+--- Rating #15 ---
+Class: EDU100W
+Date: 2015-12-16 04:22:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+I took Michael's class in my last semester at SFU and he is AMAZING. Please take his class if you GENUINELY care about education. He really has a passion for teaching and you can tell that through his lectures/discussions with students, so please understand that profs like him are a rare breed so please DO NOT TAKE HIM FOR GRANTED. Go2 all classes
+
+--- Rating #16 ---
+Class: EDUC100W
+Date: 2015-12-08 17:31:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Michael is an amazing prof. He's such a great conversationalist and his lectures draw from a vast collection of experience and knowledge. He really gets you thinking about the big questions. 100% approachable. Gets to know every student. Would take again.
+
+--- Rating #17 ---
+Class: EDUC100W
+Date: 2015-11-24 19:38:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+He's the BEST professor I have ever had! Genuinely cares about his students, and he makes his class so interesting! 10/10 Would take again
+
+--- Rating #18 ---
+Class: EDUC100W
+Date: 2015-11-08 21:26:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Michael is absolutely amazing. He is so passionate and open-minded which makes his class fantastic. He genuinely cares about his students and he is very understanding of the stressful life of university students. Great class and great prof.
+
+--- Rating #19 ---
+Class: EDUC100W
+Date: 2014-12-26 02:14:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+nice profs
+
+--- Rating #20 ---
+Class: EDUC100W
+Date: 2014-12-01 20:48:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Greatest teacher ever. If only all professors at SFU were like him.

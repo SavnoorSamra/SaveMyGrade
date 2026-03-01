@@ -1,0 +1,11 @@
+Professor: Joseph Waugh
+Professor Legacy ID: 2441271
+Professor ID: VGVhY2hlci0yNDQxMjcx
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

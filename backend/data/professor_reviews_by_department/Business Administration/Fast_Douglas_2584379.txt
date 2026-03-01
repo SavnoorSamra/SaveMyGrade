@@ -1,0 +1,102 @@
+Professor: Douglas Fast
+Professor Legacy ID: 2584379
+Professor ID: VGVhY2hlci0yNTg0Mzc5
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.4
+Avg Difficulty: 2.3
+Num Ratings: 7
+Would Take Again Percent: 57.1429
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: BUS240
+Date: 2025-10-08 07:50:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great prof and very free class. This class definitely falls into the stereotype of business majors and colouring books as we were asked to create a handshake to present, draw circles on paper, look at optical illusions, and walk around campus for 30 min through the lens of someone else. Lecture also ends 2 hours early usually!
+
+--- Rating #2 ---
+Class: BUS240
+Date: 2025-08-19 08:58:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great prof, but just teaching the wrong class. Lectures were useless by mid-semester, but still have to go to fill out attendance surveys. Grade is largely based on work with your (randomized) group. TAs don't grade consistently, which made group assignments even more frustrating. Class avg was in the 80s; best to do near 100% on non-group work.
+
+--- Rating #3 ---
+Class: BUS240
+Date: 2025-08-15 08:21:05 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Doug was a good teacher with a passion for teaching his students. I will say his lectures didn't seem to be useful towards the overall course (3 hour lectures) - other than required attendance at the beginning. The TA's often marked well or unfair (no in the middle). 90% group based assignments so If your group is poor, good luck. Heavily scaled.
+
+--- Rating #4 ---
+Class: BUS240
+Date: 2025-05-19 23:01:44 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+His teaching style was inscrutable, luckily I managed to go to Burnaby's section before the deadline and that instructor was so good!
+
+--- Rating #5 ---
+Class: BUS477
+Date: 2024-01-04 17:03:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Doug is a nice guy and seems like he truly wants to help his students with their business ideas. However, his grading is extremely arbitrary and can often be very confusing.
+
+--- Rating #6 ---
+Class: BUS338
+Date: 2020-05-28 15:09:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The class was quite easy. Although, make sure everyone is graded equally for final project. If not, Doug will skew the marks meaning if youre group got an A, but you did not get an equal mark, you may only get a B. There was a span of 1.5 letter grades across our group project mark. This was not clear before hand.
+
+--- Rating #7 ---
+Class: BUS338
+Date: 2020-05-18 00:46:10 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is an alright prof, but he's not very clear with the grading criteria. The class involves working with a real world company/ client which is a bit intimidating, but there were only very little guidance given. The pop quizzes aren't very bad, they are just from the slides, just make sure to be in class on time.

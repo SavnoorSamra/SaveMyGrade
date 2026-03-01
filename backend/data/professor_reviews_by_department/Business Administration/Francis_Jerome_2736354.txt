@@ -1,0 +1,50 @@
+Professor: Jerome Francis
+Professor Legacy ID: 2736354
+Professor ID: VGVhY2hlci0yNzM2MzU0
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 1.3
+Avg Difficulty: 4.3
+Num Ratings: 3
+Would Take Again Percent: 0
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: BUS217W
+Date: 2022-11-24 19:07:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Jerome is one of those teachers that doesn't believe a 100% grade is possible. The assignment feedback is poor quality, and the grading is based more on formatting rather then the written content itself. The lectures are very boring and are hard to watch even if you really try to.
+
+--- Rating #2 ---
+Class: BUS217W
+Date: 2022-08-19 05:44:30 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Doesn't post grade averages for assignments which sucks. Course was very lecture heavy. He is by far the most unreasonably difficult marker I have had at SFU. I would not recommend taking BUS217W with Jerome unless you want to work extremely hard get a decent looking grade% and somehow end up with an awful letter grade.
+
+--- Rating #3 ---
+Class: BUS217W
+Date: 2021-12-22 02:50:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Extremely unreasonable grader. Avoid if possible.

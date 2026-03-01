@@ -1,0 +1,271 @@
+Professor: Nadia Nosrati
+Professor Legacy ID: 1213477
+Professor ID: VGVhY2hlci0xMjEzNDc3
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4.3
+Avg Difficulty: 2.5
+Num Ratings: 65
+Would Take Again Percent: 89.7436
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH100
+Date: 2025-12-18 06:27:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+From her video lectures to the in-class quizzes and discussions, Nadia wants you to be fully engaged with the math material &#8211; and she makes sure of that in a clear and beneficial way.
+
+--- Rating #2 ---
+Class: MATH151
+Date: 2025-10-28 04:03:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is one of my favorite professors so far at SFU. Love her lectures and grading criteria.
+
+--- Rating #3 ---
+Class: MATH100
+Date: 2025-09-18 21:27:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best instructor in FIC so far
+
+--- Rating #4 ---
+Class: MATH151
+Date: 2025-03-29 03:55:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Really great person and teacher
+
+--- Rating #5 ---
+Class: MATH100
+Date: 2025-01-14 03:06:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Her lectures are very clear!
+
+--- Rating #6 ---
+Class: MATH100
+Date: 2025-01-06 04:53:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing math prof! Her explanation videos were easy to follow, and if you still didn't understand she always saves time in class for questions, provided lots of additional resources to help you learn, and most of her lessons are spent working through examples to help you learn. Try to get her for MATH 100 and/or 151!!
+
+--- Rating #7 ---
+Class: MATH100
+Date: 2025-01-05 08:29:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is an amazing professor. The lectures are clear, well-organized, and easy to follow. She is always patient and ready to help with any questions.
+
+--- Rating #8 ---
+Class: MATH151
+Date: 2024-04-30 18:32:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is one of the best profs of Maths. She has great lectures and if you attend attentively, you will grasp everything easily and wouldn't need outside help. She even solves every doubt in class and even the midterm papers and quizzes. She gave out printed notes and materials to help even more. She is the best, don't think twice.
+
+--- Rating #9 ---
+Class: MATH100
+Date: 2024-04-20 20:08:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+10/10 recommended. Although there were quizzes every week, but it's very easy and a great chance for you to revise for the lessons, so you guys wont be struggling that much in mid terms or finals ;D
+
+--- Rating #10 ---
+Class: MATH100
+Date: 2024-03-24 00:58:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Recommend if you are in FIC first or second term. One of the best teacher in my life!!!
+
+--- Rating #11 ---
+Class: MATH100
+Date: 2024-01-08 05:04:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Better read from book. unhelpful.
+
+--- Rating #12 ---
+Class: MATH100
+Date: 2023-12-11 23:05:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Math100 is a very basic math course for Year 1 student. Each class you have a small quiz, I guarantee that you will get at least 80%  if you listen while shes teaching. The two midterm and final exams are easy as long as you know all the knowledge in MATH100. A very lovely teacher and she is always willing to help.
+
+--- Rating #13 ---
+Class: MATH100
+Date: 2022-03-31 19:09:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+An awesome teacher, made me fall in love with math. A 100% recommended teacher. Easy credits in math. Very understable lectures.
+
+--- Rating #14 ---
+Class: MATH100
+Date: 2021-08-21 04:15:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Nadia teaches good. I have taken this course as a IS1 course. So , it was really very fast and lots of work to do every week .We had to do 60-70 questions in 2 days and she selects 4 questions to grade from the whole 60-70questions . The quizzes are easy if we listen to the classes and revise all topics.I used textbook just to complete the homework
+
+--- Rating #15 ---
+Class: MATH100
+Date: 2021-05-25 14:52:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The professor gave lots of homework. Each class assignment will have at least 50 to 70 problems that you have to work on in the textbook. In addition, there are 10 additional questions in a single PDF. There are only about 2 days to finish it. Worst of all, she only chooses four questions in your homework to determine your grades.
+
+--- Rating #16 ---
+Class: MATH100
+Date: 2021-05-01 00:35:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: True
+Comment:
+She is very good at teaching, very polite and friendly. As due to pandemic FIC is conducting online classes that's why lectures are pre recorded.
+
+--- Rating #17 ---
+Class: MATH100
+Date: 2021-04-28 05:20:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+she is the best teacher, she always has 3 office hours a week. Her assignment, quiz, and exam were easy as well. You just need to practice on her homework and focus on the lecture slide and then you will be fine. She very nice when you ask questions and mark easy
+
+--- Rating #18 ---
+Class: MATH100
+Date: 2021-03-02 05:14:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Ver accessible regardless of online classes, if you follow her lectures and visit her office hours you will get a good grade on this course.
+
+--- Rating #19 ---
+Class: MATH100
+Date: 2020-11-16 17:57:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+The best math teacher I have had in a long time. Her online class lectures were clear and explained things in detail and she was available for office hours three times a week which is more then any other proffs. Super helpful and nice during office hours and knows how to explain things to get you to figure it out yourself without making you sweat.
+
+--- Rating #20 ---
+Class: MATH100
+Date: 2020-11-14 06:32:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She has the Best online class Structure! very caring and organized! You will love her if you take her as your instructor! You have to work hard to get a good grade thought!

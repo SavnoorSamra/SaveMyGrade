@@ -1,0 +1,279 @@
+Professor: Lisa Ricci
+Professor Legacy ID: 3112043
+Professor ID: VGVhY2hlci0zMTEyMDQz
+Department (CSV): Accounting
+Department (Fetched): Accounting
+Avg Rating: 1.9
+Avg Difficulty: 3.7
+Num Ratings: 26
+Would Take Again Percent: 23.0769
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS-322
+Date: 2026-01-28 04:29:18 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Group presentation component required coordination that was challenging. Instructor offered extra office hours before the final which were very helpful for understanding course material. Exam was comprehensive but appropriate for an advanced accounting course. Would recommend attending office hours.
+
+--- Rating #2 ---
+Class: BUS-322
+Date: 2026-01-28 04:10:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I appreciated the attempts for interactive activities, but, they didn't work in a class of 70. Excel walkthroughs were helpful but challenging in the small room. Glad there were lots of solutions to practice questions (all excel files in class had solution tabs and there were PDFs in every unit with solutions to all the even-numbered questions)
+
+--- Rating #3 ---
+Class: BUS-322
+Date: 2026-01-26 05:34:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Lisa provides practice problems with no solutions. To check our work, she recommends forming study groups and comparing answers with our peers. She does not spend much time teaching, instead students watch sustainability themed group projects and do random activities. Exam questions were were unexpected: 3 hours + take home portion.
+
+--- Rating #4 ---
+Class: BUS-322
+Date: 2026-01-14 17:02:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I see students making claims about the teaching capacity of the professor which i think would have been a lot better in a smaller class and without the project, which she did not include by choice.  BCIT and Langara friends said nothing but great things. Attended her office hours and found her very helpful in both course and career advice.
+
+--- Rating #5 ---
+Class: BUS-322
+Date: 2026-01-14 16:53:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+One of few Profs at Beedie I know actually has experience with CPA program. Some challenging critical thinking questions during class and as part of the exams but most of the main exam questions were nearly identical to the spreadsheet questions we were given in class. Do the Excel questions you are given in class and you'll be fine.
+
+--- Rating #6 ---
+Class: BUS-322
+Date: 2025-09-09 21:20:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I see a lot of people switching their reviews after grades were released. As someone who got an A+ in the course (solely due to the curve), I still think reviews should be based on the teaching capacity of the professor, not your individual grade. Lisa was a disorganized and rude professor, she overworked us and provided no help or resources.
+
+--- Rating #7 ---
+Class: BUS-322
+Date: 2025-08-26 02:01:31 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Nice prof, kind but not very organized and heavy on sustainability.
+
+No homework, 1 group paper (pick members wisely), and 2 textbooks. 
+
+Concepts are easy but lots of self-learning. 
+
+Tests are dense and tightly timed. 
+
+Be direct when asking questions and ask follow-ups&#8212;she tends to go on tangents.
+
+--- Rating #8 ---
+Class: BUS-322
+Date: 2025-08-23 07:11:22 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Final grade came out, and I did better than expected. Forgive me, Lisa. Perhaps I was too harsh.
+
+--- Rating #9 ---
+Class: BUS-322
+Date: 2025-08-23 07:07:41 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+I know there is a lot of negative comments about Lisa, but most of them came ahead of the final grades. I came out of the class with a newfound appreciation for sustainability reporting accounting. The problem is that this class is an intermediate managerial accounting course first, and I had trouble finding the synergies between the two concepts.
+
+--- Rating #10 ---
+Class: BUS-322
+Date: 2025-08-23 03:26:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+After seeing my grade I take back my previous 1 star. Lisa is coolios, just not the typical structure of an accounting course you'd expect. However, the difficulty of the content isn't heavy compared to other accounting courses. Usually I get Cs in accounting, but dropped an A- today... so seems like course is doable in the end! Practice & engage!
+
+--- Rating #11 ---
+Class: BUS-322
+Date: 2025-08-19 19:41:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lisa wasn't a bad prof, but the course was just not for me. She advised everyone to get Pearson (~$110) which I did, but wasn't that useful for the exams (both midterm and final). Better to study first using the handouts she gives and use free trial of Pearson. She mainly breezes through the slides and class activities rather managerial problems
+
+--- Rating #12 ---
+Class: BUS-322
+Date: 2025-08-17 21:44:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is an excellent instructor. If you have questions, attend office hours; she explains everything clearly. To those with concerns, I'd suggest trying her office hours first.
+
+--- Rating #13 ---
+Class: BUS-322
+Date: 2025-08-17 02:16:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This is the first time I haven't finished an exam. Final was impossible to do in 3hrs and even included a take-home section. Haven't taken 312 and was put at a major disadvantage when she jumped into capital budgeting Qs w/o explaining (most important topic btw). Too many projects, 30-40 min seminars were stupid and ate up valuable class time 0/10
+
+--- Rating #14 ---
+Class: BUS-322
+Date: 2025-08-17 01:53:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Final exam was insane. 4 just brutally lengthy questions, including one where the question itself was 4 pages long, and the required calculations/answers were split up into ~20 parts. Majority of people didn't even finish. She yelled at a student for asking to use the bathroom. Would be surprised if the average was above 40%.
+
+--- Rating #15 ---
+Class: BUS-322
+Date: 2025-08-16 06:13:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Nice lady, but terrible prof. Instead of teaching the class normally, she decides to turn everything into an interactive adventure game, which results in no learning. Tons of assignments, very extensive projects, and exams are brutal to study for. Spends 99% of the time talking about sustainability even though it makes up 5-10% of the exam.
+
+--- Rating #16 ---
+Class: BUS-322
+Date: 2025-08-16 04:05:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Unorganized, and does not grade our work on time. Has made the exams harder than she said they would be, and was not helpful in terms of exam prep. The course concepts are not that hard with the work, but the exams do not reflect what's learned.
+
+--- Rating #17 ---
+Class: BUS-322
+Date: 2025-08-15 20:25:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Absolutely worst prof in Beedie. We've covered 0 topic in class, solved 0 problems, only talked about sustainability. No solutions to practice questions. Literally nobody in class is following the course. Avoid at all costs
+
+--- Rating #18 ---
+Class: BUS-322
+Date: 2025-08-14 20:40:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Not a good idea....
+
+--- Rating #19 ---
+Class: BUS-322
+Date: 2025-08-14 01:13:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The worst Prof I've come across ever. She teaches nothing related to the course or the exams in class. Does not give out solutions to practice questions as she wants you to figure out the correct answers by working with your peers, but would you ever know if the answer is correct... Talked more about sustainability than accounting.
+
+--- Rating #20 ---
+Class: BUS-322
+Date: 2025-08-13 23:48:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+DO NOT TAKE HER!!!

@@ -1,0 +1,232 @@
+Professor: John McDonald
+Professor Legacy ID: 93957
+Professor ID: VGVhY2hlci05Mzk1Nw==
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 4.1
+Avg Difficulty: 2.8
+Num Ratings: 17
+Would Take Again Percent: 83.3333
+
+Ratings Count Returned: 17
+
+--- Rating #1 ---
+Class: PSYC386
+Date: 2021-01-04 00:02:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+John is a real gem. Despite hardships in his life this sem, he carried the class very well. He really wants us to do well and will help us along the way. His lectures are clear and his tests are just as clear. There's no tricking us in those tests, he tests on the things he stresses. The online lab also taught us how to create ERP visualizations.
+
+--- Rating #2 ---
+Class: PSYC386
+Date: 2020-12-15 23:22:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I took this fall 2020 and even though online, John made sure this class was very enjoyable. He is an extremely fair maker and is always looking to help the students when needed. Even though the content of the course was not very interesting for me, he made it bearable to get through. I would 100% take a course again with him. He is an amazing prof!
+
+--- Rating #3 ---
+Class: PSYC386
+Date: 2020-12-12 18:42:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I took this Fall 2019 in person and John was lovely. He had a lot of personal stuff going on but was still accessible for help. This course was super fun and if you ever get to take it in person I highly recommend. Make sure you study hard for the exams though because sometimes the questions can be quite tricky.
+
+--- Rating #4 ---
+Class: PSYC386
+Date: 2020-12-03 22:22:16 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+John was a nice guy, marked very fair on exams. Outline is misleading in that you talk about the brain 5% of the time, the rest is technical aspects about EEG. Assignments are bad and TA marks hard. If you don't like EEG this will be the least interesting class of your life. Pro is you can watch lectures on 2x speed so cuts down lecture time.
+
+--- Rating #5 ---
+Class: PSYC386
+Date: 2019-01-04 07:19:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+John's one of the nicest profs at SFU and genuinely cares about teaching, alongside carrying out research! His lectures are extremely fun and he's very witty throughout. Would recommend taking this course with him as you'd learn a lot about how EEG research is conducted and the labs are very interactive!
+
+--- Rating #6 ---
+Class: PSYC386
+Date: 2018-12-26 06:47:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+great prof who is really passionate about EEG. he makes lectures and labs interesting, and is always available for extra help. attending lecture is crucial for understanding the material and doing well on exams/assignments. would definitely take a class with john again!
+
+--- Rating #7 ---
+Class: PSYC386
+Date: 2011-04-05 20:47:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+John is extremely helpful, knowledgeable and has a quirky sense of humor that makes class enjoyable. He is easy to approach and marks fairly. Would absolutely take another class with him in the future.
+
+--- Rating #8 ---
+Class: PYSC382
+Date: 2010-12-03 17:02:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Interesting material. Main focus is on his own research and his methods and brings examples of his work to lectures. First midterm was cake but second was a bit tougher. Assignments are easy and iclicker questions are mandatory. Great prof and I wish I could take his lab session.
+
+--- Rating #9 ---
+Class: PSYCH382
+Date: 2009-04-12 23:59:56 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He gets caught up in technical details and seems more interested in methods than in theories and questions or their relevance to anything. Doesn't seem interested in psychology or in teaching.  Exams and papers seem easy enough, and grades are not harsh but they are arbitrary and whimsical. Can't tell you what the right answer was or where you lost
+
+--- Rating #10 ---
+Class: PSYC382
+Date: 2005-12-18 22:55:48 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He's a good teacher if cognitive neuroscience is your thing
+
+--- Rating #11 ---
+Class: PSYC382
+Date: 2004-04-24 02:10:43 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Prof is really nice and easy going but very disorganized
+
+--- Rating #12 ---
+Class: PYSC335
+Date: 2003-07-06 16:55:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+The course is too boring so stay away but McDonald doesnt seem like a bad guy. The exams arent too bad.
+
+--- Rating #13 ---
+Class: PSYC382
+Date: 2002-12-26 14:36:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #14 ---
+Class: PSYC382
+Date: 2002-12-20 00:59:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+very helpful and willing to spend the time to go over all questions on the exam
+
+--- Rating #15 ---
+Class: PSYC382
+Date: 2002-12-19 18:17:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #16 ---
+Class: PSYC382
+Date: 2002-12-15 13:31:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #17 ---
+Class: PSYC382
+Date: 2002-12-14 21:00:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments

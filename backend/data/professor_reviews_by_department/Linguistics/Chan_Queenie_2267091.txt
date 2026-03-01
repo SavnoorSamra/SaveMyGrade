@@ -1,0 +1,11 @@
+Professor: Queenie Chan
+Professor Legacy ID: 2267091
+Professor ID: VGVhY2hlci0yMjY3MDkx
+Department (CSV): Linguistics
+Department (Fetched): Linguistics
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

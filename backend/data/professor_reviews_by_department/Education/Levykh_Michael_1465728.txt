@@ -1,0 +1,24 @@
+Professor: Michael Levykh
+Professor Legacy ID: 1465728
+Professor ID: VGVhY2hlci0xNDY1NzI4
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: EDUC240
+Date: 2010-10-01 07:27:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+This is an interesting and totally interactive class.  Prof is a disciple of Vygotsky and the whole focus is on Socio cultural learning theory. The classes are very different from standard lectures.  Follow along and an A is guaranteed. Prof is very kind and non-judgemental.

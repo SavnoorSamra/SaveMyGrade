@@ -1,0 +1,11 @@
+Professor: Sam Wang
+Professor Legacy ID: 2351642
+Professor ID: VGVhY2hlci0yMzUxNjQy
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

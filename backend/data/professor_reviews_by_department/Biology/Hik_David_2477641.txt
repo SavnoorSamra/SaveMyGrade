@@ -1,0 +1,50 @@
+Professor: David Hik
+Professor Legacy ID: 2477641
+Professor ID: VGVhY2hlci0yNDc3NjQx
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 4.7
+Avg Difficulty: 3.3
+Num Ratings: 3
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: SCI190
+Date: 2020-08-16 06:09:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Great prof in the weird covid circumstances. David really cares about his students. You can tell he's passionate about the course content and wants students to succeed. Assignments were fair and exams were moderate. 10/10 would take another class with David again!
+
+--- Rating #2 ---
+Class: BISC366
+Date: 2019-04-17 18:14:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great, but he often cancels class. Very disorganized but hilarious.
+
+--- Rating #3 ---
+Class: BISC366
+Date: 2019-04-09 22:42:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Made Bisc366 a real joy. Super approachable, very friendly, clear grading criteria and interesting lectures. Relates material to real day stuff that's happening. Encourages questions. Powerpoints are clear and exams are based off of them. Gives advice on potential exam questions. Highly recommended!!

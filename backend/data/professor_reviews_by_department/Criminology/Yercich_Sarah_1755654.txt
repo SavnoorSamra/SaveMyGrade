@@ -1,0 +1,271 @@
+Professor: Sarah Yercich
+Professor Legacy ID: 1755654
+Professor ID: VGVhY2hlci0xNzU1NjU0
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 4.2
+Avg Difficulty: 3.1
+Num Ratings: 139
+Would Take Again Percent: 70.8333
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CRIM101
+Date: 2022-06-29 18:23:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Sarah is a good teacher, but her classes were more discussion-based than theory, and in the exam, she demanded the theories we did not see in class. She gives a lot of work, but the papers are interesting, and there is a group project.
+
+--- Rating #2 ---
+Class: CRIM101
+Date: 2021-02-20 02:26:15 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Her class requires a significant amount of reading each week along with weekly discussion posts and quizzes. The assignments are easy to understand and exams are fair, nothing is a surprise. She was very accommodating with COVID and did not want to cause too much stress.
+
+--- Rating #3 ---
+Class: CRIM101
+Date: 2020-12-18 03:39:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Sarah is a kind teacher and cares about her students especially during these covid times. However, the lectures are boring. Her midterm and final are take home but it very time confusing.
+
+--- Rating #4 ---
+Class: CRIM101
+Date: 2020-12-12 23:14:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Her exams are write 8 essays with in-text citations in 72 hours. I've spent two straight days on it and am still not finished. Even if you know the answers you have to go back and search deep into the text to properly cite it with page numbers. Lectures are boring and don't even cover most of the exam content. Get ready to read an ENTIRE textbook
+
+--- Rating #5 ---
+Class: CRIM101
+Date: 2020-12-12 23:09:03 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Take home exams but they're very difficult. Too many instructions but also too broad for length in answers. Questions ask things she never covered and are hard if not impossible to find in the text.
+
+--- Rating #6 ---
+Class: CRIM202
+Date: 2020-11-14 01:42:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Sarah is the best prof I've had! She treats us like humans and understands our personal stuff. During the pandemic she's been the most understanding and caring person in my life (not just prof). The content is interesting and easy to understand. This class changed how I look at a lot of things in the social world. She's also fair and reasonable.
+
+--- Rating #7 ---
+Class: CRIM101
+Date: 2020-11-01 01:57:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+We have a paper due tomorrow and her instructions are horrible and confusing. The topic has nothing to do with our lectures so we need to dig through the textbook for something relevant. She clearly has no consideration for our time or the fact that this isn't our only class OR THE FACT THAT THERES A PANDEMIC GOING ON AND WE ARE ALL VERY STRESSED!!
+
+--- Rating #8 ---
+Class: CRIM101
+Date: 2020-11-01 01:51:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+never hated a prof more. She has made learning during COVID so much harder than it should be. Her lectures are so boring and don't even give the information you need. Not to mention the endless distractions from her pets even tho it's prerecorded and she could easily edit it out but she's clearly too lazy. She has made this a horrible experience
+
+--- Rating #9 ---
+Class: CRIM101
+Date: 2020-10-31 22:21:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Worst prof of my first year. Her lectures are very boring and not specific. She makes you teach yourself by reading the textbook. She never gave clear criteria regarding her assignments. Especially given the COVID circumstance, she did not try to accommodate and instead made everything more difficult. I would highly suggest avoiding her classes.
+
+--- Rating #10 ---
+Class: CRIM101
+Date: 2020-10-31 22:21:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Worst prof I had during my first year. She made learning at home during COVID exceptionally hard. Did not give clear criteria for papers, quizzes, etc. and expected us to just figure it out. Quizzes were marked way too hard for an intro class and she gives a lot of 0s. Her lectures are unclear and tedious. Avoid this class at all costs.
+
+--- Rating #11 ---
+Class: CRIM317
+Date: 2020-08-27 17:33:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I really enjoyed this class and the prof. The social and legal dynamics of sex work were easy to understand the way Sara taught them. There were a lot of readings, but the readings were interesting and expected for a 3rd year legal class. The assignments were straightforward and interesting. Sara is a great teacher and all around kind person.
+
+--- Rating #12 ---
+Class: CRIM317
+Date: 2020-08-21 07:34:44 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I can tell she is a super nice person, but learning in this class feels like a huge waste of time. There were very few moments when you feel like you are learning something new, and these moments must be navigated through a unreasonable amount of reading. Exam questions were too broad and feels too overwhelming for it's purpose.
+
+--- Rating #13 ---
+Class: CRIM317
+Date: 2020-08-18 00:53:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The exact prof you want and need during COVID. Sarah was the first ever prof to ever reach out when I was struggling and help even when I didn't request it. There are over 100 students in the class yet she noticed I was struggling. She contacted me individually to see if I was okay. She is a great teacher and more importantly really awesome person.
+
+--- Rating #14 ---
+Class: CRIM317
+Date: 2020-08-17 21:07:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+It gets confusing sometimes when the materials she provide make contradictions in very important areas. Sometimes it feels as if you are being subjected to comply to extreme leftist dogma. After all, the whole course can be shortly summed up with : stigma, decriminalization, violence, harm, Bill-C36. There's very little to gain from this class.
+
+--- Rating #15 ---
+Class: CRIM317
+Date: 2020-08-17 15:57:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very interesting content (eye opening) and spectacular prof. Loved everything about this class. Sarah was also the most compassionate and understanding prof Ive ever met. This term was the hardest of my life and she unquestioningly supported me the whole time.
+
+--- Rating #16 ---
+Class: CRIM101
+Date: 2020-08-17 15:23:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Sarah was understanding of student struggles during the pandemic, often cancelling quizzes to allow us for more time complete more important assignments. She gives clear grading criteria and if you complete all the readings/lectures, you can get an A+. Make sure to note page numbers for info found in the textbook, as you'll need it for the exams.
+
+--- Rating #17 ---
+Class: CRIM317
+Date: 2020-08-16 21:16:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+This class has applied a considerable degree of self mystification restructuring simple ideas learned from intro level Crim courses, and representing it as if it satisfies learning requirement of a upper division course. It is safe for me to assert that this class has been the biggest waste of time and dishonored social science's importance.
+
+--- Rating #18 ---
+Class: CRIM317
+Date: 2020-08-13 17:18:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Easily one of the best teachers I've had. She explains everything she is teaching in detail, and she is very clear about what she expects when it comes to tests and papers. There is a lot more work in her courses but if you put in effort you will achieve a good grade.
+
+--- Rating #19 ---
+Class: CRIM317
+Date: 2020-08-13 17:06:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great class and prof! Easy as long as you keep up with the readings and lectures. Class showed a holistic picture of how law and gender intertwine with all aspects of sex work. Paper and midterm were easy. Not a hard class. Prof is also incredible.
+
+--- Rating #20 ---
+Class: CRIM317
+Date: 2020-08-13 07:02:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+It would be helpful to prep for exams if we were told that the format would be essay questions requiring full APA citations ahead of time. Instead we were told this merely days prior to the exam. We were also only given 72 hours to complete this &quot;exam&quot; if you could call it that. Lectures were extremely repetitive and tedious and unclear.

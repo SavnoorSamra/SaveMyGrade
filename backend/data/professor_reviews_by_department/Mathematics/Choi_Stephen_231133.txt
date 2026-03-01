@@ -1,0 +1,271 @@
+Professor: Stephen Choi
+Professor Legacy ID: 231133
+Professor ID: VGVhY2hlci0yMzExMzM=
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.6
+Avg Difficulty: 2.6
+Num Ratings: 189
+Would Take Again Percent: 73.6842
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH154
+Date: 2025-12-20 07:27:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor, please teach Math 251, I am scared to take with any other professor but you :(
+
+--- Rating #2 ---
+Class: MATH342
+Date: 2025-11-05 03:37:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I enjoyed number theory with Prof Choi. The course intersects with his research area, so you can tell how passionate he is about the material. Also pretty approachable. Reasonable expectations and workload.
+
+--- Rating #3 ---
+Class: MATH260
+Date: 2025-08-21 10:09:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Worst professor! Do not take any courses with him or you will regret. His accent so difficult to understand and his writing so messy during the lecture. There are many other math professors way better than him. AVOID!!
+
+--- Rating #4 ---
+Class: MATH260
+Date: 2025-08-21 06:08:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Lectures were really clear and he provided skeleton notes that made it easy to follow along. Exams were quite fair, though the final was very long (but very similar to the practice). As long as you put in plenty of practice and do all the HW you should do fine
+
+--- Rating #5 ---
+Class: MATH260
+Date: 2025-08-19 22:31:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Hard to understand and doesnt care about what hes teaching...
+
+--- Rating #6 ---
+Class: MATH260
+Date: 2025-08-03 03:30:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He came across as pretty stern, but he's actually very caring and willing to help. His quizzes and exams are all VERY fair and he tells you exactly what to expect in class. For the exams, go over his review guide and practice tests (which he provides), the questions on the actual exam are nearly identical.
+
+--- Rating #7 ---
+Class: MATH260
+Date: 2025-08-02 23:32:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+easily the best math prof I've ever had. there is a reason the lecture hall is almost always is full. he is strict, but definitely respected. just go to every class and you'll understand the content. stephen has such a good way of explaining the content that I don't have to rely on youtube videos to learn
+
+--- Rating #8 ---
+Class: MATH254
+Date: 2025-06-21 07:20:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+This is for MATH 260. Choi is a really good prof. His accent is hard to understand at first, but once you get used to it, his explanations are actually great. Definitely in the upper tier of math profs I've had so far! Quizzes are very fair, seems to care for students' success.
+
+--- Rating #9 ---
+Class: math152
+Date: 2024-11-21 08:51:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Accent was difficult to understand, and the lectures were practically useless. Examinations and quizzes are fair, so if you do the textbook work and other practice assignments provided you will be good to go, but as a professsor don't expect much in terms of lectures, and be prepared to put in some work and teach yourself throguh the course.
+
+--- Rating #10 ---
+Class: MATH242
+Date: 2024-11-02 07:04:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He reviews midterms and finals beforehand so make sure to attend those. He is a nice guy with clear expectations and is always willing to help struggling students.
+
+--- Rating #11 ---
+Class: MATH242
+Date: 2024-10-11 23:12:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Good prof for this proof-heavy course. Redo examples and practice theorems - his review sessions provide helpful guidance. Also found Unstuckstudy useful for exam prep alongside the textbook.
+
+--- Rating #12 ---
+Class: math152
+Date: 2024-08-21 12:46:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+accent is a bit tough to understand but amazing professor overall. fair/easy tests and curves crazy
+
+--- Rating #13 ---
+Class: math152
+Date: 2024-08-17 18:06:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The lectures were clear and the quizzes and exams were fair and in the same level as the things he covered in class so there was no surprising and hard questions. The sample midterms and finals were the most helpful.The grading was also fair. He helped me a lot during office hours patiently. Overall I'd say he's one of the best math profs I've had
+
+--- Rating #14 ---
+Class: math152
+Date: 2024-08-13 14:20:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Stephen Choi is a kind hearted guy who was always after class to answer all my dumb questions. Stephen Choi's accent is very hard to understand and his lectures are very hit or miss in terms of quality. I wouldn't recommend going to class and would suggest learning everything yourself to practice, practice, practice.
+
+--- Rating #15 ---
+Class: MATH419
+Date: 2024-08-12 02:31:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Fantastic professor. VERY organized. Very clear on grading scheme. Gives a full list of what to know/memorize for the final, which I studied and did very well on the final. Would absolutely take a class with him again. Very thick Chinese accent though.
+
+--- Rating #16 ---
+Class: math152
+Date: 2024-07-26 18:37:06 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+very mid. i dont like how he hides class averages. he seems like a nice guy, but he rambles on a lot and sometimes makes solving problems seem harder than what it is. the course structure (50% final) is also a huge downside.
+
+--- Rating #17 ---
+Class: math152
+Date: 2024-07-13 17:32:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+he's very caring about students.. gives hints during quizzes. NO FORMULA SHEET THOUGH
+
+--- Rating #18 ---
+Class: MATH242
+Date: 2024-04-26 23:33:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Good prof. Midterms & Final were fair. HW can be tricky but doable. A lot to remember as course goes on. Keep track of definitions & theorems. Before exams he does a review, stay faithful to it, hints to what theorems u should know proof for. Redo ex's covered in class and HW questions. TA's don't have a marking scheme, pick TA that marks easiest.
+
+--- Rating #19 ---
+Class: MATH254
+Date: 2023-08-19 00:20:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Fair lectures, but he sometimes goes too fast or writes too messily. In exam review lectures, he tells you exactly what he expects you to know on the exam, and will only test on stuff mentioned in the review lectures. The midterms were fair in difficulty, but the final was hard. Some of the quizzes may blindside you, so beware of those.
+
+--- Rating #20 ---
+Class: MATH157
+Date: 2022-09-17 05:55:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This man has taught 157 so many times it's crazy. Failed the first time I took it (My fault, I didn't study well). So revise the IQ, OQ, and the practice exams well because the same question may come in the midterms or final.

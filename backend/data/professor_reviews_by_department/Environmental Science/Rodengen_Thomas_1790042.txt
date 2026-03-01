@@ -1,0 +1,128 @@
+Professor: Thomas Rodengen
+Professor Legacy ID: 1790042
+Professor ID: VGVhY2hlci0xNzkwMDQy
+Department (CSV): Environmental Science
+Department (Fetched): Environmental Science
+Avg Rating: 4.6
+Avg Difficulty: 1.4
+Num Ratings: 9
+Would Take Again Percent: -1
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: EVSC100
+Date: 2014-04-05 19:04:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Very cool prof! Very passionate about his teaching. He makes this course interesting. The midterm was super easy, but final was a little difficult but fair (there are bonus questions). Although he provides every ppt from class, you would still want to listen his lecture. He is very friendly that he would like to help you if you have any questions.
+
+--- Rating #2 ---
+Class: EVSC100
+Date: 2014-04-02 16:16:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+His lectures are very informative and not boring at all. Don't buy the book, you won't use it. Best professor!
+
+--- Rating #3 ---
+Class: EVSC100
+Date: 2014-02-28 12:50:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+very cool dude. funny and really likable, even with the option of listening to his recorded lectures online you still want to go be there in person because he makes the topics engaging... also he makes poetry in class
+
+--- Rating #4 ---
+Class: EVSC100
+Date: 2014-02-13 22:05:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: N
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Nicest and most engaging prof I have ever had. His lectures were entertaining and the tutorials were fun. Definitely a GPA booster, with minimal studying, just stick to reviewing his slides! I would definitely recommend his class if you (or aren't) interested in the environment
+
+--- Rating #5 ---
+Class: EVSC100
+Date: 2013-12-08 00:55:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great Professor, very passionate about his work. Lectures were interesting and the information was easy to retain. Definitely a GPA Booster if some level of effort is made.
+
+--- Rating #6 ---
+Class: EVSC100
+Date: 2013-11-29 21:23:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is laidback, engaging and passionate about what he teaches.I'd say that he has to be one of the best and most interesting profs I've had so far. This class is a definite GPA booster for those who put in even the slightest bit of effort, and the midterm and final are more than fair. :)
+
+--- Rating #7 ---
+Class: EVSC100
+Date: 2013-07-28 18:42:15 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+One of the best profs at SFU!
+
+--- Rating #8 ---
+Class: EVSC100
+Date: 2013-01-08 16:22:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+So far the best teacher I ever had. Very motivated and passionate about the topic he teaches. Awesome dude!
+
+--- Rating #9 ---
+Class: EVSC100
+Date: 2013-01-07 03:38:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+The prof gives us the online version of textbook which is good. The exam is hard to get the mark.

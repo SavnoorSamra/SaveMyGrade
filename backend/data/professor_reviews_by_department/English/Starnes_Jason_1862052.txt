@@ -1,0 +1,115 @@
+Professor: Jason Starnes
+Professor Legacy ID: 1862052
+Professor ID: VGVhY2hlci0xODYyMDUy
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 3.9
+Avg Difficulty: 3
+Num Ratings: 8
+Would Take Again Percent: 80
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: ENGL112
+Date: 2022-08-10 00:49:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He really cares about his students. His feedback is good and I think is really cool that he gives more group activities than other courses but also gives the choice to work on your own if you want to do it by yourself. I would definitely take this class again.
+
+--- Rating #2 ---
+Class: ENGL101W
+Date: 2021-12-09 20:42:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Worst prof ever wouldnt take again
+
+--- Rating #3 ---
+Class: ENGL112
+Date: 2021-03-07 10:13:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Jason is very caring. He gives good feedback and participation matters a lot in this class.
+
+--- Rating #4 ---
+Class: INTG100
+Date: 2017-08-30 17:17:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+This is a non-credit course, kind of a language course. But I have to say that it is not very easy to get at least B in INTG100 to pass ALC, at least for his students. Maybe because this course is not curve, and you need to get a high grade(B above is 75+ ) However, Jason's standard is not low. I got the highest mark in his two sections but only A-
+
+--- Rating #5 ---
+Class: INTG100
+Date: 2017-08-11 23:51:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+HE IS REALLY NICE. Just choose him and you won't regret.
+
+--- Rating #6 ---
+Class: ALC101
+Date: 2014-05-14 15:19:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is just awesome.
+
+--- Rating #7 ---
+Class: ALC
+Date: 2014-05-14 15:17:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is awesome. he is too good .. the way he is teaches and the way he gives instructions just awesome
+
+--- Rating #8 ---
+Class: ENGL101W
+Date: 2014-01-01 15:05:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Hard marker, unclear and instructions and slow to return assignments which feedback was needed for the proceeding assignment

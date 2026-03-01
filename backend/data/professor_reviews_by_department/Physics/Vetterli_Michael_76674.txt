@@ -1,0 +1,128 @@
+Professor: Michael Vetterli
+Professor Legacy ID: 76674
+Professor ID: VGVhY2hlci03NjY3NA==
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 4.1
+Avg Difficulty: 3.3
+Num Ratings: 9
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: PHYS125
+Date: 2024-01-04 05:18:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Really great professor who clearly cares about the content he teaches. His lectures were engaging, and he taught everything in the course very clearly. The course was challenging in the lecture content, homework, and the exams. The final exam was very challenging, but he is a generous marker, and bumped marks up a lot.
+
+--- Rating #2 ---
+Class: PHYS898
+Date: 2022-01-10 13:46:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Reviewed as a supervisor. Expects you to work 24/7, and make progress constantly. Expects perfection, and heavily discourages questions/being wrong, makes you feel dumb/judged for it. Doesn't allow a second job to help with living costs. I've been left with lasting anxiety, am in therapy, and am financially marred. DO NOT JOIN AS A GRAD STUDENT.
+
+--- Rating #3 ---
+Class: PHYS125
+Date: 2021-05-08 06:00:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Pretty great prof who seems to enjoy teaching and cares about his students. Tests are fair, and class doesn't take too much work.
+
+--- Rating #4 ---
+Class: PHYS321
+Date: 2016-04-26 13:57:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great lectures, genuinely wants students to understand and share his enthusiasm. Tests are very fair compared to assignments
+
+--- Rating #5 ---
+Class: PHYS211
+Date: 2012-12-12 03:34:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+it was a morning class so i might be wrong.. but i found his lectures very monotonous and boring. he does have complete notes posted (hand written), all he does during lectures is read them. seemed like a nice guy. the material itself is boring though.
+
+--- Rating #6 ---
+Class: PHYS321
+Date: 2012-04-29 00:10:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Solid lecturer - makes a strong effort to focus on physics rather than long mathematical gymnastics. He posts very complete lecture notes which follow the textbook closely. Exams are not easy, but fair.
+
+--- Rating #7 ---
+Class: PHY385
+Date: 2010-11-20 04:25:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Love QM with him
+
+--- Rating #8 ---
+Class: PHYS380
+Date: 2006-11-25 18:29:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Woot! Everybody in the physics department who's interested in quantum mechanics and particle physics loves this guy. He explained things quite well, and offered preprinted notes for download. I learned some good things that were unclear from my nuclear science courses, and they've been really helpful. Get this guy if you can!
+
+--- Rating #9 ---
+Class: PHYS211
+Date: 2003-09-26 20:01:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+This course content is not inately interesting but Dr. Vetterli carries it off well.  Beware of his exams though, they're murderous.

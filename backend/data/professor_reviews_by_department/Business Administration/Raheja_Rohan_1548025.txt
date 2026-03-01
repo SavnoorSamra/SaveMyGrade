@@ -1,0 +1,63 @@
+Professor: Rohan Raheja
+Professor Legacy ID: 1548025
+Professor ID: VGVhY2hlci0xNTQ4MDI1
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.3
+Avg Difficulty: 3
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: BUS321
+Date: 2013-07-11 13:49:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He seems very nice and laid back. He arranged a deal with us to start class 15min. later which is fine, however quite often he was more than 15min. late to start class, and somehow would manage to finish class 30mins. early! Though he knows his stuff, he goes through the lectures VERY quickly. If you like to learn on your own, take his class.
+
+--- Rating #2 ---
+Class: BUS254
+Date: 2012-12-12 19:23:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+One of the nicest, most approachable, funny, and kind profs I've ever had. He speeds through lectures but he ALWAYS makes time for his students if they need help, even if he is always extremely busy. His exams are tricky but very fair. You have to put a lot of time into the material to do well, but he's an amazing prof.
+
+--- Rating #3 ---
+Class: BUS254
+Date: 2011-08-24 18:37:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He is GOOOOD! I screwed up my midterm (only 67) and he really gave his students a second chance! My final grade for this course is A+. The lectures are helpful and detailed. Highly recommended!
+
+--- Rating #4 ---
+Class: BUS254
+Date: 2011-04-13 23:25:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I didn't attend any tutorials or did any homework. I crammed for one day before the midterm and one day before the final and got a C+. This guy can teach! Simple efficient clear concise, and lets you off early when he's done. I only needed a passing grade.

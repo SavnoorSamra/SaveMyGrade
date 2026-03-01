@@ -1,0 +1,193 @@
+Professor: Gurpreet Mund
+Professor Legacy ID: 1113793
+Professor ID: VGVhY2hlci0xMTEzNzkz
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 4.8
+Avg Difficulty: 2.7
+Num Ratings: 14
+Would Take Again Percent: 100
+
+Ratings Count Returned: 14
+
+--- Rating #1 ---
+Class: CHEM121
+Date: 2025-07-20 22:44:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I cannot recommend a prof more than Gary, he explains concepts really well. Midterm was fair if studied enough, final was easier. He cares about his students and wants people to genuinely learn. He never over complicated things and his test were a reflection of material taught. I wish he taught every class because I would be in every single one.
+
+--- Rating #2 ---
+Class: CHEM121
+Date: 2024-12-11 06:20:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Had Dr. Mund for the lab portion of CHEM 121. Love him with everything. He was extremely helpful and kind and friendly to engage with during labs. Even when he technically wasn't allowed to answer questions during lab writeups, he would give subtle hints because he wanted us to succeed. Would love to do labs with him as the prof again!
+
+--- Rating #3 ---
+Class: CHEM121
+Date: 2024-07-17 04:17:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Who is Gurpreet? For the blind, He is the light. If he thinks, I agree. If Gurpreet speaks, I listen. If Garry has a million fans I am one of them. if Garry has ten fans I am one of them. if Garry has only one fan then that is me. if Garry has no fans, that means I am no longer on this earth. if the world is against Garry, I am against the world
+
+--- Rating #4 ---
+Class: CHEM121
+Date: 2023-12-15 00:03:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prof. Mund is super amazing! The lab itself is pretty chill as long as you do the pre-lab homework and take a few notes the lab should be easy. On the reports, if you're stuck Mund is super helpful even without revealing the exact answer but he basically points out the answer if you ask it correct.
+
+--- Rating #5 ---
+Class: CHEM121
+Date: 2019-12-11 02:41:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Explains necessary concepts clearly. As long as you attend the lectures and seek help when needed on the homework, you'll do well. Mr. Mund is also very helpful outside of class when it comes to homework or just clearing up concerns.
+
+--- Rating #6 ---
+Class: CHEM121
+Date: 2019-07-25 22:20:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Mund is incredibly prepared and explains everything very well. Also, he actually cares about students' understanding of the material!
+
+--- Rating #7 ---
+Class: CHEM121
+Date: 2018-12-15 08:10:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This guy was amazing! He was very clear on what was expected, was always there to help with extra questions and you could tell he was passionate about what he was teaching. He gives hints on what questions will be on the final so pay attention. Most of the final for us was theory so make good notes about that too!
+
+--- Rating #8 ---
+Class: CHEM121
+Date: 2016-07-20 21:26:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Gives clear and easy to understand explainations. Helpful and understanding.
+
+--- Rating #9 ---
+Class: CHEM122
+Date: 2013-05-04 21:12:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great professor; easily one of my favourites. His notes are very helpful and thorough. His tests are somewhat difficult, but if go to class, read over his notes, do the LONCAPA, and do textbook questions for review you should be fine.
+
+--- Rating #10 ---
+Class: CHEM121
+Date: 2012-02-02 23:40:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+he's a great prof one of my favourites definetely recommend taking chemistry with him he's very good at teaching. His first midterm was hard but the second one was easy and the final was fair you just have to practice a lot of questions from the book and you are guranteed a B
+
+--- Rating #11 ---
+Class: CHEM121
+Date: 2011-01-10 18:03:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+very helpful, i had two midterms worth 20% each and a 40% final, his class is the review of the chapter from the book, BUT TO GET GOOD MARKS U MUST STUDY THE BOOK THOROUGHLY b.c his exams are very similar to the book questions.
+
+--- Rating #12 ---
+Class: CHEM121
+Date: 2010-07-28 23:07:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He is an amazing prof! You learn a lot from him. He is clear and concise. I was always motivated to go to class because attendance is very mandatory! Read the textbook examples, there really helpful.
+
+--- Rating #13 ---
+Class: CHEM121
+Date: 2008-12-20 21:07:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+good and helpful prof. but the midterm is hard, the final is fair. read the textbook examples.
+
+--- Rating #14 ---
+Class: CHEM121
+Date: 2008-12-20 21:06:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+No Comments

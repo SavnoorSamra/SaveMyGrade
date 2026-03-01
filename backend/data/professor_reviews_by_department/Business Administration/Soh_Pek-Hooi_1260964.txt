@@ -1,0 +1,141 @@
+Professor: Pek-Hooi Soh
+Professor Legacy ID: 1260964
+Professor ID: VGVhY2hlci0xMjYwOTY0
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 2.7
+Avg Difficulty: 3.1
+Num Ratings: 10
+Would Take Again Percent: 57.1429
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: BUS478
+Date: 2022-04-07 00:39:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Worst professor ever! She is very disorganized, disrespectful. She never provides clear instructions on assignments, she says one thing, but grades completely different. She forces people to participate, and if you don't, she will call you out.
+
+--- Rating #2 ---
+Class: BUS479
+Date: 2021-08-30 07:15:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+BUS 479 as a practical course gave me many consulting skills that could be carried over to the real world, and Pek was highly accessible throughout the semester in providing guidance on how to approach the project.
+
+--- Rating #3 ---
+Class: BUS478
+Date: 2020-11-13 18:37:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+If you are with a good group and you are interested in your group's research topic. Chances are you will get at least a B+, even A-. Some people think her lectures were boring, however, I deeply remember her point of 'complementary services', how to add value to a product by having a side service/product to accompany with.
+
+--- Rating #4 ---
+Class: BUS478
+Date: 2020-03-21 02:28:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Not the best prof for this course, did not do it justice. She is a pure academic, so a lot of what she preaches in class does not translate well over to real life. Her focus in class was mostly on her research, which was a disservice to us taking her course. Her expectations are very vague, and going to office hours barely helped clear anything up
+
+--- Rating #5 ---
+Class: BUS478
+Date: 2018-04-19 13:09:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Easiest prof for this class. super easy quizzes if you read text guaranteed perfect score, quizzes worth 22% . NO FINAL, group work worth 50% . Stay on top of stuff on a weekly basis and this is an easy A, do not cram for individual paper worth 22%. Super vague and biased marking criteria tho so do check in with her as you write your papers
+
+--- Rating #6 ---
+Class: BUS478
+Date: 2017-07-14 04:32:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is nice and friendly. Be prepared to read the text for the quizzes but you will get almost full marks since she takes best 7 out of 8 quizzes, and the quizzes are very easy. Choose a good team since 50% of the marks are team discussion and 1 team paper. She gives marks easily since she knows this is a 4th year course. Overall's an easy class.
+
+--- Rating #7 ---
+Class: BUS752
+Date: 2017-03-12 22:23:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Terrible teacher, incredibly confusing and unclear, disorganized and purely academic. Professor doesn't understand her audience and what they are trying to get out of the class. Every assignment, discussion and lecture is poorly communicated and unclear.
+
+--- Rating #8 ---
+Class: BUS478
+Date: 2015-04-20 19:10:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She does not give clear instructions or proper feedback. Grading scheme is vague. During case discussions has a "right"answer in her mind and if you don't agree with her you are in trouble. Very condescending and  patronizing.
+
+--- Rating #9 ---
+Class: BUS478
+Date: 2014-05-14 16:34:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Her instruction and timetable is the most confusing one i have ever seen. She never told you what she is expecting and supposed that you will know it. A lot of work and need a lot of time to "guess" what she is expecting.
+
+--- Rating #10 ---
+Class: BUS478
+Date: 2010-12-15 18:29:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Moderate speaker. Satisfactory text. But, very knowledgeable in the subject. You will come out of this class knowing ALOT. The most useful Business class I've taken at SFU.

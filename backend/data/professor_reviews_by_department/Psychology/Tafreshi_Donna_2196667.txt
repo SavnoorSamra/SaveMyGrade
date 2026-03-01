@@ -1,0 +1,167 @@
+Professor: Donna Tafreshi
+Professor Legacy ID: 2196667
+Professor ID: VGVhY2hlci0yMTk2NjY3
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 4.5
+Avg Difficulty: 3.3
+Num Ratings: 12
+Would Take Again Percent: 91.6667
+
+Ratings Count Returned: 12
+
+--- Rating #1 ---
+Class: PSYC210
+Date: 2017-08-21 01:32:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Donna was a great lecturer. I am someone who HATES all things that are even slightly related to math so I was hesitant to take this required course. All I can say is thank goodness someone like Donna was teaching it. Her notes and lectures are all clear and concise and she's ALWAYS there for extra help when you need it. It's not an easy A though!
+
+--- Rating #2 ---
+Class: PSYC210
+Date: 2017-08-17 13:35:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Donna is a fantastic professor, she is always accessible outside of class and will go over things with you 10 times if you want her to. She expects students to work for marks and to actually engage with the material. She also does her best to make the material as interesting as possible. Would highly recommend.
+
+--- Rating #3 ---
+Class: PSYC210
+Date: 2017-08-17 01:43:11 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Ambitiously tries synthesis-over-repetition, tricksy wording critical thought approach; doesn't have grasp of pedagogy it takes yet. Specific-yet-opaque expectations, with subtle cues for that don't actually exist; go see her, or be a telepath.  Data pulled out of hat (A&B   A+B  no). Effectively gave everyone bonus (this stats class is curved).
+
+--- Rating #4 ---
+Class: PSYCH210
+Date: 2017-08-10 22:46:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Donna was a dedicated prof however she uses her own notes versus a textbook so unless you understand the way she explains things its very difficult to learn. Lessons were very full of information however felt rushed making to hard to grasp new concepts. Not recommended unless you're willing to work really hard.
+
+--- Rating #5 ---
+Class: PSYC210
+Date: 2017-06-21 09:51:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The chapter notes that Donna has written were the single most helpful learning tool that I have ever encountered in my university career. She is extremely knowledgeable not just about statistics but about psychology too. I would take any course with her.
+
+--- Rating #6 ---
+Class: PSYC210
+Date: 2016-12-28 03:04:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Donna was an amazing statistics teacher. This was my second time taking this course as I received a C- when I took it four years ago. I ended up with a B in this class because of how organized and clear Donna was. She breaks things down really well and is always open for questions! Would highly recommend!
+
+--- Rating #7 ---
+Class: PSYC210
+Date: 2016-12-24 21:31:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Really helpful and explains things clearly. Would take again.
+
+--- Rating #8 ---
+Class: PSYC210
+Date: 2016-12-15 21:22:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I loved her. Donna was extremely caring and extremely accessible outside of class. I  came to her for help regarding my midterm, and she even offered to go for coffee with me to discuss what I did wrong. Despite the fact that I'm probably going to end up with a C-, I strongly recommend Donna.
+
+--- Rating #9 ---
+Class: PSYC210
+Date: 2016-12-04 16:37:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I don't think I ever had a more dedicated professor at SFU. She is a great teacher!
+
+--- Rating #10 ---
+Class: PSYC210
+Date: 2016-11-30 13:33:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Even though I really don't like stats, I thought Donna was a great prof and made it as interesting as possible. She made her own notes instead of using a text book, and reading them over before class is very helpful. The exams are fair, and there's two assignments which should help bring your grade up as well.
+
+--- Rating #11 ---
+Class: PSYC210
+Date: 2016-11-28 20:33:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I really enjoyed Donna's lectures. She makes the material interesting and is really passionate about what she teaches. I also like that she encourages us to think critically. The class can be tough at times but she's always available for help. Just make sure you keep up with the material.
+
+--- Rating #12 ---
+Class: PSYC210
+Date: 2016-11-24 21:22:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Donna is the nicest prof I have ever had in SFU. She is super caring and gives out clear lecture notes written by herself. Do the weekly readings, it's usually 10 pages long and you will do fine.

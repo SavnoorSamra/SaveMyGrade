@@ -1,0 +1,102 @@
+Professor: Jingzhou Na
+Professor Legacy ID: 3011270
+Professor ID: VGVhY2hlci0zMDExMjcw
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4.9
+Avg Difficulty: 2.9
+Num Ratings: 7
+Would Take Again Percent: 100
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: MATH-260
+Date: 2024-11-28 19:39:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Really good notes that he will fill out by hand in each lecture. There is weekly online homework using Wiley (similar to Webassign) and written homework after each unit with a few fairly long questions that briefly summarize each concept from the past unit. He knows his stuff.
+
+--- Rating #2 ---
+Class: MATH-260
+Date: 2024-08-21 02:56:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Jingzhou is a solid prof for math 260. His notes are good, and he is organized. The midterm was too long for 50 mins but he curved it hard. As long as you study hard, you will do well.
+
+--- Rating #3 ---
+Class: MATH-260
+Date: 2024-08-20 23:06:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jingzhou Na is new to lecturing, but despite that his lectures were pretty clear and straightforward. The homework, assignments, and tutorials were all relevant material and served as good practice for exams. He is also open to student feedback and tried his best to make our experience as students better during the semester.  Thank you Jingzhou Na!
+
+--- Rating #4 ---
+Class: MATH-260
+Date: 2024-08-20 20:52:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very good lectures and its recorded (just cuz of the room we were in). made ODEs very easy to learn. made the midterm really hard just for fun but the final was doable. JingZhou really cares and puts effort into answering questions. Always encourages participation.
+
+--- Rating #5 ---
+Class: MATH-260
+Date: 2024-08-19 23:54:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Prof. Na made Differential calculus easy enough to understand. He is very caring and supportive of students, gives skeleton notes and lecture recordings. The final was taken from previous homework questions. However, he made the midterm extremely long with not enough time so the class average was 37%, although he said he'd curve everyone's mark.
+
+--- Rating #6 ---
+Class: MATH-260
+Date: 2024-08-18 08:15:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Solid professor with clear explanations. He is well-prepared and organized in every lecture. You can tell he is passionate about the subject and puts a lot of effort into teaching the material well. Workload was very manageable, but exams were challenging.
+
+--- Rating #7 ---
+Class: MATH-260
+Date: 2024-06-10 22:27:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This guy is really passionate and a great lecturer. Workload was pretty light and he is great at teaching the material.

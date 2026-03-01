@@ -1,0 +1,102 @@
+Professor: Randal Mindell
+Professor Legacy ID: 1598870
+Professor ID: VGVhY2hlci0xNTk4ODcw
+Department (CSV): Earth Science
+Department (Fetched): Earth Science
+Avg Rating: 3.8
+Avg Difficulty: 2.1
+Num Ratings: 7
+Would Take Again Percent: -1
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: EASC104
+Date: 2012-07-23 02:26:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Interesting Prof, funny and clear. Just make sure to read the book since his tests are mostly MC and they'll typically be drawn from the book.
+
+--- Rating #2 ---
+Class: EASC104
+Date: 2012-07-19 17:07:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great Prof. He made lectures really interesting and was very passionate about the subject. Exams were mostly multiple choice and not too hard if you study and attend lectures.
+
+--- Rating #3 ---
+Class: EASCD100
+Date: 2011-12-27 00:11:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He always tried to make things easy to understand and made lecture entertaining! One class he even climbed onto his desk and pretended to be magma..
+
+--- Rating #4 ---
+Class: EASC101
+Date: 2011-09-04 19:14:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+fun classes and easy materials
+
+--- Rating #5 ---
+Class: EASC104
+Date: 2011-09-01 18:28:37 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+He's a nice guy, but seems inexperienced and is often difficult to understand. He rushes through the material, and a lot of it is not covered in the textbook. Attendance is mandatory. I found the first midterm easy, but the 2nd midterm and especially the final were brutal. Questions deliberately tricky. Would not take another class with this prof.
+
+--- Rating #6 ---
+Class: EASC104
+Date: 2011-08-27 00:15:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I have to admit: he is very funny. But sadly funny &#8800; good teacher. His lecture notes are in point form and often missing a subject therefore attendance is mandatory if you want to know what he's talking about. His exams are designed based on the learning goals. ANYTHING UNMENTIONED IN THE LEARNING GOALS ARE NOT TESTED
+
+--- Rating #7 ---
+Class: EASC104
+Date: 2011-07-13 23:59:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Really nice!  Test material from his lecture!  Very enthusiastic and adds humor to the lectures!  Not too hard - really tries to ask students how he can improve

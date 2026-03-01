@@ -1,0 +1,24 @@
+Professor: Sadie Donovan
+Professor Legacy ID: 1605001
+Professor ID: VGVhY2hlci0xNjA1MDAx
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: EDUC370
+Date: 2011-08-04 00:47:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Good Professor!! Alot of assignments to do, but its not stressful at all! Sadie is very good at clarifying things! I found that it was un-necessary doing 3 types of group presentations.. btw, shes good overall!I would recommend her!! Take it if she is teaching

@@ -1,0 +1,37 @@
+Professor: Ashu Adhikari
+Professor Legacy ID: 2741726
+Professor ID: VGVhY2hlci0yNzQxNzI2
+Department (CSV): Art & Design
+Department (Fetched): Art amp Design
+Avg Rating: 2.5
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: IAT210
+Date: 2021-12-20 21:28:16 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The materials of the course were arranged haphazardly. nothing in place. TA's mark the Less weighted assignements fairly but completely different for the more weighted assignments. Not recommended
+
+--- Rating #2 ---
+Class: IAT167
+Date: 2021-12-08 17:41:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Decent prof that is in touch with modern technology and primarily uses Discord to communicate with the class. Major assignments are frustrating as TAs will make you lose marks without any given reason. Weekly assignments workload depend on how good your team is, but most slack off. Ashu doesn't do much to help this issue.

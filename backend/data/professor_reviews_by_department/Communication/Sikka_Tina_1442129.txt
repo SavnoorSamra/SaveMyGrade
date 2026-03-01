@@ -1,0 +1,115 @@
+Professor: Tina Sikka
+Professor Legacy ID: 1442129
+Professor ID: VGVhY2hlci0xNDQyMTI5
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 3.1
+Avg Difficulty: 3
+Num Ratings: 8
+Would Take Again Percent: 0
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: CMNS110
+Date: 2016-12-01 15:35:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+course requirements and syllabus are unclear essay marking criteria not given essay topics vague and poorly written course is waaaaaaaaaaay too difficult for first year communications professor is arrogant
+
+--- Rating #2 ---
+Class: CMNS110
+Date: 2015-04-12 21:49:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Tina is great, she is patient, nice and helpful.
+
+--- Rating #3 ---
+Class: CMNS455
+Date: 2013-08-22 13:11:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She is nicea and she will give a lot of help if you discuss course material with her.
+
+--- Rating #4 ---
+Class: CMNS455
+Date: 2013-06-03 19:24:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Very little interest in the class. She did not even bother to update the Syllabus from the previous semester, leaving dates, deadlines and weeks as they were from the previous semester. After week 4 she stopped presenting all together and we just listened to students summarize the readings.
+
+--- Rating #5 ---
+Class: CMNS223W
+Date: 2012-09-10 03:38:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She makes the class so dry by reading off the slides. The text book she has picked up for the class is way too hard for a 200 level class (even the ta said so).
+
+--- Rating #6 ---
+Class: CMNS130
+Date: 2012-08-24 02:33:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+she AWESOME, very nice women, easy marking. I would take another class with her
+
+--- Rating #7 ---
+Class: CMNS223W
+Date: 2012-04-05 00:31:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Reads off lecture slides and does not sound interested in the subject at all. Lecture slides are mostly straight quotes from readings. Would not recommend.
+
+--- Rating #8 ---
+Class: CMNS223
+Date: 2010-08-05 22:00:08 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Sends lecture slides prior to class, but elaborates some details on it.

@@ -1,0 +1,89 @@
+Professor: Miriam Lavergne
+Professor Legacy ID: 2170042
+Professor ID: VGVhY2hlci0yMTcwMDQy
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 4.2
+Avg Difficulty: 2.8
+Num Ratings: 6
+Would Take Again Percent: 83.3333
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: HSCI305
+Date: 2020-03-17 00:31:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Your success at SFU is really dependent on whether a prof is great or not.... I am not sure why so many individuals have decided to give Lavergne a high grade when her assignments are nothing like the content provided. Additionally, she takes pride in making our averages low and marks tough like its no tomorrow. She is going to kill my CGPA.
+
+--- Rating #2 ---
+Class: HSCI305
+Date: 2019-05-14 23:07:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Lavergne is one of the best professors I've had. Her class was interesting and engaging and she was clear about what she expected from her students. I would take another class with her if I could.
+
+--- Rating #3 ---
+Class: HSCI305
+Date: 2019-04-14 21:37:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Lavergne is the best. She's a very educated prof who really cares about her students' understanding and education. She pushed back our paper due dates twice because we all had midterms around then. The material of the class can sometimes be dry but she tries her best. Definitely take this class with her if you can.
+
+--- Rating #4 ---
+Class: HSCI305
+Date: 2019-01-16 18:28:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Lavergne was an amazing professor who was very skilled at making very dry content interesting. After all, as a HSCI major, an entire course dedicated to the Canadian healthcare system is extremely important, but can be difficult to teach engagingly. Her marking criteria was fantastic, and she was extremely accessible and friendly.
+
+--- Rating #5 ---
+Class: HSCI305
+Date: 2018-11-16 17:13:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Ruth is one of the most engaging profs I've had over 4 years at SFU. HSCI 305 a class based almost entirely on policy, so don't expect anything too exciting. If this class is not a pre-rec, I would not recommend taking it. That said, Ruth is very clear with her explanations and what she expects you to know for exams. Study and you'll do well
+
+--- Rating #6 ---
+Class: HSCI305
+Date: 2017-12-18 19:46:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Ruth is very passionate and definitely enjoys teaching students about the course topic. The term paper has several checkpoints, which were pretty much completion marks. She also provides study guides for the midterm and the final, so students know what to study on. Very much enjoyed her class.

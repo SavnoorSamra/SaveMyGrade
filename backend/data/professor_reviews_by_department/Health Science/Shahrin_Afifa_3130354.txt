@@ -1,0 +1,143 @@
+Professor: Afifa Shahrin
+Professor Legacy ID: 3130354
+Professor ID: VGVhY2hlci0zMTMwMzU0
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 2.4
+Avg Difficulty: 3.4
+Num Ratings: 10
+Would Take Again Percent: 40
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: HSCI471
+Date: 2026-01-28 00:53:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Afifa was genuinely interested on the subject matter. We learned from her research. Her assignment answers were confused as grading rubric. Attendance was not graded. Lots of ppl missed class. That caused free riding in the group assignment and i am a sole victim of this policy. I ended up doing most of the work in group assignment.
+
+--- Rating #2 ---
+Class: HSCI471
+Date: 2026-01-01 06:14:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Class was very disorganized and prof didnt disclose all criteria. She had hidden marking rubric
+
+--- Rating #3 ---
+Class: HSCI471
+Date: 2025-12-27 16:09:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The course content was heavy. Quizzes followed on last week's lecture, open book but not easy to answer if you don't read material. With two midterms and one semester long project I had to study quite a bir to receive an A-. Instructor tried to make sure students read. She was helpful and approachable.
+
+--- Rating #4 ---
+Class: HSCI471
+Date: 2025-12-23 18:08:15 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She was helpful but occasionally unorganized. She provided lots of reading. Good that her lectures kind of linked with readings. Most were group assignments and projects. She said that her assignments and group projects were designed to prevent use of AI, which made sense. But I wish she could provide us more directions on assignments.
+
+--- Rating #5 ---
+Class: HSCI471
+Date: 2025-12-22 08:09:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Poor time management and disorganized, classes occasionally ran past the scheduled end. Grading felt unfair and unclear, rubrics posted after exams with criteria's that were not mentioned beforehand. Extremely vague expectations despite tough grading. Heavy readings with quizzes the following week. Recommend to stay as FAR AWAY as humanly possible.
+
+--- Rating #6 ---
+Class: HSCI471
+Date: 2025-12-22 06:55:56 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Grade mostly from group-based assignments, done outside of lecture. Quizzes for participation are open book. First time the prof was teaching the course.
+
+--- Rating #7 ---
+Class: HSCI471
+Date: 2025-12-21 07:35:34 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Overall, I found this professor to be very frustrating. The grading criteria for assignments and tests was unclear and resulted in marks being deducted for things we weren't told about. This was extremely frustrating to me and my groupmates as we worked hard on the assignments but always got deductions for things we weren't aware of.
+
+--- Rating #8 ---
+Class: HSCI471
+Date: 2025-12-21 07:31:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+There were criteria not mentioned for the assignments, which resulted in marks being deducted out of nowhere. This made the class confusing. The workload wasn't too bad, mostly group projects, but her lectures were disorganized, and she was hard to understand at times.
+
+--- Rating #9 ---
+Class: HSCI471
+Date: 2025-12-16 20:52:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I learned a lot on global maternal health from Dr. Shahrin. The course had exams which is not common for a seminar course. But lecture slides included content from readings, which made the quizzes easy. Also quizzes were open book. She is super helpful in class and outside class. I will take this professor's course in future.
+
+--- Rating #10 ---
+Class: HSCI471
+Date: 2025-12-10 09:10:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Never disclosed grading rubrics on any assignments until after submission but would still penalise for not mentioning stuff we didnt know we had to mention. 
+Awfully confusing communication and class expectations. 
+Would not recommend at all.

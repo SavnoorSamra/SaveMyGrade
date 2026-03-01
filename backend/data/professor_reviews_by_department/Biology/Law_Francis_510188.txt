@@ -1,0 +1,89 @@
+Professor: Francis Law
+Professor Legacy ID: 510188
+Professor ID: VGVhY2hlci01MTAxODg=
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 2.4
+Avg Difficulty: 4.2
+Num Ratings: 6
+Would Take Again Percent: -1
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: BISC313
+Date: 2012-05-05 14:54:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Final consisted of 150 mc questions with a variety of different types of multiple choice. The class is very applied. Make sure to attend lectures because what he mentions in class will be on the exams. Notes are outdated and sometimes aren't legible even when magnified. Memorize all details in the notes even ones you think are irrelevant.
+
+--- Rating #2 ---
+Class: BISC313
+Date: 2010-04-25 20:53:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He's a smart one and accomplished, but not a good teacher. His lectures are outdated (i dont think he even knows to use webct) and therfore makes it harder for us to understand the material. I actually found some of his lectures on the internet (he copys and pastes from the articles).
+
+--- Rating #3 ---
+Class: BIO202
+Date: 2009-10-02 11:54:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is an old dog with no future. Always tell his own stories in the class, so each student knows about his past. I am surprised that in Canadian culture, he still behaves like 18 century. I am sorry to say but he is jerk. Looks he is very flustered in his personal life which you can see his attitude in classes.
+
+--- Rating #4 ---
+Class: BISC313
+Date: 2009-05-12 17:41:22 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+nice prof
+
+--- Rating #5 ---
+Class: BISC313
+Date: 2008-04-22 16:57:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Seems to have little interest in teaching. Teaches outdated material. His exams are killer hard - all multiple choice. Very nice one on one though.
+
+--- Rating #6 ---
+Class: BISC312
+Date: 2004-11-23 17:37:56 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Exams were fair although more clarity in lecture would be appreciated.

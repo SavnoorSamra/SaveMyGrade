@@ -1,0 +1,273 @@
+Professor: John Edgar
+Professor Legacy ID: 21748
+Professor ID: VGVhY2hlci0yMTc0OA==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.3
+Avg Difficulty: 3.5
+Num Ratings: 148
+Would Take Again Percent: 51.5152
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT130
+Date: 2026-01-09 19:04:49 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+John Edgar is one of the more personable profs. Attendance for lectures are not neccessary and you probably shouldnt attend them because he mostly just reads off slides. You can just do all the assignments and studying at home and show up on test days. The tests and assignments are fair if you put in effort to study and practice programming
+
+--- Rating #2 ---
+Class: CMPT225
+Date: 2025-12-24 08:49:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very nice person, but has no idea how to teach anything.
+
+--- Rating #3 ---
+Class: CMPT225
+Date: 2025-12-14 03:10:55 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Although John's course is in-person, you probably shouldn't attend his lectures. He reads off of slides and goes on long tangents, so his lectures are empty (< 5% attendance).
+
+Midterm average was 42%, which he bragged to his CMPT130 class about. Final was pretty okay, granted you memorized his posted notes, but the average on it was still 48%.
+
+--- Rating #4 ---
+Class: CMPT225
+Date: 2025-12-10 21:05:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+John is a great professor and responds to online questions extremely quickly. The content covered is difficult, and without proper studying or review it is easy to get behind. Lectures can feel bland, but if you take the time to ask him questions he is super knowledgeable and willing to help explain. Expect a hard midterm and fair final.
+
+--- Rating #5 ---
+Class: CMPT130
+Date: 2025-12-08 01:46:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Fun guy. If you come into this class with little to no C++ experience it might be a little bit more challenging. I managed to not pay attention during lectures and pull a B+ on the midterm so it's not too bad. His grading criteria for assignments is very clear. Do the labs. Tests were easier than expected.
+
+--- Rating #6 ---
+Class: CMPT130
+Date: 2025-10-09 18:21:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great professor, he does read off of slides but he explains and expands in detail so I would recommend attending lectures and not skipping. Labs are very useful for his assignments, so I would attend those as well (but completely optional). His grading scheme is VERY clear as he lists out everything he wants to see in extreme detail. Good teacher.
+
+--- Rating #7 ---
+Class: CMPT120
+Date: 2025-07-17 22:08:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+John is super nice and is great at teaching programming. I never went to the labs and went to 2/3 lectures every week. The midterm was easy, but the final was worth 50%, I think, so be prepared. Overall, an amazing experience.
+
+--- Rating #8 ---
+Class: CMPT225
+Date: 2025-05-02 22:30:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Johns course was pretty difficult but you learn alot from it, the exams were very legthy but were reasonable difficulty wise, same for assignments. What I like about John, is that hes actually really nice, and accessible outside of class, not just for questions, but other things, since hes a member of the undergrad chair for comp sci.
+
+--- Rating #9 ---
+Class: CMPT225
+Date: 2025-04-24 19:46:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+John's a really nice professor, if you actually talk to him about assignments or grading, he is usually fairly generous, his lectures were boring, but they were also really informative, quizzes and assignments were pretty fair, mostly adt implementations. Midterm and final both fair difficulty wise, but too long. TA's were really harsh markers tbh.
+
+--- Rating #10 ---
+Class: CMPT225
+Date: 2025-04-15 04:07:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+His lectures are really boring and the midterm was pretty bad, BUT the assignments, quizzes and final were all extremely fair. Considering that the midterm was only worth 15%, the class overall wasn't difficult. He's a nice guy too and generally pretty forgiving in my experience
+
+--- Rating #11 ---
+Class: CMPT225
+Date: 2025-04-13 20:09:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lost his will to teach about 10 years ago. Loves reading slides and making Starcraft references as much as possible. Highly recommend this class for a good nap at 8:30am.
+
+--- Rating #12 ---
+Class: CMPT225
+Date: 2025-03-24 04:12:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+The class itself is easy, it just has a pretty high workload. John's lectures were alright, I found that I often had to go through the recordings to connect the concepts, and this took hours. But the quizzes aren't hard, the final was fair too.
+
+--- Rating #13 ---
+Class: CMPT225
+Date: 2025-02-03 00:44:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Edgar's a solid prof, fair assignments (basic ADT implementations), weekly quizzes are pretty easy, and final was straightforward. The midterm was a bit tough, but only worth a small portion of the grade, and he did scale a bit at the end. Solid choice for this course, gives a good foundation.
+
+--- Rating #14 ---
+Class: CMPT225
+Date: 2024-12-25 03:19:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Pretty big yapper. Lectures are a little boring but informative. Really try your best to understand the material. Tests are just leetcode easy so you should be doing leetcode as much as possible. Assignments are were pretty easy and just ADT implementations.
+
+--- Rating #15 ---
+Class: CMPT225
+Date: 2024-12-19 01:21:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The final was very fair and representative of the material and thoroughly tested your understanding. It was comprehensive yet balanced, allowing us to demonstrate our understanding and apply our knowledge meaningfully.
+
+--- Rating #16 ---
+Class: CMPT225
+Date: 2024-12-15 23:03:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor John Edgar is a great professor. Contents on his slides are clear and strightly related to assignment/mid-term/final. No assignments or quiz are off the scope. Go start writing some C++ code before taking this course (if you don't, you will also be fine). PS: Final wieghts 50%!!!!!!!
+
+--- Rating #17 ---
+Class: CMPT225
+Date: 2024-12-15 18:33:20 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+John Edgar is an alright prof. He explains the concepts well but is pretty dull most of the time, lectures are kinda boring. Class difficulty was ok but TAs are very harsh on assignment grading. Also, the Canvas quizzes are false hope in regards to test difficulty, the tests are much harder. Also, final exam worth 50%, ouch
+
+--- Rating #18 ---
+Class: CMPT225
+Date: 2024-12-13 23:31:35 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+CMPT225 is a hard LD course, so many people will bash him for harsh exams; he was decent/fair. Exams had tricky MCQ, but doable written. Quizzes from slides, assignments were fairly straightforward. Quiet/monotone during lecture but provided great insights to material. Strongly suggest showing up to class to grasp a better understanding of DSA.
+
+--- Rating #19 ---
+Class: CMPT225
+Date: 2024-12-13 00:30:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+John's a chill guy.
+
+--- Rating #20 ---
+Class: CMPT225
+Date: 2024-12-11 10:56:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+You know, I actually really liked John as a prof, despite not liking him all that much at first. His midterm was very difficult, but only worth 15%. The assignments, quizzes, and final were all very fair and worth most of the grade. His lectures were enthusiastic and he often went on funny tangents in class lol. Very responsive to emails too

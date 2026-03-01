@@ -1,0 +1,271 @@
+Professor: Jim Carter
+Professor Legacy ID: 1064868
+Professor ID: VGVhY2hlci0xMDY0ODY4
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 4.5
+Avg Difficulty: 2.9
+Num Ratings: 48
+Would Take Again Percent: 89.4737
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BPK340
+Date: 2026-01-13 16:00:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I think Jim taught a fair class, there was a lot of complaining about the midterm but I thought it was very fair. The grading of the final presentations was more than fair and I would say he was VERY lenient. He is a nice guy and he cares which is always good in a professor. I think what you put in you get out.
+
+--- Rating #2 ---
+Class: BPK340
+Date: 2025-12-30 08:50:56 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Important class, executed horribly. Overall, great prof but not for this class. The only thing that helped develop any applicable skills was the group presentation. The midterm and final were straight memorization of irrelevant info from random slides. Lectures were really boring, long, and not useful, but attendance was required.
+
+--- Rating #3 ---
+Class: BPK340
+Date: 2025-12-08 02:29:01 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+cut the guy some slack because 340 is hard to teach, but this is actually horrendous. hundreds of slides of rote memory rather than more emphasis on actually applying course concepts in case study based scenarios. class should've been more project focus, more assignments, and not like a traditional bpk course. this shouldn't be in the curriculum
+
+--- Rating #4 ---
+Class: BPK142
+Date: 2024-01-11 03:40:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best prof to take BPK 142 with. Lectures have lots of info but he presents it clear and heavily hints at exam questions & basically tells you exactly what to study. Lectures can be a bit long but he does make it interesting. The labs are a good grade boost. Make sure to take lots of time to review as it is a lot of material.
+
+--- Rating #5 ---
+Class: BPK142
+Date: 2023-12-22 23:26:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His lectures are clear and easy to follow. There is a lot of content in his slides so get ready to take notes and review every week. He also has lecture and lab quizzes so make sure to pay attention to his lectures. The marking for exams and labs are a bit tough, if you consistently review each topic you should be fine. Overall, approachable prof.
+
+--- Rating #6 ---
+Class: BPK142
+Date: 2023-10-27 19:41:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Ask him questions and he'll answer in quite a simple way. Somewhat funny as well.
+
+--- Rating #7 ---
+Class: BPK142
+Date: 2023-01-08 20:40:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His lectures are engaging however they are very long and can be draining. There's a good balance of heavy and light content that he covers. Lecture exams were very difficult because there is a lot of content you need to remember. Lab exams were more manageable. His slides and notes were very good for studying.
+
+--- Rating #8 ---
+Class: BPK142
+Date: 2022-11-20 00:56:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I love him! he's such a great prof and engaging! explains things in depth and well.
+
+--- Rating #9 ---
+Class: BPK142
+Date: 2022-08-20 04:22:25 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+studying as you go is the key to this class, don't fall behind or you'll get overwhelmed. i wouldn't recommend this as an elective (unless you like anatomy) as there's so much content to cover. jim is a great lecturer and explains things very well. definitely go to your TA if you need any help!! [fall 2021]
+
+--- Rating #10 ---
+Class: BPK142
+Date: 2022-01-26 01:52:12 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+The online course format was not supportive for students
+
+--- Rating #11 ---
+Class: BPK142
+Date: 2022-01-13 05:18:45 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Professor Carter was kind but not a great teacher. The lectures consisted of him saying the same stuff he already said in very long videos he had already posted before in which he would just read off the slides. The class was cool but was not very engaging which did not help with staying productive throughout the course.
+
+--- Rating #12 ---
+Class: BPK142
+Date: 2022-01-09 21:45:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I took BPK 142 with professor Carter, he is truly passionate about what he teaches which made his classes very enjoyable. I loved the labs and the physiology portion of his class. Great prof
+
+--- Rating #13 ---
+Class: BPK142
+Date: 2021-12-30 21:22:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+amazing professor. he explains things very well both in lec and the prerecorded vids. you can get by without even going to lec and just reading the provided notes and slides, however there are poll and post lec q's for small participation marks. def study bc it's quite a hard course. i don't recommend this as an elective.
+
+--- Rating #14 ---
+Class: BPK142
+Date: 2021-12-21 02:35:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+i think hes a pretty fair marker and the exams arent too bad. you just need to memorize everything on the summary sheet for the exams.
+
+--- Rating #15 ---
+Class: BPK142
+Date: 2021-12-18 02:20:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Jim is a great guy, had Tiffany and Brent as T.A, they were also extremely helpful and attentive. Great materials.
+
+--- Rating #16 ---
+Class: BPK142
+Date: 2021-05-06 00:48:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He was probably one of the best profs I have ever had and he made 8:30 am lectures interesting. I would highly recommend taking bpk 142 with him as he made a relatively difficult course much more manageable.
+
+--- Rating #17 ---
+Class: BPK142
+Date: 2020-12-11 01:20:38 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This course is probably one of the hardest and heaviest course and I've grind through and i've done very well in 200 courses. The amount of materials covered is insane for a 3-credit 100 course and gave me more panic and stress than calc and physics combined.
+
+--- Rating #18 ---
+Class: BPK142
+Date: 2020-11-24 12:05:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: None
+For Credit: True
+Online Class: True
+Comment:
+Explains concepts clearly and is a well respected professor. BPK 142 is not an easy class and has a lot of content, but if you study regularly, it's not too difficult to get a good grade
+
+--- Rating #19 ---
+Class: BPK142
+Date: 2020-08-23 19:02:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Dr. Carter was absolutely fantastic! His lectures are clear, concise and very organized much like the rest of the course. You have to review the material regularly (I suggest making flashcards and looking at them everyday) to do well and make sure not to cram before the tests. If you're diligent with studying the material, an A isn't hard at all.
+
+--- Rating #20 ---
+Class: BPK407
+Date: 2020-04-27 23:12:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Jim is a wonderful professor! He is very hands on and will answer any questions you have. BPK 407 is a fun course and you get to learn a lot of very useful practical skills. The course is quite a bit of work between weekly quizzes and group projects but if you put the work in you will do well. Be creative with your project if you want to stand out!

@@ -1,0 +1,102 @@
+Professor: Michael Batu
+Professor Legacy ID: 2682585
+Professor ID: VGVhY2hlci0yNjgyNTg1
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 3.3
+Avg Difficulty: 3.9
+Num Ratings: 7
+Would Take Again Percent: 42.8571
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: ECON342
+Date: 2021-08-14 20:35:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Very nice professor. Easy course if you read his slides.
+
+--- Rating #2 ---
+Class: ECON342
+Date: 2021-08-13 09:37:36 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+The prof is actually really caring but he lacks in teaching. He is unable to clearly deliver the conceptual arguments for each chapter. He also makes it more complicated than it has to be. Being an honors student it wasnt tough for me but i agree with other students giving bad reviews.
+
+--- Rating #3 ---
+Class: ECON342
+Date: 2021-07-29 09:22:49 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+The online midterm is difficult especially essay-type questions. You only have 10 minutes to read and think and then type the answer. The time constrain is tense and the question is super hard even though I do read the textbook. However, the professor is nice and caring. It will be better if he can give out the answer of the practice midterm.
+
+--- Rating #4 ---
+Class: ECON342
+Date: 2021-07-12 22:28:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+michael is a wonderful prof! the online lectures may be wordy as someone said but that is the nature of the class. he is caring and listens to his students. I wish more profs were like him!
+
+--- Rating #5 ---
+Class: ECON342
+Date: 2021-07-12 08:04:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+ECON 342 is not an easy course- as with most 300 level econ courses. Aside from the lectures one also needs to study on their own to fully understand the material. I found Batu's video lecture to be really helpful and his exams are fair. Plus he's very reasonable and cares about his students!
+
+--- Rating #6 ---
+Class: ECON342
+Date: 2021-07-08 04:58:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+This is the worst econ course I have taken. He is wordy and bad at explaing the lectures. He seperates the vedio lectures into 7 or 8 parts and each vedio is 15 min. This is useless and dumb.
+
+--- Rating #7 ---
+Class: ECON342
+Date: 2021-06-07 00:12:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+His teaching method is all ppt. If you are not a super genius like Einstein, then you have no way to keep up with him.

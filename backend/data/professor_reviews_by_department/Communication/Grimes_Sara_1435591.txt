@@ -1,0 +1,24 @@
+Professor: Sara Grimes
+Professor Legacy ID: 1435591
+Professor ID: VGVhY2hlci0xNDM1NTkx
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 3
+Avg Difficulty: 1
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: CMNS324
+Date: 2010-04-22 14:38:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Honestly, hard to stay awake while she lectures. Very disorganized course due to dividing the course with Danielle Deaveau. Overall, Sara is more friendlier and less of a marking dictator then Danielle. Expect her to laugh at almost everything.

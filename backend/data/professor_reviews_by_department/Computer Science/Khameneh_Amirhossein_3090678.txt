@@ -1,0 +1,38 @@
+Professor: Amirhossein Khameneh
+Professor Legacy ID: 3090678
+Professor ID: VGVhY2hlci0zMDkwNjc4
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 5
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: MACM101
+Date: 2025-08-16 08:20:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Best prof for macm 101 at sfu.
+Absolute legend.
+
+--- Rating #2 ---
+Class: MACM101
+Date: 2025-08-16 05:07:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+GOAT that's all I have to say

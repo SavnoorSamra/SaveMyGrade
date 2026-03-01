@@ -1,0 +1,271 @@
+Professor: David Muraki
+Professor Legacy ID: 96891
+Professor ID: VGVhY2hlci05Njg5MQ==
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2.4
+Avg Difficulty: 4.3
+Num Ratings: 92
+Would Take Again Percent: 38.7097
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH251
+Date: 2025-02-27 23:47:06 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+The lectures can be hit or miss, but the textbook is solid. Exams are challenging, with not enough time to complete them. Using unstuck study and past practice materials really helped me stay on top of the content. Overall, a tough but manageable class if you put in the work.
+
+--- Rating #2 ---
+Class: MATH322
+Date: 2024-12-13 09:50:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Good lecturer and tries explaining things in natural language instead of always using the straight textbook definition. Assignments were challenging but pretty similar to exams. Midterm was way too long for the given time (IMO), but the final was more fair. Gives optional quick pre-lecture exercises for bonus marks. Also accessible outside class.
+
+--- Rating #3 ---
+Class: MATH462
+Date: 2024-05-30 00:02:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Fluid dynamics is David's bread and butter. He cares for students and ensures they understand the topics.
+
+--- Rating #4 ---
+Class: MATH251
+Date: 2024-03-15 11:20:52 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I had him back in 2008 for calc3. I would say his knowledge of math is abundant and transparent during lectures but doesn't really teach u how to do problems. Lucky the textbook was good and there's google. His exams were lengthy with artsy wording but he does scale a lot. I stopped going to lecture after one month and just rely on textbook
+
+--- Rating #5 ---
+Class: MATH322
+Date: 2023-12-25 19:49:16 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+lectures are fine no problems, hw can be long and difficult at times(hw is guided with steps), tests are long and will really push you
+
+--- Rating #6 ---
+Class: MATH322
+Date: 2023-12-22 21:35:00 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I would've given him a 3 or 4 if he posted his notes online. You're kind of screwed if you miss too many of his lectures so don't skip. He also seems to have a bit of an ego and is sometimes rude to students.
+
+--- Rating #7 ---
+Class: MATH418
+Date: 2020-11-03 06:05:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Never choose his course. His homework is disgusting. And his lecture cannot provide enough information to do his homework. He trys to make some bad jokes, but no one cares. The words he use art ambiguous.
+
+--- Rating #8 ---
+Class: MATH251
+Date: 2020-05-29 19:15:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+David does not post his completed lecture notes so if you don't go to class you're going to need to ask someone for the notes. The lectures themselves are good. His exams are pretty tough, there are a lot of questions and not enough time to do them. He is around for help in person during office hours however he will be brutally honest with you.
+
+--- Rating #9 ---
+Class: MATH251
+Date: 2020-04-27 02:45:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Overall, I enjoyed his lectures. Notes were hard to read but he explained things pretty clearly (as compared to my calc 1 and 2 profs, who both had heavy accents). Both midterms were long and difficult, but the final seemed fair. He's a nice person and seems to care about his students but can respond to emails in a rude fashion.
+
+--- Rating #10 ---
+Class: MATH251
+Date: 2020-04-24 23:17:37 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Muraki is a kind enough professor but was never able to actually teach me anything in lectures because of his convoluted and hard to read notes, and because he presented the material in a way that doesn't help us on homework or exams. The textbook is the only thing that got me through calculus 3. Unfortunately, he also rarely responds to emails.
+
+--- Rating #11 ---
+Class: MATH251
+Date: 2020-04-20 19:52:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I emailed him 6 times throughout the term and only got 1 reply. Even when I asked about setting up a meeting I never got a response. He didn't even show up for online office hours. Lectures consist of few examples and largely him just rambling. The midterms were way too long and no time to finish, but the final was fair. He does not care about you
+
+--- Rating #12 ---
+Class: MATH251
+Date: 2020-02-26 19:55:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures are always very clear with lots of examples and I like the way the prof teaches, but the exams are way too long to finish in the time given so you kinda just have to shoot for those part marks. Also, exam averages and standard deviations are not given so its hard to know where you stand. All together good though!
+
+--- Rating #13 ---
+Class: MATH251
+Date: 2020-02-05 17:47:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+this guy doesn't post lecture notes or solutions to his sample problems and the homework is mandatory and you dont learn much from it. This class should be taught in a different way. like at very least upload solutions to your sample midterms like holy crap man
+
+--- Rating #14 ---
+Class: MACM316
+Date: 2019-05-14 20:21:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Useless lecture, difficult assignments. DO NOT take him.
+
+--- Rating #15 ---
+Class: MACM316
+Date: 2019-04-23 18:46:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Accessible outside class. He would give you a one on one pep talk if you are having a rough time in class. Weekly quizzes and assignments, yada yada, a typical math course. Study hard, go to tutorials and computing workshop, make friends.
+
+--- Rating #16 ---
+Class: MACM316
+Date: 2019-04-17 19:32:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+AVOID!AVOID!AVOID!
+
+--- Rating #17 ---
+Class: MACM316
+Date: 2019-04-13 03:24:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+WORST prof I have EVER met in my LIFE!!! Quiz and exams are so hard and time consuming that you won't be able to finish it. Assignments are marked extremely strict. The exams and assignments are WAAAAAAAY harder than other profs. If you are not a genius in MATH, then avoid him at ALL COST! Save your money and spend it on more meaningful things.
+
+--- Rating #18 ---
+Class: MACM316
+Date: 2019-04-12 05:59:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+His teach skills are not too bad. But he is absolutely a terrible person. He never replies your email. The suggestion he gives to you is something like &quot;you should drop the class&quot;. He forces students to go his lectures in some ways. Not a respectable prof.
+
+--- Rating #19 ---
+Class: MATH251
+Date: 2019-03-27 19:06:16 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Decent lecturer, I did end up learning pretty well from him. He seems pretty passionate about what he does. However, he is very rude, does not appreciate being questioned at all, didnt encourage questions as he made you feel terrible if you said something wrong. Hes ok, but if you can avoid, dont take it with him
+
+--- Rating #20 ---
+Class: MATH251
+Date: 2018-12-29 04:39:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+First midterm was hard, but if you studied and did HW you would be able to get a good mark. Second was ok. Final was difficult. He isnt rude, willing to sit you down and go through a problem if you have the notes/understanding of the question. He just is quite honest and will roast you. I recommend doing bonus questions(were on all quizzes/tests)

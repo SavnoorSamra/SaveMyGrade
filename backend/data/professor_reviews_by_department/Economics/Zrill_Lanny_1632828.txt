@@ -1,0 +1,37 @@
+Professor: Lanny Zrill
+Professor Legacy ID: 1632828
+Professor ID: VGVhY2hlci0xNjMyODI4
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 3.3
+Avg Difficulty: 3.5
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: ECON105
+Date: 2012-05-04 18:12:30 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+His lecture note is too simple. Final supposes to be three hours, but he arranged it as two hours with double sized of mid-term questions. He is the teacher not so reponsable.
+
+--- Rating #2 ---
+Class: ECON105
+Date: 2011-10-28 17:41:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+A good Professor I've never seen.

@@ -1,0 +1,37 @@
+Professor: Charles Samuels
+Professor Legacy ID: 1558883
+Professor ID: VGVhY2hlci0xNTU4ODgz
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.3
+Avg Difficulty: 4
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: MATH154
+Date: 2012-01-21 02:28:13 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I honestly thought he was a great prof. He is very clear about concepts and his notes are really good. He gives a lot of examples making things easier to understand. Most questions on exams were similar to examples done in class.
+
+--- Rating #2 ---
+Class: MATH154
+Date: 2011-04-07 01:23:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+u think u know calculus&#63; well, u don't in his class. His class is not for math but more like bio. 80% are explanation and definition and 20% are examples. Not to mention u have to write down everything! for his notes. His tests are really hard. When I mean hard, like the little explanation that he mentioned like 2 minutes in class is 10~20marks./60

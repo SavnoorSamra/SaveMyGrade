@@ -1,0 +1,271 @@
+Professor: Lou Hafer
+Professor Legacy ID: 58477
+Professor ID: VGVhY2hlci01ODQ3Nw==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.2
+Avg Difficulty: 4.5
+Num Ratings: 94
+Would Take Again Percent: -1
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT371
+Date: 2014-08-12 20:52:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+The worst prof ever. I really don't want to see him again not in the course but also in any situation.
+
+--- Rating #2 ---
+Class: CMPT371
+Date: 2014-08-12 20:31:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I'm sure he's a knowledgable guy and he's actually not that "mean" when you ask questions. But I definitely do not get his marking.. I failed two of my four assignments even though I spent so much time on it (I still got higher than the class ave for those two assignments somehow.. ).  The assignments was not even hard, but his marking was.
+
+--- Rating #3 ---
+Class: CMPT371
+Date: 2014-08-12 19:42:57 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Worst "worst" prof I have ever met. He does not even listen to students outside the class or reply to emails. Extremely odd scaling where half of the class received D or below.
+
+--- Rating #4 ---
+Class: CMPT371
+Date: 2014-08-12 19:39:31 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+AVOID this professor as much as possible!!! He said half way when marking the midterms, he got grumpy. The lecture recordings should still prove of it in it. That is NOT FAIR.
+
+--- Rating #5 ---
+Class: CMPT471
+Date: 2014-07-08 17:13:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+worst prof ever, even harder than CMPT307
+
+--- Rating #6 ---
+Class: CMPT125
+Date: 2014-04-16 03:19:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He is so smart. His notes are pretty clear and comprehensive. Lab is not mandatory for most of time. And one In-class Midterm, Final are super straightforward and fair.  Take Course with Dr Hafer, you will learn quite a few stuff.
+
+--- Rating #7 ---
+Class: CMPT126
+Date: 2013-08-25 11:20:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+WORST couse EVER EVER since I came to this university...lectures and textbook are uesless for assignments and exams...I CANNOT believe WHY I DID NOT DROP THIS XXXX Course
+
+--- Rating #8 ---
+Class: CMPT125
+Date: 2013-08-21 05:48:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Course was much tougher than most people anticipated. Assignments are time-consuming, challenging, and very interesting. If you have the desire to put work in to this course and acquire a solid foundation in programming, this is the course for you. If you put solid time and effort into assignments(even if you don't finish), the tests are a breeze.
+
+--- Rating #9 ---
+Class: CMPT125
+Date: 2013-08-14 12:49:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+You must be crazy to take cmpt125 with him. He already explained HALF of 225!! first class on arrays already, then you'll learn linked list, stack/queue..etc. what the heck??? he spent 2 lectures going over EVERY loop and assumes you know everything. good luck to you all if ur in his class.
+
+--- Rating #10 ---
+Class: CMPT150
+Date: 2013-04-13 21:24:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Not a very good teacher. He doesn't explain much, especially since there are no pre reqs for the class. Felt like he need ed to go slower and explain at a more bas ic level than what he was teaching at. Assumes you understand what's going on. Better to read the book or talk to somebody in class that understands the material.
+
+--- Rating #11 ---
+Class: CMPT371
+Date: 2012-08-18 14:09:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+One of the Best profs I ever had in my life. His knowledge in this field is so deep. I Thoroughly enjoyed every class.He expects more from his students, and always welcomes discussions. Exams were little bit tricky, marking and grading were harsh, but if you work hard you will get a good grade. If you enjoy learning and working hard,don't miss lou
+
+--- Rating #12 ---
+Class: CMPT371
+Date: 2012-07-20 22:04:27 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He is absolutely the worst ever. No joke. One earlier rater said s/he was able to talk to the department head and got permission to retake the course with someone else. Now why didn't I do that? Fellow students: keep this bit of knowledge handy. You too can take control of the quality of your own education!!!
+
+--- Rating #13 ---
+Class: CMPT150
+Date: 2012-05-07 02:17:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He's very clear, helpful and easy to talk to but he's one of the hardest profs you'll meet. If you don't have interest for the course, you might as well drop it. Only recommended for people that are good at studying on their own. Odd scaling method, instead of scaling from average, he scales from the highest mark. Which may or may not be helpful.
+
+--- Rating #14 ---
+Class: CMPT150
+Date: 2012-05-04 20:17:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+People need to take the general pattern of ratings here seriously. He is one of those teachers that has a penchant for making a course much harder than it needs to be. The textbook is bad and his notes are even worse. Does not make clear which material are relevant to the course so you always waste time studying extra stuff.
+
+--- Rating #15 ---
+Class: CMPT150
+Date: 2011-11-21 04:05:25 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+No tutorials to practice on the stuff he teaches. Last coding assignment super difficult. Messy/useless notes. Best to rely on textbook instead of his lectures.
+
+--- Rating #16 ---
+Class: CMPT126
+Date: 2011-08-19 21:39:38 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Lou is not as bad as many people say. His assignments are VERY difficult, make sure to find some friends good at programming. Make sure you write very detailed design and testing documentation for your programs.  Second, read the material before class.  His lectures are pretty good if you know what he's talking about. Mid-Term and Finals  are fair.
+
+--- Rating #17 ---
+Class: CMPT125
+Date: 2011-08-15 17:08:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+useless lecture, hard ass assignments... DONT TAKE THIS CLASS!!!
+
+--- Rating #18 ---
+Class: CMPT125
+Date: 2011-08-02 00:42:08 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I got an A in CMPT 120 3 years ago, so I took CMPT 126 to get my GPA to 3.00, now I may get a D or F. My beefs with the prof are like that of most people here. Lack of syntax teaching, being unable to carry away useful info from lectures, unapproachable for help, etc. It seems he can teach upper-level courses well, but not lower-level ones.
+
+--- Rating #19 ---
+Class: CMPT125
+Date: 2011-05-29 21:55:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Explains theoretically but says not a word about syntax that. ONLY answers questions during class. Extract from course outline regarding office hours &quot;you knock, you have about a minute to convince me that your problem is sufficiently urgent that I should continue to interrupt what I was doing in order to give your problem further attention.&quot;
+
+--- Rating #20 ---
+Class: CMPT250
+Date: 2010-11-05 21:07:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Just thought I'd counter some of the negative reviews here - Yes, 250 is a hard course, but Lou was one of the best teacher's I've had. I'm sorry you did poorly, but don't blame him because you didn't get it. He teaches clearly, he is interested, he is willing to help students, and the course follows the text, so just read it for clarifications.

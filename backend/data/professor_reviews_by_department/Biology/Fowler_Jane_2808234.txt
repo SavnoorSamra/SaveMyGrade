@@ -1,0 +1,89 @@
+Professor: Jane Fowler
+Professor Legacy ID: 2808234
+Professor ID: VGVhY2hlci0yODA4MjM0
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 3.2
+Avg Difficulty: 3.8
+Num Ratings: 6
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: BISC303
+Date: 2025-12-18 07:29:59 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr Fowler told us that certain types of questions, such as calculations won't come on final, and they came up as 10 point questions. Her lectures are also quite empty, and you often have to study topics using the textbook. Midterm was rushed, final was okay but had brutal mcqs. LO's are often combined from various lectures to form exam questions.
+
+--- Rating #2 ---
+Class: BISC303
+Date: 2025-12-06 05:54:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great prof. I def recommend attending lecture as some slides are a little vague are require some explanation. If you keep up with the slides you'll be fine, she makes it clear she tests based on the learning objectives. A heavy-load course with lab so just manage your time well, but overall Jane is amazing! Always open to questions after lec too
+
+--- Rating #3 ---
+Class: BISC303
+Date: 2025-08-12 22:51:33 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+midterm was hella rushed so gotta write fast and work quick. MC, T/F, fill in blank and written on exams. Memorize everything and you can do good. final was a bit weird but if you memorize evrything and understand processes gone over in class you can do good. boring lectures and sometimes confusing so read textbook to clear up concepts. Nice prof.
+
+--- Rating #4 ---
+Class: BISC303
+Date: 2025-08-12 08:52:17 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I maintained an A+ throughout the whole course (including the lab exam) but the final I wrote today definitely ruined that. It felt like a mental marathon with 6 long 6-10 point questions and brutal MC and fill in the blanks. Wouldn't recommend giving yourself the stress unless u absolutely have to.
+
+--- Rating #5 ---
+Class: BISC303
+Date: 2025-06-13 09:53:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I always find her class difficult... Heavy reading and hard to figure out where to focus on for exam because there is so much detail. Personally, I wouldn't recommend taking her class.
+
+--- Rating #6 ---
+Class: BISC303
+Date: 2024-05-08 21:53:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This is an intense/content heavy class, but Jane guides you in the best way. Her lectures are clear, but she is open to any questions and accessible in her office. The exams are tough, but fair. If she provides you example problems or extra content in the lectures it will show up on the exams!

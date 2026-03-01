@@ -1,0 +1,271 @@
+Professor: Steven Weldon
+Professor Legacy ID: 1142171
+Professor ID: VGVhY2hlci0xMTQyMTcx
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 3.4
+Avg Difficulty: 3.9
+Num Ratings: 46
+Would Take Again Percent: 71.4286
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: POL201
+Date: 2024-11-28 06:31:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Good prof just a lot of coding. He has an online textbook which is nice and the labs were helpful. Overall he's okay but be aware of the midterm because the average is usually around a 50%.
+
+--- Rating #2 ---
+Class: POL201
+Date: 2024-01-26 05:43:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I like Steve, I do but dam his version of Pol 201 is very tough. Compared to another professor who teaches the course it is like night and day as Steve's class is all about code and coding. His midterm consists only of terms and concepts so you need to memorize equations but there is no math to actually do.
+
+--- Rating #3 ---
+Class: POL201
+Date: 2024-01-24 08:07:46 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Weldon wants his students to do well, but hesitates to help with certain questions as he wants students to figure it out themselves. Tutorials were very useful, lectures not so much. He does give extra marks for attendance sometimes. Overall not a bad prof.
+
+--- Rating #4 ---
+Class: POL210
+Date: 2023-07-13 03:46:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Worst poli sci professor at SFU. Read his syllabus and youll know that he is just by that.
+
+--- Rating #5 ---
+Class: POL201
+Date: 2023-02-13 01:19:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This is probably the most dreaded mandatory course for poli sci students because it's stats and R based. Hard course but you get the grade you put in work for. Labs are much harder than assignments but are pass/fail and meant to push your understanding of the material. Steve is very approachable for help and a super understanding prof.
+
+--- Rating #6 ---
+Class: POL315
+Date: 2020-12-15 18:14:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Pol 315 is not fun. It's extremely difficult, especially online. It was my most difficult course in my education. But Steve is great. He's tough but fair, and he was always willing to help out.
+
+--- Rating #7 ---
+Class: POL339
+Date: 2019-04-06 21:47:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Steve has been the clearest professor when it comes to what is expected of you during the session. He cares about the students and the course work, I would highly recommend taking this class.
+
+--- Rating #8 ---
+Class: POL201
+Date: 2018-12-30 06:04:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Love this prof. He really wants his students to pass and will do what ever needs to be done to make it happen, although if your not attending class/tutorial then don't expect the respect in return. He definitely makes you work for your grade, heavy on homework and not a lot of time between assignments, definitely a good prof to take a class with
+
+--- Rating #9 ---
+Class: POL201
+Date: 2018-12-10 00:40:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This class is the most difficult class and Steven and the ta's have no marking criteria. They give the mark they want to who they want. very difficult course would not recommend
+
+--- Rating #10 ---
+Class: POL201
+Date: 2017-07-31 18:44:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Horrible.
+
+--- Rating #11 ---
+Class: POL201
+Date: 2017-01-17 23:53:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Steve is probably one of the most approachable profs I've ever had at SFU. He replies to emails very quickly. Don't expect to pass this class especially if you don't work hard. POL201 was probably one of the harder courses I've taken, but he makes it tolerable with his humour and 24/7 access for help.
+
+--- Rating #12 ---
+Class: POL201
+Date: 2016-12-14 15:59:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+There is little reading but you will need to reread the texts over and over if you hate math or coding. You will need to spend lots of time on the assignments and start them early so you can ask him for help unless you are good at math.  Final was basically testing for statistical significance easy! Only people good at math should attempt to cram.
+
+--- Rating #13 ---
+Class: POL201
+Date: 2016-12-05 19:55:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+This class was very hard. When lectures weren't cancelled they made no sense and did not relate the the course material whatsoever. The course is basically 100% R so the only useful part of the course was the lab. Weldon did not care if students struggled in his class and did not offer much help. Do not take this course with Weldon.
+
+--- Rating #14 ---
+Class: POL201
+Date: 2016-11-11 14:25:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Steve is 100% the best prof I've ever had at SFU. I  have never had a prof give so much help! He has made me love stats (which I didn't think was possible). As long as you work hard, go to see him in office hours if you have a question, and always practice in R, you will be totally fine! Amazing knowledge, understanding, and commitment to students.
+
+--- Rating #15 ---
+Class: 315
+Date: 2014-12-11 23:46:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Already ready to help and as long as you show interest and put in the effort you will get a good grade. The midterm was tough but he marks everything fairly. He cuts the 4 hour lecture down into 3 hours which is great. Its hard to balance lecture and lab time and I think he did a great job of doing so.
+
+--- Rating #16 ---
+Class: 315
+Date: 2014-12-11 23:39:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Steve is the best prof I have ever had at SFU. The midterm was super hard but even though my word crashed 10 mins before the exam ended he let me hand it in later. He is super understanding and all his assignments and grades are fair. He is also always available for help. Put the time in and you will get a good grade.
+
+--- Rating #17 ---
+Class: POL231
+Date: 2014-12-10 17:02:13 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Funny guy, hard marker, tests can be tough.
+
+--- Rating #18 ---
+Class: 231
+Date: 2014-12-05 20:56:26 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Tests are tough and he marks pretty hard. His lectures can get dry. Hope and pray he doesn't mark your midterm and double pray he doesn't mark your final.
+
+--- Rating #19 ---
+Class: 231
+Date: 2014-12-05 20:55:22 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Tests are tough and he marks pretty hard. His lectures can get dry.
+
+--- Rating #20 ---
+Class: POL315
+Date: 2014-11-25 01:22:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Useless. The lecture used to be 4 hours, but he always leave early - make the lecture become 3 hours. He only read throughs the powerpoint slides. The course base on the R script to analysis, but he does not explain the R script in the class so much. Conclusion: Waste my time

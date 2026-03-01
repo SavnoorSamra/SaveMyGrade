@@ -1,0 +1,63 @@
+Professor: Yanwen  Luo
+Professor Legacy ID: 2993159
+Professor ID: VGVhY2hlci0yOTkzMTU5
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 5
+Avg Difficulty: 2.5
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: MACM201
+Date: 2025-12-12 10:25:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great prof and funny guy (taken in 2024)
+
+--- Rating #2 ---
+Class: MACM201
+Date: 2024-05-13 19:17:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Quizzes, midterms, final all fair, no surprises. Do weekly assignments, redo in class examples. He goes fast in lectures and its a bit hard to follow. He'll time to time go over time limit. Sometimes skips over examples in lecture because no time but they'll still be testable. Good prof overall. MACM 201 is not as hard as people make it to be.
+
+--- Rating #3 ---
+Class: MACM201
+Date: 2024-04-14 22:30:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Finally a professor who actually wants you to do good in his class and CARES, very helpful, he is the best prof I ever taken! Oh and MACM 201 is a breeze compared to MACM 101.
+
+--- Rating #4 ---
+Class: MACM201
+Date: 2024-03-18 05:39:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His lectures are clear and easy to follow. This course is not as hard as people claim if you just do the assigned questions and make sure you follow the class materials in a timely fashion.

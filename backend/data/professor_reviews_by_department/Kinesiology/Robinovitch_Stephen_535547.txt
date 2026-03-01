@@ -1,0 +1,128 @@
+Professor: Stephen Robinovitch
+Professor Legacy ID: 535547
+Professor ID: VGVhY2hlci01MzU1NDc=
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 3
+Avg Difficulty: 3.2
+Num Ratings: 9
+Would Take Again Percent: 57.1429
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: BPK201
+Date: 2025-12-10 04:53:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Steve is a great prof and a great person. He does go through lectures slowly and occasionally gets lost but overall his lectures are good. he also record all lectures. if you study well you will do well.
+
+--- Rating #2 ---
+Class: BPK201
+Date: 2025-10-20 16:30:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+All over the place with bad explanations
+
+--- Rating #3 ---
+Class: BPK402
+Date: 2021-05-02 23:01:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+402 was fairly straightforward until the final, which Steve made very long and difficult. Steve is a bit of a boring lecturer, but keeps things simple - watching the lectures at 1.4x speed was necessary. Midterms and problem sets were fine, especially with the provided practice midterms. If you enjoyed BPK 201, you'll probably like this class too.
+
+--- Rating #4 ---
+Class: BPK201
+Date: 2021-01-09 15:16:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+A great teacher among the BPK department. He might have somewhat of a monotonous voice, however the lectures are very concise and clear themselves that make up for a rather lengthy lecture. All the questions were very fair and the expectations were not that high. If you can tolerate basic physics, this course is highly worth it with him!
+
+--- Rating #5 ---
+Class: BPK201
+Date: 2020-12-23 04:49:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I believe that this class had the potential to be amazing, but it ended up like hell, as I feel we barely had any practice questions for exams. As a result, I found the exams to be extremely difficult, as this class was basically physics, which requires lots of practice questions.
+
+--- Rating #6 ---
+Class: KIN201
+Date: 2019-04-26 21:55:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Steve is an intelligence and caring prof but in terms of teaching, this was a horrendous class. I went to every lecture and although he said we'd benefit from it, it was not helpful at all. Thankfully, our TA saved our butts and i really thought she was our prof. MT1 and 2 were too long but MT3 was fair. The teaching killed my interest for biomech.
+
+--- Rating #7 ---
+Class: KIN402
+Date: 2018-02-28 16:48:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A god among men.
+
+--- Rating #8 ---
+Class: KIN201
+Date: 2007-07-23 18:52:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Easy class, an excuse to eat lunch, read the paper and maybe absorb some Kin on the side. No need to take notes or print them off. The first 2/3's of the class was easier than Phys 101 with the exact concepts. Learned a few things in the last 1/3 of the course and the 2nd midterm was a bit of a curveball but all other assigns and test were fair.
+
+--- Rating #9 ---
+Class: KIN402
+Date: 2004-12-15 21:34:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+High interest in course topic.  High expectation in course work.  Nice guy.

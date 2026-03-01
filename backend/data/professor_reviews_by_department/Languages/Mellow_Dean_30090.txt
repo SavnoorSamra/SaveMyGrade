@@ -1,0 +1,271 @@
+Professor: Dean Mellow
+Professor Legacy ID: 30090
+Professor ID: VGVhY2hlci0zMDA5MA==
+Department (CSV): Languages
+Department (Fetched): Languages
+Avg Rating: 3.9
+Avg Difficulty: 2.7
+Num Ratings: 48
+Would Take Again Percent: 87.5
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: LING323
+Date: 2022-01-15 19:17:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Nice guy
+
+--- Rating #2 ---
+Class: LING350
+Date: 2022-01-15 06:33:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+hes good prof
+
+--- Rating #3 ---
+Class: LING350
+Date: 2022-01-15 05:02:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is super nice! Caring about students, get ready for exams with us together, tell us how to do well in exams follow his instruction you well at least get B+!
+
+--- Rating #4 ---
+Class: LING323
+Date: 2020-11-23 17:49:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Dr. Mellow is such sweet man and prof. Despite his name, he is not mellow. He is particular and buzzes around class giving you millions of handouts to keep. Often his class consists of looking at the handouts, reading through them and highlighting, underlining and circling instructions. This was fine for in-person, online however, it was very dull.
+
+--- Rating #5 ---
+Class: LING323
+Date: 2018-04-18 02:37:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Mellow is the most patient professor I have had at SFU. He answers every question we have. Even something he had said in class a lot of times. When you are not able to come to class, he will give you the handout and notes next class. He is the person who is really sweet, please choose the course if he teaches. It is worth.
+
+--- Rating #6 ---
+Class: LING220
+Date: 2017-04-04 01:49:10 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+-Extremely easy course if you have an aptitude for linguistics. I wish we had learned more content rather than just solve the same problems over and over again. He pretty much teaches whatever he wants which is not great for an intro course because it will make the next courses much harder. But it was an easy credit so oh well.
+
+--- Rating #7 ---
+Class: LING220
+Date: 2017-04-04 01:48:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Extremely easy course if you have an aptitude for linguistics. I wish we had learned more content rather than just solve the same problems over and over again. He pretty much teaches whatever he wants which is not great for an intro course because it will make the next courses much harder. But it was an easy credit so oh well.
+
+--- Rating #8 ---
+Class: LING323
+Date: 2016-12-06 23:05:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very clear explanations, but you don't really learn much. He basically gives you all the answers you need for his midterm and final exam. Very strict on writing, which is odd because linguists are supposed to be descriptivists. Regardless, I am glad that I got to encounter Dean during my undergrad and wish he spoke more about his own work.
+
+--- Rating #9 ---
+Class: LING323
+Date: 2016-02-19 14:20:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: True
+Comment:
+I have no idea why such morphologist are so willing to make every of his student a newspaper writer. Course itself is easy, and this professor who is the only authority of morphology at SFU claims that he likes every of his course is a writing course. If you like to teach a W course go teach it, not torturing students by bunch of papers.
+
+--- Rating #10 ---
+Class: 350
+Date: 2015-01-05 23:32:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Dr. Mellow is hands down one of my favourite professors. He is so clear on his expectations and really offers a lot of help outside the classroom for those who need help with their writing or understanding. He is kind, has great wit and is really passionate about what he teaches. I would highly recommend taking his class.
+
+--- Rating #11 ---
+Class: LING301
+Date: 2010-12-24 10:40:25 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Everyone complains that this course is difficult, but he is very reasonable. This is a writing course so he is picky on grammar. All upper division courses are difficult, and this one is as well as it is a W course. Dr. Mellow is always available for help when you need it.
+
+--- Rating #12 ---
+Class: LING362
+Date: 2010-05-12 17:26:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Dr. Mellow is one of my favorite professors in the Linguistics department. His lectures are very interesting, and timed extremely well. He is polite and respectful towards students, and available for help. He is a fair marker and very clear in his expectations. You always learn something new in his lectures and he is quite humorous as well.
+
+--- Rating #13 ---
+Class: LING220
+Date: 2010-05-08 11:26:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+A very clear lecturer.
+
+--- Rating #14 ---
+Class: LING220
+Date: 2009-07-07 17:04:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+A very concrete and lucid lecturer.  I also had him as a TA and he did a good job of engaging the entire class in guided problem solving-- not an easy task in an intro course!  He ran an extra seminar before the final and posted extra practice materials online.  Clearly knows his stuff, very organized, and interested in student input.
+
+--- Rating #15 ---
+Class: LING220
+Date: 2009-05-01 05:48:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Dr. Mellow is a great prof. His lectures are clear, and he is always available for help. As long as you attend class and tutorials, the exams and assignments should be doable. But the grading scale for this class is crazy high. 91 is an A-
+
+--- Rating #16 ---
+Class: LING220
+Date: 2009-04-21 02:16:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Dean's got a very nice personality, very caring, helpful, and orgainized. Make good use of the assignments, listen in lectures and u'll do fine in his class. =)
+
+--- Rating #17 ---
+Class: LING220
+Date: 2009-03-04 17:41:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is very organized, and an interesting professor. His grading system is extremely high. Like 97 and up is an A+. But if you pay close attention to his examples and assignments, you will find that the exam formats are quite similar. Overall, great prof.
+
+--- Rating #18 ---
+Class: LING350
+Date: 2008-12-06 06:10:15 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Two years later this prof gets a sad face. How odd. Agree to prior rating. He just likes to teach what he wants, I didn't learn a single thing in how first language is acquired waste of my $600 tuition and initial interest. All 1 in class essay, midterm, final, and paper are difficult, for he ONLY cares on HOW you right not WHAT you write. AVOID!!!
+
+--- Rating #19 ---
+Class: LING350
+Date: 2008-12-05 15:53:39 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Nice person but not a good teacher. He only marks you on how you write and not what you write, so if your not a good writer with an LPI of 6 then don't even think about getting an A or anything close to it. His 72% is a C-. It is not even a Writing intensive class. Did not learn anything in the class. if you take his class make sure u have LPI 6.
+
+--- Rating #20 ---
+Class: LING220
+Date: 2006-12-19 17:20:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Pretty clear and organized prof. His lectures are very helpful, as he pretty much gives hints on how to do assignments and exams and what concepts can be ignored. Overall, pretty good class =)

@@ -1,0 +1,37 @@
+Professor: Karin Lee
+Professor Legacy ID: 1251148
+Professor ID: VGVhY2hlci0xMjUxMTQ4
+Department (CSV): Asian Studies
+Department (Fetched): Asian Studies
+Avg Rating: 3
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: ASC400
+Date: 2010-03-14 05:01:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+No textbook for the course and extremly unclear instruction...
+
+--- Rating #2 ---
+Class: ASC301
+Date: 2009-04-05 15:36:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She's a friendly, easy going prof.I loved her class. She's very helpful and open to ideas. Her class material is interesting. There are 3 short essays and a couple of group assignments. There are no midterms or finals. She's an easy marker and a nice person.

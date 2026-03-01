@@ -1,0 +1,180 @@
+Professor: Scott Kristjanson
+Professor Legacy ID: 1849747
+Professor ID: VGVhY2hlci0xODQ5NzQ3
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.7
+Avg Difficulty: 1.8
+Num Ratings: 13
+Would Take Again Percent: 100
+
+Ratings Count Returned: 13
+
+--- Rating #1 ---
+Class: CMPT135
+Date: 2016-11-14 20:18:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+One of the best. SFU is lucky to have him. Clear assignments. Quizzes based on slides. Go to class & you get hints. Pay attention & ace the quizzes. Scott is funny. Great personality. Ask him questions, he loves to help. 10/10 prof. Would take a class with him again, 100%.
+
+--- Rating #2 ---
+Class: CMPT135
+Date: 2016-09-08 04:53:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Best so far. He's 100% into lectures and goes on a tangent to explain any question you ask . Funny, high energy, and practically begs you to come to his office hours. This guy is a machine. You can email him 24/7 for a reply within 5 minutes, and he creates entire program frameworks overnight from scratch for simple assignments. Huge Industry exp.
+
+--- Rating #3 ---
+Class: CMPT135
+Date: 2016-04-23 14:37:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Awesome professor. He was very enthusiastic during lecturers, you can tell he has a passion for what he does. He is great at helping his students and is willing to take time out of his busy schedule to meet with his students. 10/10 would recommend.
+
+--- Rating #4 ---
+Class: CMPT135
+Date: 2016-04-13 17:08:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Scott is the man! His lectures are informative and his tests are super clear. The assignments can get a little tough but he's always there for you if you need help. Office hours are also really great, and he's really fast on emails. He's really passionate about CS and was nice enough to move my exam to another day since I had a conflict )
+
+--- Rating #5 ---
+Class: CMPT125
+Date: 2014-01-11 16:36:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+The nicest cmpt professor I have ever met, and he does care a lot about his student. I really recommend to go his office hour as often as you can!
+
+--- Rating #6 ---
+Class: CMPT125
+Date: 2013-12-27 02:26:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: N
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Very nice, very enthusiastic, and very helpful. He goes quite fast during lectures (it is helpful to read the textbook before the lecture) but he does repeat the most difficult concepts several times to make sure everyone understands. He gives lots and lots of hints and genuinely wants everyone in the class to succeed. An excellent prof overall.
+
+--- Rating #7 ---
+Class: CMPT125
+Date: 2013-12-11 22:06:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Scott is amazing! I've never had a prof as helpful as hime in SFU. One time he literally stayed in CSIL from 4 till 9ish to help out with every student. Got tons of hints on exams and assignments. Also would reach out to students for extra help. If you could, take Java with him.
+
+--- Rating #8 ---
+Class: CMPT125
+Date: 2013-12-11 15:54:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He always gives hint probably every class. He always emails you back if you have a question. During the assignments he'll email at least 5 emails giving you hints and if you show up in lecture he'll practically give  you the answer. Notes are so in dept that you don't even need the book and he's always in CSIL if you wanna ask him questions.
+
+--- Rating #9 ---
+Class: CMPT126
+Date: 2013-12-11 00:36:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Given it was his first term lecturing he was pretty successful. Mostly read off the slides. Encouraged questions during class, but would scoff at people who asked simple questions, pretty demeaning sometimes. The midterm and quizzes were fairly simple, and he would often tell us beforehand what specific questions to expect.
+
+--- Rating #10 ---
+Class: CMPT125
+Date: 2013-12-09 00:55:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very enthusiastic, his lectures are interesting as he shares his experiences in the field to the class. Really nice guy and helps students as much as he can. He understands that not every student has the same back ground in computer programming and throws out many hints for those less experienced. Amazing professor, looking forward to more classes!
+
+--- Rating #11 ---
+Class: CMPT125
+Date: 2013-11-19 02:30:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Nice guy, super clear, and super helpful. I thought the class was surprisingly difficult so be prepared to work hard, I did well because of prior Java experience. His exams are challenging but he gives lots of hints as to their content during lectures.
+
+--- Rating #12 ---
+Class: CMPT125
+Date: 2013-11-11 13:25:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Awesome professor who is very enthusiastic in lecture and keeps it interesting with the occasional joke. He also gives hints on assignments and exams during lecture so it's a good idea to go. Very respondent to emails and will stay after hours to help you on assignments. He made CMPT 125 very easy and I highly recommend him.
+
+--- Rating #13 ---
+Class: CMPT125
+Date: 2013-11-10 17:56:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: N
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Not the most clear instructor, but puts his lecture slides online which helps. Very respondent to emails, and helpful in office hours. He also gives "hints" as to what will be on the exam and more or less tells you how to do the projects. I recommend him!

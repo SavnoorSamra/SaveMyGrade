@@ -1,0 +1,273 @@
+Professor: Miranda Meents
+Professor Legacy ID: 2684128
+Professor ID: VGVhY2hlci0yNjg0MTI4
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 4
+Avg Difficulty: 3.2
+Num Ratings: 22
+Would Take Again Percent: 59.0909
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BISC102
+Date: 2025-08-21 18:28:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+participation does not matter, but recommending to attend labs for sure and tutorials. professor was amazing, very clear, fun, and enjoyable to talk to .
+
+--- Rating #2 ---
+Class: BISC337
+Date: 2025-05-14 03:45:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Miranda is a good prof but I can see why people would disagree with that. The class itself is quite a lot to remember but if you literally stay on top of lectures (eg. review after class) it will be 5x easier
+She's a nice person but she doesn't tolerate rude people
+Exams were a bit hard but fair game (mostly lecture based+the small details matter).
+
+--- Rating #3 ---
+Class: BISC366
+Date: 2024-12-20 06:11:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This is my second time taking a course with Miranda. She is very enthusiastic and caring, but she allows a cheat sheet during exams, which in Biology typically just adds a layer of complexity to the questions that means it is easier to do decently on the exams but harder to do excellently, as questions can't be simple ones like multiple choice
+
+--- Rating #4 ---
+Class: BISC328
+Date: 2024-12-11 06:50:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Miranda ran an excellent lab for BISC 328. The labs were thoughtfully designed, assignments were generally interesting, and there was room for creativity. She was friendly, encouraged questions, and maintained a sense of community in the lab. Feedback was fair and helpful, and her self-grading approach allowed for flexibility and reflection.
+
+--- Rating #5 ---
+Class: BISC366
+Date: 2024-12-01 18:37:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She likes to answer questions. Does not teach you how to answer questions on her exams. So much content and the exam is 7 questions from content of 8 lectures. No lecture recordings and you have to come to lecture for participation. Hated how the explanations she wanted on exams were never explained or taught in lectures.
+
+--- Rating #6 ---
+Class: BISC337
+Date: 2024-05-04 20:56:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Miranda is a great professor, labs are fun and straight forward and she is very approachable. My only issues are exams can be a bit knit picky (particularly the final) with images asking you to identify anatomy you likely haven't seen before, so my advice would be to really give it 100% in the labs and truly understanding what you are looking at.
+
+--- Rating #7 ---
+Class: BISC337
+Date: 2024-05-03 23:07:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Miranda is clearly passionate about plants and the course. The weekly quizzes aren't too hard, but require pre-reading lectures/labs. The exams are tough, not enough time for the midterm and the final (cumulative) tested on small details, only passable with the cheat sheet (pack this with information and labelled diagrams).
+
+--- Rating #8 ---
+Class: BISC337
+Date: 2024-04-24 01:17:33 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Miranda clearly looks kind and approachable at first but she is evil on the inside when it comes to exams . Tough grader, participation heavy, weekly quizzes.
+
+--- Rating #9 ---
+Class: BISC337
+Date: 2024-04-22 00:20:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good class, requires participation and has weekly quizzes. Exams are fair, labs are very (and imo too) structured. Classes are chill and her slides have most of the info you'll need. Has a high-school/late elementary school style of teaching.
+
+--- Rating #10 ---
+Class: BISC337
+Date: 2024-04-19 16:28:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof, cares a lot about what students learn, makes material very easy to understand. Her style is participation heavy. I'm personally not a fan of consistent participation, so I didn't enjoy that, but if you do you'll absolutely enjoy the class.
+
+--- Rating #11 ---
+Class: BISC337
+Date: 2023-04-07 01:17:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She's a good and caring prof though I find her activities pointless sometimes as others have said a lot. Lecture slides are good and have lots of information. Exams are definitely fair but time crunched and I'm not a fan of the weekly quizzes. She kind of has a high school style of teaching if you like that. Imo, BISC 326 lab is her best class.
+
+--- Rating #12 ---
+Class: BISC366
+Date: 2022-12-17 18:47:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Miranda is enthusiastic and clearly cares about her students and wants to support their learning. While lectures were very well-organized and clear, tutorials felt disjointed from the rest of the course and some activities were almost entirely pointless.
+
+--- Rating #13 ---
+Class: BISC326
+Date: 2022-12-09 20:57:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Really nice prof, I did learn lots! Labs were informative but def take a lot of pictures of all the stations since they're not available later on. Some activities were confusing since we didn't have enough background info and there were a lot of little assignments. Algae lab exam was hard so hope she fixes it. Last days of lab were sorta pointless.
+
+--- Rating #14 ---
+Class: BISC326
+Date: 2022-12-06 06:27:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I loved the activities Miranda prepared for the BISC326 lab. She is very sweet and approachable, and always had answers to my questions. The algae lab was incredibly hard however, and I wish I was more prepared for what the lab exams would look like.
+
+--- Rating #15 ---
+Class: BISC326
+Date: 2022-12-04 05:49:17 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lab materials are spread between online info sheets, worksheets, and resources only accessible during lab time, which makes test preparation unnecessarily difficult and stressful. Lab activities are also unengaging and mostly pointless, and did not help with exam preparation.
+
+--- Rating #16 ---
+Class: BISC326
+Date: 2022-10-29 07:44:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very kind, friendly and knowledgeable professor. Her lectures are great and her slides are very helpful. Testing and assignments are fair if you put in the time. She goes all the way to help her students and it shows. Would highly recommend.
+
+--- Rating #17 ---
+Class: BISC102
+Date: 2022-09-13 06:53:46 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor meents is a very understanding and caring prof. Her lecture slides are very informative and clear. The course was  content heavy so there was alot to remember but her exams were fair
+
+--- Rating #18 ---
+Class: BISC366
+Date: 2022-01-22 07:59:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Miranda's course structure can be very difficult and her tutorial assignments were very difficult (worth 25%). Exams were fair, but the group project was a little too long (took the whole semester). Overall she was caring prof and the class did rather well.
+
+--- Rating #19 ---
+Class: BISC326
+Date: 2021-12-27 11:12:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Labs were LONG and almost kind of pointless. Lab midterm and final were NOT like what we learned during lab time!!! Spends too much time doing pointless activities.
+
+--- Rating #20 ---
+Class: BISC366
+Date: 2021-12-21 00:50:23 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Same as below. She's really nice &amp; she encourages participation during lecture which is good practice. But tutorials can be hard bc she wants you to complete so many questions. Her notes are quite simple so it can be confusing &amp; I'm not sure if those notes cover everything we need to know from the course. Exams are fair, wording is weird sometimes.

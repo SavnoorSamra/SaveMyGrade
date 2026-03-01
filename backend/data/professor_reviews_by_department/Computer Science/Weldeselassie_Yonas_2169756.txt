@@ -1,0 +1,275 @@
+Professor: Yonas Weldeselassie
+Professor Legacy ID: 2169756
+Professor ID: VGVhY2hlci0yMTY5NzU2
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.6
+Avg Difficulty: 3.7
+Num Ratings: 62
+Would Take Again Percent: 66.129
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT130
+Date: 2026-02-26 03:01:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+take with him!
+He is knowledgable and caring! + his notes are enough!
+
+--- Rating #2 ---
+Class: CMPT130
+Date: 2025-09-08 08:42:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+No way you fail his class if you do all his practices. Final was pretty hard though. However, as long as you do his practices every week, you'll pass.
+
+--- Rating #3 ---
+Class: CMPT125
+Date: 2025-04-13 03:44:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I repeated this course with Yonas only, first time I did not study at all but second time around I never skipped a class did all Lab work questions did all assignments and quizzes on my own rather than use chat gpt.
+overall Awesome professor and clear grading criteria
+
+--- Rating #4 ---
+Class: CMPT130
+Date: 2025-04-07 00:21:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's a very good professor&#8212;you should definitely take his class, even though the final is a bit tough and the lab assignments are quite demanding.
+
+--- Rating #5 ---
+Class: CMPT125
+Date: 2024-09-28 21:34:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Honestly the ones that are saying he tough grader or his lectures are boring haven't seen SFU 2nd lecturers and how bad they are.
+
+--- Rating #6 ---
+Class: CMPT125
+Date: 2024-09-05 04:40:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His exams are very difficult and you need to study more than what you learn in class to pass them. The impact of quizzes and homework on the overall grade is minimal.
+
+--- Rating #7 ---
+Class: CMPT125
+Date: 2024-05-04 06:57:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great lectures. I just attended the classes and did the assignments myself without any external help and was able to do well in his course. He is always willing to help students during the lab session so take full advantage of the lab session to clear your doubts.
+
+--- Rating #8 ---
+Class: CMPT125
+Date: 2024-04-21 02:24:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Hate this Prof, very lecture heavy and they are boring, even the minutest mistakes are punished and Most Importantly has a wrong approach in teaching Computer Science, liking using the most outdated software, hand written exams etc. (coming from a 3.45+ GPA holder)
+
+--- Rating #9 ---
+Class: CMPT130AND135
+Date: 2024-04-20 14:34:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is patient and willing to help students. If you do not work hard, your grade will be hard. He is a nice teacher but the material needs lots of practice.
+
+--- Rating #10 ---
+Class: CMPT125
+Date: 2024-01-24 20:47:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Teaches everything clearly. Everything you need is in his slides which he posts so it's easy to review. Seems intimidating at first but he's really more like a dad who gives tough love. He'll help you with any problem you have. Tough exams, but as long as you practice you'll do great.
+
+--- Rating #11 ---
+Class: CMPT130
+Date: 2023-05-07 19:17:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is a very good teacher who tries his best  that the students can understand the concept . Course is super easy if you do all the lab work as exams are related to it . Also he is ean easy grader .
+
+--- Rating #12 ---
+Class: CMPT130AND135
+Date: 2023-02-25 22:28:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Although his exams are pretty tough, he teaches the best. The flow and the way he teaches will make you the best programmer. Also, his lab works are super tough which makes it easier. 
+
+So, in short, this course is for people who are keen and desperate on learning programming.
+
+--- Rating #13 ---
+Class: CMPT135
+Date: 2023-01-22 21:20:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Yonas really helped me understand the course material, I also found him very understanding. Make sure to do the lab exercises as it is good practice for the exams. The final and midterm exam was hard though, so make sure to study hard for those. Plus, he's a cutie.
+
+--- Rating #14 ---
+Class: CMPT130AND135
+Date: 2023-01-15 15:57:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Cool course that makes u learn abt c++. Some parts are fairly interesting and overall i'd say these 2 courses are fairly easy. Yonas uploads useful materials that helps u get a good grade.
+
+--- Rating #15 ---
+Class: CMPT130
+Date: 2023-01-13 06:41:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Other teachers at FIC told me he purposely fails students to earn money. He will fail you no matter how hard you try so you retake the course and he can make money. He is greedy for money. His marking is unfair. I am at SFU now, no upper-year course has a harsh marking, and no one deducts 25% or 50 % for a small error as he does.
+
+--- Rating #16 ---
+Class: CMPT135
+Date: 2022-09-07 11:03:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Yonas probably has one of the worst course outlines in FIC. For example, you can do well during the entire course and a single midterm or final exam can destroy you. For sure it will, because the tasks he provides during the exams are extremely difficult. Should mention that Yonas is a tough grader, and he can deduct up to 75% from the correct answ
+
+--- Rating #17 ---
+Class: CMPT130
+Date: 2022-08-20 07:59:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Do not take this course, i'd even say avoid this school at all costs. Not only is Dr yonas the worst teacher i have ever met he failed me just because my finals failed and did not show an ounce of sympathy. Literally had 60% before the final 25% to add on. I dont know exactly what happened but apparently my finals failed and I got an F.
+
+--- Rating #18 ---
+Class: CMPT135
+Date: 2022-08-20 04:06:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The course is very disorganized. I've spent ~90 hours (I've been tracking) working on this course and yet only got a C+. The next semester I took the same class with professor Jiang Ye and got an A. He does not inspire you to work harder and mocks you when you have questions. Also he gives looooots of work and expects you to complete all of them.
+
+--- Rating #19 ---
+Class: CMPT130
+Date: 2022-06-30 22:31:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His quizzes are ten times harder than his lectures and practice material and you will be struggling each week just to barely pass the course. No clear grading criteria either so you may get 75% and still fail.
+
+--- Rating #20 ---
+Class: CMPT135
+Date: 2022-06-22 04:03:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+He is the worst professor I encountered at FIC. Incredibly disorganized and expects us to spend all our time studying this course. I got better marks in higher-level courses at SFU without having to spend as much time and frustration on them. Additionally, he is very discouraging and purposefully fails his students by adding weight to wrong answers

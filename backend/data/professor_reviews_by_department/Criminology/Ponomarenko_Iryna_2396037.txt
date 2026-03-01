@@ -1,0 +1,50 @@
+Professor: Iryna Ponomarenko
+Professor Legacy ID: 2396037
+Professor ID: VGVhY2hlci0yMzk2MDM3
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 4
+Avg Difficulty: 3.7
+Num Ratings: 3
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: CRIM230
+Date: 2020-02-03 05:54:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Iryna is one of the most caring and passionate proffessors you can have. She challenges you in a very effective way to excercise critical thought and your own mind. She may be more difficult than some professors, but she compensates with willingness to help students. You will always get out the effort you put into her classes.
+
+--- Rating #2 ---
+Class: CRIM230
+Date: 2019-08-23 19:55:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Criminal Law class is pretty hard, but Iryna really tries to help her students. Attend lectures, tutorials and office hours, read the textbook - and you will be fine. I promise that you won't regret taking this class with her!
+
+--- Rating #3 ---
+Class: CRIM230
+Date: 2018-12-19 18:24:48 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Iryna is a very nice lady, but unfortunately her lectures left a bit to be desired. She spent about half of her lectures reading from her slides from the previous lecture which may sound helpful, but it proved to be otherwise. When she got into the new material it was rushed and not particularly well put together.

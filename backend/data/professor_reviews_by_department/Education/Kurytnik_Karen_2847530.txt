@@ -1,0 +1,115 @@
+Professor: Karen Kurytnik
+Professor Legacy ID: 2847530
+Professor ID: VGVhY2hlci0yODQ3NTMw
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 5
+Avg Difficulty: 2.8
+Num Ratings: 8
+Would Take Again Percent: 100
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: EDUC322
+Date: 2025-07-15 22:20:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Karen is such a kind and incredible professor. She is not only super smart, but always willing to help those who need it! Talk to her if you're struggling; she is very accomodating if you communicate with her and show that you're actually trying.
+
+--- Rating #2 ---
+Class: EDUC323
+Date: 2024-09-10 17:26:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+You won't regret taking her courses. Very caring prof who wants you to succeed in her class.
+
+--- Rating #3 ---
+Class: EDUC323
+Date: 2024-01-10 23:26:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Karen was a great professor, especially for the online format. Really encouraged to go at your own pace, as each module spans two weeks. She responded quickly to emails and bi-weekly announcements were helpful reminders for deadlines (as well as personal touches and well wishes). Super kind and knowledgable.
+
+--- Rating #4 ---
+Class: EDUC464
+Date: 2023-10-27 12:23:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Karen was an excellent prof! She responded quickly to emails, provided feedback, and ensured that expectations were clear. There is a large research project, but she was very supportive throughout the process.
+
+--- Rating #5 ---
+Class: EDUC464
+Date: 2023-07-28 18:16:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Karen is such a kind and genuine instructor. You can tell she cares about her students - this course does have a lot of reading (hence being 4 credits), but the course is laid out so it's easy to navigate and assignments are well divided up.
+
+--- Rating #6 ---
+Class: EDUC323
+Date: 2023-03-20 01:22:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: True
+Comment:
+Karen is an amazing professor who genuinely cares about her students. She has clear expectations and is always available when you need clarification or have any questions. I will always take classes with her!
+
+--- Rating #7 ---
+Class: EDUC464
+Date: 2022-12-28 20:42:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Karen is hands down the best prof I've had at SFU. There is a large research project for this course (50% of your grade) and she was there every step of the way whenever I had questions or concerns. She replies to emails quickly and is very kind and understanding. I can't recommend her highly enough!
+
+--- Rating #8 ---
+Class: EDUC464
+Date: 2022-12-15 07:48:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+She is so kind and nice, not a tough grader, just take her class. 100% recommended.

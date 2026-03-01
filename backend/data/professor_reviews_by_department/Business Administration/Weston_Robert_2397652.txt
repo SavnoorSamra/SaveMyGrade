@@ -1,0 +1,273 @@
+Professor: Robert Weston
+Professor Legacy ID: 2397652
+Professor ID: VGVhY2hlci0yMzk3NjUy
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.5
+Avg Difficulty: 2.4
+Num Ratings: 32
+Would Take Again Percent: 90.625
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS484
+Date: 2025-12-02 08:04:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Passionate professor with strong academic and industry experience. Very reasonable and approachable. The workload is light (one group paper, one individual paper, one pair presentation, and 10% attendance), but grading can be subjective and the curve is high and tight due to the small class. No clear marking rubrics for assignments were provided.
+
+--- Rating #2 ---
+Class: BUS381
+Date: 2025-05-04 16:33:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Robert is a super nice guy and does his best to teach a pretty boring class. Grading is based almost entirely on two papers and a final all of which were marked fairly. Make sure to study some of the weekly readings for the finals as one of them will be on there.
+
+--- Rating #3 ---
+Class: BUS381
+Date: 2025-04-26 02:52:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Interesting and engaging lectures for an hr course. Midterm and final had very high averages (79% and 89%). Don't bother with the textbook, the slides are enough to get a good mark.
+
+--- Rating #4 ---
+Class: BUS381
+Date: 2025-04-25 08:30:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Hahaha, he is the great professor, but his final exam average was around 89% (ONLY "B") based on the curve. You could see how his exam was easy but super hard to get competitive grades. And make sure you will finish the 30% paper strongly with your group mate!
+
+--- Rating #5 ---
+Class: BUS381
+Date: 2025-04-25 08:29:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Hahaha, he is the great professor, but his final exam average was around 89% (ONLY "B") based on the curve. You could see how his exam was easy but super hard to get competitive grades. And make sure you kill the 30% paper!
+
+--- Rating #6 ---
+Class: BUS381
+Date: 2025-04-23 05:30:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor Robert is super caring and sets the course up for your success. Recorded lectures help a lot. Exams are easy with high averages. Just read the textbook and review slides regularly. Also, make sure you're in a good group and pick an interesting topic for the paper.
+
+--- Rating #7 ---
+Class: BUS381
+Date: 2025-04-01 03:22:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+He is the best professor I have ever met at Beedie during this four year!
+
+--- Rating #8 ---
+Class: BUS381
+Date: 2024-05-01 22:47:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I was 40% below on the midterm but this mans the goat. He not only PASSED me but gave me an A-! Got my first A range in beddie! This is GOAT behaviour and I definitely recommend taking him. But beware of the high averages (~90%).
+
+--- Rating #9 ---
+Class: BUS381
+Date: 2024-04-21 02:20:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Robert is a great guy, clearly very interested in what he is teaching and whats you to be as well. He is quite funny with lots of stories to tell. The lectures can be a bit dry at times but he does his best to make them lively. If you can take a class with Robert do it, very much worth it.
+
+--- Rating #10 ---
+Class: BUS381
+Date: 2024-04-17 17:45:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+So hard 
+Awful marker
+Boring
+
+--- Rating #11 ---
+Class: BUS484
+Date: 2024-02-15 02:42:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+One of the best profs at beedie!
+
+--- Rating #12 ---
+Class: BUS381
+Date: 2023-09-14 04:08:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Robert is one of the best profs I have had at Beedie. He is excellent at explaining what would be difficult concepts so that they are easier to understand. His extensive experience and education make him a fantastic HR prof. His exams are fair and you know exactly what to expect. Highly recommend.
+
+--- Rating #13 ---
+Class: BUS381
+Date: 2023-08-14 20:49:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+pretty boring class overall. didn't learn much, just BS HR jargon. however, prof was a very nice guy and clearly cares about his students. he is passionate about the subject matter, not his fault the subject matter sucks.
+
+--- Rating #14 ---
+Class: BUS381
+Date: 2023-03-17 00:51:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ima be honest I only attended 2 of his lectures after finding out they were recorded but he is a caring and supportive prof. He seems really passionate about what he teaches in his lectures. The assignments and tests were very fair and I enjoyed this class.
+
+--- Rating #15 ---
+Class: BUS381
+Date: 2022-12-22 02:18:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Robert is very educated on the topic of HR and his lectures often provide many real life examples to expand your understanding. Exams do have high averages, but if you read the textbook you'll do fine. I recommend him if you chose to take 381, he's the best prof for it. Lectures are also recorded which is nice.
+
+--- Rating #16 ---
+Class: BUS381
+Date: 2022-12-13 07:55:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Robert is prof you must take for this class. He is great and his exams are generally easy
+
+--- Rating #17 ---
+Class: BUS381
+Date: 2022-12-13 07:53:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Robert is such a great, kind-hearted person. He truly cares about his students and wants them to succeed. There was a midterm, a group paper, a guest reflection, and a final. His lectures are kind of dry and likes to go on little tangents. However, they are not mandatory as they are recorded and you can read through the slides on your own time.
+
+--- Rating #18 ---
+Class: BUS381
+Date: 2022-06-20 19:11:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Robert seems like a nice guy, but for someone who specializes in HR is was very surprised to see how little care he had to accommodate students in unique circumstances. Additionally, his lectures were long and boring. Assignments did not have clear grading criteria and exams tested how fast you can write rather than how much you know.
+
+--- Rating #19 ---
+Class: BUS381
+Date: 2021-05-14 19:34:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Very nice, understandable and caring prof. Explains concepts in depth with real-life scenarios. I'm not a HR student so I found the content dry and boring at times but I gained a greater appreciation for it. Focus on application of topics as he often gives scenario-based questions during midterms and finals. Keep up with weekly articles.
+
+--- Rating #20 ---
+Class: BUS381
+Date: 2021-03-18 06:52:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Best prof I've ever had. I recommend everyone to take his class.

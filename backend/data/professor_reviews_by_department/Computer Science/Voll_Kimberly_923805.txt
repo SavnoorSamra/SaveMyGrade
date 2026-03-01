@@ -1,0 +1,128 @@
+Professor: Kimberly Voll
+Professor Legacy ID: 923805
+Professor ID: VGVhY2hlci05MjM4MDU=
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.9
+Avg Difficulty: 1.6
+Num Ratings: 9
+Would Take Again Percent: -1
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: APSC160
+Date: 2011-09-18 17:19:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Best teacher, she is so helpful especially on Vista.  You can tell you spends a good deal of time answering your questions as they are very thorough answers.
+
+--- Rating #2 ---
+Class: CS221
+Date: 2007-09-14 02:32:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very nice. Tries really hard to make sure everyone understands what is going on. It works. People get it.
+
+--- Rating #3 ---
+Class: CPSC221
+Date: 2007-06-29 14:44:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Kimberly was a *GREAT* teacher. She took a conceptually difficult course and made it clear, accessible and fun. She genuinely wanted her students to succeed, and really worked hard to provide support on webCT and through office hours. A++++ to Kim.
+
+--- Rating #4 ---
+Class: CPSC221
+Date: 2007-06-19 02:50:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+The best instructor at UBC (teaches at UBC & SFU). Clear, interesting, funny, and super nice. You can tell that she really enjoys teaching and she is very good at it.
+
+--- Rating #5 ---
+Class: CPSC221
+Date: 2007-05-18 09:46:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+UBC summer course. Awesome prof. Clear, reasonable, helpful. Respectful towards students. Sets the bar high for other instructors. Highly recommended.
+
+--- Rating #6 ---
+Class: COGD300
+Date: 2007-04-12 13:47:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+The smartest prof I had. Knows so much about so many different topics. Classes are really fun and assignments were really imaginative. She is a true inspiration!!!
+
+--- Rating #7 ---
+Class: CMPT110
+Date: 2007-03-16 18:09:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She was so helpful and welcoming.  I'm sure she was bogged down by thousands of emails over the semester but she quickly answered every one of mine. I hope she does well as a prof and in whatever career she is in after!!
+
+--- Rating #8 ---
+Class: CMPT110
+Date: 2007-03-11 03:39:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Kim is a really great prof. She presented topics really well, the assignments midterm and final were all fair, and she made herself really available for extra help.
+
+--- Rating #9 ---
+Class: CMPT165
+Date: 2007-02-10 03:36:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Lectures clearly and in a straightforward manner. Kim is readily available outside of class and is extremely helpful when students have questions about how to do an assignment or lab. She also answers e-mails quickly and thoroughly.

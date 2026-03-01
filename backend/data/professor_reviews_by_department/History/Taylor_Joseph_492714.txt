@@ -1,0 +1,271 @@
+Professor: Joseph Taylor
+Professor Legacy ID: 492714
+Professor ID: VGVhY2hlci00OTI3MTQ=
+Department (CSV): History
+Department (Fetched): History
+Avg Rating: 3.2
+Avg Difficulty: 3.7
+Num Ratings: 40
+Would Take Again Percent: 60
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: HIST213
+Date: 2025-06-16 17:41:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Dr. Taylor is such a good prof. I learned so much in his class. If you put in the effort, watch the recorded lectures, and ask questions, you'll get a lot out of this class. He's also very supportive when it comes to writing tips and resources.
+
+--- Rating #2 ---
+Class: HIST213
+Date: 2025-04-08 19:42:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+It's clear he's very passionate about his field as he would often go on tangents when asked questions. He's quite a tough marker but he leaves lots of feedback and simply wants you to improve. Would take again as he made me interested in US history!
+
+--- Rating #3 ---
+Class: HIST212
+Date: 2025-03-23 06:45:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Taylor was a great professor. He is very passionate and provides a lot of details in his lectures. The exams are generally fair because he warns you about the format beforehand but beware of his questioning it can be confusing. He is open to having more discussions and is very approachable. His quizzes are also very straightforward.
+
+--- Rating #4 ---
+Class: HIST132
+Date: 2024-04-25 15:22:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Do NOT take this if you don't need it. This is a 100 level course... I'm at the end of my 2nd year & this is the most demanding course I've ever taken. Several long and difficult readings every week. Long and boring lectures. Quizzes weekly. Essay instructions was literally 3 sentences. Not enough time to write exams (short answer and 2 essays)
+
+--- Rating #5 ---
+Class: HIST432
+Date: 2023-04-29 08:30:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Very passionate about his field, very approachable, and gives lots of feedback/answers to questions. Lots of papers but they're expected to be pretty short, concise, and to the point. Workload was reading a book (~300 pages) every other week and writing a short book review + presentation (no slides needed) on zoom. Easy grader in my opinion as well
+
+--- Rating #6 ---
+Class: HIST376
+Date: 2022-04-13 03:02:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He does not allow any technology in class... I was forced to handwrite all my notes then type them after which wasted so much time that I could of been actually studying the notes and material. He was also very particular about how you give test answers. Will never take another class with Joseph.
+
+--- Rating #7 ---
+Class: HIST432
+Date: 2021-04-27 17:42:59 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I had joseph taylor for spring 2021 (hist 432) and i just wanna say i never worked so hard just to get a B. The entire class was graded one group papers (50%) and presentations/participation (50%). He grades pretty hard but gives lots of feedback. I didnt find him very approachable
+
+--- Rating #8 ---
+Class: HIST212
+Date: 2020-12-28 06:19:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr Taylor is great. I think he struggled with online teaching but he did his best to adjust (this was during Covid-19). Lots of lectures but if you're passionate about history then it's definitely a fun class. Tough marker but you'll find yourself improving if you take his feedback.
+
+--- Rating #9 ---
+Class: HIST212
+Date: 2020-12-01 02:42:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Professor Taylor is a great prof and gives interesting lectures about the material which he is clearly passionate about. Participation is heavily encouraged in the weekly discussions. The course is interesting, but the lectures are long and there's a lot of reading. He's a hard marker, but that's just because he actually wants you to improve.
+
+--- Rating #10 ---
+Class: HIST376
+Date: 2020-04-21 20:57:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Like many others, I was intimidated by Professor Taylor on the first day of classes. However as the semester went on I began to look forward to his lectures more and more. He truly cares about his students and has a vast amount of knowledge on the American West. Assigns a lot of readings but they are essential to his tests and assignments.
+
+--- Rating #11 ---
+Class: HIST132
+Date: 2020-04-17 23:37:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Intro history class involved plenty of reading but that's pretty normal. Prof Taylor is a really nice guy who knows his content inside out. Personally, listening to him talk is absolutely fascinating, real mental stimulation. Tutorials were sort of a waste of time content wise, but we did get a lot of useful exam hints.
+
+--- Rating #12 ---
+Class: HIST376
+Date: 2020-04-14 23:32:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Based on what people said, I was terrified on the first day. Tons of reading, quiz every lecture (even day 1) and intimidating guy. By the end of this semester, I wanted to take another class with him. Really smart prof who cares about students and wants you to really think about the material. Amazing class and phenomenal scholar.
+
+--- Rating #13 ---
+Class: HIS132
+Date: 2020-01-25 06:19:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Too many readings for an intro class. Lectures don't have useful slides (all pictures). In fact, the lectures I feel don't provide enough foundation for the average student (esp those without a HIST background). Tutorials are a waste of time. There's only one hour to dive into three dense articles. And the pop quizzes every class. Terrible.
+
+--- Rating #14 ---
+Class: HIST377
+Date: 2020-01-16 03:28:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Taylor is amazing with fascinating lectures, but get ready for picture-only slides. The course is extremely reading heavy (coming from a 4th year history major), however, it was an incredible course. He makes you learn and the material is so valuable and interesting. I've never worked so hard but it made me a way better student.
+
+--- Rating #15 ---
+Class: HIST132
+Date: 2020-01-07 02:23:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+No laptops allowed, no lecture slides besides pictures and graphs (which if its your first history class be ready to be lost), overall he just talks a lot and very fast. I find it very hard to take proper notes, not worth it for the hum credit.
+
+--- Rating #16 ---
+Class: GEOG377
+Date: 2019-12-11 01:54:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+While this may appear to be a geography class it is absolutely not, it is a history class taught with geography elements. Wouldn't have been such a problem if the prof was not so full of himself. Content was interesting, however he was poor at communicating the point he was trying to get across. Would not recommend taking any class with him.
+
+--- Rating #17 ---
+Class: GEOG377
+Date: 2019-11-08 08:24:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+I took this for another upper div GEOG course just to get a credit and boy do I regret it. In my fourth year this was in the top 3 most hated courses, as the prof acts like Geog studies are below him and honestly feels like he is looking to fail people. I have never written one of these, but I had to make sure people avoid this class at all costs.
+
+--- Rating #18 ---
+Class: HIST132
+Date: 2018-06-28 20:12:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+There were quizzes every class (INCLUDING THE FIRST CLASS). lectures are boring as he just talks with NO words on the slides at all, just pics!! Took this for my Hum credits, and wouldn't recommend with this specific prof. had to print 50 pages of readings each week for the daily quizzes and exams. made me want to kms every morning before class
+
+--- Rating #19 ---
+Class: HIST373
+Date: 2018-02-02 13:58:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures are not only super important but interesting, very lecture heavy however you won't want to miss a class. Taylor may seem intimidating at first however he is very helpful with readings and with improving your writing. Exams were fair and as long as you do the readings and attend class you'll do well in the class.
+
+--- Rating #20 ---
+Class: GEOG377
+Date: 2016-12-28 14:38:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Joseph is a great story teller. You can learn a lot by how he teaches. His lectures have slides but you can't rely on them (there's basically no text). Definitely come to lecture and take good notes. There are a lot of readings but they'll help for the midterm and finals. Mostly essay questions. I enjoyed his class and would take another with him.

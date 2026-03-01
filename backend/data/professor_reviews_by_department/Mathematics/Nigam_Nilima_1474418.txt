@@ -1,0 +1,271 @@
+Professor: Nilima Nigam
+Professor Legacy ID: 1474418
+Professor ID: VGVhY2hlci0xNDc0NDE4
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2.4
+Avg Difficulty: 4.2
+Num Ratings: 40
+Would Take Again Percent: 35.4839
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MACM416
+Date: 2024-12-23 03:54:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very clear that Nilima is a master at numerical analysis. All lectures were written on a black board which is insane considering the material. Always answered emails on the day of sending, and was generally kind to students and super passionate about the course. Difficult homework, regularly took over 20 hours to complete and 50 percent was avg.
+
+--- Rating #2 ---
+Class: MACM409
+Date: 2024-02-06 16:31:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Prof Nilima is great!
+
+--- Rating #3 ---
+Class: MACM409
+Date: 2024-01-27 22:10:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor Nilima is very kind and keen on answering questions. Lectures are based on textbooks and exams are fair. Definitely recommend !
+
+--- Rating #4 ---
+Class: MATH240
+Date: 2024-01-03 09:30:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This prof made me want to come to lecture, she genuinely wants us to understand and do well. Other comments are right that lectures can be disorganized at times, but she's always willing to double back if anyone is confused. Proof assignments sometimes had confusing grading, attend class for her written examples!
+
+--- Rating #5 ---
+Class: MATH320
+Date: 2023-12-23 02:31:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Best math prof @ SFU. Incredible lecturer, well-crafted assignments, very fair exams. She set aside lots of time for office hours each week. Clearly cared about our learning.
+
+--- Rating #6 ---
+Class: MACM409
+Date: 2023-12-21 08:41:50 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+So much textbook reading. Lectures essentially cover 300 pages of text. Lectures disorganized visually with so much fast writing. "Study everything" for tests. Mean in office hours; made me feel stupid for asking questions and discouraged me from attending. 5 hours of OH a week was nice. LONG assignments, but MATLAB is cool. NOT LIKE MACM316 AT ALL
+
+--- Rating #7 ---
+Class: MATH240
+Date: 2023-12-20 12:55:58 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very helpful outside of class at office hours, but I found the lectures and notes themselves to be very poorly organized. We would often be given the "key idea" to understanding a particular topic, but the surrounding details felt glossed over, making the idea effectively useless to know. I found the midterms to be very fair. 5/5 person 1/5 lecture
+
+--- Rating #8 ---
+Class: MATH240
+Date: 2023-12-19 18:50:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This is a great class and Nilima Nigam is a great professor. She explained a lot of hard stuff in a way such that people can understand and I benefitted a lot from it. Wish she also showed class averages for exams so we wouldn't be in the dark about how we're doing.
+
+--- Rating #9 ---
+Class: MATH252
+Date: 2022-03-03 01:46:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor Nigam is by far one of my favourite professors I&#39;ve had so far in my degree. She is definitely passionate about math and that carries over into her teaching. Most of the lectures are spent deriving formulas and going over theory/concepts but there are more examples in her posted notes. Midterm was very fair but marked somewhat harshly
+
+--- Rating #10 ---
+Class: MATH242
+Date: 2021-02-16 18:50:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I did well in this class but more so out of my love for deeply understanding math and self-cleaning skills NOT the professor. This professor assaults the mental health and confidence of perfectly good and very intelligent students. It is unnecessary and she plays cruel psychological games with students. It is shameful.
+
+--- Rating #11 ---
+Class: MACM409
+Date: 2020-03-11 01:28:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Macm 409 is a challenging and useful course. Course materials are all about numerical algorithms. Dr. Nigam shows us how those algorithms could be used in mathematical and data science field. There are lots of interesting applications in the homework. She is very helpful and friendly in her office hour. Besides, She has high expectation.
+
+--- Rating #12 ---
+Class: MATH232
+Date: 2020-03-03 03:35:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Doesn't say class is mandatory but gives specific info to only those in class so you must attend. Extremely unfair exams, quizzes are OK. Class averages were between 30-45%, very unfair. Causes way too much stress, plays with students minds, generally rude demeanour. I've heard she is better with upper level courses, but was horrible for 232.
+
+--- Rating #13 ---
+Class: MATH425
+Date: 2019-10-26 23:55:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+(MACM409) I speak on behalf of 3 others along with myself in saying that I've never taken a more stressful and difficult class. If you have less than 1 year of computer science classes under your belt, you will probably get an F or C- Frequently assigns HW involving reading research papers and discussing unrelated ideas from that covered in class
+
+--- Rating #14 ---
+Class: MATH232
+Date: 2019-07-18 06:55:10 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+If you do all the homework each week, you will get a nice grade. Her second midterm is hard but the final exam is very easy. If you look at the last few questions at each chapter, you will see the knowledge which the professor teach to us is limited and you will see how hard is linear algebra. Study by yourself!(make full use of your holiday)
+
+--- Rating #15 ---
+Class: MATH232
+Date: 2019-04-24 03:54:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This woman tends to throw off remark like &quot;shame on you&quot; to students, which gives a very clear picture of her unethical soul and uncaring character. She should be dismissed as soon as possible!
+
+--- Rating #16 ---
+Class: MATH232
+Date: 2019-04-18 02:16:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Linear algebra isn't a hard course but the way she teaches it makes it so. Sometimes she seems annoyed when you ask questions. The way she teaches is hard to follow and the material is partially covered, leaving you with a lack of knowledge for future courses. &quot;If you fail or succeed it's all up to you, I can't help it&quot; -N. Nigam during a lecture.
+
+--- Rating #17 ---
+Class: MATH232
+Date: 2019-04-15 07:30:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Nilima is just an overall awful prof. If this was a higher level course with a much higher learning curve I don't know what I would have done. Cons: Nilima is very bad at teaching and her lectures don't reflect the course material well. She also taught 4 sections on the last class which was during/right before finals. Stay AWAY
+
+--- Rating #18 ---
+Class: MATH232
+Date: 2019-04-14 06:38:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Poorly explained more difficult concepts. Lectures were just covering proofs theorems and basics, while there will little no applications to the problems that we saw on the exams.
+
+--- Rating #19 ---
+Class: MATH232
+Date: 2019-04-12 16:42:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Its 9:30 in the morning, two hours before the exam and I know that none of the exam will be based of practice or the concepts from class. It will be underhanded questions that relates to nothing that I learnt from her. Self-teaching is the key when you take a class with her. Warning, she is not the prof for math
+
+--- Rating #20 ---
+Class: MATH232
+Date: 2019-04-10 00:35:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Quizzes were based off homework which meant if you did the homework for the week you could easily get 100%. But midterms rolled around and you realized that the homework made no difference. It seems she was possibly behind as the last week she crammed several chapters into the last class and said it would be on the final. Seems nice though I guess

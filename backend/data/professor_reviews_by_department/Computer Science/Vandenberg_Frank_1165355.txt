@@ -1,0 +1,50 @@
+Professor: Frank Vandenberg
+Professor Legacy ID: 1165355
+Professor ID: VGVhY2hlci0xMTY1MzU1
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.7
+Avg Difficulty: 3.3
+Num Ratings: 3
+Would Take Again Percent: -1
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: CMPT275
+Date: 2009-10-18 14:32:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Very nice and approachable prof. Class is very relevant and final project is a good thing to have in interviews. Be prepared to write tonnes!
+
+--- Rating #2 ---
+Class: CMPT275
+Date: 2008-09-20 10:48:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He is nice and teaches well. Exams are fair. Only thing is you will get a LOT of homework, every week actually. Be prepared to put in the time and don't take too many other classes. Also, he often isn't clear about what he expects for the HW.
+
+--- Rating #3 ---
+Class: CMPT275
+Date: 2008-08-30 03:00:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Great prof, brings a lot of real world perspective into a class that could easily be very boring otherwise. Examples are good but should only be looked at as samples.

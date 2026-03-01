@@ -1,0 +1,37 @@
+Professor: Larry Davids
+Professor Legacy ID: 1453419
+Professor ID: VGVhY2hlci0xNDUzNDE5
+Department (CSV): Music
+Department (Fetched): Music
+Avg Rating: 5
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: FPA104
+Date: 2010-06-27 23:18:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Super helpful, super nice TA,  have fun!
+
+--- Rating #2 ---
+Class: FPA289
+Date: 2010-06-25 13:25:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+AMAZING PROF! Prof Larry is very humourous and excellent in teaching. Excellent course, I highly recommend taking classes with him.

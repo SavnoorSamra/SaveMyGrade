@@ -1,0 +1,271 @@
+Professor: Pavol Hell
+Professor Legacy ID: 38679
+Professor ID: VGVhY2hlci0zODY3OQ==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4
+Avg Difficulty: 3.5
+Num Ratings: 36
+Would Take Again Percent: -1
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: 307
+Date: 2015-08-14 17:02:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: False
+Online Class: True
+Comment:
+Terrible experience. Hate algorithm from now onwards.
+
+--- Rating #2 ---
+Class: CMPT307
+Date: 2015-02-11 21:50:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Excellent Class and Excellent Prof
+
+--- Rating #3 ---
+Class: CMPT307
+Date: 2014-12-13 02:45:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+He is the best prof that fits in what I believe to be the best way to learn and be tested. He gives clear lectures which his exams are all based on them and the homework. Even he was old school using paper and pen in class, but he is the only one prof that I have taken who uses the recording system for us to review his lectures online. Take him!!!
+
+--- Rating #4 ---
+Class: CMPT307
+Date: 2014-12-12 16:41:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+CMPT 307 is hard, but he makes it as simple as possible. I am surprised that his explanations for Master Formula and SELECT are way better than the ones in the textbook. The weekly assignments roughly took 15 hours each, but they are the core for getting good marks on exams. Memorizing solutions usually doesn't work, but understanding logic does.
+
+--- Rating #5 ---
+Class: CMP307
+Date: 2014-05-09 09:28:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+lots of homework; but still easy to get a high grade, and there's always a good curve.
+
+--- Rating #6 ---
+Class: MACM101
+Date: 2014-01-01 06:09:22 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very knowledgeable and smart prof, so it's worth to attend and listen to him. The biggest problem of this prof is you won't be able to get complete answers for your assignments. He shows solutions for SOME questions but not all. So, you don't know if your answers are correct for the other questions (TA marks the questions the prof showed answers).
+
+--- Rating #7 ---
+Class: MATH343
+Date: 2013-08-27 03:45:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I took Combinatorics/Graph Theory from Prof. Hell 40 years ago, and it was (really!) life-changing. What I learned, esp. from programming assignments, made things easy in my 1st job as a database professional. More important, I learned teaching techniques I use all the time, and I ran business process imprvmt workshops on five continents last year.
+
+--- Rating #8 ---
+Class: CMPT307
+Date: 2013-04-29 20:11:36 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He know his stuff.  The course is very difficult and when you ask questions, he is definitely not encouraging.  If the TA didnt help me understand some stuff, then probably would of failed.
+
+--- Rating #9 ---
+Class: CMPT307
+Date: 2012-08-18 12:10:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great proof. Killer final but very nice curve.  As long as you attend all the lecture and take notes, you should be okay. most of exam questions are from the lecture notes and homework. overall great prof.
+
+--- Rating #10 ---
+Class: CMPT307
+Date: 2011-08-23 06:52:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Hard course in general, and he's well-experienced teaching it. However I wish there'd been more feedbacks for students during the semester. Seeing my grades for assignments and midterm, it was not clear to me if I'd pass the course, which embarrassed me the whole time. But at the end I'm happy with my grade.
+
+--- Rating #11 ---
+Class: CMPT307
+Date: 2011-08-22 19:18:38 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+very hard course, one of the hardest among CMPT courses.his teaching skill is above average.The assignments are very time consuming (one assignment per week).exams seem intimidating, but actually fair after u take a closer look
+
+--- Rating #12 ---
+Class: CMPT307
+Date: 2011-08-18 05:47:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very good prof, The course is taught like a math course, weekly assignments and such (some of which are hard) but thats how you learn the material. He is also crystal clear in his lectures and very approachable for help during office hours.
+
+--- Rating #13 ---
+Class: CMPT307
+Date: 2011-08-17 22:33:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very good professor, but difficult course content. He explained everything very well. The homework was not to long but it was difficult. His midterm and final exam seemed intimidating at first but they were manageable.
+
+--- Rating #14 ---
+Class: CMPT307
+Date: 2011-08-11 20:16:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Good teacher, hard topic, he did well to help most of the students pass and his class always has more people passing, so i guess that means he's easier or a better teacher than other people for this class
+
+--- Rating #15 ---
+Class: CMPT307
+Date: 2011-07-29 04:10:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+too many assignments! one assignment per week, and each assignment takes a average student about 8 hours to finish.Do u the math.avoid him unless u don't have any other choices.
+
+--- Rating #16 ---
+Class: CMPT307
+Date: 2011-06-25 07:15:10 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He's sometimes kind of short-tempered. Besides he's like always in a rush, seems to have more serious commitments/affiliations somewhere else.
+
+--- Rating #17 ---
+Class: CMPT307
+Date: 2011-05-25 04:09:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Knows the course material very well, and teaches the stuff better than anyone at SFU.
+
+--- Rating #18 ---
+Class: CMPT307
+Date: 2011-05-14 05:41:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+not quite an encouraging professor
+
+--- Rating #19 ---
+Class: CMPT307
+Date: 2011-05-13 12:21:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Take him should you be hardworking.
+
+--- Rating #20 ---
+Class: CMPT307
+Date: 2011-05-13 03:21:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He's a famous prof and a good teacher. Although he's moody and his presentation is a bit boring. There must be a problem with his ears or his english because he didn't get some of the questions during the lectures. Very hard homework questions but he solves them right after the deadline. Too much strict for homework deadline which is the very begin

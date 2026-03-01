@@ -1,0 +1,180 @@
+Professor: Javier Almonacid
+Professor Legacy ID: 3112969
+Professor ID: VGVhY2hlci0zMTEyOTY5
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4.9
+Avg Difficulty: 2.8
+Num Ratings: 13
+Would Take Again Percent: 100
+
+Ratings Count Returned: 13
+
+--- Rating #1 ---
+Class: MACM316
+Date: 2026-01-04 10:04:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Javier was one of the best professors I've had to date. As everyone else is saying, his lecture notes are great. He is very open to questions during and after class and has an overall amazing attitude. The course is hard but he gave lots of practice questions. Si est&#225;s leyendo esto Javier, gracias!
+
+--- Rating #2 ---
+Class: MACM316
+Date: 2025-09-03 21:23:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His lectures were great. I understood almost everything and rarely had to consult the textbook to learn the material. There is lots of unmarked HW. However, the computing assignments (CA) are marked surprisingly harsh, so take them seriously (proper report format with intro & conclusion). Exams reflected CAs and HW. Many sample exams are provided.
+
+--- Rating #3 ---
+Class: MACM316
+Date: 2025-08-25 19:52:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Javier's notes are so good I never even had to use the textbook except for the homework questions. He's a fantastic teacher and has a great way of making sure everyone understands before he moves on. You can just tell he genuinely cares about his students. His exams are completely fair, and the past exams he provided were a massive help.
+
+--- Rating #4 ---
+Class: MACM316
+Date: 2025-08-24 07:21:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+You can tell he really knows his stuff. He made a dry subject/course tolerable and dare I say even enjoyable at times. An excellent prof.
+
+--- Rating #5 ---
+Class: MACM316
+Date: 2025-08-22 07:18:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Javier's lectures were extremely clear and I found them worth attending. Honestly the lecture slides were enough to study as they were much more helpful than the textbook explanations. HW is definitely worth doing as it appears on exams almost exactly. Low workload, I crammed at the end and still managed a decent grade. Javier is great!
+
+--- Rating #6 ---
+Class: MACM316
+Date: 2025-08-20 23:19:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very solid, knowledgeable lectures, and delivers them quite concisely. Sometimes there's too much stuff to write down though, but not a problem for the most part. Exams are more than fair (but worth 75%). Computing assignments have extremely good feedback, but they may be marked slightly inconsistently.
+
+--- Rating #7 ---
+Class: MACM316
+Date: 2025-08-20 02:00:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures were a bit hard to understand because of the amount of theory/proofs that was being presented. However, his examples would often clear things up. The homework was more practical than the lectures which helped with understanding the material. The exams were very fair and were based on HW and CA's.
+
+--- Rating #8 ---
+Class: MACM316
+Date: 2025-08-18 22:14:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Course is really well organized, exams are very fair, pretty good lectures. Only small con in my opinion is that the assignments feel really random on whether you'll get a good grade or not, as sometimes they're marked very harshly but other times really lightly.
+
+--- Rating #9 ---
+Class: MACM316
+Date: 2025-08-17 11:50:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's chill, exam questions were very similar to past exams + hw which were extremely fair. Goated
+
+--- Rating #10 ---
+Class: MACM316
+Date: 2025-08-14 19:25:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Javier's notes and lectures are very clear, with lots of graphs/visualizations, so I had to refer to the textbook very few times. He provides lots of opportunities to ask questions. Reasonable workload. Exams are also very fair. Overall a solid professor for 316.
+
+--- Rating #11 ---
+Class: MACM316
+Date: 2025-08-13 20:53:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Final was very fair and similar to the textbook questions. He's super nice in class and explains concepts clearly. Highly recommended for 316.
+
+--- Rating #12 ---
+Class: MACM316
+Date: 2025-08-13 18:06:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I was scared to take MACM 316 because I heard its a beast in itself. However Javier is a great lecturer, clear notes, answers lots of questions in class and midterm was fair based on what we learned. Computing assignments took more time and were graded a little harsh but overall Javier is awesome. Definitely reccommend him as a prof.
+
+--- Rating #13 ---
+Class: MACM316
+Date: 2025-08-03 03:22:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+It was Javier's first time teaching this course and I thought he did a great job. A couple cons: computing assignments were graded very harshly with weird/vague criteria, and the course itself is very heavy on notation/proofs. But Javier explained stuff pretty well and was really approachable for questions.

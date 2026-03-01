@@ -1,0 +1,37 @@
+Professor: Spozhmay   Oriya
+Professor Legacy ID: 3138638
+Professor ID: VGVhY2hlci0zMTM4NjM4
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 1.5
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: PSYC241
+Date: 2026-01-27 00:37:15 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I was excited to take this class but it's unfortunate because she does not add any supplemental information past what is on the slides considering it is also a 3 hour lecture. Not a very engaging professor at all.
+
+--- Rating #2 ---
+Class: PSYC241
+Date: 2026-01-26 22:37:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She's a friendly prof but was disappointed as this was a class I was looking forward to and my experience in it has been sub par. She is a fair grader but lectures are poorly structured and hard to follow along with 30% of the grade being based on a group project. She also reads directly from her slides with no additional information.

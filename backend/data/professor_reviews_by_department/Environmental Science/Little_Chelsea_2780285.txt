@@ -1,0 +1,80 @@
+Professor: Chelsea Little
+Professor Legacy ID: 2780285
+Professor ID: VGVhY2hlci0yNzgwMjg1
+Department (CSV): Environmental Science
+Department (Fetched): Environmental Science
+Avg Rating: 4.8
+Avg Difficulty: 2.4
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: EVSC-100
+Date: 2024-12-21 08:41:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Ms. Little's class was super easy and straight forward! I got an A by just following only the main content of the course. This was about 2 - 3 videos and 2 - 3 articles. There are also tutorials which was worth (40%) for me and was a super easy as you could ask help from the TA's and could be done in about 2 - 3 hours!
+
+--- Rating #2 ---
+Class: EVSC-100
+Date: 2023-12-05 23:05:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+For REM 211:
+
+Dr. Little welcomed all questions and answered them concisely & precisely. She would look up to her top right thinking about the question, then provided a nuanced response that went beyond the course content.
+
+Her lectures are engaging (so was TA Cassandra!) and has fun assignments (I had to clarify requirements for one assign tho)
+
+--- Rating #3 ---
+Class: EVSC-495
+Date: 2023-11-30 23:29:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I liked this class a lot, and I appreciate that the textbook was free. Participation was encouraged in the lectures but not mandatory. Rem211 does have quite a bit of groupwork and there is some coding as well as field work, so be aware of that
+
+--- Rating #4 ---
+Class: EVSC-495
+Date: 2023-11-28 06:51:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Little is an awesome prof. She expects a lot out of students but provides all the resources needed to succeed. She provides great feedback, explains clearly what she wants you do to and how you'll be graded, and is there for help if you need it. She clearly cares about what she's teaching and about her students' success.
+
+--- Rating #5 ---
+Class: EVSC-100
+Date: 2023-02-09 09:02:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Fairly straight forward class if you don't mind basic science. Good prof: short, easy to follow lectures and air exams that aren't weighted too heavily.

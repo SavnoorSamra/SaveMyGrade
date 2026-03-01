@@ -1,0 +1,37 @@
+Professor: Alexa Manuel
+Professor Legacy ID: 3023038
+Professor ID: VGVhY2hlci0zMDIzMDM4
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 4.5
+Avg Difficulty: 1
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: ENGL355
+Date: 2024-11-20 05:00:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Attendance mandatory but I feel like I don't really get anything useful from the lectures so I recommend leaving halfway after writing my name on the attendance sheet. Just read the assigned readings and get a firm grip on what your topic is for your paper. She's a generous (easy) marker and super approachable with questions.
+
+--- Rating #2 ---
+Class: ENGL363
+Date: 2024-07-22 02:37:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Says attendance is mandatory but it's really not. She is super easy going and is lenient towards deadlines as long as you communicate that with her. Her lectures are straightforward and welcome discussion. Except when you answer she doesn't really give a response, she just nods her head and moves on to the next person. Generous marking
