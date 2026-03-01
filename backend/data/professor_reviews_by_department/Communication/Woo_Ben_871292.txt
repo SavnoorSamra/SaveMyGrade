@@ -1,0 +1,76 @@
+Professor: Ben Woo
+Professor Legacy ID: 871292
+Professor ID: VGVhY2hlci04NzEyOTI=
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 2.2
+Avg Difficulty: 4.6
+Num Ratings: 5
+Would Take Again Percent: -1
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: COMM1101
+Date: 2015-04-17 15:47:04 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Extremely difficult exams and assignment guidelines are very unclear and broad
+
+--- Rating #2 ---
+Class: CMNS223
+Date: 2009-11-29 00:17:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+very good prof..very knowledgable..I thought he marked very fairly, I didn't think he marked too hard at all...I enjoyed this class!!!
+
+--- Rating #3 ---
+Class: CMNS223
+Date: 2009-08-18 01:47:14 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Lecture and readings are extremely important. Focus on main themes and vocabs each week in his lectures. Readings help you understand his lecture and assignment. He is a friendly and helpful teacher, seek help from him. He's marking is a bit harsh BUT it's changable. Particpate in his extra % writing. Good luck
+
+--- Rating #4 ---
+Class: CMNS223
+Date: 2009-08-04 21:05:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Nth much to say about this Prof...If anyone of you out there are academic probation and planning to take his class later, you would probably end up required to withdraw from SFU for the next semester..triple consider before taking his class guys and I'm serious about it...
+
+--- Rating #5 ---
+Class: CMNS223
+Date: 2008-12-10 16:22:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+For those of you taking CMNS 223 next semester (Spring 09).  Good Luck with this guy!!

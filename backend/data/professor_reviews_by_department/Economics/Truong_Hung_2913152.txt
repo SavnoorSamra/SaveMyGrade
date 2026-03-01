@@ -1,0 +1,102 @@
+Professor: Hung Truong
+Professor Legacy ID: 2913152
+Professor ID: VGVhY2hlci0yOTEzMTUy
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 3.9
+Avg Difficulty: 2.4
+Num Ratings: 7
+Would Take Again Percent: 71.4286
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: 103
+Date: 2024-03-08 05:13:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+One of the best prof in SFU, he's the most caring, kind and understanding prof ever
+
+--- Rating #2 ---
+Class: ECON105
+Date: 2023-12-06 08:41:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Nice prof, easy exams.
+
+--- Rating #3 ---
+Class: ECON105
+Date: 2023-12-06 08:40:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He made me love Econ, definitely recommend!!!
+
+--- Rating #4 ---
+Class: 103
+Date: 2023-10-24 07:28:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Good prof overall.
+
+--- Rating #5 ---
+Class: ECON105
+Date: 2023-08-16 19:32:26 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The class only had two midterms and a final. His lectures included him looking at the screen and turning around and reading what was on the slides to the class. He did barely any practice problems in class so going to lecture seems like a waste of time. was not very accessible either. Best hope is to do the practice problems. Tests were mostly fair
+
+--- Rating #6 ---
+Class: 103
+Date: 2023-08-15 23:12:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+long midterms
+
+--- Rating #7 ---
+Class: 103
+Date: 2023-05-24 06:59:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+doesn't provide lectures slides, all notes are handwritten so hard to keep up with what hes saying and writing. is not accessible at all. had such a bad experience in the first 3 weeks that i had to drop the class with a wd rather than stick with it.

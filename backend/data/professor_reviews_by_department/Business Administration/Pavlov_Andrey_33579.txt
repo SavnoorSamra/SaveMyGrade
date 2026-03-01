@@ -1,0 +1,271 @@
+Professor: Andrey Pavlov
+Professor Legacy ID: 33579
+Professor ID: VGVhY2hlci0zMzU3OQ==
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.3
+Avg Difficulty: 2.5
+Num Ratings: 40
+Would Take Again Percent: 50
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS419
+Date: 2026-01-17 00:38:26 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very easy class, Andrey marks completely subjectively and it is impossible to do badly. He doesn't teach and relies on students to "present," or lecture, to the class each week on that weeks material. Tests are on excel and are a time crunch.
+
+--- Rating #2 ---
+Class: BUS414
+Date: 2023-12-14 20:19:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the few profs that structures their course so it's more practical and less academic. I.e., exams mainly test understanding of concepts rather than memorization. Lectures were mostly talking about current events. Big downside is that the exams were so easy that everyone scored well, making it difficult to get a good grade.
+
+--- Rating #3 ---
+Class: BUS803
+Date: 2023-11-17 09:14:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Completely useless prof and waste of money. Teaches nothing during class and is also impossible to reach outside of class. The entire class is spent on talking about current events
+
+--- Rating #4 ---
+Class: BUS419
+Date: 2022-01-13 20:15:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He was extremely unclear about his instructions. Take any other finance course except BUS 419 with him - absolute nightmare. Super confusing questions, very little instruction and no care for students. MAKE SURE TO AVOID AT ALL COSTS!!!
+
+--- Rating #5 ---
+Class: BUS803
+Date: 2020-11-20 19:19:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Loved His Market Risk Class.
+
+--- Rating #6 ---
+Class: BUS316
+Date: 2020-11-15 22:39:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+3hr class now a 45 min &quot;Q&amp;A&quot; session where he answers your questions. does 0 teaching, expects you to watch videos and other things on your own bc he &quot;doesnt really care for his opinion&quot;. From the get go he assumes you know how to interpret futures/options on cme group with NO prior knowledge. If I knew how to do all this id be on wall street
+
+--- Rating #7 ---
+Class: BUS803
+Date: 2020-01-22 02:06:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Unclear, Worst Professor
+
+--- Rating #8 ---
+Class: BUS419
+Date: 2017-12-06 20:33:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Extremely clear with what he expects you to learn and tells you exactly what will be on the exams. The course material isn't too difficult and important concepts are covered multiple times. Goes on rants and likes to discuss finance news in class. Definitely recommend!
+
+--- Rating #9 ---
+Class: BUS803
+Date: 2015-08-17 17:14:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+wow, such a great teacher. Knowledgeable and amazing personality. I wish SFU has hired more of people like him rather than Jan Simon. He knows every branch of finance in depth and more importantly he knows how to transfer his knowledge. Of course you need to know a bit of mathematics, otherwise you be like those who rate him low here.
+
+--- Rating #10 ---
+Class: BUS803
+Date: 2015-03-05 09:22:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is very knowledgeable. The course is tough and if students don't have statistic background it is even more challenging. However he really make it simple and he explain stuff very well. It was a business course and there were many international student without knowing anything about Mathematics, for those it was really tough. He is A++++++
+
+--- Rating #11 ---
+Class: BUS495
+Date: 2012-03-29 15:58:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+very nice prof!!
+
+--- Rating #12 ---
+Class: BUS803
+Date: 2011-05-06 02:26:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Well, Avoid him if you can.  Just goes through the motion - absolutely no value added by his lectures.  I think he realizes it too.  Thats why his exams are ridiculously simple.
+
+--- Rating #13 ---
+Class: BUS803
+Date: 2006-01-12 16:08:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Unclear and unprepare.  Change his minds all the times.  Don't take his course if you have low tolerance for ambiguity!
+
+--- Rating #14 ---
+Class: BUS316
+Date: 2005-12-19 20:37:37 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Agree with below about the tricky Q's in exams. When he says u just need to know his lecture notes for the exams - he's LYING. u have to read the textbook. And make sure u do all the chapter exercises - sometimes he uses the exact same text Q's in his exams. ~Lazy and tricky prof.
+
+--- Rating #15 ---
+Class: BUS316
+Date: 2005-12-12 20:22:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I don't think's easy. Very unclear and unprepared. Make up questions on exams that you have no clue what it is asking about.
+
+--- Rating #16 ---
+Class: BUS316
+Date: 2005-12-03 17:28:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very lazy and unclear professor. I do not why SFU still let him teach! Avoid him if you like risk management.
+
+--- Rating #17 ---
+Class: BUS316
+Date: 2005-11-30 18:40:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Who said he is easy&#63; I don't think so. He will ask you to prove math formulas in midterm...so not easy. Maybe he read the earlier comments.
+
+--- Rating #18 ---
+Class: BUS316
+Date: 2003-07-15 23:32:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+easy
+
+--- Rating #19 ---
+Class: BUS316
+Date: 2003-04-16 04:12:22 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He cannot teach. But if you want an easy time. go with him. if you want to learn sth, stay away from him.
+
+--- Rating #20 ---
+Class: BUS316
+Date: 2003-03-22 23:36:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Easy calculations...still got tricked by him in the exam with the proves

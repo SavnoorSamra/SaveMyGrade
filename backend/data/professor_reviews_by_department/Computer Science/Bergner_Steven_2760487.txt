@@ -1,0 +1,285 @@
+Professor: Steven Bergner
+Professor Legacy ID: 2760487
+Professor ID: VGVhY2hlci0yNzYwNDg3
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1.8
+Avg Difficulty: 3.4
+Num Ratings: 40
+Would Take Again Percent: 20
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT353
+Date: 2025-06-30 09:49:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is very disorganized.
+
+If I were you, I would stay away from his courses and wait for another lecturer/prof to take this course instead.
+
+--- Rating #2 ---
+Class: CMPT353
+Date: 2025-04-30 03:33:25 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Really nice prof when you get in contact with him, but you will have to either email/meet after class since he is basically absent from the discussion forums. Grading was very chill, you really only have to worry about the weekly exercises since those are the bulk of where the learning comes from, then a group project in the last week or two.
+
+--- Rating #3 ---
+Class: CMPT353
+Date: 2025-04-25 21:03:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Him and his TAs almost never respond to emails. It's almost impossible to reach out to them on any issues, either grading, project proposal, or questions. Assignment and quiz grades are not released until weeks after the course ends. Seem to scale the class down for the final grade. Highly disappointed
+
+--- Rating #4 ---
+Class: CMPT726
+Date: 2025-04-08 15:47:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+THE WORST Prof EVER! Never notify schedule in advance with all the old information and the info is HARD to find on the webpage. Basically you will never know what to do till the last moment.
+
+--- Rating #5 ---
+Class: CMPT410
+Date: 2024-12-24 23:54:13 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's knowledgeable and kind but wow. He is so disorganized. 2/4 assignments were released two weeks late, but don't worry, we got a 2 day extension. The last assignment was released incomplete with errors, and he was MIA on the discussion board so we were screwed if we had questions. The assignments weren't graded until after the final passed. Bad
+
+--- Rating #6 ---
+Class: CMPT353
+Date: 2024-12-21 05:48:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Never responds to questions from students and explains concepts very poorly during lecture. He uses all of Greg Bakers materials to teach the course so just take the course with him or watch Greg's videos instead. He's a nice guy but he did the bare minimum.
+
+--- Rating #7 ---
+Class: CMPT410
+Date: 2024-12-10 01:22:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Don't listen to all these haters, this guy just may be the GOAT. Explains the slides very well and is always open to questions. While slightly disorganized, he never made me feel cheated or treated unfairly. Steven is clearly very intelligent and knowledgeable and it shows. Great guy. 10/10
+
+--- Rating #8 ---
+Class: CMPT726
+Date: 2024-12-08 01:52:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Has conflicting information within the lecture notes and discussion areas, both for the content and administrative details. Assignments were released weeks late while deadlines were extended by a few days at best. Only grades released before final were the automatically graded quizzes and first assignment which was due in the third week of class.
+
+--- Rating #9 ---
+Class: CMPT726
+Date: 2024-12-07 05:10:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This course has been the most disorganized course I have ever taken. Assignments and quizzes were never released on time, and throughout the entire semester, there was no grading or feedback provided for any assignments. The final assignment was even updated three times before the final version was confirmed.
+
+--- Rating #10 ---
+Class: CMPT726
+Date: 2024-12-05 22:54:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+1. Irresponsible.
+2. Highly protracted. (late in posting Assignments, releasing final info, grades, practice materials, etc).
+3. Hard to comment on the Quality of Assignments...
+
+--- Rating #11 ---
+Class: CMPT726
+Date: 2024-12-04 07:22:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Regardless of personal knowledges, not a helpful prof at all.
+
+--- Rating #12 ---
+Class: CMPT726
+Date: 2024-12-03 01:41:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor reads off of slides written by Mo Chen 
+No assignment mark came out before the 40% final exam! That means from the very first assignment to the very last one, no grades or solutions or feedbacks were released to the students
+This is a good course someone should take if they want to kill their interest in machine learning.
+
+--- Rating #13 ---
+Class: CMPT726
+Date: 2024-12-03 01:40:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+First time seeing prof releasing homework super late with live patches because not all questions were ready. Read off the slides in lectures. Overall, it is just super disorganized.
+
+--- Rating #14 ---
+Class: CMPT726
+Date: 2024-11-29 03:53:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I can read slides as well.
+
+--- Rating #15 ---
+Class: CMPT726
+Date: 2024-11-27 04:18:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is such a brilliant professor who encouraged everyone to build up strong self-study abilities. I think he should receive an early retirement as a reward
+
+--- Rating #16 ---
+Class: CMPT353
+Date: 2024-08-02 09:09:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+There are some lecturers who are incompetent. 
+
+There are some lecturers who are unprofessional. 
+
+Mr. Bergner somehow has combined to be both.
+
+--- Rating #17 ---
+Class: CMPT353
+Date: 2024-07-05 09:13:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The quality at the university has gone down drastically. 
+
+There is no better evidence for this fact then this lecturer. 
+
+You would be better off spending your time and money on the internet than his courses.
+
+--- Rating #18 ---
+Class: CMPT353
+Date: 2024-04-24 03:20:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This is my only positive rating on this site. I personally view how this guy runs CMPT353 as the way every course in this school should be run. No forced attendance except quiz, material is applicable to the real world, grading is fair. Only issue was lack of communication online, but, it was not usually needed. You could always go to office hours.
+
+--- Rating #19 ---
+Class: CMPT353
+Date: 2024-01-31 08:16:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Just reads from his slides. The class was rushed by the end of the term. Does not communicate well. No response to emails or discussion posts.
+
+--- Rating #20 ---
+Class: CMPT310
+Date: 2024-01-09 12:28:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is not audible in the class. The slides are plagiarized.

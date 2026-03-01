@@ -1,0 +1,76 @@
+Professor: Canan Gunes
+Professor Legacy ID: 2709497
+Professor ID: VGVhY2hlci0yNzA5NDk3
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 3.4
+Avg Difficulty: 3.2
+Num Ratings: 5
+Would Take Again Percent: 80
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: EDUC475
+Date: 2025-08-23 17:57:09 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I found this course to be VERY lecture heavy, which was fine, but could be hard to sit through at times. Canan was very approachable and friendly overall, but if math isn't your strong suit, some parts of the course may feel a little abstract.
+
+--- Rating #2 ---
+Class: EDUC211
+Date: 2024-12-20 23:15:48 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+A very nice professor. Never gives more than one assignment at a time. As a non-math student, sometimes the expectations of our abilities are not quite in check with reality. Test formats are odd, lots on the test that wasn't covered in class. Still an easy course for Q requirement.
+
+--- Rating #3 ---
+Class: EDUC475
+Date: 2022-06-21 19:50:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is a wonderful prof. We have weekly reflection assignments but when she assigns an additional assignment like the group assignment she cancels the reflection. There are weekly readings but the textbook is very easy and useful. There is a lot of group work during class time that reflects back onto the reading.
+
+--- Rating #4 ---
+Class: EDUC475
+Date: 2022-06-15 18:28:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures are helpful and are done by completing collaborative and hands-on activities that relate to the textbook and BCs curriculum. There are weekly assignments to hand in (reflections on in-class activities, group assignments, and a final project). She does not give more than 1 assignment at a time. Cares deeply about her students. 10/10
+
+--- Rating #5 ---
+Class: EDUC475
+Date: 2021-07-29 02:26:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+assignments are unclear, feedback is not specific, grading is unclear despite using rubrics. boring lectures. expects group projects and weekly write-ups for 0 marks.

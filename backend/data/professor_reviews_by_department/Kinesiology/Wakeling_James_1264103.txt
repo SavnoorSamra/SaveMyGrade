@@ -1,0 +1,102 @@
+Professor: James Wakeling
+Professor Legacy ID: 1264103
+Professor ID: VGVhY2hlci0xMjY0MTAz
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 2.9
+Avg Difficulty: 3.4
+Num Ratings: 7
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: BPK201
+Date: 2019-08-09 00:07:42 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Don't be deterred by the other ratings here. For 201, James was somewhat disinterested in the material and skipped by things quickly. That being said his exams were easy and related to the most obvious slides and study questions. 301 was a great class that I learned a lot in. James was very generous in marking and helpful throughout.
+
+--- Rating #2 ---
+Class: BPK301
+Date: 2018-12-21 21:35:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+James Wakeling is hands down one of my favorite profs at SFU. He's built an excellent class where you actually learn so much and he truly cares about his students and wants them to succeed. He's always more than willing to answer questions in lab with his full attention, is well respected and makes the lab a fun learning environment.
+
+--- Rating #3 ---
+Class: BPK201
+Date: 2017-12-11 13:14:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+James was a really nice guy but seemed very uninterested in the course. He was using the slides and tests from another prof so the concepts emphasized in class were not necessarily emphasized on the exam. I gained more knowledge from my tutorial than I ever did in class so lectures felt pointless. We were only graded on exams so study constantly.
+
+--- Rating #4 ---
+Class: BPK201
+Date: 2017-05-16 04:06:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Despite his apparent knowledge of the content, he doesn't go in depth on the material that comes up on the exams and assignments. There's no textbook to refer to for this course when you're left clueless during assignments. Attend labs in order to gain a better understanding of the calculation questions.
+
+--- Rating #5 ---
+Class: KIN201
+Date: 2017-03-24 19:53:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very hard marker and sometimes goes into too little for stuff heavily focused on exams or vice versa. Definitely passionate but at times not able to convey information well, and sometimes disorganized.
+
+--- Rating #6 ---
+Class: KIN201
+Date: 2017-03-07 14:59:03 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The lecture material is very basic compared to assignments and the midterm. Average of first midterm was 56 ! He explains too much unnecessary information that is not needed for the exams. You need to think out of the box and be really creative to pass this class with him!so if you have other options in terms of profs who teach this class go for it
+
+--- Rating #7 ---
+Class: KIN301
+Date: 2012-11-03 00:54:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Dr. Wakeling was extremely helpful in KIN 301. He gave us feedback, support and sometimes even a small biomechanics lesson when we were having trouble understanding what was needed for the lab. He is very soft spoken and sometimes stutters so you have to listen intently. He marks fair to hard on labs.

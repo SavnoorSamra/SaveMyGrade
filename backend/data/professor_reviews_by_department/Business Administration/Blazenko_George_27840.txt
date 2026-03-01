@@ -1,0 +1,271 @@
+Professor: George Blazenko
+Professor Legacy ID: 27840
+Professor ID: VGVhY2hlci0yNzg0MA==
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.7
+Avg Difficulty: 3.5
+Num Ratings: 123
+Would Take Again Percent: 68
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS312
+Date: 2020-10-30 04:38:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He will let you know directly how to do good in his class with all the material provided. He provides all of his past quizzes/midterms/finals on his website, open book/note, be prepare to practice hard and you will get what you deserve. Everything is given to you and the rest is up to you if you work hard. TAs are super helpful too
+
+--- Rating #2 ---
+Class: BUS312
+Date: 2020-04-30 22:47:56 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+George is super smart but not so good at teaching. He rambles so much and on top of that he's got a grandpa voice that makes you want to fall asleep. However, he posts all his past exams on his website which was really helpful in studying. Aim for the highest grade u can get before the final to cushion the damage
+
+--- Rating #3 ---
+Class: BUS312
+Date: 2020-01-16 05:15:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Do the sample Midterm and Quiz. The sample is similar to the actual one. Cheating sheets are allowed. However, the final is really hard and it is totally different from the sample. Assignments are easy to get the mark. Try to get a higher mark as possible before the final.
+
+--- Rating #4 ---
+Class: BUS312
+Date: 2019-12-16 09:50:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Blazenko is an amazing prof. However, the material from the midterm to the final seemed a bit rushed. He is super funny.
+
+--- Rating #5 ---
+Class: BUS312
+Date: 2019-12-13 10:32:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Just work on past exams you will be ok. Solutions are accessible on homework. Dont need to go to classes since all lectures are recorded.
+
+--- Rating #6 ---
+Class: BUS312
+Date: 2019-12-11 22:10:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Blazenko is amazing. He gives you all of his past exams and quizzes, and there is no need to buy a textbook. For the midterm and quizzes, practicing old exams and quizzes is enough. Also, try to pace yourself for the exams, otherwise, you will not finish writing. Lastly, ask your TAs for help if needed, and do not fall behind!
+
+--- Rating #7 ---
+Class: BUS312
+Date: 2019-05-29 23:15:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+George is the best prof I've had at SFU. He gives you every resource you need to be successful, and his passion for finance shows. There's might be easier profs out there, but if you're a finance major, definitely take this class with George as it will prepare you well for 315.
+
+--- Rating #8 ---
+Class: BUS312
+Date: 2019-05-28 17:20:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Amazing Prof who will go above and beyond if you go to office hours and show interest. I started a business later and he was willing to be part of the advising team to help us do well!
+
+--- Rating #9 ---
+Class: BUS312
+Date: 2019-05-13 18:45:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Live streams lectures and providers past tests for practice. Makes you work for it but youll learn a lot. Would recommend.
+
+--- Rating #10 ---
+Class: BUS312
+Date: 2019-05-09 02:06:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+You really have to work hard and understand how to do the questions by practicing a lot. Sample quizzes &amp; midterms were very similar to the actual ones. I got decently above average for both. The final was tougher but I did about 8 practice finals and ended up doing fine in the course. Just work hard and make good formula/cheat sheets for exams.
+
+--- Rating #11 ---
+Class: BUS312
+Date: 2019-04-30 23:23:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+George is an extremely fair professor, as he provides ample practice material to prepare for quizzes and exams. Additionally, he provides step-by-step video solutions to homework and practice problems. This style of teaching rewards students who are willing to put the time and effort into the course. He is passionate about finance and it shows.
+
+--- Rating #12 ---
+Class: BUS312
+Date: 2019-04-19 22:42:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+George is truly a nice guy that wants his students to succeed, he gives you everything you need to do well given you are willing to put in the work. You are NOT going to do well passively going through his class. I worked hard and studied endlessly and still found the course difficult. That being said, the average is typically below 65%.
+
+--- Rating #13 ---
+Class: BUS312
+Date: 2019-04-18 21:29:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+On the plus side, you don't have to go to the lectures to pass the course. Just watch the videos. You will do well until you get to the finals. When that comes, good luck.
+
+--- Rating #14 ---
+Class: BUS312
+Date: 2019-04-16 22:45:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+You can do well, if you put in a lot of work. A lot. Not recommended.
+
+--- Rating #15 ---
+Class: BUS312
+Date: 2019-01-21 04:14:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A riveting orator and a fascinating man. Blazenko's ability to inspire a class frequently reduces the students to tears of joy. A forewarning: you will discover parts of yourself that you never knew existed in this class. Be open to knew financial concepts, because George Blazenko will inevitably blow your mind.
+
+--- Rating #16 ---
+Class: BUS312
+Date: 2018-12-24 23:19:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+George is a great prof who really sets his students up for success, provided they work hard. All his past tests are posted to study off and his weekly assignments ensure you keep up. Lectures are recorded and posted as well. If you keep on on material and practice (lots) you can do really well.
+
+--- Rating #17 ---
+Class: BUS312
+Date: 2018-12-19 21:23:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+It's a tough class. George's lectures run dry but his notes from these lectures will appear on the qualitative portion of the final. Tons of resources / office hours for you to succeed, but does require consistent effort throughout the semester. MT and quizzes are standard. Final is quite tough. Practice practice practice.
+
+--- Rating #18 ---
+Class: BUS312
+Date: 2018-09-19 21:55:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Always repeat himslef unnecessarily. Assignments require knowledge ahead of lecture so you are basically forced to go see the TA. A little jumpy on the lecture, skip some steps.
+
+--- Rating #19 ---
+Class: BUS312
+Date: 2018-08-10 20:37:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+George is a great guy to learn finance from. The earlier problems with his course being hard to follow have been mostly resolved by his new video examples. If you work hard you will have a clicking moment where the broad contents of the course come together. Midterm is time intensive - Get fast at samples. Final tests understanding over mechanics.
+
+--- Rating #20 ---
+Class: BUS312
+Date: 2018-04-19 22:59:45 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Tip: Try to do as many past quizzes/midterms as possible (he posts all of them online) and ace them. They're way easier than the final, and you need that cushion to save you from that horrible final exam.

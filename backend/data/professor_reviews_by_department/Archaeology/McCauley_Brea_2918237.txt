@@ -1,0 +1,141 @@
+Professor: Brea McCauley
+Professor Legacy ID: 2918237
+Professor ID: VGVhY2hlci0yOTE4MjM3
+Department (CSV): Archaeology
+Department (Fetched): Archaeology
+Avg Rating: 2.9
+Avg Difficulty: 2.9
+Num Ratings: 10
+Would Take Again Percent: 60
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: ARCH101
+Date: 2026-02-16 03:02:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Discussion posts are cool but, the quizzes are impossible to do well on.
+
+--- Rating #2 ---
+Class: ARCH226
+Date: 2026-02-16 03:01:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Just annoying that the quizzes are 16% each and half of the questions are mentioned for 0.5 seconds in lectures. She seems nice but clearly cant set up a course.
+
+--- Rating #3 ---
+Class: ARCH226
+Date: 2026-01-27 00:03:20 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Didn't have any interaction with the prof at all since it was an online course. The topic is very interesting, and she seems passionate about it. Tests include very specific things from the lecture that aren't on the slides, so you need to write down almost everything that's said. 40 minutes for 40 questions is really stressful.
+
+--- Rating #4 ---
+Class: ARCH226
+Date: 2025-12-10 04:11:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+I never met her since the course was online but from the lecture videos, she seems really sweet and passionate about the course material! The lectures are interesting, but be sure to write good notes on them for the quizzes because they ask really detailed stuff
+
+--- Rating #5 ---
+Class: ARCH226
+Date: 2025-08-08 20:22:48 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Online course (summer session), so not much interaction with Brea herself, but she comes across as very kind & approachable. Content was super interesting, simple weekly discussions, but the quiz questions were irritating. Huge chunks of "important" content wouldn't even appear, in favour of briefly mentioned details. Hard to prepare for.
+
+--- Rating #6 ---
+Class: ARCH101
+Date: 2025-07-18 09:59:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+She completely rips off the whole course from David Maxwell.. She is not even doing her job, she doesn't have lectures, she doesn't mark, TAs take forever to mark a multiple choice &#8220;quiz&#8221; on Canvas? I would recommend taking this course with just David Maxwell, since all of these recorded lectures of from him anyways. Overrated.
+
+--- Rating #7 ---
+Class: ARCH226
+Date: 2024-05-01 00:03:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+This course was fun. its very organized and the prof provides lots of material for each concept. The midterm and final were generally simple! I suggest keeping up with the material weekly and while watching the slide videos doing the study questions for active learning. Brea is very easily accessible and answers email on time! highly recommend.
+
+--- Rating #8 ---
+Class: ARCH226
+Date: 2024-01-08 00:47:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+honestly an easy course if you focus on the tests and assignments, lectures are a lot of info I personally stopped watching after the midterm but make sure for the md and final you write as much as you possibly can, in extreme detail, relating questions to other topics and INCLUDE EXAMPLES if you do that then you will get a good grade!!!
+
+--- Rating #9 ---
+Class: ARCH226
+Date: 2023-12-22 01:17:14 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Take this class with David Maxwell. The discussions and assignments were easy and were graded properly, but she took major marks off for the midterm and final and gave no explanation as to why she thought that answer was wrong, even though all the answers came directly from her lecture slides. Class is super easy but don't take it with this lady.
+
+--- Rating #10 ---
+Class: ARCH226
+Date: 2023-06-30 01:14:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+GPA booster. Interesting and Brea was kind and accommodating. The course consisted of pre-recorded lectures, short weekly readings, discussions, two short papers, midterm and final. All was easy and light workload even for intercession. 3 hr online exams were 6 short answer questions and were open-book and not invigilated. Overall great course.

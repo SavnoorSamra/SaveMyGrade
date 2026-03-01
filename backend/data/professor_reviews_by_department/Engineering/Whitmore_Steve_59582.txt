@@ -1,0 +1,271 @@
+Professor: Steve Whitmore
+Professor Legacy ID: 59582
+Professor ID: VGVhY2hlci01OTU4Mg==
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 4.4
+Avg Difficulty: 2.3
+Num Ratings: 44
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENSC105
+Date: 2019-11-22 06:58:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+You will be remembered as one of the greatest professors SFU has ever had the pleasure of having. I'm going to finish the rest of my engineering degree in your honor. RIP Legend
+
+--- Rating #2 ---
+Class: ENSC105
+Date: 2019-09-24 23:38:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Once i was sad and walking down the street. A man approached me and asked if everything was okay. That moment changed my life, and now I am the CEO of a big company. That man was Steve Whitmore
+
+--- Rating #3 ---
+Class: ENSC105
+Date: 2019-06-26 00:58:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is great. His classes are hilarious. There are lots of work to do as this course is combined by ENSC 100, but they are fine. Easy B if you do all the homework. But you need to do more if you want to get higher mark.
+
+--- Rating #4 ---
+Class: ENSC100W
+Date: 2017-12-21 23:44:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Steve is great. Gave out candy on multiple occasions, and is an all-around good lecturer. Participating in the class is 20% of your grade so show up and comment once every week or so in the discussion boards. Passing this class is not difficult.
+
+--- Rating #5 ---
+Class: ENSC105W
+Date: 2017-12-10 01:46:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is amazing. His lectures are very helpful. He is also a very nice person and cares about his students. The assignments are time consuming so it's best to not leave it for the last couple days before the deadline. Lectures are engaging and not boring at all. Text book is optional and the one quiz in the middle of semester is not difficult at all.
+
+--- Rating #6 ---
+Class: ENSC305
+Date: 2016-07-14 16:09:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Mr Whitmore,  Thanks for all the help and support. Truly inspirational and cares about student.
+
+--- Rating #7 ---
+Class: ENSC305
+Date: 2016-04-25 23:13:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Steve is an amazing professor. He is very reasonable when it comes to grading. He also provides amazing feedback and suggestions.
+
+--- Rating #8 ---
+Class: ENSC105
+Date: 2016-01-02 19:00:04 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Slides are actually extremely helpful for writing papers. Covers everything you need to succeed in the course. Tests can involve a lot of material, go over EVERYTHING. Participation was key, you can lose a lot of marks if you don't post on Canvas. The use of tophat was okay, but I didn't really like the additional costs for just this one class.
+
+--- Rating #9 ---
+Class: ENSC102
+Date: 2015-12-21 17:05:25 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Very interesting person although, although lectures were boring and long at times. I liked how he tried to engage the class on canvas, although using top hat for participation was a bit annoying. Found writing tips quite helpful! Be sure not to leave paper to the last minute.
+
+--- Rating #10 ---
+Class: 803
+Date: 2015-06-26 03:15:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+One of the best and a very helping prof and funny too. Clarify your doubt very easy and patiently. HIGHLY RECOMMENDED  to take this class will learn a lot more over will improve your personality.
+
+--- Rating #11 ---
+Class: ENSC102
+Date: 2013-07-18 03:41:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Steve is the man. Really Genuine guy, funny too. Takes a bit of the dullness out of the class. Grind it out, take his wisdom with you and you will go far.
+
+--- Rating #12 ---
+Class: ENSC305
+Date: 2013-05-19 03:55:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Great professor!
+
+--- Rating #13 ---
+Class: ENSC102
+Date: 2013-03-24 20:09:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Good teacher, lectures are a bit boring though especially since they are 2 hours long.
+
+--- Rating #14 ---
+Class: ENSC102
+Date: 2012-08-12 01:16:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+No ppoint going to the class. Boring lectures. Terrible when it comes to marking and scaling.
+
+--- Rating #15 ---
+Class: ENSC101
+Date: 2011-07-30 03:49:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great prof.!
+
+--- Rating #16 ---
+Class: ENSC101
+Date: 2009-12-20 06:07:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Very enthusiastic and involved professor. Always willing to take some time out and speak to you if you need help. Attending lectures wasn't very useful but only because I'm pretty good at writing essays anyways. If you're not then you should attend.
+
+--- Rating #17 ---
+Class: ENSC101
+Date: 2008-12-19 04:32:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Love this prof! don't go on this looks.. he looks kinda mean, but is EXTREMELY nice and friendly when you talk to him. Always willing to help students. Great teacher!
+
+--- Rating #18 ---
+Class: ENSC101
+Date: 2008-10-22 14:08:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great teacher
+
+--- Rating #19 ---
+Class: ENSC101
+Date: 2008-09-12 03:01:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Yea, really good teacher. Easy to listen to. He did this Man in Black thing, attempting to erase our memory, that was REALLY FUNNY.
+
+--- Rating #20 ---
+Class: ENSC101
+Date: 2007-01-04 14:40:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Extremely friendly, very persuasive. If he doesn't know the answer, will find out for you (for next class). I think he should teach all teachers how to teach; especially about how to answer questions, how to engage the audience, how to keep them interested! Am looking forward to more classes with Steve.

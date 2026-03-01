@@ -1,0 +1,275 @@
+Professor: Shivanand Balram
+Professor Legacy ID: 396688
+Professor ID: VGVhY2hlci0zOTY2ODg=
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 3.7
+Avg Difficulty: 3.1
+Num Ratings: 150
+Would Take Again Percent: 56.25
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: GEOG150
+Date: 2025-12-14 00:15:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Prof is overly paranoid about ai use. Put all lecture material and content on external websites which made it difficult to take notes. Midterm and final were hard and didnt have enough time to complete written section. Had to do midterm and final on zoom call. Never taking a geog course again
+
+--- Rating #2 ---
+Class: GEOG150
+Date: 2025-12-13 21:34:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's okay-ish; the weekly quizzes on his online modules are nothing like the midterm or final, so just be prepared for that. Also, make sure to finish all the previous modules otherwise, you can't even access the exams. He's also so paranoid of cheating, its kinda funny cuz its an online course
+
+--- Rating #3 ---
+Class: GEOG150
+Date: 2025-07-06 04:54:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Midterm and the final were very hard. If you take the course the lecture and assignments are free marks and take no effort. You will lose marks on the exams though so they will balance out to around an A-B range. Grades are not scaled and the final has very little time to complete the written questions. MC does not reflect lecture material entirely
+
+--- Rating #4 ---
+Class: GEOG150
+Date: 2025-06-25 01:03:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: True
+Comment:
+Do NOT take this course as an elective. This is an online course, and at first it seems straightforward, but the midterm and final exams are very difficult. The final has an open-book component where you only have 30 minutes to answer 4 questions. You do not get enough time to answer all 4, let alone look at your notes for help. Do not recommend.
+
+--- Rating #5 ---
+Class: GEO150
+Date: 2025-06-07 17:20:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Tough exam/quiz grading, don't expect to be marked on a curve. You will not be able to see what the right answers are to your mistakes on exams to learn from. He is super scared of cheating but structures the course in a way that it would be easy to take advantage of (online exams instead of just making them in-person). Would avoid.
+
+--- Rating #6 ---
+Class: GEOG150
+Date: 2025-06-07 17:12:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Quiz/exam questions sometimes ask about things that were never mentioned in the learning material. Questions are multiple choice and wrong answers will deduct their question value (2/4 choices right on a single mc question =  0 marks). He is also paranoid about cheating and doesnt adjust assessments accordingly to account for that.
+
+--- Rating #7 ---
+Class: GEO150
+Date: 2025-06-04 06:50:05 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+The guy is super paranoid about academic dishonesty. He seems ok but he legit scares everyone. Makes us do the exam with our cameras on, monitors our behavior etc. It feels like anything could set him off. Although, I'm pretty sure he's paranoid because he realises he doesn't have much control over so many students so I guess it makes sense.
+
+--- Rating #8 ---
+Class: GEOG255
+Date: 2025-05-15 03:47:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Made me care about GIS when I went into the class thinking it was something I had to do for REM. Clearly passionate with funny moments in lectures, and really cared about students' success. Only thing is the final had a question that wasn't covered in lectures or labs. Also don't buy the lab textbook, I never had to use it.
+
+--- Rating #9 ---
+Class: GEOG255
+Date: 2025-05-15 03:42:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Best teacher I've had at SFU thus far. Lectures were engaging with funny moments, and he made me care about GIS when I went into the class looking at it as something I needed to do for REM. Only thing is the final had a question worth a large amount of points that we didn't cover at all during class or labs.
+
+--- Rating #10 ---
+Class: GEOG150
+Date: 2025-04-26 02:55:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's a chill prof, gave me an extension after i missed a quiz. Midterm was tough but I found the Final to be very hard, the mcq were harder then quizzes and the written portion of the final felt like a lot to get done in the time we had. Ended up dropping from a A almost A+ to a B+ as my final grade but either way its a GPA booster
+
+--- Rating #11 ---
+Class: GEOG150
+Date: 2025-04-22 16:23:03 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: True
+Comment:
+GPA booster. He's fine just read the "vague" fine print (like "reasonable" decimal places). I would've rated him higher, but there was enough confusion about the written portion submission time for the final exam that warranted a follow up canvas announcement. "... late penalty was triggered. Let this be a learning lesson."
+
+--- Rating #12 ---
+Class: GEOG150
+Date: 2024-12-07 20:03:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Taking GEOG 150 with Shiv Balram was the best decision. The lectures were pretty easy, the assignments were based on computer exercises, and we received straightforward instructions. 
+Take this class with him if it is possible!
+
+--- Rating #13 ---
+Class: GEOG251
+Date: 2024-12-05 09:15:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures are a necessity as lecture slides posted online are not that helpful unless you have additional notes and context with them. Don't buy textbook. Go to the first few labs to understand how to do the assignments.
+
+--- Rating #14 ---
+Class: GEOG251
+Date: 2024-11-06 05:34:58 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Shiv has great assignment descriptions and course organization on the canvas page. You have to attend lectures because the posted notes do not include everything. He poses questions in class that do not make sense and he can make students feel uncomfortable making them prove to him that their answer is correct.
+
+--- Rating #15 ---
+Class: GEO150
+Date: 2024-10-21 03:07:09 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+The assignments and exams were simple, but the professor was so concerned with academic dishonesty that he made students uncomfortable, nervous, and was quite disrespectful. He is clearly paranoid about cheating, so I recommend he choose alternate forms of evaluation instead of trying to proctor an online course as if it were in-person.
+
+--- Rating #16 ---
+Class: GEOG150
+Date: 2024-09-18 02:12:03 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+first. second. turd. welcome to this prof review.
+
+--- Rating #17 ---
+Class: GEOG255
+Date: 2024-07-29 18:26:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+unclear instructions for assignments 
+doesn't explain difficult concepts well
+disrespectful to some students
+
+--- Rating #18 ---
+Class: GEOG251
+Date: 2024-07-29 18:25:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+unclear instructions for assignments and grading criteria
+disrespectful to some students
+
+--- Rating #19 ---
+Class: GEOG150
+Date: 2024-06-19 00:50:30 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Assignments with no rubric, exams that use select all that apply for 90% of questions makes it extremely difficult to do well in the course. Quizzes are extremely misleading as they are super easy, but exams are nothing like it at all. Also, you are given barely any time to complete the written part of the final. Just don't take it.
+
+--- Rating #20 ---
+Class: GEOG151
+Date: 2024-01-28 16:51:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's a good prof who clearly cares about his students there were the normal struggles students have of course, but office hours were clear and he grades fairly imo. I would take him again. To be honest he may just be an "average" prof but I have had very few that were even that so I would recommend him.

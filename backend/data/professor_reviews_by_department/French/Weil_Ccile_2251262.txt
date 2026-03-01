@@ -1,0 +1,37 @@
+Professor: Cécile Weil
+Professor Legacy ID: 2251262
+Professor ID: VGVhY2hlci0yMjUxMjYy
+Department (CSV): French
+Department (Fetched): French
+Avg Rating: 4
+Avg Difficulty: 4
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: FREN121
+Date: 2018-12-10 14:52:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+C&eacute;cile was very helpful and accessible, and strongly encouraged in-class participation. Her syllabus was also very confusing and I found myself doing a ton of research outside of class to even stay afloat with the dense material we were learning week by week.
+
+--- Rating #2 ---
+Class: FREN221
+Date: 2017-04-26 09:57:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Cécile is a good prof, who cares about her students. However, she uses mostly (if not all) material given to her, instead of being able to create her own class plans. This is fine, but I think she would give better classes if she was teaching her own class plan. She is a tough but fair marker.

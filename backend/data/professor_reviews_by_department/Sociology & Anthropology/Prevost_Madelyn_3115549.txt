@@ -1,0 +1,11 @@
+Professor: Madelyn Prevost
+Professor Legacy ID: 3115549
+Professor ID: VGVhY2hlci0zMTE1NTQ5
+Department (CSV): Sociology & Anthropology
+Department (Fetched): Sociology & Anthropology
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

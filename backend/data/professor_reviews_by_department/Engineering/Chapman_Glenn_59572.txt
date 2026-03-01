@@ -1,0 +1,271 @@
+Professor: Glenn Chapman
+Professor Legacy ID: 59572
+Professor ID: VGVhY2hlci01OTU3Mg==
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 3
+Avg Difficulty: 3.1
+Num Ratings: 33
+Would Take Again Percent: 64.7059
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ensc477
+Date: 2026-01-08 10:50:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Found out I horrendously failed the midterm after final period. Yes, in late December. He doesn't mark anything sooner. Labs & HW the entire class got 90-100% on so he also raised the grade cutoffs. No hate behind this review, I'm just seriously traumatized. You will have no idea where you stand in his class. This class made me appreciate Bernhard.
+
+--- Rating #2 ---
+Class: ensc477
+Date: 2026-01-03 23:56:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Worst prof
+
+--- Rating #3 ---
+Class: ensc477
+Date: 2025-12-30 05:15:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Please someone new teach 477
+
+--- Rating #4 ---
+Class: CLASS
+Date: 2025-12-04 03:49:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+ENSC 477 has been an absolute waste of time and money. Very disorganized and not engaging at all.
+
+--- Rating #5 ---
+Class: ENSC220
+Date: 2025-06-23 22:23:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+botted bruh
+
+--- Rating #6 ---
+Class: ENSC220
+Date: 2025-05-13 16:19:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+No reviews for almost 10 years and then 11 excellent reviews in one day. Hmm....
+
+--- Rating #7 ---
+Class: ENSC435
+Date: 2025-03-13 01:36:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This guy has made me not hate engineering anymore. He is very nice and teaches in a different way than most profs. He is very organized and kind
+
+--- Rating #8 ---
+Class: CLASS
+Date: 2025-03-13 01:35:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Glenn is the GOAT. Curved 2 letter grades what a great guy!
+
+--- Rating #9 ---
+Class: CLASS
+Date: 2025-03-13 01:33:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He made ENSC 280 one of the easiest classes I have every taken while in engineering. Sometimes unorganized but very polite and kind as a person
+
+--- Rating #10 ---
+Class: ENSC495
+Date: 2025-03-13 01:32:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Glenn made this class so easy I had free time to play league of legends everyday
+
+--- Rating #11 ---
+Class: CLASS
+Date: 2025-03-13 01:31:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Took ENSC 280 with him a while back, amazing guy, he really is a honest and a fair prof.
+
+--- Rating #12 ---
+Class: CLASS
+Date: 2025-03-13 01:30:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Material was hard but Glenn made it feel so easy! Took a couple classes with him and I am happy that I did!
+
+--- Rating #13 ---
+Class: ENSC220
+Date: 2025-03-13 01:29:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Incredible! This guy is very good super sigma
+
+--- Rating #14 ---
+Class: ENSC460
+Date: 2025-03-13 01:29:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Took this class 20 years ago, amazing lecturer. He is very kind and helpful.
+
+--- Rating #15 ---
+Class: ENSC220
+Date: 2025-03-13 01:14:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His lectures tend to be a bit boring and disorganized but he is very nice
+
+--- Rating #16 ---
+Class: CLASS
+Date: 2025-03-13 01:14:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor Chapman is a very enthusiastic lecturer. He teaches in a way which allows you to easily understand concepts which may be difficult to comprehend
+
+--- Rating #17 ---
+Class: CLASS
+Date: 2025-03-13 01:11:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Incredible lecturer very enthusiastic, would take again with Professor Chapman
+
+--- Rating #18 ---
+Class: ENSC495
+Date: 2016-04-05 22:22:41 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Very disorganized. does not mark anything till finals. very tough on grading. expect to study everything on your own for the assignments
+
+--- Rating #19 ---
+Class: CLASS
+Date: 2014-11-13 02:20:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Very bad professor. Gives very low grades.
+
+--- Rating #20 ---
+Class: ENSC435
+Date: 2014-09-30 00:15:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great instructor.

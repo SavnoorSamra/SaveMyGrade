@@ -1,0 +1,154 @@
+Professor: Arash Rafiey
+Professor Legacy ID: 1000880
+Professor ID: VGVhY2hlci0xMDAwODgw
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.4
+Avg Difficulty: 2.9
+Num Ratings: 11
+Would Take Again Percent: -1
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: CMPT307
+Date: 2014-09-01 14:16:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Excellent knowledge of the subject, and very good explanations! Makes a difficult subject very easy to understand. Marking-wise, he's fair too.
+
+--- Rating #2 ---
+Class: CMPT307
+Date: 2014-08-27 02:26:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Arash was very helpful, one of the most helpful professors I have ever had at SFU. He is not easy and you have to work hard, however if you make an effort, he will do his best to help you.
+
+--- Rating #3 ---
+Class: CMPT307
+Date: 2014-08-27 02:24:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Arash was very helpful, one of the most helpful professors I have ever had at SFU. He is not easy and you have to work hard, however if you make an effort, he will do his best to help you. I would recommend.
+
+--- Rating #4 ---
+Class: CMPT307
+Date: 2014-08-22 01:04:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+funny course!
+
+--- Rating #5 ---
+Class: CMPT307
+Date: 2014-08-21 15:00:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is quite smart!
+
+--- Rating #6 ---
+Class: CMPT307
+Date: 2014-08-16 19:59:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+if you have any questions ,just go to his office. he is very easy with marking.
+
+--- Rating #7 ---
+Class: D100
+Date: 2014-07-02 22:15:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Terrible
+
+--- Rating #8 ---
+Class: CMPT126
+Date: 2010-03-08 15:33:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Awful teacher. He was not present for the first week of school because he 'did not know' he was suppose to be there. Did not teach in class, never replied his emails, and cannot understand his accent. Entire class did awful and he had to scale. I got a B+ even though I had no idea what a Java class is.
+
+--- Rating #9 ---
+Class: CMPT212
+Date: 2008-03-09 22:49:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #10 ---
+Class: CMPT212
+Date: 2007-09-16 19:53:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Doesn't care to teach. Doesn't know the subject matter at all. Doesn't care to fix mistakes. Makes mistakes everywhere every other slide. Assigns inappropriate, nearly impossible assignments. Exams are error ridden (once he repeated a one-liner question only 3 questions away).
+
+--- Rating #11 ---
+Class: CMPT212
+Date: 2007-08-20 17:07:46 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+First:  Arash is a very nice, and clearly brilliant person. However, his organizational skills were non-existent.  I don't think he was on time once.  His slides are incomprehensible and full of mistakes (in the code), he has no communication skills, and he obviously doesn't care about the subject.  Exams and assignments were ridiculously hard.

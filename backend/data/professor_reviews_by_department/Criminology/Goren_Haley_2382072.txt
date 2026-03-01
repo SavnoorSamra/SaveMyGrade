@@ -1,0 +1,50 @@
+Professor: Haley Goren
+Professor Legacy ID: 2382072
+Professor ID: VGVhY2hlci0yMzgyMDcy
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 2
+Avg Difficulty: 2.7
+Num Ratings: 3
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: CRIM356
+Date: 2019-12-02 18:42:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Overall pretty good. Very fair marker if you followed the directions, showed up to tutorial, and participated in class.
+
+--- Rating #2 ---
+Class: CRIM355
+Date: 2019-07-15 03:10:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Lazy. Doesn't even spend time giving feedback.
+
+--- Rating #3 ---
+Class: CRIM402
+Date: 2019-04-08 07:23:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Not great

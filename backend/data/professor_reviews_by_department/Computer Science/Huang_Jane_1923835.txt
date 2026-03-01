@@ -1,0 +1,271 @@
+Professor: Jane  Huang
+Professor Legacy ID: 1923835
+Professor ID: VGVhY2hlci0xOTIzODM1
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1.7
+Avg Difficulty: 3.8
+Num Ratings: 27
+Would Take Again Percent: -1
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT125
+Date: 2015-09-05 00:08:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Pros: Helpful if you go to office hours. Nice person, polite and caring. Cons: Accent makes it difficult to understand. Often conveys information in a roundabout and confusing manner. Self-study is pretty much necessary.
+
+--- Rating #2 ---
+Class: MACM101
+Date: 2015-07-23 19:55:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Hard to understand but not too too bad. Used another teacher's Powerpoint notes for every lecture, expanded upon them, but not in any really enlightening ways.  Constantly made mistakes. Expect to learn everything on your own. I'd really really recommend studying in advance of the course. 25% of last year's students got D or lower. 27% got C- to C+
+
+--- Rating #3 ---
+Class: CMPT354
+Date: 2015-04-30 22:06:08 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+WHAT A SHAME! She copied everything from an equivalent course in UBC CPSC304!! EXACTLY SAME FINAL EXAM QUESTIONS! SAME TYPOS!!
+
+--- Rating #4 ---
+Class: CMPT125
+Date: 2015-04-29 09:00:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Incredibly inconsistent marking. I did homework with a few friends, had the same answers and each person obtained a different mark with substantial deviation. Tests are easy, but this was due to studying via Googling everything that was taught in the curriculum. You could potentially attend zero classes and do well in this course.
+
+--- Rating #5 ---
+Class: CMPT354
+Date: 2015-04-24 16:51:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Not a very good instructor, but the class is easy and you can self-study. Her marking is too nitpicky for my liking. I wouldn't recommend.
+
+--- Rating #6 ---
+Class: CMPT125
+Date: 2015-04-23 22:06:52 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+She teaches the basics and throws a challenging assignment to finish. The exams were okay, but I had to study hard for them. She also got my mark wrong several times, so I had to visit her office often. Would be a good TA not a lecturer. Looks like it's either Jane or Bobby that teaches 125 so take it with Bobby and avoid Jane at all cost.
+
+--- Rating #7 ---
+Class: CMPT125
+Date: 2015-04-22 14:21:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Her accent is fine. But she does not know how to teach. Focusing more on the concepts which can be be explained in a few mins. I think I will fail on this course. I understand the concepts but don't know how to programming.  But 125 is not a hard course, just don't take this with her. She assumes that you guys have already known everything.
+
+--- Rating #8 ---
+Class: CMPT125
+Date: 2015-04-20 21:00:53 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+The  almost worst Prof u can get at SFU. Very vague grading criteria, explaining concept really unclearly. Her accent is not as bad as people say,  but she always make grammatical mistakes when she is talking. Assignments are extremely hard while midterms are ok, the whole semester is a joke with such an instructor. Strongly suggest avoiding her!
+
+--- Rating #9 ---
+Class: CMPT125
+Date: 2015-04-17 18:19:08 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+She seemed nervous that's all. At the end she started loosening up and making jokes. Her accent is way better than people are saying! I do think the lectures need restructuring, I liked your overhead lectures better (should be posted with explain) because the ppnts are too layered and cluttered. Focus more on explaining detailshard concepts.
+
+--- Rating #10 ---
+Class: CMPT354
+Date: 2015-04-08 22:23:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Jane is even worse in 354 than 125. Relational databases and mySQL should be taught by native or near-native English speakers. Her expectations are unclear but her marking is diabolical. The textbook is an easy read. I agree that Langara CS faculty are better; I honestly think FAS cares more about number of publications than English proficiency.
+
+--- Rating #11 ---
+Class: CMPT354
+Date: 2015-04-03 17:53:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+1-All the people giving bad reviews are ina  first year compsci course. Guys computer science is hard you have to learn how to manage these university classes. 2-Yes she has an accent but I did not struggle in understanding her I think major exaggeration is being shown I had her for 354 and gave her an ok review cant write more
+
+--- Rating #12 ---
+Class: CMPT125
+Date: 2015-03-09 19:29:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Apologies everyone for not being a very good instructor. Being an ESL and first time managing a  huge class like this is difficult. I just wanna say "sorry" to all the haters and the good news is I am moving to industry.  After all, it is still a good experience and I will continue working on the rest of the term.
+
+--- Rating #13 ---
+Class: CMPT125
+Date: 2015-03-08 04:28:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Can't understand what she's saying.
+
+--- Rating #14 ---
+Class: CMPT125
+Date: 2015-02-24 10:31:40 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Worst prof ever,  you can't even understand what she's saying. Trust me when I say this, don't take this class with her
+
+--- Rating #15 ---
+Class: CMPT125
+Date: 2015-02-10 17:03:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Boring and useless class. Better study by yourself than going to her lectures.
+
+--- Rating #16 ---
+Class: CMPT125
+Date: 2015-01-31 12:25:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+AVOID AT ALL COSTS.
+
+--- Rating #17 ---
+Class: CMPT125
+Date: 2015-01-30 00:14:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Absolutely horrendous professor; worst I've had in my 4 years of university.  She has an elementary understanding of the English language and does not teach the topics well. You will need to Google topics to learn anything as her lectures are absolutely useless; including the provided lecture slides. Most of her 'help' is telling you to look it up.
+
+--- Rating #18 ---
+Class: 125
+Date: 2015-01-28 19:45:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Not being a jerk or anything, but honestly the single worst prof in my life as being a student.  She does not speak English well enough to teach at a elementary level, let alone a University level.  Also, she is unclear and gets flustered easily, often leading her to skim over topics.  There is no way she should be teaching at any level.  Avoid!
+
+--- Rating #19 ---
+Class: CMPT125
+Date: 2015-01-28 16:45:48 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I've had much much better CS instructors at Langara. She's awful at teaching.
+
+--- Rating #20 ---
+Class: MACM101
+Date: 2014-12-24 22:57:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Her command of English is inadequate for such an important course and she's teaching CMPT 125 in the Spring. I've complained to the department chair Dr. Ester as well as FAS, but they don't care that their faculty cannot teach or speak English. Let the Peak and CJSF know about this, and consider taking this course at Douglas or online via TRU.

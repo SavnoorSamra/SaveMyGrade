@@ -1,0 +1,11 @@
+Professor: Jane Fee
+Professor Legacy ID: 1437116
+Professor ID: VGVhY2hlci0xNDM3MTE2
+Department (CSV): Linguistics
+Department (Fetched): Linguistics
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

@@ -1,0 +1,271 @@
+Professor: Ryan Allen
+Professor Legacy ID: 1297429
+Professor ID: VGVhY2hlci0xMjk3NDI5
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 4.6
+Avg Difficulty: 2.7
+Num Ratings: 87
+Would Take Again Percent: 90.9091
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: HSCI424
+Date: 2025-12-09 16:57:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Dr. Allen is one of the most caring and approachable professors you will ever encounter at SFU. The course is relatively easy if you do the labs yourself and ask for help when needed. It does demand work. There is a skills assessment, which is basically a final on what is learned throughout all labs. If you are doing the labs, you will be good.
+
+--- Rating #2 ---
+Class: HSCI471
+Date: 2025-08-23 16:12:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ryan is simply the best! He is a great lecturer, is passionate about the content, and wants his students to succeed. Don't pass up the opportunity to take a class with him!
+
+--- Rating #3 ---
+Class: HSCI471
+Date: 2025-07-10 20:18:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Ryan Allen is a great professor! I have had him for HSCI 204 (my favourite class in all of undergrad!) This course is difficult, but Ryan makes it worth taking!
+
+--- Rating #4 ---
+Class: HSCI204
+Date: 2025-05-18 00:04:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Top 5 guy of all time. Top 5 dude of all time
+
+--- Rating #5 ---
+Class: HSCI204
+Date: 2025-04-13 07:07:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Engaging course material, level of difficulty is reasonable lots of potential to get a very good grade
+
+--- Rating #6 ---
+Class: HSCI204
+Date: 2025-03-16 21:25:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Ryan "GOAT" Allen is to me what others see in lebron. After that midterm, he is my sunshine my only sunshine.
+
+--- Rating #7 ---
+Class: HSCI424
+Date: 2024-12-30 20:40:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+It was his first time teaching this class and he was great! He responded to emails quickly and was eager to help. This class requires students to be proactive to ask for help and if enough effort is put in it can be an easy A. Attend class, ask help when needed for labs, and try and understand what the data means.
+
+--- Rating #8 ---
+Class: HSCI204
+Date: 2024-07-17 00:07:26 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I was given a B letter grade because he seems to have created his own grading system, which is completely absurd. Additionally, he expects everything to be written in "his own words".
+
+--- Rating #9 ---
+Class: HSCI204
+Date: 2024-07-16 22:09:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Truly an amazing prof, no surprises on exams, weekly assignments which were only 2-3 questions based on the one three hour lecture we had. Explains things so nicely, overall easy course
+
+--- Rating #10 ---
+Class: HSCI204
+Date: 2024-05-08 01:47:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Dr. Allen is an amazing professor. I was scared because he has a very steep grading scale. However, it's very easy to do well in his class. You're only graded on the midterm, final, 2 assignments and weekly exercises so make sure you do well on those. Pay attention in lectures too and take lots of notes to do well.
+
+--- Rating #11 ---
+Class: HSCI204
+Date: 2024-05-08 01:43:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Ryan easily became one of my favourite profs. I took this as an elective and it became my favourite class, even at 8:30am. All you really need to do is go to class, engage and take notes and you'll do good. His tests are extremely fair and he explains content very well.
+
+--- Rating #12 ---
+Class: HSCI204
+Date: 2024-04-29 18:12:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Super engaging lectures made it the only class I looked forward to attending at 830 in the morning. Exams are a breeze if you show up to lecture. Super chill and passionate
+
+--- Rating #13 ---
+Class: HSCI304
+Date: 2024-04-28 19:46:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Keep going Dr. Allen! Everything is great, focus on organization of topics during lecturr, and grading. :)
+
+--- Rating #14 ---
+Class: HSCI471
+Date: 2024-04-26 20:53:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Ryan is one of the best profs I had in SFU. As a person who is not really good in SAS, he made the content easy to understand and describe each code what it does. I enjoy the weekly assignments and the question sets were fair. I recommend this class if you're interested in GIS and want to gain more skills as a researcher
+
+--- Rating #15 ---
+Class: HSCI204
+Date: 2024-04-24 22:06:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Amazing professor. If you go to lectures and pay attention you will set for the class. Ask questions he is super approachable. The best professor at SFU
+
+--- Rating #16 ---
+Class: HSCI471
+Date: 2024-04-18 21:11:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Ryan is the best. The class was a bit challenging if youre not a stats person but was interesting. Always there to help if you have any questions about content or assignments. The course itself is not an easy A but Ryan makes it worth the struggle.
+
+--- Rating #17 ---
+Class: HSCI204
+Date: 2024-04-17 15:54:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+ryan allen the realest in the game
+
+--- Rating #18 ---
+Class: HSCI204
+Date: 2024-04-13 19:52:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Dr. Allen is a great professor, he is super respectful and he is really funny. He is a super cool professor and amazing lecturer. if you put in the time to understand and attend lecture, there is no way you wouldnt get an A+ in the course. I attended lecture and paid attention, which really helped understanding. the material is not hard but heavy
+
+--- Rating #19 ---
+Class: HSCI204
+Date: 2023-06-25 18:22:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Ryan Allen has been an amazing professor. Had him for hsci 204 this spring and loved the course content. I would take another class with Dr. Allen again hes very passionate about his work and you can tell this in the way he lectures. Amazing health science prof and very knowledgable and helpful too!
+
+--- Rating #20 ---
+Class: HSCI204
+Date: 2023-06-01 18:25:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Prof Allen is one of the best profs in health science! Highly recommend taking with him, no regrets at all. He is super passionate about his lectures and you can see he really wants his students to succeed. Would definitely take a course with him again.

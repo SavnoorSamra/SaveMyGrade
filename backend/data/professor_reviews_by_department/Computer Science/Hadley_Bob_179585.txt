@@ -1,0 +1,271 @@
+Professor: Bob Hadley
+Professor Legacy ID: 179585
+Professor ID: VGVhY2hlci0xNzk1ODU=
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.7
+Avg Difficulty: 3.3
+Num Ratings: 24
+Would Take Again Percent: -1
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT826
+Date: 2012-08-07 04:37:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+good
+
+--- Rating #2 ---
+Class: CMPT320
+Date: 2011-05-12 18:53:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+This prof makes CMPT 320 more of a phil 101 course then a com science course. the final was ridiculous, asking very detail and useless information from his very unorganized notes,like &quot;in which year, xyz said such such such&#63;&quot;, I mean, who cares&#63;!it's a computer science course!not a history course. do urself a favor and avoid him
+
+--- Rating #3 ---
+Class: CMPT320
+Date: 2008-12-15 21:35:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+This is exactly the same as any liberal arts course.  It was not a bad course but it is mandatory.  He doesn't post anything online, so go to class and take all his notes.  Study those and remember everything.  His essay was easy.  I want to take CMPT 418 with him.  Although he is an old hippy with a PHD in Philosophy and has left wing ideals.
+
+--- Rating #4 ---
+Class: CMPT320
+Date: 2008-12-15 12:26:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He doesn't post notes on website because then nobody would come. Well of course not, it's a completely useless class (but mandatory). As previously said, his notes are very disorganized and his exams are for very specific details. e.g. &quot;Which of the following was the author of xyz theory&#63;&quot; If possible find someone else who teaches this course.
+
+--- Rating #5 ---
+Class: CMPT320
+Date: 2008-08-09 02:20:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Worst teacher i ever had. Notes totally disorganized. Writes so fast that you cant even catch up. Very confusing, and he expects you to have Very specific details on a book that put me to sleep. If you need to take cmpt 320. More work but WAY better teacher.
+
+--- Rating #6 ---
+Class: CMPT320
+Date: 2007-11-19 02:09:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Taught useless PHIL 100 material that added no value. Had no problems reminding the class of his political opinions - I don't necessarily disagree with him, but it got old quite fast. Ridiculous final, 30 minutes long, required NO thought - just remembering absolutely USELESS facts ie MC what was the % decline of factory workers in 1999&#63; Who CARES&#63;
+
+--- Rating #7 ---
+Class: CMPT320
+Date: 2007-09-08 04:33:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+He's a good prof for this class.  His teaching style is what anyone in liberal arts courses might be used to so a bit different from CS, but it's an easy writing course.  Just write properly and in English and it's at least a B- from what I remember, especially since there's no specifically right answer always.
+
+--- Rating #8 ---
+Class: CMPT418
+Date: 2005-12-13 23:38:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Excellent prof for the course.  Fair midterms and finals.  Expect lots of discussion and be prepared to actually understand the material and not to memorize notes, but if you're up for some connectionism, great course and great prof
+
+--- Rating #9 ---
+Class: CMPT418
+Date: 2005-12-08 12:48:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #10 ---
+Class: CMPT418
+Date: 2005-12-04 18:26:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+This is what a cognitive science course should be!  This prof is all about connectionism and this is his pet course, and I think it is where he shines.  Expect lots of discussion, less implementation.  Students with a real interest in AI, cogsci, and/or neural nets will love it, the rest will hate it.  Don't whine because you get challenged.
+
+--- Rating #11 ---
+Class: CMPT320
+Date: 2005-03-05 19:06:35 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+he won't give you a sample midterm or final, he believes the reason why other profs give sample midterms is so that they can get higher evaluation from students!  seriously what a stupid excuse.
+
+--- Rating #12 ---
+Class: CMPT310
+Date: 2005-02-18 17:18:26 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+pretty easy course, but he made it extra difficult with bad lecture notes, and ambigeous assignment where most of the time was spent wadding through e-mails correcting errors and explanations.  Then he goes and makes some lame extension of the final project a couple days before it was due.
+
+--- Rating #13 ---
+Class: CMPT310
+Date: 2005-01-20 19:18:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Not a nice guy, he chewed someone out in class and told them not to come back because they were &quot;apparently&quot; making a distracting face while he was teaching&#63; (Unprofessional&#63;) Project was unbelievably hard and seemed to have little or no direction.  Tested material presented in lectures though.
+
+--- Rating #14 ---
+Class: CMPT419
+Date: 2004-09-12 23:10:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+This was the only truely cognitive science course at SFU.  The custom courseware was great.  Spent a good bit of time dealing with the philosophical issues.  Not recommended for typical CMPT students who dream of a cubical with 8 computers to program on
+
+--- Rating #15 ---
+Class: CMPT310
+Date: 2004-08-10 00:11:03 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Course Materials were not too difficult. Like others said, instructions on course project were main sent in email...very frustrating trying to go over each of those emails...
+
+--- Rating #16 ---
+Class: CMPT310
+Date: 2004-05-02 20:30:06 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+My god, the course project was so hard. The course material was fairly straightforward though. He seems to make easy concepts more difficult than they should be.
+
+--- Rating #17 ---
+Class: CMPT310
+Date: 2004-03-17 01:30:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Never available for extra help. His office hours are useless since he doesn't really answer any of your questions. And if you have time conflicts with his office hour, then too bad, you'll have to ask him stuff through email coz he does not make apptment.
+
+--- Rating #18 ---
+Class: CMPT310
+Date: 2003-12-15 20:21:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He is not available when needed and he sends instructions for assignments via email and expects you to know every detail of every one.  Very unclear lecture notes.
+
+--- Rating #19 ---
+Class: CMPT320
+Date: 2003-11-19 10:28:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+&quot;Write an essay in one paragraph or less...&quot; - midterm question.  Genuinely interested in course; tends to spend much longer per subject than necessary.
+
+--- Rating #20 ---
+Class: CMPT310
+Date: 2003-09-03 00:30:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments

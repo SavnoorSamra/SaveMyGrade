@@ -1,0 +1,63 @@
+Professor: Zabrina Brumme
+Professor Legacy ID: 2153156
+Professor ID: VGVhY2hlci0yMTUzMTU2
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 3.7
+Avg Difficulty: 3.5
+Num Ratings: 4
+Would Take Again Percent: 50
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: HSCI478
+Date: 2017-08-06 02:22:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great lecturer - very engaging even when topics can be pretty dense. She speaks really quietly. Very approachable. Choose presentation topics wisely! You need to dissect, analyze, and present two papers thoroughly -  this takes more time/effort than you think.
+
+--- Rating #2 ---
+Class: HSCI478
+Date: 2016-12-01 00:03:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Brumme's course is very interesting. Her passion for the subject is very evident and inspiring. Exams are very thorough, though extremely fair, make sure you know all your content. If you want to learn, you will like this course and Dr. Brumme. Two paper presentations, choose your paper wisely and read it well!
+
+--- Rating #3 ---
+Class: HSCI478
+Date: 2016-11-23 00:52:00 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+2 group presentations, not easy on the marking. She expects you to have the 'fourth year' mind set already, that means read every one of the articles or REGRET.  If you suck at presentations, prepare to get slammed by the prof and classmates.
+
+--- Rating #4 ---
+Class: HSCI478
+Date: 2016-10-29 03:29:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Tough marker

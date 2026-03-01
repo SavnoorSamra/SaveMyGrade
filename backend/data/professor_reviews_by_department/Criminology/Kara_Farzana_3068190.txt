@@ -1,0 +1,11 @@
+Professor: Farzana  Kara
+Professor Legacy ID: 3068190
+Professor ID: VGVhY2hlci0zMDY4MTkw
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

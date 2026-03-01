@@ -1,0 +1,24 @@
+Professor: Sean Connelly
+Professor Legacy ID: 1565950
+Professor ID: VGVhY2hlci0xNTY1OTUw
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 1.5
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: GEO261
+Date: 2011-04-20 02:22:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Sean is a nice guy, but not a very good professor. His lectures weren't engaging at all, and his tutorials were a waste of time. He knows his stuff, but he is an absolute bore to listen to.

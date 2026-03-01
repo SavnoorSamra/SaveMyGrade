@@ -1,0 +1,76 @@
+Professor: Altug Turgay
+Professor Legacy ID: 2929350
+Professor ID: VGVhY2hlci0yOTI5MzUw
+Department (CSV): Finance
+Department (Fetched): Finance
+Avg Rating: 3
+Avg Difficulty: 2.4
+Num Ratings: 5
+Would Take Again Percent: 60
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: BUS312
+Date: 2026-02-01 04:56:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Vague marking rubrics. Unclear on instructions. Poor, unhelpful feedback. Pretty passive aggressive. Would not recommend.
+
+--- Rating #2 ---
+Class: BUS312
+Date: 2024-01-18 02:44:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I understand that this is his first time teaching, butttt, wth is that. Who teaches like that, he would constantly make mistakes in calculations. He went over 4 chapters on the second lecture. Super dry, but was accommodating. I truly belive that he should read the slides before explaining them to us, and I thing that SFU sucks at picking profs.
+
+--- Rating #3 ---
+Class: BUS312
+Date: 2023-12-15 20:19:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Altug is a solid prof and is passionate about finance as a subject. He will make sure to help his students achieve academic success, all you have to do is take the time out and ask and attend his office hours. He prefers to solve questions by hand in class which is very helpful in preparing for exams. His grading was clear as well.
+
+--- Rating #4 ---
+Class: BUS312
+Date: 2023-12-13 21:01:38 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This was Altug's first time teaching and I thought he did a pretty decent job. He was very flexible and accommodating to his students requests and ensured that our learning was his focus. The lectures were really dry as he just read right off of them. Basically, you got to learn the content on your own, but his assignments weren't overly difficult.
+
+--- Rating #5 ---
+Class: 312
+Date: 2023-12-01 00:57:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Altug's the man. His first time teaching 312 and he killed it. He understands finance well and can explain it well too

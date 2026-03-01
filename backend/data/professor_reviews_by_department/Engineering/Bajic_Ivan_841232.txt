@@ -1,0 +1,211 @@
+Professor: Ivan Bajic
+Professor Legacy ID: 841232
+Professor ID: VGVhY2hlci04NDEyMzI=
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 3.4
+Avg Difficulty: 3.1
+Num Ratings: 15
+Would Take Again Percent: 80
+
+Ratings Count Returned: 15
+
+--- Rating #1 ---
+Class: ENSC429
+Date: 2025-08-05 02:03:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great lecturer and very easy to talk to. The course was very interesting!
+
+--- Rating #2 ---
+Class: ENSC429
+Date: 2023-06-12 08:01:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Good prof
+
+--- Rating #3 ---
+Class: ENSC802
+Date: 2022-10-06 23:04:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Could not see his handwriting.
+Shaking camera and out of focus.
+Only proof during lesson, don't know what the equations do.
+Not good at teaching, equations and theories with unknown purpose.
+Not willing to teach nor give back answers after you failed the midterm (more than half of the class failed).
+All people failed and all got 30~40 marks boosted
+
+--- Rating #4 ---
+Class: ENSC380
+Date: 2022-01-01 03:53:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Knowledgeable professor that communicates well. Class coincides with his research area so you can ask any questions. Does many examples in class and homework is taken from the textbook so no curveballs. Exams are fair and reflective of the lecture and the homework.
+
+--- Rating #5 ---
+Class: ENSC380
+Date: 2019-11-30 07:08:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Fair prof
+
+--- Rating #6 ---
+Class: ENSC861
+Date: 2016-04-28 16:47:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is a very good teacher, loves the way he teaches. If you attend the classes and try to listen carefully, you won't have any problem as he is a perfect teacher. His lectures are awesome,  and he is a good grader.
+
+--- Rating #7 ---
+Class: ENSC380
+Date: 2015-05-03 21:32:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+His exams are fair and related to lecture examples. let you use two double side cheat sheets for the final and provided formulas. let the final worth more if you have improved from midterm. saved me from failing to a B. nice and patient in office hour, won't tell u the answer but will guide you to it. Will take more courses with him.
+
+--- Rating #8 ---
+Class: ENSC180
+Date: 2015-02-20 15:58:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Had an empty power point and typed in as he went. Very prepared for teaching!
+
+--- Rating #9 ---
+Class: ENSC180
+Date: 2015-01-21 13:51:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Awful prof. We received an assignment that asked us to implement vectorization when he had not even explained the concept to us.   He expects us to have some knowledge of Matlab in an intro to Matlab course. He goes way too fast in lectures and puts emphasis on unimportant concepts that we barely use.
+
+--- Rating #10 ---
+Class: ENSC424
+Date: 2012-01-12 20:01:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Take this course if you are interested in Matlab. All the course is based on the knowledge of the Matlab. He explains the material of the course clearly. Do not miss the midterm exam otherwise you will be in trouble for your final project.
+
+--- Rating #11 ---
+Class: ENSC424
+Date: 2011-02-01 23:46:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+The material is pretty straight forward. Attendance is highly recommended as Ivan tends to judge/help students depends on their attendance. The marking on the test are extremely subjective, no part marks nor credit given even it is from carry-thru error. He thinks student didn't attend lecture nor study when asking him Q regard lecture/tests.
+
+--- Rating #12 ---
+Class: ENSC424
+Date: 2010-12-21 22:00:34 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+At first glance, he appears to be a very understanding professor. However, when it comes down to asking him a question in person, he insults you by accusing you of not attending his lectures and belittles you with his arrogance. Find Ivan to be very disrepectful to students and do not answer concerns like most professors.
+
+--- Rating #13 ---
+Class: ENSC380
+Date: 2007-09-06 05:28:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Not a bad prof. Lectures are kind of boring and sometimes even useless, however the midterm and final was VERY FAIR. Nothing he didn't teach was on the exam and told you what to study for beforehand. Very Helpful. Don't miss classes, although they're boring he sometimes writes examples that are not on the slides and could be on the exams.
+
+--- Rating #14 ---
+Class: ENSC424
+Date: 2006-12-29 09:17:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Very arrogant and won't listen to complains. Hires horrible TAs. Extremely rude to students. Insults those who question his grading scheme. Marks are very subjective and unfair. Useless course in which you learn nothing. Boring lectures that no one attends. He fails both as a professor and as a person. What a shame for ENSC to have him!
+
+--- Rating #15 ---
+Class: ENSC380
+Date: 2006-05-02 07:59:49 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+His lectures are absolutely useless.  He uses PowerPoint presentations that come with the textbook.  What is most discouraging is that the few classes he taught without the PowerPoint were extremely useful!  Overall, he seems disinterested in teaching, and doesn't seem to put any effort into it.

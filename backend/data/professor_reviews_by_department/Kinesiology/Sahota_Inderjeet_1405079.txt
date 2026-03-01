@@ -1,0 +1,24 @@
+Professor: Inderjeet Sahota
+Professor Legacy ID: 1405079
+Professor ID: VGVhY2hlci0xNDA1MDc5
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: KIN305
+Date: 2010-03-02 19:34:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very helpful TA. Plus his English accent really helps :). You hang on to every word that comes out of his mouth. He is funny and innovative in tutorials..organizes games etc. Great at explaining things. One of the better TAs I've had at SFU.

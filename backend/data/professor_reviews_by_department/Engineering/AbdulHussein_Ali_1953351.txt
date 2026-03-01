@@ -1,0 +1,24 @@
+Professor: Ali AbdulHussein
+Professor Legacy ID: 1953351
+Professor ID: VGVhY2hlci0xOTUzMzUx
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: ENSC220
+Date: 2014-12-03 11:18:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+-Ali was an inspirational professor who taught the circuits course in a very engaging and clear manner. He encouraged questions in the class and frequently asked students to provide feedback on his performance. He made sure, the students are on the same page as him and was able to convey technical and theoretical knowledge in an eloquent manner.

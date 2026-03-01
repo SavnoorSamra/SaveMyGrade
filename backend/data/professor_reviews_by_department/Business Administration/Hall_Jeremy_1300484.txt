@@ -1,0 +1,24 @@
+Professor: Jeremy Hall
+Professor Legacy ID: 1300484
+Professor ID: VGVhY2hlci0xMzAwNDg0
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BUS478
+Date: 2014-12-24 04:09:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Jeremy was a good prof, it was clear that he puts a lot of effort into his job. He would always encourage discussion that was topical and relevant to course material, and the presentations and debate were not difficult if you prepared for them. The class material is boring but Jeremy tried his best to make it accessible.

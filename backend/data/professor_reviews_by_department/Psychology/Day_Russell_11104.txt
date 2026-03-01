@@ -1,0 +1,273 @@
+Professor: Russell Day
+Professor Legacy ID: 11104
+Professor ID: VGVhY2hlci0xMTEwNA==
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 3.4
+Avg Difficulty: 3.2
+Num Ratings: 344
+Would Take Again Percent: 48.1481
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PSCY100
+Date: 2024-08-31 11:42:14 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Avoid this class if you can - the professor relies heavily on the textbook and quizzes/exams don't align well. However, unstuckstudy ai and other study tools like ChatGPT helped me stay on top of the heavy workload. Overall, a tough course but manageable with the right resources.
+
+--- Rating #2 ---
+Class: PSCY100
+Date: 2024-08-31 11:09:24 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Be prepared for a textbook-heavy class with minimal lecture content. The exams and assignments focus heavily on the textbook, so staying on top of the readings is crucial. Expect a challenging course with frequent quizzes and exams.
+
+--- Rating #3 ---
+Class: PSCY100
+Date: 2024-04-26 09:37:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Avoid his class for psyc 100 because I felt that he did not really teach the material in lectures and just wanted us to memorize the textbook for exams.
+
+--- Rating #4 ---
+Class: 102
+Date: 2022-12-08 03:06:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Nice and so funny ... but his class is not marked on par with other intro first year classes, and his TAs mark in-class assignment harshly and there isn't a lot of feedback. If you read the chapters and memorize the little details (because that one little idea WILL be on the exam!) you will be fine. Also, don't bother watching the videos.
+
+--- Rating #5 ---
+Class: PSYC100
+Date: 2022-08-20 04:22:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+as long as you read the textbook, take notes, and understand what you just read and took notes on -- you're set. i suggest attending his in-person lectures because they can be helpful and he tells you what to focus on. recorded lectures aren't needed to do well. the TAs that mark the written assignments can be hard markers! [fall 2021]
+
+--- Rating #6 ---
+Class: PSYC102
+Date: 2022-08-20 04:21:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+reading the textbook and taking notes go a long way in this course. i encourage attending his in-person lectures; they can be helpful and he tells you what to focus on. recorded lectures aren't needed to do well. the TAs that mark the written assignments can be hard markers! exact same format as psyc 100, just different content. [spring 2022]
+
+--- Rating #7 ---
+Class: 102
+Date: 2022-06-21 02:23:51 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+assignments were hard for no reason, and there were lots of them
+
+--- Rating #8 ---
+Class: 102
+Date: 2022-04-14 20:14:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took both 100+102 with prof Day. He was definitely one of the best profs I have had. He has lots of options to earn a good grade ( through quizzes , tests , and in class writes ) and everything is pulled straight from the textbook. You just have to spend 2 hours doing the reading a week at most, and you will be good :)
+
+--- Rating #9 ---
+Class: 102
+Date: 2022-03-25 02:03:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Day's recorded lectures are pretty dry but informative and get points across. But his in-person lectures are more hit or miss since he expects the heavy lifting to be done by his recorded ones. 
+
+His tests, assignments and quizzes are challenging but mostly fair since they pull from the textbook.
+
+--- Rating #10 ---
+Class: PSYC102
+Date: 2022-03-24 04:44:00 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Exams were fair, be prepared to read the textbook & memorize every small detail. No need to go to lectures or watch his videos. Marks depend on the TA for writing assessments but they marked harshly with little feedback & never replied to any of my emails. Also he gives very confusing topics for the writing assessments so it dropped everyone's mark
+
+--- Rating #11 ---
+Class: PSY102
+Date: 2022-03-02 16:03:15 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor Day’s class is nearly impossible to get a good mark in. All assessments have had a average of 50%-60%. He assigns around 2-3 chapters per unit exam and finds the smallest details to put on them. If you want a good mark in this class you need to put at least 2-3 hours a day into studying for it
+
+--- Rating #12 ---
+Class: PSY102
+Date: 2022-02-17 20:44:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+In the fall and spring terms of 2022 Dr. Day did his class as a flipped course, meaning the lectures were online for you to watch on your own and then you came to class for assessments and question . He has received comments like this &quot; He never taught anything in lectures, just made us read the textbook&quot; are from students who didn't listen.
+
+--- Rating #13 ---
+Class: PYSC100
+Date: 2022-02-14 23:31:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Honestly, exams are quite fair as long as you literally read everything in the text. Its hard to get a high mark on weekly quizzes considering theres only 12 questions, and you cant go back and change your answers. The hardest part were the in class essays, as you only have 30 minutes to write it, but the TAs mark as if you had 3 hours.
+
+--- Rating #14 ---
+Class: PSY100
+Date: 2022-01-08 01:41:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is not HORRIBLE, however, I def don't think he has 100 level expectations. The class consisted of 8 iclicker quizzes, 4 exams, and 4 written assignments. He never taught anything in lectures, just made us read the textbook and expected us to know it like the back of our hand. He basically ran the class like an online one. I dont recommend him !
+
+--- Rating #15 ---
+Class: PSYC100
+Date: 2021-12-25 23:00:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Definitely a class where you need to put in effort. Hard to get high marks on quizzes. Doesnt teach during lectures. TAs mark super hard. Doesnt feel like a 100 level course.
+
+--- Rating #16 ---
+Class: PSYC100
+Date: 2021-12-23 17:02:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Honestly, if you do the readings weekly that are around 30 pages, take notes and understand the big ideas youll be fine. He drops the lowest exam scores, the only difficult part was the written assignments that the TAs marked extremely hard for a 100 level class.
+
+--- Rating #17 ---
+Class: PSYC100
+Date: 2021-12-18 14:33:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Had him for both 100 and 102 and if you are completely new to psyc (even tho this is supposed to be an intro course) and a 1st yr who doesn't already have good study habits this will be a struggle.
+
+--- Rating #18 ---
+Class: PSCY100
+Date: 2021-12-10 23:21:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+very textbook heavy and he doesn't teach and the assignments are based all on the textbook. quizzes and exams are based on the textbook but worded very confusing and answers are very similar in wording.
+
+--- Rating #19 ---
+Class: PSYC100
+Date: 2021-12-08 01:27:49 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Did not teach in our lectures, the only reason we were there was to take tests. The textbook chapters were very long and boring at times, so it would have helped to be taught in class. He seems like a nice person, but not the best prof.
+
+--- Rating #20 ---
+Class: PSCY100
+Date: 2021-12-03 21:24:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Weekly quizzes and biweekly exams and writing assignments are terrible. Dude does q and a on emails instead of teaching. Your time will revolve around this class if you want to get a good grade.

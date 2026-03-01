@@ -1,0 +1,128 @@
+Professor: Bassam Nyaeme
+Professor Legacy ID: 2519894
+Professor ID: VGVhY2hlci0yNTE5ODk0
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 4.6
+Avg Difficulty: 2.7
+Num Ratings: 9
+Would Take Again Percent: 100
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: HSCI120
+Date: 2023-07-20 21:10:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I thought he was intimidating at the beginning but as the term progressed, I realised he was the professor who most cared about his students' wellbeing. Such a caring professor and great at giving lectures. When things seemed unfair, he would actually listen and change them. I also loved that he brought in experts to present topics/opportunities.
+
+--- Rating #2 ---
+Class: HSCI120
+Date: 2023-01-01 05:36:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Many readings and materials to memorize but an interesting course. The midterms and exam were multiple choice format. Exam covered most information from lecture and textbook and were straightforward
+
+--- Rating #3 ---
+Class: HSCI120
+Date: 2022-12-31 20:00:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Tbh, I expected this class to be excellent considering the high ratings but in my opinion I found this class super unfair. All his exams are in person but on a laptop, where people can easily cheat, which is unfair to people who actually studied. There is also ALOT of textbook readings, more than psyc classes. However, exam is fair if you studied.
+
+--- Rating #4 ---
+Class: HSCI120
+Date: 2022-12-16 01:26:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+one of the best profs at sfu
+
+--- Rating #5 ---
+Class: HSCI323
+Date: 2022-09-28 04:40:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof! He's such a kind person, and he explains things extremely well. If I was ever confused about something in the textbook, I understood it after he went over it in the lecture. The practice quizzes he assigns on connect really helped me learn and remember things. His exams are not difficult and if you study you will get a good mark
+
+--- Rating #6 ---
+Class: HSCI323
+Date: 2020-01-07 16:39:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The material for this class is heavy and has a lot of memorization but his exams only test on content in lectures and extra stuff that he posts. Makes it enjoyable and the 5 min breaks for discussion during lectures is very useful. He is really helpful as well.
+
+--- Rating #7 ---
+Class: HSCI323
+Date: 2019-11-15 16:25:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+awesome class. content heavy but he makes it fun to relate to. wish he teaches other courses in the HSCI.
+
+--- Rating #8 ---
+Class: HSCI323
+Date: 2019-10-02 01:15:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Wrote my exam today and it was fairly straightforward. Really enjoys the class and the exam was fair.
+
+--- Rating #9 ---
+Class: HSCI323
+Date: 2019-09-26 17:37:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is very good at the integration of the content. I have taken phys before and Bassam makes the integration to phys and clinical applications very smooth. Really enjoying the class.

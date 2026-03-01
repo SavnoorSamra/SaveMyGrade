@@ -1,0 +1,24 @@
+Professor: Jayme Lewthwaite
+Professor Legacy ID: 2315421
+Professor ID: VGVhY2hlci0yMzE1NDIx
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 3
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BISC300
+Date: 2017-12-08 15:32:20 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Super sweet and very willing to answer questions. A lot of the quizzes were very picky, and there was way too much material on the second midterm. Slides can be a little confusing and she's not the most emotive speaker but she's okay.

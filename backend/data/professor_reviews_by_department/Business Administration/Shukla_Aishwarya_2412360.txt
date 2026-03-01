@@ -1,0 +1,271 @@
+Professor: Aishwarya Shukla
+Professor Legacy ID: 2412360
+Professor ID: VGVhY2hlci0yNDEyMzYw
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3
+Avg Difficulty: 3.4
+Num Ratings: 56
+Would Take Again Percent: 50
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS464
+Date: 2023-05-01 07:55:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Aish does not know how to teach and when you asked him for help he would scold you and say that you haven't been spending enough time studying. His assignments & tests are extremely challenging and his thick accent makes it very hard to understand him. He often shows that he's annoyed or frustrated to the class when the class doesn't participate.
+
+--- Rating #2 ---
+Class: BUS464
+Date: 2022-12-21 19:08:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I wouldn't say Aish is an amazing one during lectures, but he was really accessible and always willing to help students by hosting as many office hours as he can. Course materials aren't hard, but you need to take time to understand and practice a lot. You will choose your own teammate so be wise on that. Project is hard but you will learn SO much.
+
+--- Rating #3 ---
+Class: BUS237
+Date: 2020-09-22 19:21:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Not a helpful prof if you are in hard times!
+
+--- Rating #4 ---
+Class: BUS237
+Date: 2020-07-25 08:31:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+he is the best prof, he is very caring and wants us to learn.
+
+--- Rating #5 ---
+Class: BUS237
+Date: 2020-07-25 08:28:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very helpful. Genuinely cares about students and wants them to succeed.
+
+--- Rating #6 ---
+Class: BUS237
+Date: 2020-07-25 08:28:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The midterms and finals were very easy and straight forward.
+
+--- Rating #7 ---
+Class: BUS464
+Date: 2020-05-19 06:15:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Aishwarya is a helpful and caring professor who prioritizes student feedback. Course concepts may be tricky for those without a technical background, but he goes the extra mile to help students outside of class and will tell us what to study for the exams. Take really good lecture/textbook notes for final, practice quizzes, and write a lot of code.
+
+--- Rating #8 ---
+Class: BUS464
+Date: 2020-05-12 19:48:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I would take this instructor again. he was helpful and available feedback outside class when needed. And he really wanted his students to understand what he was teaching.
+
+--- Rating #9 ---
+Class: BUS237
+Date: 2020-04-25 13:32:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Has one or two pop quiz that are not worth much but they are still quizzes, reads off the slides but actually bases his exam on the material in the slides, questions are not too hard they just test your basic understanding of the concepts, really a great person and understands if you are going through tough times, I really respect him a lot.
+
+--- Rating #10 ---
+Class: BUS464
+Date: 2020-04-14 07:30:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+he is a fantastic prof who really cares about his students. the course is very helpful. there are a few assignments that are very difficult and time consuming but he is available to help you. if you have a good partner, you will do well, if not, good luck because there are no peer evaluations. lectures are heavy and exams are fair.
+
+--- Rating #11 ---
+Class: BUS464
+Date: 2020-04-14 04:25:28 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He's a caring prof who is almost always available for help after class. His assignments are difficult but you learn a lot. Picking a good partner for the assignments is crucial because you're stuck with them for the whole term. There's no peer evaluation but there should be to stop freeloaders.
+
+--- Rating #12 ---
+Class: BUS464
+Date: 2020-04-14 03:31:13 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Aishwarya is smart and passionate about this course but he cannot teach. His lectures were very dry and he has a thick accent so its difficult to understand him. When hes asking a question, no one participates b/c we dont know what hes saying so gets frustrated. He tells us to email him if we have any questions but does not reply.
+
+--- Rating #13 ---
+Class: BUS464
+Date: 2020-04-05 12:17:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Difficulty of this class is not because of content. Its whether you had a hardworking partner. I had an amazing partner so assignments were not hard. Exams are fair. Overall one of the only classes Ive learned something applicable for a job. Good professor I would recommend.
+
+--- Rating #14 ---
+Class: BUS464
+Date: 2020-04-04 00:44:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+A good prof overall, very open to suggestions and caring towards his students. Lectures are very content-heavy and exams are not easy but that is the norm with these types of courses. Make sure to stay up to date with lectures because lots is covered each time.
+
+--- Rating #15 ---
+Class: BUS464
+Date: 2020-04-04 00:43:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He gives difficult assignments but they're extremely applicable. He cares a lot about his students and is available to help after class or during office hours. Definitely one of the most useful classes I have taken!
+
+--- Rating #16 ---
+Class: BUS464
+Date: 2020-04-04 00:41:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Aishwarya is a great prof for a coding class. His assignments are TOUGH but will help you learn. He is always available during office hours to help you with assignments or questions which is great. He is also very caring about you personally and has been amazing during the covid19 situation. I would recommend taking him for BUS464.
+
+--- Rating #17 ---
+Class: BUS464
+Date: 2020-04-04 00:40:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Really enjoyed his class! The course itself was though, but he was passionate about the topics, which makes it interesting. Overall, great prof!
+
+--- Rating #18 ---
+Class: BUS464
+Date: 2020-03-31 22:25:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Prof. Aish is very caring towards his students. Although his assignment is pretty difficult, he was really helpful and accessible outside the lecture if you have any questions. He appreciates those who work hard for the course. I would definitely recommend taking this course with him.
+
+--- Rating #19 ---
+Class: BUS464
+Date: 2020-03-23 01:00:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Aishwarya is caring, knowledgeable, and wants all students to learn. When classes do not participate, he gets visibly frustrated. He would do well to shift his teaching style from simply &quot;asking a question and waiting for a response&quot; to repeating his question differently, or walking students simply through logic to derive the answer.
+
+--- Rating #20 ---
+Class: BUS464
+Date: 2020-03-21 00:35:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very helpful and kind professor. He really cares about his students and will take the time to explain concepts thoroughly if he feels people don't understand. This was one of the most useful and interesting courses I took and favorite prof!!

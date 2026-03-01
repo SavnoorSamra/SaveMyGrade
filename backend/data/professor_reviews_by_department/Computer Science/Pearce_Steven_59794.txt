@@ -1,0 +1,291 @@
+Professor: Steven Pearce
+Professor Legacy ID: 59794
+Professor ID: VGVhY2hlci01OTc5NA==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.4
+Avg Difficulty: 3.4
+Num Ratings: 302
+Would Take Again Percent: 44.1441
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MACM101
+Date: 2025-12-17 09:36:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Reads 100 slides within an hour which is too fast for most students . Does not stop and discourages questions. Do not take unless you have no other option as a professor.
+
+--- Rating #2 ---
+Class: MACM101
+Date: 2025-07-24 10:52:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Just Awful.
+
+--- Rating #3 ---
+Class: CMPT276
+Date: 2025-04-08 07:38:21 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Guy is based for hating this course, it is almost entirely useless information or obvious. The downside is that his exams are stuff he printed off ms word the night before, with options such as
+
+a)
+b)
+c)
+d)
+e)
+f)
+a)
+b)
+
+Of course its the typical read from the textbook style that 9/10 of the profs have, but that isn't surprising to you, is it?
+
+--- Rating #4 ---
+Class: MACM101
+Date: 2025-03-12 21:24:12 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Pro:
+exams didn't have mistakes.
+Gives clear info on what on the exam.
+Will replace midterm grades with final's if you get higher marks on final.
+Con:
+Lectures go through materials quickly.
+Unlikely to answer questions during lecture.
+Lecture notes are reused from previous years.
+
+--- Rating #5 ---
+Class: MACM101
+Date: 2025-01-10 10:15:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+You won't get much from his teaching style as he just reads off slides. First midterm screwed me over since I did practice questions from the textbook but most of the midterm were different types of questions straight from the slides. You'll have better luck predicting what questions on the slides will be on the exams than actually studying
+
+--- Rating #6 ---
+Class: CMPT276
+Date: 2025-01-07 07:41:09 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Hes not like any prof i have had before. He believes this is a bs course so his attitude towards teaching it isn't very good. He tried his best to teach us what he believes is actually useful though. He is entertaining but its hard to tell what we should be learning because he skips over half of his ppts. Easy class but hard to excel in it.
+
+--- Rating #7 ---
+Class: MACM101
+Date: 2025-01-01 22:35:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The lectures were not helpful at all. He read off the slides and skipped multiple of them, claiming that they were so easy that he didn't need to teach them to us. He would not explain anything and was not willing to answer questions. If you take this course, you will have to teach yourself everything.
+
+--- Rating #8 ---
+Class: MACM101
+Date: 2024-12-24 10:34:53 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures almost useless as he neither knows how nor cares to make them actually educational. Tutorials are only Q&A. If you are new to math and need guidance, then you'll get none. You have to learn everything on your own from the slides. Otherwise the course itself is doable. 2/5 since at least he isn't actively making the course impossible
+
+--- Rating #9 ---
+Class: CMPT276
+Date: 2024-12-21 04:55:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I loved his class, he makes it so fun  and it is the only class that I went home knowing what he taught in class, exams are fair, group project depends on your group, he gave everyone high grades, there are to much slides but you just need to go to class as he skips a lot and tells you what to focus on for the exams. One of the best classes!
+
+--- Rating #10 ---
+Class: CMPT276
+Date: 2024-12-19 17:55:56 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This man is all jokes and no substance. Skips entire slides because it's 'redundant', and speaking with other 276 classes, he doesn't cover what they do. Exams are weighed heavily, much of it being mc's and he won't release the grade cut-offs. He was also quite negative towards his students.If you want edgy, pessimistic commentary on SE, go for it.
+
+--- Rating #11 ---
+Class: CMPT276
+Date: 2024-12-19 05:06:52 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He says the term project's the most important part of the course, yet makes exams worth 70% of the grade. That wouldn't be a problem if they weren't just multiple choice gambles. Skips half the slides citing uselessness, leaving us underprepared for real world corporate/industry situations. Funny, cool guy but not the right course for him to teach.
+
+--- Rating #12 ---
+Class: CMPT276
+Date: 2024-12-19 03:44:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Courseload and grading scheme was easy to achieve good scores. Exams were not too difficult, mostly containing MCQ. You can select your own team members for the group project and it was quite lenient. Lectures were not that useful but he was very funny and kept me engaged. Highly recommend if you need the grades and light workload.
+
+--- Rating #13 ---
+Class: MACM101
+Date: 2024-12-18 20:05:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+unless you pay him off you're not getting any kind of good grade in this class bro intentionally mislead us for every test after we scored too high on the first midterm and we ended up with the lowest class average of all time. big homie is losing it
+
+--- Rating #14 ---
+Class: MACM101
+Date: 2024-12-15 16:58:49 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Steve seems to know the topic well, however he doesn't know how to teach. Whenever someone asked a question, he would make remarks about how dumb the question was, or even make fun of the student. Whenever he was teaching something, he would make remarks about how it was so easy he could do it in his sleep, and so skip over half the explanation.
+
+--- Rating #15 ---
+Class: CMPT276
+Date: 2024-12-15 06:40:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Just show up to lectures. He explains the necessary topics well and filters through the garbage in the textbook slides. You'll have no problem passing this class with Pearce. He also makes lectures entertaining and discusses events in history that are very interesting to learn about.
+
+--- Rating #16 ---
+Class: MACM101
+Date: 2024-12-14 19:06:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+HORRIBLE dude if you have him pray that you can pass his class. He spends the entire lecture nonsensically reading the slides but getting confused about his own material. Would cancel class randomly after we were already there because he had a headache. did this like 6 times in a row right before our midterm. how this man is still a professor here
+
+--- Rating #17 ---
+Class: MACM101
+Date: 2024-12-12 01:02:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+you're either gonna love or hate pearce. very interesting person
+
+--- Rating #18 ---
+Class: MACM101
+Date: 2024-12-11 23:32:18 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He can't teach, very hard to understand his lectures (don't expect to) but his slides are good and majority of exams is straight from the powerpoints. Go to lectures even if you don't understand a thing because he gives away which questions are on the exams. Not a good experience at all but he's a man of his word and bought the whole class pizza
+
+--- Rating #19 ---
+Class: MACM101
+Date: 2024-12-11 23:31:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very rough class. He is a pretty funny guy, but he cannot teach. Would not reccomend taking his classes, but if you need to do so you should get ready for a lot of self studying.
+
+--- Rating #20 ---
+Class: MACM101
+Date: 2024-12-11 23:26:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+AVOID AT ALL COSTS IT'S NOT WORTH IT. 
+
+Completely self-taught course, only merit to going to lecture is getting exam questions that he loosely gives out randomly

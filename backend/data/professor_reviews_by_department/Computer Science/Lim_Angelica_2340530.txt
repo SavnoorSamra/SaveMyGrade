@@ -1,0 +1,275 @@
+Professor: Angelica Lim
+Professor Legacy ID: 2340530
+Professor ID: VGVhY2hlci0yMzQwNTMw
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.2
+Avg Difficulty: 2.9
+Num Ratings: 74
+Would Take Again Percent: 83.7838
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT419
+Date: 2025-04-19 03:38:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She really cares and is very passionate about the course topics. Some people are mad about the final curve but that is just because everyone scored very high on assignments and there needed to be some grade distribution. Not everyone can get an A
+
+--- Rating #2 ---
+Class: CMPT419
+Date: 2025-04-18 20:21:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+I took 419, 310 and 376w with Angelica and she was great for all 3. This class in particular was the most interesting and we were given a lot of space for creativity with the group project. She is passionate about teaching and that translates really well to her lectures. Definitely recommend taking any course she is teaching.
+
+--- Rating #3 ---
+Class: CMPT419
+Date: 2025-04-18 07:27:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Pretty good Prof, Cares and is thoughtful
+
+--- Rating #4 ---
+Class: CMPT419
+Date: 2025-04-18 05:39:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Absolutely absurd grading criteria. Like 89+ will be an A-. Bruh. Prof herself is super overrated imo. She wasn't even able to answer challenging questions during the class. The material provided was easy and useless considering this is a 400 lvl course. Overall not too bad but she is just mediocre. Other 419 profs like Nick Vincent is far better.
+
+--- Rating #5 ---
+Class: CMPT376
+Date: 2025-01-10 01:20:51 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+CMPT376W is not a fun course. We barely learned anything related to writing, and the majority of the focus is on ethics.
+As a result, the course becomes "learn how to think in a correct way that won't get you canceled".
+In addition to this, she doesn't really have enough office hours. Which means reaching her is difficult.
+
+--- Rating #6 ---
+Class: CMPT310
+Date: 2024-12-20 19:21:50 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The professor often struggled to explain the slides. Homework grading was severely delayed, with two weeks of no activity. The final exam had numerous errors requiring multiple corrections. Given the high ratings, I was very disappointed. Take the other professor because you can get a better grade, you have to do self-learning anyway.
+
+--- Rating #7 ---
+Class: CMPT310
+Date: 2024-12-19 01:24:38 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The final exam was terrible. Although calculators were allowed, the exam had obscure questions, mistakes, and unclear wording that baffled even the TAs. It felt more like a test of our patience and endurance than of our understanding of the material.
+
+--- Rating #8 ---
+Class: CMPT310
+Date: 2024-12-18 05:28:12 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Active answering on Piazza, lectures comprehensive. Exams more convoluted/confusing than necessary, other UD CS & math exams more straightfoward. Midterm: No calculator but had a long calculation w/ decimals. Final exam: Calculator allowed but asked obscure question, mistakes in questions, unclear wording that even TA was confused with when asked.
+
+--- Rating #9 ---
+Class: CMPT310
+Date: 2024-12-17 22:59:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Angelica's class was decent and I'll cut her some slack since she tried to redo the course with new material. The course contents were pretty much identical to UCB. Overall the lectures were good and exams were fair apart from some final questions. Enjoyed my time in the course.
+
+--- Rating #10 ---
+Class: CMPT310
+Date: 2024-12-16 23:20:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Garnered a lot of sympathy with performative caring (talks about reading RMP + Discord), but did little to actually help students. Idc that she uses someone else's slides. I do care that she didn't bother learning them first. Her reputation is propped up by her demeanour rather than teaching ability. It's clear she put in minimal effort.
+
+--- Rating #11 ---
+Class: CMPT310
+Date: 2024-12-16 20:27:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Too much individual assignment weight (only 3 assignments, not enough topic covered) + TAs make them, so can be too hard, also require knowledge outside prerequisites. Lectures had mistakes sometimes, but overall organized selection helpful to introduce AI. Exams feel like trivia, need to memorize names and read textbook (some info not on slides!)
+
+--- Rating #12 ---
+Class: CMPT376
+Date: 2024-12-11 20:51:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+One of those petty instructors who refuses to post notes online because otherwise no one would come to their pointless lectures. This course was a waste of time and she only served to make it worse.
+
+--- Rating #13 ---
+Class: CMPT310
+Date: 2024-11-27 15:20:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+If you just want easier UD credits for grad, this is the course to take. It takes some work to get good grades yes, but you can literally coast (spending 3 hrs max / wk) to class avg. She is nice, but don't expect to get much out of her lectures. All borrowed material including proj (few). Wkly exercise = free marks. Again, EZ UD credits.
+
+--- Rating #14 ---
+Class: CMPT310
+Date: 2024-11-26 17:26:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Angelica is awesome, you can tell she genuinely wants us to learn about the material
+
+--- Rating #15 ---
+Class: CMPT310
+Date: 2024-11-17 23:57:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She tells you not to use ChatGPT for your assignments while she copied all her slides form Berkeley without referencing them. What does that tell you?
+
+--- Rating #16 ---
+Class: CMPT310
+Date: 2024-11-15 10:02:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Lim presents the course material straightforwardly, and I can tell a lot of thought was put into developing the content. It only includes the relevant parts in a traditionally VERY content-heavy, outdated and boring course. Assignments/tests are graded on understanding- not memorization. Make sure you go over your math fundamentals. Fun class!
+
+--- Rating #17 ---
+Class: CMPT310
+Date: 2024-10-30 16:05:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Lim is an excellent professor and I recommend 310 with her. The pre reqs aren't up to date as of now so be sure to have a little calculus and linear algebra but she has helped the class get up to date. Challenging topics so be ready to learn outside of class and use the resources she makes available. Dr. Lim cares about her students success
+
+--- Rating #18 ---
+Class: CMPT310
+Date: 2024-10-29 21:53:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I'm just entirely amazed at the lazy negative comments for Prof Lim&#8230; it makes no sense&#8230; you're in CS&#8230; at SFU, people. Do you think it's easy? Ignore the negative course feedback if you're actually here to learn.
+
+For serious students who are actual adults: Prof Lim is extremely bright, she's very accessible if you actually ask her questions!
+
+--- Rating #19 ---
+Class: CMPT310
+Date: 2024-10-29 21:19:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I came here to comment that our midterm for this course was the 29th so take the bad reviews leading up with a grain of salt, great prof imo and makes tough content manageable. We got to do weekly activities in place of an extra lecture and they help me a lot.
+
+--- Rating #20 ---
+Class: CMPT310
+Date: 2024-10-29 21:15:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Love this class & prof. Content challenging but manageable. Follow lecture examples (versus just re-doing assignments/activities) for exams, my learning. Dr. Lim has entertaining, engaging lectures and integrates topics within the broader picture (industry, current research). Huge course, good to be familiar with topics.10/10 recommend.

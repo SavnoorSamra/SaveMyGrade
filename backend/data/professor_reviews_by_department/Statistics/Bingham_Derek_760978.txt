@@ -1,0 +1,271 @@
+Professor: Derek Bingham
+Professor Legacy ID: 760978
+Professor ID: VGVhY2hlci03NjA5Nzg=
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 4.6
+Avg Difficulty: 2.5
+Num Ratings: 89
+Would Take Again Percent: 92.8571
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: STAT403
+Date: 2025-05-15 18:09:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Derek is an amazing professor. It's amazing how he genuinely cares about every student and does not have any any bias towards specific students unlike many other professors at SFU. He did take a while to grade everything but I would say he is fair to his students. Great lectures as well!
+
+--- Rating #2 ---
+Class: STAT270
+Date: 2023-12-21 07:11:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Derek took over my STAT 270 class for another professor who was on strike. He is a really, really nice guy, and he comes off as very welcoming/caring. His examples were funny and relatable, and it is very evident that he cares about his students. His slides could be better, but 270 is also a hard class that requires you to put in a lot of effort.
+
+--- Rating #3 ---
+Class: STAT403
+Date: 2023-09-06 05:41:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Derek is a great statistics professor. His lectures are entertaining and he provides a lot of real-life examples. I struggled a lot during the semester, but he helped me a lot outside of class during the office hours and replying to my emails.
+
+--- Rating #4 ---
+Class: STAT270
+Date: 2022-08-24 18:00:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is a no-nonsense kind of guy. Just show up to lectures and pay attention and you should do okay. If you want to do really well you will need to go to office hours and the stat workshop. This is a difficult course, but Derek can explain things really well. Don't fall behind or you are done.
+
+--- Rating #5 ---
+Class: STAT270
+Date: 2022-05-15 06:58:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The course grade relies fully on midterms and the final, but there were practice tests provided. Lectures are structured with some examples but practicing the problems related to the lectures will be your best bet.
+
+--- Rating #6 ---
+Class: STAT270
+Date: 2022-04-29 23:32:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Exams are rather difficult and this course is not curved at all. There are no assignments to help boost the grades. If you messed up the midterms you will probably end up with a C- or lower
+
+--- Rating #7 ---
+Class: STAT270
+Date: 2022-04-27 21:11:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Derek is a professor that actually cares about his students, and wants everyone to do well. To do well just practice his practice midterms, and assignments as his tests are commonly copy and pasted from here. Overall a great teacher!
+
+--- Rating #8 ---
+Class: STAT270
+Date: 2022-04-21 20:41:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Derek is a great prof for STAT 270. Fair exams and great lecturer, would highly recommend him over the other STAT 270 profs.
+
+--- Rating #9 ---
+Class: STAT270
+Date: 2022-04-06 06:30:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Derek definitely knows the material he's teaching, and is able to explain it in a way that is understandable (for the most part). His tests are very fair in terms of asking questions on exactly what he said would be there, and doesn't add any trick questions. He also tries to minimize the calculus exposure whenever possible, which is great!
+
+--- Rating #10 ---
+Class: STAT410
+Date: 2021-06-05 05:31:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is a real gem!
+
+--- Rating #11 ---
+Class: STAT100
+Date: 2021-05-19 19:19:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Derek is a good prof who actually cares about students. The exams were pretty straightforward and manageable. The quizzes were a bit more difficult than the final exams, but if you do all the suggested problems you'll do well.
+
+--- Rating #12 ---
+Class: STAT100
+Date: 2021-05-12 06:16:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Derek was such a great prof, his lectures were entertaining and informative. You will need the textbook to go more in depth for a few things, but overall great prof. The class was made up of a couple quizzes and a final (which was so easy).
+
+--- Rating #13 ---
+Class: STAT100
+Date: 2021-05-08 05:51:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Derek jumps all over the place during his lectures. Concepts are super easy to understand, but quiz wording is really confusing; intentionally worded to throw you off. The final exam is relatively easy though.
+
+--- Rating #14 ---
+Class: STAT100
+Date: 2021-05-07 02:29:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I hate stats but Derek was a really good prof in how he taught the course. He was clear in what he expected. The only bad thing I can say is that there were a few typos in his notes, other than that he was quite a solid choice. 4 quizzes and 1 final exam. The quizzes were around average in terms of difficulty but the final was honestly a breeze.
+
+--- Rating #15 ---
+Class: STAT100
+Date: 2021-05-01 20:31:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I highly recommend this prof if you are not necessarily strong in math. He explains concepts well and creates tests fairly.
+
+--- Rating #16 ---
+Class: STAT100
+Date: 2021-05-01 18:32:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+The class was made up of 4 exams and one final. Exams were extremely fair. Derek is a very nice prof, would highly recommend him.
+
+--- Rating #17 ---
+Class: STAT270
+Date: 2021-04-28 00:16:27 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Derek is overall a nice prof, he goes throught his notes and lectures well, but he writes with his mouse which is eh. The only thing for marks is quizzes and final. However idea of seperating quizzes into parts is the dumbest idea, as it takes more time to upload than write. Also the textbook is useless, and its better to use the previous stats one
+
+--- Rating #18 ---
+Class: STAT270
+Date: 2021-04-07 22:28:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Derek seems optimal for in-person lectures. He is very knowledgeable and knows how to clearly explain concepts. He appears to dislike (and lacks the resources for) online learning - using a mouse to write notes, but that doesn't take much away from his ability to teach. Exams are fair, but lacks prep such as practice exams and questions.
+
+--- Rating #19 ---
+Class: STAT100
+Date: 2021-03-24 22:21:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He's a real gem. I love him!!!
+
+--- Rating #20 ---
+Class: STAT100
+Date: 2021-03-02 23:29:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Funny guy, lectures and power point were recorded and posted. For a boring class he made it a bit interesting, I took it cause I had too for graduation, and it was not as bad as I thought it would be. I do not like math concepts so that is really saying something.

@@ -1,0 +1,50 @@
+Professor: Peter Liljedahl
+Professor Legacy ID: 1455785
+Professor ID: VGVhY2hlci0xNDU1Nzg1
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4
+Avg Difficulty: 3
+Num Ratings: 3
+Would Take Again Percent: 50
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: MATH190
+Date: 2017-03-07 17:56:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Liljedahl is one of the best professors I have ever taken a course with. His classes are extremely engaging and fun, and even if you are not crazy about Math, you will be after you meet him!
+
+--- Rating #2 ---
+Class: EDUC475
+Date: 2016-08-01 00:22:07 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Far too many unrealistic assignments. To give you an idea, one of the math assignments requires you to write a movie script, with different acts and scenes. The portfolio and journal assignments, worth a combined total of 30% was over 40 pages of pure writing.
+
+--- Rating #3 ---
+Class: EDUC475
+Date: 2014-07-21 15:06:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Super engaging!

@@ -1,0 +1,38 @@
+Professor: Mohamad Karami
+Professor Legacy ID: 3017860
+Professor ID: VGVhY2hlci0zMDE3ODYw
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4
+Avg Difficulty: 3.5
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS207
+Date: 2026-01-02 21:20:04 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took him about two years back. Seemed nice, though lectures can get a bit confusing due to slight structuring issues. He was new back then so I have no doubts he has been improving.
+
+--- Rating #2 ---
+Class: BUS207
+Date: 2024-11-05 08:36:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+He definitely made the course much easier. I took the class with him in Summer 2024 and really enjoyed it! Just practice all the example and tutorial questions, and you'll be set to ace the course!
+Make sure to listen carefully during his lectures&#8212;he gives plenty of hints for the exam questions!

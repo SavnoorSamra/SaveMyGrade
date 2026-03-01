@@ -1,0 +1,89 @@
+Professor: Ashleigh Rich
+Professor Legacy ID: 3034474
+Professor ID: VGVhY2hlci0zMDM0NDc0
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 2.7
+Avg Difficulty: 2.2
+Num Ratings: 6
+Would Take Again Percent: 50
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: HSCI207
+Date: 2026-01-21 17:42:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Absolutely the best prof ive ever take. Amazing. Great wonderful wow just wow
+
+--- Rating #2 ---
+Class: HSCI207
+Date: 2025-01-08 03:49:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+the class was relatively easy however lectures were boring. the class had 3 exams and 2 papers which were all easy besides the last exam
+
+--- Rating #3 ---
+Class: HSCI207
+Date: 2024-12-29 05:24:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+the course content was very dry, but she tried her best to keep everyone engaged with activities, but when teaching, she mostly just read off the slides. marking was very easy. attendance is mandatory for both lectures and tutorials, didnt use the textbook at all. for her first time teaching, i think she did pretty well!
+
+--- Rating #4 ---
+Class: HSCI207
+Date: 2024-12-16 21:28:09 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor read directly from the slides, attending class was unnecessary, you could just read them at home. The textbook was useless, got an A without ever opening it. While attendance in class & tutorials was required for marks, there wasn't much else of value in going. That said, neither the class nor the professor was awful, just unremarkable.
+
+--- Rating #5 ---
+Class: HSCI207
+Date: 2024-12-16 01:44:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Avoid if possible. She rounds grades like 89.99999 and 94.9999 down and has a boring teaching style. She also doesn't release the correct exam answers and expects students to remember their responses 2-3 weeks after taking the exam when reviewing the answers in the tutorial. Assignments are not hard though. No need to buy the textbook.
+
+--- Rating #6 ---
+Class: HSCI207
+Date: 2024-12-14 23:06:23 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+she basically read off of the slides. the textbook was a waste of time, dont buy it, I never used it. The exams were easy except the last one and she never allowed us to see what we got wrong on the exams either; basically didnt give them back.

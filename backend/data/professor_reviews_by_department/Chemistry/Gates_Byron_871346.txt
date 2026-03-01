@@ -1,0 +1,154 @@
+Professor: Byron Gates
+Professor Legacy ID: 871346
+Professor ID: VGVhY2hlci04NzEzNDY=
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 4.1
+Avg Difficulty: 3.6
+Num Ratings: 11
+Would Take Again Percent: 75
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: CHEM316
+Date: 2021-04-10 09:44:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+In terms of teaching, he is definitely very dedicated to producing the future generation of chemists. He has a high standard on labs but you'll learn a lot. The course itself seems more engineering than chemistry due to focus on machine mechanisms of operation. Quizzes and exam were difficult but doable with good prep. He is great in office hours.
+
+--- Rating #2 ---
+Class: CHEM371
+Date: 2018-03-11 22:01:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Does not teach the course well..
+
+--- Rating #3 ---
+Class: CHEM316
+Date: 2017-10-19 00:59:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He changed the way the course and the lab were taught. He allowed the students to gain more experience and knowledge with the instruments. The reports were written formal reports, but he gave great feedback. The lectures related well to the lab, but they didn't always match up timing-wise. Overall, great class with him instead of anyone else!
+
+--- Rating #4 ---
+Class: CHEM316
+Date: 2017-07-03 16:16:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very caring teacher, makes effort learn everyone's name.  The lectures were based around the lab which made everything very practical.  Labs every week made sure we got lots of experience using instruments but also led to lots of homework for lab reports.  Overall not the easiest teachers but learnt more than most classes.
+
+--- Rating #5 ---
+Class: CHEM371
+Date: 2014-03-12 19:38:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+NICE professor, by nice I mean good personality and clear explanation to the course content. the course is somewhat heavy and the textbook is a nightmare to follow up. Just attend the lecture and study for the notes, you should be just fine. exams are fair but require thoroughly understanding of the concept.
+
+--- Rating #6 ---
+Class: CHEM371
+Date: 2013-11-01 14:44:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+u can get in trouble for recording his lecture. so dont
+
+--- Rating #7 ---
+Class: CHEM371
+Date: 2012-02-21 17:02:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is a great person. However, he is too general and no idea what he is trying to focus on. Exam are extremely hard. Textbook is not easy to understood.
+
+--- Rating #8 ---
+Class: CHEM316
+Date: 2010-07-15 18:16:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Really helpful when approached and asked questions where clarifications are needed. Study the notes provided in class and attend lecture. Exams are fair and everythig on the exams has been explained in class several times.
+
+--- Rating #9 ---
+Class: CHEM215
+Date: 2009-04-16 00:17:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great prof. Very approachable for help. For exams, study the examples in notes then read the book. His midterms are 5 questions and worth 100 marks. his final 2x length of mt and worth 350 marks
+
+--- Rating #10 ---
+Class: CHEM316
+Date: 2008-03-17 12:44:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He's really friendly. The course is rather hard, but if you ask him, he will explain it throughly until you understand. Come to class, or else you miss the notes. Exam questions a bit tricky, but if you study well the text and notes, you'll be ok.
+
+--- Rating #11 ---
+Class: CHEM316
+Date: 2006-08-03 00:08:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Friendly prof. He's very helpful when you go to his office or during the lab. NOTE: READ THE TEXTBOOK

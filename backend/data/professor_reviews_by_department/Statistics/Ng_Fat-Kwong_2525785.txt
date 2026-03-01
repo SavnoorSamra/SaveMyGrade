@@ -1,0 +1,37 @@
+Professor: Fat-Kwong Ng
+Professor Legacy ID: 2525785
+Professor ID: VGVhY2hlci0yNTI1Nzg1
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 1
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: STAT100
+Date: 2019-11-20 18:46:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+avoid taking this prof if you can!! hard to understand him because of his thick accent and he doesnt even teach. tells us he likes to use this reverse classroom method which is just a load of bs, he actually means he doesnt want to teach so you can teach yourself. i-clicker quiz at ever lecture on each chapter that you have to teach yourself.
+
+--- Rating #2 ---
+Class: STAT100
+Date: 2019-10-21 00:54:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Doesnt teach a thing at all. Spend the whole class doing iclicker quiz

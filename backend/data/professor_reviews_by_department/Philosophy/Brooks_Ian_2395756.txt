@@ -1,0 +1,271 @@
+Professor: Ian Brooks
+Professor Legacy ID: 2395756
+Professor ID: VGVhY2hlci0yMzk1NzU2
+Department (CSV): Philosophy
+Department (Fetched): Philosophy
+Avg Rating: 4.9
+Avg Difficulty: 2.6
+Num Ratings: 23
+Would Take Again Percent: 91.3043
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PHIL105
+Date: 2026-02-26 03:07:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took ENSC 105 with him. Be careful when using AI, if you don't properly disclose and cite it, he may fail you. He is a great instructor, caring, knowledgeable!
+
+--- Rating #2 ---
+Class: PHIL105
+Date: 2024-01-03 11:23:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Such an incredible professor!! His lectures are engaging, humorous, and comprehensive. I really like the way he encourages questions and reviews all the knowledge before a test. If you are taking this course, be extra prepared on the first midterm, pay attention in class you are sure to pass with high marks. Good luck!!
+
+--- Rating #3 ---
+Class: PHIL105
+Date: 2023-11-22 22:08:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+one of the best professors at FIC, his lectures are interactive and fun
+
+--- Rating #4 ---
+Class: PHIL105
+Date: 2023-10-24 04:22:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The best professor in FIC. He is very nice and always makes the course fun even though critical thinking may be a complicated lesson, but I would love to take his class again! !
+
+--- Rating #5 ---
+Class: PHIL105
+Date: 2023-08-19 21:13:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ian is the best professor I have had during my time at FIC. The way he gives his lectures makes his class very interesting and funny. Final exam was definitely tricky but as long as you understand the subject you will be okay.
+
+--- Rating #6 ---
+Class: PHIL105
+Date: 2023-01-01 18:52:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Phil is one of the best professor I've ever met. His lectures are very fun and he is very engaging to his students, explaining the materials clearly in class and have clear expectations. Participation really matters in the class and it will also really help you in the course. Attend office hours when you have questions, and you'll be fine.
+
+--- Rating #7 ---
+Class: PHIL105
+Date: 2022-12-11 10:20:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ian is passionate about his course concepts. Acknowledges mental illness. Do not hesitate to go and talk during office hours. Read the book appropriately, PLEASE.
+
+--- Rating #8 ---
+Class: PHIL100
+Date: 2022-08-12 22:56:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Ian is a really goof professor, his slides are easy and well explained. His lecture do not get us bored and are really easy to understand. Midterms and finals are easy. He helps a lot if any student have some concerns or questions regarding the Course material.
+
+--- Rating #9 ---
+Class: PHIL105
+Date: 2022-05-13 23:01:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Phil 105 is a great GPA booster. Just read all the definitions in the textbook, learn to do all the calculations and do all the assignment and you will get a good grade.
+
+--- Rating #10 ---
+Class: PHIL100
+Date: 2022-01-06 23:56:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great Teacher, makes topic interesting to students. Fun Lectures. However Ian could give out more Practice paper and Notes before Exams and quizzes.
+
+--- Rating #11 ---
+Class: PHIL105
+Date: 2021-12-28 21:40:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Ian is a good teacher, a great teacher even. However, the course is outlined in a very messy way that is confusing. Also, he grades on very few things so be ready to put your 110% for those quizzes and tests.
+
+--- Rating #12 ---
+Class: PHIL105
+Date: 2021-12-28 03:37:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He explains the concepts pretty clearly and is interesting that makes students understand more about the textbook. Just the tests are quite harder than the lectures, but trying to understand the concepts from his lecture and participating in the class will get a good grade.
+
+--- Rating #13 ---
+Class: PHIL105
+Date: 2021-12-13 00:10:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+perfect
+
+--- Rating #14 ---
+Class: PHIL105
+Date: 2021-09-20 18:27:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Ian is the best philosophy professor ever. If you have a chance to take his class, take it! He loves what he teaches and his lectures are super interesting.
+
+--- Rating #15 ---
+Class: PHIL105
+Date: 2021-08-21 04:07:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Ian's teaching is really Awesome, I really loved it .Exams are easy if we revise all the topics and look at his lectures. He is very kind and helps us with the doubts we have. Ian makes the class so interesting although I took an Asynchronous class I enjoyed listening to his lectures.
+
+--- Rating #16 ---
+Class: PHIL105
+Date: 2021-06-07 17:49:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is probably the best professor I have had so far. His energy in lectures really highlights the enthusiasm he has for the course. Clear &amp; detailed explanations. He is very caring and he gives solid feedback. Struggling with something? Don't worry, he will always have your back. If you want to take PHIL105, pick him!
+
+--- Rating #17 ---
+Class: PHIL105
+Date: 2021-01-05 17:11:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+A real gem of a professor. You can really tell he loves his subject by the enthusiasm he shows in his lectures. He is quite understanding of student difficulties and is very supportive. Quizzes are in line with what is taught in the textbook and what is asked for group assignments. One drawback was that marks are never revealed after quizzes
+
+--- Rating #18 ---
+Class: PHIL105
+Date: 2020-09-02 06:38:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I cannot come up with one bad thing about Ian. He is so passionate about teaching, and he always gives extra extra extra examples whenever you ask for it. Easy exams compared to in-class examples. If you listen to the lectures carefully, no textbook and extra homework exercises needed. Just take him!
+
+--- Rating #19 ---
+Class: PHIL105
+Date: 2020-08-28 20:47:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Ian is the best teacher I've ever had. He is super friendly and also very humourous. I just love attending his lectures. PHIL105 is not that difficult course except for the probability numericals but they will also become easy if you follow Ian's teachings. Overall, this course was pretty fun with Ian.
+
+--- Rating #20 ---
+Class: PHIL105
+Date: 2020-06-06 21:28:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+A great prof indeed. He cares about his students and his classes are helpful. The course may be difficult for non-English students but he explains a lot.

@@ -1,0 +1,271 @@
+Professor: Chung-Hye Han
+Professor Legacy ID: 69204
+Professor ID: VGVhY2hlci02OTIwNA==
+Department (CSV): Languages
+Department (Fetched): Languages
+Avg Rating: 4
+Avg Difficulty: 2.5
+Num Ratings: 33
+Would Take Again Percent: 87.5
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: LING322
+Date: 2024-06-29 06:59:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Chung-Hye Han is a very good teacher, but the course material is very difficult and confusing. At least for me, she did not make the material any easier to understand; most of the things I learned were from the textbook.
+
+--- Rating #2 ---
+Class: LING322
+Date: 2023-08-16 01:27:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Syntax is difficult for me but Professor Han's explanations are generally clear and straightforward. Weekly tutorials are for presentations and lectures being online videos helped with being able to go back and revisit material, but do stay up-to-date each week as it's really easy to fall behind. Definitely need to put in a lot of time to do well.
+
+--- Rating #3 ---
+Class: LING324
+Date: 2022-08-19 05:06:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Semantics with Dr. Han was more difficult than syntax.. There was a lot of math involved. The materials were basically similar to syntax but be prepared to do the math.
+
+--- Rating #4 ---
+Class: LING322
+Date: 2022-08-19 05:02:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Exams were online and given extra time so basically very easy. Attendance is not mandatory but there were participation marks (they can also be gained by research participation). There were online recorded lectures, and all slides were posted on canvas. Lectures were clear, grades fair, Dr. Han was kind and patient and would explain everything.
+
+--- Rating #5 ---
+Class: LING324
+Date: 2022-08-16 05:52:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Took course in hybrid format. Stay on top of lectures + homework and you'll do great. Textbook optional, everything required is covered in lectures.
+
+--- Rating #6 ---
+Class: LING322
+Date: 2022-08-16 05:46:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Lectures + Do the assigned homework and you'll do great
+
+--- Rating #7 ---
+Class: LING322
+Date: 2021-12-06 21:41:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Chung-hye Han was a great professor for this class. She is very knowledgeable about Syntax, and explained concepts well. I would definitely take this class again with her.
+
+--- Rating #8 ---
+Class: LING324
+Date: 2017-09-05 21:19:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+(had Han with LING 222 too) The topics about Propositional logics, truth conditions etc... Is difficult for me , but she was able to keep me engaged on the topic.  She would go through all the examples with us, and makes sure we understand. Unlike other professors who give us data and expect us to solve it on our own. Assign are completion based
+
+--- Rating #9 ---
+Class: LING322
+Date: 2014-01-16 01:10:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She is very helpful. The materials provided were very very very well-related. Some of the midterms were quite hard and some are fairly easy! You need to read the lecture notes carefully and do lots of practise. I'd suggest to go to her office hours, you'd definitely find it way MORE helpful and.. clearer than just sitting in her lecturer room.
+
+--- Rating #10 ---
+Class: LING400
+Date: 2013-07-11 16:20:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+She is such a nice professor. I love the way she teaches,her exams were ok, not hard, just do the assignments and you will be fine, however, you have to go to every class in order to understand the material. So far, she is one of my favourite profs. in linguistics.
+
+--- Rating #11 ---
+Class: LING400
+Date: 2013-04-19 17:29:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+simila policy and rules as her other class.attendance is not marked. however, attend lecture will help a lot. Exams are quite fair. exams and homework are well related. so do more practice before the exams will help a lot.
+
+--- Rating #12 ---
+Class: LING342
+Date: 2013-04-19 17:26:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+she is such nice and kind teacher. you must attend her lectures in order to get everything clear and understood. Her exams are very well related to the homework and practice do in class.
+
+--- Rating #13 ---
+Class: LING100
+Date: 2009-03-22 01:06:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Han has a very nice personality. Course context itself is very inspiring and interesting.
+
+--- Rating #14 ---
+Class: LING100
+Date: 2008-07-20 01:05:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Nice personality. Reads directly off of powerpoint slides. Did not cause me to think about materials. Portions of the material covered did not seem relative.
+
+--- Rating #15 ---
+Class: LING100
+Date: 2008-07-20 01:02:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I was not at all impressed with her teaching style. She was inconsistent, disorganized, and all together useless. Coming to class was a pain - her teaching method definitely needs work. There were plenty of opportunities for interesting discussion or debate, but she always stopped short of anything productive.
+
+--- Rating #16 ---
+Class: LING100
+Date: 2008-01-05 21:20:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She shows you many videos and clearly explains the questions students ask. I would take her class again : )
+
+--- Rating #17 ---
+Class: LING100
+Date: 2007-11-27 00:14:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+nice prof., very organized, lecture notes were straightforward, unfortunately there really is no need to attend the classes because everything that's on the tests are straight out of her powerpoints.
+
+--- Rating #18 ---
+Class: LING100
+Date: 2007-11-23 10:14:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+A very nice person, but it seemed that there's no point of attending the lectures because she only reads off the powerpoint... simply read the text and you'll be fine.
+
+--- Rating #19 ---
+Class: LING324
+Date: 2006-12-17 22:34:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+I would say Han teaches ling322 better than ling324. During the lectures for ling322, she explained everything well in her own words. However, in ling324, she reads off from the powerpoint most of the time. Exams are tough. I love the course tho.
+
+--- Rating #20 ---
+Class: LING322
+Date: 2006-04-26 23:10:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Awesome, dedicated prof -- friendly and helpful, and always willing to explain.

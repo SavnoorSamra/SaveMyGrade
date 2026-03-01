@@ -1,0 +1,24 @@
+Professor: Laura Farres
+Professor Legacy ID: 3058152
+Professor ID: VGVhY2hlci0zMDU4MTUy
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 5
+Avg Difficulty: 1
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: 423
+Date: 2024-12-11 01:00:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Farres is the best prof I've had at SFU. She created such a welcoming atmosphere, I felt completely comfortable engaging class discussions for the first time. Despite being a 4 hour evening class, she made it enjoyable and engaging. The assignments aren't difficult at all, just time consuming. I'd definitely take another course with her!

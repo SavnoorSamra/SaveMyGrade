@@ -1,0 +1,63 @@
+Professor: Hitoshi Shigeoka
+Professor Legacy ID: 1782818
+Professor ID: VGVhY2hlci0xNzgyODE4
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 3.9
+Avg Difficulty: 2.8
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: ECON383
+Date: 2012-12-26 04:21:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+his first semester at SFU. he does not just teach you boring theoritical concepets but gives you tons of real life interesting examples. you can actually learn stuff if you attend lectures! some application problems on the final. make sure you know the material conprehensively to ace the final.
+
+--- Rating #2 ---
+Class: ECON383
+Date: 2012-12-20 22:24:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Study his notes. The midterm was easy, final was a little harder but the questions were just recall the discussions from the lecture.  overall recommended.
+
+--- Rating #3 ---
+Class: ECON383
+Date: 2012-12-18 03:44:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great teacher, you will understand before he moves on even if it throws off the schedule by a week! he's highly interested in the material and it really shows, uses the textbook and notes!
+
+--- Rating #4 ---
+Class: ECON383
+Date: 2012-12-15 15:59:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+The class is pretty easy the material is basic first year econ. The problem sets are very easy and just based on the class notes. The midterm was very east but the final was slightly harder but still fair.

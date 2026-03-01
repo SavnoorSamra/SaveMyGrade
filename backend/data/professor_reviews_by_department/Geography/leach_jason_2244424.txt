@@ -1,0 +1,63 @@
+Professor: jason leach
+Professor Legacy ID: 2244424
+Professor ID: VGVhY2hlci0yMjQ0NDI0
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 4.8
+Avg Difficulty: 2.5
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: GEOG311
+Date: 2018-02-26 20:42:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jason is a great teacher and interactes with the class with group discussions. Labs were only for completion marks which was sort of nice, but you either got the mark or didn't. Midterms and finals were fair. Study his slides, pay attention in lecture, and understand the labs because they are tested in the lecture midterms and final.
+
+--- Rating #2 ---
+Class: GEOG311
+Date: 2017-11-03 00:07:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jason is one of my favourite professors I've had at SFU! While he might be new at teaching, and occasionally has troubles conveying difficult concepts, he more than makes up with it with his enthusiasm for the subject, and his determination make sure you understand. Would definitely recommend!
+
+--- Rating #3 ---
+Class: GEO311
+Date: 2017-06-13 13:27:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jason is new to SFU and very open to suggestions about what works best for his students. Great guy who knows his stuff but is not always the best at conveying that information on the spot. He is helpful in office hours and im sure will get better after each semester.
+
+--- Rating #4 ---
+Class: GEOG311
+Date: 2017-04-12 15:35:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jason is a awesome teacher! Really funny and makes class fun, would recommend.

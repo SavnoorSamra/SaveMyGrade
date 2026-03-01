@@ -1,0 +1,76 @@
+Professor: Jessica Green
+Professor Legacy ID: 1218963
+Professor ID: VGVhY2hlci0xMjE4OTYz
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 4.2
+Avg Difficulty: 2.8
+Num Ratings: 5
+Would Take Again Percent: -1
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: PSYC221
+Date: 2009-08-05 18:01:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+One of the most influential instructors of my undergraduate career. Patient, clear, helpful, and amazingly knowledgeable about all things neuroscience. Her passion for research is clearly evident when she teaches. She has high expections, but that's only because she wants to see potential turn into success. I couldn't ask for a better professor!
+
+--- Rating #2 ---
+Class: PSYC221
+Date: 2009-06-01 17:26:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very personable and funny which made lectures interesting. Assignments and exams are fair and straightforward. If you do miss lectures, make sure to listen to the lecture recording at least because some of the lecture material aren't elaborated in the text. Overall, one of the best female professors I've had.
+
+--- Rating #3 ---
+Class: PSYC221
+Date: 2008-12-15 04:14:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+very nice prof and class. make things clear. notes drawing out important info from textbook. assignments were a bit difficult, but exams are fair-easy. not hard to get good mark with her. recommend this prof.
+
+--- Rating #4 ---
+Class: PSYC221
+Date: 2008-12-10 19:35:07 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+She is a really nice prof but the lectures were straight out of the text book, which made it boring. the assignments were kinda hard, exams are ok.
+
+--- Rating #5 ---
+Class: PSYCH221
+Date: 2008-12-09 11:45:33 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+She was pretty funny, kept lectures pretty interesting.  She never lectured for the full 3 hours.  Assignments were a little brutal but the tests were pretty straight forward.  Not difficult to get a good mark with her.

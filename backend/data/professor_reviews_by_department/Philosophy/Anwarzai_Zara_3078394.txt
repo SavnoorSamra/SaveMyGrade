@@ -1,0 +1,37 @@
+Professor: Zara Anwarzai
+Professor Legacy ID: 3078394
+Professor ID: VGVhY2hlci0zMDc4Mzk0
+Department (CSV): Philosophy
+Department (Fetched): Philosophy
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: COGS100
+Date: 2026-02-25 03:36:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. A is the GOAT! Organized curriculum, incredibly engaging lectures (her examples are fun and intuitive), assignments and exams are straightforward with no curveballs, and happily answers students' questions during lecture and office hours. It's clear she cares about everyone's education. You will not find a better instructor for COGS 100!
+
+--- Rating #2 ---
+Class: COGS100
+Date: 2025-10-22 23:03:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+10/10 prof, I would take my entire undergrad with her if I could

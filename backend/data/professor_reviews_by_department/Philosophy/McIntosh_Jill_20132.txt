@@ -1,0 +1,271 @@
+Professor: Jill McIntosh
+Professor Legacy ID: 20132
+Professor ID: VGVhY2hlci0yMDEzMg==
+Department (CSV): Philosophy
+Department (Fetched): Philosophy
+Avg Rating: 2.8
+Avg Difficulty: 3.8
+Num Ratings: 247
+Would Take Again Percent: 19.3548
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PHILO3XX
+Date: 2022-04-27 14:19:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I went to office hours. She told me I wasn't intelligent enough for university and should go to trade school. I was on the Dean's List during my undergrad, and am doing a PhD. Her class was damaging. By the end of the semester, she dehumanized me and undermined my sense of capacity so badly that I almost left university without finishing my degree.
+
+--- Rating #2 ---
+Class: PHILO3XX
+Date: 2022-04-26 19:40:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Awful teacher. The lectures and readings were inaccessible. Some students really struggled. When she handed papers back, one person got an F, and others could see. She joked that some students are incapable of 'doing philosophy', but need to fail miserably to find out.
+
+--- Rating #3 ---
+Class: PHIL110
+Date: 2020-09-01 07:04:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This was hands-down the absolute worst course I have ever taken, and Jill was hands-down the rudest, least available, least helpful, and worst profs I have ever had the displeasure of meeting. Do not take any classes with her. She is stuck up and selfish. Our class averages for exams were all below 30%. Gives no time on exams. Wish I could give a 0
+
+--- Rating #4 ---
+Class: PHIL100W
+Date: 2019-07-25 08:22:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very knowledgeable, she has interesting lectures. iClicker questions during class for credit. It doesn't matter if your conclusion is wrong, as long as you defend it.
+
+--- Rating #5 ---
+Class: PHIL100W
+Date: 2019-04-22 19:59:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This is too difficult for a 100 course. Her lecture is not high-quality compare with what she expected to her students. Do not take her class.
+
+--- Rating #6 ---
+Class: PHIL110
+Date: 2019-04-20 08:34:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I do just fine at stats but couldn't crack this weird pseudo-programming philosophy. I passed the class &amp; still have no idea how; lectures vary between horrifically byzantine &amp; yawn inducing. No time for midterms, which are themselves a nightmare. Book isn't helpful, neither is she. Absolutely murdered my GPA. Abandon hope all ye who enter here.
+
+--- Rating #7 ---
+Class: PHIL105
+Date: 2019-04-10 23:56:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She's the best
+
+--- Rating #8 ---
+Class: PHIL1O5
+Date: 2019-03-27 19:29:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Don't do this to yourself. Take something else.
+
+--- Rating #9 ---
+Class: PHIL144
+Date: 2019-03-05 00:41:48 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+The material interested me, including both of the textbooks. But when 55 min feels like an eternity, something is wrong! The lecture slides felt incomplete and dry. Her expectations regarding exams or essays were non-existent. I love philosophy, but not enough to sit through these lectures.
+
+--- Rating #10 ---
+Class: PHIL105
+Date: 2018-12-13 19:57:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Do not take this class. Her explanations are all over the place, not only that but TAs are no help. Regret taking this class.
+
+--- Rating #11 ---
+Class: PHIL110
+Date: 2018-10-30 19:14:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+There are lots of iclicker questions so participation in lectures is mandatory. Lectures move really fast so dont blink or youll miss something. TAs always say theyre confussed and stressed when you go for help. Grade scale/curve is TERRIBLE, you get little time to do exams, exams are marked SO HARD mc with a twist is absolutely horrible!
+
+--- Rating #12 ---
+Class: PHIL100
+Date: 2018-09-12 02:24:29 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+lecture material is often overcomplicated, leading to confusion on course material
+
+--- Rating #13 ---
+Class: PHIL100W
+Date: 2018-07-15 20:54:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Where to begin... PHIL 100W requires class attendance because she makes iClicker questions and some of the material from class discussions ends up on the midterms and finals. The term papers are very hard to get a good mark on. Average of the class for the midterm was 16/31. Tutorials didn't help at all, made the material even more confusing.
+
+--- Rating #14 ---
+Class: PHIL110
+Date: 2017-09-18 14:28:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+she was alright, not the best teacher but not the worst, i thoroughly enjoyed showing up to her classes, mainly because it was fun because of the students i got with my group!
+
+--- Rating #15 ---
+Class: PHIL110
+Date: 2017-04-19 02:32:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+this prof is the worst prof I ever had, she goes through materials really quickly, does not explain things well.  her lectures are boring ah... but u are encouraged to participant in lectures by doing iclicker quizzes, highly recommend u to do that so u can gain as much credit as u can even u dont know the answers, just randomly select one.
+
+--- Rating #16 ---
+Class: PHIL105
+Date: 2017-04-02 15:06:29 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I am in her PHIL105 class and she goes very slowly. Without showing up to a single tutorial, I've had no problem getting an A on the tests. Most of the class was common sense so long as you can remember the important vocabulary. Although her slow progression through the material is boring, it is very clear and you are sure to understand it.
+
+--- Rating #17 ---
+Class: PHIL105
+Date: 2017-03-29 01:05:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+in my opinion, the material of this class is not hard but super confused. it is important to have a tutor outside of school if you want a good grade.  but the professor is suck!! she is not nice at all!! she used the words such as " don't bother your TA""that's not you business""i'm not repeating myself" and reject to answer you or help you.
+
+--- Rating #18 ---
+Class: PHIL105
+Date: 2017-03-28 19:11:12 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Although attendance was optional for tutorials I do recommend you attend them, because the content is heavy and confusing. Class average was 40%; it was a difficult course. She essentially read off her written notes during lectures which she emailed us each week. If you're confused, GO AND SEE YOUR TA because the grading criteria is very specific.
+
+--- Rating #19 ---
+Class: PHIL001
+Date: 2017-03-13 00:30:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Like to put students on spot. Especially those primary or first language is other than English.
+
+--- Rating #20 ---
+Class: PHIL105
+Date: 2017-01-10 02:10:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+DO NOT TAKE THIS COURSE. Her lectures completely suck. Either you skip, or fall asleep during lecture. The exams are tough, very hard to understand, and are set up so that you fail. Unless you are going into phil, DO NOT TAKE THIS COURSE. Trust me!! you will fail or get a D. Hardest class ever. harder than calc...

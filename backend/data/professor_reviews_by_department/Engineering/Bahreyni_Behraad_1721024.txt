@@ -1,0 +1,271 @@
+Professor: Behraad Bahreyni
+Professor Legacy ID: 1721024
+Professor ID: VGVhY2hlci0xNzIxMDI0
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 3.8
+Avg Difficulty: 3.6
+Num Ratings: 22
+Would Take Again Percent: 61.5385
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MSE251
+Date: 2025-04-12 23:31:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+ill keep this short(ish). Behraad is awesome, has a great satirical sense of humor, and is a great prof. Things to know: 1. show up to class EVERY class, trust me. 2. problems worked on in class don't tend to reflect exams very well, but you have everything you need (ie. practice and you'll be fine). 3. assignments take time, start early unlike me.
+
+--- Rating #2 ---
+Class: MSE251
+Date: 2025-03-13 05:53:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Disorganized and chaotic regarding teaching. He disregards teaching the fundamentals (notation, equations, theories, etc.) and goes straight to example problems that he rarely fully completes with terrible handwriting. Most of the class is failing, and he refuses to acknowledge that his teaching is the common denominator for poor class performance.
+
+--- Rating #3 ---
+Class: MSE251
+Date: 2022-08-29 22:04:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is one of the best profs at sfu. Very down to earth and humble. Always available to help and discuss with his students. Some lectures are tough but he explains concepts very well. He has some good sense of humour.
+
+--- Rating #4 ---
+Class: MSE251
+Date: 2022-05-25 05:18:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Love Bahreyni, one of the best profs in MSE without a doubt. The course tends to move fast after BJTs, however, if you fully understand how to do BJTs, you're basically set for the rest of the course. Do the extra examples in the lecture slides he doesn't cover, and the practice midterms. Also, you can guess what type of questions he'll put in.
+
+--- Rating #5 ---
+Class: MSE251
+Date: 2022-05-03 14:24:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He taught really well in my semester. He includes some joke every now and then during the lecture... but it's all connected to what we're studying. His tests are all hard, but not impossible. In all of the tests, he always put one random textbook question to motivate us to do the textbook questions. The labs were also fun, but quite long.
+
+--- Rating #6 ---
+Class: MSE251
+Date: 2022-04-16 02:43:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Hands down worst professor I have had at SFU.
+
+--- Rating #7 ---
+Class: MSE251
+Date: 2021-05-05 21:12:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Long lectures but covers almost everything you need. Easy to reach via email or canvas discussions. He is very willing to explain concepts in a different way as long as you ask him to. He also talks in depth about applications in his lectures. His teaching style doesn't really rely on notes, so listen carefully. He is VERY stubborn with deadlines!
+
+--- Rating #8 ---
+Class: MSE311
+Date: 2020-09-09 22:39:32 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+The class happened online due to COVID 19. It was really bad in terms of quizzes. We had 11 quizzes, 10% each and he dropped the lowest 3, but still it took a lot of work to prepare for them, and there were a lot of uncertainties about the quizzes. Format was bad for the quizzes and he wasn't too flexible about it.
+
+--- Rating #9 ---
+Class: MSE311
+Date: 2020-06-18 21:18:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Provides no solutions to quizzes and assignments. Moves very fast, skip lectures, don't solve example in class, Tests are very hard, negative marking, gives less time on quizzes.
+
+--- Rating #10 ---
+Class: MSE311
+Date: 2019-08-25 21:35:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great professor, if you read a bit before class it goes a long way with his style of lectures. Bahreyni gives you everything you need to succeed in the lectures and is available for questions. A bit disappointed grades were curved downwards but still a solid choice.
+
+--- Rating #11 ---
+Class: MSE251
+Date: 2019-04-16 18:21:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+One of the few engineering profs that know how to teach the class well. You can't get distracted in his class, he goes at a fast pace and everything is dense. However, his exams are fair and he applies his course content to the real world. He seems unapproachable, but don't worry he is actually super nice. Always asks questions!!
+
+--- Rating #12 ---
+Class: MSE251
+Date: 2019-03-13 04:45:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+To understand him, you gotta look at his note after the lectures, which is not too hard to understand. He does examples in class and that helps students to understand the materials. Homework and suggested questions are helpful, please practice a lot. Overall, he's a great prof, definitely gonna take courses with him in future.
+
+--- Rating #13 ---
+Class: MSE251
+Date: 2019-02-05 20:03:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Prof Bahreyni knows the lectures material, but having a hard time to deliver and not a good teacher in general. He is too tough on students and not very approachable.
+
+--- Rating #14 ---
+Class: MSE251
+Date: 2015-03-31 12:26:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Sometimes hard to follow during lectures since he moves very fast. Study assignments beforehand and you should do fine.
+
+--- Rating #15 ---
+Class: FAT203
+Date: 2014-06-20 07:22:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+best prof
+
+--- Rating #16 ---
+Class: MSE251
+Date: 2014-05-06 19:01:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+superb and challenging.
+
+--- Rating #17 ---
+Class: MSE251
+Date: 2014-03-13 20:25:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+YOU WILL HAVE ERVERTHING YOU NEED IN THIS COURSE, PLZ TAK THIS COURSE!!!!
+
+--- Rating #18 ---
+Class: MSE251
+Date: 2014-02-28 12:31:14 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+This professor believe that if you do not show all step on your exam paper, you must copy the result from others and you will only get 25% even if you done the question correctly. DO NOT TAKE HIS COURSE.
+
+--- Rating #19 ---
+Class: ENSC226
+Date: 2013-09-03 12:54:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+This is a hard course but Dr. Bahreyni knows his stuff extremely well and is very good at explaining the material. His teaching style is great overall, but he can be a little intimidating to approach. If you are actually interested in Electronics, you will probably love this course.
+
+--- Rating #20 ---
+Class: CNN225
+Date: 2013-07-15 03:44:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Number 1

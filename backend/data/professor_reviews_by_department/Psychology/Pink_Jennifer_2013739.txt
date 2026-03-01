@@ -1,0 +1,128 @@
+Professor: Jennifer Pink
+Professor Legacy ID: 2013739
+Professor ID: VGVhY2hlci0yMDEzNzM5
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 4.1
+Avg Difficulty: 2.6
+Num Ratings: 9
+Would Take Again Percent: -1
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: PSYC362
+Date: 2016-01-30 01:30:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Even though her exams are very hard, she is very good at explaining the material. She is very sweet and caring with her students and will help you during office hours.
+
+--- Rating #2 ---
+Class: PSYC362
+Date: 2016-01-05 02:34:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Jennifer's lectures are great and interesting. I appreciate the guest lecturers that she brings in. For a good mark, know lecture slides inside and out (b/c exams are based on ppt) but must still read through readings. Other than the long lectures, I really enjoyed this class.
+
+--- Rating #3 ---
+Class: PSYC362
+Date: 2015-12-11 18:45:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She was an amazing prof and this was my favourite class at sfu
+
+--- Rating #4 ---
+Class: PSYC362
+Date: 2015-11-06 14:46:09 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+easy class. non- cumulative tests. iclicker participation every lecture (heads up) gpa booster. relatable to real life
+
+--- Rating #5 ---
+Class: PSYC362
+Date: 2015-11-05 23:47:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+This class was OK. The content is definitely interesting and Dr. Pink does a decent job at covering the topics. The midterm is a bit tricky (some questions are worded odd) and the lectures can get really long. The content can get confusing because there are many exceptions to theories and concepts.
+
+--- Rating #6 ---
+Class: PSYC362
+Date: 2015-07-20 14:45:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+very very helpful understanding & accommodating, greatly values students' opinions, sometimes lectures a bit monotonous & covers a lot of info but still interesting, very constructive & sufficient feedback, very clear on expectations and grading criteria, for exams study slides and textbooks, encourages student participation & gives marks for that.
+
+--- Rating #7 ---
+Class: PSYC362
+Date: 2015-06-24 20:42:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Jennifer is an amazing professor. She is very passionate about close relationships, and she will definitely inspire anyone interested in this topic. She brings guest lecturers in certain topics, which make it even more interesting. After taking her course, my perspective regarding close relationships drastically changed. Tests are a bit difficult.
+
+--- Rating #8 ---
+Class: 362
+Date: 2015-05-25 14:55:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Extremely clear about what will be on tests, look over the assigned readings and pay attention in lecture and it's easy to get an A. iClicker participation during each lecture is an easy 10%. The paper marked by TA's so it depends, but only worth 20% so not a huge deal.
+
+--- Rating #9 ---
+Class: PSYC362
+Date: 2015-05-11 18:59:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Attending lecture is necessary but it's easy to get the participation mark. Exams are MC questions and short answers.

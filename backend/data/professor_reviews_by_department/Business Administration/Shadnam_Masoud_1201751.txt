@@ -1,0 +1,50 @@
+Professor: Masoud Shadnam
+Professor Legacy ID: 1201751
+Professor ID: VGVhY2hlci0xMjAxNzUx
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.6
+Avg Difficulty: 2.3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: ORGA316
+Date: 2019-01-27 19:10:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Honestly, his class was such a breeze. Great lectures. As long as you show up in class, you're guaranteed to pass. Final was open book like you can bring your notes (we didn't have to buy the textbook). Videos are amazing. Caring prof. and gives multiple examples in terms of explaining the concepts. Highly recommend taking a class with him!
+
+--- Rating #2 ---
+Class: BUS303
+Date: 2009-12-19 02:19:43 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is extremely chilled and easy going. Also a really nice guy. Class is too easy to be on a curve.
+
+--- Rating #3 ---
+Class: HIST101
+Date: 2009-01-08 05:35:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+No Comments

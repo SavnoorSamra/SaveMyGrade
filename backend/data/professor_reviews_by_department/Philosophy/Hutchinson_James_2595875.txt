@@ -1,0 +1,11 @@
+Professor: James Hutchinson
+Professor Legacy ID: 2595875
+Professor ID: VGVhY2hlci0yNTk1ODc1
+Department (CSV): Philosophy
+Department (Fetched): Philosophy
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

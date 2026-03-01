@@ -1,0 +1,271 @@
+Professor: Andrew Perkins
+Professor Legacy ID: 2176610
+Professor ID: VGVhY2hlci0yMTc2NjEw
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 4.2
+Avg Difficulty: 3
+Num Ratings: 84
+Would Take Again Percent: 84.5238
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: GEO111
+Date: 2025-12-13 06:45:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very good lecturer, just a heavy course.
+
+--- Rating #2 ---
+Class: GEO111
+Date: 2025-12-11 21:04:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Andrew gives out really engaging lectures, sometimes boring but most of the time its the opposite. No textbook for this course, only online readings that he gives out online. That being said, you need to pay attention in class, some questions do come from his lectures verbally. Lots of online-lab work (2-3 hours a week), TA's can be hit or miss
+
+--- Rating #3 ---
+Class: GEOG111
+Date: 2025-12-09 05:55:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Andrew was amazing, and the course was very well-structured and easy to follow. He was approachable and understanding whenever students were confused or needed extra support. My only remark is that there are bi-weekly labs take up a lot of time but are only worth 2% each.
+
+--- Rating #4 ---
+Class: GEOG312
+Date: 2025-12-03 02:08:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: True
+Comment:
+Andrew Perkins is the best prof ever. 111 was a great class, however 312 is quite a bit harder. It was online with barely any lecture videos, just lots of readings, but he is very passionate and the class is very interesting. Everyone should take one of his classes at some point.
+
+--- Rating #5 ---
+Class: GEOG111
+Date: 2025-11-25 19:31:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very entertaining lectures. Pretty clear about what was gonna be on quizzes and tests
+
+--- Rating #6 ---
+Class: GEO111
+Date: 2025-11-25 18:38:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor is energetic and passionate about the material. His lectures are actually useful and are not likely to put you to sleep.
+
+--- Rating #7 ---
+Class: GEOG11
+Date: 2025-11-25 04:46:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Andrew is a very passionate person and it shows. There are really fun and interactive demonstrations during lectures. I think that the lecture quizzes were easy but there were a couple questions that weren't in his provided lecture notes, so studying for them isn't as straightforward as other courses.
+
+--- Rating #8 ---
+Class: GEOG312
+Date: 2025-11-19 02:51:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+(took intersession) I'm puzzled by the recent negative ratings. I found this class to be very manageable, tests were fair, and the content was relevant and interesting. Only qualm was that he didn't respond to emails.
+
+--- Rating #9 ---
+Class: GEOG312
+Date: 2025-11-15 00:06:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Hardest 3rd year course you will take. Extremely heavy content. Rubrics look easy..... he grades a lot harder than what is shown for assignments. Material is interesting but this class was just so stressful.
+
+--- Rating #10 ---
+Class: GEOG312
+Date: 2025-09-02 19:14:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very tough course with him. All the people giving him 5 stars are either lying or got lucky with there group members. Work load is way to much and grading is very tough.
+
+--- Rating #11 ---
+Class: GEOG312
+Date: 2025-09-02 19:12:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Worst Professor, there are so many assignments per week and he is a very tough grader. Dont take this course with him..
+
+--- Rating #12 ---
+Class: GEOG312
+Date: 2025-06-24 07:34:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Took this online as an elective and it's honestly not bad. Yes, there's a ton of short assignments/mini projects each week but you honestly just need 2 days to do the (easy) readings then input all your answers for the questions he provides beforehand. Intersession so it's really just 6 weeks of putting up with this if you want 4 credits.
+
+--- Rating #13 ---
+Class: GEOG312
+Date: 2025-06-22 22:31:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Andrew is kind and accessible. However, the tutorial assignments we have to do each week require over 6 to 7 hours PLUS we have to sometimes do components of a project on top of that. However, given that this is an intersession course, it is somewhat understandable (even though my other intersessions do not require nearly as much work).
+
+--- Rating #14 ---
+Class: GEOG111
+Date: 2025-05-15 03:56:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Gave short summaries of textbooks chapters instead of entire chapters. Clearly passionate. Mainly graded by 3 tests, labs, short weekly worksheets, and a lab final test. As long as you stay on top of things and do the short readings you'll be fine. Great prof held back by a terrible TA, the lab sections sucked. Test questions were often tricky.
+
+--- Rating #15 ---
+Class: GEO111
+Date: 2025-04-20 00:32:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Andrew is an amazing lecturer, and overall super kind and smart. He's a great teacher, funny, and gives great lectures. He's entertaining and engaging, and he's also just so passionate at what he does and you can tell. Quizzes were not too hard and he gives so many resources for studying the material. AWESOME GUY!!
+
+--- Rating #16 ---
+Class: GEOG111
+Date: 2025-03-25 00:58:43 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I have not yet completed this class, but this is your sign to not take it unless you are a geography major. I have NEVER had a more unclear grading expierence, WAY too many labs quizzes, quizzes, finals and assignments and the canvas grade calculator does not work. VERY unorganized If you want a cool science credit for GPA, this is not the course.
+
+--- Rating #17 ---
+Class: GEO111
+Date: 2024-12-05 09:18:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lots of work outside main course due to having a lab, so be prepared for weekly chapters and lab pre readings. Overall not that demanding, lectures are engaging and helpful
+
+--- Rating #18 ---
+Class: GEO111
+Date: 2024-12-03 23:43:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Perkins's lectures are top tier. He puts so much work into them, and really emphasizes the material that will be tested, so you're not in the dark. His free textbook has short readings for each lecture, rather than huge chapters like for other classes. Exams are fair, but labs and lab quizzes definitely require lots of work each week.
+
+--- Rating #19 ---
+Class: GEOG111
+Date: 2024-11-22 18:59:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great guy, great lectures, super easy to follow. Labs were heavy and sometimes really tricky, but the TAs heelped a lot. Weekly lab quizzes online, but not too challenging. Overall, a very fun and interesting course
+
+--- Rating #20 ---
+Class: GEOG111
+Date: 2023-09-17 18:49:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If you like GEOG, it's such a fun class. The exams were fairly easy as well. Did his best to explain the content and keep us engaged. The only confusing choice was giving us new material in the first half of the lecture before both exams, but otherwise I loved it.

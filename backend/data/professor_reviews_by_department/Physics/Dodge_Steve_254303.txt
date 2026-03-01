@@ -1,0 +1,271 @@
+Professor: Steve Dodge
+Professor Legacy ID: 254303
+Professor ID: VGVhY2hlci0yNTQzMDM=
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 3.3
+Avg Difficulty: 4.2
+Num Ratings: 27
+Would Take Again Percent: 57.8947
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PHYS132
+Date: 2025-12-11 06:33:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+have Dodge for my lab rn and hes really nice and likes to be thorough. Always encourages questions and wants everyone to succeed. he does talk a lot tho sometimes which i feel cuts into our work time, but i would take another course with him nonetheless.
+
+--- Rating #2 ---
+Class: PHYS132
+Date: 2025-11-06 21:46:53 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I actually hate this lab so much. He talks for so long, while not saying anything of much importance. And when it is, it's wrong and he has to go back and fix the files he posted. The entire class is coding and uncertainties, very little experimentation. I wish I didn't have to take this class. He is nice though, just an insane yapper.
+
+--- Rating #3 ---
+Class: PHYS126
+Date: 2025-04-29 04:01:38 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Bro is a grade A yapper. He will talk for an hour without saying a single thing. It's honestly quite impressive. Nice guy though.
+
+--- Rating #4 ---
+Class: PHYS126
+Date: 2025-04-24 18:25:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+avoid at all costs
+
+--- Rating #5 ---
+Class: PHYS126
+Date: 2023-04-22 01:41:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I really enjoyed taking Phys 126 with him! I found that the pre readings helped make sense of what was being covered in the lecture, and while completing the assignments. He makes a lot of dad jokes which I appreciate. He also schedules lots of office hours, so there are lots of opportunities to reach out and ask for help!
+
+--- Rating #6 ---
+Class: PHYS126
+Date: 2023-04-21 23:46:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Prof. Dodge was a great teacher for PHYS126. He was very accommodating to suggestions made by the class and tried his best to tailor the class to the students needs. His teaching style was relatively easy to follow given the nature of the content and was a great fit for the level of content taught in PHYS126.
+
+--- Rating #7 ---
+Class: PHYS126
+Date: 2023-04-16 22:11:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Steve is a great guy, but a so-so prof. He knows his stuff, but expects us to have some level of understanding before even coming to class. He is very accessible outside of class and responds quickly to emails. He is also very lenient with grading/late submissions. EXPECT LOTS OF HW! Overall he is a good choice and this class was pretty good.
+
+--- Rating #8 ---
+Class: PHYS126
+Date: 2022-04-23 00:31:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Steve is a pretty chill guy overall. I was not a fan of having to read the textbook before coming to lectures. The material is also pretty tough in my opinion, it's quite similar to PHYS 121 but more in detail with the concepts. But he is a pretty nice guy, and he curves quite well, so maybe the class material is at fault, and not him.
+
+--- Rating #9 ---
+Class: PHYS233
+Date: 2020-05-22 00:35:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Tries to teach actual lab skills. Semester was cut short though.
+
+--- Rating #10 ---
+Class: PHYS100
+Date: 2020-04-30 00:41:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Just because some people did good in a physics 200 level class, doesn't mean it speaks for everyone. I took physics 100 with him and it was my worst. Avoid him for this course !! He makes it ridiculously tough. Mentioning I did well in highschool physics. Dont just say &quot;I dont know what other people are saying&quot;, it's a different course! AVOID
+
+--- Rating #11 ---
+Class: PHYS126
+Date: 2019-04-18 01:52:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Steve makes this course way more approachable
+
+--- Rating #12 ---
+Class: PHYS126
+Date: 2019-03-15 03:49:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Good prof. His lectures can be hard to follow if you didn't do the pre-reading, but he posts notes online so you can catch up later. Lots of homework, but do it all and you'll be well prepared for the midterms/final.
+
+--- Rating #13 ---
+Class: PHYS126
+Date: 2019-03-15 03:46:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+absolutely sick guy, he's funny and knows his stuff. Really good at making the physics interesting always bringing your attention to neat little concepts you might've overlooked. You'll be expected to read and do quite a bit of homework but you'll also learn a lot.
+
+--- Rating #14 ---
+Class: PHYS126
+Date: 2019-03-05 23:57:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This guy is a real g. his lectures are surprisingly interesting with him inserting tidbits of physics history and things he actively researches. A great balance of reading and practice with his every-second-day reading, weekly quizzes, and weekly assignments. Great teacher.
+
+--- Rating #15 ---
+Class: PHYS126
+Date: 2019-02-28 01:23:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I don't know about what other people have to say, but for me he's a great professor. His lectures are engaging, are easy to follow without wanting to fall asleep. He gives lots of homework but it's for the best because you become very knowledgeable about the subject. Do all the textbook problems because his exams are very close to them.
+
+--- Rating #16 ---
+Class: PHYS100
+Date: 2018-07-26 15:44:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+very difficult considering this is a high school equivalent course... his exam questions are nothing like the textbook and he pulls out random questions you have never worked on before. As well, his TAs mark everything. theyre very mean giving back feedback on the exam, and arent helpful. I highly reccomend taking this class with anybody else.
+
+--- Rating #17 ---
+Class: PHYS100
+Date: 2018-07-13 18:18:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He doesn't teach and just does examples during lecture, and seems to have a hard time putting concepts into words. He expects us to know the material before coming to class by reading the textbook and doesn't explain much. He's very smart, just bad at teaching. As aforementioned, this course should be much lighter considering it's a high school cla
+
+--- Rating #18 ---
+Class: PHYS100
+Date: 2018-01-05 18:22:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dodge's lectures are entirely based on answering iClicker questions taken from textbook examples. He doesn't teach and expects you to know everything despite this being a makeup high school physics class. He is obnoxious and very suspicious of students. Don't get involved with him.
+
+--- Rating #19 ---
+Class: PHYS100
+Date: 2017-08-09 21:16:19 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He doesn't actually teach, but expects you to know the material already before every class.. avoid if possible especially if your'e not the best with physics
+
+--- Rating #20 ---
+Class: PHYS233
+Date: 2014-07-17 15:47:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Very restrict about everything in the lab, and he would ask too many questions so you would fail at some point. Focuses more on the theory than the experiment. Not very helpful if you need help with the lab.

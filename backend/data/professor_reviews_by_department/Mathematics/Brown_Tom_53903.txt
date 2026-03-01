@@ -1,0 +1,271 @@
+Professor: Tom Brown
+Professor Legacy ID: 53903
+Professor ID: VGVhY2hlci01MzkwMw==
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2.4
+Avg Difficulty: 3.1
+Num Ratings: 49
+Would Take Again Percent: -1
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS303
+Date: 2015-10-20 01:22:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+If you're hesitating about your business major - take this course. Could be your turning point to true happiness. After taking BUS303 I finally realized how much I HATE business and all those waste-of-money classes like bus303. I've quit Beedie and I'm sooo happy I'm not gonna do any of the useless things anymore. Only design now, only real stuff.
+
+--- Rating #2 ---
+Class: BUS303
+Date: 2015-01-23 22:05:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Hope you like writing reflections because that's pretty much the entire course. Tom is a nice person however his class is not organized well. There is no clear syllabus or anything that shows what will be taught. He also makes online quizzes that only becomes available a few hours before class.
+
+--- Rating #3 ---
+Class: 303
+Date: 2015-01-13 13:22:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Tom makes you stay on top off your readings. He provides a lot of readings that are quite interesting (No real textbook). His teaching is different than most, but it's refreshing. Marking was fair and courseload was light! You had to show up to class. I actually had a great experience with Tom.
+
+--- Rating #4 ---
+Class: BUS303
+Date: 2014-12-02 01:02:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This guy had the hardest, most difficult quizzes. I walked into the course with an open mind, thinking that "Business Ethics" could actually be something to consider. However, the abysmal teaching methodology this nut bar follows has allowed me to conclude that business ethics is a waste of knowledge.
+
+--- Rating #5 ---
+Class: BUS303
+Date: 2014-06-12 13:29:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Incredible. Tom's methodology is different from most profs at SFU-his classes are all based on synthesis and understanding, not simple regurgitation. A lot of the negative comments on here come from students who are used to memorizing a textbook for an A. Tom makes you think and understand, and does it with a minimal workload. Simply a great prof.
+
+--- Rating #6 ---
+Class: BUS303
+Date: 2013-01-10 22:06:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great teacher who is passionate about his subject, and provides useful assignments to emphasize course material. He is approachable and helpful with student questions. I would definitely take this class with him!
+
+--- Rating #7 ---
+Class: BUS303
+Date: 2012-04-19 23:16:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Such a bad proof! dont take it with him! so many assingments! avoid this class with this prof! take it with korth!
+
+--- Rating #8 ---
+Class: BUS303
+Date: 2012-04-08 15:32:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great professor! learned alot and its one of those lecture you can just sit back and enjoy. Very understanding person and accomodating! i recommend this prof
+
+--- Rating #9 ---
+Class: MATH495
+Date: 2012-01-28 23:19:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+I've been reading comments about him and don't understand how they came about. Upper division math students would love Dr. Brown; if you still get the chance to study with him, do it! He's very knowledgeable in math, and is a really nice, friendly, approachable professor.
+
+--- Rating #10 ---
+Class: BUS303
+Date: 2011-10-16 02:31:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Marks ridiculously hard!!! On every little thing!!! Inconsistent with his expectations. Million little assignments. Too bad it's a mandatory class for business students. Do not suggest taking it with him take it with someone else
+
+--- Rating #11 ---
+Class: MATH152
+Date: 2006-12-07 21:51:27 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I took Math 152 in Fall 2001. He did everything right, and exams were very fair. I miss this prof.
+
+--- Rating #12 ---
+Class: MATH151
+Date: 2004-07-03 21:57:44 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+More concerned with germs on busses than teaching calculus.
+
+--- Rating #13 ---
+Class: MATH151
+Date: 2004-02-10 22:09:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I came to class to learn calculus, Not to be told about some lecture you went to or how you came from texas.
+
+--- Rating #14 ---
+Class: MATH232
+Date: 2003-11-20 12:32:39 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+i've got good grades in all my math classes except this. in the past i could rely on only going to lectures. with this guy, only reading the book helped. worst is not only could he not tach, he is really boring so i couldn't even get a good laugh.
+
+--- Rating #15 ---
+Class: MATH151
+Date: 2003-05-09 01:36:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #16 ---
+Class: MATH151
+Date: 2003-04-17 19:52:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+MATH 4xx students: Somehow you have confused  first year students  who  don't know much about mathematics  with people who don't know what's boring and what ain't.  We're just telling it like it is.
+
+--- Rating #17 ---
+Class: MATH438
+Date: 2003-04-14 12:42:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Brown is a nice guy and does everything right.. Exams are totally fair as with the assignments.. All these first yr. students absolutely give 2 shiets about math and don't know it all. Ppl make mistakes, so what&#63; And you don't&#63;
+
+--- Rating #18 ---
+Class: MATH151
+Date: 2003-03-27 01:37:03 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Nice guy but he's really dry and has a boring motonuous (spelling&#63;)voice. And his teaching doesn't seem confident.
+
+--- Rating #19 ---
+Class: MATH151
+Date: 2003-03-24 01:09:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Nice guy, but can't teach. Rather read the text, is more helpful.
+
+--- Rating #20 ---
+Class: MATH438
+Date: 2003-03-12 06:04:49 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Why so negative comments&#63; Maybe you guys are a bunch of first year absentminded students who don't know much about mathematics. Fair Midterms and Finals

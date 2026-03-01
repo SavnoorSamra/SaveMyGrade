@@ -1,0 +1,63 @@
+Professor: Barb Edwards
+Professor Legacy ID: 37784
+Professor ID: VGVhY2hlci0zNzc4NA==
+Department (CSV): Accounting
+Department (Fetched): Accounting
+Avg Rating: 2
+Avg Difficulty: 4.3
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: BUS550
+Date: 2012-09-25 15:41:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Clear as mud...will give you 10 pgs of instructions with every page contradicting the others.  Marks hard for not being able to read her mind...apparently following the muddy instructions isn't the route to take. In the end, I had to have a friend who is an Accountant teach me the course since the professor was useless.
+
+--- Rating #2 ---
+Class: ECMAY2
+Date: 2008-06-04 15:34:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Going to class was a waste of time.  She used class time to mark assignments.  Wouldn't listen to student commentary.  Kept talking about the &quot;real world&quot; when I don't think she's lived in the &quot;real world&quot;.
+
+--- Rating #3 ---
+Class: BUS550
+Date: 2007-07-04 22:43:31 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+not very enjoyable.
+
+--- Rating #4 ---
+Class: BUS550
+Date: 2002-09-06 13:22:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+boxes and thinking outside of them

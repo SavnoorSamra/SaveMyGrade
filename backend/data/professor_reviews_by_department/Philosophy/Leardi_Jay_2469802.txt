@@ -1,0 +1,37 @@
+Professor: Jay Leardi
+Professor Legacy ID: 2469802
+Professor ID: VGVhY2hlci0yNDY5ODAy
+Department (CSV): Philosophy
+Department (Fetched): Philosophy
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: COGS310
+Date: 2019-12-30 00:03:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Leardi is an unusual prof in that he actually cares about the students and teaching the class. The class consists of reading philosophical papers about consciousness then critiquing/discussing them in class. Overall very fun class, although the papers can get a bit cumbersome to read as they are incredibly dense
+
+--- Rating #2 ---
+Class: PHIL100W
+Date: 2019-03-16 02:12:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jay made Philosophy super interesting! 3-hour lecture always feels like a 30-minute lecture and he is really hilarious. He is caring and reachable! Midterm was fair as long as you study and actually understand the materials, in class writing for attendance but it is all based on your opinions and thoughts. There's no correct answer.

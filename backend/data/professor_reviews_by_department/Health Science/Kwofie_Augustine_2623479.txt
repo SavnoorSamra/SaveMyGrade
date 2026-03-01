@@ -1,0 +1,37 @@
+Professor: Augustine Kwofie
+Professor Legacy ID: 2623479
+Professor ID: VGVhY2hlci0yNjIzNDc5
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 3
+Avg Difficulty: 4
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: HSCI212
+Date: 2021-01-20 01:57:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Augustine is a nice guy and loves health sciences. You can pretty much ask any question. Isn't too demanding, just the usual. Doesn't mind if you say the wrong answers. Also, he looks like ngolo kante. Dope guy
+
+--- Rating #2 ---
+Class: HSCI215
+Date: 2021-01-07 03:55:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+He is not a good teaching assistant, most students in his tutorial wrote in their TA feedback to never hire him again and some reached out to the faculty dean. He is impatient when you go to his office hours and he knows nothing about the course material. Unclear instructions and marking. Never be in his tutorial - you will definitely regret it.

@@ -1,0 +1,37 @@
+Professor: Anna Belogurova
+Professor Legacy ID: 1684384
+Professor ID: VGVhY2hlci0xNjg0Mzg0
+Department (CSV): History
+Department (Fetched): History
+Avg Rating: 4.5
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: HIST255
+Date: 2012-09-06 23:56:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very nice and open-minded personality.  Had her for hist255.  I would definitely take her again.
+
+--- Rating #2 ---
+Class: HIST390A
+Date: 2012-04-10 10:43:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Had her when she was a grad student, a little choppy in class prep, but delivered a unique (personal) perspective on communism and its significance in the 20th century.

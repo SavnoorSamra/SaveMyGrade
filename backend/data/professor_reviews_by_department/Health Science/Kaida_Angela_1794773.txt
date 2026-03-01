@@ -1,0 +1,102 @@
+Professor: Angela Kaida
+Professor Legacy ID: 1794773
+Professor ID: VGVhY2hlci0xNzk0Nzcz
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 3.9
+Avg Difficulty: 2.7
+Num Ratings: 7
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: HSCI431
+Date: 2025-10-05 22:02:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+I am still disgusted by her calling me lazy despite her onowledge of the death in my family less than 2 weeks ago.
+
+--- Rating #2 ---
+Class: HSCI160
+Date: 2022-04-26 23:13:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very understanding, and marks well. HSCI 160 was easy to balance with harder 4 credit courses would definitely recommend with Dr.Kaida!
+
+--- Rating #3 ---
+Class: HSCI160
+Date: 2022-03-28 07:15:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Angela Kaida is a great professor who cares about what she teaches! The assignments were easy to understand and the course load was not overly intense at all. There were two canvas quizzes and three assignments in the entire semester but I had a lot of time to do them and enjoyed it. Definitely take a class with her!!
+
+--- Rating #4 ---
+Class: HSCI496
+Date: 2022-03-10 04:39:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+I took HSCI 496 with Dr Kaida and it was one of the best classes I&#39;ve taken at SFU. Definitely recommend if you are interested in HIV/AIDS epidemiology
+
+--- Rating #5 ---
+Class: HSCI431
+Date: 2021-02-11 17:07:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Never for once had people called me lazy (let alone after my dear one's death) until I met her. I was surprised to read the positive comments. I regretted dealing with her but the horrible experience serves as a constant reminder that it's all over now and i should be grateful for it.
+
+--- Rating #6 ---
+Class: HSCI431
+Date: 2020-12-10 07:35:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Anglea is an amazing professor! Her classes aren't easy by any means but I honestly think I learned the most in her class over any other class in my entire undergrad! She is a great lecturer, understanding, gives clear and helpful instructions and overall provides a really positive learning experience. Definitely take a course with her if you can!
+
+--- Rating #7 ---
+Class: HSCI431
+Date: 2013-12-09 00:37:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Angela's notes are clear and to the point. She doesn't give out a lot of readings, but expects the ones she gives out to be done. The class was fairly marked and the assignments were all original and informative. She really wants students to learn and be engaged with the material of the class. Best prof I have had at SFU!

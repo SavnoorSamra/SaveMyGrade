@@ -1,0 +1,102 @@
+Professor: Chia-Chi Shen
+Professor Legacy ID: 1915051
+Professor ID: VGVhY2hlci0xOTE1MDUx
+Department (CSV): Finance
+Department (Fetched): Finance
+Avg Rating: 3.1
+Avg Difficulty: 2.9
+Num Ratings: 7
+Would Take Again Percent: 50
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: BUS315
+Date: 2016-08-30 15:58:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Jacky is very knowledgeable and responsible. Investment game project was very cool. Willing to accommodate my request for extra office hours. Definitely one of the better lectures.
+
+--- Rating #2 ---
+Class: BUS315
+Date: 2016-08-17 04:11:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The man cannot teach if his life depended on it. He rambles on incessantly about things that are irrelevant, which means that even the (painful) 4 hours of class are never enough for him to finish explaining a single chapter. He had a bunch of errors in the exam which made the questions not make sense and then just apologized when it was all over
+
+--- Rating #3 ---
+Class: BUS315
+Date: 2015-11-09 03:12:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+He was a nice guy, but he couldn't explain things clearly. However, the overall course was easy as long as you have done the assignments and studied the lecture slides (the exams would be very similar with the exercises and slides). Also, Jacky would bring some finance professionals to share their success and experiences.
+
+--- Rating #4 ---
+Class: BUS315
+Date: 2015-09-10 22:25:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great Prof, very responsible and with strong investment knowledge. Enjoyed the guest speakers a lot. Assignments are a bit too many.
+
+--- Rating #5 ---
+Class: 315
+Date: 2015-07-04 21:01:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Phenomenal class. Expect to develop your knowledge of finance immensely, book and lectures prepare you well for tests. Always open for office hours and makes his own personal effort to bring in business professionals into the classroom to speak about their experience. One of the best profs, I've ever had. Prev poster was irate after the midterm.
+
+--- Rating #6 ---
+Class: BUS315
+Date: 2015-06-23 18:11:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+This is not a Finance class, he focus on key words and his experience. He makes lots of mistake during lecture and never clarify his mistake.
+
+--- Rating #7 ---
+Class: BUS315
+Date: 2014-08-14 16:34:14 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He is nice, but he just can't explain things clearly. Some people said his course was easy. I had a difficult time in understanding his lecture slides and his assignments.

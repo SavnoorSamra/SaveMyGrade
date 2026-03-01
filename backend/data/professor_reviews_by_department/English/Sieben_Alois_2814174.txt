@@ -1,0 +1,63 @@
+Professor: Alois Sieben
+Professor Legacy ID: 2814174
+Professor ID: VGVhY2hlci0yODE0MTc0
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 4.3
+Avg Difficulty: 2.3
+Num Ratings: 4
+Would Take Again Percent: 75
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: ENGL114W
+Date: 2023-09-06 22:17:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This guy was a gem. Had him for intro English and he made Uni more tolerable. Would recommend having him as a prof as he's very easy-going.
+
+--- Rating #2 ---
+Class: ENGL114W
+Date: 2023-01-03 07:30:10 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+He is a nice professor, but when there is a in-class writing exercise, he only gives you a little bit of time. Sometimes 90 minutes or less. My advice is better to take a bonus mark so you can have a better final grade.
+
+--- Rating #3 ---
+Class: ENGL114W
+Date: 2022-12-05 00:31:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Alois was my first English professor and I definitely recommend him. He is super personable, helpful and it is clear that he doesn't see himself on a hierarchy. He also responds to emails super quickly and is always available. Be warned he only teaches on technology because that was his personal grad thesis.
+
+--- Rating #4 ---
+Class: ENGL114W
+Date: 2022-08-25 06:39:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He is one of my favourite professors ever in SFU. He is very caring and very accessible outside class if you need feedbacks with your unfinished essays. Attendance is mandatory, and the lecture is never dull as everyone gathers for discussions. He also provides a clear grading criteria, and hands out assignments 2 or 3 weeks ahead to prepare.

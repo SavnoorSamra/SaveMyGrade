@@ -1,0 +1,50 @@
+Professor: Laura  Tate
+Professor Legacy ID: 2888852
+Professor ID: VGVhY2hlci0yODg4ODUy
+Department (CSV): Resource Management
+Department (Fetched): Resource Management
+Avg Rating: 2.3
+Avg Difficulty: 3
+Num Ratings: 3
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: SD281
+Date: 2024-11-07 08:10:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Useless generic class with nothing real taught. VERY GENERIC. The whole course could be shortened into 5 pages and im not even joking
+
+--- Rating #2 ---
+Class: PLAN-100
+Date: 2023-12-12 16:19:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Was actually PLAN 300, she was disorganized and there was lots of things to do. But was overall a great class, she was very flexible with changing due dates and very generous marker. Would take a class with her again.
+
+--- Rating #3 ---
+Class: PLAN-100
+Date: 2023-03-20 18:21:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I liked this new professor a lot, but when it comes to in-class, you'll have to engage discussion with students in the lecture and at the tutorials. The TA were not friendly and also, lots of assignments that are still vague though. Even so, don't enroll this course if you're into community planning

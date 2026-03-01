@@ -1,0 +1,76 @@
+Professor: Bettina Cenerelli
+Professor Legacy ID: 1760891
+Professor ID: VGVhY2hlci0xNzYwODkx
+Department (CSV): French
+Department (Fetched): French
+Avg Rating: 4.6
+Avg Difficulty: 3.4
+Num Ratings: 5
+Would Take Again Percent: -1
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: FREN344
+Date: 2016-01-27 13:51:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Bettina is a great professor - very demanding, but also clear in what she wants and how she wants it. Her feedback is invaluable, her lectures are inspiring.  She is fair, helpful and so well organized.  There is lots of reading, writing and discussing in this course, but it can definitely help you improve your French.
+
+--- Rating #2 ---
+Class: FREN245
+Date: 2015-02-01 08:10:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+It'd be hard to find a prof who cares more than Bettina. Not easy by any means, but you learn a lot and she is incredibly helpful. Definitely take a class with her if you can. She knows her stuff.
+
+--- Rating #3 ---
+Class: FREN245
+Date: 2014-12-12 18:56:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Bettina is a great prof! She's so smart and is so passionate about the subject. This isn't an easy class, but she is very very very clear about what she wants on her papers and exams, which definitely helps. Sometimes her lectures are long and boring, but it's still worth it to go. I would definitely take another class with her. She's a sweetheart.
+
+--- Rating #4 ---
+Class: FREN245
+Date: 2014-11-27 16:19:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+SUPER helpful. Definitely not a slack course but she knows everything about everything and will help you out whenever you need it. It's a shame she only teaches the intro course - would take another one with her in a heartbeat. Bettina for president of everything.
+
+--- Rating #5 ---
+Class: FRD
+Date: 2012-11-03 17:09:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+She is amazing! She has her PhD in French literature so the class was a little intense for a 200 level but she is always willing and always available for help.

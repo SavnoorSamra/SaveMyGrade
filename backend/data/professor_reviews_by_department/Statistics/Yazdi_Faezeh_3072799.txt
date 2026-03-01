@@ -1,0 +1,63 @@
+Professor: Faezeh Yazdi
+Professor Legacy ID: 3072799
+Professor ID: VGVhY2hlci0zMDcyNzk5
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 4.3
+Avg Difficulty: 2.3
+Num Ratings: 4
+Would Take Again Percent: 75
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: STAT445
+Date: 2025-05-15 18:13:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Faezeh is an incredible professor. I can tell that she genuinely cares about her students from her responses. Always ready to answer questions no matter how long it takes and highly responsive. It is impressive that it's her first time teaching a course here at SFU. Wish her the best.
+
+--- Rating #2 ---
+Class: STAT445
+Date: 2025-04-14 17:16:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+went over the topics patiently, which I appreciated since stat is not my major. No exams, just 85% on assignments and if you attend tutorial you can get full mark. There is few pop quizes but most of the questions are very easy and from that lec. So attend lectures and honestly you can get an A easily just by attending class without much reading.
+
+--- Rating #3 ---
+Class: STAT445
+Date: 2025-04-14 17:08:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr Yazdi is very caring and super kind prof. I wish I could say that to more SFU profs. She put 3 additional office hours to help students and was always accommodating for submission delays or questions. While it was her first time teaching, she helped me understand linear algb concepts I couldn't understand from Math240. I recommend taking her!!
+
+--- Rating #4 ---
+Class: STAT445
+Date: 2025-01-29 01:06:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She reads and teaches super slow. Easily fall asleep in class...

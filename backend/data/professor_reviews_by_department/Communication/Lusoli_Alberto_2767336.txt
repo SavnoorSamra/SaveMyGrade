@@ -1,0 +1,11 @@
+Professor: Alberto Lusoli
+Professor Legacy ID: 2767336
+Professor ID: VGVhY2hlci0yNzY3MzM2
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

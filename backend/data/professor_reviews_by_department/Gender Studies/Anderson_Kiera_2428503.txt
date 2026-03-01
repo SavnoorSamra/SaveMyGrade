@@ -1,0 +1,11 @@
+Professor: Kiera Anderson
+Professor Legacy ID: 2428503
+Professor ID: VGVhY2hlci0yNDI4NTAz
+Department (CSV): Gender Studies
+Department (Fetched): Gender Studies
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

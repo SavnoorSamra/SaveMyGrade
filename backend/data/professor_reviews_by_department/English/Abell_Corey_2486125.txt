@@ -1,0 +1,37 @@
+Professor: Corey Abell
+Professor Legacy ID: 2486125
+Professor ID: VGVhY2hlci0yNDg2MTI1
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: ENGL115
+Date: 2020-10-26 00:25:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I had Corey as a TA for Engl115 last fall. He is one of the best TA's I've encountered at SFU so far. He encourages engagement and class discussion with activities during tutorials/labs. He explains concepts well and his reasons for marking clearly. I would not hesitate to take a class with him again.
+
+--- Rating #2 ---
+Class: ENG115W
+Date: 2019-04-30 00:46:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Corey did an amazing job TA'ing ENG 115. Corey came well prepared and got the most out of a tutorial that was shy and seldom participated, and did quite a few audibles when needed. He was well accessible outside of class and gave great advice re: papers. Good guy and wouldn't hesitate to recommend.

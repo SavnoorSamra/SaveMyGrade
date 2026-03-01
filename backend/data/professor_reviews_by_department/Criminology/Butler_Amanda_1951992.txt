@@ -1,0 +1,154 @@
+Professor: Amanda Butler
+Professor Legacy ID: 1951992
+Professor ID: VGVhY2hlci0xOTUxOTky
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 4
+Avg Difficulty: 2.9
+Num Ratings: 11
+Would Take Again Percent: 100
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: crim101
+Date: 2026-02-26 05:44:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very organized and insightful lectures. This class is easy if you actually study (lol)
+
+--- Rating #2 ---
+Class: crim101
+Date: 2026-01-02 21:30:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She is a nice professor who wants all her students to succeed. Something that I find challenging is her lectures. Her slides tend to be vague. She elaborates on them throughout the lecture, but she tends to talk very fast, so it is hard to understand or even take note of certain concepts. Her tutorials were useful. The final written part was hard.
+
+--- Rating #3 ---
+Class: crim101
+Date: 2025-12-20 11:13:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Butler is easy to talk to, and her assignments are clear/reasonable. However, Dr. Butler's slides hold little to no content, so it's important to focus on whatever she says and ask her to repeat if needed. At times, it felt as if she were rapping the lectures. Not much test review in-class/ short answer was challenging.
+
+--- Rating #4 ---
+Class: CRIM131
+Date: 2025-12-19 22:38:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+CRIM 101, not 131. her lecture content was very similar to the textbook (which is Free), but what she says during lectures shows up on exams. Midterm was fairly easy as it was just mc, but final was more difficult with the short answers. Know video examples shown in class esp for midterm. Very approachable and always willing to help. Fairly easy
+
+--- Rating #5 ---
+Class: CRIM131
+Date: 2025-12-05 04:46:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+(this is actually for CRIM 101) Dr. Butler was great, very transparent on assignment guidelines and grading. Lectures are well organized and most of it is already in the textbook provided, lectures mostly help with examples and clarification. She's very friendly, would encourage questions and discussion but wouldn't say is mandatory.
+
+--- Rating #6 ---
+Class: CRIM241
+Date: 2024-11-20 08:16:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Her lectures are very easy to follow and pretty engaging. The exams are very straightforward as long as you understand the main concepts from the chapters/lectures. There are various quizzes throughout the semester that are online and open-book to make sure you do the reading. I would take another class with Dr. Butler and recommend her classes!
+
+--- Rating #7 ---
+Class: CRIM131
+Date: 2016-03-03 13:21:15 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amanda was a very good professor for a first year course. Her lectures were straight forward and kept the students engaged, as the slides were open-ended and required additional notes. The tests were a difficult at times, but the online component of the course provided easy marks.
+
+--- Rating #8 ---
+Class: CRIM131
+Date: 2015-03-16 14:45:16 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Very good at teaching and is very clear. Exams are pretty easy as long as you read the textbook!
+
+--- Rating #9 ---
+Class: CRIM131
+Date: 2014-12-11 21:01:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amanda is an awesome professor in the sense that she is very approachable and helps students with enthusiasm. Take advantage of this and ask for help if you need it, she gives clear interactions and you can even get her to clarify exam questions during the exam. The grade breakdown is great, bc if you can still do well if u mess up on 1 component.
+
+--- Rating #10 ---
+Class: CRIM131
+Date: 2014-12-10 23:33:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+For a first year university class, Amanda was a pretty good prof. However, be warned about her exams. Her exams can be a little tough with the short answers and essay questions.
+
+--- Rating #11 ---
+Class: 131
+Date: 2014-12-01 15:37:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Amanda was very nice and approachable however, her lectures were pointless as they were directly from the textbook. She needed to provide her opinion, examples, and just generally interest students in the topic instead of reading fast through the slides. Her online tutorials were pointless and it had too many assignments. Her tests were fair.

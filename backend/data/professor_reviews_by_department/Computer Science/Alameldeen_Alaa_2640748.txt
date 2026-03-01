@@ -1,0 +1,280 @@
+Professor: Alaa Alameldeen
+Professor Legacy ID: 2640748
+Professor ID: VGVhY2hlci0yNjQwNzQ4
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.8
+Avg Difficulty: 3.2
+Num Ratings: 30
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT305
+Date: 2024-10-22 08:22:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Known as one of the best CS profs at SFU, and I can see why. Marking is very fair, and assignments are relevant to the course content, although can be a little time consuming. Overall, a solid choice!
+
+--- Rating #2 ---
+Class: CMPT295
+Date: 2024-08-08 04:38:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Arguably one of the goats.
+
+--- Rating #3 ---
+Class: CMPT431
+Date: 2024-04-16 17:05:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures are clear also recorded, so don't need other learning materials. This is a big time saving!
+Homework isn't difficult as he provides step-by-step pesudocode.
+Exams include about 20% difficult questions, but you can easily get the rest by following his lectures and doing slight review before exams.
+He answers our questions in Piazza quickly.
+
+--- Rating #4 ---
+Class: CMPT431
+Date: 2024-04-15 08:20:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+best candidate for this course
+
+--- Rating #5 ---
+Class: CMPT431
+Date: 2024-04-15 08:14:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Alameldeen excels in clear, organized lectures and makes complex subjects accessible. Known for his approachability, he quickly responds to inquiries, enhancing learning. Highly recommend his classes for a rewarding experience. Early review course material and basic C++ knowledge help with assignments.
+
+--- Rating #6 ---
+Class: CMPT431
+Date: 2024-03-12 07:57:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Probably one of the best profs I have had at SFU. He's the only prof I've had where I feel 100% comfortable asking for clarification on anything because he will happily re-explain if necessary. He is also very accessible outside of class and will answer any question you have. Exams are difficult but very fair. Wish he taught more courses :')
+
+--- Rating #7 ---
+Class: CMPT431
+Date: 2024-02-16 14:37:43 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Course itself and assignments are pretty good, but not a fan of his lecture. He just reads off slides which are ~100% based on textbooks so lectures are basically skippable. Open book quizzes and no final.
+
+--- Rating #8 ---
+Class: CMPT295
+Date: 2024-01-11 04:42:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The man, the myth, the legend! He is so caring and willing to review the material again to ensure we understand it.
+
+--- Rating #9 ---
+Class: CMPT295
+Date: 2023-12-17 23:37:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Seriously, 5/5 is not an understatement. He cares so much. A whole week before finals, he was answering 10s of piazza questions each day in under 30 minutes (night and day,literally). If he notices the class isn't following him, he is not hesitant to explain everything again even more slowly, yet with the same friendliness and enthusiasm.
+
+--- Rating #10 ---
+Class: CMPT295
+Date: 2023-11-15 08:51:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Better than Arrvindh
+
+--- Rating #11 ---
+Class: CMPT305
+Date: 2023-04-12 03:36:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Goated prof. Answers all questions clearly and very accessible outside of class for help on material and assignments via piazza. Lectures can be a little dry due to the nature of the material going over formulas and their derivation. 4 tests, one every 3 weeks but open book/internet and pretty straight forward if you generally know all the content
+
+--- Rating #12 ---
+Class: CMPT305
+Date: 2023-03-01 07:02:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Top G of a professor, he's probably the only good prof we have in the cs department. If we taught more classes I would take them.
+
+--- Rating #13 ---
+Class: CMPT295
+Date: 2023-01-10 21:16:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Having Alaa with Arrvindh was an experience. Its like you dip your body in hot water and then you get the relief of getting your body cooled down with fresh mineral spring water from the swiss alps. With Arrvindh being the hot water and Alaa the cool water.
+
+Alaa Cares a lot, he stays up late to answer questions and is generally quite nice.
+
+--- Rating #14 ---
+Class: CMPT295
+Date: 2022-12-23 19:25:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Alaa is one of the realest, most caring professors around the block. The content in 295 is not easy and Alaa is the reason why I made it through. He is always very patient with all of us and will do anything to help us understand the material! I, myself, might even call him the GOAT alongside Michael Jordan and Lebron James.
+
+--- Rating #15 ---
+Class: CMPT295
+Date: 2022-12-19 17:48:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+* THIS IS FOR CMPT 450 BUT IT'S NOT AN OPTION AND I CAN'T ADD IT.
+
+"Caring" wouldn't describe how much he is always willing to help and how much he prioritizes students. Always accessible & understanding and super knowledgeable about the subject. He's the best professor I've taken a course with at SFU. He stays up till 2AM answering questions!!
+
+--- Rating #16 ---
+Class: CMPT295
+Date: 2022-12-19 04:09:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The Goat actually cares about your success and will work overtime to help you
+
+--- Rating #17 ---
+Class: CMPT295
+Date: 2022-12-18 07:36:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+The GOAT.
+
+--- Rating #18 ---
+Class: CMPT295
+Date: 2022-12-16 07:28:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Alaa made a good effort at explaining material although gets monotone and fails at emphasizing what is important. 
+
+Very responsive to student questions
+
+--- Rating #19 ---
+Class: CMPT295
+Date: 2022-12-15 22:01:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Alaa is one of the most considerate professors ever! He actually cares about his students and will patiently respond to all of our questions. His exams are quite fair and he is very lenient with his grading.CMPT295 is a pretty tough course imo and Alaa made it a lot easier to get through. Will take again.
+
+--- Rating #20 ---
+Class: CMPT295
+Date: 2022-12-14 01:44:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This course is usually split in half. First half is done with a different prof , latter half is done with this prof. This professor does seem to care about the student. During the finals season, he was even seen staying awake till 2 AM to answer questions.

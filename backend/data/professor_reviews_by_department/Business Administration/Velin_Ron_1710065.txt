@@ -1,0 +1,271 @@
+Professor: Ron Velin
+Professor Legacy ID: 1710065
+Professor ID: VGVhY2hlci0xNzEwMDY1
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.6
+Avg Difficulty: 2.6
+Num Ratings: 36
+Would Take Again Percent: 72.7273
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS486
+Date: 2023-01-27 03:23:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Ron was a great professor. I was a bit vary about the reviews, but all of them turn false. He truly cared about his students, he provided great feedback. If you put in the work, you will get the results you want.
+
+--- Rating #2 ---
+Class: BUS486
+Date: 2022-11-16 17:30:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Anyone who gives Professor Ron less than 5/5 is lying. He really cares for his students. He is hands down one of the best professors I have ever had. He is a fair marker and provides a ton of feedback on assignments and presentations. He is always accessible to answer questions and genuinely wants his students to succeed.
+
+--- Rating #3 ---
+Class: BUS486
+Date: 2022-11-13 03:01:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+If you are enthusiastic about learning and developing your leadership skills, I highly recommend signing up to Ron Velin's courses. His classes are fun, real, and engaging. He doesn't look for perfection in our course deliverables, he simply wants us to give tour best efforts and continuously improve. To be honest, one class/week was not enough.
+
+--- Rating #4 ---
+Class: BUS272
+Date: 2022-11-13 02:29:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Ron is a passionate instructor who is dedicated to unlocking the leadership potential in his students. He empowers his students by delivering thought-provoking lessons that delves into the emotional process people experience in a change initiative and the tools that future leaders need to keep our teams focused and productive.
+
+--- Rating #5 ---
+Class: BUS486
+Date: 2022-11-12 21:08:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Ron is one of my favourite professors I had at SFU! From the beginning of the course he took the time to get to know each student and made the classroom very inclusive. I looked forward to lecture every week! The work was on a variety of interesting topics and creative projects. Ron gave great feedback I was able to effectively use.
+
+--- Rating #6 ---
+Class: bus485
+Date: 2022-11-12 05:55:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He was not only a great teacher but also a great instructor who you can rely on. His lectures were full of fun, to be honest. He was giving real-life examples to which you can relate. Great way to learn! Wish every other teacher was like him too. We never lost touch with him. It is an honour to meet such a man!
+
+--- Rating #7 ---
+Class: bus485
+Date: 2022-11-12 04:13:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+So knowledgeable & makes everything so easy to understand. He used to make lectures soo fun by making us watch small clips from famous movies so we can remember them. His class was always interactive and he really cared about every student and tried his best to get them through the course. Amazing teacher who truly cared for every student.
+
+--- Rating #8 ---
+Class: bus485
+Date: 2022-11-12 03:40:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+His dedication is undeniable! The class is a mixture of fun, learning, and coaching. Beyond studies, I learned many things about how to cope with life. Definitely one of a kind learning experience.
+
+--- Rating #9 ---
+Class: BUS487
+Date: 2022-11-11 18:38:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Ron is still the best professor I've encountered after 4 years of taking courses at SFU. He takes the time to ensure everyone is on the same page, and if not, he guides you through your stuck points. He wants you to get a good mark! Would 100% recommend any student to take on a course he teaches.
+
+--- Rating #10 ---
+Class: bus485
+Date: 2022-11-11 05:40:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+I am surprised to see negative comments about him; his dedication to his job is exceptional. He is a firm believer in fundamental values. I took his class at Langara college and asked him some tough questions. His style is more coaching-oriented, and I think students need to respect the fact they are there to learn, not just to enjoy the routine.
+
+--- Rating #11 ---
+Class: BUS486
+Date: 2022-11-11 04:51:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ron is an instructor who strives to help students and prepare them for the future. He focused on teaching concepts from lecture discussions and activities rather than notes from assignments. We spent the lessons having fun and learning a lot. I am grateful for teaching him about the concept of leadership.
+
+--- Rating #12 ---
+Class: BUS487
+Date: 2022-11-10 21:10:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Ron was one of my best teachers in Langara. He inspired me to improve. His methodology consists of learning and then explaining to others. About technical things that I learned, I can say how to get to the root of the problems and then work from there to have changed. You can apply that to everything you want.
+
+--- Rating #13 ---
+Class: BUS486
+Date: 2022-11-10 04:50:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I don't understand why this guy gets so low ratings. Ron is a great teacher who is passionate about teaching and who actually cares very well about his students. He conducts his lectures in very creative ways to keep the class engaged, and he tries to help out students who genuinely need help and help themselves as well.
+
+--- Rating #14 ---
+Class: BUS486
+Date: 2021-12-14 07:55:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+With a small class, Ron was able to put in effort to get to know the students and help them learn. Assignments were focused on reflections, while lectures focused on leadership concepts, supplemented by discussions &amp; activities. Ron is caring and will try to make class fun. We always ran out of time, and so he said he will work on time management.
+
+--- Rating #15 ---
+Class: BUS487
+Date: 2020-12-11 06:00:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+While Ron is relatively a nice guy, he's anal about the smallest things and you won't learn much in class. He gets upset and calls you out if your camera is too dark or you have your computer on your lap. Most classes were just discussions about our feelings and reflections. There's a video assignment every week that are useless.
+
+--- Rating #16 ---
+Class: BUS486
+Date: 2020-03-25 23:12:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Ron should not be teaching considering how he handles his class/curriculum. In lectures, Ron takes his time to interview students in front of the class entire class. He will demand answers from students - even when the class feels uncomfortable sharing. Would highly recommend any academic advisor to audit one of his courses. Ron needs help.
+
+--- Rating #17 ---
+Class: BUS486
+Date: 2020-03-25 23:08:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The class curriculum itself is very easy, but Ron manages to make class uncomfortable for everyone because he throws fits and wastes class time with his irrelevant rants. Ron is easily triggered by the simplest things in life and looks to his students for validation of his insecurities. He is condescending and rude - would not recommend this class
+
+--- Rating #18 ---
+Class: BUS486
+Date: 2020-03-23 00:57:24 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Ron is invasive and frustrating as a professor. He is a caring individual, but should not be teaching a 400-level course. You will not learn about successful leaders of notable organizations. You will maybe learn about a single leader in the entire course via an outdated and restrictive group project. Very weird, cult-like tendencies in this class.
+
+--- Rating #19 ---
+Class: BUS486
+Date: 2018-11-28 19:11:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Ron teaches his course as if he was the head of a sorority. If he does not like your character, you will suffer extremely (not just through poor grades, he will create problems in your life you never needed to deal with). This review sounds bias, but last semester more than half of his class filed a complaint.
+
+--- Rating #20 ---
+Class: BUS486
+Date: 2018-07-23 15:02:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Ron is an engaging lecturer who makes a 3 hour lecture feel like 30 minutes, and he tailors his feedback to fit each student individually. This class would be the only course I have taken in my whole degree that places value in self development and reflection, which has tremendous importance in leadership and life in general.

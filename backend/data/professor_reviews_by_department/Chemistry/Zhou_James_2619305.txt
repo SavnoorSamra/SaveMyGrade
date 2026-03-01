@@ -1,0 +1,271 @@
+Professor: James Zhou
+Professor Legacy ID: 2619305
+Professor ID: VGVhY2hlci0yNjE5MzA1
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 4.9
+Avg Difficulty: 2.6
+Num Ratings: 26
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CHEM121
+Date: 2026-02-26 07:41:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He cares for students, and is fun and chill.
+
+--- Rating #2 ---
+Class: CHEM111
+Date: 2026-01-23 07:06:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+An amazing professor. The best prof I have had so far in university! Friendly, explains thing very well and thoroughly. Great slides, great person, great class!
+
+--- Rating #3 ---
+Class: CHEM121
+Date: 2024-06-18 16:55:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is a very sweet teacher, and his team is very friendly. He also helps us with homework questions if we have trouble when asked
+
+--- Rating #4 ---
+Class: CHEM111
+Date: 2024-01-13 06:38:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He was a very good professor. I learned not only chemistry but even some very basic but I never figured out math skills from this class.
+
+--- Rating #5 ---
+Class: CHEM111
+Date: 2023-12-22 23:00:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He provides a simplistic explanation to chemistry and is very easy to follow. He gives a lot of practice problems, and is ready to answer questions. Overall, such an approachable person and super helpful. I recommend him if you have not taken chemistry 12 as his lectures are easy to follow, and tests fair.
+
+--- Rating #6 ---
+Class: CHEM111
+Date: 2023-12-21 01:56:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great professor, easy to understand, and very funny as well. The only downside is there are a lot of homework, and this is chemistry so homework sometime are not easy. As long as you seek helps, pay attention during lecture and do your homework. You will turn out just fine. After all, chemistry is a hard subject so do your homeworks.
+
+--- Rating #7 ---
+Class: CHEM111
+Date: 2023-12-20 08:54:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+James is a funny guy. Cares for his student and really wants you to do well. Available for questions after class/zoom. Don't have to get a textbook as his notes are crystal clear. Lab sessions with him are hilarious - you gotta love the "clean up" song. Only top 5 quizzes counted. Tutorials mandatory, lecture notes will not be posted online.
+
+--- Rating #8 ---
+Class: CHEM111
+Date: 2023-12-17 05:04:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+James was by far my favorite prof! He genuinely wants everyone to do well and his lectures were a blast. He does plenty of practice problems that are super relevant! Study his notes and do your LON-CAPA and you'll do fine! Note: He does weekly quizzes.
+
+--- Rating #9 ---
+Class: CHEM100
+Date: 2023-12-16 21:00:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good prof, explained concepts very well and lecture notes reflected the midterm and final questions perfectly. Lots of loncapa to do, but honestly the loncapa felt harder than the tests so highly recommended to do them all for good practice.
+
+--- Rating #10 ---
+Class: CHEM100
+Date: 2023-12-16 02:18:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+James is an amazing lecturer. His notes reflect exactly what will be tested and are very clear. Very easy to succeed in this course if u put in the work and practice. Midterm and final were very fair if you know the material. I would definitely recommend taking a class with him if you can!
+
+--- Rating #11 ---
+Class: CHEM100
+Date: 2023-12-08 08:10:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+**CHEM 110 An awesome professor! Lecture notes were clear and engaging and referred to real-life examples for concepts. James always emailed back quickly and even offered explanations through Zoom. Assignments and exams were fair if you studied every week and kept up with the course content. I've never rated before but he was worth the 5/5 rating.
+
+--- Rating #12 ---
+Class: CHEM121
+Date: 2023-10-30 10:12:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof, honestly was the best prof i have ever taken. Took him for chem 121 summer 2023, he taught chem in the best way possible. SO SO SO MANY practice exams, he provides a lot of help. He is the star of all profs in SFU. What a man, he loves making jokes, and loves to make exams as FAIR as possible. Super helpful in emails as well.
+
+--- Rating #13 ---
+Class: CHEM121
+Date: 2023-08-10 06:22:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Super nice prof. If you have an option between two profs when you select a course, definitely pick him. Exams are fair, and he gets straight to the point. Very kind prof
+
+--- Rating #14 ---
+Class: CHEM121
+Date: 2023-08-09 19:36:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+James's lectures are really organized and easy to follow. The quizzes and exams are very FAIR plus he gives helpful practice questions that actually prepares you for the midterm and final. This class had very tough content but James made it manageable. Would love to have him as a professor again !
+
+--- Rating #15 ---
+Class: CHEM121
+Date: 2023-08-04 16:18:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+just fantastic
+
+--- Rating #16 ---
+Class: CHEM121
+Date: 2023-08-04 16:18:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+James is an amazing prof, he loves teaching and he's really good at it.
+
+--- Rating #17 ---
+Class: CHEM121
+Date: 2023-08-04 16:17:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof!
+
+--- Rating #18 ---
+Class: CHEM121
+Date: 2023-08-04 05:36:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+By far one of my fav prof. Wish he would teach the higher level chem!
+
+--- Rating #19 ---
+Class: CHEM121
+Date: 2023-08-02 20:08:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+best prof ever
+
+--- Rating #20 ---
+Class: CHEM121
+Date: 2023-08-02 20:06:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great prof. Explained everything well in lecture and would have zoom meetings available for 1 on 1 help everyday. Midterm was fair and provided resources to study with. Would def take this prof again, best prof I've ever had.

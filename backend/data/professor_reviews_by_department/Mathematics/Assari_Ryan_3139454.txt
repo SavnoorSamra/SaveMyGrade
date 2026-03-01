@@ -1,0 +1,37 @@
+Professor: Ryan Assari
+Professor Legacy ID: 3139454
+Professor ID: VGVhY2hlci0zMTM5NDU0
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.5
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: MACM-101
+Date: 2026-01-05 20:55:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+For a first time teaching the course, he had some ups and downs. Usually in class being very monotone, you will hear a lot of "Uh hums". The tutorials were genuinely the life saver of this course, for which I understood the material more effectively. Overall just pay attention to the lectures, watch Trev Tutor, and go to the tutorials.
+
+--- Rating #2 ---
+Class: MACM-101
+Date: 2025-12-29 08:29:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is a great professor and very passionate about his subject. I did think the topics could have been explained in easier language but as long as you're going over the slides and and attend tutorials, you should be fine. Also I thought that the office hours were very helpful. Ps. The things you think won't be on exam WILL show up.

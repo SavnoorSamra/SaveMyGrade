@@ -1,0 +1,128 @@
+Professor: Susan Crawford
+Professor Legacy ID: 2162469
+Professor ID: VGVhY2hlci0yMTYyNDY5
+Department (CSV): Gerontology
+Department (Fetched): Gerontology
+Avg Rating: 1
+Avg Difficulty: 4.9
+Num Ratings: 9
+Would Take Again Percent: 0
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: GERO407
+Date: 2024-01-23 13:26:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Just recently decided to share my personal experiences from taking this class from a while ago. Very tough teacher when it comes to grading. Did not have a nice time in the class
+
+--- Rating #2 ---
+Class: GERO407
+Date: 2022-11-06 06:07:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+
+
+--- Rating #3 ---
+Class: GERO407
+Date: 2022-04-27 10:21:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Would not recommend.
+
+--- Rating #4 ---
+Class: GERO407
+Date: 2021-12-06 04:32:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Took the course in Summer 2021. Would not recommend to take classes this prof teaches.
+
+--- Rating #5 ---
+Class: GERO407
+Date: 2021-07-02 17:12:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very strict Prof who will give you a failing grade for contribution to group assignments just because you used a reference she doesn't like, even though you spent hours contributing to the group assignment with writing and editing.
+
+--- Rating #6 ---
+Class: GERO407
+Date: 2021-06-29 20:20:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+For a class that only require 45 credits to take, her expectations from students are way too high. Took the course as a GPA booster to fulfill my upper division elective requirement but almost ended up failing due to her bizarre ways of marking. Would not recommend to take this course if she is teaching it unless absolutely have to.
+
+--- Rating #7 ---
+Class: GERO407
+Date: 2021-06-22 18:14:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Probably the worst Profs I have had in my years at the school. Completed destroyed my interest in learning nutrition. When a prof uses words like &quot;garbage resources&quot; as a way to mock the class for their poor choice of resource in the assignment, you know you have taken the wrong class.
+
+--- Rating #8 ---
+Class: GERO408
+Date: 2016-12-15 13:22:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Very ununderstanding prof, hardest marker ever, lectures are vague plus she doesn't provide any extra information or details. I had the worst experience in this class.
+
+--- Rating #9 ---
+Class: GERO407
+Date: 2016-08-12 02:06:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+TOUGH GRADER, if you fail the final exam,  you fail the course no matter how well  you did on all the other assignments. And she gives lots of works to do. Not recommended.

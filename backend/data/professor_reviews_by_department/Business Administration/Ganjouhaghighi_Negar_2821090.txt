@@ -1,0 +1,273 @@
+Professor: Negar Ganjouhaghighi
+Professor Legacy ID: 2821090
+Professor ID: VGVhY2hlci0yODIxMDkw
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.1
+Avg Difficulty: 3.3
+Num Ratings: 100
+Would Take Again Percent: 78
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS373
+Date: 2025-11-13 16:46:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is a very nice professor; I have taken her courses BUS 232 and BUS 373, and it was a super good experience learning and taking exams in her courses. Everything on the exams will be the content she taught in class, and she is very caring to us :)
+
+--- Rating #2 ---
+Class: BUS373
+Date: 2025-11-11 06:39:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Negar's lectures are always straight to the point and clear. Her explanations during class are easy to follow through and she always welcomes student engagement and questions. She even helps with giving students hints on what's coming for the midterm and final exam. I would take more of her courses if I had the chance
+
+--- Rating #3 ---
+Class: BUS232
+Date: 2025-06-26 19:41:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This course made me want to cry every day, not because of the prof but because of stats.
+
+--- Rating #4 ---
+Class: BUS336
+Date: 2025-06-01 00:58:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She explains concepts clearly and records lectures. Her midterm and final are very fair. She always explains concepts and answers questions thoroughly. Group assignments and quizzes are clearly explained and easy to do. One of my favourite profs at Beedie!!
+
+--- Rating #5 ---
+Class: BUS232
+Date: 2025-02-14 02:08:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the few professors who speak cohesively and finish the entire thought process. It was a fresh reminder that there are still proficient professors.
+
+--- Rating #6 ---
+Class: BUS373
+Date: 2025-02-11 03:23:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I don't think she is suited to teach for this course; she is teaching 373 for the first time. I have taken 232 with her; she is so great and familiar with that one, but this one is not! Very short time to take a quiz with so much work is suck! Choose another prof.
+
+--- Rating #7 ---
+Class: BUS232
+Date: 2025-02-10 06:10:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the best professors I've had! The way that she teaches makes all the concepts very simple and easy to understand. You can tell she wants everyone to do well. The midterm and exam are somewhat difficult, but if you practice the questions/problems she goes over during lecture, you'll do good. There's no surprises on exams, they're very fair.
+
+--- Rating #8 ---
+Class: BUS232
+Date: 2025-01-08 20:27:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Really engaging lectures and gave students time to ask questions. Rewarded class participation in the grade. The midterms were difficult.
+
+--- Rating #9 ---
+Class: BUS232
+Date: 2025-01-06 10:20:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is a very organized professor and provides a very supportive learning environment to students.
+
+--- Rating #10 ---
+Class: BUS336
+Date: 2024-12-21 02:25:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures are easy to follow and cover everything you need to know for assignments and exams. She managed to make statistics engaging and fun. Lectures are recorded.
+
+She was very knowledgeable and helpful with any questions. Quizzes and assignments were generally straightforward and easy if you pay attention to the content. Overall great class.
+
+--- Rating #11 ---
+Class: BUS232
+Date: 2024-12-20 04:19:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Negar is great. Her lectures really do help understand the material, and she takes the time to explain more complicated concepts in detail. Super nice person, too. My only complaint is that she could be more careful with her wording/grammar on quizzes/assignments/exams. Sometimes it can be hard to understand what the question is really asking.
+
+--- Rating #12 ---
+Class: BUS232
+Date: 2024-12-19 00:47:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is one of the best professors at SFU, and very very caring. The fact that the lectures are recorded goes to show how much she cares about the students, exams are very fair, and during the lectures, she will often explain and emphasize specific topics that will be tested in the midterm and final. She makes statistics so interesting and easy.
+
+--- Rating #13 ---
+Class: BUS232
+Date: 2024-12-11 22:41:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very sweet and straight-forward professor. She was great at breaking down difficult concepts into easy-to-understand pieces. She lets you know exactly what will be on the midterm and final (no surprises). The course is tough but as long as you do the practice questions that she provides (along with the slide questions), it will be fine!
+
+--- Rating #14 ---
+Class: BUS232
+Date: 2024-12-11 21:37:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very good prof nice lady, course is hard but if you go to class and listen it will be easy. She explains the course concepts very well and posts her lectures with tons of examples.
+
+--- Rating #15 ---
+Class: BUS232
+Date: 2024-12-10 19:34:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Negar is by far one of the best profs I've had at SFU. She really cares about her students and is always willing to give help. She encourages participation in her lectures and as a reward, it can boost your grade. The lectures were very straightforward and reliable for the exams. There are group assignments that are very beneficial for learning.
+
+--- Rating #16 ---
+Class: BUS232
+Date: 2024-12-07 20:38:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+genuinely negar is the best math professor i have ever had in my entire life. she explains concepts very clearly, gives you a complete list of what she will ask you on midterms and finals, and gives opportunity to get extra marks if you ask questions in her class. she is also very organized and has good structure. highly recommend she is so good!
+
+--- Rating #17 ---
+Class: BUS232
+Date: 2024-12-02 23:55:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is one of my favourite profs at SFU. Her lectures were very informative and she went through all of the concepts in great detail. If anyone had any questions, she wouldn't hesitate to go back and re-explain until you had a good understanding. She's very knowledgable in the subject, and therefore made an amazing teacher. She made stats enjoyable
+
+--- Rating #18 ---
+Class: BUS232
+Date: 2024-11-29 01:18:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is a decent prof, atleast she records the lectures so you can listen to them on 2x speed. Exams are very very long but not necessarily hard. Classes are not worth going and rather boring.
+
+--- Rating #19 ---
+Class: BUS336
+Date: 2024-10-09 22:51:19 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good lectures that are easy to follow, but they're not applicable to the quizzes, assignments, or midterms because she makes the content significantly more difficult for those. Question prompts are unclear and there are a lot of assessments and assignments compared to other courses. 30% of your grade comes from group work, so choose carefully!
+
+--- Rating #20 ---
+Class: BUS336
+Date: 2024-10-06 23:15:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+her lectures are so easy and the assignments are so hard that you can barely use her lectures to supplement and do the assignments. Have a topic on our midterm that we didn't even get to learn yet in class? Her practice midterm questions are also much harder than the lectures as well so have no clue what to expect with exams

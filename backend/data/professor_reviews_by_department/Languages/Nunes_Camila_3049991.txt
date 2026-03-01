@@ -1,0 +1,63 @@
+Professor: Camila Nunes
+Professor Legacy ID: 3049991
+Professor ID: VGVhY2hlci0zMDQ5OTkx
+Department (CSV): Languages
+Department (Fetched): Languages
+Avg Rating: 4.8
+Avg Difficulty: 2.3
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: PORT100
+Date: 2025-06-19 07:04:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Really nice person.  Also very disorganized.   Languages are a tricky thing to learn in school and maybe a little too much expectation of speaking?  People were kind of all over the place.
+
+--- Rating #2 ---
+Class: PORT100
+Date: 2025-04-10 23:07:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+great prof! clearly passionate about the language and very forgiving of mistakes. class is very oral-heavy so be prepared to talk. cared about all of us and was interested in our progress. even brought us brazilian snacks to eat. a little disorganized at times since she's new to canada and sfu but managed pretty well. 100% would recommend.
+
+--- Rating #3 ---
+Class: PORT100
+Date: 2025-04-08 19:09:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Genuinely the best professor I have ever had. I would absolutely recommend her and this course to anyone. She was passionate about the language and made every class incredibly fun and captivating. The course is hands on, but absolutely worth it. I left the course feeling confident in my portuguese and interested in continuing to learn the language!
+
+--- Rating #4 ---
+Class: PORT100
+Date: 2024-11-25 11:44:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+AMAZING PROF

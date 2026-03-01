@@ -1,0 +1,271 @@
+Professor: Nils Bruin
+Professor Legacy ID: 30922
+Professor ID: VGVhY2hlci0zMDkyMg==
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 1.9
+Avg Difficulty: 4
+Num Ratings: 266
+Would Take Again Percent: 19.6809
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH340
+Date: 2025-12-12 12:10:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+nice guy , exams are fair , the course itself aint easy but its possible to get 100% on the exams, if you study.
+
+--- Rating #2 ---
+Class: MATH151
+Date: 2025-12-11 06:50:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+sometimes makes too many mistakes while writing on his slides and his writing is hard to decipher. i like to watch his hair bob up and down when he talks. Literally just do all the homework yourself and theres no way you dont get an A. Undeserving of anything below a 2, but i can see why hes not a 5.
+
+--- Rating #3 ---
+Class: MATH151
+Date: 2025-12-10 12:07:09 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+The course isn't too hard, but exams cover everything, so you must practice a lot. TA grading is extremely strict &#8212; even small calculation errors can lead to 0/6. The professor also makes mistakes during lectures. Overall the course isn't that bad, but Calc 1 shouldn't be this difficult to pass with a good grade.
+
+--- Rating #4 ---
+Class: MATH151
+Date: 2025-12-10 04:06:28 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures were difficult to follow; the professor made repeated mistakes and made no effort to make the content digestible. As someone who took calculus in high school, I still had to relearn every concept outside of lectures. I couldn't imagine taking this class as my first exposure to calculus. Tests and quizzes were very fair, though.
+
+--- Rating #5 ---
+Class: MATH151
+Date: 2025-12-10 00:07:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Sometimes hard to follow the lectures but there are plenty of resources to succeed (textbook, webassign, seminars), he gets way more hate than he deserves, if you study you'll be fine
+
+--- Rating #6 ---
+Class: MATH340
+Date: 2025-12-09 12:53:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Tons of hand-written notes, but exams are easy
+
+--- Rating #7 ---
+Class: MATH151
+Date: 2025-12-09 07:08:13 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He isn't that bad tbh, but his handwriting is something else. Decoding his cursive is a skill on its own
+
+--- Rating #8 ---
+Class: MATH151
+Date: 2025-12-09 06:06:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Can never read his writing but his exams are easy!
+
+--- Rating #9 ---
+Class: MATH151
+Date: 2025-12-09 05:45:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Avoid at all costs, you can take calc1 a different semester if Nils is teaching, Nils is the most
+
+--- Rating #10 ---
+Class: MATH340
+Date: 2025-12-06 07:40:48 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Nils is really passionate about the material and it shows. The material for this class is fairly advanced and abstract, and I found the pace a bit too fast (but this is only my second UD math course). Midterm was very fair, but the final was challenging.
+
+--- Rating #11 ---
+Class: MATH151
+Date: 2025-12-06 05:26:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+All these reviews sum it up. Constant stuttering, and terrible breath, you basically can't win. Can't understand his lectures because he can't stop stuttering and if you ask him stuff in office hours his breath smells so bad you probably want to stand outside his office when you talk to him!! Terrible professor!
+
+--- Rating #12 ---
+Class: MATH151
+Date: 2025-12-06 01:56:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Difficult to understand most of his lectures. Makes mistakes and stutters a lot during lecture. Mid-term was harder than class expectation. Would definitely recommend Jamie's videos if you are having a hard time understanding his lectures.
+
+--- Rating #13 ---
+Class: MATH151
+Date: 2025-12-02 21:35:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Not as bad as everybody says, he makes a few mistakes in lecture but its to be expected. He clearly is passionate about mathematics, and is willing to chat and answer any questions you may have. The assignments are helpful, but can be overwhelming sometimes. Tests are on the easier side, do all homework and you should be fine.
+
+--- Rating #14 ---
+Class: MATH151
+Date: 2025-12-02 20:37:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Get this man some deodorant and breath minds good god my god his breath smells horrific it's brutal don't go anywhere close to this guy
+
+--- Rating #15 ---
+Class: MATH151
+Date: 2025-12-02 20:37:04 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Nice person but poor teacher. You can see that he's passionate about what he talks about, just that his communication skills are terrible. The homework helps prepare you for the quizzes every week, and helps prepare you for the midterms and final. I suggest taking this class with someone else if you haven't done Calculus in high school.
+
+--- Rating #16 ---
+Class: MATH151
+Date: 2025-12-02 02:03:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good prof, explains things fully and does practice problems to show application of concepts. Lots of homework but not hard to keep up with. Writes notes in semi-cursive so if you have trouble reading it I'd suggest another prof. Extremely fair tests - content almost identical to practice problems in lecture just different numbers
+
+--- Rating #17 ---
+Class: MATH151
+Date: 2025-12-01 15:41:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+take his class if you like smelly breath. like my god bring him some mints if you go to his class his breath reeks like rotten eggs and spoiled avocados. sit in at least row 10 if you don't want to have your nose go bad. actually disgusting how bad his breath smells i didn't know breath could smell that bad it's horrendous
+
+--- Rating #18 ---
+Class: CALC152
+Date: 2025-11-27 15:33:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+hes gotta brush his dam teeth he smell
+
+--- Rating #19 ---
+Class: MATH340
+Date: 2025-11-24 22:31:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+get this guy some mint oh my god his breath reeks, sit in row 5 at least if you want your nose to be okay
+
+--- Rating #20 ---
+Class: MATH151
+Date: 2025-11-23 21:54:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is not a good teacher and from what I've seen there are a lot better teachers however his class structure is nice with assignments and quizzes and his exams are fair. I didn't learn during lectures mostly through the textbook and youtube videos but the homework and textbook prepared you well for what was expected on the exam.

@@ -1,0 +1,115 @@
+Professor: David Broun
+Professor Legacy ID: 795740
+Professor ID: VGVhY2hlci03OTU3NDA=
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 4.2
+Avg Difficulty: 3.8
+Num Ratings: 8
+Would Take Again Percent: 75
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: PHYS255
+Date: 2025-04-30 21:47:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Very nice to students. Strict but on a good level. If I was to rate this on a scale from 3 to 16 I would rate it a 16/16
+
+--- Rating #2 ---
+Class: PHYS126
+Date: 2025-04-30 21:41:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He cared a lot about what he talked about and his students. His class was very hard. But I passed.
+
+--- Rating #3 ---
+Class: PHYS255
+Date: 2024-01-23 14:46:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Moody.
+
+--- Rating #4 ---
+Class: PHYS255
+Date: 2022-12-12 09:23:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+David is a pretty good professor overall. Cares a lot about his students and wants everyone to succeed. My one small complaint is that sometimes there aren't many examples that can be used to approach his assignments which can take a while occasionally. Luckily his midterms and finals follow pretty closely to the assignments so stick to those.
+
+--- Rating #5 ---
+Class: PHYS255
+Date: 2012-01-09 02:47:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+An awesome prof. He is really easy to talk to about the course and will take the time to make sure u understand the material, if not in lecture, then after in his office. Gives very challenging homework sets that take days to do, but he believes in hard homework and simple tests, and he sticks to this. If u can do the HW u'll nail the mid + final.
+
+--- Rating #6 ---
+Class: PHYS255
+Date: 2011-12-26 10:45:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great Prof!! I learned a lot.  Lectures were really great. He is very helpful and friendly. Demo were great, too. Ok, assignments and tutorial were not easy, but don't worry to much about them, just try to do your best (this class really deserve it) and enjoy learning. He is one of the best teacher in SFU
+
+--- Rating #7 ---
+Class: PHYS126
+Date: 2007-04-12 14:58:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Really nice guy, really enthused about the material and very knowledgeable.  Unfortunately, highly overestimates the abilities of the class.  Lectures are somewhat baffling, homework is difficult and plentiful.
+
+--- Rating #8 ---
+Class: PHYS126
+Date: 2007-03-20 17:39:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Very challanging course- but prof really helpful and willing to help with with assignemnts- runs tutorials and always hangs around for a couple hours after for questions- not a course for those not wlling to put in alot of time- but great prep for physics majors. Fun class- lots of cool demos- never had so much fun with liquid nitrogen in my life!!

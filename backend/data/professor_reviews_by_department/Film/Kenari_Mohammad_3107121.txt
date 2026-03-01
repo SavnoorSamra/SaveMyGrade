@@ -1,0 +1,24 @@
+Professor: Mohammad Kenari
+Professor Legacy ID: 3107121
+Professor ID: VGVhY2hlci0zMTA3MTIx
+Department (CSV): Film
+Department (Fetched): Film
+Avg Rating: 2
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: CA135
+Date: 2025-12-10 23:51:52 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+very thick accent that makes the lecture hard to understand, and he is not terribly engaging. i had marks docked for not showing up to class despite showing up to every lecture.

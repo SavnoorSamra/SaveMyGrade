@@ -1,0 +1,271 @@
+Professor: Sarah Johnson
+Professor Legacy ID: 869335
+Professor ID: VGVhY2hlci04NjkzMzU=
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 3
+Avg Difficulty: 3.5
+Num Ratings: 84
+Would Take Again Percent: 47.541
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: phys120
+Date: 2025-10-01 05:51:11 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This course was almost completely taught through the mandatory pre lecture videos that were assigned before each class. The actual lectures were mostly spent going over specific examples and no actual explaining or teaching seemed to happen. Tests were extremely difficult, but they would curve if everyone did poorly.
+
+--- Rating #2 ---
+Class: PHYS100
+Date: 2025-06-25 21:39:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+super sweet and doesnt go too fast. Definitely recommend, she explains things well :). Also tries to help as much as possible with examples and office hours and review sessions.
+
+--- Rating #3 ---
+Class: PHYS100
+Date: 2025-06-24 06:31:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+this course wasn't hard at all, she made good explanations and was very clear on what would be on tests. there was no midterm and marking was very fair. attend lectures because she uses iClicker
+
+--- Rating #4 ---
+Class: PHYS100
+Date: 2025-05-15 04:02:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+pretty easy A, just attend lectures, every week homework and pretty hard, but midterms and finals are not that hard once you finish the prep materials
+
+--- Rating #5 ---
+Class: PHYS100
+Date: 2025-05-10 05:34:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr Johnson is actually an adequate prof. I found her explanations easy to understand, tests were fair (no midterm) and final was fair as well. She never made any trick questions and was clear on her expectations for the class
+
+--- Rating #6 ---
+Class: PHYS100
+Date: 2025-05-03 08:09:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I hate physics but Dr. J made it bearable (enjoyable, even!). She loves physics which translates to her teaching. Lecture slides are easy to understand and light, and she does lots of examples in class. Practice midterms and exam are very similar to the real thing. Lots of homework, but doable. She is so sweet, I definitely recommend her classes!
+
+--- Rating #7 ---
+Class: phys120
+Date: 2025-04-30 22:28:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures were organized and straightforward. She would often do clicker questions and go over examples which was helpful. Tests are far more difficult than the homework and practice tests but she scales marks pretty generously.
+
+--- Rating #8 ---
+Class: PHYS100
+Date: 2025-04-27 19:15:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+There's a lot of homework but I suggest redoing achieve questions to practice for her exams. Professor Johnson is a good professor and she is clearly very passionate in what she does and I strongly suggest taking a class with her if you can.
+
+--- Rating #9 ---
+Class: phys120
+Date: 2025-01-03 03:14:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+DO THE HOMEWORK. Her tests are easy if you do the homework and fully understand it. She loves helping students so go to office hours and I find what she says in office hours is more easy to understand from what she says during lectures. If you can't meet her during her office hours she also answers questions on canvas.
+
+--- Rating #10 ---
+Class: phys120
+Date: 2024-11-27 21:17:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is very easy to talk to, she will help you with your questions outside of class time, and has many office hours. She is good at explaining problems.
+
+--- Rating #11 ---
+Class: phys120
+Date: 2024-08-20 20:50:04 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Really hard to sit through lectures, her explanations weren't easy to understand. Midterms and finals are reasonable. def wont take anything with her again if possible.
+
+--- Rating #12 ---
+Class: PHYS101
+Date: 2024-08-19 18:01:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I would rather work at walmart than take another class with sarah johnson.
+
+--- Rating #13 ---
+Class: phys120
+Date: 2024-04-14 23:44:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Johnson is a really good teacher. There is a lot of HW though, but I think that's every physics class. Just try not to skip lectures, because she uses iclicker polls in class. Course load is pretty heavy though so be prepared. Dr. Johnson is pretty chill though, she'll help with any question you have.
+
+--- Rating #14 ---
+Class: phys120
+Date: 2024-04-12 06:26:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The homework is tough, and do expect to spend hours on a single question, but as long as you like physics it is all good practice (I say this with a 65%). Dr. Johnson gets straight to the point. She has a discussion page where her students can ask her anything and she responds to all of them in a timely manner.
+
+--- Rating #15 ---
+Class: phys120
+Date: 2024-04-11 22:17:30 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+she sounds like she's crying
+
+--- Rating #16 ---
+Class: phys120
+Date: 2024-02-12 05:47:46 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Her lectures were not helpful, she doesnt engage with the class as much as other profs do. An ungodly amount of homework, and do not miss lectures or tutorials or else you will lose a grade because of iClicker and Tutorial Attendances. Hard to reach outside class and very condescending, Overall, just strengthened my distaste for physics even more.
+
+--- Rating #17 ---
+Class: phys120
+Date: 2024-01-25 21:06:33 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This class has an unreasonable workload. There are 4 mandatory classes/tutorials to show up to every week. There are 2 prelectures which are not too bad to complete. However every week there are 9-12 assignment questions. They are very difficult and no similar questions to what appears on the assignments are covered in class. Plus a tut question.
+
+--- Rating #18 ---
+Class: PHYS121
+Date: 2023-05-10 03:31:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very average experience and decent prof. Exams were tough to finish on time but it was curved nicely.
+
+--- Rating #19 ---
+Class: PHYS101
+Date: 2023-02-04 08:01:45 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I feel fairly indifferent towards prof Johnson. I think the way she structured tutorials and assigned homework was very helpful in making sure I did enough practice for the exams. But at one point it became too much for me and I started to skip and miss deadlines. I found this course extremely challenging but also I'm just bad at physics.
+
+--- Rating #20 ---
+Class: PHYS101
+Date: 2023-01-09 20:29:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Johnson made physics feel not as scary is physics usually feels. She does move fast through topics, but she does it well. Very considerate/helpful when talking to her about progression through physics in university.

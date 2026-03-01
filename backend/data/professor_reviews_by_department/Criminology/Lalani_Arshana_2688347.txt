@@ -1,0 +1,11 @@
+Professor: Arshana Lalani
+Professor Legacy ID: 2688347
+Professor ID: VGVhY2hlci0yNjg4MzQ3
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

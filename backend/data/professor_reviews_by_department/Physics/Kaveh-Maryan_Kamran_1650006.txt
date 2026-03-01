@@ -1,0 +1,24 @@
+Professor: Kamran Kaveh-Maryan
+Professor Legacy ID: 1650006
+Professor ID: VGVhY2hlci0xNjUwMDA2
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: PHYS1
+Date: 2011-12-08 17:13:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very helpful

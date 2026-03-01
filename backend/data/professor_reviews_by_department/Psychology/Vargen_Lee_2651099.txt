@@ -1,0 +1,50 @@
+Professor: Lee Vargen
+Professor Legacy ID: 2651099
+Professor ID: VGVhY2hlci0yNjUxMDk5
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 2.3
+Avg Difficulty: 4
+Num Ratings: 3
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: 379
+Date: 2023-12-21 20:18:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lee is super caring and accommodating. However, lectures are unbearably heavy. 130-150 slides per lecture that are sped through pretty quickly. Averages were quite low for the final exam and the project, thankfully grades were curved because of this. I ended up doing well but I wouldn't put myself through that again.
+
+--- Rating #2 ---
+Class: 379
+Date: 2023-12-15 20:14:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I enjoyed the class and the material, the mock assessment was a different writing assignment than what you normally would do for other classes but it was interesting, it was graded a bit hard, thankfully it was curved. Lectures were heavy, slides range from 130-150 per week it was a bit too much to study. I still recommend and would take him again
+
+--- Rating #3 ---
+Class: 379
+Date: 2023-12-14 21:26:53 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Thought I was going to enjoy this class but the material was too dense and he just read off word for word his 150+ slides. This made it hard to study for the final (70% average). Final assessment was terrible, they expected too much from us, graded harshly and didn't provide us with clear instructions (60% average). Thankfully this class was curved

@@ -1,0 +1,24 @@
+Professor: Elizabeth MacDonald
+Professor Legacy ID: 1790718
+Professor ID: VGVhY2hlci0xNzkwNzE4
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BUS251
+Date: 2013-03-22 16:12:23 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+makes the class more boring than it already is. tough exams.

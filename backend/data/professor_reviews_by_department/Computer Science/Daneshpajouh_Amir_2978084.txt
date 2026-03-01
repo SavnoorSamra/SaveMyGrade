@@ -1,0 +1,271 @@
+Professor: Amir Daneshpajouh
+Professor Legacy ID: 2978084
+Professor ID: VGVhY2hlci0yOTc4MDg0
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1.2
+Avg Difficulty: 4.7
+Num Ratings: 43
+Would Take Again Percent: 6.9767
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: Cmpt125
+Date: 2026-01-20 10:02:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This man was fired from BCIT after one term of teaching. Heed my warning, he's the most unorganized and unknowledgeable instructor I have ever met in my entire life. He is also a c*ward that tried to hide behind his union, but even they couldn't protect him. If he is still teaching at SFU, absolute SHAME on the CS department for hiring this man
+
+--- Rating #2 ---
+Class: Cmpt125
+Date: 2025-03-01 01:51:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Terrible prof! Reads directly off the slides and still doesn't seem to know what he's saying. You're better off skipping lectures and reading the slides yourself. Assignments were full of mistakes, and kept changing them last minute. HW was tough, midterm was brutal, and the final? Copy-pasted from the practice exam since the average was so bad. &#128681;
+
+--- Rating #3 ---
+Class: Cmpt125
+Date: 2024-09-17 21:40:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This professor is so hard PLEASE DO NOT TAKE, IT CAUSED ME SO MUCH OF A HEADACHE
+
+--- Rating #4 ---
+Class: Comp7035
+Date: 2024-09-06 21:00:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures are literally him reading from a textbook, and he's not even reading it well.
+
+--- Rating #5 ---
+Class: Cmpt125
+Date: 2024-05-29 03:48:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+The professor demonstrated a lack of organising ; he frequently announced that assignments would be posted but delayed their release by 2-3 days, and even then, only posted portions of them. The professor dropped the class a month before the final exam and released the last assignment on the final day, leaving no opportunity to appeal for grades.
+
+--- Rating #6 ---
+Class: Cmpt125
+Date: 2024-05-29 03:40:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+The professor demonstrated a lack of organization; he frequently announced that assignments would be posted but delayed their release by 2-3 days, and even then, only posted portions of them. For the first assignment, he requested materials only after we had completed the work. Additionally, the teaching assistants were unhelpful.
+
+--- Rating #7 ---
+Class: Cmpt125
+Date: 2024-05-27 23:34:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Work was only given back at the end of semester. Questions about tests/assignments couldn't be answered right away cus he just follows the other prof's outline of the course. Spends too much time on easy topics. Waits for students to answer questions and if no one volunteers he calls on a random person. He seems like a nice guy but not a good prof.
+
+--- Rating #8 ---
+Class: Cmpt125
+Date: 2024-05-09 13:11:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prof wasn't great. He read off of janice's slides which were a huge mess. Assignments were long and confusing. They also had a lot of mistakes and the grading criteria wasn't always clear plus they weren't marked until the semester was over. the quizzes were also marked really weird bc the TA's ran out of time and basically gave up. final was fair.
+
+--- Rating #9 ---
+Class: Cmpt125
+Date: 2024-04-29 07:13:16 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Look, I really tried to give him the benefit of the doubt, but here just was simply no way I could ignore all the glaring issues that popped up, whether his fault or not. Honestly, I don't really blame him, some of us first years suck and he had some health issues pop up. He tried, kind of, at the end, I'll give him that. TAs were terrible, though.
+
+--- Rating #10 ---
+Class: Cmpt125
+Date: 2024-04-25 20:01:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Was a new sessional so didn't have any of his own slides or assignments. Basically copied Janice and did whatever she did. Lectures were boring and unengaging since he just read off of Janice's slides. Assignments were always unclear and we only got them back after the semester ended. This class was extremely frustrating but he was nice at least...
+
+--- Rating #11 ---
+Class: Cmpt125
+Date: 2024-04-24 21:45:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amir is an amazing professor and he teaches every material with passion. He is very kind and always answers students' questions to the best of his ability. He always likes to pay attention to students' comments and match his teaching method to what students find best. Overall, he is very knowledgeable and pays attention to student's concerns.
+
+--- Rating #12 ---
+Class: Cmpt125
+Date: 2024-04-24 00:11:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amir did his best with Janice's flawed materials, this is his first sem teaching so he will only get better as he develops his own content. What you read about Janice IS true, avoid! But Amir really tried and was understanding, even tho serious health issues meant he was AFK by the end of the course.
+
+--- Rating #13 ---
+Class: Cmpt125
+Date: 2024-04-18 12:07:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Our prof left us alone on finals to go to mexico
+
+--- Rating #14 ---
+Class: Cmpt125
+Date: 2024-04-16 05:43:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Would not recommend at all. Does not reply to emails. Assignments instruction very unclear. Material on assignments not even taught yet. Uploads assignment days after when it was supposed to be uploaded. Reads of slides in class. Grading of assignments very bad. Had a big assignment and a quiz on the week of finals.
+
+--- Rating #15 ---
+Class: Cmpt125
+Date: 2024-04-04 01:20:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+We are cooked! Avoid.
+
+--- Rating #16 ---
+Class: Cmpt125
+Date: 2024-03-25 20:30:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Literally everything about this course is flawed. He just keeps reading off the slides in a monotune, torturous voice. Assignment descriptions are like ancient inscriptions written by a bunch of extragalactic aliens. I'd recommend taking it 10/10 if you would like to age 20 years in 4 months and go bald.
+
+--- Rating #17 ---
+Class: Cmpt125
+Date: 2024-03-18 17:57:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Bro can't reply to emails, acknowledge his mistakes or even ***** change the assignment due date after sending the assignment weeks late. Never ******** take this professor.
+
+--- Rating #18 ---
+Class: Cmpt125
+Date: 2024-03-18 05:46:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The worst university experience you can possibly receive. Easily the least competent teacher I will ever encounter during my degree.
+
+--- Rating #19 ---
+Class: Cmpt125
+Date: 2024-03-17 01:42:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This class is outrageous. After posting the input and output files for assignment 2 a week before the deadline, he refused to extend the deadline, we still don't have the functions 4 days before early deadline. We are forced to do this assignment during the weekend and the week of our midterm and a quiz. It is not our fault that it was posted late.
+
+--- Rating #20 ---
+Class: Cmpt125
+Date: 2024-03-17 01:22:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Posts assignment 2 pdf nearly 2 weeks late. Extends due date by 1 week(into week we have midterm and quiz). Many days go by until he finally posts input files(critical), 5 days before the new early due date. Many students ask him to adjust due date to account for his errors. He says no. Still hasn't posted needed functions(4 days before due date).

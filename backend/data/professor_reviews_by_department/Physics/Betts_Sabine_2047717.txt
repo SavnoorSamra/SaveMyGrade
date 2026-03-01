@@ -1,0 +1,232 @@
+Professor: Sabine Betts
+Professor Legacy ID: 2047717
+Professor ID: VGVhY2hlci0yMDQ3NzE3
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 4
+Avg Difficulty: 2.7
+Num Ratings: 17
+Would Take Again Percent: 77.7778
+
+Ratings Count Returned: 17
+
+--- Rating #1 ---
+Class: PHY140
+Date: 2025-04-03 18:37:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She literally made me hate Physics this semester. I wont be taking with her again. I took PHY140 with her because i saw the rating on this website i am regretting. Do not take with her. Too much homework.
+
+--- Rating #2 ---
+Class: PHY140
+Date: 2024-04-21 20:55:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is a solid prof that explains concepts well, her midterms are heavily based on prelectures, reports, and assignments. The only criticism I levy against her is the large proportion of assignments required to be finished. I tried to finish them ASAP at the beginning of the semester but it was a lost cause. So I used it as finals practise instead.
+
+--- Rating #3 ---
+Class: PHY140
+Date: 2022-04-19 01:05:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+she's great do remember to do the prelecture in advance so you can follow her
+
+--- Rating #4 ---
+Class: ILSA101
+Date: 2021-08-21 04:26:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+Sabine teaches good. This course is really easy. You just need to listen to the videos and write notes. You will get a good score easily .
+
+--- Rating #5 ---
+Class: PHYS140
+Date: 2021-06-11 21:48:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Dr. Sabine was one of the best Prof I had. Dr. Sabine really responds to your questions and your doubts and also you can ask for an appointment outside of the class in addition to office hours if there are any other questions. Assignments are beneficial and help you to absorb the concept better.
+
+--- Rating #6 ---
+Class: PHYS140
+Date: 2020-12-24 10:59:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+An amazing professor who can explain very well and clarifies all doubts that I had. If you can I recommend to take her class. She is really good with the basics and can surely build a good foundation for physics.
+
+--- Rating #7 ---
+Class: ILSA101
+Date: 2020-11-16 18:06:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+This class wasn't very useful for me personally but the way she taught it was amazing. Useful videos and lectures, explained and answered questions from students on all topics and was in general nice and understanding.
+
+--- Rating #8 ---
+Class: PHYS140
+Date: 2020-05-01 08:48:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I would like to say that if you take Sabine Betts as your teacher in this course, do finish the homework IN TIME. I did not do the homework in time, so my marks were cut heavily. The way she taught my class was fine and engaging. He grading scheme is not that tough. If you ask her any questions, she would answer them to the best of her ability.
+
+--- Rating #9 ---
+Class: PHYS140
+Date: 2019-04-10 02:36:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Have a look at one of the books she recommends and it is an A+.
+
+--- Rating #10 ---
+Class: PHYS102
+Date: 2016-02-05 19:50:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Just do her homework,  mastering physics, and review her lecture notes. Some questions on the exam are very similar to homework questions. Easy for a physics class.
+
+--- Rating #11 ---
+Class: PHYS102
+Date: 2016-01-23 16:37:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Easiest class ive ever taken, easy tests, easy homework, literally giving you free marks. if youre not doing good in her class its not her, its you. i put 2 hrs a week max into her class and  got an A. and shes hot af
+
+--- Rating #12 ---
+Class: PHYS102
+Date: 2015-12-22 21:04:52 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Terrible. Online homework nearly unrelated to the exams
+
+--- Rating #13 ---
+Class: PHYS102
+Date: 2015-12-17 21:20:04 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Experiments weren't always successful but as far as explaining material, pretty good compared to other physics profs. Organised lectures, but an excessive number of mastering physics questions each week, with sometimes  repeated or extremely similar questions asked more than once, which was frustrating considering the homework is graded.
+
+--- Rating #14 ---
+Class: PHYS102
+Date: 2015-12-16 23:15:14 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Sabine is a nice teacher but she's also very boring, her voice is monotone which doesn't make the class seem interesting nor professional. Tutorials were okay but were not really that helpful as every session was not long enough with the amount of questions per week. The online homework was nearly irrelevant as the midterms were mostly conceptual.
+
+--- Rating #15 ---
+Class: PHYS102
+Date: 2015-12-15 22:56:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Lectures are very clear and have some cool experiments/ humor to them. Exams have no tricks and were very fair, and honestly this course was much easier than 101 for me. She will always stop to further explain something further in class, and the tutotials/HW is well related. I enjoyed physics for the first time when I took it with her.
+
+--- Rating #16 ---
+Class: PHYS102
+Date: 2015-12-13 00:33:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Sabine's a lovely prof. Straight-forward and always listens when students are confused. Grading and exam contents are fair, but not on the easy side. Her notes provide pretty much everything you need to know. Attendance is mandatory for i-clicker marks. Understand the weekly homework and tutorial, you will do just fine. Really enjoyed this course.
+
+--- Rating #17 ---
+Class: PHY140
+Date: 2015-12-12 22:47:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Amazingly fun professor, teaches materials really well, and is really good at explaining everything including questions you might have. Uses sarcasm and sometimes jokes a little to cheer up the class. As long a you pay attention. She's more then alright. 10/10 would take again if I had a chance to.  But if you skip class. You won't pass.

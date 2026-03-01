@@ -1,0 +1,50 @@
+Professor: Kari Marken
+Professor Legacy ID: 1337593
+Professor ID: VGVhY2hlci0xMzM3NTkz
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.5
+Avg Difficulty: 2.3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: ASTU204C
+Date: 2019-05-24 19:47:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Loved Kari's passion for teaching and accessibility to students. Knows how to engage students with the material - I've never played theatre games in university lecture before! Definitely a unique professor to student experience!
+
+--- Rating #2 ---
+Class: FALX99
+Date: 2009-11-10 07:34:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+justt woooowww. where do i start&#63;&#63; this prof is amazinggg she makes everything interesting and useful. she is just great the best prof i have ever had in my life. she is so nice, funny and undrestanding
+
+--- Rating #3 ---
+Class: EDUC100
+Date: 2009-10-16 21:15:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Kari was FANTASTIC.  She has an absolute passion for education and it clearly shows!  She is willing to go above and beyond her duties as an educator, and she is willing to listen to various points of view. If you want to be an educator, taking this class will change your perspective on pedagogy, from both the student and teacher perspective!

@@ -1,0 +1,271 @@
+Professor: Ataman  Avdan
+Professor Legacy ID: 2088246
+Professor ID: VGVhY2hlci0yMDg4MjQ2
+Department (CSV): Sociology
+Department (Fetched): Sociology
+Avg Rating: 4.5
+Avg Difficulty: 2.9
+Num Ratings: 39
+Would Take Again Percent: 88.8889
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: SOCI110
+Date: 2025-05-22 01:26:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Worst professor i have ever seen in Columbia college. I will not recommend this professor to weak students those who are not able to meet his expectations. Very strict professor, exams level are very high. He does partiality with students who are backbenchers or are shy to speak in class. Worst professor ever ,don't know how to deal with students
+
+--- Rating #2 ---
+Class: SOCI110
+Date: 2024-12-18 04:27:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very strict and expect a lot from students even knowing that students have very busy schedule want them to participate too much and even expects from weak students and very partial professor
+
+--- Rating #3 ---
+Class: SOCI110
+Date: 2024-12-15 16:32:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Very good professor
+
+--- Rating #4 ---
+Class: SOCI110
+Date: 2023-08-20 20:45:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I will recommend everyone to go for this professor. You just need to attend his  lectures and give attention in class. He is pass you with a very good grade.
+
+--- Rating #5 ---
+Class: SOCI110
+Date: 2023-01-25 04:05:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+so strict and very bad at grading
+
+--- Rating #6 ---
+Class: SOCI110
+Date: 2023-01-04 22:11:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is very strict
+
+--- Rating #7 ---
+Class: SOCI110
+Date: 2022-09-12 05:01:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is nice and amazing prof. I would recommend everyone to go for him. Yeah, achieving a higher grade is easy. You just need to attend his classes and participation also matters a lot. All his quizes and exams are within his lectures and notes. You just need to go through a topic and lectures he taught in class. He is just Superb. No words for him.
+
+--- Rating #8 ---
+Class: SA250
+Date: 2022-09-07 22:52:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If you like sociology then you must take this professor. He is very knowledgeable and he is always ready to help students.
+
+--- Rating #9 ---
+Class: SA250
+Date: 2022-04-15 20:00:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is literally the BEST prof at sfu in sociology department. Everything that he taught in his class I still remember most of the concepts and its been about a year now. I still look back at notes that I took from his lectures to recall concepts for other SA courses. I would love to take a class with him again!! His lectures are amazing.
+
+--- Rating #10 ---
+Class: SOCI110
+Date: 2022-01-07 01:25:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I JUST WANT TO SAY... WHAT ARE YOU WAITING FOR?????? JUST TAKE HIS CLASS!!!!!!!!!!!!
+
+--- Rating #11 ---
+Class: SA326
+Date: 2021-09-30 10:12:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Ataman is an amazing prof with a good sense of humour. Topics discussed are interesting and class was fun to attend despite not being mandatory.
+
+--- Rating #12 ---
+Class: SA150
+Date: 2021-09-23 11:36:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Professor Avdan is one of the best teachers I've ever had. He is very understandable and reachable outside of class time. Also had a great T.A as well! Lectures were easy to digest and the textbook source was aligned with the lecture material. Definitely recommend.
+
+--- Rating #13 ---
+Class: SA150
+Date: 2021-09-04 21:36:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Dr. Ataman was a great lecturer, and his class structure was effective. TA's were available when needed. Despite it being an online class, they attempted to make it engaging. Genuinely enjoyable class to take.
+
+--- Rating #14 ---
+Class: SA250
+Date: 2021-08-19 22:50:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He is a really good professor, explains the concept very well, easy A, period.
+
+--- Rating #15 ---
+Class: SA150
+Date: 2021-08-15 00:11:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Very motivating and inspiring. The topics covered are very engaging, everything is rightly organized. He will not try to tell you what is right and wrong but will simply leave you with thoughts.
+
+--- Rating #16 ---
+Class: SA150
+Date: 2021-08-15 00:03:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: True
+Comment:
+Awesome professor!!! I simply love him and his passion for sociology. He's caring and understanding. Just the right kind of professor to teach sociology. It's like he was made for this.
+
+--- Rating #17 ---
+Class: SA371
+Date: 2021-04-24 06:27:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very caring, classes are incredibly engaging. He really loves the materials he teaches, as well as his field of study and related research. Very enthusiastic, respectful, and empathetic. Exams can be difficult BUT if you take clear notes on the readings and understand the concepts you will have no issues. He is very approachable and kind.
+
+--- Rating #18 ---
+Class: SA315
+Date: 2021-03-24 11:28:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+He is the best professor in the sociology department at SFU. He's absolutely fantastic and I love his lectures. Nothing but positive things to say about him. Take the course already!
+
+--- Rating #19 ---
+Class: SA371
+Date: 2021-02-23 10:16:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Ataman is just amazing. Down to earth. Funny, relaxed &amp; real. The overwhelming positive feedback here is a testament to how cool he is. What are you waiting for? Take his class!!
+
+--- Rating #20 ---
+Class: SA315
+Date: 2021-01-09 21:12:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Ataman is a terrific human being. Online discussion posts were mandatory while live participation wasn't, but it made the class experience much better. He builds on the material, works to keep students engaged, encourages student feedback and discussion, and genuinely cares about what and who he teaches. Very friendly and approachable.

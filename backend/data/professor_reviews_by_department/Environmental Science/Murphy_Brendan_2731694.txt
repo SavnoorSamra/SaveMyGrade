@@ -1,0 +1,273 @@
+Professor: Brendan Murphy
+Professor Legacy ID: 2731694
+Professor ID: VGVhY2hlci0yNzMxNjk0
+Department (CSV): Environmental Science
+Department (Fetched): Environmental Science
+Avg Rating: 4.3
+Avg Difficulty: 2.9
+Num Ratings: 35
+Would Take Again Percent: 77.1429
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: EVSC305
+Date: 2025-12-09 05:04:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Honestly a fine teacher if it wasn't for the grading. Insanely harsh grading with vague rubriks that leave so much up to personal interpretation. I don't think even he could create the quality of work he is expecting for this course.
+
+--- Rating #2 ---
+Class: EVSC460
+Date: 2025-10-29 04:35:11 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Brendan is nice, but does takes forever to hand back assignments. He is not very accessible outside of class and marking is very unclear and vague.
+
+--- Rating #3 ---
+Class: EVSC100
+Date: 2025-05-01 21:16:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+It's an okay class if you're able to balance your time for each week's activities. Discussion response due Fridays (participation marks) + tutorial assignments due Sundays. The tutorials require reading that week's course material and being able to analyze information to complete the tutorial assignments. Midterm/final was in person, all MC's.
+
+--- Rating #4 ---
+Class: EVSC100
+Date: 2025-04-30 02:49:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: True
+Comment:
+the prof was really nice and his lectures were organized nicely. there's weekly tutorials and assignments which were pretty straightforward. midterm and final  was all mc but questions weren't the easiest. but overall a fair class
+
+--- Rating #5 ---
+Class: EVSC100
+Date: 2025-04-28 19:57:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Solid choice for SFU students looking to fulfill their Science Breadth graduation credit requirements. In class and tutorial assessments were clear and doable but the exams were considerably more tricky and difficult. Overall, a wonderful professor that made the course as exactly as it was in terms of grading, expectations, and material.
+
+--- Rating #6 ---
+Class: EVSC100
+Date: 2025-04-28 00:18:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very good professor, lectures are short and informative, grading is very fair. I found his exams (all MCQs) easy to pass but hard to ace in that sense. However, assignments and participation marks definitely carry, so getting a good mark is doable for sure. Attend tutorials and study slides religiously for exams, flashcards for sure.
+
+--- Rating #7 ---
+Class: EVSC100
+Date: 2025-04-25 00:39:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He included a freebie question as the last question on the final (the answer was given as it was the only choice on the MCQ). For that, I will say if you're reading this, I love you Brendan!!
+
+--- Rating #8 ---
+Class: EVSC100
+Date: 2025-04-24 17:01:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+You can't really ask for more, Dr. Murphy made the course exactly as it was meant to be, a light intro to environmental science concepts. Study definitions hard, they appear extensively on exams. Exams are fair.
+
+--- Rating #9 ---
+Class: EVSC100
+Date: 2025-04-24 02:30:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+This class has been really chill. It's been fun learning from his online lectures. Highly recommend this class as the workload isn't demanding at all, and the content can be interesting if you're invested enough
+
+--- Rating #10 ---
+Class: EVSC100
+Date: 2025-04-23 22:28:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I thought evsc 100 was exactly what it needed to be! Murphy's online lectures were clear and informative while remaining concise and only 30-45 minutes each. His assignments are well organized and he is very transparent about his expectations for exams. This course is a great option for non-science majors who are looking for a science credit.
+
+--- Rating #11 ---
+Class: EVSC100
+Date: 2025-04-23 22:06:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He is a great prof. Explains stuff very clearly, and the Canvas course is quite organized too. Exams are also very straightforward.
+
+--- Rating #12 ---
+Class: EVSC100
+Date: 2025-04-15 10:55:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Solid elective to take if you can handle a bit of reading and analysis. Brendan is really chill too, and the assessments are pretty doable. The midterm was a bit iffy, but overall I'd still recommend the class
+
+--- Rating #13 ---
+Class: EVSC100
+Date: 2025-04-03 09:39:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He is very chill, really good professor
+
+--- Rating #14 ---
+Class: EVSC100
+Date: 2025-03-31 06:48:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Straightforward class, relatively fair exams, and I found the content interesting. Only con is that his communication isn't very good, the midterm took nearly 5 weeks to come back due to scantron issues, and he never communicated that with us. Rarely posts announcements or keeps us informed. Good class, okay ish prof.
+
+--- Rating #15 ---
+Class: EVSC100
+Date: 2025-03-24 04:05:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+The class itself is easy: weekly modules that take a couple hours to go through, plus a tutorial assignment. Study terms thoroughly, they definitely appear on the exams. The one con is that he still hasn't released our midterms even though we wrote them almost a month ago :(
+But the course itself is good.
+
+--- Rating #16 ---
+Class: EVSC100
+Date: 2025-02-28 09:12:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Love this Prof! He's very kind and helpful. The course isn't terribly difficult either - tutorial assignments (35% of the grade) are very straightforward and basically free marks. Some questions on the midterm were tricky, but overall it was very fair. I'd recommend the course with Dr. Murphy to anyone!
+
+--- Rating #17 ---
+Class: EVSC100
+Date: 2025-02-17 06:14:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Honestly this is probably the most boring elective I have taken in my two years at SFU. The instructions under tutorial assignments are so vague and one has to keep switching and referring back to quiz and multible tabs for almost every question. It's riduculously annoying. Sometimes the graphs and websites used are so difficult to navigate as well
+
+--- Rating #18 ---
+Class: EVSC100
+Date: 2025-02-03 00:41:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This course is really enjoyable - weekly modules that contain articles, an online tutorial assignment, and some engagement activities. Prof Murphy is very organized and has all of the resources ready for each module, and the resources are very helpful. Tutorial assignments are very fair. Overall, this course is great for learning about environment!
+
+--- Rating #19 ---
+Class: EVSC305
+Date: 2024-12-03 20:00:10 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Interesting & informative lecturer, but not good at communicating - critical information can easily be missed because it's revealed at weird times or with little announcement.
+Maybe the fault of the cirriculum, but grading was unclear. Everyone I talked to lost ~25 points on one early assignment due to a rule that we weren't told about beforehand.
+
+--- Rating #20 ---
+Class: EVSC100
+Date: 2023-04-26 17:56:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Lectures were always posted on time and they were well edited. Tutorial assignment and weekly engagement activities were always fair and relatively not too difficult. Overall an easy and fun course to take. The TA was also very nice and it was a pleasure to go to tutorials. There is no final either, just two non-cumulative midterms.

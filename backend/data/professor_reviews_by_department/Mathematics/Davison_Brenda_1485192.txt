@@ -1,0 +1,274 @@
+Professor: Brenda Davison
+Professor Legacy ID: 1485192
+Professor ID: VGVhY2hlci0xNDg1MTky
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4.2
+Avg Difficulty: 3.5
+Num Ratings: 145
+Would Take Again Percent: 88.1579
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH152
+Date: 2026-01-12 02:17:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Horrendous teacher can't understand jack about her online lectures, overcomplicates everything to the extreme and Randall is somehow better.
+
+--- Rating #2 ---
+Class: MATH232
+Date: 2024-11-16 23:12:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+MATH232 with Professor Davison can be challenging, but her lectures and office hours make it manageable. Definitely use the textbook and do all the homework - it really helps. Unstuck AI was a lifesaver for exam prep too.
+
+--- Rating #3 ---
+Class: MATH232
+Date: 2024-10-20 03:16:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Favorite math prof I've had at SFU. Explains things clearly, gets straight to the point, always available to answer questions and truly seems like she cares about you succeeding and understanding. She has a passion for this and it shows, it passed onto me. No one said it's an easy course if you don't put in the work, btw. Thank you so much Brenda.
+
+--- Rating #4 ---
+Class: MATH232
+Date: 2024-08-20 20:46:01 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Pace is really fast and it is very important to grasp the first few week's material since its all built on that. Brenda's pretty good and she has past lecture recordings on youtube. Midterms and final are easier than anticipated.
+
+--- Rating #5 ---
+Class: MATH232
+Date: 2024-08-08 04:43:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Good prof, just do the work and you'll get a good grade, this is not a hard class, don't listen to anyone who tells you it is.
+
+--- Rating #6 ---
+Class: MATH232
+Date: 2024-05-27 23:43:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She is funny and knowledgeable but linear algebra is just a difficult topic to grasp. She sometimes goes too fast and her work for some examples is hard to follow. Personally, near the end of the course I just stopped trying to understand her lectures and learned from the textbook instead.
+
+--- Rating #7 ---
+Class: MATH232
+Date: 2024-05-06 23:32:08 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+She's alright, not the best prof I have had. I felt like she went too fast for some of the materials. However, she is definitely better than few other profs at the math department. You definitely need to put in your own work and practice as much as you can.
+
+--- Rating #8 ---
+Class: MATH232
+Date: 2024-04-20 12:15:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Linear algebra was the hardest class the I have ever done. However, Brenda's office hours made Math 232 less stressful. She's a very forgiving person, and does everything she can to pass every. If you want to do well in the course, you'll have to study a lot.
+
+--- Rating #9 ---
+Class: MATH232
+Date: 2024-04-19 04:26:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Math 232 is a hard class, not because of the content itself but the content is new and never before seen. However, Brenda makes it bearable through her organization and dedication. She is on time, exams are for the most part, fair and you can tell she wants you to understand the material. This class will require much of your time and dedication.
+
+--- Rating #10 ---
+Class: MATH232
+Date: 2024-04-17 17:07:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Davidson is an excellent professor, if there was a higher rating than 5 she would receive it. She is extremely knowledgeable and passionate. She explains concepts in an engaging way. Her office hours are helpful and you can tell she cares about students. She never hesitates to answer questions either. Take MATH 232 with Dr. Davidson!!
+
+--- Rating #11 ---
+Class: MATH232
+Date: 2024-04-15 20:25:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Brenda Davison is a great instructor. If you have the option to take her - do it. 
+MATH232 itself is a difficult class, but she explains concepts well and doesn't waste students' time.
+Quizzes and assignments are easy and fairly graded. Tests are hard, but still graded fairly.
+Do ALL the homework, if possible. It really helps.
+
+--- Rating #12 ---
+Class: MATH232
+Date: 2024-02-21 22:53:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Material builds on top of each other and is understandable once enough repetition is done. Professor provided good lectures and slides. Homework is good to do as it allows you to get more practice in and to understand concepts. Tests were also fair. Would take her again for future courses.
+
+--- Rating #13 ---
+Class: MATH232
+Date: 2024-02-11 21:47:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Brenda was awesome, but MATH 232 was hard, always be on top of your stuff and pratice ALOT or else its gg for you my friend. Take advantage of her office hours and AW workshops, she and her TA's are veryy knowledgable people. Overall great prof :)
+
+--- Rating #14 ---
+Class: MATH232
+Date: 2023-12-18 01:31:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+As you probably heard, MATH 232 is not easy, but Brenda was an excellent professor and made the course somewhat enjoyable. My only complaint would be that the biweekly MATLAB assignments felt a little detached from the course as they did not always have to do with exam material. If you want to do well in this course do lots of textbook questions.
+
+--- Rating #15 ---
+Class: MATH232
+Date: 2023-12-16 03:15:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Brenda's very passionate about teaching. Midterms were decently hard, but the final was relatively easier. There's lots of homework assigned (not for marks) but practice is definitely needed to do well in the course.
+
+--- Rating #16 ---
+Class: MATH232
+Date: 2023-12-16 00:23:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Brenda is absolutely amazing and super knowledgable. She makes concepts crystal clear and always gives extremely detailed, straightforward explanations. There's lots of homework and it moves fast but Brenda is concise and will teach you all the relevant stuff. I also appreciate her humour. MATLAB is easy to learn and exams were tough but fair.
+
+--- Rating #17 ---
+Class: MATH232
+Date: 2023-12-15 22:36:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+One of the best profs i have had till now, brenda is straight away the best prof for math 232. 232 is an interesting course. Loved it!
+
+--- Rating #18 ---
+Class: MATH232
+Date: 2023-12-15 10:46:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Brenda Davison is among the best professors in SFU's Mathematics Department.  What I like most about her is her ability to compress abstract ideas into understandable material using analogies or examples.  Moreover, she is always willing to listen to student concerns, is highly knowledgeable in her field, and is evidently passionate about teaching.
+
+--- Rating #19 ---
+Class: MATH232
+Date: 2023-12-15 04:21:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Brenda is an amazing professor. I would recommend her for linear algebra. Midterms can be tricky with a couple proof-type questions, but the final is straightforward and easy for the most part. Do the homework and go to class. These two tips will be more than enough for anyone to do well.
+
+--- Rating #20 ---
+Class: MATH232
+Date: 2023-12-14 02:29:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great professor which explains everything in a very intuitive way (at least to me). Made linear algebra at least bearable.

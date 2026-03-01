@@ -1,0 +1,258 @@
+Professor: Amyn Somani
+Professor Legacy ID: 3024417
+Professor ID: VGVhY2hlci0zMDI0NDE3
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.1
+Avg Difficulty: 2.8
+Num Ratings: 19
+Would Take Again Percent: 84.2105
+
+Ratings Count Returned: 19
+
+--- Rating #1 ---
+Class: BUS238
+Date: 2026-02-05 00:37:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dont expect to get a good grade if you take him as your prof
+
+--- Rating #2 ---
+Class: BUS238
+Date: 2026-02-05 00:36:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Never take this prof pls!!
+
+--- Rating #3 ---
+Class: BUS714
+Date: 2025-10-09 22:26:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Nice to have a prof. with so much real business experience. Explains things well and challenges you to think. I wish the MBA program gave us a second course with him.
+
+--- Rating #4 ---
+Class: BUS240
+Date: 2025-09-02 15:32:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best professor I've had at SFU. Brings real business experience into the classroom. Very approachable and helpful and even made himself available for an extra Zoom call outside office hours when our team needed extra help.
+
+--- Rating #5 ---
+Class: BUS240
+Date: 2025-08-11 04:19:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This course could have been simple and straightforward, but he changed the syllabus to make it far more complicated than necessary. The amount of extra, non-essential work given is overwhelming, and the class feels like a constant struggle with confusing expectations and excessive requirements. Waste of time, useless course, and need to cancel!
+
+--- Rating #6 ---
+Class: 240
+Date: 2025-08-07 23:39:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amyn himself is great. Approachable, easy-going, and fair. This course...well, SFU should reconsider it as a mandatory one. LOTS of assignments and heavy on the attendance component. Group projects also make up a good chunk of your grade so pray you get a group who cares.
+
+--- Rating #7 ---
+Class: BUS240
+Date: 2025-05-31 07:35:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Omg! He is so kind, I really enjoy every assignments and tasks he gave to us!
+
+--- Rating #8 ---
+Class: BUS240
+Date: 2025-05-19 22:59:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Really like this professor, interesting and knowledgeable, please don't miss to take with him if you see it!
+
+--- Rating #9 ---
+Class: BUS238
+Date: 2025-05-11 21:00:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best business prof. I've had at SFU. He brings practical and real business experience into the classroom.
+
+--- Rating #10 ---
+Class: BUS238
+Date: 2025-01-30 00:08:15 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amyn is a professor with real-world experience with startups and businesses and deeply cares about sharing his experience by simulating real-world business environments with his class. Be prepared to engage in group work and formulate a creative business model while directly implementing what you learn in (sometimes tedious) class to your projects.
+
+--- Rating #11 ---
+Class: 338
+Date: 2025-01-07 00:03:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+BUS 338 with Professor Somani was one of the most enriching classes I have taken at SFU. He was extremely accessible for feedback and created a welcoming environment for us to learn. I gained real-world experience preparing work for a start-up that will undoubtedly help me in my career. I recommend this class to anyone, even non-business students!
+
+--- Rating #12 ---
+Class: 240
+Date: 2025-01-01 00:00:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I had a really fun time learning in Bus 240 thanks to Mr. Somani. His lectures were always engaging and he was always helpful when answering questions or concerns. Overall the course was good and it was a pleasure to learn from him.
+
+--- Rating #13 ---
+Class: 338
+Date: 2024-12-22 01:43:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I thoroughly enjoyed being a student in Amyn's BUS 338 class. Amyn understands his students well and sets appropriate expectations for assignments. The course also offers a unique opportunity to work with real start-ups, allowing students to gain valuable, hands-on experience. I highly recommend both Amyn and BUS 338!
+
+--- Rating #14 ---
+Class: 338
+Date: 2024-12-19 20:49:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+It was a pleasure being taught by Amyn as he ensured that students were guided throughout the semester. The content taught in class were also applicable into real life scenarios. Overall, I would love to take this class again as we had the opportunity to work with actual startups where we applied with what we learned in class to help the startup.
+
+--- Rating #15 ---
+Class: 338
+Date: 2024-12-13 03:48:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+BUS 338 was such a valuable experience! Working on a real client project for a startup gave me practical insights into market research and teamwork. The course was engaging, and the instructor's (Amyn) and TA's feedback really helped me. Highly recommend it to anyone interested in hands-on learning and improving business skills!
+
+--- Rating #16 ---
+Class: 240
+Date: 2024-09-11 18:10:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Whole class is negotiating with TAs to get a better grade. Because your grade can always increase a few percent by bargaining with the TAs. Why not just give me those percentages the first time marked? Idiocracy at its finest.
+
+--- Rating #17 ---
+Class: 240
+Date: 2024-08-12 23:30:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amyn himself is a good guy, good prof. 240 is just a bad course, but it's new, so it may be improved over time. The lectures were hit & miss, but could be fun sometimes. Pray you get a good group (40% of grade). There were also big differences in how both TA's marked assignments, which caused drama. Most assignments were also pretty confusing.
+
+--- Rating #18 ---
+Class: 240
+Date: 2024-08-02 22:37:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amyn was a decent prof however it was hard to stay focused in class at times. There are no exams just two individual and two team assignments but they were a bit time-consuming. My only concern was the curve is really high which can make it hard to do well and you would often need to go to the Ta for a regrade.
+
+--- Rating #19 ---
+Class: 240
+Date: 2024-08-02 21:53:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He loves to talk about how great he is for most of the class. Group projects make up most of the grade so pray for a good group. If you dont come to class he will deduct marks for the next assignment. Class can be fun at times, but is pretty useless.

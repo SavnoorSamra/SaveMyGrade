@@ -1,0 +1,11 @@
+Professor: Alexandra B.L. Hottie
+Professor Legacy ID: 1707558
+Professor ID: VGVhY2hlci0xNzA3NTU4
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

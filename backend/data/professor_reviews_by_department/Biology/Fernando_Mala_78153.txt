@@ -1,0 +1,271 @@
+Professor: Mala Fernando
+Professor Legacy ID: 78153
+Professor ID: VGVhY2hlci03ODE1Mw==
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 3.3
+Avg Difficulty: 3.4
+Num Ratings: 79
+Would Take Again Percent: 64.2857
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BISC337
+Date: 2022-04-22 20:01:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Fernando is the sweetest and most caring professor I've ever had, her lectures are informative but fun to listen to. She also really cares about her students and makes an effort to learn their names, would highly recommend!
+
+--- Rating #2 ---
+Class: BISC337
+Date: 2021-06-14 09:45:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Mala's course is really hard. There's a lot of information. But she's very funny and fair. I liked going to her office hours because she'd provide hints on specific parts that might be tested. Studying is a must and attendance in labs and lectures are required. But hey, I much prefer a nice, organized professor than a poor one.
+
+--- Rating #3 ---
+Class: BISC100
+Date: 2020-07-24 21:48:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Just like another mediocre instructor. Show up and pass. (However, the lab provided by another instructor contains tons of attendance and pre-works, not very pleasant experience.)
+
+--- Rating #4 ---
+Class: BISC337
+Date: 2019-09-03 01:12:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This class was heavy in terms of material. But if you really try in labs, try to keep up with the class, and do the projects you will do well. Dr. Fernando gives so many bonus marks, and she's so kind and helpful to her students. She's really my favourite prof at SFU. If you skip class you won't do well. Even if it gets overwhelming, don't skip.
+
+--- Rating #5 ---
+Class: BISC337
+Date: 2019-08-21 17:51:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This class was difficult and you really had to put the effort in but she's always willing to answer questions. Her lectures are detailed and informative. I almost failed both the lecture and lab midterms but still got a solid grade in the class by reading the lectures and asking for help.
+
+--- Rating #6 ---
+Class: BIO101
+Date: 2019-04-17 05:13:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+You need to do a lot of self teaching.
+
+--- Rating #7 ---
+Class: BISC329
+Date: 2019-03-26 06:53:20 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Shes alright.
+
+--- Rating #8 ---
+Class: BISC303
+Date: 2019-03-26 06:43:50 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She's really nice and wants you to learn but her tests are HARD. If you're looking to boost your GPA it's not gonna happen with her class.
+
+--- Rating #9 ---
+Class: BISC337
+Date: 2019-03-22 23:41:23 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+You need to put in the effort but not a bad prof overall.
+
+--- Rating #10 ---
+Class: BISC337
+Date: 2018-11-09 22:58:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Mala is very friendly. She is 100% approachable all the time. However she isn't the best at lecturing. Her lectures are all over the place and aren't very cohesive. The positive side of this is that the exams are based on the lecture slides. The lab sucks, it's hard and the midterm average was 50%. Make up the marks during the lecture part. GL!
+
+--- Rating #11 ---
+Class: BISC337
+Date: 2018-04-17 13:15:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Mala is one of my favourite profs, but this course was hard. The amount of information is overwhelming and Mala sometimes wants specific answers that you can't always predict. Textbook helped at lot to bring everything from the lectures together. Labs were fun, but lab exams were intense. You need more time than usual to dedicate to this course.
+
+--- Rating #12 ---
+Class: BISC100
+Date: 2017-12-05 03:33:48 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Gives extremely hard exams
+
+--- Rating #13 ---
+Class: BIO100
+Date: 2017-08-05 10:46:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Really good prof! talks a lot during labs but really cares about the subject and her students. I would recommend taking her absolutely! It will be hard, but it's biology so it's going to be a little work heavy no matter what
+
+--- Rating #14 ---
+Class: BIO100
+Date: 2016-08-22 16:44:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Mala is one of the best profs at sfu. She truly cares about her students and will explain concepts clearly during her office hours. READ AND REREAD her lecture slides for the quizzes. Overall if you try you have nothing to worry about. the labs were kind of tedious, but the lectures were not bad. Mala has a good sense of humor.
+
+--- Rating #15 ---
+Class: BISC337
+Date: 2016-05-12 17:31:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is one of my favorite prof in SFU. She is kind, thoughtful, and really cares students a lot. Going to her office hour really helps a lot so be sure to go to her office hour !! She wants her students to do well and be interest in plants. Although there are a lot of things to do, you will be enjoying it :) Textbook is definitely required.
+
+--- Rating #16 ---
+Class: BISC337
+Date: 2016-05-10 02:33:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+It is easy to get a good mark if you put any sort of effort in. Lowish grades come from  people who don't know what meiosis is (witnessed on someone's quiz)! Her verbal explanations can be disorganized - but it's easy to put it together as she provides SO much material in lab and her lecture slides just for you to understand basic concepts.
+
+--- Rating #17 ---
+Class: BISC337
+Date: 2016-04-03 21:07:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Took BISC337(Plant Bio) with Mala. There was no cohesiveness in lectures, and ended up making everything really confusing. Would refrain from explaining key concepts because we'd be "studying them more later", but when said "later" came, would skip it over as we'd already gone over it .
+
+--- Rating #18 ---
+Class: BISC100
+Date: 2016-02-01 19:46:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Mala is one of the best Profs I've ever had She is though let students to think critically is very helpfu. Very inspirational Love to take more classes from her
+
+--- Rating #19 ---
+Class: BISC100
+Date: 2015-12-31 02:08:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I found Mala to be a dedicated and inspiring instructor. She cares about how students learn and explores different ways of teaching. While she would run into technical issues frequently, her lectures were engaging and I looked forward to them! I had zero problems with her accent. If you don't pay attention and you don't work hard, you'll struggle.
+
+--- Rating #20 ---
+Class: BISC100
+Date: 2015-12-17 16:54:06 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I just took BISC 100 with Mala. She's a nice person, she's approachable, and she seems to have a positive attitude most of the time. However SFU doesn't pay her to be a nice person. I would say she is not a good prof. She made simple topics confusing, she was unorganized, and she did a horrible job at preparing us for the exams.

@@ -1,0 +1,24 @@
+Professor: Madison  Almond
+Professor Legacy ID: 2982615
+Professor ID: VGVhY2hlci0yOTgyNjE1
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 1
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: PSYCH379
+Date: 2024-03-23 02:46:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Its clear that she reads off a slide during her lectures and goes super fast during it. Very monotoned and not engaging. Lecture discussions are presented as just participation marks but she will mark it as incomplete even if you do it if there's a component missing from the answer. Cant be bothered with material questions when TA is non responsive

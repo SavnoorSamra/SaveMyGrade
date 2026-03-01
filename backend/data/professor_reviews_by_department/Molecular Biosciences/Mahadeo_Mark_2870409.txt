@@ -1,0 +1,11 @@
+Professor: Mark Mahadeo
+Professor Legacy ID: 2870409
+Professor ID: VGVhY2hlci0yODcwNDA5
+Department (CSV): Molecular Biosciences
+Department (Fetched): Molecular Biosciences
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

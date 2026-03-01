@@ -1,0 +1,24 @@
+Professor: Heather Gies
+Professor Legacy ID: 1658092
+Professor ID: VGVhY2hlci0xNjU4MDky
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: CMNS130
+Date: 2014-07-04 02:37:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+heather is awesome! she is makes all the information clear and concise when going through the lecture topics. my favorite TA so far.

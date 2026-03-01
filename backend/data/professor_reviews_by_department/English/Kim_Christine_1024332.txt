@@ -1,0 +1,271 @@
+Professor: Christine Kim
+Professor Legacy ID: 1024332
+Professor ID: VGVhY2hlci0xMDI0MzMy
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 3.4
+Avg Difficulty: 3.1
+Num Ratings: 29
+Would Take Again Percent: 58.3333
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENG394
+Date: 2026-01-11 01:16:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Kim was a caring professor, and her lectures were organized. However, her directions for essays were strict, and in a field such as English, they limit creativity and the writer's voice. Her feedback often left me unmotivated and made me question whether English was the right major for me.
+
+--- Rating #2 ---
+Class: ENGL112
+Date: 2021-02-02 01:42:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I took it for a requirement, skipped some lectures here and there and thankfully didn't miss much. Her readings are nice, you could make it easier for you by reading summaries before attending class. Always, always, always, know what the TA is looking for when grading, your grade is in the TA's hands. Test is decent and very fair.
+
+--- Rating #3 ---
+Class: ENG112
+Date: 2020-07-13 07:34:04 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She talks quietly so sit close if you want to know what's going on. Definitely recommend attending lectures and READ entire BOOK before coming to class. Sometimes she tells you to read a couple of chapters of a book, then she starts to talk about the ending of the book. A couple papers but if you go to office hours, it should be easy
+
+--- Rating #4 ---
+Class: ENGL207
+Date: 2020-05-11 19:05:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Dr. Kim was very helpful and accessible. Online classes can be difficult to stay on top of, but she really cares that students complete their work and receive credit. The class was challenging but definitely improved my analysis and writing, which was what I was hoping for when I enrolled.
+
+--- Rating #5 ---
+Class: ENGL112W
+Date: 2019-11-20 01:57:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Even with a mic, you cannot hear her. She speaks incredibly softly for some reason. Her lectures are super boring. The content is not interesting at all. Her reading list is terrible. All of the books are so boring and not engaging. Your grade is dependent on your TA. My TA was terrible; she spoke with a thick accent!
+
+--- Rating #6 ---
+Class: ENGL112W
+Date: 2019-10-13 01:29:10 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Her reading list was extremely boring and not engaging or interesting at all. She also talks extremely quietly during lecture (even though she's wearing a mic) so you can only hear half the things she says. She's sweet, nice, and a good teacher, but I didn't really enjoy the material or information taught in her class.
+
+--- Rating #7 ---
+Class: ENG208
+Date: 2018-02-24 03:17:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She always chooses the best reading lists! great prof very approachable and helpful for english majors/minors or who are just serious about school.
+
+--- Rating #8 ---
+Class: ENGL394
+Date: 2017-12-16 23:44:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I love her reading list. Dr Kim gave many useful suggestions on essays. But she is also a tough grader. She didn't make me feel tired of a four-hour lecture.
+
+--- Rating #9 ---
+Class: ENG357
+Date: 2017-03-21 23:16:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is a wonderfully clear lecturer who definitely makes a note to express the terms in class that she finds important and allows for an easy understanding. Participation is important but she always makes broad enough questions that are easy to answer just based on opinion. The texts were surprisingly interesting. Overall amazing class.
+
+--- Rating #10 ---
+Class: ENGL112W
+Date: 2017-02-23 00:19:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I personally found her lectures fairly interesting, she's very kind and attempts to make people laugh with small jokes which is cute. However, a few of the novels were very boring. The final is very fair if you take notes during lectures and read through them.
+
+--- Rating #11 ---
+Class: ENG112W
+Date: 2017-01-14 16:33:06 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Reading list had fairly boring books; nothing really stood out. Her lectures were also boring. Most people were not engaged, opting instead to go on Facebook or just straight fall asleep. Attendance wasn't really mandatory until she noticed how few people showed up, and then she started making us write things during lecture and hand them in.
+
+--- Rating #12 ---
+Class: ENGL112W
+Date: 2016-12-29 01:11:25 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Nice enough professor, but overall lectures were extremely boring and subjective.
+
+--- Rating #13 ---
+Class: ENGL486W
+Date: 2013-11-28 16:37:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Christine is great at facilitating discussion. She tries to be current and relevant. I have had her multiple times and have always found her to be approachable.
+
+--- Rating #14 ---
+Class: ENGL104
+Date: 2013-04-17 23:09:26 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She's a nice lady, but beware:  She is a hard marker.  Also when you ask her a question during lecture she doesn't directly answer it, she basically just asks you the same question back through a prompt and have you come up with the answer yourself.
+
+--- Rating #15 ---
+Class: ENGL104
+Date: 2013-04-07 14:39:15 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Christine seems like a nice lady, but since it's the TA's that mark our papers, I'm not really sure what kind of a marker she is. It's not necessary to go to lecture, as long as you keep up with what you need to know for tutorial. Not a bad class!
+
+--- Rating #16 ---
+Class: ENGL394
+Date: 2011-02-15 12:51:45 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She is an unfair marker who tells you one thing and marks another way.  Her concept of Diaspora is restrictive.  She does not negotiate the issues around this topic; rather you learn to regurgitate back her perspective.  She?s also not interested in current research despite the extensive discussion around the issue in Engl Lit.
+
+--- Rating #17 ---
+Class: ENGL394
+Date: 2010-12-17 17:49:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+the class was mostly discussion, but if you read the books, you'll enjoy it! she is really helpful in giving feedback and is a fair marker.
+
+--- Rating #18 ---
+Class: ENG357
+Date: 2009-04-27 14:09:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I agree with previous comments about the class needing more structure.  The class discussion was almost entirely student led.  It may not seem like it, but Christine is extremely helpul and encouraging.  She took the time to look at a draft of my final paper and gave me all kinds of helpful feedback on how I could improve it.  Overall, okay prof.
+
+--- Rating #19 ---
+Class: ENG105
+Date: 2008-05-16 14:49:40 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Her lectures were pretty boring, but I don't think it was completely her fault. The subject of the class was pretty useless. Her class was easy and clear. If you follow what she says, you'll get a good grade.
+
+--- Rating #20 ---
+Class: ENG105
+Date: 2008-04-11 00:24:06 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Lectures were useless and boring! She puts up brief notes on WebCT, so just read those for the final. Basically just read the books and go to tutorial. She seems pretty nice though.

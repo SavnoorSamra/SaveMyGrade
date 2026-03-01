@@ -1,0 +1,63 @@
+Professor: Christian Phillips
+Professor Legacy ID: 2307817
+Professor ID: VGVhY2hlci0yMzA3ODE3
+Department (CSV): Music
+Department (Fetched): Music
+Avg Rating: 4.3
+Avg Difficulty: 1.8
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: CNTRY101
+Date: 2017-11-29 02:54:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This class is the definition of awesomeness
+
+--- Rating #2 ---
+Class: CNTRY101
+Date: 2017-11-29 02:53:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+such an engaging prof who clearly has a love for the topic. highly recommended course and a grade booster
+
+--- Rating #3 ---
+Class: CNTRY101
+Date: 2017-11-29 02:48:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very engaging and makes one want to participate and learn more about the genre! I used to only be about rap but this changed my mind! 10/10 would take again. However, overparticipation is not appreciated therefore I give it a 4.
+
+--- Rating #4 ---
+Class: CNTRY101
+Date: 2017-11-29 02:44:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+great professor! makes u feel welcomed in the class country is now my favorite genre of music!

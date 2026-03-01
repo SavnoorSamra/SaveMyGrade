@@ -1,0 +1,271 @@
+Professor: Devadrita Nair
+Professor Legacy ID: 3099731
+Professor ID: VGVhY2hlci0zMDk5NzMx
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 5
+Avg Difficulty: 2.6
+Num Ratings: 27
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS232
+Date: 2026-01-05 10:26:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is an amazing teacher and has a way to simplify hard topics. On top of that she was extremely kind and approachable.
+
+--- Rating #2 ---
+Class: BUS232
+Date: 2025-12-24 08:23:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof
+
+--- Rating #3 ---
+Class: BUS232
+Date: 2025-12-21 03:27:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Shes a great prof. Very friendly and approachable for office hrs and records all lecture material, annotates notes and gives exactly what u need for the exams via summaries of what will be on the exam and provides additional practice problems for each chapter to do as practice for the exams.
+
+--- Rating #4 ---
+Class: BUS373
+Date: 2025-12-17 07:57:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great prof, easy to follow examples that make course material easy to comprehend as all the lectures are recorded. One tip I would have that isn't mentioned in other reviews is that the midterm and final averages are high so make sure you don't fall behind on those as this is a curved course. Our midterm avg was a 87.
+
+--- Rating #5 ---
+Class: BUS373
+Date: 2025-12-17 07:55:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Exams were extremely fair other than that one random fill in the blank question that was incomprehensible. Grading is as clear as glass, is accessible outside of class. Truly a generational goat.
+
+--- Rating #6 ---
+Class: BUS232
+Date: 2025-12-14 22:14:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Devadrita is a great professor! Her lecture content is extremely straight forward, and she teaches with many easy-to-follow examples that give you a good idea of what to expect on quizzes/exams. Her exams, along with 3 group assignments, were very doable if you make sure you've gone through all the practice questions provided to you in her slides.
+
+--- Rating #7 ---
+Class: BUS232
+Date: 2025-12-11 13:29:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Memorize the slides for the quizzes and do the practice questions for the exams, and you should be fine. She explains concepts that could be confusing in a very easy way and doesn't make the course feel too difficult.
+
+--- Rating #8 ---
+Class: BUS232
+Date: 2025-12-10 15:46:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+This professors explanations make the course very easy to follow and she provides a lot of practice material. The lectures are also recorded and posted. The 3 quizzes and the final are probably the hardest part of the class as I found the assignments and midterm very easy.
+
+--- Rating #9 ---
+Class: BUS232
+Date: 2025-12-07 02:21:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If you're going to take BUS 232, please take it with Professor Nair. She makes statistics, a quantitative course, straightforward to comprehend. Although the lectures are 3 hours, she makes it extremely engaging and easy to understand, making it 10x more bearable. The midterm and final are exactly like the practice questions she provides.
+
+--- Rating #10 ---
+Class: BUS232
+Date: 2025-12-03 05:56:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I really enjoyed stats with Devadrita. She has very clear lectures, provides MANY examples, and there is lots of additional practice for the exams. If you can take BUS 232 with Devadrita, do it. She cares, she's passionate, and she's engaging for the long, 3 hours lectures.
+
+--- Rating #11 ---
+Class: BUS232
+Date: 2025-12-02 03:38:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great professor. Very straight forward and easy to learn teaching style. Records lectures and posts them online which is extremely helpful. Overall easy class but the curve might get to some people as it is high.
+
+--- Rating #12 ---
+Class: BUS232
+Date: 2025-12-01 07:02:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Really hard to fail with her. Records her lectures and explains concepts as if you were 5, making it really easy to understand the concpets. The only bad thing is averages are so high, so the curve is faaaked.
+
+--- Rating #13 ---
+Class: BUS232
+Date: 2025-11-24 07:11:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Mid term was so straight forward only written questions. 3 quizzes theory based all MC. # assignments in groups you can choose. So light.
+
+--- Rating #14 ---
+Class: BUS232
+Date: 2025-11-18 22:47:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great professor. Her assignments, quizzes, and exams are really fair and straightforward. I highly recommend going to her lectures as she explains concepts very well. She also posts lecture slides, recordings, and additional practice problems. I didn't think I'd actually enjoy learning stats but she makes it intersting.
+
+--- Rating #15 ---
+Class: BUS232
+Date: 2025-11-15 19:34:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Nair is a fantastic professor! She is very good at explaining concepts to students for their level of understanding. She encourages questions and is accessible outside of class time for further clarification and help. The average is around 80% for the Midterm. I highly recommend taking any class that she teaches!
+
+--- Rating #16 ---
+Class: BUS373
+Date: 2025-11-09 18:26:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Devadrita is probably the best prof I have had at SFU! Although the concepts may initially seem difficult, her clear explanations and teaching pace make them much easier to understand; however, the midterm average is 87%. She is also incredibly smart and super nice!
+
+--- Rating #17 ---
+Class: BUS232
+Date: 2025-10-08 07:39:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Her lectures can be quite boring and she does have an accent but her midterm was only 5 written questions (of course with parts a,b,c,etc). I found the final much harder than the midterm and the group assignments are quite long but overall, pretty light class and I definitely recommend taking class with Devadrita
+
+--- Rating #18 ---
+Class: BUS373
+Date: 2025-09-21 19:15:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I don't usually write these but Dr. Nair is easily one of the best professors I have had at SFU. You are doing yourself a disservice if you dont take BUS 373 with her. She had clear, well-paced lectures with lots of in-class time for examples and working through problems.
+
+--- Rating #19 ---
+Class: BUS232
+Date: 2025-09-05 02:19:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very organized and easy to follow. Each lecture she provides practice questions with solutions and the exams are based off of those questions. She is very good at explaining concepts and shows all steps when demonstrating how to solve a problem.
+
+--- Rating #20 ---
+Class: BUS232
+Date: 2025-08-22 20:27:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Take 232 with her. Very straightforward, no bs, clear expectations and extremely fair grading and assignments. She makes a quantitative course easy. You'll regret not taking it with her.

@@ -1,0 +1,63 @@
+Professor: Michelle Pidgeon
+Professor Legacy ID: 2077375
+Professor ID: VGVhY2hlci0yMDc3Mzc1
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.8
+Avg Difficulty: 2.8
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: EDUC818
+Date: 2020-12-08 04:17:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Michelle is an amazing professor. Very knowledgeable, strong facilitator and encouraging. She creates a safe, supportive learning culture. Her classes are very engaging, full of discussion, presentations and activities that really promote learning. If you have her as an instructor, you're very lucky!
+
+--- Rating #2 ---
+Class: EDUC100W
+Date: 2017-12-08 18:51:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Michelle's class was very innovative and also engaging. She's a very understanding prof (also usually laughing with the class) who makes it easier to come to class. Nothing bad to say about her, prob the best class and best prof I will ever take!!
+
+--- Rating #3 ---
+Class: EDUC352
+Date: 2016-06-29 17:19:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great class with lots of group discussion. Recommend taking it with Michelle.
+
+--- Rating #4 ---
+Class: D100
+Date: 2016-06-20 11:45:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I loved this class. Michelle creates the course with student input. Her assignments are interesting. I learned about the practical side of teaching which allowed me to reflect on the profession as a whole. Great class, totally recommend it with her.

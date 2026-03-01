@@ -1,0 +1,271 @@
+Professor: Mark Jaccard
+Professor Legacy ID: 1720211
+Professor ID: VGVhY2hlci0xNzIwMjEx
+Department (CSV): Resource Management
+Department (Fetched): Resource Management
+Avg Rating: 4.3
+Avg Difficulty: 2
+Num Ratings: 26
+Would Take Again Percent: 87.5
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: REM350
+Date: 2023-04-01 02:12:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's a good & nice prof. Sometimes he explains things unclearly so ask the TA for help. Tests are straight memorization and understanding key concepts so it's not bad. Slides don't contain all the information so go to class cause he also tells you what might be on exams and hints about when pop quizzes are. Need to participate in tutorial for marks
+
+--- Rating #2 ---
+Class: REM350
+Date: 2022-09-29 19:16:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Jaccard was the best Prof I had in 5 years at sfu. Highly recommend taking REM 350
+
+--- Rating #3 ---
+Class: REM350
+Date: 2021-05-11 02:10:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Great lectures that were super engaging and I felt like I was learning a lot. He made it so you didn't have to be an expert in the topic to understand everything and was great at explaining. Lectures were super important for understanding content and to do well on exams. Easy assignments and exams if you pay attention in class!
+
+--- Rating #4 ---
+Class: REM350
+Date: 2021-04-28 16:58:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He talks about himself allll the time, seems very self absorbed with a super high ego. He doesnt know the actual science on a lot of things, but speaks as if hes a scientist and positions himself as one. Hes not. Has super strong biases and talks down about a lot of people. Hes clearly open minded but is drinking his own kool-aid hard.
+
+--- Rating #5 ---
+Class: REM350
+Date: 2020-09-10 19:03:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Just a total jerk. He will not be considerate or understanding if you run into any issues, even if they're to do with something like health, physical or mental.
+
+--- Rating #6 ---
+Class: REM350
+Date: 2020-05-10 06:42:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Amazing lecturer, spends extra time explaining difficult concepts so everyone understands. Make sure you go to class because he tells you what will be on the exam. Power point slides are bare-bones so take supplementary notes. He's always willing to answer questions in person or through email.
+
+--- Rating #7 ---
+Class: REM350
+Date: 2018-04-19 02:23:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Awesome. Out of my entire undergrad entering my 4th year, this is the best prof I've ever had. He's the perfect mix of just brilliant, funny, experienced, and an all-around genius. Makes his expectations clear as glass, awesome office hours and his exams are exactly what he says they are. For someone who isn't in Rem in a 300 level course? Amazing.
+
+--- Rating #8 ---
+Class: REM350
+Date: 2018-04-05 18:48:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+REM350. ABSOLUTELY THE BEST COURSE I'VE TAKEN AT SFU EVER!!! (This is my final semester). This is mostly due to the professor who is very passionate and knowledgeable about the subject. Not a very difficult course as well. HIGHLY RECCOMENDED
+
+--- Rating #9 ---
+Class: REM350
+Date: 2016-04-10 17:53:53 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Professional, well dressed, and funny. Previous comments made it seem like a GPA booster, But its not necessarily. Quizzes were challenging towards the end, and you would receive 0 if you missed tutorials. Don't take this course for an easy A, take it because your interested in oil and energy.
+
+--- Rating #10 ---
+Class: REM350
+Date: 2015-07-15 04:20:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Great class to take for an upper level elective. It did not take a lot of my study time during the semester given that it is worth 4 credits. TAs were all very nice and marking is fair.
+
+--- Rating #11 ---
+Class: REM350
+Date: 2015-04-28 19:06:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+No easy credits at SFU! This course is not hard but there are so many stuffs that you need to memorize...I got B.
+
+--- Rating #12 ---
+Class: REM350
+Date: 2015-04-26 05:31:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+One of the best courses I've taken at SFU. Jaccard is an excellent lecturer and brings a wealth of knowledge on environmental policy, economics and sustainability to the classroom. His exams are fair and this course will not only influence your future coursework, but your everyday lifestyle. A+++
+
+--- Rating #13 ---
+Class: REM350
+Date: 2015-04-16 04:16:21 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Very nice prof. He knows a lot of things about China. Midterm is fair but the surprise quiz is a killer.  Lectures sometimes are quite boring, tutorial is more helpful and fun.
+
+--- Rating #14 ---
+Class: REM350
+Date: 2015-04-10 19:38:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Mark's class is interesting and useful. He explains concept clearly. Questions are welcome in the class. Also the class discussion challenges me to think critically. Exams covered important course materials. Basically questions are from the lecture slides. Final exam covers entire course content. In all, he is a super nice professor!!
+
+--- Rating #15 ---
+Class: REM350
+Date: 2015-04-07 13:21:44 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jaccard is extremely passionate and loves what he teaches. His class is easy if you pay attention. Somehow students failed his midterm which is more of a reflection on them than Jaccard. Tutorials could be run with more emphasis on the readings as they are interesting instead of just a review of lectures.
+
+--- Rating #16 ---
+Class: REM350
+Date: 2014-06-06 17:14:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Mark is an excellent prof and REM 350 is a unique course.  The lectures are entertaining and engaging.  Tutorial debates and discussions are useful.  No textbook!  Readings provided online.  Highly recommended.  Mark's words of wisdom will stay with you long after the course is finished.
+
+--- Rating #17 ---
+Class: REM350
+Date: 2014-05-12 19:29:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Mark is an awesome prof, perhaps one of the best in SFU. Although I disagree with the comments in this forum, this class isn't simple, a lot of material to cover and his quizzes felt as if they were midterms.
+
+--- Rating #18 ---
+Class: REM350
+Date: 2014-04-26 00:53:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Mark is the best prof I had at SFU. This is hands down the easiest upper division course there is. The readings barely show up on the exams and he basically tells you during lectures what is on the exams. Midterm and final could been done in about 30 minutes but he still gives you the full time.
+
+--- Rating #19 ---
+Class: REM350
+Date: 2014-04-24 22:43:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Mark is one of the best professors I've had at SFU! His lectures are engaging (questions and discussion are encouraged) and he really cares that students learn the material. The work load for this course is extremely manageable and tests are straightforward. I highly recommend taking REM 350 with Mark!
+
+--- Rating #20 ---
+Class: BUS350
+Date: 2014-04-24 22:38:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Mark is one of the best professors I've had at SFU. His lectures are engaging (questions and discussion are encouraged) and he really cares that students learn the material. The work load for this course is extremely manageable and tests are straightforward. I highly recommend taking REM 350 with Mark.

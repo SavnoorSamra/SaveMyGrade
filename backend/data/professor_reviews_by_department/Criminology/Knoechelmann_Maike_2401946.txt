@@ -1,0 +1,245 @@
+Professor: Maike Knoechelmann
+Professor Legacy ID: 2401946
+Professor ID: VGVhY2hlci0yNDAxOTQ2
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 3.3
+Avg Difficulty: 3.6
+Num Ratings: 18
+Would Take Again Percent: 55.5556
+
+Ratings Count Returned: 18
+
+--- Rating #1 ---
+Class: CRIM438
+Date: 2025-11-27 18:16:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Avoid her if you can. Worst course at SFU and would get angry if you ask questions. She doesn't seem to be knowledgeable at all, and worse yet, grades very inconsistently. When we compared our marks, it seemed like she was grading based on how much she likes you, not what was submitted. Awful 1/10
+
+--- Rating #2 ---
+Class: CRIM414
+Date: 2022-10-18 07:27:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Terrible instructor that clearly doesn't care and plays favorites. Unclear expectations, vague instructions, and she's just plain mean. Highly recommend avoiding her at all costs.
+
+--- Rating #3 ---
+Class: CRIM1150
+Date: 2020-08-18 20:33:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+amazing teacher, relatable to students with easy and clear guidelines
+
+--- Rating #4 ---
+Class: CRIM414
+Date: 2020-04-12 03:37:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Maike is a terrible prof. She plays favorites and doesn't care about you unless you suck up to her. The course wasn't hard but I don't feel like I learned much from her.
+
+--- Rating #5 ---
+Class: CRIM414
+Date: 2019-12-11 07:44:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Maike is a fantastic sessional prof. As our seminar was mostly unfamiliar with the topic of terrorism, Maike did a great job making it comprehensive and digestible for us. The class integrated current world issues and conflicts which made it super engaging and relevant. Thanks to this class I now know what's going on in the news!
+
+--- Rating #6 ---
+Class: PSYCH2251
+Date: 2019-11-28 20:26:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Love this prof!! her lectures are interesting with videos, discussions and slides. English isn't her first language so she can stumble on words sometimes but she is easy to understand. You can tell she is really interested in her own slides and material. Would take her for crim/psych again!!
+
+--- Rating #7 ---
+Class: CRIM414
+Date: 2019-10-19 00:09:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Love love love Maike. Shes incredibly understanding and caring. She makes lectures light and funny and really easy to understand. She focuses on actually learning rather than regurgitating info so her tests are really reasonable and her marking for the group project was really easy. Would take every class with her if I could.
+
+--- Rating #8 ---
+Class: CRIM335
+Date: 2019-05-18 15:00:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Best TA ever! Highly recommend
+
+--- Rating #9 ---
+Class: CRIM438
+Date: 2019-04-26 08:55:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is nice on the outside and responds to emails quickly however she blatantly favours some student over others. Her marking is very strict and I have never seen so many people finish a midterm only to get a mark significantly lower than they had expected. The paper also had unclear guidelines and was marked very poorly. Would not recommend her
+
+--- Rating #10 ---
+Class: CRIM438
+Date: 2019-04-22 02:59:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Took a seminar with Maike this term and really enjoyed it. She is very engaged and is always available to meet face to face to discuss personal issues and assignments. Strong emphasis on participation.
+
+--- Rating #11 ---
+Class: CRIM335
+Date: 2019-04-09 23:58:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Ive taken a couple of online classes during my time at SFU. Although Ive always struggled with online classes, taking Crim 335 with Maike has been a very good experience! I struggle with some health issues and Maike has been completely understanding. Although her marking is on the tougher side, her feedback is reasonable and fair.
+
+--- Rating #12 ---
+Class: CRIM335
+Date: 2019-03-25 05:29:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Pretty minimal and vague communication, somewhat vague marking feedback (one of those with a couple odd comments that you're really confused about but it immediately feels like there's no point in asking about it). APA but write like you're in a cranky English profs class and you'll probably be okay. By no means a great experience, but mostly fine.
+
+--- Rating #13 ---
+Class: CRIM330
+Date: 2019-03-23 23:40:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Had her for TA a couple times. She is very biased towards students and marks very subjectively. Lacks communication with professor, and doesn't meet anything she says she will do although on the surface seems nice.
+
+--- Rating #14 ---
+Class: CRIM335
+Date: 2019-01-06 07:19:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I took Crim 335 online with Maike. Although she is a tough marker, she gives good feedback on paper assignments so you know what to improve for the next assignment. I had to hand in a paper late due to medical issues and she was very understanding and made sure I was not marked down. She is very caring and I would take other classes with her
+
+--- Rating #15 ---
+Class: CRIM330
+Date: 2018-12-12 12:44:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Seriously one of the best TAs I have ever had! She is so caring and creates a really welcoming environment in tutorials. The course was challenging but she was always there to help in when needed.
+
+--- Rating #16 ---
+Class: CRIM335
+Date: 2018-12-01 09:38:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Lacking in communication in terms of what is expected of an assignment. Not readily available and when she does respond its vague at best. Would not recommend.
+
+--- Rating #17 ---
+Class: CRIM330
+Date: 2018-11-04 14:01:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I have taken Crim 230 and 330 with Maike as my TA. Although these courses are tough, she is really helpful in giving feedback and is always available to assist one on one. She is really understanding and always tries to help out when needed. You feel like she really wants everyone to succeed. Although she is a tougher marker she is always fair.
+
+--- Rating #18 ---
+Class: CRIM310
+Date: 2018-09-10 12:29:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+She grades everything extremely harshly and does not care when the class average is 50% on assignments. The assignments themselves are ill defined and communication between what she wants and the class is lacking. Please avoid at all costs.

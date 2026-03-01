@@ -1,0 +1,154 @@
+Professor: Daryl Fuller
+Professor Legacy ID: 2486922
+Professor ID: VGVhY2hlci0yNDg2OTIy
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 11
+Would Take Again Percent: 100
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: BUS200
+Date: 2021-07-03 16:58:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+An absoloute gem of a professor! Choose him as your professor and do yourself a favour! One of the best professors i've had in my life.
+
+--- Rating #2 ---
+Class: BUS200
+Date: 2021-05-08 04:27:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He is a very understanding professor, he teaches well and tries his best to make his class interactive, and will explain till everyone has understood it.
+
+--- Rating #3 ---
+Class: BUS108
+Date: 2021-04-29 08:34:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+A great professor who is kind and helpful. He knows what he's talking about and he has a lot of experience working in the industry, hence many examples from his practical knowledge during the lectures. The lecture can sometimes run dry but he always tries his best to make up for it with class activities.
+
+--- Rating #4 ---
+Class: BUS200
+Date: 2021-03-28 04:04:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He is the best teacher I've ever had. Arriba Daryl!!!!!
+
+--- Rating #5 ---
+Class: BUS200
+Date: 2021-02-17 16:15:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Hes the best professor I have ever had
+
+--- Rating #6 ---
+Class: BUS200
+Date: 2021-01-12 02:58:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+His lesson was fun
+
+--- Rating #7 ---
+Class: BUS200
+Date: 2020-12-23 04:48:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He is the best instructor in my university life. He is caring, a motivator and, a mentor. He has vast business world experiences. You can ask any question, and you will answer it.
+
+--- Rating #8 ---
+Class: BUS110
+Date: 2020-03-10 00:20:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+DJ is my favourite teacher! He makes coming to class less stressful and more fun. DJ is also very understanding and supportive. He would explain the same thing over again and again until everyone in the class gets it. A very chill class to attend :)
+
+--- Rating #9 ---
+Class: BUS200
+Date: 2020-01-05 03:48:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is definitely one of the best prof. He is caring and approachable.
+
+--- Rating #10 ---
+Class: BUS200
+Date: 2020-01-04 02:41:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+DJ is an amazing teacher. He is very caring and supportive. If we got some answers wrong, he always gives good feedback on how we can fix it. His lectures are mostly about his experience so that we can understand better about what we study. However, we need to do more reading and ask him for additional information in order to get a higher grade.
+
+--- Rating #11 ---
+Class: BUS200
+Date: 2019-05-01 03:12:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+DJ Fuller is extremely caring about his students. He gives good grades as well. His lecture slides and explanations are informative and helpful. He is a very easy going and laid back professor.

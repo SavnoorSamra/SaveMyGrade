@@ -1,0 +1,206 @@
+Professor: Ameer Abdelhadi
+Professor Legacy ID: 2327180
+Professor ID: VGVhY2hlci0yMzI3MTgw
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 4.8
+Avg Difficulty: 3.5
+Num Ratings: 15
+Would Take Again Percent: 93.3333
+
+Ratings Count Returned: 15
+
+--- Rating #1 ---
+Class: ENSC350
+Date: 2018-07-02 20:41:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+BEST prof ever! He is really nice, crystal clear notes, excellent explanations, interesting, knowledgeable, helpful, approachable and open to answering any question. Take her class if you can.
+
+--- Rating #2 ---
+Class: ENSC350
+Date: 2018-05-29 07:18:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Fantastic professor. It's difficult to forget what he says because of how he says it. Cares about students. He's the best.
+
+--- Rating #3 ---
+Class: ENSC350
+Date: 2018-04-24 02:42:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Ameer is an absolutely amazing professor. He gave us many hints regarding obtaining a career in the industry. He restructured the course and added many quizzes which helped me and my classmates gradually understand the topics and therefore pass the course. He is passionate about hardware design; making the course more interesting.
+
+--- Rating #4 ---
+Class: ENSC350
+Date: 2018-04-22 02:08:15 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Honestly, Ameer just reads off the slides in a disinterested tone, and as long as you do the labs you'll be fine. He also likes to leave class early during quizzes as he is too &quot;busy&quot; to ensure academic integrity.
+
+--- Rating #5 ---
+Class: ENSC350
+Date: 2018-04-13 03:19:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Just took ENSC350 with him. A quiz every lecture makes you do the work.
+
+--- Rating #6 ---
+Class: ENSC252
+Date: 2018-03-29 23:43:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+great prof.
+
+--- Rating #7 ---
+Class: ENSC252
+Date: 2018-03-06 22:19:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Kind and caring. I hope I will have the chance to take other courses with him.
+
+--- Rating #8 ---
+Class: ENSC252
+Date: 2018-02-21 02:37:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I strongly recommend other students to take 252 with Ameer. I really enjoyed his class.
+
+--- Rating #9 ---
+Class: ENSC252
+Date: 2018-02-19 23:47:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great prof. Learned a lot from him.
+
+--- Rating #10 ---
+Class: ENSC252
+Date: 2018-02-06 00:39:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Don't hesitate to take 252 if this guy teaches it again! Ameer is extremely knowledgeable and passionate. He's very nice and caring. You'll enjoy learning this tough course!
+
+--- Rating #11 ---
+Class: ENSC252
+Date: 2018-01-23 21:17:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Ameer is extremely helpful. I went to his office hours before the final and kept asking questions for 3 hours! he was very helpful.
+
+--- Rating #12 ---
+Class: ENSC252
+Date: 2018-01-21 23:46:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Prepared, caring and knowledgeable. He gives a lot of hints on future career and co-op opportunities in North America.
+
+--- Rating #13 ---
+Class: ENSC252
+Date: 2018-01-20 04:36:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Finally! Someone qualified to teach this course. Labs and exams are tough though.
+
+--- Rating #14 ---
+Class: ENSC252
+Date: 2018-01-17 22:32:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+ENSC 252 is one of the hardest courses in the department with the highest failure rate. However, this didn't stop Prof. Abdelhadi from teaching the course properly. He's an amazing lecturer. I noticed that he won't let it go until you understand the topic; he'll explain in many different ways until you get it. I wish if he changed the labs though.
+
+--- Rating #15 ---
+Class: ENSC350
+Date: 2018-01-16 21:21:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Ameer is the best professor I ever had. He is very inspirational and has a passion about what he's teaching. The lectures are great and heavy with examples, he always makes sure that you understand. He's really helpful, caring and respectful. I'm really happy that the department of engineering are trying to get some new blood.

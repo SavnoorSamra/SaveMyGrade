@@ -1,0 +1,37 @@
+Professor: Jade Boyd
+Professor Legacy ID: 1833288
+Professor ID: VGVhY2hlci0xODMzMjg4
+Department (CSV): Gender Studies
+Department (Fetched): Gender Studies
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: SA356
+Date: 2016-06-27 12:50:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I found Jade's class to be interesting and engaging. It was my favourite course for Spring 2016. I'm dissapointed that SFU did not hire her. I would love to take more courses with her. She is passionate about what she teaches and has lots of good real life advice about Qualitative research.
+
+--- Rating #2 ---
+Class: GSWS204
+Date: 2013-08-19 00:48:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Jade is a nice lady and is an easy marker for the most part. taking lecture notes are pointless because gsws 204 is purely based on papers. even the in-class open book exam is based on academic articles. there is no exam/paper that requires you to know lecture notes. class is easy, but pretty boring. not much effort is required to get a good grade

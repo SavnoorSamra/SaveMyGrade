@@ -1,0 +1,76 @@
+Professor: Victoria Thomas
+Professor Legacy ID: 2925259
+Professor ID: VGVhY2hlci0yOTI1MjU5
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 4.8
+Avg Difficulty: 2.4
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: CMNS316
+Date: 2025-09-02 01:08:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Such an amazing and inspiring prof. Could literally go to her for anything. Her classes were fun and I enjoyed the class
+
+--- Rating #2 ---
+Class: CMNS316
+Date: 2025-07-08 16:17:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I highly recommend this professor for CMNS 316, she made the lectures extremely interesting and easy to follow. There is only one group assignment that you are graded on, but the TA and professor are both super accessible if you need help.
+
+--- Rating #3 ---
+Class: CMNS215
+Date: 2025-04-28 21:42:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Dr Thomas is an awesome prof! I really do recommend this course. Ta was extremely harsh with marking but both ta and dr thomas was easy to confront for feedback. Take home essays were easy and you have a whole week to do them.
+
+--- Rating #4 ---
+Class: CMNS215
+Date: 2024-11-22 18:48:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Without a doubt, Dr. Thomas is the BEST prof I've taken at SFU. Her class was the best ever, the lectures were engaging and you could clearly tell she was passionate about what she taught. The midterm and final were take-home short essays, and the photo essay was a blast! Cannot recommend her enough!
+
+--- Rating #5 ---
+Class: CMNS311
+Date: 2024-09-05 21:10:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+She was nice and could tell she was really passionate when she taught

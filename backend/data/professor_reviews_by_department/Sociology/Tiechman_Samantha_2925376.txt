@@ -1,0 +1,11 @@
+Professor: Samantha Tiechman
+Professor Legacy ID: 2925376
+Professor ID: VGVhY2hlci0yOTI1Mzc2
+Department (CSV): Sociology
+Department (Fetched): Sociology
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

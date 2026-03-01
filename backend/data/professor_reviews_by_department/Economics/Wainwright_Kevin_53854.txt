@@ -1,0 +1,271 @@
+Professor: Kevin Wainwright
+Professor Legacy ID: 53854
+Professor ID: VGVhY2hlci01Mzg1NA==
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 2.5
+Avg Difficulty: 3.4
+Num Ratings: 78
+Would Take Again Percent: 25.9259
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ECON460
+Date: 2024-12-13 23:03:14 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+make sure you study really well the materials on the website
+
+--- Rating #2 ---
+Class: ECON201
+Date: 2024-06-04 18:45:16 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Took ECON 201, 260 with him. He's one of those profs who just goes there to get things done, probably not passionate about teaching. He doesn't have slides so he writes down his notes, which could look a bit unorganized (poor handwriting). He gives problem sets which are quite similar to the exams. If you want to do the bare minimum, he's the guy
+
+--- Rating #3 ---
+Class: ECON260
+Date: 2023-07-25 20:11:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He and TA are horrible joke. Do not take this course.
+
+--- Rating #4 ---
+Class: ECON260
+Date: 2023-01-31 22:45:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Fantastic lecturer. Rather than taking notes, sit back and just follow along with lecture. It's better to focus on comprehension rather than memorizing in this class.
+
+--- Rating #5 ---
+Class: ECON260
+Date: 2023-01-05 19:25:58 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures are very conversational and entertaining. Applies concepts anecdotally in a way that makes them easy to understand. He doesn't prepare lecture slides however and there is sometimes a bit of a disconnect between what is covered in lectures and what is asked in tutorials, projects and exams. Projects/Assignments were fun nonetheless.
+
+--- Rating #6 ---
+Class: ECON201
+Date: 2022-08-25 23:00:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Made a pretty boring class quite interesting with great lectures
+
+--- Rating #7 ---
+Class: ECON201
+Date: 2022-06-30 05:34:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He doesn't use slides for his lecture and only writes with poor handwriting. also, he change his midterm exam coverage three times!!! Never reply to emails in a reasonable time and exams do not have enough time to finish. He teaches his own way and solution rather than the textbook.
+
+--- Rating #8 ---
+Class: ECON201
+Date: 2022-05-30 01:29:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The professor does not use PPT in class. He just writes by hand. His handwriting is terrible. The quiz question is tricky but important, make sure you understand all the theories. Be sure to study in advance, otherwise you won't understand anything in class. Homework and exams are extremely difficult!
+
+--- Rating #9 ---
+Class: OPMT7701
+Date: 2021-02-20 19:08:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Honestly I thought he wasn't to bad at first... then the quizzes (exams) came... he tested you on lectures/questions you have not covered yet!!!! like why?? We would have the quiz and the next lecture would be the the questions on the quiz??
+
+--- Rating #10 ---
+Class: ECON260
+Date: 2020-12-18 16:46:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+didn't respond to student emails within a reasonable deadline usually responded like 2-3 weeks after initial mail. lectures weren't focused on materials tested or examined. use a lot of the same examples and didn't provide adequate and clear direction on course concepts. quizzes weren't realized on time . he repeats a lot of past questions.
+
+--- Rating #11 ---
+Class: ECON260
+Date: 2020-12-10 09:42:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: True
+Comment:
+By far the most horrific prof in all of sfu. His exams are so time crunched that you cant even blink, test questions do not match anything he teaches during lectures nor the slides. The quiz questions are a bunch gathered from external websites like chegg, course hero and quizlet. He is on vacation and does not answer emails. rip gpa
+
+--- Rating #12 ---
+Class: ECON260
+Date: 2020-12-05 05:28:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Massive disconnect between lectures/textbook and what's actually on the test. Almost no communication from the prof, you basically have no idea if what you're doing is right or wrong because there are no practice questions given in this calculations heavy class. Assignments are a joke and it feels like this course reuses material from other classes
+
+--- Rating #13 ---
+Class: ECON260
+Date: 2020-12-03 04:37:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+In a few words: This guy is a joke like literally. I don't know what is the problem here. Is he not able to cope up with the whole online scene or is he just like this normally? One hilarious thing my emails (like none) are still not answered to date and the semester is ending soon.
+
+--- Rating #14 ---
+Class: ECON260
+Date: 2020-11-19 22:35:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I usually read these to get a slight understanding of a prof, but in this case I am going out of my way to make sure you do not take this course, as long as its online. Horrible communicator, Disconnect between TA's and Prof, Doesn't test on what is taught. Has had numerous meetings with Head of Econ to improve his teaching style yet little changes
+
+--- Rating #15 ---
+Class: ECON260
+Date: 2020-11-04 03:04:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Super disorganized. Syllabus makes 0 sense. Tests on things not covered in lectures or textbook. Lectures don't follow textbooks at all and aren't even useful. Self teach yourself everything including the syllabus. Office hours are 2 hrs a week where he answers emails same with TA's. No TA prof communication. Econ 260 is a cool course horrid prof
+
+--- Rating #16 ---
+Class: ECON260
+Date: 2020-11-01 03:47:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+This prof does not support your learning. He never answers emails, the syllabus is a mess, his instructions are unclear. You have these assignments that you are not taught how to do and then you get poor marks on it from the TA so your grade tanks. The Ta is also not helpful. Don't take.
+
+--- Rating #17 ---
+Class: ECON260
+Date: 2020-10-06 22:51:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He never answers your email and does not follow syllabus. His quiz has some questions that were not covered during recorded lectures nor the book. Essentially you have to pray (if you are religious) or just lie and try not to cry in order to answer those questions. Save yourselves don't take his class.
+
+--- Rating #18 ---
+Class: ECON260
+Date: 2020-09-09 19:17:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+The prof is like he is on vacation. he doesn't respond to any emails. terrible prof. No clear instructions. the sudden change to the course syllabus while posting video lectures a few hours before the deadline of the assignments. Avoid him.
+
+--- Rating #19 ---
+Class: ECON260
+Date: 2020-08-25 20:57:40 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Due to COVID-19, this course was online. There was no new syllabus for our class, instead the previous semester syllabus was used and not followed. Success in this course depends on clear communication and feedback, both components were lacking to the determent of my learning.
+
+--- Rating #20 ---
+Class: ECON260
+Date: 2020-08-16 05:37:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+If you like to be ignored then you must take this class! This prof does not like to reply to emails - ESPECIALLY those that require him to respond with in-depth replies. He loves tight deadlines and giving out confusing instructions. Make some friends in this class cus your friends and you probably know more about this subject than him.

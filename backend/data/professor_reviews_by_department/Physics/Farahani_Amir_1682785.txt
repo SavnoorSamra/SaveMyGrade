@@ -1,0 +1,206 @@
+Professor: Amir Farahani
+Professor Legacy ID: 1682785
+Professor ID: VGVhY2hlci0xNjgyNzg1
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 4.5
+Avg Difficulty: 2.5
+Num Ratings: 15
+Would Take Again Percent: -1
+
+Ratings Count Returned: 15
+
+--- Rating #1 ---
+Class: PHYS115
+Date: 2015-06-09 18:06:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Amir is very passionate and knows how to teach, and convey the material to students. Your the best!!
+
+--- Rating #2 ---
+Class: PHYS115
+Date: 2015-06-02 18:32:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Probably one of the top professors I have ever had. He breathes life into a subject that's typically seen as extremely difficult. His lectures are complementary, clear, and are supplementary to the text. In order to be successful in this class, make sure you use the textbook.
+
+--- Rating #3 ---
+Class: PHYS115
+Date: 2015-05-19 21:26:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Very respectful, overall a good prof. He makes everything very clear in class with thorough examples.
+
+--- Rating #4 ---
+Class: PHYS115
+Date: 2014-12-04 08:11:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Amir is now with us in Saskatchewan!  He takes great care to illustrate concepts and guide us really well through the materials. He is really cool and fun to watch!!!
+
+--- Rating #5 ---
+Class: 121
+Date: 2014-11-03 12:38:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+He is a really amazing prof! go to office hours he is very helpful :)
+
+--- Rating #6 ---
+Class: PHYS121
+Date: 2014-08-25 14:17:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He is interested in the material, interested in our learning, and responsive to the fact that we had other classes than just Phys 121. What more could you ask for in a prof? Amir is awesome and re-engaged my interest in physics.
+
+--- Rating #7 ---
+Class: PHYS121
+Date: 2014-07-21 14:10:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+"Preaches" physics to you. Very clear and precise. No way you're going to fall asleep. Can't go wrong. Get in his class like you're going to a concert.
+
+--- Rating #8 ---
+Class: PHYS121
+Date: 2014-03-23 13:55:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+The nicest prof I had so far
+
+--- Rating #9 ---
+Class: PHYS100
+Date: 2013-12-07 14:21:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He always encouraged questions in class and tried his best to answer them. Made the lectures less dry with demos, iclickers and a good sense of humor. I say he is really good!
+
+--- Rating #10 ---
+Class: PHYS100
+Date: 2013-12-05 00:03:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Honestly got straight to the point and explain everything in perfect detail. Could not recommend a better physics prof. Knows what he is talking about.
+
+--- Rating #11 ---
+Class: PHYS100
+Date: 2013-11-20 12:44:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I honestly think that he should be teaching a high school course not a university one. Also his accent makes it really hard to understand what he's saying.
+
+--- Rating #12 ---
+Class: PHYS101
+Date: 2013-04-29 14:06:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Honestly I think he was a great prof. He was straight to the point and the midterms were straight forward. The final was a little tricky but overall a good prof.
+
+--- Rating #13 ---
+Class: PHYS121
+Date: 2012-12-03 21:58:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+this was the first class that he taught and he did a great job. his marking was very fair and his lectures were very insightful. strongly suggested for phys 121
+
+--- Rating #14 ---
+Class: PHYS131
+Date: 2012-02-22 23:25:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He is clear and knows what he's talking about. He's a nice and helpful guy!
+
+--- Rating #15 ---
+Class: PHYS131
+Date: 2012-01-10 23:39:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He's a pretty great guy. He takes the time to answer questions and is clear in his explanations.

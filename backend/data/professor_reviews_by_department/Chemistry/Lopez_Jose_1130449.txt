@@ -1,0 +1,11 @@
+Professor: Jose Lopez
+Professor Legacy ID: 1130449
+Professor ID: VGVhY2hlci0xMTMwNDQ5
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

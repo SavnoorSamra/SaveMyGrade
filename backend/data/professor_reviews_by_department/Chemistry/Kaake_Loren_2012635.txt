@@ -1,0 +1,141 @@
+Professor: Loren Kaake
+Professor Legacy ID: 2012635
+Professor ID: VGVhY2hlci0yMDEyNjM1
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 2.3
+Avg Difficulty: 3.9
+Num Ratings: 10
+Would Take Again Percent: 11.1111
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: CHEM122
+Date: 2026-02-26 01:10:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Worst prof I have had so far. Released minimal questions for exam prep and was not made by prof. Exam was incredibly difficult with most questions not really reflecting what we learnt. Lectures are not helpful. avoids questions and very poor at explaining topics. not showing or allowing any discussion on the midterm and is not scaling much.
+
+--- Rating #2 ---
+Class: CHEM122
+Date: 2026-02-25 21:35:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+For the second time this semester, he failed to upload notes and didn't fix it before class. He gave just six easy practice questions for a much harder midterm (class avg 50%), shared the formula sheet four days prior, won't release exams, and reuses old tests. Frequent mistakes, dismissive answers, and unhelpful office hours. Wish I could say more
+
+--- Rating #3 ---
+Class: CHEM122
+Date: 2026-02-24 02:14:16 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He said earlier this school,that his exam questions were in fact so simple that we would be surprised if they weren't trick questions. As of now mid way through the course after completing our midterm, it turns out he didn't even make the exam himself and now backtracked saying that the questions are meant to trick you and poke out common mistakes.
+
+--- Rating #4 ---
+Class: CHEM122
+Date: 2026-02-20 06:50:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's so confusing. Every time someone asks a question in class, he talks for a bit and then admits he doesn't know the answer. Also very unclear with Loncapa deadlines, etc. He gave us 6 practice MCQs for the midterm and admitted he had no idea what was even on said midterm (1/3 of grade). The midterm class average was really low.
+
+--- Rating #5 ---
+Class: CHEM122
+Date: 2026-02-18 02:05:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Bro doesn't write his own exams, he steals them from the other profs. Anytime you ask him a question, he says he doesn't know and tells you to come to his office hours. The practice midterm he gave had 6 questions and was not like the actual midterm at all. I took Garry for granted for Chem 121 and I miss him &#128148;
+
+--- Rating #6 ---
+Class: CHEM260
+Date: 2018-02-12 02:34:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Just keep in mind, going into this course he will &quot;NOT&quot; give you any hints on potential type questions for the exams. Not a clear grading criteria. Likes to show off that he knows how to derive equations by writing them on 5 whiteboards, but not a single one in exam. The Assignments are hard, requires a lot of work above and beyond his lecture.
+
+--- Rating #7 ---
+Class: CHEM260
+Date: 2018-01-06 18:14:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The class overall is not very difficult. The homework questions require some thinking, but if you refer to the lectures notes while doing them, they are manageable. There are also extra credit after every homework. IMO doing the homework also is essential for doing well in the exams. In brief: DO THE HOMEWORK, and youll enjoy this class a lot.
+
+--- Rating #8 ---
+Class: CHEM260
+Date: 2017-01-22 02:57:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He seems very enthusiastic about the material but lectures and exam were not connected at all, better off reading and understanding all concepts from the book.
+
+--- Rating #9 ---
+Class: CHEM260
+Date: 2017-01-04 10:17:00 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures are irrelevant for the most part the key to them would be the last few slides that say learning objectives, study those. Read the textbook, it's absolutely necessary because the lecture notes aren't enough. Overall nice prof
+
+--- Rating #10 ---
+Class: CHEM260
+Date: 2015-05-09 00:49:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Very nice teacher who seems almost overly polite and wants nothing more to share his knowledge with students.  Powerpoints were good although sometimes would focus too much on derivation understanding of the concepts was less stressed.  Tests had very little math and mainly consisted of ranking things in different orders.  Overall I would recommend

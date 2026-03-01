@@ -1,0 +1,141 @@
+Professor: Vladan Pantic
+Professor Legacy ID: 1082831
+Professor ID: VGVhY2hlci0xMDgyODMx
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 2.9
+Avg Difficulty: 2.2
+Num Ratings: 10
+Would Take Again Percent: -1
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: COM110130
+Date: 2014-08-16 14:12:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Vlad is the most awesome guy that you could ever find in universities. He is really helpful, cares about students a lot and passionate about the subject. If you do your best in his class, you'll get a good mark for sure.
+
+--- Rating #2 ---
+Class: CMNS230
+Date: 2012-04-09 17:15:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Vlad is an awesome guy, he is super nice and really passionate about the subject. The problem is he is hard to understand and goes off on random tangents which makes the class difficult to sit through. He really cares about the students and as much as I like him as a person, as a prof I would say I really didn't get anything out of the class
+
+--- Rating #3 ---
+Class: CMNS230
+Date: 2009-11-25 07:25:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+ride on vlad
+
+--- Rating #4 ---
+Class: COMM132
+Date: 2009-09-16 14:30:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+cannot understand a thing he says. dont choose his class.
+
+--- Rating #5 ---
+Class: CMNS230
+Date: 2009-08-18 01:42:01 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Passionate teacher. Finals are based on Hesmondhalgh and assignment. TA class are important because it's worth huge percentage. Lecture class basically is from the textbook. Assignments are fun. Just focus on textbook and mainpoints on lectures
+
+--- Rating #6 ---
+Class: CMNS230
+Date: 2009-08-03 18:20:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He is very interested in the material although at times is off topic. The assignments are easy TAs are great and he is really passionate about what he does. if you get past the boring lectures I think youll enjoy the class!
+
+--- Rating #7 ---
+Class: CMNS230
+Date: 2009-04-28 17:58:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Easy going, friendly, prof and not too hard of a marker. But, lectures are completely useless. Just attend the tutorials and read the texts and you will be fine. BTW, there are no midterms and final is open-book.
+
+--- Rating #8 ---
+Class: CMNS230
+Date: 2009-04-24 01:38:24 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I'll have to agree with prior ratings, Vlad really doesn't seem to grasp the subject material AT ALL, it was difficult to sit through an entire lecture. That being said, if you have good writing skills, you should find that good grades are easy to come by. He's also good about replying to e-mails, and working through any problems you may encounter.
+
+--- Rating #9 ---
+Class: CMNS230
+Date: 2008-04-30 06:52:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Really nice person.  But his teaching methods are awful.  He doesn't seem to understand the material, thus his ability to teach it is rather limited.  He rants about unintelligible things and talks about Britney Spears a lot, TOO MUCH. Tutorials are useful to attend, lectures not so much...
+
+--- Rating #10 ---
+Class: CMNS230
+Date: 2008-02-05 15:52:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He's a nice guy, seems really interested in the material, but most of the time I have no idea what he's murmuring about. His lecture notes are helpful and clear though, and the text isn't too hard to read, so if you study those for the tests, you'll be fine.

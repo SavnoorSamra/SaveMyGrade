@@ -1,0 +1,37 @@
+Professor: Nawal Musleh-Motut
+Professor Legacy ID: 2618676
+Professor ID: VGVhY2hlci0yNjE4Njc2
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 2.5
+Avg Difficulty: 4.5
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: CMNS452
+Date: 2024-04-25 16:09:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Just a bad and temperamental professor who is highly opinionated and rude
+
+--- Rating #2 ---
+Class: CMNS452
+Date: 2022-12-01 07:33:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Nawal makes an impact! She definitely reads these!! Hi Nawal, thanks for the great semester, I just hope I do what I've learned justice through my final project and going forward in life!! CMNS 452, Race and the Media causes you to confront yourself and life as you know it, get ready but also welcome the changes with open arms

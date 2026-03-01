@@ -1,0 +1,102 @@
+Professor: John Clague
+Professor Legacy ID: 1501505
+Professor ID: VGVhY2hlci0xNTAxNTA1
+Department (CSV): Earth Science
+Department (Fetched): Earth Science
+Avg Rating: 3.1
+Avg Difficulty: 3.3
+Num Ratings: 7
+Would Take Again Percent: -1
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: EASC403
+Date: 2014-09-15 07:49:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+John wrote the book on quaternary geology. Literally, a bunch of them. 4th year course with no text book, readings wear assigned from peer reviewed journals and mixed with field work. The course is not intended to be easy, the material is presented clearly but at a level of a 4th year course.
+
+--- Rating #2 ---
+Class: EASC104
+Date: 2014-04-13 05:13:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+EXCELLENT PROF. Would recommend! Strong lecturer, very interested in the subject & knowledgeable. Interesting course & fair marking scheme. 1 midterm, 3 'disaster logs' & a final exam. MT & final were short answer questions. The questions were fair, 100 level type Q's, so they were mainly defn's & examples. Text chapter summaries were also helpful.
+
+--- Rating #3 ---
+Class: EASC104
+Date: 2014-04-12 02:42:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+IT IS SOOOOOOO HARD!!!!BRUTAL FINAL I HAVE EVER SEEN BEFORE. 22 SHORT ANSWERS AND YOU NEED TO READ THE WHOLE TEXTBOOK!
+
+--- Rating #4 ---
+Class: EASC104
+Date: 2014-04-10 03:59:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Really Really hard and heavy course. Have to read the whole textbook for the final exam. He does not post much information so students need to buy the expensive textbook and go though it themselves. Too heavy for an elective course. AVOID.
+
+--- Rating #5 ---
+Class: EASC101
+Date: 2011-06-24 11:12:07 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+HE was really boring. This course can be really difficult especially if you don't have interest in it. So don't take this course if you don't have interest. Also do the weekly readings. Falling behind is no fun.
+
+--- Rating #6 ---
+Class: EASC101
+Date: 2011-04-23 11:17:29 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+EASC 101: Very hard course, especially if you're not interested in it/an arts student and not a science person. Very technical, everything is MEMORIZATION, and final is cummulative. Labs are really tough too, especially lab midterms/finals. Labs are absolutely mandatory or you get 0 for participation that day, and there is alab quiz during each lab
+
+--- Rating #7 ---
+Class: EASC101
+Date: 2011-04-20 21:39:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He doesn't really teach first year, so we were lucky to have him. Not pedantic. Bit easy because it's a course for arts students too.

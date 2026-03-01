@@ -1,0 +1,11 @@
+Professor: Natalie Gajdamaschko
+Professor Legacy ID: 2735598
+Professor ID: VGVhY2hlci0yNzM1NTk4
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

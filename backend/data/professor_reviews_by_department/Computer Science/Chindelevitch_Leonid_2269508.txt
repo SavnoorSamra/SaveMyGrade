@@ -1,0 +1,206 @@
+Professor: Leonid Chindelevitch
+Professor Legacy ID: 2269508
+Professor ID: VGVhY2hlci0yMjY5NTA4
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.7
+Avg Difficulty: 3.6
+Num Ratings: 15
+Would Take Again Percent: 40
+
+Ratings Count Returned: 15
+
+--- Rating #1 ---
+Class: CMPT705
+Date: 2018-12-22 00:37:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lecture notes self-contained, concepts clearly explained. Textbook reading is helpful but not required. Prof. Chindelevitch is approachable and helpful answering any questions. If one has a strong math background, this course is not that difficult. Highly recommend - gives a foundation towards computational complexity. Fair exams, HW can be long.
+
+--- Rating #2 ---
+Class: CMPT441
+Date: 2018-12-04 18:56:56 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Prepare to learn the topics by reading the textbook and watching other online lectures.
+
+--- Rating #3 ---
+Class: CMPT405
+Date: 2018-09-26 12:09:04 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Leonid is passionate about his field and research. He is also extremely knowledgeable. However, teaching doesn't seem to be his main focus.
+
+--- Rating #4 ---
+Class: CMPT225
+Date: 2018-04-26 12:21:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is a good prof but not for a CMPT course. He teaches the course like it is a social science course(He wastes too much time on slides than necessary but slides have all the knowledge you need to pass.) so attendance is not needed. Assignments took most of the grade(%60) so it is less stressful. You need to know pre-reqs because he uses them.
+
+--- Rating #5 ---
+Class: CMPT225
+Date: 2018-04-26 04:31:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Assignments and exams were pretty fair and related to course material. Focused more on theory and pseudocode than actual coding which is good imo since a data structures &amp; algorithms class should try to be language agnostic. Only major cons were posting assignments/study guides late and slow marking on assignments. Good for 1st time teaching 225.
+
+--- Rating #6 ---
+Class: CMPT225
+Date: 2018-04-15 04:07:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He has a different approach to teaching computing. His assignments have a coding part and written part. Midterm and final had all written questions,mostly about coming up with algorithms, sometimes pseudocode. I liked the idea of testing us heavily on algorithms because you learn a lot of coding in other classes anyway. Slides were self-explanatory
+
+--- Rating #7 ---
+Class: CMPT225
+Date: 2018-04-12 22:14:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This class in a nutshell: posts study guide Wednesday, posts practice exam Thursday, FINAL EXAM FRIDAY. He literally reads of the slides and if you're kind of new to coding have fun because he does not show any examples of how to code things. He'll give you the algorithms for some functions but you're going to have to learn the rest yourself.
+
+--- Rating #8 ---
+Class: CMPT225
+Date: 2018-04-11 17:48:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Unorganized, read only from slides, didn't do any examples with class, didn't teach code other than 1st few days. Almost always away when needing to meet. Homework vague marked slowly with little feedback. Forgot to give, needed code for assignment few hours before, deadline. Gave 2 weeks for each assignment for 1st half, 2nd half was given 1 week.
+
+--- Rating #9 ---
+Class: CMPT225
+Date: 2018-04-03 21:40:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He just reads the lecture slides and never does any kind of coding practice in class. His lecture slides also looks like the complex introduction of the topics that seems that he's reviewing the stuff in his 700 level cmpt classes. The assignments are totally vague. If you actually want to learn then don't take his class.
+
+--- Rating #10 ---
+Class: CMPT225
+Date: 2018-03-15 16:21:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Seems extremely unorganized. Lectures often make simple concepts seem confusing. Assignments, lectures, and midterms could be mistaken for 3 different courses. Does not really teach material, instead chooses to solve problems in his head and describe his thoughts (basically trying to teach math strictly verbally)
+
+--- Rating #11 ---
+Class: CMPT225
+Date: 2018-02-23 06:51:11 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Always busy to actually do said office hours. Unorganized with giving assignments, teaching you to finish said assignments. Funny, nice guy. Wait till a few hours before assignment was due to tell us that his code he gave us to do the assignment was faulty/incomplete. Didn't actually teach how to apply code to problems. was 1st time teaching class
+
+--- Rating #12 ---
+Class: CMPT705
+Date: 2018-02-06 19:08:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+You REALLY need to pay attention during the all the lectures !!! The stuff is difficult and challenging, but you DEFINITELY can learn a lot.
+
+--- Rating #13 ---
+Class: CMPT705
+Date: 2018-01-02 17:03:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Certainly you can learn a lot from this course. Beware of the difficulty.
+
+--- Rating #14 ---
+Class: CMPT705
+Date: 2017-10-21 00:10:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Best SFU computer science professor for sure. Recommend it so much.
+
+--- Rating #15 ---
+Class: CMPT405
+Date: 2017-07-11 19:38:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Leonid is a great yet tough professor. Expect to commit a lot of time in his course. 10% of your grade is participation, so showing up, going to office hours and asking questions gets you easy marks. He is very knowledgeable and easy to talk to. I've never seen anyone recite a lecture from memory before, but he makes it look easy. Would recommend!

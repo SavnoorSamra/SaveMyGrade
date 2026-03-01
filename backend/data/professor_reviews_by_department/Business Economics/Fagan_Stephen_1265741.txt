@@ -1,0 +1,11 @@
+Professor: Stephen Fagan
+Professor Legacy ID: 1265741
+Professor ID: VGVhY2hlci0xMjY1NzQx
+Department (CSV): Business Economics
+Department (Fetched): Business Economics
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

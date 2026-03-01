@@ -1,0 +1,11 @@
+Professor: Adrienne Wasik
+Professor Legacy ID: 1605155
+Professor ID: VGVhY2hlci0xNjA1MTU1
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

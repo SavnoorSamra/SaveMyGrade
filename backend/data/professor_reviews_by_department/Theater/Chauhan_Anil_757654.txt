@@ -1,0 +1,63 @@
+Professor: Anil Chauhan
+Professor Legacy ID: 757654
+Professor ID: VGVhY2hlci03NTc2NTQ=
+Department (CSV): Theater
+Department (Fetched): Theater
+Avg Rating: 4
+Avg Difficulty: 2.5
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: FPA1700
+Date: 2009-07-21 01:37:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Top notch teacher, leader and all round great guy!
+
+--- Rating #2 ---
+Class: FPA170
+Date: 2009-03-27 04:52:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Most people thought it was an easy A courseAt, but this is not an easy course. Attendance is mandatory. We need to do a lot of physical work and have to spend lots of our own time for crew call. However, I think he is a nice prof who is trying to teach us all of the skills and important things in theatre.
+
+--- Rating #3 ---
+Class: FPA170
+Date: 2007-06-13 21:30:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Most people in class thought it was an easy A course, but no one got A's in the end. Attendance is mandatory. We need to do a lot of physical work & it was so exhausting after every class. However, he seems very tough but he tries to teach us the importance of responsibilities. I think he is a nice prof who shows his tough side to his students.
+
+--- Rating #4 ---
+Class: FPA170
+Date: 2006-12-23 13:43:48 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very tough grader and not that fair when it comes to his rules.All the same though, very interesting and a good teacher.

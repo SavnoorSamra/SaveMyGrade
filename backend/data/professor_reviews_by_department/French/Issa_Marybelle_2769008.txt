@@ -1,0 +1,158 @@
+Professor: Marybelle Issa
+Professor Legacy ID: 2769008
+Professor ID: VGVhY2hlci0yNzY5MDA4
+Department (CSV): French
+Department (Fetched): French
+Avg Rating: 5
+Avg Difficulty: 1.6
+Num Ratings: 11
+Would Take Again Percent: 100
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: FREN120
+Date: 2022-04-18 17:38:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Awesome Professor! She is honest, kind, and wants her students to do the best in her class!
+
+--- Rating #2 ---
+Class: FREN120
+Date: 2022-04-14 17:51:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Best prof ever! Super nice, caring and fun. Everything was straightforward and clear, everything you learn is applicable and you can see using. Attendance was not mandatory, but definitely helped and would suggest going - plus she is always throwing fun facts and wants you to succeed. Would 100% take another class with her.
+
+--- Rating #3 ---
+Class: FREN120
+Date: 2022-04-14 07:55:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Love this prof
+
+--- Rating #4 ---
+Class: FREN120
+Date: 2022-04-14 03:41:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Wonderful teacher! You will love learning French as she makes the lessons fun and easy. Her lectures are engaging and questions are encouraged. The feedback you receive in tests and assignments are useful so you'll always know what you did wrong.
+
+--- Rating #5 ---
+Class: FREN120
+Date: 2022-04-14 00:42:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Best teacher
+
+--- Rating #6 ---
+Class: FREN120
+Date: 2022-04-13 23:47:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Best professor I have ever had! Marybelle is very responsible and caring for every student.  She makes the language class more interesting and the lecture was well organized.
+
+--- Rating #7 ---
+Class: FREN120
+Date: 2022-04-13 23:09:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Marybelle is an excellent prof. She made learning French very easy. Her classes are very interactive, exciting and fun. She is; accessible outside class, encourages students to approach her for any problems, and provides them with valuable feedback and solutions. I would highly recommend anyone planning to enrol in FREN120 to take her as your prof.
+
+--- Rating #8 ---
+Class: FREN120
+Date: 2022-04-13 22:19:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Marybelle is a nice instructor. Even though she's new to teaching, she is full of passion and making the class very interesting. Take her class!
+
+--- Rating #9 ---
+Class: FREN120
+Date: 2022-04-13 22:12:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Marybelle makes learning French feel attainable. She's very approachable and encouraging, answers your questions when she can, and provides good feedback on your progress. This was my best class this semester.
+
+--- Rating #10 ---
+Class: FREN120
+Date: 2022-04-13 22:01:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+-the best lecturer at SFU 
+-easy grader
+-fun lecture 
+-willing to help 
+-study all the vocab and you will be fine
+
+--- Rating #11 ---
+Class: FREN120
+Date: 2022-03-31 19:34:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The best prof! Super nice and accessible out of class. Really wants you to succeed and is so incredibly helpful. I took beginners French as an elective and was initially scared but she really helped me to really enjoy it

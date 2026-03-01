@@ -1,0 +1,271 @@
+Professor: Mike Hegedus
+Professor Legacy ID: 2739350
+Professor ID: VGVhY2hlci0yNzM5MzUw
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 4.1
+Avg Difficulty: 2.7
+Num Ratings: 21
+Would Take Again Percent: 90.4762
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENSC100W
+Date: 2026-01-23 23:52:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The actual best first year ensc professor.
+
+--- Rating #2 ---
+Class: ENSC100W
+Date: 2025-11-25 00:54:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Course is graded by two quizzes which define your mark, along with a design lab and a paper. I had a pleasant time in his class, but pay attention to his lectures as most of the material on the quiz are based on what he's saying.
+
+--- Rating #3 ---
+Class: ENSC100W
+Date: 2025-04-21 20:46:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Nothing notable about lectures, they were generally straightforward and easy to follow. Quizzes are fairly simple and follow common sense. Group project grade depends mostly on your TA rather than Mike.
+
+--- Rating #4 ---
+Class: ENSC100W
+Date: 2024-12-18 09:52:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Mike is funny and the overall class is not bad, make sure to do practice quizzes as he uses a lot of old questions for his quizzes. also make sure to take good notes because the lecture slides he posts aren't very helpful by itself if you are trying to study
+
+--- Rating #5 ---
+Class: ENSC100W
+Date: 2024-01-11 02:42:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lecture slides are mostly just pictures and quizzes are very reliant on what he says in class. Worth mentioning that half of the lectures in the term were guest lectures. Gives good feedback and does try to remember a lot of students' names. Engaging and very reachable and responsive, generous too.
+
+--- Rating #6 ---
+Class: ENSC100W
+Date: 2024-01-08 23:52:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Enjoyed my semester with him. Make sure you do the previous years quizzes, almost the exact same as the ones in class (Same questions).
+
+--- Rating #7 ---
+Class: ENSC100W
+Date: 2024-01-08 04:25:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Mike Hegedus is a very nice man, he is funny and his lectures are entertaining. The lectures involve history of engineering and society, with guest lectures on topics such as "Space engineering" and "Military engineering". The labs are where you work with your group to design and build an engineering project that solves a problem. Study for quizes!
+
+--- Rating #8 ---
+Class: ENSC405W
+Date: 2023-06-28 00:51:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Solid professor.  Pleasant to deal with and very willing to help outside of class.  Work load was a bit high, but clear criteria made it manageable.  Only real complaint I have is the mandatory attendance, which meant I lost marks for not warming a lecture hall seat.  Still did fine overall.
+
+--- Rating #9 ---
+Class: ENSC405W
+Date: 2023-06-04 23:01:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very friendly professor. Seemingly always willing to give advice and help if you need it. Marking is lenient, if you follow the rubric and do what's asked you'll do well in his courses. On the flipside, there's a lot of writing and busywork in 405W (but that's more an issue with the course, not how Mike teaches it).
+
+--- Rating #10 ---
+Class: ENSC100W
+Date: 2022-12-23 01:44:55 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Pay attention and take lots of notes. Much of the quiz content is not on the slides so you must go off what he is saying. For the group project go to his office hours often to discuss things with him, he is good at helping with problems you may encounter. Overall a nice and fair professor.
+
+--- Rating #11 ---
+Class: ENSC100W
+Date: 2022-12-08 23:11:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Mike is a cool guy to be around. His subject isn't super interesting at times, but just make sure to take notes anyway because you'll need it to study for quizzes. The practice quizzes he posts don't have answer keys attached to them, so make detailed notes. It's easy to mess up on his quizzes. He's a pretty nice guy to talk to, and is funny too.
+
+--- Rating #12 ---
+Class: ENSC100W
+Date: 2022-11-09 19:04:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Mike is awesome. Although he can seem very rough around the edges and critical, he genuinely cares about his Eng student's success. Come to him for advice and he will always be willing to talk, and he is very accessible outside the class. The lectures cover all material for the quizzes, and as long as you take notes you'll be fine.
+
+--- Rating #13 ---
+Class: ENSC100W
+Date: 2022-09-27 01:57:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is the most boring person ever. If u have him make sure u bring airpods to class.
+
+--- Rating #14 ---
+Class: ENSC100W
+Date: 2022-04-18 21:21:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Goated professor. Had him for ENSC 100 in my first semester at SFU, he was always helpful and accessible for questions I had about other classes as well. Assignments and lectures were good, and quizzes were pretty difficult, but overall a pretty good course.
+
+--- Rating #15 ---
+Class: ENSC100W
+Date: 2022-03-18 08:26:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Always there to help, even if the assignment isn't from his class lol.
+
+--- Rating #16 ---
+Class: ENSC100W
+Date: 2022-01-12 20:00:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+One of the best professors you can have. ENSC 100W was the highlight of my day with Mike.
+
+--- Rating #17 ---
+Class: ENSC100W
+Date: 2022-01-11 23:13:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+The only good professor in first year engineering.
+
+--- Rating #18 ---
+Class: ENSC100W
+Date: 2021-12-12 11:10:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Mike Hegedus was a decent professor, but he made some inappropriate comments during a lecture that nauseated me.
+
+--- Rating #19 ---
+Class: ENSC100W
+Date: 2021-11-29 18:15:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Mike is a wonderful prof who truly cares about his students. I actually look forward to his lectures, and they're always the highlight of my day. It should be noted that he does not record his lectures and that attendance is an absolute must.
+
+--- Rating #20 ---
+Class: ENSC100W
+Date: 2021-11-26 20:13:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Mike is honestly really awesome. As a first-year engineering student, he really helped prepare us for the workload, giving us a timeline for when things would get tough (ie, when heavy work load begins). He's always there to talk to, even if its just general engineering stuff, not course related.

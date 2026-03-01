@@ -1,0 +1,276 @@
+Professor: David Chou
+Professor Legacy ID: 3022903
+Professor ID: VGVhY2hlci0zMDIyOTAz
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.8
+Avg Difficulty: 2.5
+Num Ratings: 32
+Would Take Again Percent: 96.875
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT365
+Date: 2026-01-24 03:24:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Im very close to graduating, and I can confidently tell you that David Chou is the best professor i've had at SFU. I think the school would highly benefit from having professor Chou teach other professors how they should run a class. Im not just saying this because I thought the course was easy, I actually learned a lot and had a great time as well
+
+--- Rating #2 ---
+Class: CMPT365
+Date: 2025-12-17 08:13:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+hes pretty much jesus
+
+--- Rating #3 ---
+Class: CMPT365
+Date: 2025-12-17 03:13:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+One of the best professors at SFU. He explains things very well and sets students up to succeed.
+
+--- Rating #4 ---
+Class: CMPT365
+Date: 2025-12-13 11:23:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Super nice, because of exam pressure forgot to submit my assignment on time but he gave me one full day extension 
+Also he explains concepts so well
+
+--- Rating #5 ---
+Class: CMPT365
+Date: 2025-12-03 05:11:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+"thats a good question" &#128483;&#65039;&#128483;&#65039;&#128483;&#65039;
+
+--- Rating #6 ---
+Class: CMPT365
+Date: 2025-11-27 01:32:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+"So that's the main idea here"&#128293;&#128293;&#128293;
+
+--- Rating #7 ---
+Class: CMPT365
+Date: 2025-11-18 21:09:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Genuinely a very friendly and caring professor who is always down to answer questions and tweak things for a better learning experience. The assignments and concepts are interesting and they don't end up being too hard or too easy and challenge your learning properly. The first midterm is a bit difficult so be ready for that.
+
+Highly recommended
+
+--- Rating #8 ---
+Class: CMPT365
+Date: 2025-08-24 00:10:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+An awesome instructor. The lectures were super clear, and you don't really need to read the book to get the concepts. Assignments were graded pretty generously. The exams can be a bit tricky, but everything comes straight from the book or lectures.
+
+--- Rating #9 ---
+Class: CMPT365
+Date: 2025-05-01 05:54:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+David was an excellent instructor. He explained concepts clearly, supported students well, and made lectures engaging. Midterm 1 and the final were tough, but he adjusts grading fairly, so there's no need to worry.
+
+--- Rating #10 ---
+Class: CMPT365
+Date: 2025-04-17 14:18:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+best prof, very lenient and kind
+
+--- Rating #11 ---
+Class: cmpt225
+Date: 2024-12-14 03:25:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He cares about the students and tries to give them the best he can. If you have any difficulties with his course, go to his office hours. He tries to give a full understanding of the ppt slides. At first, I won't guarantee whether you will like him or not but in the end, you won't regret taking his lecture as a lot of the students in my class did.
+
+--- Rating #12 ---
+Class: cmpt225
+Date: 2024-12-13 07:05:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Nicest, kindest professor you will ever meet, Such a great guy, and always so helpful and understanding, even for assignement extensions, etc. Good lectures too, although majority of the course was just set by the John Edgar, midtern and exam were fair.
+
+--- Rating #13 ---
+Class: cmpt225
+Date: 2024-12-13 00:48:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Kindest and most helpful CS prof I've had yet.
+
+--- Rating #14 ---
+Class: cmpt225
+Date: 2024-12-13 00:30:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Such a great guy.... def recommend him
+
+--- Rating #15 ---
+Class: cmpt225
+Date: 2024-12-11 23:15:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+David is a good prof, some explanations are confusing (mostly cuz of the slides). He does his best to help. The exams were quite challenging although I understand he didn't write them. Assignments are really long and difficult. Most took 10-20 hr and there's 5. 50% final so gotta lock in for it. Final grading scheme / scaling very fair overall!
+
+--- Rating #16 ---
+Class: cmpt225
+Date: 2024-12-11 21:59:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He just good
+
+--- Rating #17 ---
+Class: cmpt225
+Date: 2024-12-11 07:24:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This guy is very detailed. You know exactly what to study; he even explains the code implementations. He has lecture recordings from day 1 and is genuinely an awesome guy.
+He has a strong accent thogh, but it works in your favor. keeps you awake as he tries to be funny. 
+in my opinion, the most goated 200 level course prof.
+
+--- Rating #18 ---
+Class: cmpt225
+Date: 2024-12-11 03:34:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+A really good professor, answers my questions and explains it really well so that I can understand it. He explains the slides while also giving us examples so that we understand what the slides are telling us. If he doesn't really understand what are the slides are saying, he will put the explanation in the announcement later in the day on canvas.
+
+--- Rating #19 ---
+Class: cmpt225
+Date: 2024-12-11 01:40:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+David is one of the BEST profs I've had. His lectures are amazing and very interesting. He is a really nice person and responds to all email fast. His exam study instructions are very clear and helpful.
+
+--- Rating #20 ---
+Class: cmpt225
+Date: 2024-12-11 01:31:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Like the other commen said was help back my John's slides. However David is an amazing person and really easy to talk too. Replies to emails very quickly, some would say to quickly!

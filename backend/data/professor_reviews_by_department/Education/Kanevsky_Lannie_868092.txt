@@ -1,0 +1,63 @@
+Professor: Lannie Kanevsky
+Professor Legacy ID: 868092
+Professor ID: VGVhY2hlci04NjgwOTI=
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 5
+Avg Difficulty: 3.5
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: EDUC428
+Date: 2014-04-06 17:26:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Amazing mentor, best prof I have had in 6 years at SFU.
+
+--- Rating #2 ---
+Class: EDUC428
+Date: 2012-10-20 04:05:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Incredible mentor and inspiring teacher.
+
+--- Rating #3 ---
+Class: EDUC428
+Date: 2009-08-26 13:05:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+She's great!
+
+--- Rating #4 ---
+Class: EDUC405
+Date: 2007-05-16 02:01:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Smart, kind, helpful, nice. She is a hero to special need students in BC.  She is cute, too, but &quot;hot&quot; seems insulting, even if true.

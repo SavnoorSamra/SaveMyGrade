@@ -1,0 +1,37 @@
+Professor: rawia inaim
+Professor Legacy ID: 2441859
+Professor ID: VGVhY2hlci0yNDQxODU5
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 3
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: ENGL112W
+Date: 2023-09-01 06:57:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Rawia was an ineffective facilitator. Assignments took a LONG time to be marked, even when there was a 2nd part to the assignment (rewrites/outlines). This meant that assignments were delayed by at least 2 weeks. Only 1 essay had grading criteria, the rest did not, so you had no idea what you were marked on. Did not release marks for final either.
+
+--- Rating #2 ---
+Class: JASPER523
+Date: 2022-01-30 22:47:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+bob lol

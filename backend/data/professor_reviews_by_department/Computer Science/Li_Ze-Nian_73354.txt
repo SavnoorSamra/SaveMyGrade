@@ -1,0 +1,180 @@
+Professor: Ze-Nian Li
+Professor Legacy ID: 73354
+Professor ID: VGVhY2hlci03MzM1NA==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.6
+Avg Difficulty: 4.6
+Num Ratings: 13
+Would Take Again Percent: 0
+
+Ratings Count Returned: 13
+
+--- Rating #1 ---
+Class: CMPT365
+Date: 2019-03-19 07:26:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+One of the worst profs I have ever had during my undergrad years. Uses slides directly from a textbook he helped write, but has no idea how to explain any fundamental details of the slides. We were allowed 2 double-sided cheat sheets for the midterm and the class average was still under 50%.
+
+--- Rating #2 ---
+Class: CMPT414
+Date: 2015-05-21 19:55:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Tough exams but good curve
+
+--- Rating #3 ---
+Class: CMPT414
+Date: 2015-05-21 19:49:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Super tough course, though helpful. The professor gives good grades to everyone after curving(minimumC-, AVGB+) though the raw score of final is extremely low.
+
+--- Rating #4 ---
+Class: CMPT365
+Date: 2013-04-15 00:52:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Ended up being a very hard course. Assignments were on the whole quite easy, but tests were very difficult focusing on seemingly random facts. He lets you have a bunch of cheat sheets for the final, but it is still difficult requiring a very throughout knowledge of all of the codecs discussed in the notes. Most would be best off avoiding this class
+
+--- Rating #5 ---
+Class: CMPT365
+Date: 2013-03-06 18:16:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He assumes everybody in the class is a multimedia genius, given how hard this area is.He usually only spend couple of mins on explaining a complex algorithm orally without any hand written on the board.Those things are not easy for anyone who has never touched this area.How can this course be an introduction,with being taught by this guy?Cmon SFU!!
+
+--- Rating #6 ---
+Class: CMPT365
+Date: 2013-03-06 18:10:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I got A- for ENSC 424, which is also the Multimedia course. However,I am still not able to follow how this guy teach.His assignments have nothing to do with the materials he would like to test.His exams keep focusing on useless, tiny things from the book.Even with prior experience in this area,I still complain about the way he teaches this course
+
+--- Rating #7 ---
+Class: CMPT365
+Date: 2011-08-22 19:24:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+in terms of personality, he is very nice, but in terms of teaching skill, he is very poor,totally don't know how to teach
+
+--- Rating #8 ---
+Class: CMPT365
+Date: 2011-08-21 14:53:11 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Take this course with the prof only if you have advanced knowledge in multimedia.funny how this course is supposed to be an introduction. the textbook or lectures dont help. those who have prior knowledge were at an advantage.Began with so much energy finished with no enthusiasm whatsoever. I never want to do anything multimedia again because of hi
+
+--- Rating #9 ---
+Class: CMPT365
+Date: 2011-07-06 20:10:09 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Admittedly, he is a nice person. However, the test and assignment are so hard to finish. This course should be ten credits according to the difficulty right now.
+
+--- Rating #10 ---
+Class: CMPT365
+Date: 2011-07-03 16:19:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+tough professor and TA ever.
+
+--- Rating #11 ---
+Class: CMPT365
+Date: 2011-06-29 20:28:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He is a nice person. BUT he does not know how to teach at all!! lectures are extremely unclear,jumps from here to there,strong accent, the worst one I've seen in SFU. Assignments are very difficult!For suitable for graduate students, not for undergrads.Do yourself a favor and avoid him.
+
+--- Rating #12 ---
+Class: CMPT414
+Date: 2010-04-29 17:22:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He's knowledgeable and always able to give extra help to students. Greatly recommend to take this course with him.
+
+--- Rating #13 ---
+Class: CMPT414
+Date: 2002-10-24 15:00:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+excellent prof. Very knowledgable, also knows how to teach and motivate students

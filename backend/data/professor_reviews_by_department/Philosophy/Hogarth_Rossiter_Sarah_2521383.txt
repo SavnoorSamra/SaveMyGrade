@@ -1,0 +1,115 @@
+Professor: Sarah Hogarth Rossiter
+Professor Legacy ID: 2521383
+Professor ID: VGVhY2hlci0yNTIxMzgz
+Department (CSV): Philosophy
+Department (Fetched): Philosophy
+Avg Rating: 4.4
+Avg Difficulty: 3
+Num Ratings: 8
+Would Take Again Percent: 100
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: PHIL357
+Date: 2020-04-27 16:04:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The best courses have an instructor who is passionate about the subject material and also cares a lot about their students' learning. We grappled with difficult texts, a pandemic shutting down in-person classes and even a snow day but Dr. H. R. was cheerful, accessible and flexible. A really kind and knowledgeable prof - would definitely recommend!
+
+--- Rating #2 ---
+Class: PHIL150
+Date: 2020-04-19 00:43:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Sarah really cares about the success of her students, she never hesitated to clarify any lecture material or expectations with me in her office hours. Her expectations are impressively clear, and participation matters (you can still get a good participation grade even without talking in lectures). Can be a hard marker, but nothing unfair.
+
+--- Rating #3 ---
+Class: PHIL150
+Date: 2020-04-12 16:52:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Sarah always tries to elaborate on material as much as she can, and frequently asks if we need clarification. Attendance matters because of quizzes and participation marks, but lectures are insightful and fun. She tried so hard to facilitate classes moving online so last minute and she made herself very accessible to the class if we had any concern
+
+--- Rating #4 ---
+Class: PHIL357
+Date: 2020-04-11 03:20:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very friendly and approachable. Her grading criteria is clear and fair, and essay feedback is detailed and useful. She was very helpful and worked hard to make things easier during the covid-19 shutdown. I would definitely take another course with Sarah.
+
+--- Rating #5 ---
+Class: PHIL357
+Date: 2020-04-08 23:19:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr Sarah Rossiter's class was great. Passionate profs are the best profs and medieval phil is her bread and butter. She's great at clarifying things and admits when she doesn't know an answer but will get back to you to clarify later. I would definitely take another class taught by her again.
+
+--- Rating #6 ---
+Class: PHIL150
+Date: 2020-04-08 23:08:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Honestly the classwork was pretty easy. There's frequent quizzes but they're really short and you can ace them easily if you at least half listen during lecture. Sarah's very kind, obviously cares very much for her students. She encourages people to speak up during lecture but never calls on anyone who doesn't wanna talk so introverts you're safe
+
+--- Rating #7 ---
+Class: PHIL150
+Date: 2020-03-20 18:01:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Sarah truly cares about her students. Grading is really fair. would definitely take another class with her.
+
+--- Rating #8 ---
+Class: PHIL350
+Date: 2019-12-26 17:25:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I enjoyed Dr. HR's class! She's pretty funny, and generally tries to illuminate difficult to understand concepts. Sometimes I wish her lectures were less discussion-based and more lecture-heavy, since it could go off the rails. Her grading is pretty fair, and she gives really good feedback. Her criteria is usually pretty clear

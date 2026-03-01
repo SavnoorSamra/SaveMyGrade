@@ -1,0 +1,258 @@
+Professor: Logan Macnair
+Professor Legacy ID: 2162624
+Professor ID: VGVhY2hlci0yMTYyNjI0
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 4.4
+Avg Difficulty: 2.7
+Num Ratings: 19
+Would Take Again Percent: 84.2105
+
+Ratings Count Returned: 19
+
+--- Rating #1 ---
+Class: CRIM101
+Date: 2025-11-20 03:33:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I had Logan for my first ever crim class in my first semester and I loved it. The class was so good and he is a good lecturer. I definitely could've gotten a better grade if I tried harder haha but oh well it was my first semester. definitely going to take one of his classes again sometime
+
+--- Rating #2 ---
+Class: CRIM300W
+Date: 2025-07-10 17:32:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+One of my favourite profs at SFU. Lectures are actually fun. He makes the content so straightforward and easy to memorize. Exams are manageable - 4-5 essay questions and you write how much you want, and lots of freedom with the paper. There was also a tutorial group presentation, but easy A
+
+--- Rating #3 ---
+Class: CRIM101
+Date: 2025-01-06 21:21:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+great professor, there is a textbook but it's not mandatory, all the quiz questions are in the powerpoint slides. Very funny, and has easy to understand and interesting lectures.
+
+--- Rating #4 ---
+Class: CRIM101
+Date: 2025-01-03 08:24:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Logan was a great professor. The lectures were very engaging and he made the content very easy to understand. The quizzes and final are very fair and reflect what has been taught in the lectures. I would definitely recommend taking this class with Logan
+
+--- Rating #5 ---
+Class: CRIM101
+Date: 2024-12-23 07:42:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Logan was a good professor as he was easy to understand and quite laidback. The class material was super interesting and even the TA was fun. If you want a good grade make sure you hand in all the written assignments on time as they are worth 40%, and make sure to study hard for the quizzes as they are worth 30% of your grade!
+
+--- Rating #6 ---
+Class: CRIM101
+Date: 2024-12-20 02:38:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Logan is a great prof. Lectures are engaging and material taught is very interesting. If you have a love for criminology, and put in the effort on assignments, you will do well. No midterm, yet there are 2 tutorial quizzes and a final. TA's are fair markers and provide good feedback. Assignments are straightforward.
+
+--- Rating #7 ---
+Class: CRIM300W
+Date: 2024-12-16 21:49:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+I like logan a lot as a professor. He makes the lectures very engaging and interesting. I like the format of this class too. Studying for the tests are quite easy as he brings the material from the powerpoints which has all the info. Overall I would take his class again.
+
+--- Rating #8 ---
+Class: CRIM101
+Date: 2024-12-15 03:58:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+My first semester in university, and this class was the WORST ONE. I dont know who lied here, but he is not a good prof. His syllabus is unclear, there isn't much relevant information on what course policies are so this is what I've gathered: won't mark late assignments, won't provide feedback, must cite in class lecture powerpoints.
+
+--- Rating #9 ---
+Class: CRIM300W
+Date: 2024-10-20 07:59:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is great! His lectures are super engaging and he goes into detail about each theory to ensure that we understand. His exams are only a few questions and you write however much you think you need to in order to get your point across. The only bad thing is it takes him about a week to post lecture slides. I definitely recommend taking his class!
+
+--- Rating #10 ---
+Class: CRIM1150
+Date: 2021-03-05 11:13:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+His lectures are the most interesting ones out of all the others I have been to, I would really like to take his classes for the upcoming semesters. Very friendly and helpful, always responds to emails.
+
+--- Rating #11 ---
+Class: CRIM417
+Date: 2019-12-09 04:37:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Designed a special topics course himself about radicalization and extremism that was very interesting. The assignments (a media analysis paper looked at messages in a movie, extremist profile paper analyzed an online forum, proposed countering violent extremist program) were all awesome. Fair marker, good assignment outlines. Would take again!!
+
+--- Rating #12 ---
+Class: CRIM318
+Date: 2019-04-22 04:09:44 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Creates a class that is mostly based off of 3 papers but does not create guidelines on what constitutes a good mark vs a bad one. Marking is very up in the air and you don't really know why you are left with such a mark. Got a much higher mark than I thought on one of the papers but much lower on the ones I thought I did well. I can't believe it
+
+--- Rating #13 ---
+Class: CRIM318
+Date: 2019-04-12 23:43:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Logan is a great prof, grading is a little strict but if you talk to him about any concerns you have, he will take the time to review and discuss it more in depth.
+
+--- Rating #14 ---
+Class: CRIM318
+Date: 2019-03-30 01:40:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Professor Macnair is one of the newish profs at SFU. And he is excellent as a seminar professor. He is highly knowledgeable about the subject matter and succinct in his lectures--and a highly skilled and open-minded mediator in discussions. Attending lecture was always a pleasure. Great assignments too!
+
+--- Rating #15 ---
+Class: 300W
+Date: 2018-06-28 16:06:59 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Logan was unhelpful and inaccessible outside of class. Unclear guidelines and marking style.
+
+--- Rating #16 ---
+Class: CRIM321
+Date: 2018-05-07 01:01:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Had Logan for CRIM321 in Fall 2017 and he is not just a fair marker but also an awesome TA. He is not intimidating and always ready to help students out. His tutorials were fun, especially considering it was the late on Friday afternoons. Great guy!!
+
+--- Rating #17 ---
+Class: CRIM300W
+Date: 2018-03-13 16:39:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great guy, best TA ever.
+
+--- Rating #18 ---
+Class: CRIM300W
+Date: 2016-11-20 23:21:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Helpful, nice, and funny. One of the best TA's I've had. Has weird hair but hot.
+
+--- Rating #19 ---
+Class: CRIM300
+Date: 2016-11-18 13:39:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Had him for a TA. Awesome guy, would take again.

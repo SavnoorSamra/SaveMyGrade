@@ -1,0 +1,271 @@
+Professor: Arsineh Garabedian
+Professor Legacy ID: 1211237
+Professor ID: VGVhY2hlci0xMjExMjM3
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.1
+Avg Difficulty: 3.2
+Num Ratings: 79
+Would Take Again Percent: 80.7692
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS420
+Date: 2021-11-16 03:36:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She is a good and caring professor. Attend the lectures, do the hw questions. Her slides are good to study for the exams. No surprises in the exams.
+
+--- Rating #2 ---
+Class: BUS510
+Date: 2020-09-25 07:21:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Arsineh cares about her students and is very easy on grades. However, this may not be helpful when grading on a curve. To succeed in her class, you need to do practice problems and understand all course materials. The only downside about her class is that I don't find her lecture very engaging, but maybe it has to do with accounting itself.
+
+--- Rating #3 ---
+Class: BUS420
+Date: 2020-09-04 22:44:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Do the practice questions she assigns in class then you will do well on her exams
+
+--- Rating #4 ---
+Class: BUS420
+Date: 2020-09-02 21:38:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Arsineh did a really good job of teaching the course online for the first time. I studied what she recommended maybe only a week before the midterm/final and ended up doing fine by making detailed excel templates and notes for each chapter. Do the assigned hw, study what she tells you, and rewatch her lectures for clarification, and you'll be fine!
+
+--- Rating #5 ---
+Class: BUS510
+Date: 2020-08-29 00:47:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+She cares about her students &amp; I enjoyed her class. There are a lot to read and practice. However, if you manage your time wisely, plan out your study each week, you'll do well. I took this course while working FT job and was able to get a good grade. I had no background in accounting &amp; her class was one of the most valuable classes I've ever had.
+
+--- Rating #6 ---
+Class: BUS420
+Date: 2020-08-28 18:28:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+All genuine. Arsineh is not the best at teaching online, but this is a difficult time for both students and profs. However, this is how I succeeded in this course: REIVEW ALL NOTES, REVIEW TEXTBOOK SECTIONS SHE MENTIONS ONLY, AND DO ALL ASSIGNED PROBLEMS. I did not pre read nor did I do extra practice problems. Open book + recorded lectures also?!
+
+--- Rating #7 ---
+Class: BUS510
+Date: 2020-08-28 12:52:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great Professor, understanding professional and extremely nice. Very accessible for conversations outside of class hours, but she will not just give you the answers to your questions. She will guide you, but not spoon feed.
+
+--- Rating #8 ---
+Class: BUS420
+Date: 2020-08-28 05:45:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+She is a very kind professor. I think midterm is much harder than final exam, final exam do not need to do the excel. I got a low mark on midterm below average, but final exam do better, get b+. Reading textbook is very useful before lecture, but there are too many materials in textbook.
+
+--- Rating #9 ---
+Class: BUS510
+Date: 2020-08-28 03:09:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I took BUSI510 with Arsineh and I really enjoyed the course. It was tough material and she made it very easy to understand. She is willing to help you by walking through complex questions. She goes at a good pace but you should also expect to put work in the class. Excellent professor with a good understanding of material and very friendly.
+
+--- Rating #10 ---
+Class: BUS420
+Date: 2020-08-28 02:24:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This is a great course, you don't become a CFO, but you understand accounting and finances, I'm not sure about the bad reviews, most likely people who did not want to do the work , She's awesome and will attend her classes again.
+
+--- Rating #11 ---
+Class: BUS420
+Date: 2020-08-28 01:29:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+prof is understanding and wants students to do well, course is difficult by nature but she tries her best to help you excel
+
+--- Rating #12 ---
+Class: BUS420
+Date: 2020-08-28 00:53:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+When I first enrolled in this course, I was very worried about it being online. Needless to say, because Arsineh cares a lot about her students doing well, she made it a smooth and easy transition to online learning. She gives BOTH midterm and final review tips so study those concepts and you will do well. Recommend taking it with her online.
+
+--- Rating #13 ---
+Class: BUS420
+Date: 2020-08-28 00:37:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+She's very nice. She cares so much about her students and wants everyone to do well in the class. She would give us tips how to study for the exam and pinpoint important material to be learned. The course itself is hard, so you need extra effort to truly understand the material. However, she is accessible outside class if you have any questions.
+
+--- Rating #14 ---
+Class: BUS420
+Date: 2020-08-13 08:02:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+This prof doesnt teach well. You have to learn everything from textbook and chapter problems yourself. No guideline given on how to solve her questions. The multiple choices on midterm are non sense. Midterm 35% final 55% quizzes 10% . Avoid her if you can. Her slides really just duplicated from the publisher slides. Nothing insightful taught.
+
+--- Rating #15 ---
+Class: BUS420
+Date: 2020-08-05 22:25:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I am taking 420 online with her. Gosh I do not know how she gets such a good rating here. She does NOT teach anything! Not even a little bit! You really have to teach yourself everything with textbook. And do not trust her words on what would be on exams as she gives questions she said &quot;won't be on exam&quot;. She is nice but does not teach well.
+
+--- Rating #16 ---
+Class: BUS420
+Date: 2020-08-03 17:22:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Honestly, good luck if ur in her class, and the class is online. U can ask her a question and she will straight up ignore you or tell you how others in the class get the information and you don't. Ive never met a prof who is so rude and unhelpful.
+
+--- Rating #17 ---
+Class: BUS420
+Date: 2020-07-15 22:57:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I'm taking BUS420 with her online right now and it's so chaotic. Be prepared to teach yourself the material with ZERO help from her. I asked her for help on an assignment and she literally said &quot;no&quot;. I have no idea why her rating is so high.
+
+--- Rating #18 ---
+Class: BUS420
+Date: 2019-12-06 00:00:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Arsineh is a nice, east-going, funny prof. She's probably one of the most understanding and helpful profs in terms of asking for additional help. Her exams are clear cut and relevant to the homework examples. Only thing is she goes through examples in class too quickly many times. Overall, I would recommend her
+
+--- Rating #19 ---
+Class: BUS251
+Date: 2019-07-27 05:40:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+My fav prof for sure! she is so funny and considerate of the students. Her exams are hard but she prepares you for them. She even tells you what concept to study for the biggest mark question so if you don't listen to her tips you will struggle. Very approachable during office hours and just AMAZING over all.
+
+--- Rating #20 ---
+Class: BUS251
+Date: 2019-04-18 07:36:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is such a nice lady! Definitely one of the most caring profs Ive ever had and shes funny! Do the assigned homework questions and youll be fine for exams. Dont slack you will suffer in the class. Literally read the textbook before lecture and try the questions ASAP and youll be golden

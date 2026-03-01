@@ -1,0 +1,144 @@
+Professor: Anas Atakora
+Professor Legacy ID: 3048957
+Professor ID: VGVhY2hlci0zMDQ4OTU3
+Department (CSV): French
+Department (Fetched): French
+Avg Rating: 4.8
+Avg Difficulty: 1.7
+Num Ratings: 10
+Would Take Again Percent: 100
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: FREN101
+Date: 2025-12-18 03:38:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took French 101 online. It was a good class to have when other courses were more heavy. We were graded by 3 tests, oral assignments, and "homework" activities. Overall an easy and fun class.
+
+--- Rating #2 ---
+Class: FREN101
+Date: 2025-12-10 07:18:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Very kind and helpful prof. Quizzes are marked generously and he gives hints about what's going to be on them during office hours. He's the GOAT! I definitely recommend taking this class with him.
+
+--- Rating #3 ---
+Class: FREN101
+Date: 2025-07-29 00:36:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Dr. Atakora is the best professor ever. He is genuinely so considerate and understanding. 100% recommend.
+
+--- Rating #4 ---
+Class: FREN101
+Date: 2025-05-21 00:32:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+I took FREN 101 online with Anas, I definitely recommend him! It's an easy class, a GPA booster, do all the homework assigned (very easy, clear grading criteria, and he grades very generously) and you'll be fine. He's very kind if you reach out with any clarifying questions, he genuinely wants his students to succeed. J'adore!
+
+--- Rating #5 ---
+Class: FREN101
+Date: 2025-03-30 04:30:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+I took FREN 101 with Prof. Anas in the Fall of 2024. He graded my assignments himself instead of the TAs and was an easy marker. The quizzes were straightforward and fair. I'd highly recommend this course to those looking to boost their GPA!
+
+--- Rating #6 ---
+Class: FREN300
+Date: 2025-03-19 00:15:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+ANAS IS SO SWEET!!! Genuinely a very kind, caring and compassionate man. Would 110% take again.
+
+--- Rating #7 ---
+Class: FREN300
+Date: 2025-03-03 23:05:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+My GOAT ! Grading criteria is very clear + he grades generously. He truly sets you up for success and wants to support your learning. He gives you in class time to complete assignments, so almost no homework ! I love him so much I go to his office hours just to yap. Participation + talking to him in class = easy 10%. BEST PROF EVER
+
+--- Rating #8 ---
+Class: FREN300
+Date: 2024-11-30 21:04:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the best profs I've ever had at SFU. Not only if he smart and very knowledgeable, but he's also genuinely one of the kindest people you will ever meet. He is friendly, accommodating, and always more than willing to lend a helping hand. This class was brilliant and I will miss it a lot!
+
+--- Rating #9 ---
+Class: FREN300
+Date: 2024-11-29 20:02:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Anas is a very kind prof and I really enjoyed his class. He is a generous grader, very approachable and is available for extra help. Sometimes his class felt a little long, but it is an easy class.
+
+Every assignment in FREN300 is a group project. So get ready to talk to your classmates and participate in class discussions. 
+Lots of presentations.
+
+--- Rating #10 ---
+Class: FREN300
+Date: 2024-11-22 00:41:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Anas was such an amazing professor. He was extremely accommadating, passionate, and very kind, perfect for an oral speaking class that requires everyone to speak in front of each other. He shared a lot about African culture, which I was not personally familiar with, but it was super cool to learn about. Il r&#233;p&#232;te tr&#232;s souvent  &#171; la vie est belle &#187;.

@@ -1,0 +1,89 @@
+Professor: Bhuvinder Vaid
+Professor Legacy ID: 1841163
+Professor ID: VGVhY2hlci0xODQxMTYz
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.3
+Avg Difficulty: 2.5
+Num Ratings: 6
+Would Take Again Percent: 100
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: FALX99
+Date: 2018-04-24 15:38:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A fantastic prof who really cares about his students.
+
+--- Rating #2 ---
+Class: FALX99
+Date: 2018-04-17 13:02:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Coolest guy I know Would recommend 10/10 Beeve&#55356;&#57142;&#55356;&#57142;&#55356;&#57142;
+
+--- Rating #3 ---
+Class: FALX99
+Date: 2018-04-17 12:59:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Coolest guy I know Would recommend 10/10
+
+--- Rating #4 ---
+Class: EDUC1100
+Date: 2017-01-13 20:31:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+no exams, no tests, the class is literally tooo easy
+
+--- Rating #5 ---
+Class: FALX99
+Date: 2013-11-12 15:02:04 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+First week he was friendly and polite, then he started being rude to the class,constantly makes the atmosphere uncomfortable. He has strict rules of people being late and assignment deadlines, but he never handed back marked assignments on time. He give really short notices on canceling classes(often too). This teacher is a GPA dragger, stay away.
+
+--- Rating #6 ---
+Class: FALX99D021
+Date: 2013-10-28 01:45:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is very moody and he is always conflicted with his emotions. He can be super understanding and they be very mean in a hurry. Aside from that, he takes his time explaining concepts. The ideal student would need to do well academically as well as get to know him very well.

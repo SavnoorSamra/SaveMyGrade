@@ -1,0 +1,37 @@
+Professor: Hanna Ogawa
+Professor Legacy ID: 2527212
+Professor ID: VGVhY2hlci0yNTI3MjEy
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 3
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: PSYC300W
+Date: 2022-12-11 08:18:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+knows her stuff and answered all my questions in detail. very nice and bonus points for being attractive.
+
+--- Rating #2 ---
+Class: PSYC300W
+Date: 2019-10-23 18:07:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Worst TA I have had in university. Shes a good person and quirky but the worst TA, she clearly puts TA-ing second to her own life which is fine, but she clearly doesnt care about the students. Asked for help multiple times for her to tell me its against policy. Way to strict, more so than the actual proff. If you get her SWITCH TAS

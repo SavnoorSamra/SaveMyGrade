@@ -1,0 +1,37 @@
+Professor: John Bateman
+Professor Legacy ID: 1133080
+Professor ID: VGVhY2hlci0xMTMzMDgw
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 2.8
+Avg Difficulty: 4
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS393
+Date: 2009-12-19 02:25:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He is not meant to be a teacher. 2 days before the midterm I went to his office hours and he wasnt there, so I emailed him, and he replied to me 20 mins before the start of the midterm saying he's in his office now (literally). Although he does explain concepts clearly, the exams are hard.
+
+--- Rating #2 ---
+Class: BUS393
+Date: 2009-07-09 15:12:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+John is a very engaging prof. He brings in real world examples to demonstrate examples. Very approachable, and his tests are fair provided you read the text and attend lectures. Lots of vital material presented that is relevant to post university endeavors.

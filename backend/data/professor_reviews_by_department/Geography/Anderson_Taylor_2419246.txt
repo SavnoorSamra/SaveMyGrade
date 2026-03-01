@@ -1,0 +1,37 @@
+Professor: Taylor Anderson
+Professor Legacy ID: 2419246
+Professor ID: VGVhY2hlci0yNDE5MjQ2
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 2
+Avg Difficulty: 3.5
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: GEOG255
+Date: 2019-04-30 06:41:56 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Try to do well on the lab assignments, even if the TA is not very nice/helpful. It will you you good in the end. Participation is also important. Prof mostly reads off slides. Ask questions if you don't understand. Midterm was cool, but the cumulative final, imo, was bad. Felt like I studied alota stuff not on the exam. Idk maybe it's just me...
+
+--- Rating #2 ---
+Class: GEOG255
+Date: 2019-04-25 21:44:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very bad prof. Speed up everything and you can hardly catch the information. Too many unrelated material used. Does not have a actual review session. You would feel disrespected during the whole course. Grade by only several points.

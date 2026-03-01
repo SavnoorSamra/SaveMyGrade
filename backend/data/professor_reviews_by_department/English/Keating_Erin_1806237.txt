@@ -1,0 +1,37 @@
+Professor: Erin Keating
+Professor Legacy ID: 1806237
+Professor ID: VGVhY2hlci0xODA2MjM3
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 3.8
+Avg Difficulty: 4
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: ENGL322
+Date: 2013-04-14 00:21:22 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+This prof knows a lot about 18th century literature and is very clear about concepts. I will say that she is a very hard marker and that the final is very challenging. Not a GPA booster at all and should only be taken by students who are extremely interested in the subject.
+
+--- Rating #2 ---
+Class: ENGLISH322
+Date: 2013-04-03 22:38:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Good Points: Clear, extremely knowledgeable on 18th Century Lit, Passionate about what she's teaching    Bad Points: hard marker, difficult finals, not enough office hours

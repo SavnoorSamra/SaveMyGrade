@@ -1,0 +1,24 @@
+Professor: Louise Legris
+Professor Legacy ID: 2286182
+Professor ID: VGVhY2hlci0yMjg2MTgy
+Department (CSV): Management
+Department (Fetched): Management
+Avg Rating: 1
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: CPRA210
+Date: 2017-10-12 20:55:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+From just a set of experiences. Either incompetent or intentionally ignorant from what was experienced.. made a lot of frustration. Keep in mind this is just one set of experiences. so try to take it with a grain of salt.

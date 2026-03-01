@@ -1,0 +1,167 @@
+Professor: Ian Tietjen
+Professor Legacy ID: 2345499
+Professor ID: VGVhY2hlci0yMzQ1NDk5
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 4.3
+Avg Difficulty: 3.5
+Num Ratings: 12
+Would Take Again Percent: 91.6667
+
+Ratings Count Returned: 12
+
+--- Rating #1 ---
+Class: HSCI100
+Date: 2019-04-01 21:03:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Ian is such a good prof! His lectures are informative and he goes the extra mile during class to make sure students understand the material. Super responsive to questions and clearly cares about what he does. He was very clear about what we would be tested on for the midterm exams, and I don't remember any surprises. Huge recommend.
+
+--- Rating #2 ---
+Class: HSCI100
+Date: 2018-12-21 00:24:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Hands down my favourtie prof at SFU . He's extremely passionate about the stuff he teaches and makes a few jokes here and there. A great start to Biology in University. Class was curved so even if I failed the midterm I still passed with a B-. One group presentation and one assignment. Totally recommend buying the textbook if you're new to bio!
+
+--- Rating #3 ---
+Class: HSCI100
+Date: 2018-12-12 06:24:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Loved him. Extremely passionate about what he teaches which makes you want to come to class. No textbook only slides. One of those profs who loves what they teach instead of making you miserable and fail. Class average was low but curved so I still did fine. Recommend for intro health science classes similar content to bio 12 in high school.
+
+--- Rating #4 ---
+Class: HSCI100
+Date: 2018-12-12 02:11:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Ian is awesome! His lectures are thorough and easy to follow. He adds in lots of helpful diagrams, charts and info in his lecture slides which make them great to study off of. He also types up a summary of all the chapters and a list of concepts to know for each exam (midterms and final). I would definitely take another class with him!
+
+--- Rating #5 ---
+Class: HSCI212
+Date: 2018-06-17 01:44:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Love this man. He really is passionate about his field and his energy about material that can be overwhelming helps ease students in to understand the material. Yes it is a hard class at times, but go to tutorial and put some effort in and it is really is an easy A. I recommend any class he teaches!
+
+--- Rating #6 ---
+Class: HSCI212
+Date: 2018-05-24 13:08:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+FANTASTIC! He is such a sweet man and a good lecturer. He really cares about his students and he is thoughtful about what he teaches. The class topics were interesting and overall not that difficult as long as you study and do the work. Some people complained about the 1st midterm but it was very fair, they just didnt study. I did well &amp; loved it!
+
+--- Rating #7 ---
+Class: HSCI212
+Date: 2018-05-08 02:33:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Ian was a great prof for this class, however I noticed the BA HSci students struggled with this class. Super friendly, answered all emails and questions on time, not a hard marker either. Make sure you do the readings and more importantly go to class. I hope to take a class with him again!
+
+--- Rating #8 ---
+Class: HSCI212
+Date: 2018-04-25 13:11:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The difficulty of the course initially made me worry about my grade but after time I learned to realize that there is no real victory if there is no real challenge. In retrospect Dr. Tietjen seems to have taught me more than I paid for and for that I am grateful. He has forever made a profound impact on my life. I only wish he taught more classes.
+
+--- Rating #9 ---
+Class: HSCI212
+Date: 2018-04-18 00:46:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+At the end of the day, Ian does what University is for - teach you about what matters. Is he a super easy prof? Nope. Did I learn a lot in his class? More than I've ever learned in any course. This is coming from someone who JUST wrote the final so there's no grade bias, but he genuinely cares and hes BRILLIANT. Would recommend if you want to learn
+
+--- Rating #10 ---
+Class: HSCI212
+Date: 2018-04-17 20:49:48 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Easy guys. It was is first sem and he comes from Harvard, class avg was low after 1st exam bc of random questions, didn't know what to focus. But 2nd exam was EASY, class avg went up 10%, he has good potential for future classes, I would say do it! its a content heavy class so ofc it isn't easy but project deffs boosts ur grade and curve helps!
+
+--- Rating #11 ---
+Class: HSCI212
+Date: 2018-03-26 03:59:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+First semester lecturing, reflected in the low midterm averages and dissatisfaction among many students as he tries to find what works and what doesn't. Was not very clear about expectations from Disease Busters project. Midterms were easy if you studied his notes thoroughly, textbook was useless. Would recommend once he has taught a bit more.
+
+--- Rating #12 ---
+Class: HSCI212
+Date: 2018-03-08 01:16:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is a new teacher and this is his first semester of teaching class. I would really recommend him to teach 900-level courses. Most midterm content did not reflect the study guide he provided did not reflect what we need to know. The course did not require any text book but get ready to answer questions that you have never learned.

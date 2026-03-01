@@ -1,0 +1,24 @@
+Professor: Linda Apps
+Professor Legacy ID: 1594146
+Professor ID: VGVhY2hlci0xNTk0MTQ2
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: EDUC100
+Date: 2011-11-25 00:27:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+A genuinely nice person who cares about the students in her class.  Class is marked fair and as a Prof she is very understanding.  Highly recommend taking this course so long as she is teaching it.

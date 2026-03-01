@@ -1,0 +1,90 @@
+Professor: Kiyip Yee
+Professor Legacy ID: 2964957
+Professor ID: VGVhY2hlci0yOTY0OTU3
+Department (CSV): History
+Department (Fetched): History
+Avg Rating: 2.7
+Avg Difficulty: 2.8
+Num Ratings: 6
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: HIST254
+Date: 2025-01-14 00:26:45 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This professor is nice, but the course is unorganized; we get almost no feedback for assignments, the lectures are unengaging, and he reads off the slides. The grading is a bit questionable, no rubric and it lowkey feels like he makes the grades we get up. The bright side is that the class has zero workload, and you just write papers sometimes.
+
+--- Rating #2 ---
+Class: HIST254
+Date: 2024-12-17 06:45:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Terrible lectures. Said the department got mad for him marking too high last term. Everything given to all 60 students was in a range of 72 to 83  everytime. Provided no feedback and graded for his own goal. B+ for participation as the most active person in my tutorial, which would have got me an A- if slightly higher. A careless and corrupt prof.
+
+--- Rating #3 ---
+Class: HIST254
+Date: 2024-11-15 07:46:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Unorganized, not engaging in lectures, difficult to communicate with. I was lowered a partial letter grade immediately before the final grade submission through a re-grade of a short written assignment from early in the semester, refused to explain choice and suggested I file an appeal, prevented my first and only 4.0 term. Similar issues all term
+
+--- Rating #4 ---
+Class: HIST254
+Date: 2024-11-02 07:33:01 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures are dry, he reads off text-heavy slides which gives little incentive to attend. He gives no rubric or feedback as to why he docks marks on assignments, and everyone pretty much gets the same grade to maintain the B- average. When asked, he tells students they should have dropped the course if getting good grades is their priority.
+
+--- Rating #5 ---
+Class: HIST254
+Date: 2024-09-13 22:27:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+really nice guy! Readings were quite lengthy every week but it was super interesting. He's an easy marker which
+got him trouble with the board for making the class average too high though.
+
+--- Rating #6 ---
+Class: HIST254
+Date: 2023-12-12 22:46:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+GPA booster with this guy. A little bit unorganized but he is a very easy marker.

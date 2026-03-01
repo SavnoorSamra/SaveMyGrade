@@ -1,0 +1,271 @@
+Professor: Michael Sjoerdsma
+Professor Legacy ID: 598795
+Professor ID: VGVhY2hlci01OTg3OTU=
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 3.2
+Avg Difficulty: 3.1
+Num Ratings: 49
+Would Take Again Percent: 89.4737
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: SEE101W
+Date: 2026-01-14 08:03:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Don't trust his niceness in lectures when it comes to his grading and flexibility with final grades.
+
+--- Rating #2 ---
+Class: ENSC105
+Date: 2025-11-25 00:52:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good professor, I had a pleasant time with him teaching. The lectures tend to get boring, lots of note-taking but Mike tries to keep it entertaining. There's only two quizzes, which define your mark along with the papers so attending lectures is a must.
+
+--- Rating #3 ---
+Class: ENSC105
+Date: 2025-04-21 20:41:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures are redundant and often boring due to the material but Mike tries to keep lectures as entertaining as possible. Quizzes are lecture heavy so it's worth it to attend classes. Majority of your final grade depends entirely on your TA.
+
+--- Rating #4 ---
+Class: ENSC105
+Date: 2024-12-18 09:40:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good professor and good sense of humor. Lecture slides he posted were also very detailed so easy to catch up if you miss a lecture. Make sure to do all the readings and practice quizzes as he recycles a lot of quiz questions as well as tests from the readings. Overall if you manage your time in this class it shouldn't be too difficult
+
+--- Rating #5 ---
+Class: ENSC204
+Date: 2024-03-05 04:19:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+not a bad guy explained everything you need for final exam. He'll be a five if he share his legos and that giant monitor with me
+
+--- Rating #6 ---
+Class: ENSC105
+Date: 2024-01-11 02:49:56 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Engaging in lectures and actually has slides that can be followed if you miss a lecture. Nothing too notable about the class cuz it felt a bit redundant for an engineering writing class- though I'm sure it's good foundational stuff. Very organized class material and lecture style.
+
+--- Rating #7 ---
+Class: ENSC105
+Date: 2024-01-08 23:53:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Make sure you always attend classes and take notes. lectures are boring but he keeps it entertaining with his jokes. Don't procrastinate your papers. Aim to finish them a week in advance so you have a while for peer review.
+
+--- Rating #8 ---
+Class: ENSC105
+Date: 2024-01-08 04:28:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This is a writing class, you write an informative paper on an engineering topic and adapt it into a persuasive paper. Make sure you start writing early on, even if it's just note-taking. It really sucks when you leave note-taking and writing till the last week. Mike is approachable and funny and his quizzes are very similar to the practice quizzes.
+
+--- Rating #9 ---
+Class: ENSC105
+Date: 2023-12-10 06:08:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Mike was an great prof. He makes a lot of funny jokes and examples during lectures. His quizzes are based on the practice quiz that he gave you.
+
+--- Rating #10 ---
+Class: ENSC105
+Date: 2022-12-23 01:38:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of my favorite profs! Once you get to know him he's very approachable and great to talk to. The course content was somewhat bland but I don't like writing and it was a writing course. He knows how to teach and is methodical in the way he goes about his lectures. He is also very respectful towards students. Main issue was bad TAs.
+
+--- Rating #11 ---
+Class: ENSC105
+Date: 2022-11-09 19:01:53 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His lectures are great, although he isn't the nicest to all his students. I was pointed out to be quiet during a guest lecture, even though it was the group directly in front of me talking and not me. He talked to me after about it saying it was very rude, and he didn't accept my explanation. His lectures are great though.
+
+--- Rating #12 ---
+Class: ENSC100
+Date: 2022-01-01 03:31:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He's many engineering students' introduction to university and for that role, he is not a bad choice. Lectures are clear and easy to follow, and the topics chosen are varied and interesting enough to get students interested for the rest of the degree.
+
+--- Rating #13 ---
+Class: ENSC100W
+Date: 2019-01-08 23:19:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Quizzes were too broad which made it really difficult to study for. The persuasive paper is 40% of your mark so spend a lot of time on that. He's a pretty funny professor though.
+
+--- Rating #14 ---
+Class: ENSC100W
+Date: 2018-12-30 08:09:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Mike grades on a curve. I did well on the paper which meant I did well in the class. The quizzes were tough and the average was low, but the curve boosted me. Attend the lectures and read the textbook and youll get a good grade. The group project is easy as well.
+
+--- Rating #15 ---
+Class: ENSC100W
+Date: 2018-12-08 11:48:32 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures are okay, but don't teach you enough to do well in the class. If it wasn't mandatory and graded, I'd say stay home and read the text book. Honestly, I got the second highest mark on the midterm by just binge-reading the textbook in the week before. The average was about half of my grade. Decent teacher, but the text is more useful.
+
+--- Rating #16 ---
+Class: ENSC100
+Date: 2018-01-09 19:28:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I enjoyed Mike's class a lot, he is an engaging lecturer and has a good sense of humour. The group project will become tedious but it was a good experience nonetheless. The final paper is essential to doing well, so make sure you put in the effort. Quizzes are based on readings AND lectures, he'll give hints in lecture on what will be on the quiz.
+
+--- Rating #17 ---
+Class: ENSC100W
+Date: 2017-12-21 23:38:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The first 'Group Project' class of engineering. However... The persuasive paper is worth 40% of your grade. Start thinking about what you want to write early, and FOLLOW THE RUBRIC. Seriously. The paper's worth double the entire group project.
+
+--- Rating #18 ---
+Class: ENSC101
+Date: 2017-10-09 22:23:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He's an ok guy, but the material that he is teaching is a real torture!! The textbook ideas are not well organized making it very difficult to keep track of.
+
+--- Rating #19 ---
+Class: ENSC101W
+Date: 2016-12-24 15:15:35 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He has no clear Grading criteria on Group project.
+
+--- Rating #20 ---
+Class: ENSC204
+Date: 2016-03-21 22:12:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Mike is reasonable and usually teaches pretty easy but necessary stuff. If you go to lectures, you literally cannot fail. He post really helpful previous exams that help you learn and prep. Always take Mike.

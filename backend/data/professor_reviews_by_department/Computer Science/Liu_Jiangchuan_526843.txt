@@ -1,0 +1,272 @@
+Professor: Jiangchuan Liu
+Professor Legacy ID: 526843
+Professor ID: VGVhY2hlci01MjY4NDM=
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.3
+Avg Difficulty: 2.7
+Num Ratings: 47
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT365
+Date: 2025-01-07 07:30:05 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures are very boring and filled with a lot of material we didn't need to know for tests. Lectures are not recorded so i would recommend going. Coding projects were not bad and not harshly marked. Exams were similar to homework questions and he told us mostly exactly what would be on it. Overall a nice prof but bad lectures
+
+--- Rating #2 ---
+Class: CMPT365
+Date: 2024-12-28 09:55:40 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very boring and monotone lectures. And if the difficulty of the lectures was 2, then the exams would be 12. Not fun. 
+Very tough grader.
+
+--- Rating #3 ---
+Class: CMPT365
+Date: 2024-12-21 05:01:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This class was my first 300 level course, it was really bad. Can't stay focused for more than 10 minutes really boring. Get ready to study everything by yourself, exams are hard, the grading is crazy tough, but it isn't that hard to learn on your own, don't expect to learn that much. The way he replies to emails is unprofessional & annoying.
+
+--- Rating #4 ---
+Class: CMPT365
+Date: 2023-12-12 07:29:04 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He is very knowledgeable in his area of research, and the topics taught are interesting. Thanks to the circumstances at SFU the difficulty was SIGNIFICANTLY lower - a lot of extensions and watered down quizzes. Textbook did a poor job at explaining things; slides might be better but not by a lot. Had to constantly refer to external sources.
+
+--- Rating #5 ---
+Class: CMPT771
+Date: 2023-01-03 05:32:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He was a great professor. He really cares about the content and wants you to do as well. He is clear about his expectations and is fair at the end with grading. He is pretty strict with presentation and has high standard. You will be highly tested on what is said in class, so get ready to attend every session if you want a good result.
+
+--- Rating #6 ---
+Class: CMPT365
+Date: 2022-12-19 04:42:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Pretty low effort prof. Bad lecture notes that are organized terribly. Very silly assignment deadlines and other course component deadlines at the same time in the same day (6pm lol). Intentionally feels like he makes easy content harder by doing a bad job of explaining it or assuming that the people he is teaching are knowledgeable on said topic.
+
+--- Rating #7 ---
+Class: CMPT365
+Date: 2022-12-16 02:46:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures are pretty dry and due to a lack of recordings, you have to go in-person to them. Assignments were pretty easy and exams were based off lectures + written assignments making them feel very fair. Overall, the class was informative and I enjoyed the assignments because they applied the topics we learned to real world applications.
+
+--- Rating #8 ---
+Class: CMPT365
+Date: 2022-04-29 04:03:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Professor JC is really nice person. Hard work, then you can get what you expect.
+
+--- Rating #9 ---
+Class: CMPT371
+Date: 2018-01-05 02:46:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very informative. Course itself can be dry, but comprehensible. Read textbooks to get more background knowledge. He is clear on what he expects on exams. Overall, I enjoyed his lectures and his programming assignments were interesting too. Defitely doable!
+
+--- Rating #10 ---
+Class: CMPT365
+Date: 2012-12-13 01:19:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+First, take math 242 before this. It's not listed as a prereq but it should be. JC teaches the course with a focus on how to design multimedia applications rather than using them, which is really interesting. Lots of material but for exams you only need to remember what he stresses. The projects can be challenging. You get back what you put in.
+
+--- Rating #11 ---
+Class: CMPT365
+Date: 2012-07-14 13:29:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+JC is a quite helpful and nice prof. The two projects are related to the course content and you can learn a lot if you really put effort on them. The exam is fair and not difficult if you know concepts well.
+
+--- Rating #12 ---
+Class: CMPT365
+Date: 2012-04-19 23:15:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He's wonderful. His midterms and finals are pretty easy. Almost two thirds students finished the final exam in just one hour. If you always attend his lectures, you will find that several final questions that look difficult have been discussed during lectures. You cannot benefit from that if you only attend few lectures.
+
+--- Rating #13 ---
+Class: CMPT371
+Date: 2012-03-19 23:49:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+All the material is covered in his lectures and slides. Exams are based on the assignment and the projects are not very difficult. The prof is helpful and can always reply your emails very soon. A quite nice and interesting Chinese guy:) I'd love to take his courses in the future.
+
+--- Rating #14 ---
+Class: CMPT365
+Date: 2012-03-16 03:08:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Most things covered in lectures are not difficult. Midterms are based on the homework and his lecture slides. DO NEED to attend lectures as he will tell you what you need to memorize and how the exam will be organized. The projects are interesting and not that difficult.
+
+--- Rating #15 ---
+Class: CMPT771
+Date: 2012-03-10 03:14:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very good professor. I am now very interested in networking related works.
+
+--- Rating #16 ---
+Class: CMPT371
+Date: 2012-02-09 04:15:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+one of the best professors I have met. attending class is important since he will tell you  what will be covered in the exam . also, he is very glad to answer your questions and always replies your e-mail in 24 hours.
+
+--- Rating #17 ---
+Class: CMPT371
+Date: 2011-12-29 15:13:59 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+he's cute. anyway u never have 2 listen 2 his lectures, they r jus helpless. better spend time on the textbook and exams become so easy.
+
+--- Rating #18 ---
+Class: CMPT371
+Date: 2011-04-27 21:20:32 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+This class could be good.  Making JC teach it makes it horrible.  One of the worst profs I've had in my 4 years here.  He actually knows his material, but his assignments are so old that most people copy them, and his projects are useless and also mostly copied.  This means those of us who bust our asses to do it without cheating get penalized.
+
+--- Rating #19 ---
+Class: CMPT371
+Date: 2011-04-27 19:54:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+this prof is very smart,but he has hard time explain to students things himself understands well.And sometimes pronounce words wrong, like he pronounce &quot;genuine&quot; like &quot;genius&quot; .The exams are fair, but assignments and projects could be very time consuming I think if you r his graduate student, he will be more helpful.
+
+--- Rating #20 ---
+Class: CMPT371
+Date: 2010-12-24 03:03:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Smart prof. but have a hard time explaining things. You're better off reading the book. Extremely easy assignments and relatively easy exam. You need not memorize or understand everything to pass. Though grading is low. Average and median grade of class is 85/86.

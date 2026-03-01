@@ -1,0 +1,37 @@
+Professor: Hayley Lagroix
+Professor Legacy ID: 2182613
+Professor ID: VGVhY2hlci0yMTgyNjEz
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 3
+Avg Difficulty: 1
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: PSYC303
+Date: 2017-06-09 12:06:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I was hesitant about taking this class with a new instructor, but Hayley was a great choice. She was helpful in office hours and after class. Lectures are dense but overlap with the textbook. The 3 non-cumulative multiple choice exams are very easy if you put the work in. Group presentation is confusing. Easiest psychology class I've taken at SFU.
+
+--- Rating #2 ---
+Class: PSYC303
+Date: 2017-03-22 13:44:00 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Your typical psyc class with some extra triggering stuff. Lectures are boring & notes are disorganized so your best shot is to study the textbook for the exam. Which btw is like $200 and there's only one in the library, in reserved section no less. Cherry on top there's a term project group presentation. Not recommended - there are better courses.

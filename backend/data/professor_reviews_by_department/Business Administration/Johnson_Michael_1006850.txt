@@ -1,0 +1,271 @@
+Professor: Michael Johnson
+Professor Legacy ID: 1006850
+Professor ID: VGVhY2hlci0xMDA2ODUw
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.7
+Avg Difficulty: 2.3
+Num Ratings: 73
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS336
+Date: 2026-02-23 02:55:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Michael is the best instructor for this course; this point is definitely without any doubts.
+
+--- Rating #2 ---
+Class: 336
+Date: 2022-04-20 08:14:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is just amazing!!! The Best Professor I ever had at SFU :)
+
+--- Rating #3 ---
+Class: BUS336
+Date: 2022-04-06 20:46:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I really enjoy taking 336 with Michael! He cares about his students and keeps everything organized. The course is not easy but he makes it easier by giving some examples in class. Make sure to review the textbook and tutorial slides prior to the lecture and do weekly practice questions to keep track of the material.
+
+--- Rating #4 ---
+Class: BUS336
+Date: 2021-01-26 22:18:48 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Michael was a great prof who tried to explain the concepts clearly. However, the marking was left to the TAs and he wasn't very proactive in answering emails. Midterm and final were a bit confusing as everything is now online. Study and pay attention to his lectures
+
+--- Rating #5 ---
+Class: BUS336
+Date: 2020-11-29 00:58:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+This guy loves coffee, and you should too! He will mention coffee 20+ times in each of his lecture recordings and for you to drink some. Coffee break! literally great teaching skills
+
+--- Rating #6 ---
+Class: COMM651
+Date: 2018-10-23 01:02:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+One of the best profs I've ever had.
+
+--- Rating #7 ---
+Class: BUS336
+Date: 2017-09-04 04:43:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Best Prof ever. Just show up, and do all the hw and practice exams he gives. No need for a book and extra questions.
+
+--- Rating #8 ---
+Class: BUS336
+Date: 2016-12-22 21:15:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Mike is passionate about statistics and cares a lot about students and wants us to succeed. He has a good sense of humour and very generous in giving marks.
+
+--- Rating #9 ---
+Class: BUS336
+Date: 2016-11-24 04:27:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Best prof ever.
+
+--- Rating #10 ---
+Class: BUS336
+Date: 2015-12-16 11:38:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+I STRONGLY recommend pre-reading before class to get the most out of lecture.  Although he has crystal clear lectures, you will get the most out of it if you do preread, because he goes really fast.  Final was more difficult than the midterm, just make sure you know how to do every single example hes ever gone through (seriously) and youre good.
+
+--- Rating #11 ---
+Class: BUS336
+Date: 2015-10-28 22:12:12 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Michael is great at teaching and makes things easy to understand. However, when asked questions, he gives vague answers, in a way that says 'you should know, so I'm not going to tell you'. His notes have a lot missing and he expects you to know things he didn't teach at all, and they're tested on the midterm. (so read the text and do exercises)
+
+--- Rating #12 ---
+Class: BUS336
+Date: 2015-05-23 17:59:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+He is a good teacher, but he is arrogant and rude.  Worst prof ever had to talk with.
+
+--- Rating #13 ---
+Class: BUS336
+Date: 2015-04-26 07:49:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Mike is an excellent professor. After receiving a B- in BUEC 232, I was really worried about BUS 336. However, based on his passion for the material, excellent teaching ability, and availability to offer assistance, I was able to earn an A in his class. Thank you Mike.
+
+--- Rating #14 ---
+Class: BUS336
+Date: 2015-04-19 17:22:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great prof. Very clear, gives plenty of practice questions. Everything was easy up to the final exam; final was tough. Overall great class with a great prof.
+
+--- Rating #15 ---
+Class: BUS336
+Date: 2015-04-16 03:48:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Mike is literally the best professor at SFU!  He made statistics super enjoyable and explained everything really well.  The exams are not crazy difficult, but it's very doable as long as you read the questions carefully and budget your time for each question.  Would take another OM class with him!
+
+--- Rating #16 ---
+Class: BUS336
+Date: 2015-03-27 01:09:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+There is no professor more passionate that Mike is. Really glad I had the chance to take a class with him during my time at SFU. He is clear in his lectures and makes the content easy to understand. The course itself is pretty tough but if you show up to lectures and do the homework problems before the exams you'll do fine.
+
+--- Rating #17 ---
+Class: BUEC232
+Date: 2015-01-29 02:04:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+One of the best profs I've had. I am really bad at statistics, but fortunately I took class with him - it saved me. He is a great person, passionate about his subject, ready to help. Tries to make lectures as interesting as possible. The class is tough though - absolutely never skip lectures and do all of the practice assignments.
+
+--- Rating #18 ---
+Class: BUS336
+Date: 2015-01-07 01:48:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Mike is probably the best professor at SFU. His lectures are a must to attend but he is very clear and only tests on lecture material. Just pay attention in class. Also open labs were very useful for help.
+
+--- Rating #19 ---
+Class: 336
+Date: 2014-12-11 00:55:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+He is one of the best prof as many people already said it. He is great, helpful and funny. His lectures are interesting and make you want to be in class. His mid-term is easy but final maybe a little be harder (but not too hard). As long as u you do your jobs, you will be fine. An easy A+ for me
+
+--- Rating #20 ---
+Class: 336
+Date: 2014-12-06 23:42:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Super nice prof, great one on one if you need clarification. The final was hard but is doable if you have done the practice assignments.

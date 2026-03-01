@@ -1,0 +1,102 @@
+Professor: Carla Pretorius
+Professor Legacy ID: 2889374
+Professor ID: VGVhY2hlci0yODg5Mzc0
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 4.3
+Avg Difficulty: 2.9
+Num Ratings: 7
+Would Take Again Percent: 85.7143
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: CHEM-230
+Date: 2025-12-10 21:29:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Early in the semester I asked for help and she said I was on my own
+
+--- Rating #2 ---
+Class: CHEM-366
+Date: 2025-11-03 06:44:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is mother she is goddess what more could you ask for.
+
+--- Rating #3 ---
+Class: CHEM-230
+Date: 2025-01-22 01:32:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Carla is hands down my favourite prof so far. She is patient with questions regarding lectures and wants her students to succeed in the courses. She also gives good feedback for you to improve on your work in the future. 10/10 recommend.
+
+--- Rating #4 ---
+Class: CHEM-230
+Date: 2025-01-04 02:26:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Very good with clarity during lectures and tutorials, always willing to help and give feedback where necessary, and very kind and caring with her students!
+
+--- Rating #5 ---
+Class: CHEM-230
+Date: 2023-10-22 06:05:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The sweetest professor! It was her first time teaching this course, but she did a great job. She has a positive and friendly attitude and is  always willing to help. Her exams were very fair, there are no surprises and everything is straight out of the notes. She can be picky with grading, but does provide good feedback.
+
+--- Rating #6 ---
+Class: CHEM-230
+Date: 2023-08-23 19:53:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I've never felt more supported by any instructor before. Dr. Pretorius is so amazing and caring. Her course is organized and she has great availability outside class to talk about concepts. Her exams/tests are fair, but she is particular about how you write your answers etc. so look out for that.
+
+--- Rating #7 ---
+Class: CHEM-266
+Date: 2023-03-22 07:01:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She will be harsh on marking lab reports, but has a clear grading rubric with expectations for each section of the report. Labs are fairly easy, often getting out 1-2 hours before the lab ends (except STM). Most of the work in the class is data workup and writing, of which you have 2 weeks to write your report and submit it.

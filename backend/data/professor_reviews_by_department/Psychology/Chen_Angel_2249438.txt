@@ -1,0 +1,63 @@
+Professor: Angel Chen
+Professor Legacy ID: 2249438
+Professor ID: VGVhY2hlci0yMjQ5NDM4
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 3
+Avg Difficulty: 3.3
+Num Ratings: 4
+Would Take Again Percent: 25
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: PSYC391
+Date: 2018-04-04 00:29:16 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Whoever rating her high, are you seriously kidding me? No.
+
+--- Rating #2 ---
+Class: PSYC391
+Date: 2018-03-10 02:13:46 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I took a course with her. I didnt like her. Material is dry and class is boring.
+
+--- Rating #3 ---
+Class: PSYC260
+Date: 2017-11-06 16:31:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I love Angel! Her lectures, exams and grading criteria are very clear and straightforward. I took 260 with her and now I'm taking a selected topics with her. I would definitely recommend.
+
+--- Rating #4 ---
+Class: PSYC260
+Date: 2017-04-21 03:59:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very caring prof and has clear expectations. English is not her first language but you can still understand her lectures. The assignments and exams were marked very hard by the TAs. The minimum requirements will not get you a decent grade. She marks attendance through i-clicker participation (4%). A 78% will get you a B- in this class.

@@ -1,0 +1,37 @@
+Professor: Katen Kelly
+Professor Legacy ID: 2997740
+Professor ID: VGVhY2hlci0yOTk3NzQw
+Department (CSV): Biomedical Physiology & Kinesiology
+Department (Fetched): Biomedical Physiology & Kinesiology
+Avg Rating: 5
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BPK423
+Date: 2024-04-16 19:07:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She was a great TA! She always listened to our needs and helped us out with any questions that we had. She was probably the best TA I've had with how comfortable she made me feel!
+
+--- Rating #2 ---
+Class: BPK423
+Date: 2024-04-16 02:37:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This was my first time taking a class with Ms. Kelly as a TA, and she was a joy. She taught one lecture as well as worked with us during tutorials and was a joy to learn from. The tutorials were very enjoyable and really helped me understand the course load better. Her grading was quite fair and she gave great feedback. Overall, a great TA!

@@ -1,0 +1,76 @@
+Professor: Feyza Sahinyazan
+Professor Legacy ID: 2632318
+Professor ID: VGVhY2hlci0yNjMyMzE4
+Department (CSV): Management
+Department (Fetched): Management
+Avg Rating: 5
+Avg Difficulty: 2.6
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: BUS373
+Date: 2025-09-03 05:21:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very engaging lectures and a very interesting final project. Make sure to choose a good team because you'll be working with them for the entire term.
+
+--- Rating #2 ---
+Class: BUS373
+Date: 2025-08-24 17:27:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Feyza is hands down one of the best instructors at SFU.  At first I thought it was strange how everything was "gamified".  BUT!  She was absolutely hilarious, engaging, dedicated and informative.  I absolutely loved her and the course!  Would recommend!!!
+
+--- Rating #3 ---
+Class: BUS373
+Date: 2025-08-09 04:55:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Feyza is extremely intelligent and she makes learning fun with her course design. Expectations for the course were set very early on, and she stayed consistent throughout the semester. I love how encouraging she was and the final project hackathon was a great way to test our knowledge.
+
+--- Rating #4 ---
+Class: BUS373
+Date: 2025-06-09 09:39:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+She is a good instructor, given the clear instructions and amazing lectures for each week
+
+--- Rating #5 ---
+Class: BUS473
+Date: 2021-03-03 21:06:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Feyzas approach to online learning is a breath of fresh air in a faculty filled with technologically-inept morons. The half asynchronous/synchronous structure works well in this 4 credit class, with lecture being used to mostly to work on problems. On top of that shes a really a good teacher too. Could live without the group project though.

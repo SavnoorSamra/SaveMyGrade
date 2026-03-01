@@ -1,0 +1,76 @@
+Professor: Natt Hongdilokkul
+Professor Legacy ID: 1616976
+Professor ID: VGVhY2hlci0xNjE2OTc2
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 3.3
+Avg Difficulty: 3
+Num Ratings: 5
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: ECON370
+Date: 2021-12-23 13:20:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Final was a little hard, but otherwise great course. No one takes econ electives seriously, but for once I really enjoyed this elective. It really helped me really think critically. Natt is overall a good instructor. I'd highly recommend the course.
+
+--- Rating #2 ---
+Class: ECON201
+Date: 2016-12-18 13:01:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Good and helpful teacher, but a tough grader.
+
+--- Rating #3 ---
+Class: ECON103
+Date: 2016-08-14 20:33:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Awful professor. Does not give any help as a professor and rather cares about his own needs than the students. Condescending when teaching it
+
+--- Rating #4 ---
+Class: ECON201
+Date: 2013-03-09 09:16:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Natt is a very helpful TA. He is willing to help even though I am not in his tutorial session. His note are crystal clear and easy to understand and follow. I used to confuse with Econs but now it seems to be that Econs aren't that hard at all.
+
+--- Rating #5 ---
+Class: BUEC333
+Date: 2012-06-01 14:35:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Natt is a great TA. He knows his stuff. I didn't use to like econ that much but now it doesn't seem so bad.

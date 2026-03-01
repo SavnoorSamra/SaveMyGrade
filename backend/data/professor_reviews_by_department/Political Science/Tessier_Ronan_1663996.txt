@@ -1,0 +1,11 @@
+Professor: Ronan Tessier
+Professor Legacy ID: 1663996
+Professor ID: VGVhY2hlci0xNjYzOTk2
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

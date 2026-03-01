@@ -1,0 +1,271 @@
+Professor: Maureen Fizzel
+Professor Legacy ID: 54015
+Professor ID: VGVhY2hlci01NDAxNQ==
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.4
+Avg Difficulty: 3.7
+Num Ratings: 29
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS221
+Date: 2017-11-30 18:08:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This class is so relevant and helpful for everyday life. Maureen is such a sweet lady who is funny and easy to listen to. There's homework every week but it's super light and takes less than an hour. Her tests are fair and not too difficult.
+
+--- Rating #2 ---
+Class: BUS251
+Date: 2016-11-25 02:04:53 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great prof, explains everything well and gives ton of practice questions that help with the exams. She provides lectures slides and goes over them in lecture and are quite straight forward.  Also, sets up additional review sessions before final. And will weigh the final more if you do better on it than you did on the midterm!
+
+--- Rating #3 ---
+Class: BUS251
+Date: 2016-04-25 23:49:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Maureen's very kind and will answer your questions thoroughly if you go to her office hour. Midterm was relevant to textbook questions but final was much more difficult. Her 8-hour review sessions weren't helpful as the exam was nothing like the questions she covered. I would recommend her class but you definitely have to work hard.
+
+--- Rating #4 ---
+Class: BUS251
+Date: 2015-12-31 03:05:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Her slides are very vague so if you skip class, you'll really struggle with the way she teaches and how she will test you on it. She doesn't really follow the textbook and her exams are hard, but as long as you study, you should be fine. She replies emails fast & if you go to office hours, she will be there to help. She's a sweet and caring prof.
+
+--- Rating #5 ---
+Class: 420
+Date: 2015-01-15 17:06:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The course itself is difficult. Prof. is very nice and helpful. attending all classes and taking notes are important. Her method is different from text. Do all assignments and practice exam, you will be fine. Go to her office hours when you have questions. She is very patient and cares a lot about her students. One of the greatest prof. I have had.
+
+--- Rating #6 ---
+Class: 420
+Date: 2014-11-20 11:57:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Her methods are very different from the ones in the textbook. So textbooks are only for homework. You wouldn't have many materials to read and study at home, only her notes, which is too little. Tests are hard.
+
+--- Rating #7 ---
+Class: BUS320
+Date: 2014-11-06 01:22:13 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is really helpful, and she usually replies to emails within a day or two. She is a really helpful prof. Sure she's a hard marker, but she gives the marks where they are  deserved. Even if you go to her after with your exam after, she'll go over the exam and explain what steps you went wrong in.
+
+--- Rating #8 ---
+Class: BUS201
+Date: 2011-12-11 22:41:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very strict and extremely hard marker. Very sweet lady though. Always willing to help her students even though her exams are difficult. She makes concepts relatively easy to understands but her exams are tricky.
+
+--- Rating #9 ---
+Class: BUS251
+Date: 2010-08-26 14:49:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Slides contain basic concepts but some parts are too unclear and simplified, esp for midterm and final. Like learning abc or 123 and expecting complete literacy. Repeating points in the end won't help for hyper rush lectures. I understand Prof and TA want us to learn, but they are condescending and adds little encouragement. Not recommended at all!
+
+--- Rating #10 ---
+Class: BUS320
+Date: 2010-08-13 15:03:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+The most unhelpful professor I have ever had. Avoid taking course with her.
+
+--- Rating #11 ---
+Class: BUS320
+Date: 2010-07-23 02:28:04 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Maureen is a terrible prof.  Her midterm questions are made by her. The questions require a lot of writing. To study for the exams, make sure you read the book, and read her notes. She doesn't give answers to the questions in the textbook, so you have to go to her office hours to get them. Avoid this prof if you can.
+
+--- Rating #12 ---
+Class: BUS320
+Date: 2010-04-27 14:34:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Course itself was a little difficult but not too hard to handle. Textbook was often useless since industry standards keep changing and that's one reason why the course was hard. I'm actually glad she taught us the current way rather than the text. No practice exams though, and most of the questions from the book are useless
+
+--- Rating #13 ---
+Class: BUS320
+Date: 2010-04-21 02:55:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Absolutely awful. Refused to give practice midterm or final. Refused to give solutions to practice problems. Only practice problems available are in the text, which has few solutions. Her midterms are based on her own questions, very unlike that of the text, so you're essentially tossed into exams with no idea what to expect. Avoid at all costs.
+
+--- Rating #14 ---
+Class: CLASSSECT
+Date: 2007-11-19 23:15:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+This is very narrow minded individual.  Thinks that accounting is the only subject subject that can solve hunanity's problems.
+
+--- Rating #15 ---
+Class: BUS420
+Date: 2006-04-28 17:07:57 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Well, for me this was a nightmare of a class.  Her notes were practically useless, and her methods were very different from the book.  The amount of content was also ridiculous.  I'm just glad I got out in one piece.  I can't speak for anyone else, but I would avoid taking this class with her.
+
+--- Rating #16 ---
+Class: BUS420
+Date: 2006-04-25 16:55:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very enthusiatic about her material, and is very nice to students. Her exams are tough, but fair. As long as u can committ yourself to doing (and completely understanding) all the assignments and sample exams, you'll be fine. Her notes are unclear at times, so you can't get by without reading the text. Overall, one of the better accounting profs.
+
+--- Rating #17 ---
+Class: BUS420
+Date: 2004-07-13 19:20:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Excellent accounting professor!  She made consolidation seem almost easy!  Her final is a bit tough, but if you do all of the assignments, you should have no problems aceing it!
+
+--- Rating #18 ---
+Class: BUS420
+Date: 2003-09-15 21:24:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Is always very hyper. Sometimes I'm not sure she knows what she is talking about. Got an A in the class but mostly from self study, it was often difficult to understand the lectures. Her enthusiasm is great and she is a terrific person.
+
+--- Rating #19 ---
+Class: BUS420
+Date: 2003-05-22 20:27:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+One of the best profs ever.  Funny & engaging; definitely take a class with her.
+
+--- Rating #20 ---
+Class: BUS319
+Date: 2003-04-19 01:05:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+condescending

@@ -1,0 +1,280 @@
+Professor: Janice Regan
+Professor Legacy ID: 246300
+Professor ID: VGVhY2hlci0yNDYzMDA=
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1.8
+Avg Difficulty: 4.3
+Num Ratings: 387
+Would Take Again Percent: 7.6923
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT125
+Date: 2026-02-12 21:08:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+one year later, I still have nightmares
+
+--- Rating #2 ---
+Class: CMPT125
+Date: 2026-02-12 21:06:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+a year later, I still sometimes have nightmares
+
+--- Rating #3 ---
+Class: CMPT125
+Date: 2025-12-12 07:07:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+please retire
+
+--- Rating #4 ---
+Class: CMPT125
+Date: 2025-12-12 06:16:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Janice Regan is an absolute legend&#8212;her CMPT mastery is unmatched, her teaching transcendent. She radiates celestial wisdom that shines even the darkest code. She didn't just teach CMPT125; she awakened my CMPT soul. Her kindness knows no bounds, her presence divine. Future generations NEED her course&#8212;she's the reason I found my calling.
+
+--- Rating #5 ---
+Class: CMPT125
+Date: 2025-12-12 03:55:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+She had to pull up a Word doc on the projector to write down all the problems we were discovering during the final exam and then didnt curve it. Also gave me a 20% on an assignment that later got changed to 90% cause she marked it wrong and will ghost you if you point out too many things she does wrong specifically for the quizzes. She is the worst
+
+--- Rating #6 ---
+Class: CMPT125
+Date: 2025-07-15 05:53:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+please dont take class, not a good professer
+
+--- Rating #7 ---
+Class: CMPT125
+Date: 2025-07-11 01:26:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+before I took this class I thought that Janice told her students to give her fake negetive reviews as a joke. I thought there was no way that a professor could ever be like what Janices reviews said without getting fired. I was wrong. Don't take this class.
+
+--- Rating #8 ---
+Class: CMPT125
+Date: 2025-07-08 05:09:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Please don't
+
+--- Rating #9 ---
+Class: CMPT125
+Date: 2025-06-28 05:33:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Run, don't walk
+Alright, alright, alright
+
+--- Rating #10 ---
+Class: CMPT125
+Date: 2025-06-09 22:54:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Worst prof and class ever. Just drop out if you have to take this class with her. nothing makes it worth it
+
+--- Rating #11 ---
+Class: CMPT125
+Date: 2025-05-30 00:36:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+listen to the other reviews. Janices class is not to be taken under any circumstances
+
+--- Rating #12 ---
+Class: CMPT125
+Date: 2025-05-04 16:37:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Avoid her at all cost. Imo she has improved since previous semesters but regardless her grading criteria is confusing, errors in every single exam and quiz, her lectures are pretty bad, exams were extremely difficult and not aligned with teaching, etc. Your best bet for this class is to learn & practice c/c++ and on your own as much as possible.
+
+--- Rating #13 ---
+Class: CMPT125
+Date: 2025-04-27 21:11:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Janice Regan is very unprofessional in terms of deadlines. 
+Basically every quiz, assignment and exam was delayed in one way or another. 
+Expects student to follow coding standard even though her sample exam solutions didn't.
+
+I recommend taking this class with another professor
+
+--- Rating #14 ---
+Class: CMPT125
+Date: 2025-04-27 20:34:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The worst prof I've ever had. During the final she had to type up a word doc with at least ten mistakes she found. The instructions for the assignments are super unclear and the marking is lazy. If your output does not match hers character for character, you will lose a lot of marks. During lectures, she just reads off her mistake ridden slides.
+
+--- Rating #15 ---
+Class: CMPT125
+Date: 2025-04-26 22:29:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This professor grades like a robot. 
+
+Each assignment has examples that should match your outputs. Each output example will be a part of your grade that will disappear if it doesn't follow the outputs exactly by the dot.
+
+You would have better grade making a code that just prints what the output wants rather than actually doing the assignment.
+
+--- Rating #16 ---
+Class: CMPT125
+Date: 2025-04-25 19:10:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+You would think after 2 underprepared midterms she would be on top of her stuff for the final exam, but no, she comes in huffing and puffing with not enough exam sheets for everyone, forcing us to begin the exam late. Her assignments are and quizzes are riddled with mistakes and makes it very difficult to learn properly. Joke of a professor.
+
+--- Rating #17 ---
+Class: CMPT125
+Date: 2025-04-24 19:47:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Worst prof ever
+
+--- Rating #18 ---
+Class: CMPT125
+Date: 2025-04-22 03:42:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+worst prof i've ever had. Her lectures, assignents, and exams are full of mistakes. She even had to type a whole word doc to correct her mistakes during the final. This course is exhausting, she killed my little passion for cs. Peoppe giving her 5 ratings are absolutely delusional.
+
+--- Rating #19 ---
+Class: CMPT125
+Date: 2025-04-21 04:49:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the hardest professors I've had. Lectures are unclear and rushed, assignments assume prior advanced coding knowledge, and exams often have errors or confusing questions. Unless you're very confident and can self-learn, I wouldn't recommend her course.
+
+--- Rating #20 ---
+Class: CMPT125
+Date: 2025-04-20 22:31:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+stay away, there is at least one fault in every exam, lecture, assignment, and quiz causing massive delays in marking and quiz/test distribution.

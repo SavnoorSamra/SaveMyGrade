@@ -1,0 +1,24 @@
+Professor: Olivier Ferlatte
+Professor Legacy ID: 1562426
+Professor ID: VGVhY2hlci0xNTYyNDI2
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 4.5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: HSCI150
+Date: 2012-03-29 21:51:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Great Prof. Very cute :)

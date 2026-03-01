@@ -1,0 +1,24 @@
+Professor: Andrew MacK
+Professor Legacy ID: 1528462
+Professor ID: VGVhY2hlci0xNTI4NDYy
+Department (CSV): International Studies
+Department (Fetched): International Studies
+Avg Rating: 4
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: INST409
+Date: 2011-01-12 22:05:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Fun seminar lectures. good grades come with taking a stance on an issue and arguing it well. Lots of class participation. very knowledgeable and encourages open debate.

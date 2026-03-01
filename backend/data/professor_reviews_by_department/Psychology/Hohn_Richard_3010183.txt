@@ -1,0 +1,102 @@
+Professor: Richard Hohn
+Professor Legacy ID: 3010183
+Professor ID: VGVhY2hlci0zMDEwMTgz
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 4.9
+Avg Difficulty: 2.7
+Num Ratings: 7
+Would Take Again Percent: 100
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: PSYC210
+Date: 2026-01-12 02:49:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+One of the best instructors at SFU. Made stats accessible and enjoyable.
+
+--- Rating #2 ---
+Class: PSYC210
+Date: 2025-08-17 18:22:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Psyc 210 was my first Stats class. Ric was a very thorough in his lectures, and I had a good TA to work through examples with. It was a tough class but I found I excelled at it without previously knowing any stats or much math. Ric explains things very well so it pays to go to lecture even though he has recorded lectures. Go to Tut's helps.
+
+--- Rating #3 ---
+Class: PSYC201
+Date: 2025-05-03 04:41:42 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ric is a really kind prof who cares about you doing well. His lectures are not always that interesting, but the class is not that difficult. The only hard part was the terrible TA who had no idea what he was doing and could never answer any questions. There are several smaller assignments that fit together to become a research project.
+
+--- Rating #4 ---
+Class: PSYC201
+Date: 2025-01-14 02:04:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took psyc 201W with him fall 2024, his lectures and slides were clear especially if you also read the textbook. Weekly quizzes were super easy and online, papers are too if you do your research and go to tutorial. If you do well on the quizzes and keep up with the lectures you will get a good grade. Super caring, taking another class with him rn
+
+--- Rating #5 ---
+Class: PSYC210
+Date: 2024-05-26 05:52:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Super clear with what you should expect from the course since the beginning of the semester. I thought his in-class examples really helped in understanding abstract components in stats. Overall, would take another course with Ric again!
+
+--- Rating #6 ---
+Class: PSYC210
+Date: 2024-05-06 20:50:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Super fair in everything!!!!
+
+--- Rating #7 ---
+Class: PSYC210
+Date: 2024-05-04 07:12:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Richard explains things well but maybe can be monotonous sometimes. He is also very supportive and passionate. His canvas is so organized, he also has online lectures on youtube. However, the average was C for class because the material is difficult I guess. For me it was easy cause I like math!

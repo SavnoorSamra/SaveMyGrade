@@ -1,0 +1,271 @@
+Professor: Ronald Roesch
+Professor Legacy ID: 1439180
+Professor ID: VGVhY2hlci0xNDM5MTgw
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 3.1
+Avg Difficulty: 3.4
+Num Ratings: 20
+Would Take Again Percent: 53.8462
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PSYC268
+Date: 2022-02-14 23:37:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+They look for very specific answers. The quizzes and exams are timed, which isn't an issue except for the fact that it's 1 min per question. Both prof and TA were not much help when it came to answering questions. The content is very interesting and the weekly quizzes focused on the most important topics which is good. Group assignments too.
+
+--- Rating #2 ---
+Class: PSYC268
+Date: 2021-12-24 22:30:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+very uptight and completely unapproachable. doesn't help with questions regarding the material when asked. both him and the ta's are rude and disrespectful. The material was not difficult at all, it was rather Roesch that made the course navigation immensely difficult.
+
+--- Rating #3 ---
+Class: PSYC268
+Date: 2021-12-23 00:08:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The time limit on his exams doesn't allow enough time to read all the questions, let alone time to actually think about what the answer is. There's a difference between preventing cheating and just setting students up for failure. He made a ld course so unnecessarily difficult, harder than upper division courses. Avoid.
+
+--- Rating #4 ---
+Class: PSYC268
+Date: 2021-12-12 23:21:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+My favourite course has been PSYC268 with professor Roesch. The exams, assignments, and quizzes were completely fair. He highlighted the most important material in lecture, and gave a good idea of what to know for exams. If you attend lectures and read the textbook, you'll do great. Very put together.
+
+--- Rating #5 ---
+Class: PSYC268
+Date: 2021-12-01 21:15:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+This class was very interesting! There were 3 exams as well as weekly quizzes, which were not too hard as long as you read the textbook and studied lecture notes. There were also weekly group in class assignments which were a little more difficult. Overall, this class was not difficult as long as you studied.
+
+--- Rating #6 ---
+Class: PSYC268
+Date: 2021-11-23 19:13:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Do not take this class with this prof. Very unreasonable and a really tough marker. Both he and the TA's expect a lot and the exams are very hard (have to know every detail from the textbook). I went to ask for help and he only was asking about my marks and not helping me improve.
+
+--- Rating #7 ---
+Class: PSYC268
+Date: 2021-05-05 15:03:40 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The prof did not tell us that the class would be curved, so it was a surprise to everyone when their grades were lower than expected. Avoid Yan Lim as a TA if you can - her quiz Qs are worded confusingly and she asks very specific questions like percentages of a study mentioned in 2 sentences of the text. Very bizarre. Know the text inside out.
+
+--- Rating #8 ---
+Class: PSYC268
+Date: 2021-05-04 00:32:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+All you need to get an A in this course is to reiterate the textbook definitions and studies discussed. His lectures are only a repeat of the text. To get full marks on group assignments, quizzes, and exams - just restate the text. Many questions were copied/pasted sentences from the text (&quot;fill in the blanks&quot;). The course was not engaging at all.
+
+--- Rating #9 ---
+Class: PYSC268
+Date: 2019-11-21 02:05:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He's wonderful, basing it off my interactions with him. The course is not an easy one so try to take it with a light schedule (learned it the hard way). But overall, good course, nice professor.
+
+--- Rating #10 ---
+Class: PSYC268
+Date: 2018-02-24 20:22:35 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The textbook is necessary for the weekly quizzes, and exams (I suggest you bring it to the tutorials for the assignments). No need to attend lecture, he just reads from the slides provided before class. Exams are memorization of the textbook. Attend tutorial, easy 20% of marks (quizzes &amp; in-class assignments).
+
+--- Rating #11 ---
+Class: PSYC268
+Date: 2017-12-12 20:34:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Weekly iclicker quizzes straight from textbook, weekly assignments done in tutorial which are an easy 10% of your grade. You have to read the textbook to pass the midterm and final, without reading it you are bound to fail. Lecture's only touch on subjects and more example based. Super interesting class if you're interested in the legal system.
+
+--- Rating #12 ---
+Class: PSYC268
+Date: 2016-09-01 07:28:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures tended to be boring sometimes but some of the topics covered were interesting. Iclickers every week that require you to read the textbook, in-class assignments were easy to do well on. a lot of material to remember for the exams but they were fair.
+
+--- Rating #13 ---
+Class: PSYC268
+Date: 2016-07-17 22:14:57 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A very softspoken, kind and approachable professor. He is very knowledgeable in his field as he has written textbooks, works w/ gov't and many other achievements. Lectures were often boring and tedious. However the exams were fair and based right off the textbooks so it is VERY important you keep up to date and read the textbook word by word.
+
+--- Rating #14 ---
+Class: PSYC268
+Date: 2015-05-12 01:05:26 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Good lecturer, midterm based more on textbook than lecture slides
+
+--- Rating #15 ---
+Class: PSYC268
+Date: 2015-04-25 02:09:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Relevant textbook that was easy to read. lectures tended to be boring because of his monotone voice, but he's passionate about the material. The material was interesting though and exams were fair. Would recommend
+
+--- Rating #16 ---
+Class: PSYC268
+Date: 2015-04-10 20:15:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Excellent prof! Expectations are clear & no surprises. Exams are fair. Good lecturer & communicates material well. Textbook is extremely well organized and actually interesting to read. He tries to make class better by connecting material to relevant examples, but his voice is a bit monotone. Students applauded for him on the last day. Great class!
+
+--- Rating #17 ---
+Class: PYSC268
+Date: 2014-05-03 19:30:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great prof, interesting course. His textbook is great! Exams and mid terms are fair but the in class assignments are not that interesting, they do help with the final exam and mid term.
+
+--- Rating #18 ---
+Class: PSYC268
+Date: 2011-08-02 05:11:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very good prof. He's into what he is teaching and his textbook is superb. Easy to understand & straight foward due to less &quot;fancy&quot; psychology words. Long written answer for exam is directly from textbook. Do the practise questions. Interesting class.
+
+--- Rating #19 ---
+Class: PSYCH268
+Date: 2011-04-24 16:10:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Nice prof, really knows his stuff and encourages discussion in lecture. Mid-term and Final were fair, and the two TA's were really chill and awesome!!
+
+--- Rating #20 ---
+Class: PSYC268
+Date: 2010-04-30 18:01:21 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Enjoys what he teaches, but is boring.

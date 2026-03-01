@@ -1,0 +1,37 @@
+Professor: Michael Siemer
+Professor Legacy ID: 1260574
+Professor ID: VGVhY2hlci0xMjYwNTc0
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 2.8
+Avg Difficulty: 4
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: ECON345
+Date: 2009-08-20 02:21:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+His exams are almost like the tutorial questions. The homework questions are a lot harder. You don't really need to read the book if you go to class and follow his notes.
+
+--- Rating #2 ---
+Class: ECON345
+Date: 2009-06-30 05:57:46 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+UHHH HE MAKES UNCLEAR EXAMS TO SCREW U UP, BECAREFUL

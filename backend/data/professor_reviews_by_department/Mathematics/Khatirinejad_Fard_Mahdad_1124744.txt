@@ -1,0 +1,271 @@
+Professor: Mahdad Khatirinejad Fard
+Professor Legacy ID: 1124744
+Professor ID: VGVhY2hlci0xMTI0NzQ0
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.9
+Avg Difficulty: 3.2
+Num Ratings: 40
+Would Take Again Percent: 58.8235
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH152
+Date: 2024-01-06 09:06:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+good teacher , but very hard exams
+
+--- Rating #2 ---
+Class: MATH100
+Date: 2023-11-20 12:13:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+the overall rating i have given is 1/5. his lectures are difficult to understand and mids and finals are too tough. most of the concepts in exams are not even taught in class. would never recommend.
+
+--- Rating #3 ---
+Class: MATH100
+Date: 2022-05-13 20:25:35 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Hard to get a good grade in his class, and mostly do not reply to students' questions. Most importantly, his quizzes and tests are extremely harder than his lectures. Not a good professor. I do not recommend him.
+
+--- Rating #4 ---
+Class: MATH100
+Date: 2022-01-04 06:51:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Lots of homework with this professor since that is the way he takes attendance in his online classes. Also, he is very test heavy. Having two tests within three months and a very difficult final exam. Also, the concepts he teach are often also inadequate to equip you for the various quizzes or tests that take place every 2 weeks.
+
+--- Rating #5 ---
+Class: MATH100
+Date: 2021-11-19 01:26:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He has passion for math but I barely understood what he was talking about. A lot of homework and midterms are kinda tough. He is going too fast through the lectures
+
+--- Rating #6 ---
+Class: MATH157
+Date: 2021-05-05 20:04:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Mr. Mahdad is definitely one of the better math professors I have had in my life. I always disliked math but he made it quite tolerable. He is also very passionate about teaching math as well. Do be warned that classes sometimes feel like they are going on for too long and you may find it boring if you can't concentrate for too long.
+
+--- Rating #7 ---
+Class: BUS157
+Date: 2020-12-04 14:59:03 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Almost failed the course. Mahdad is very kind and passionate about his subject. Answers questions. There is room for him to make the course more interesting, engaging, and coherent. Lectures can get boring. I never really understood where to study for the finals.
+
+--- Rating #8 ---
+Class: MATH157
+Date: 2020-09-02 06:24:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Good prof. Mahdad takes all questions and will be really patient to answer them through multiple office hours or even in class. However, his lectures, or the course itself are quite challenging. A tip for everyone viewing this review: If you can solve all his homework questions and get the logic behind, you will succeed this course. Good luck!
+
+--- Rating #9 ---
+Class: MATH157
+Date: 2020-06-13 10:55:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Really nice Prof. Subject is hard though.
+
+--- Rating #10 ---
+Class: MATH157
+Date: 2019-02-09 21:21:07 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Good professor as he will explain in details is you're not clear with the question but his lecture is quite boring sometimes. I don't have a strong foundation in math so i find this course is hard for me. Should've taken his math100 instead of this. Midterms are harder than final.
+
+--- Rating #11 ---
+Class: MATH157
+Date: 2018-12-08 00:39:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Previously, I had problems with mathematics, so did not expect much from this course, but Mahdad showed himself as a very good teacher, his tests are heavy, but in fact it is very helpful in the final work.
+
+--- Rating #12 ---
+Class: MATH100
+Date: 2018-08-27 19:11:06 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+his lecture is simple but a little bit boring. will fall asleep if u take this in the morning. paper is not too difficult , is at the normal level.
+
+--- Rating #13 ---
+Class: MATH157
+Date: 2018-04-09 22:53:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Don't take him if you are currently struggling with Math. Just avoid him at all times.
+
+--- Rating #14 ---
+Class: MATH157
+Date: 2017-12-23 11:04:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Mahdad explains his materials very clearly and will go over them again if you don't understand anything. Just go over the handouts of the previous week before each in-class quiz and you should be fine with the quizzes. Midterms are fair and final is easy. No need to study from the textbook, just go over the handouts (again) and the review samples.
+
+--- Rating #15 ---
+Class: MATH100
+Date: 2017-08-13 21:55:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+he is a nice professor ,he makes you practice the stuff on midterms through his quizzes. i would highly recommend to chose him,follow his notes and problems,you'll be good to go.
+
+--- Rating #16 ---
+Class: MATH100
+Date: 2017-04-18 02:11:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is a pretty good prof. He makes math easier and makes the evening class fun. He has good notes and can explain concepts well. He is happy to help you with questions on math.  One of the best prof here. :)
+
+--- Rating #17 ---
+Class: MATH157
+Date: 2016-12-21 01:57:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+he is a good teacher and nice. i think he is a good teacher for math157
+
+--- Rating #18 ---
+Class: MATH100
+Date: 2016-01-09 21:29:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+HE IS SO PATIENT PRETTY A LOVELY GUY
+
+--- Rating #19 ---
+Class: MATH157
+Date: 2015-12-24 20:39:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+The best teacher for this course at FIC in my opinion. Explains materials with the utmost simplicity and takes weekly quizzes that give us an incentive to study.
+
+--- Rating #20 ---
+Class: MATH100
+Date: 2015-08-21 16:51:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very good with proving formulas for better understanding.

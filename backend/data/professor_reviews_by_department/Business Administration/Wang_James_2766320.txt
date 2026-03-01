@@ -1,0 +1,11 @@
+Professor: James Wang
+Professor Legacy ID: 2766320
+Professor ID: VGVhY2hlci0yNzY2MzIw
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

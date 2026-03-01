@@ -1,0 +1,50 @@
+Professor: Gurshant Sandhu
+Professor Legacy ID: 2388531
+Professor ID: VGVhY2hlci0yMzg4NTMx
+Department (CSV): Gender Studies
+Department (Fetched): Gender Studies
+Avg Rating: 5
+Avg Difficulty: 4.3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: ECON103
+Date: 2018-07-06 18:51:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+He's a great Prof, doesn't really know anything about Economics though. Sometimes I feel like he isn't even a teacher and is really a student pretending to be a professor.
+
+--- Rating #2 ---
+Class: GEN228
+Date: 2018-07-06 15:33:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Gurshant is the typa prof you wanna take out to grab chopped leaf. Hes hilarious when explaining the difference between the 2 genders. Super fun.
+
+--- Rating #3 ---
+Class: GSWS102
+Date: 2018-07-06 05:20:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Gurshant is a super nice homie that happens to be a professor. Don't take this class if he is not the professor. He is very funny and he turns boring content fun. His assignments are sooooo relaxing, you can do them a couple of hours before they are do. BYE

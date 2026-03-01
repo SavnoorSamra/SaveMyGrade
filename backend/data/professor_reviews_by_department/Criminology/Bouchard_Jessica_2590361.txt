@@ -1,0 +1,24 @@
+Professor: Jessica Bouchard
+Professor Legacy ID: 2590361
+Professor ID: VGVhY2hlci0yNTkwMzYx
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 4
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: CRIM220
+Date: 2020-07-18 00:16:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Crim 220 isn't a easy class. Long 20 plus page assignment due at the end of the semester. Overall good prof. Very good lecturer, but very serious prof.

@@ -1,0 +1,50 @@
+Professor: MacKay Altman
+Professor Legacy ID: 2391922
+Professor ID: VGVhY2hlci0yMzkxOTIy
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 2
+Avg Difficulty: 3
+Num Ratings: 3
+Would Take Again Percent: 0
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: STAT201
+Date: 2024-09-29 18:12:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Worst prof that you can ever see in your life.
+
+--- Rating #2 ---
+Class: STAT201
+Date: 2019-09-04 07:57:28 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Toughest grader i have ever occured, she just want the exact answer shes expected, be careful
+
+--- Rating #3 ---
+Class: STAT201
+Date: 2018-07-25 20:56:09 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very caring proff however she is not very good at teaching which maybe due to the fact its her first time teaching the course . She is a tough marker so be prepared.

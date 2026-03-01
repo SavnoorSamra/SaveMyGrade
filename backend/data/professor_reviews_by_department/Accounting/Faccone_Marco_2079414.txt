@@ -1,0 +1,76 @@
+Professor: Marco Faccone
+Professor Legacy ID: 2079414
+Professor ID: VGVhY2hlci0yMDc5NDE0
+Department (CSV): Accounting
+Department (Fetched): Accounting
+Avg Rating: 5
+Avg Difficulty: 3.2
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: BUS254
+Date: 2017-12-15 17:45:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great prof with actual experience in the field. Does a great job of explaining concepts with real life examples that he has been through. Notes are simple and to the point. Tests are very fair and simple if you do the textbook assignments. Grade is based on tutorial, midterm, and final which makes tutorial very important, I learned the hard way.
+
+--- Rating #2 ---
+Class: BUS254
+Date: 2017-12-12 02:51:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Awesome prof! Really experienced so he's great at explaining and giving examples. Focus in class and then read through textbook! Test heavy so don't cram, you need to study well in advance.
+
+--- Rating #3 ---
+Class: BUS254
+Date: 2017-01-27 09:41:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+One of the easiest courses to follow as there it only lectured which follow the book step by step, and tutorials on pre-done exercises - amen! However, it is a quantitative course and you need to get your head around it. Marco is great; clear, precise, motivating, and humble. You won't regret the course even if you aren't a numerical person.
+
+--- Rating #4 ---
+Class: BUS254
+Date: 2017-01-17 20:01:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Marco is a really good prof. His exams are fair but since it is a quantitative course doing the homework questions for tutorials and understanding the concepts is fundamental.
+
+--- Rating #5 ---
+Class: BUS254
+Date: 2016-09-19 00:43:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great Prof!

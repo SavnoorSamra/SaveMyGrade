@@ -1,0 +1,272 @@
+Professor: Gary McCarron
+Professor Legacy ID: 12027
+Professor ID: VGVhY2hlci0xMjAyNw==
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 4.3
+Avg Difficulty: 2.7
+Num Ratings: 217
+Would Take Again Percent: 89.4737
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMNS304
+Date: 2025-11-19 22:34:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very knowledgeable but hard to stay focused because his voice is really monotone.
+
+--- Rating #2 ---
+Class: CMNS332
+Date: 2024-08-22 23:23:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Gary's lectures were outstanding. Grading was fair and course topics were super interesting. Loved this class and would highly recommend him as a prof.
+
+--- Rating #3 ---
+Class: 110
+Date: 2023-01-02 02:03:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+A really good lecturer he is funny and enthusiastic - would 100% recommend! The content was fairly easy just a paper and 2 exams
+
+--- Rating #4 ---
+Class: CMN110
+Date: 2022-11-22 18:42:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Gary is an amazing prof and his lectures are very interesting! The class was super easy; 2 exams, a research paper, and participation. The exams were super easy and at the time were take-home 48-hour exams, but study for the exams by reviewing readings and lecture slides
+
+--- Rating #5 ---
+Class: CMNS110
+Date: 2022-11-02 05:46:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Funniest professor I've ever had. Holy cow! I can't believe learning can be this funny and thorough simultaneously. He has seriously raised my standards for a professor. If I could give an SFU professor an Oscar, I would immediately hand it to professor McCarron.
+
+--- Rating #6 ---
+Class: CMNS110
+Date: 2022-08-20 04:31:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+took this course as a gpa booster. gary is an awesome prof and his lectures are interesting. i never did the weekly module readings and still did well. i 100% encourage you to go to your tutorials -- they were mandatory and your TA helps with your understanding of the content. take this course if you're a good writer! [spring 2022]
+
+--- Rating #7 ---
+Class: CMN110
+Date: 2022-04-20 00:23:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Fantastic lectures.
+
+--- Rating #8 ---
+Class: CMNS110
+Date: 2022-03-25 23:55:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Gary is funny and engages with the students. The TAs are pretty good too!
+Take this course if you're a good writer. Easy A!
+
+--- Rating #9 ---
+Class: CMNS110
+Date: 2021-03-04 23:23:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+His lectures are extremely engaging and interesting. He is a caring professor and his lectures are well prepared. Highly recommend this course.
+
+--- Rating #10 ---
+Class: CMNS332
+Date: 2021-01-14 07:32:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Clearly very passionate about communications &amp; philosophy which made the class so much better. It was obvious that he wasn't used to teaching online but made the lectures engaging and interesting. I knew nothing about philosophy before taking the course but by doing the readings and paying attention you will do fine! Overall a great prof!
+
+--- Rating #11 ---
+Class: CMNS332
+Date: 2020-12-22 03:42:16 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Gary is a very knowledgeable professor when it comes to rhetoric. The class topics are difficult to grasp, very heavy on philosophical theories, but if you put in work, shouldnt be too unmanageable. The weekly responses are too much work for only 2 marks. His lectures are very boring and dry, but he is a nice guy. Wouldnt say hes an amazing prof
+
+--- Rating #12 ---
+Class: CMNS110
+Date: 2020-12-17 02:59:15 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. McCarron is a super smart guy, definitely knows what he is talking about. His lectures are actually really interesting with his enthusiastic personality and anecdotes. My only issue is that he just felt like a lecturer, not as much of an educator. CMNS 110 involves a lot of self-teaching, which isnt really his fault.
+
+--- Rating #13 ---
+Class: CMNS110
+Date: 2020-12-10 06:52:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+It is very easy to fall behind in this class as lectures were pre recorded and there was no tutorials. However if you stay on tasks and do the readings and check out the lecture slides you'll be fine. I would have benefited from the tutorial time, as its a class where we talk about the material and understand what's going on, other than that its ok
+
+--- Rating #14 ---
+Class: CMNS332
+Date: 2020-12-09 03:16:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+At the beginning of the semester I was worried about Gary's class because it was pretty reading-heavy &amp; the topics were hard to grasp, but Gary's lectures were really helpful and pretty interesting! He also responded to all of my emails really quickly and provided a ton of resources to help with my term paper. Would definitely take his class again
+
+--- Rating #15 ---
+Class: CMN110
+Date: 2020-11-16 23:21:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He is great. The tutorials are said to be discussions when they are not. However he is a great explainer with passion, and if he is wrong or misunderstood he admits fault instead of pulling the authority challenge. Amazing and an OG of sfu communications
+
+--- Rating #16 ---
+Class: CMN110
+Date: 2020-04-18 00:36:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I absolutely loved going to his class in the morning, it literally felt like a ted talk. He makes you so engaged, and tries hard enough just to get your attention, but not so much that it's overbearing. It doesn't hurt that the TA's are extremely nice as well, and generally easy markers.
+
+--- Rating #17 ---
+Class: CMNS110
+Date: 2019-03-07 07:58:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Probably the worst prof I've ever had. When I asked why my paper was graded low, he said it was because I got a low mark on my midterm. I would stay away from Gary, his lectures are pointless and boring, exams are all on the readings, which ae very dry
+
+--- Rating #18 ---
+Class: CMNS110
+Date: 2018-12-04 04:23:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof. Inspired me to change majors to cmns. Interesting and engaging lectures. Well-informed with pop. culture. One of the best memories at SFU. Would definitely take more classes with this prof. You learn AND you have fun!
+
+--- Rating #19 ---
+Class: CMN110
+Date: 2018-03-10 18:54:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+amazing prof, hilarious and outstanding. Ideal Prof.
+
+--- Rating #20 ---
+Class: CMNS110
+Date: 2016-04-15 19:32:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+The online course is just mountains of reading, extremely irritating online discussions which, unless you get very lucky, you have to drag your group-mates through, and writing assignments. If you like the topic, you might like the course; if you have a passive interest, just take something with less reading because it will monopolize your time.

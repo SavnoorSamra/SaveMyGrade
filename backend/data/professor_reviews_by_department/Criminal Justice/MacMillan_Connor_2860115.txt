@@ -1,0 +1,24 @@
+Professor: Connor MacMillan
+Professor Legacy ID: 2860115
+Professor ID: VGVhY2hlci0yODYwMTE1
+Department (CSV): Criminal Justice
+Department (Fetched): Criminal Justice
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: PSYC212
+Date: 2024-10-28 01:07:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Connor's classes have inspired me to major in Psychology. The way he teaches is inspiring! The content is great! The assignments are good. He's very easy to talk to and helpful. Highly recommend!

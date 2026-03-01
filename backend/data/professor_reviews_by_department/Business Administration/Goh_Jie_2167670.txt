@@ -1,0 +1,193 @@
+Professor: Jie Goh
+Professor Legacy ID: 2167670
+Professor ID: VGVhY2hlci0yMTY3Njcw
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.3
+Avg Difficulty: 3.1
+Num Ratings: 14
+Would Take Again Percent: 57.1429
+
+Ratings Count Returned: 14
+
+--- Rating #1 ---
+Class: BUS237
+Date: 2025-04-30 05:02:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Goh was a very nice professor. I appreciated her kindness throughout my time in her class and she took many suggestions students made to heart throughout the course. I think in the beginning it was a bit difficult as lectures had many hiccups, but near the end it went well. The participation credit during lecture helps & flashcards for exams.
+
+--- Rating #2 ---
+Class: BUS237
+Date: 2025-04-13 06:44:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Tutorials are attendance mandatory and they have ABsolutely nothing to do with the course content. Exams are like definition based
+
+--- Rating #3 ---
+Class: BUS237
+Date: 2024-09-08 00:27:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jie Goh was a very supportive professor and always answered my questions. Friendly and caring, with clear grading criteria in tutorials. The exams were mostly multiple choice with some short answer questions, primarily based on lecture content with a little bit from the textbook. Taking this class has confirmed my interest in pursuing MIS.
+
+--- Rating #4 ---
+Class: BUS237
+Date: 2024-08-21 01:28:48 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is hard to hear and understand during lecture, and lectures are incredibly boring. She includes questions on exams based on 2-minute discussions conducted in lecture that are so easy to miss. Like seriously, stick to the textbook and slides. Writing is also bad and sometimes impossible to read. Try to avoid. That said, she is nice. Good person.
+
+--- Rating #5 ---
+Class: BUS462
+Date: 2022-04-04 23:08:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+So the prof might be monotone and not as fun as you imagine, but the class is well constructed, get ready to work hard get high marks. The class is challenging and teaches you technical analytic tools and skills and you will have a final project at the end to apply what you learn. If you get an A you can ask her for reference letter!
+
+--- Rating #6 ---
+Class: BUS462
+Date: 2019-05-06 23:59:29 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The final is easy and all you need to study is the lecture slides. However, the labs are bad since she tries to introduce way too much coding material and does little explaining. You will cover Python, R, and Knime in this course and still come out feeling like you learned almost nothing about coding. A good group is crucial for the group project.
+
+--- Rating #7 ---
+Class: BUS237
+Date: 2019-04-11 16:02:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. JM Goh changed how I thought of MIS. The course had all the potential of being very dry but her teachings added value to the textbook readings. She would link the lecture to real use cases and illustrate how large companies are implementing IS. She was always available for extra help and helped me through all my questions. AMAZING PERSON!
+
+--- Rating #8 ---
+Class: BUS462
+Date: 2018-05-31 15:28:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very helpful and accessible. The course is interesting and teaches you some practical skills. Perhaps most importantly, she listens to students for feedback and will make adjustments.
+
+--- Rating #9 ---
+Class: BUS237
+Date: 2018-02-02 01:42:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Excellent
+
+--- Rating #10 ---
+Class: BUS237
+Date: 2017-08-24 00:48:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Not my favorite prof. Dry lecture and quite a lot of assignments for a 200 level course. Show no mercy to absolutely any request so definitely avoid taking her class.
+
+--- Rating #11 ---
+Class: BUS237
+Date: 2017-07-26 02:32:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The lectures are dry but she uses in class discussions on exams and the exams are completely different than you would expect based on the weekly quizzes. The grading scheme does not make sense and doesn't fit the amount of time you have to put in for certain assignments.
+
+--- Rating #12 ---
+Class: BUS462
+Date: 2017-03-29 05:30:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+solid prof, adjusted course to feedback when necessary. will explain and help you when needed.
+
+--- Rating #13 ---
+Class: BUS237
+Date: 2016-11-22 13:02:39 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Her lectures are pretty dry, as they are straight from the textbook. But you have to attend her lectures because she uses a different set of slides in the lecture - the discussion questions are used in the exams. Get ready to work, b/c there are weekly quizzes and the group project isn't always the best....
+
+--- Rating #14 ---
+Class: BUS237
+Date: 2016-09-09 03:46:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+AVOID. Very dull and useless lectures - they were a complete regurgitation of the textbook. Yet, you are forced to attend lectures in order to take note of "discussions" (which are testable for 40% of midterm and final). No way to know what was "discussed" unless you show up since she uploads different slides than the ones shown in class.

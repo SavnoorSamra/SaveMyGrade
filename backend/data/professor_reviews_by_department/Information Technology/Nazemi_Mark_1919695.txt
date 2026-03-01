@@ -1,0 +1,128 @@
+Professor: Mark Nazemi
+Professor Legacy ID: 1919695
+Professor ID: VGVhY2hlci0xOTE5Njk1
+Department (CSV): Information Technology
+Department (Fetched): Information Technology
+Avg Rating: 4
+Avg Difficulty: 2.8
+Num Ratings: 9
+Would Take Again Percent: 71.4286
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: IAT202
+Date: 2026-02-23 07:05:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good professor and very approachable guy. Knowledgeable about the material and corresponds in a timely manner with student queries. Would take again!
+
+--- Rating #2 ---
+Class: IAT202
+Date: 2026-02-23 07:00:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I had a lot of fun in 202 but the last project is worth like 50% of your grade and its a group project so just make sure to choose your teammates well.
+
+--- Rating #3 ---
+Class: IAT202
+Date: 2025-12-01 04:22:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Class definitely isn't easy. 3 main projects that are graded tough, and they require a lot of effort; it shouldn't be that much of a surprise since it's a filmmaking course and making a short film along with other filmed assignments takes a lot of effort! Labs are mandatory to learn anything in the class, but the professor and TA are very kind!
+
+--- Rating #4 ---
+Class: IAT340
+Date: 2023-08-08 23:49:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dry lectures, the exam was essentially memorizing all the content on all of his lecture slides. If you get incompetent teammates you are screwed because you gotta do everything yourself.
+
+--- Rating #5 ---
+Class: IAT267
+Date: 2020-09-14 17:43:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I've had him for three courses. He speaks more of theory then technical aspects.
+
+--- Rating #6 ---
+Class: IAT340
+Date: 2016-11-23 23:22:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Mark is a great speaker, knowledgeable, and a very fair marker. The class didn't cover nearly as much sound design/mixing as I expected (a lot is theory) but he makes the lecs interesting. Assignments are easy for the most part. Unlike most SIAT courses, you don't need to "exceed expectations" and overwork yourself to get an A.
+
+--- Rating #7 ---
+Class: IAT443
+Date: 2016-06-08 13:18:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Mark is the sweetest prof in SIAT, take all his courses available if possible!
+
+--- Rating #8 ---
+Class: IAT267
+Date: 2015-07-14 23:41:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Very informative class. Pay attention to the lecture content and study the slides that he posts online. His lectures were sometimes unrelated to the lab activities, but all in all the labs were lots of fun and some great projects were made.
+
+--- Rating #9 ---
+Class: IAT267
+Date: 2015-03-16 14:38:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+He is very knowledgable, helpful and resourceful.

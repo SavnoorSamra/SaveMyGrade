@@ -1,0 +1,65 @@
+Professor: Jianliang Wu
+Professor Legacy ID: 3042963
+Professor ID: VGVhY2hlci0zMDQyOTYz
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1
+Avg Difficulty: 4.8
+Num Ratings: 4
+Would Take Again Percent: 0
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: CMPT403
+Date: 2025-12-18 20:38:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He extends the course content to include mobile security, so there's a lot of material to cover for the final. His lectures can be dry and he didn't explain concepts very well imo. His exams are not fair at all&#8230; a lot of overly specific and unrelated questions. Assignments are really cool but require lots of time and self-teaching.
+
+--- Rating #2 ---
+Class: CMPT403
+Date: 2025-12-12 04:34:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Exams: Hell on earth
+
+Homework: Actually interesting
+
+--- Rating #3 ---
+Class: CMPT403
+Date: 2025-11-27 08:44:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Tao Wang's CMPT 403 materials + mobile security from other school, basically 1.5 terms of material in 1 term. Lectures are dry, no practice exam questions, and need at least 50% on exams to pass (midterm avg was 49). Final may included some topics/questions that are not covered in the slides and class.
+
+--- Rating #4 ---
+Class: CMPT789
+Date: 2024-11-08 23:53:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures were just him reading borrowed slides, often pausing because he didn't understand the material. No exam prep was provided the exams were much harder than the slides. Assignments required implementing Bluetooth protocols with no guidance, you need to figure it out on our own. Avoid if possible, you'll be teaching yourself the entire course.

@@ -1,0 +1,11 @@
+Professor: Heandy John
+Professor Legacy ID: 1734732
+Professor ID: VGVhY2hlci0xNzM0NzMy
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

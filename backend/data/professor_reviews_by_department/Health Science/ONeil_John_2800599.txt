@@ -1,0 +1,76 @@
+Professor: John O'Neil
+Professor Legacy ID: 2800599
+Professor ID: VGVhY2hlci0yODAwNTk5
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 3.6
+Avg Difficulty: 3
+Num Ratings: 5
+Would Take Again Percent: 60
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: HSCI160
+Date: 2023-01-06 05:00:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Awful. He seemed nice at first but it didn't turn out that way. Disrespectful to students who ask questions, unclear grading criteria, inconsiderate, very difficult quizzes. Extremely lazy, a big chunk of the material came from an outside source that he just pasted a link to. Has no idea how to use technology and tends to ramble.
+
+--- Rating #2 ---
+Class: HSCI160
+Date: 2023-01-02 02:07:33 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Fairly passionate about what he's talking about. Didn't seem very approachable and was a little rude to people who asked questions on canvas discussion boards. Pretty easy grader kinda difficult quizzes
+
+--- Rating #3 ---
+Class: HSCI160
+Date: 2022-12-01 19:45:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Your grade is mostly based on papers, so as long as you know how to research and be 'self motivated' you'll do well in this class. Prof. O'Neil is super passionate and cares a lot about the material covered, although the 3 hour lectures definitely get long, plus everything that is on the slides is covered in the textbook.
+
+--- Rating #4 ---
+Class: HSCI160
+Date: 2022-11-23 18:01:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very kind, knowledgable, and helpful professor and the course material is extremely interesting. Only minor con is that he struggles with technology
+
+--- Rating #5 ---
+Class: HSCI160
+Date: 2022-08-27 07:16:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Dr. O'Neil is truly one of the best professors I've ever had. His lectures are informative and he is really passionate about public health. It was really interesting to learn about his experiences in the field and has inspired me to pursue a career in the health sciences. Would highly recommend!

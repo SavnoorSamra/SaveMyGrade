@@ -1,0 +1,50 @@
+Professor: Edward Surman
+Professor Legacy ID: 2588728
+Professor ID: VGVhY2hlci0yNTg4NzI4
+Department (CSV): Religion
+Department (Fetched): Religion
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: HUM309
+Date: 2020-05-04 01:44:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is extremely friendly and clear with what hes looking for when grading. Attendance is not really mandatory but a few assignments are in class and on random days so its better not to miss.
+
+--- Rating #2 ---
+Class: HUM309
+Date: 2020-04-30 02:50:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is very understanding and is available to answer any questions!
+
+--- Rating #3 ---
+Class: HUM130
+Date: 2020-04-23 22:34:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+HE is the best profs at SFU. Very accessible and understanding. His class is pretty good, outlines expectations before hand and no surprises. Very straightforward. I loved his class

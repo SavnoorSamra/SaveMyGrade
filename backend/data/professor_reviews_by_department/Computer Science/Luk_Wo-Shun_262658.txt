@@ -1,0 +1,271 @@
+Professor: Wo-Shun Luk
+Professor Legacy ID: 262658
+Professor ID: VGVhY2hlci0yNjI2NTg=
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1.9
+Avg Difficulty: 3.6
+Num Ratings: 33
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT740
+Date: 2017-05-05 18:39:55 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Lectures are a bit heavy. The final project is open ended which allows students to choose their interests. Professor is always available for feedback and help
+
+--- Rating #2 ---
+Class: CMPT600
+Date: 2015-11-21 02:58:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Terrible professor. Terrible teaching skills, bogus research. No idea why he was hired and kept in the department for this long.
+
+--- Rating #3 ---
+Class: CMPT354
+Date: 2014-08-21 05:28:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+The single worst class I have ever taken at SFU bar none. Useless lectures, brutal assignments, midterms and final. Most had ambiguous questions and he was not flexible with marking. I did a co-op at a data analytics company and can tell he has no idea what is going on. Though my end grade was good it was achieved 99% as a result of self learning.
+
+--- Rating #4 ---
+Class: CMPT354
+Date: 2014-08-20 20:12:11 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Overall not bad. His lectures are terrible and he knows it. He assigns a project that is very good to put on your resume, although very time consuming and tedious. Go to him in office hours if you have questions; he's actually good at explaining things in office.. He curves generously. Got a great mark in this class by only reading slides.
+
+--- Rating #5 ---
+Class: CMPT354
+Date: 2014-05-02 00:21:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Biggest nightmare in my academic career. I studied everynight for this course still only able to pull a C+. useless lecture. horrible assignments. midterm and final had nothing to do with textbook and assignment. If you want to have a horrible semester take his classes , you will definitely enjoy that semester!
+
+--- Rating #6 ---
+Class: CMPT354
+Date: 2014-04-26 15:42:55 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Terrible lectures. Assignments are impractical and have nothing to do with what is expected on tests. Lecture material is abstract; he seems to be unable to clarify many things. Many test questions asked have nothing to do with the textbook. Attendance is definitely mandatory. Better off waiting to take it with Oliver Schulte.
+
+--- Rating #7 ---
+Class: CMPT454
+Date: 2014-04-10 22:41:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Power point teacher. Which means that you can read his slides and read the textbook as attending his lectures does not add any value. No assignments, just 3 quizzes and a final. Disappointing as it is all theory and absolutely zero practical stuff or implementation.
+
+--- Rating #8 ---
+Class: CMPT354
+Date: 2013-12-11 16:46:29 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+The person who said that his notes are "HORRID" obviously didn't realize that they were straight from the textbook lol... almost word for word. His notes follow the textbook sequentially so the material is easy to follow. He isn't much of a lecturer but the material speaks for itself and he gives you everything you NEED to know.
+
+--- Rating #9 ---
+Class: CMPT354
+Date: 2013-06-21 23:32:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I'm halfway into the semester, and I had to post this. His notes are HORRID. I do NOT know what he is talking about. His notes are absolutely confusing. They talk about stuff and assume you know terms. No order. Topics are incredibly vague. PLEASE do not take him. For your learning's sake.
+
+--- Rating #10 ---
+Class: CMPT354
+Date: 2013-04-29 20:02:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Doesn't know how to program his assignments nor even show simple SQL commands.  Not sure why he is teaching it and basically learned everything on my own.
+
+--- Rating #11 ---
+Class: CMPT354
+Date: 2012-08-23 20:29:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+The most useless professor I've ever had. Do not attend his class, he will only confuse you more. Read his slides, the textbook, wikipedia, etc and teach yourself. Exams are average.
+
+--- Rating #12 ---
+Class: CMPT354
+Date: 2012-08-22 19:44:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I don't why people underrate this professor. He is one of the best profs I ever had. Lecture slides are extremely useful, and he always willing to help the students. At first you may find it difficult to follow him, but eventually you will get to used to his teaching.Exams are not that hard if you fully understand the content of lecture slides.
+
+--- Rating #13 ---
+Class: CMPT354
+Date: 2012-08-21 11:48:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Terrible professor, his notes are worthless since you can't understand half of it and not all the material is from the text book, you should also study some links provided in his slides along with the reference book. His class is boring and useless, he basically reads from his slides and everyone's sleep during his class.final exam was super hard.
+
+--- Rating #14 ---
+Class: CMPT454
+Date: 2011-08-29 16:40:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+can't teach, can't explain, hard to understand, however he is a pretty nice guy, and seems to mark pretty easy (or maybe his TA did) Reading the textbook was a must.
+
+--- Rating #15 ---
+Class: CMPT454
+Date: 2011-08-25 18:51:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Assignments are usually short but you have to know every detail in order to do well. Exams are easy. I really learned a lot from this course.
+
+--- Rating #16 ---
+Class: CMPT354
+Date: 2010-09-09 16:07:07 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Horrible.  One of the worst professors I've had at SFU yet.  Doesn't know his own material, is incredibly unclear, uses transparencies of his own slides and doesn't know what they say, assignments unrelated to his material, and tests even more unclear than that.  Avoid at all cost.
+
+--- Rating #17 ---
+Class: CMPT354
+Date: 2010-08-16 23:45:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+one of horrible teacher i have met. his lecture is horrible. he doesnt have teaching skill. the lecture slides are from main notes but still so bad. learn NOTHING from him. Horrible organization with everything related to this course.
+
+--- Rating #18 ---
+Class: CMPT354
+Date: 2010-07-30 04:01:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Professors like him make the CS department weak.  Even if I pass this course, I am going to consider retaking it with a better professor.
+
+--- Rating #19 ---
+Class: CMPT354
+Date: 2010-07-07 15:07:18 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+no
+
+--- Rating #20 ---
+Class: CMPT454
+Date: 2008-08-22 03:16:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Average at best.

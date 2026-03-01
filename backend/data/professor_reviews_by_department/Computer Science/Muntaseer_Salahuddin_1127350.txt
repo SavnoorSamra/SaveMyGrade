@@ -1,0 +1,271 @@
+Professor: Salahuddin Muntaseer
+Professor Legacy ID: 1127350
+Professor ID: VGVhY2hlci0xMTI3MzUw
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.6
+Avg Difficulty: 2.7
+Num Ratings: 20
+Would Take Again Percent: 0
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT150
+Date: 2019-01-10 23:21:12 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+lecture is easy to understand but the quizzes are hard and exams are harder, but he is very nice and helpful if you have questions and struggles with the course. Don't try to email him, he won't reply. you have to go to his office.
+
+--- Rating #2 ---
+Class: CMPT128
+Date: 2014-04-26 15:13:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+never ever take any class from that guy. No pattern of teaching. starts another topic in between the class which is completely irrelevant. Poor style of teaching.
+
+--- Rating #3 ---
+Class: CMPT120
+Date: 2013-10-06 22:37:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Excellent professor. Slightly disorganized but makes himself very available in office hours. Crystal clear in lectures, highly recommend him!
+
+--- Rating #4 ---
+Class: CMPT120
+Date: 2013-08-06 02:08:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+I got no programming background whatsoever but I thought he was crystal clear!! and very approachable! Great lecturer and super helpful. Glad I took his class! =]
+
+--- Rating #5 ---
+Class: CMPT120
+Date: 2013-07-23 14:35:12 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Excellent lecturer, but a poor professor. He conveys his knowledge well, but possesses poor organizational skills. I would still recommend taking a class with him though as he is very merciful on exams.
+
+--- Rating #6 ---
+Class: CMPT120
+Date: 2013-06-24 01:25:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+This man should not be a teacher. I've learned more from Code Academy than I have from him. The TA's were equally as useless and downright rude. Good luck sending any emails to him or the TAs - you won't hear back in a reasonable timeframe. Avoid at all cost.
+
+--- Rating #7 ---
+Class: CMPT120
+Date: 2013-06-17 16:16:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+took the 120 course. first two labs labeled with 125/126, no course schedule with dates on syllabus, no course website, instructor unresponsive to emails, material and course in general feels disconnected, disorganized, and thrown together.
+
+--- Rating #8 ---
+Class: CMPT125
+Date: 2013-06-03 18:46:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Nice guy, but AWFUL at explaining things. Totally awful. Will avoid him for part 2 of the programming course.
+
+--- Rating #9 ---
+Class: CMPT125
+Date: 2013-04-24 03:17:09 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Lectures were very simple but the assignments were hard and very time consuming. Exams were fine.
+
+--- Rating #10 ---
+Class: CMPT126
+Date: 2013-04-20 03:27:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Easy introductory to java course. Prof was OK.
+
+--- Rating #11 ---
+Class: CMPT125
+Date: 2013-04-15 13:35:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very nice prof. Always helpful, however I did not go to the lectures, and either half the class dropped out or many other people stopped going as well. The book used in class is all I needed. The assignments and midterms were fair. Some times it wasn't clear what was being asked on the assignments, though.
+
+--- Rating #12 ---
+Class: CMPT125
+Date: 2013-04-14 04:44:39 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Doesn't teach much in lecture, and what he does teach can be learned in much less time by reading the textbook or finding tutorials online. Seems like a nice guy but doesn't know how to teach.
+
+--- Rating #13 ---
+Class: CMPT120
+Date: 2012-08-16 18:08:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very nice prof. The lectures given are pretty clear and helpful.  As an international student, my English is terrible. But he was still very patient listening and explaining to me if u have any problem. So greatful to him.
+
+--- Rating #14 ---
+Class: CMPT120
+Date: 2011-05-02 17:22:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He is really helpful and a nice prof. Going through all the examples help you succeed.
+
+--- Rating #15 ---
+Class: CMPT120
+Date: 2011-01-31 10:02:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great Prof !
+
+--- Rating #16 ---
+Class: CMPT120
+Date: 2010-11-15 07:34:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He is a very nice guy, very helpful if you go to his office hour. He is willing to give examples and explain to you. Not many assignment but they are time consuming, prepare them as early as you can
+
+--- Rating #17 ---
+Class: CMPT120
+Date: 2010-03-13 21:06:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+very good lectures,but when it comes to assignments,which are somehow much more harder than it was taught during the class,it is not so good anymore. +sometimes late for classes
+
+--- Rating #18 ---
+Class: CMPT120
+Date: 2009-12-04 22:04:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+he is a great prof, so patient and very kind to students
+
+--- Rating #19 ---
+Class: CMPT150
+Date: 2009-04-27 16:53:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+helpful and nice, willing to help, though some time late for the class. He is good anyway.
+
+--- Rating #20 ---
+Class: CMPT120
+Date: 2009-04-27 16:34:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+No Comments

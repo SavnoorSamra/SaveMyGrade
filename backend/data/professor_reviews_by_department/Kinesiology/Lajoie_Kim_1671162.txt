@@ -1,0 +1,154 @@
+Professor: Kim Lajoie
+Professor Legacy ID: 1671162
+Professor ID: VGVhY2hlci0xNjcxMTYy
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 4
+Avg Difficulty: 2.5
+Num Ratings: 11
+Would Take Again Percent: 0
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: BPK207
+Date: 2017-05-03 20:39:39 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Lecture material is interesting and she is nice and available outside of class. However, she gives no practice or outline for exams and wants very specific answers. The class average was really low for both the midterm and final. Labs are time consuming and group project is okay and can boost your grade.
+
+--- Rating #2 ---
+Class: BPK207
+Date: 2015-12-01 18:58:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Definitely recommend! She is very approachable if you ever have questions, she's quirky and funny which makes her lectures fun, and she's great for giving real-life examples to make concepts easier to understand. Her tests were very fair and no textbook required.
+
+--- Rating #3 ---
+Class: BPK207
+Date: 2015-07-15 02:14:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Lajoie was a super nice and clear prof and she's always willing to help. Her exams are very fair and apparently easier than Marigold's. My class' average was higher than usually so she had to bump the marking scale up (shows how easy the class can be). Overall I would really recommend her if you have the chance.
+
+--- Rating #4 ---
+Class: BPK207
+Date: 2015-04-25 05:58:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+She's one of the best professors I had in SFU. Very interesting and passionate about her work.
+
+--- Rating #5 ---
+Class: BPK207
+Date: 2015-04-10 23:33:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Dr. Lajoie was by far my best prof at SFU, so kind and approachable. She genuinely cares about her students, and I really appreciated that about her! If you skip the lectures it'd be hard to get the material as there is a lot of explaining in class but she is willing to explain things again, and with a smile too! Thank you!
+
+--- Rating #6 ---
+Class: BPK207
+Date: 2015-02-25 20:36:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very approachable and friendly.  If she was unable to answer a question in class (this was rare), she would follow up on her own after lecture and find the info and email it to the entire class.  Dr. Lajoie is fair and wants the class to succeed, but is not a pushover.  She is so good looking that it can be a bit distracting.
+
+--- Rating #7 ---
+Class: KIN207
+Date: 2014-02-07 16:27:18 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I found that Dr. Lajoie spoke too slowly, spent too much time on simple concepts, and read directly off the slides. I also found she was unable to answer questions and disregarded research from faculties other than BPK.
+
+--- Rating #8 ---
+Class: BPK207
+Date: 2014-02-07 16:15:41 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Dr. Lajoie speaks very slowly and spends too much time on simple concepts. Lectures consist entirely of her reading off slides and she is unable to answer any questions. She shows blatant distaste for research conducted in faculties that are not her own. I was looking forward to this course and unfortunately it has been a huge disappointment.
+
+--- Rating #9 ---
+Class: KIN140
+Date: 2012-04-01 19:27:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Hands down the best TA I've ever had in my entire 4 years at SFU. Took this course DE (Fall 2011) & I have never had such a helpful, responsive, and student-centered TA or prof in my life. I have no doubt she is a successful professor as well
+
+--- Rating #10 ---
+Class: KIN207
+Date: 2012-03-27 04:58:05 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I thought she was a pretty good prof.  I ended up doing fairly well in the class.  Labs are very easy.
+
+--- Rating #11 ---
+Class: KIN207
+Date: 2011-12-18 04:55:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+She's a fair marker.  I found her questions to be a little simpler than some of Marigold's hypothetical questions.  Marigold's a smoother speaker (Lajoie is from Quebec), but when she got settled in I found her letures easy to follow.  Plus, she's the best looking prof I've had so far.

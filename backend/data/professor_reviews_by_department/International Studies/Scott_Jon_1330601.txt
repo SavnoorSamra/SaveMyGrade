@@ -1,0 +1,37 @@
+Professor: Jon Scott
+Professor Legacy ID: 1330601
+Professor ID: VGVhY2hlci0xMzMwNjAx
+Department (CSV): International Studies
+Department (Fetched): International Studies
+Avg Rating: 3
+Avg Difficulty: 4
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: IS409
+Date: 2010-10-29 19:04:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Some people aren't fond of his lecture style; he basically reads his notes off the page. But has a wealth of practical experience, tells interesting and entertaining stories, good at applying concepts to reality. Demands lots of writing which is intimidating at first, but rewarding in the long run. Made me even more interested in the subject.
+
+--- Rating #2 ---
+Class: IS406
+Date: 2009-11-18 21:35:59 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Not a good prof at all. Boring. Sends out 15 pg files that is read word for word in class. don't need to do the readings because there is no exams. Just so many essays. Was very exicted for the class before i went, now i wouldnt reccomend it to anyone.

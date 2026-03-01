@@ -1,0 +1,206 @@
+Professor: Ali Forghani
+Professor Legacy ID: 1055696
+Professor ID: VGVhY2hlci0xMDU1Njk2
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 2.4
+Avg Difficulty: 3.6
+Num Ratings: 15
+Would Take Again Percent: 0
+
+Ratings Count Returned: 15
+
+--- Rating #1 ---
+Class: KIN201
+Date: 2017-10-13 17:32:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very knowledgeable, but hard on grading .. I survived
+
+--- Rating #2 ---
+Class: EDKP208
+Date: 2014-06-30 22:58:08 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+I learned a lot, but he was hard on grading.
+
+--- Rating #3 ---
+Class: KIN101
+Date: 2013-10-06 12:12:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Not recommended.  He is not organized and does not speak clearly.
+
+--- Rating #4 ---
+Class: KIM201
+Date: 2013-05-09 19:04:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+One of the worst teachers I ever had for Kinesiology. Needed to come to his office hours to ask for help and it didn't really work out that well...
+
+--- Rating #5 ---
+Class: KIN201
+Date: 2013-02-19 16:57:25 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great teacher! thank you sir
+
+--- Rating #6 ---
+Class: KIN201
+Date: 2012-08-06 14:01:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+This teacher lacks a great deal of credibility among his students and peers. He lacks clear understandings of biomechanics. Students even asked him questions during class that he was unable to answer.
+
+--- Rating #7 ---
+Class: KIN201
+Date: 2012-05-08 14:14:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He was potentially a great instructore, though hard and unfair on grading
+
+--- Rating #8 ---
+Class: KIN201
+Date: 2011-10-21 14:57:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Class notes were unclear.  He tries his best to help and seems intelligent enough, but can't reason well.  He discusses a topic but tends to go off tangent.
+
+--- Rating #9 ---
+Class: KIN201
+Date: 2011-03-30 15:21:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Vague notes & unorganized.  Did not get much out of this class.
+
+--- Rating #10 ---
+Class: KIN201
+Date: 2011-03-30 14:34:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Warning.  Now TAing at McGill.  Watch out.  Worst TA and teacher in the world.
+
+--- Rating #11 ---
+Class: KIN201
+Date: 2009-12-03 18:53:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He is very helpful and knowledgeable and makes himself available when extra help is needed.
+
+--- Rating #12 ---
+Class: KIN201
+Date: 2009-08-17 15:11:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I really loved the course and the teacher was one of the best
+
+--- Rating #13 ---
+Class: KIN201
+Date: 2007-12-05 19:42:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+HE TRIES his best, but he can't teach. Some people are never meant to be, i suppose. His lectures are not worth going to.
+
+--- Rating #14 ---
+Class: KIN201
+Date: 2007-11-21 20:33:15 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+One of the worst teachers I ever had for Kinesiology. Needed to come to his office hours to ask for help and it didn't really work out that well...The average was pretty good but that's because most of the geniuses taking that course were already there for that semester and it totally screwed the others badly...some teacher he turned out to be...
+
+--- Rating #15 ---
+Class: KIN201
+Date: 2007-11-14 20:12:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Vague notes. Lectures are useless, go to tutorials. Will put exact examples on tests.

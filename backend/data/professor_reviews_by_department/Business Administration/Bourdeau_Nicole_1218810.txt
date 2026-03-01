@@ -1,0 +1,11 @@
+Professor: Nicole Bourdeau
+Professor Legacy ID: 1218810
+Professor ID: VGVhY2hlci0xMjE4ODEw
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 2.5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

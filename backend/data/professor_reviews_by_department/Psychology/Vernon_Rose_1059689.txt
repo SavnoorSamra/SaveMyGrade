@@ -1,0 +1,89 @@
+Professor: Rose Vernon
+Professor Legacy ID: 1059689
+Professor ID: VGVhY2hlci0xMDU5Njg5
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 3.3
+Avg Difficulty: 3.8
+Num Ratings: 6
+Would Take Again Percent: 80
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: PSYCH300W
+Date: 2021-03-20 22:49:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+If you're wondering what kind of prof he is for PSYCH300W I will say that class is mostly graded by your TA's so what kind of prof he is does not really affect your grade. I found Dr. Rose to be a little strict but he's not a bad guy! Passionate about different topics and encourages a lot of discussion. No final, lots of papers, but they get easier
+
+--- Rating #2 ---
+Class: PSYCH300W
+Date: 2017-07-13 04:44:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+A true professor in every sense. Passionate about his content, and opens your mind to see from different perspectives. Seems like just a typical professor in a suit but he's actually a cool dude.
+
+--- Rating #3 ---
+Class: PSYC201W
+Date: 2017-01-23 19:55:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He seems scary at first (and he is if you get on his bad side), but as long as you're respectful he's actually quite a nice fellow. Fairly standard professor. Don't be afraid to ask questions to him or the TAs, they won't bite.
+
+--- Rating #4 ---
+Class: PSYCH201W
+Date: 2016-12-15 20:34:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Do not recommend for ANY psych class. Very boring, reads from the textbook. Has nothing interesting to offer. Gives iclicker quizzes for every lecture so people will turn up.
+
+--- Rating #5 ---
+Class: PSYC201W
+Date: 2016-12-08 22:00:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+touche prof. makes subtle roasts in class, but you can barely catch it. it's the upside(or downside) to having a lawyer as your prof. Lectures are basically the same as the textbook, however he's still a nice prof and he'll be nice to you if you're respectful. Weekly clicker quizzes so ur forced to study lecture material weekly
+
+--- Rating #6 ---
+Class: PSYCH300W
+Date: 2014-07-16 14:53:45 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+TA's can be very helpful if you seek the help. This class is not as intimidating if you put in the work and keep trying to continuously improve your writing skills. Class is manageable but does require a significant amount of work

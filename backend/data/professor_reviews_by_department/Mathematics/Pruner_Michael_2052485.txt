@@ -1,0 +1,89 @@
+Professor: Michael Pruner
+Professor Legacy ID: 2052485
+Professor ID: VGVhY2hlci0yMDUyNDg1
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 5
+Avg Difficulty: 2.3
+Num Ratings: 6
+Would Take Again Percent: 100
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: EDUC475
+Date: 2024-09-01 21:24:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Michael is passionate about math and knowledgeable about the Education system. He is supportive and caring about everyone's varying math experiences and changes the narrative to make it accessible. His problems are fun and he uses his expertise to prepare us for our future careers. The assignments are easy as long as you put in the work.
+
+--- Rating #2 ---
+Class: FANX99
+Date: 2015-12-29 18:48:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+HE IS AMAZING!!! TAKE ANY MATH COURSE WITH MIKE, ESPECIALLY IF YOU'RE NOT FROM A MATH BACKGROUND!
+
+--- Rating #3 ---
+Class: FANX99
+Date: 2015-12-13 18:22:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Mike was an integral part of mine and others passing FANX99, providing clear instruction, examples, and solutions to complex problems. His class consisted of group work on chalkboards tackling a few problems per class, and required weekly LON-CAPA, quizzes, and written assignments. He is very available for help, and wants and helps you to succeed!
+
+--- Rating #4 ---
+Class: FANX99
+Date: 2015-11-25 00:48:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Mr. Pruner was awesome! Always available to help, great knowledge and hilarious. I would recommend him to anybody that needs to take FAN!
+
+--- Rating #5 ---
+Class: FANX99
+Date: 2015-11-03 04:43:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He teaches a very tough course- all students in FANx99 are there because of their extreme struggles with math in all its forms. He's super helpful, super sweet, and super supportive. Even if you hate math (like I do), he makes the subject at the very least tolerable. Amazing guy!
+
+--- Rating #6 ---
+Class: FANX99
+Date: 2015-10-25 19:32:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very passionate teacher. Always willing to help. If you have to take FANX, take it with Mike!

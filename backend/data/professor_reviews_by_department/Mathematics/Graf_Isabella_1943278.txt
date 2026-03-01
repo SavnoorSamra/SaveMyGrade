@@ -1,0 +1,24 @@
+Professor: Isabella  Graf
+Professor Legacy ID: 1943278
+Professor ID: VGVhY2hlci0xOTQzMjc4
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 1
+Avg Difficulty: 5
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: MATH251
+Date: 2014-11-14 18:10:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Exams were hard. Assignments were hard. Assigned a book but some stuff she taught wasn't in the book. Wouldn't recommend anyone to take any class with her.

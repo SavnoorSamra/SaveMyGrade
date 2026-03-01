@@ -1,0 +1,11 @@
+Professor: Stuart Peacock
+Professor Legacy ID: 3118187
+Professor ID: VGVhY2hlci0zMTE4MTg3
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

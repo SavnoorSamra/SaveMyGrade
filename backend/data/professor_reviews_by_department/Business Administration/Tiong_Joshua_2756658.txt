@@ -1,0 +1,37 @@
+Professor: Joshua Tiong
+Professor Legacy ID: 2756658
+Professor ID: VGVhY2hlci0yNzU2NjU4
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.5
+Avg Difficulty: 3.5
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS314
+Date: 2022-05-01 01:12:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Joshua has experience in the industry, however, I find him not very clear in explaining concepts. He asks us questions and engages in discussion for the whole class, however, I find this method hard to follow at times as I don't know which students provided correct or incorrect interpretations. I wasn't able to take a lot away from each class.
+
+--- Rating #2 ---
+Class: BUS314
+Date: 2021-12-17 03:00:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Such a great professor, very knowledgeable about his field of entrepreneurship and innovation. Learned so much real-life applicable stuff in just a semester. He also brings guest lecturers and visitors from the real business world to share their experiences with students and suggests quality content podcasts. Highly recommended!

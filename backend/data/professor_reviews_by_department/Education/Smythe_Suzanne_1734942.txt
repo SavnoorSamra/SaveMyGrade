@@ -1,0 +1,128 @@
+Professor: Suzanne Smythe
+Professor Legacy ID: 1734942
+Professor ID: VGVhY2hlci0xNzM0OTQy
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 2.7
+Avg Difficulty: 3.4
+Num Ratings: 9
+Would Take Again Percent: 44.4444
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: EDUC341
+Date: 2025-07-31 18:56:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+This class was a nightmare. I understand there was a difficulty of not having a TA at the beginning of the sem, but I did not get grades back before the next assignment was due, so no idea how to improve. Unclear criteria. Questions phrased "why do you think" but then marks deducted for giving personal opinions. disorganized, clearly not tech savvy
+
+--- Rating #2 ---
+Class: EDUC341
+Date: 2025-06-24 21:34:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Syllabus was unorganized but expected students do 100% right. The feedback did not tend to help you to improve but questioned you all the time. Do better or quit.
+
+--- Rating #3 ---
+Class: EDUC341
+Date: 2024-10-09 03:30:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Absolute circus! Little to no feedback on anything. Her syllabus/assignment outlines are so unclear that somehow the majority of the class missed the due date... but guess whose fault it was! Anybody but the professor's! Absolute joke! Completely disorganized! Drop the undeserved ego and look inwards for once! Plus constant nagging emails!
+
+--- Rating #4 ---
+Class: EDUC341
+Date: 2024-07-02 16:45:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Gives feedback for previous assignments with little comments on how to improve. Disables the option for deleting or editing discussion posts on Canvas so if you make a mistake you cannot fix it. Marks assignments from week 2 during week 9 giving no room to improve on your work through the course.
+
+--- Rating #5 ---
+Class: EDUC341
+Date: 2024-04-12 04:43:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Learned a lot in this course. Readings and activities were doable and grading fair.
+
+--- Rating #6 ---
+Class: EDUC341
+Date: 2020-12-17 09:09:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Syllabus said weekly discussions due Sundays, yet TA made a new due date halfway thru the sem threatening 10% off each discussion if students completed discussions on Sunday. Discussion posts only for participation, yet TA never gave full marks for completion. Grades not given fairly, very subjective. I emailed the prof, no response. Lots of work!
+
+--- Rating #7 ---
+Class: EDUC806
+Date: 2020-12-08 04:26:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Suzanne is an excellent facilitator. Her class was challenging, engaging and eye opening. She did a great job opening up difficult discussions in the class where each member felt comfortable to speak, on important topics. Amazing Professor.
+
+--- Rating #8 ---
+Class: EDUC341
+Date: 2019-08-18 22:31:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Each module grouped into two week sections making it overwhelming at first but easy to get ahead later in the course, weekly discussions were easy marks, projects were graded extremely fairly, final project took some getting used to using mahara but overall simple and easily graded, would definitely recommend to everyone
+
+--- Rating #9 ---
+Class: EDUC341
+Date: 2017-12-22 00:57:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Loved this class! Prof did a great job with the way she set the online class up. My TA Angel was amazing, super helpful &amp; replied to all emails. The assignments &amp; midterm are fair same with final project. This class opened me up to so many new things, I would definitely take this class again! the 1st week may seem like a lot of work but its not!

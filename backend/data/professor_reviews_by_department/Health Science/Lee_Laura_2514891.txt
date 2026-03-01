@@ -1,0 +1,24 @@
+Professor: Laura Lee
+Professor Legacy ID: 2514891
+Professor ID: VGVhY2hlci0yNTE0ODkx
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: HSCI312
+Date: 2020-10-12 03:29:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Laura is a very caring professor. She truly cares about her students and really tries to make sure her students are doing well. Her kindness is something I will never forget. She is a great prof and a great person. in terms of the course, it is group work heavy. Midterms were online but are fair. Course assessments are creative and fun

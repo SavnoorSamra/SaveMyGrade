@@ -1,0 +1,271 @@
+Professor: David Cox
+Professor Legacy ID: 110236
+Professor ID: VGVhY2hlci0xMTAyMzY=
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 4.2
+Avg Difficulty: 2.6
+Num Ratings: 73
+Would Take Again Percent: 73.3333
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PSYC365
+Date: 2026-01-12 02:57:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+One of the best instructors at SFU. Very clear and straightforward course structure. I thoroughly enjoyed his lectures.
+
+--- Rating #2 ---
+Class: PSCY365
+Date: 2025-12-17 20:38:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Cox is a great professor and clearly cares about the material and his students! Textbook was very important, as all questions and lecture content were taken directly from it.
+
+--- Rating #3 ---
+Class: PSYC365
+Date: 2025-11-28 23:28:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr Cox is an amazing professor, his lectures are very straightforward, straight from the textbook. Pay attention when he's talking, and go over the textbook before exams, and you will do well. He's always available to chat about course content or grad school. He genuinely wants everyone to succeed. He is so great, by far one of my favourite profs.
+
+--- Rating #4 ---
+Class: PSCY365
+Date: 2025-11-21 00:52:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Cox was a very passionate professor. He clearly enjoyed teaching which was refreshing. He was approachable, kind, and would crack tons of jokes during lectures. However, coming to class felt pretty pointless, considering lectures did not cover all of the textbook material and the tests were fully based off the textbook. 2 midterms + final = %
+
+--- Rating #5 ---
+Class: PSYC365
+Date: 2025-05-01 04:17:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+He talks a lot about other things irrelevant to the course. You're better off sticking to the textbook (that he wrote so all the info is relevant!). He is definitely a more caring professor, always offering to consult students about grad school and getting into research. Two midterms, the final and 5% of the grade was participation.
+
+--- Rating #6 ---
+Class: PSYC365
+Date: 2025-04-29 04:04:46 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr Cox is extremely knowledgable and passionate about his work. His lectures can be really interesting however, it is crucial to read the textbook outside of class. Half his lecture is stories and tangents making it difficult to follow what is necessary for the exams. Multiple choice is really hard.
+
+--- Rating #7 ---
+Class: 365
+Date: 2025-04-08 20:29:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+One of the best professors I've ever had. Great dude!
+
+--- Rating #8 ---
+Class: PSYC365
+Date: 2025-04-02 18:22:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Fav prof at sfu, lectures are 3 hrs but the least boring 3 hr lecture you'll ever take. He does ramble but it makes you really want to pay attention. For exams, just memorize textbook terms and go over chapter summaries. Would take this course again if I could I really enjoyed the content
+
+--- Rating #9 ---
+Class: PSYC365
+Date: 2024-06-15 03:52:46 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Memorizing the textbook matters most: weight is 95:5 for exams:participation. Content is intuitive but beware: defend your written section+go over your MC bc I would've missed FULL marks had I not (TA couldn't substantiate my lower mark); Dr. Cox straight up lost my midterm, the one that was suspiciously low..got an A still so didn't fuss about it.
+
+--- Rating #10 ---
+Class: PSYC365
+Date: 2024-04-24 02:59:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Cox is one of the best profs at SFU. He is so kind, caring, and approachable. He made classes engaging by making us laugh, and sharing various applications of course concepts through new articles he had found. The MTs are pretty straightforward if you go to class and read the textbook. Study hard for the final though because it's trickier!
+
+--- Rating #11 ---
+Class: PSCY365
+Date: 2024-04-18 00:54:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+David is one of the best professors I have had in my time at SFU. He has a real passion for health psychology and really cares about teaching the material to his students. 3 exams which are a walk in the park if you come to the lecture and read the textbook (which is what being a student requires). I wish I could take every course with David.
+
+--- Rating #12 ---
+Class: 365
+Date: 2024-04-17 23:12:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+exams
+
+--- Rating #13 ---
+Class: 365
+Date: 2024-01-09 18:03:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+David is very passionate and will ramble on during lectures. I did not find attendance in lectures to be critical but I still went. Your grade consists of three tests but everything is directly from the textbook. The short answer is where most lost marks on because you need to detail your answers which some are not prepared to do. Read the text!
+
+--- Rating #14 ---
+Class: 365
+Date: 2023-12-14 07:38:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I'm not sure why David has such excellent ratings; personally, I wouldn't recommend taking this class because the grade is dependent only on three tests. To perform well on the examinations, you must know every detail from the textbook, which is very time consuming.
+
+--- Rating #15 ---
+Class: 365
+Date: 2023-12-12 04:28:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Honestly, you can tell the prof is passionate about what he's teaching, but maybe too much... He rambles a lot in lectures, 3 hours that could easily be condensed into 1.5 hours. The entire course is based off of 2 midterms (25% each) and a final (50%), but if you study hard and really dive into the textbook, its pretty easy to get a good grade
+
+--- Rating #16 ---
+Class: PSYC365
+Date: 2023-12-01 22:39:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Honestly I regret taking this class. The lectures are incredibly boring as he just rambles and pulls out random articles that he doesn't link on Canvas, or even seem to test on. Grade is made up entirely of exams (25% for each midterm and 50% final) and seem to be based entirely on the textbook. Would not recommend.
+
+--- Rating #17 ---
+Class: 365
+Date: 2022-06-04 21:15:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is very understanding and responds to your questions very fast through email. Seem like a prof that really cares about his students. Would take a course with him again.
+
+--- Rating #18 ---
+Class: 365
+Date: 2022-04-27 06:42:00 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This class is ok. Dr. Cox tends to ramble in lectures which makes it hard to maintain focus and interest. Exams tested on a lot of material. It's definitely possible to do well on them, but not without a significant amount of effort. Overall, its a low maintenance course, as the exams are the only assessments, but definitely not easy or GPA booster
+
+--- Rating #19 ---
+Class: PSYC365
+Date: 2021-12-24 00:52:28 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+David is ok. He's nice, but he rambles and that loses engagement. The class is 95% exam and 5% (easy) in-class assignments, so there aren't many other places to demonstrate learning. The SA on exams is quite hard and many people struggle with it. You need to provide specific answers/facts. The curve wasn't as great as he made it out to be. :/
+
+--- Rating #20 ---
+Class: PSYC365
+Date: 2021-05-02 03:45:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Great prof and TAs. Exams are fair and test heavily on the textbook. You need to mention every detail under certain topics but the multiple choices are just free marks. The Mp3 files could be kinda weird but I liked his lectures. Exams took half a month to be graded but yea he's still a good prof. Take a course with him and benefited.

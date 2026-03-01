@@ -1,0 +1,89 @@
+Professor: Kevin Schnepel
+Professor Legacy ID: 2613503
+Professor ID: VGVhY2hlci0yNjEzNTAz
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 4.8
+Avg Difficulty: 2.2
+Num Ratings: 6
+Would Take Again Percent: 100
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: ECON334
+Date: 2025-01-15 23:06:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very helpful
+
+--- Rating #2 ---
+Class: ECON448W
+Date: 2024-07-11 17:20:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Kevin is my favourite professor. He makes economics interesting, fun and applicable to the real world. He is also very approachable and eager to help students. He tends to be unclear with his assignment deadlines and grading, so don't stick too hard to the syllabus.
+
+--- Rating #3 ---
+Class: ECON334
+Date: 2024-02-09 01:01:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Kevin is an amazing professor. He always makes sure the students understand the material well. He is also available for extra help and is open to scheduling appointments to help students out with their doubts. He's always wearing a smile on his face which makes him easy to approach and talk to. The course itself is not to hard and you'll enjoy it.
+
+--- Rating #4 ---
+Class: ECON334
+Date: 2024-01-12 22:22:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great prof
+
+--- Rating #5 ---
+Class: ECON334
+Date: 2021-12-23 13:07:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Overall, fair course. You'll get what you put in. Wish marking criteria were a little more clear, especially for exams.
+
+--- Rating #6 ---
+Class: ECON334
+Date: 2021-11-19 19:56:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I love Kevin! He is so chill and helpful with his students. He just wants you to learn the material and very understanding. He helped me more than the TA. I hope he chooses better TAs, his teaching quality cant be matched easily but if you have him and a good TA, you will be successful

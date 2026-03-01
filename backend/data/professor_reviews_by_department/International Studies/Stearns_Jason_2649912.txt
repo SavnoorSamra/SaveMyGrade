@@ -1,0 +1,89 @@
+Professor: Jason Stearns
+Professor Legacy ID: 2649912
+Professor ID: VGVhY2hlci0yNjQ5OTEy
+Department (CSV): International Studies
+Department (Fetched): International Studies
+Avg Rating: 4.7
+Avg Difficulty: 3
+Num Ratings: 6
+Would Take Again Percent: 100
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: IS325
+Date: 2024-02-26 23:46:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Jason is a great professor. He is passionate about what he teaches which makes learning a lot more enjoyable. His experience in the DRC made this class on social movements in Africa more detailed as he could talk about real experiences and invite guest lecturers who were part of ongoing social movements in Africa. I would highly recommend it.
+
+--- Rating #2 ---
+Class: IS200
+Date: 2023-02-02 23:15:40 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jason is a really caring prof, very approachable and overall a nice guy. But do not take this class unless you are interested in this stuff. It has a lot to do with war and conflicts. A lot of hard readings. Not hard to get a good grade because he makes sure the average is always a B+ but for me it was extremely boring and made no sense.
+
+--- Rating #3 ---
+Class: IS200
+Date: 2022-04-10 11:11:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This course is interesting and engaging because the theories and required readings are applicable to situations in the real world, overall a solid course as an introduction to International Security. Jason is an exceptional prof, his interest in the subject shows, and he encourages students to ask questions/ask for clarification if needed.
+
+--- Rating #4 ---
+Class: ENG112
+Date: 2022-01-04 17:24:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He is actually understanding and somehow his course design is fit for studing online. Exceptional prof, trust me you would want to do another course with him.
+
+--- Rating #5 ---
+Class: IS200
+Date: 2021-04-08 01:02:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Friendly prof and solid class overall, a good intro to international security and conflict
+
+--- Rating #6 ---
+Class: IS306
+Date: 2020-12-08 21:14:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jason has an extensive background within the field of international relations and his experience comes from work that he did in the Congo. He is extremely knowledgeable and it shows. His course conduct was excellent. Given that we were in the middle of a pandemic he altered the class structure so as to not place extra burden on us. Very caring.

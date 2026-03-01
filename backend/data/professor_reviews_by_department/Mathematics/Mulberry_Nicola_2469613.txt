@@ -1,0 +1,76 @@
+Professor: Nicola Mulberry
+Professor Legacy ID: 2469613
+Professor ID: VGVhY2hlci0yNDY5NjEz
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.2
+Avg Difficulty: 4
+Num Ratings: 5
+Would Take Again Percent: 80
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: MATH157
+Date: 2019-04-17 00:23:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I took math 157 with her this semester. Her midterms were quite easy but the final was fricking hard. It was at least 5 times more difficult than the midterm. some people even cried after the final cuz it was really hard. For grading, she is stubborn. she enforces you to use the same formula or method in assignments or midterm.
+
+--- Rating #2 ---
+Class: MATH157
+Date: 2019-04-16 21:27:43 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Prof was nice and easy to approach. Course was difficult
+
+--- Rating #3 ---
+Class: MATH157
+Date: 2019-04-14 22:30:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She's a good teacher, just seems nervous during lecture because she doesn't have a lot of experience. Very helpful and friendly when you see her at ACW. Overall, she's great and worth taking.
+
+--- Rating #4 ---
+Class: MATH157
+Date: 2019-04-12 16:44:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Nicola Mulberry is a fantastic calculus lecturer. She makes topics very clear and easy to understand, and her positive attitude makes the material a lot more approachable. I am very bad at math in general, but Nicola's teaching ability made me understand complex topics a lot better. I would not hesitate to take another course with her. Amazing!
+
+--- Rating #5 ---
+Class: MATH157
+Date: 2019-04-03 09:01:05 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+very friendly and knows her stuff. But she is nervous and doesnt seem comfortable speaking in front of a crowd. She goes over simple examples in class and leaves you to try out the harder ones on your own. If you think you understand the material well enough just because you paid attention in class THINK AGAIN - The exams will kill you.

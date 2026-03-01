@@ -1,0 +1,24 @@
+Professor: Daryl Funk
+Professor Legacy ID: 1720081
+Professor ID: VGVhY2hlci0xNzIwMDgx
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 5
+Avg Difficulty: 1
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: MATH150
+Date: 2012-05-07 02:24:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He goes by the material really quickly and it's hard to keep up but he links you to online math videos offered by distance education and they are extremely helpful. Aside from that, he's extremely generous, very helpful and easy to talk to. He will guide you to specific resources and make sure that your question is well answered before you leave.

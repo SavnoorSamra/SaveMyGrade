@@ -1,0 +1,63 @@
+Professor: Jemima Ackah-Arthur
+Professor Legacy ID: 3081763
+Professor ID: VGVhY2hlci0zMDgxNzYz
+Department (CSV): International Studies
+Department (Fetched): International Studies
+Avg Rating: 1.3
+Avg Difficulty: 5
+Num Ratings: 4
+Would Take Again Percent: 0
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: IS306
+Date: 2025-05-20 20:03:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the most frustrating courses I've taken. Grading felt arbitrary, with feedback that contradicted the rubric. Lectures felt aimless yet dense. Unclear expectations and no chance to revise grading a 50% weighted paper. Participation and presentation marks were vague. The lowest point in an otherwise positive experience in IS. Avoid entirely.
+
+--- Rating #2 ---
+Class: IS306
+Date: 2025-04-30 19:48:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Try to avoid if possible, she is an extremely unfair marker I am an A student and i have never done poorly on a paper. Until this class her expectations are unattainable. While she is nice and approachable she can give too many ways to do a paper and then mark based off of something else. She weighted the paper at 50%the class average was not high
+
+--- Rating #3 ---
+Class: IS306
+Date: 2025-04-30 15:08:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Jemima is an engaging speaker and is nice enough. However, she is an AWFUL professor. I am an A+ student and I almost failed our final project worth 50% because she deducted marks for random reasons. Grade: 20% participation, 30% group presentation, and 50% final project. Everyone was fighting for a participation mark and we learned very little.
+
+--- Rating #4 ---
+Class: IS306
+Date: 2025-03-19 23:40:26 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Impossible expectations.

@@ -1,0 +1,76 @@
+Professor: Amy Parent
+Professor Legacy ID: 2164356
+Professor ID: VGVhY2hlci0yMTY0MzU2
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 2.2
+Avg Difficulty: 3.8
+Num Ratings: 5
+Would Take Again Percent: 20
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: EDUC300
+Date: 2022-02-28 06:01:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Would not recommend.
+
+--- Rating #2 ---
+Class: EDUC300
+Date: 2021-07-28 07:51:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Worst prof I have ever had
+
+--- Rating #3 ---
+Class: EDUC311
+Date: 2020-12-27 21:09:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Amy was very disrespectful toward students. She also was disorganized in terms of assignments and expectations, would not recommend to anyone.
+
+--- Rating #4 ---
+Class: EDUC311
+Date: 2017-08-09 16:06:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I don't recommend taking this class if you are Indigenous. This course is catered towards non-Indigenous, future-educators who don't have a strong background in Indigenous-Canadian history/are nervous teaching Indigenous history and pedagogy. If that is you, then this course is a great start in Indigenous teaching principals :)
+
+--- Rating #5 ---
+Class: EDUC311
+Date: 2016-08-20 23:13:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Going to class is mandatory since there is a participation mark. Just some writing to do for this class but the class content is very fun. Any made the class very worth learning in an interesting way. Respected of students and listen to what students want to say. Highly recommend this class as a GPA booster!

@@ -1,0 +1,37 @@
+Professor: Matthieu Sturzenegger
+Professor Legacy ID: 1306019
+Professor ID: VGVhY2hlci0xMzA2MDE5
+Department (CSV): Geology
+Department (Fetched): Geology
+Avg Rating: 3.8
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: EASC104
+Date: 2009-12-22 20:46:40 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+His sooo nice!!! his lecture notes are veryy good!! if you read his lecture notes you'll do good on the exams~~however i dont like the fact that the lecture notes are soo colourful...waste so much ink...but other than that..his' awesome
+
+--- Rating #2 ---
+Class: EASC104
+Date: 2009-11-17 01:03:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+New teacher and great guy. He has a passion for his subject so he wants to see you succeed. French accent can be a little hard to understand sometimes, but his powerpoint lectures are good.

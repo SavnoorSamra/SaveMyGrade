@@ -1,0 +1,271 @@
+Professor: Jeffrey Warren
+Professor Legacy ID: 2012633
+Professor ID: VGVhY2hlci0yMDEyNjMz
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 4.6
+Avg Difficulty: 3.2
+Num Ratings: 99
+Would Take Again Percent: 94.8454
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CHEM180
+Date: 2025-12-14 07:00:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+A really small class when I took it, so he was really able to answer many questions. Great lectures that really showed his passion for biochem. No assignments, due to it just being a 3 week long course. Although going to lectures wasn't mandatory, still worth it because they were hilarious. Content of the final wasn't that clear though.
+
+--- Rating #2 ---
+Class: CHEM230
+Date: 2025-08-20 01:45:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Goat, was so clear on how we would be tested and graded, knew when we needed to do in class examples to clarify harder concepts, and tried to make lectures engaging and funny
+
+--- Rating #3 ---
+Class: CHEM332
+Date: 2025-04-29 17:37:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the best chemistry profs at SFU. Prepare for some extremely random tangents. My advice for future takers of his class are that his exams (at least in 332) expect you to really understand the material so you definitely need to do more than just memorize a couple equations.
+
+--- Rating #4 ---
+Class: CHEM332
+Date: 2025-04-25 06:24:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I would no sooner die before I show up to his class again.
+
+--- Rating #5 ---
+Class: CHEM332
+Date: 2025-04-25 03:23:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Just buy the textbook and stay home. His lectures are giving cow.
+
+--- Rating #6 ---
+Class: CHEM121
+Date: 2025-01-10 17:40:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+goes through basically all questions on exam and wants you to succeed, his material is well explained in lectures and full of examples! Very helpful in office hours and would often stay late
+
+--- Rating #7 ---
+Class: CHEM121
+Date: 2025-01-08 18:57:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Warren's part of the course saved my grade. I almost failed the first midterm but aced the final due to his practice examples in class. Go to lecture because he literally says whats on the final. Professor Warren is a very enthusiastic and I genuinely enjoyed his lectures. Take a course with him hes great.
+
+--- Rating #8 ---
+Class: CHEM121
+Date: 2024-12-31 01:32:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+THE GOAT. Explains, shows examples, re-explains. It is so easy to do well with Warren. Just show up to lecture and tutorial and he will tell you what is in the test. Albeit, the material is not easy stuff, but you will do well by paying good attention and watching the practice videos he posts on Canvas. Thank you for changing my life GOAT
+
+--- Rating #9 ---
+Class: CHEM121
+Date: 2024-12-20 08:50:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Explains concepts really clearly and did lots of example questions. He will make the most out of pocket jokes and it really keeps you engaged in the class!
+
+--- Rating #10 ---
+Class: CHEM121
+Date: 2024-12-19 16:21:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Just like leznoff, u can tell he likes chemistry. He is very energetic and hilarious. tends to say "what the sigma" and references the diddy party here and there. he only covers 3 chapters so he has tons of time for examples which help u understand things better. Leznoff had to go over 7 in the same span so that's why he seems worse. Overall amazin
+
+--- Rating #11 ---
+Class: CHEM121
+Date: 2024-12-19 11:14:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Best prof i've had. So fun and made me wanna come to lectures. He'd do examples that would be similar to the final. Cracked jokes making the most complex ideas fun. Loved this guy and would take a class with him again 100 times. GOATED prof.
+
+--- Rating #12 ---
+Class: CHEM121
+Date: 2024-12-13 22:37:15 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+good prof does examples
+
+--- Rating #13 ---
+Class: CHEM121
+Date: 2024-12-12 03:45:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+took chem 121 with him. after a horrendous first half of chem, warren came in clutch when he was needed most. lectures were enjoyable and he did a lot of examples for the class which really helped for the final exam.
+
+--- Rating #14 ---
+Class: CHEM121
+Date: 2024-12-11 22:16:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Warren's half of the course literally saved my grade after doing horrible on the midterm. It was so easy to understand concepts and he used a lot of examples as well. Warren the goat!!!!!
+
+--- Rating #15 ---
+Class: CHEM121
+Date: 2024-12-11 21:42:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Warren is awesome. I SCRAPED by in this class, but Warren's half of the course absolutely saved me. He works through a lot of examples and practice questions, giving you ample opportunity to practice and do well. He's also very accessible, and encouraging. His lectures are fun, and he keeps the good vibes going.
+
+--- Rating #16 ---
+Class: CHEM121
+Date: 2024-12-11 06:23:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Warren is such a lovable guy. His lectures are always enjoyable and I really appreciate how he puts effort into making the content actually interesting via his tone and method of teaching. He had lots of cool demos and I really appreciated how he went above and beyond to help his students after how poorly we did on the midterm.
+
+--- Rating #17 ---
+Class: CHEM121
+Date: 2024-12-11 05:19:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Really entertaining prof. He is really good at teaching and tries his best to engage the class with his gen z humor. He wasn't lying when he said the final was easier.
+
+--- Rating #18 ---
+Class: CHEM121
+Date: 2024-12-10 18:04:23 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's a nice person, but I'm not sure why he's so hyped. Every year these two profs pray on people's downfall by giving really hard and long exams that people can't finish in time. Incredibly difficult exam questions compared to the little material taught in class. He was better than Leznoff, but overall avoid taking chemistry with these two ever.
+
+--- Rating #19 ---
+Class: CHEM121
+Date: 2024-12-10 04:47:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+GOAT Chem duo with Prof. Lenzoff. I really enjoy them in chem. They are funny and their lectures are really helpful for midterm and final exam
+
+--- Rating #20 ---
+Class: CHEM121
+Date: 2024-12-10 04:42:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+GOAT duo along with Prof Lenzoff. Really enjoy them both. They are funny and their lectures are helpful for midterm and final.

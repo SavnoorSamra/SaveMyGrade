@@ -1,0 +1,141 @@
+Professor: Gillian Judson
+Professor Legacy ID: 1604809
+Professor ID: VGVhY2hlci0xNjA0ODA5
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.8
+Avg Difficulty: 2.7
+Num Ratings: 10
+Would Take Again Percent: 100
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: EDUC471
+Date: 2025-12-15 12:52:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Shes literally the best professor I've ever had. Worth getting up and getting to school at 8:30!!
+
+--- Rating #2 ---
+Class: EDUC471
+Date: 2025-12-08 20:08:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing professor out of my 4 years at SFU I would recommend this professor for everyone. She is so passionate she really made me confident in my abilities of becoming a future teacher. Her way of teaching is so exciting, it was an 8:30 am class which sounds awful but I promise it's worth it.
+
+--- Rating #3 ---
+Class: EDUC376
+Date: 2025-11-21 06:23:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is so passionate and energetic. Some topics in the class seem to overlap but that's easier to me because i can repeat the same things but in different ways. She's super kind and understanding and gives GREAT detailed feedback which helps in the long run. Also she does these fun interative activities every class that make the learning fun.
+
+--- Rating #4 ---
+Class: EDUC818
+Date: 2025-07-27 04:47:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Gillian was outstanding. She made a significant effort to incorporate cognitive tools into her teaching. Her class was enjoyable, and she effectively engaged us with the reading materials. Additionally, Gillian was excellent in time management; she always managed to cover the topics she prepared within the allotted class time.
+
+--- Rating #5 ---
+Class: EDUC823
+Date: 2017-12-11 23:46:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Gillian is great! She does what she teaches! She cares for her students and their knowledge, education and engagement. She is supportive and well prepared. Loved taking her class. Learned so much and had loads of fun!
+
+--- Rating #6 ---
+Class: 830
+Date: 2014-10-18 11:57:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+She is excellent and prepared
+
+--- Rating #7 ---
+Class: EDUC471
+Date: 2013-04-11 18:09:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Good prof! The readings were at times very boring and dry but Gillian did her best to make them interesting
+
+--- Rating #8 ---
+Class: EDUC830
+Date: 2012-03-10 18:29:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Outstanding. Best teacher I have had in my program, including undergrad. Smart and always interesting. Practices what she preaches. Always well prepared. Works really hard to make sure everyone understands the material. Just great.
+
+--- Rating #9 ---
+Class: EDUC823
+Date: 2012-03-10 18:19:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Excellent prof. in every way. Clear, engaging, bright, concerned for students. Made sure we all learned the content. Varied activities. Funny. I'd take any course she was teaching.
+
+--- Rating #10 ---
+Class: EDUC325
+Date: 2011-11-07 01:19:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great prof! She knows what she's talking about, she refuses to make every class a boring lecture, and although she may not be super clear at first, she encourages you to ask questions until you have a good understanding.

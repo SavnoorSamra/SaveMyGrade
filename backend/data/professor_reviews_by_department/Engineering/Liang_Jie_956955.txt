@@ -1,0 +1,272 @@
+Professor: Jie Liang
+Professor Legacy ID: 956955
+Professor ID: VGVhY2hlci05NTY5NTU=
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 3.5
+Avg Difficulty: 2.8
+Num Ratings: 20
+Would Take Again Percent: 58.3333
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENSC424
+Date: 2025-11-24 04:58:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures are clear and informative. He is not hard to understand at all if you're listening. Homework is directly related to lecture slides and the exam questions come straight from the homework. Open ended final project but Jie provides good feedback to help narrow your scope and make things as doable as possible.
+
+--- Rating #2 ---
+Class: ENSC180
+Date: 2025-07-28 06:26:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures are just reading off slides, and filled in slides are posted. Attendance for labs and lectures not mandatory, course content is doable
+
+--- Rating #3 ---
+Class: ENSC180
+Date: 2025-04-30 22:21:15 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures were difficult to understand but easy to learn on your own since the slides had lots of info on them. Labs and assignments were pretty hard but midterm and final exam were fairly straightforward.
+
+--- Rating #4 ---
+Class: ENSC180
+Date: 2025-03-11 22:13:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His lectures you can't hear or understand anything, you are pretty much cooked for this class.
+
+--- Rating #5 ---
+Class: ENSC180
+Date: 2024-08-20 20:42:09 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prof just goes through slides as lecture, no need to go to them. Slides/ lectures themselves are very clear and structured. Labs are sometimes stressful as there was a 30% deduction for late submissions. Midterm and final are on paper and a little more challenging than labs.
+
+--- Rating #6 ---
+Class: ENSC429
+Date: 2024-08-19 16:48:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great professor overall. Fair Midterm and Final, Final Project was carte blanche on any DSP topic and he marked light. Homework was taken from a very good textbook. Lectures were boring and skippable as he's monotone but his slides are quality. Curved the class to an overall B average. Would take again with him.
+
+--- Rating #7 ---
+Class: ENSC180
+Date: 2024-04-20 12:01:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Jie's lectures were very boring, and I can't hear him. However, he is very organized and knows how to run the course properly (unlike other programming profs). Considering that it's his first time teaching ensc 180, he's a solid prof.
+
+--- Rating #8 ---
+Class: ENSC180
+Date: 2024-03-21 00:09:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures are very boring, and it can be hard to understand him as he speaks rather quietly and with an accent
+His slides are well made and informative and the weekly labs are great for improving understanding and helping study for tests
+
+--- Rating #9 ---
+Class: ENSC180
+Date: 2024-03-11 21:22:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His lectures are kinda slow and monotone. His midterm makes no sense. His lectures slides though are goated. That being said, he mainly teaches upper level courses and this is the first time he's teaching a 100 level matlab course, so hopefully by the time you're reading this he has a bit more experience in that domain.
+
+--- Rating #10 ---
+Class: ENSC424
+Date: 2022-02-13 00:01:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great lectures and course content, with plenty of real world application. Professor is engaging since it is his area of research. Fair grading and he provides worked examples in tutorial.
+
+--- Rating #11 ---
+Class: ENSC424
+Date: 2021-12-13 02:54:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+You can barely hear him in class...
+
+--- Rating #12 ---
+Class: ENSC424
+Date: 2017-12-22 02:37:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+You can get by by not going to lecture, but you can guarantee yourself a good grade by showing up and paying attention. He often let's students know what is important which is a key indicator of what will be on exam. Make sure to do the assignments well ahead of time as they are time consuming. Understanding them will also help you achieve an A.
+
+--- Rating #13 ---
+Class: ENSC327
+Date: 2014-12-10 16:28:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Lecture notes are all that is needed for the course and are posted online, but it is better to go to class and see the derivations. This course is entirely math-based, and will require focus for the entire term, definitely not easy. Grades assignments and labs very easy, tests were difficult but fair.
+
+--- Rating #14 ---
+Class: ENSC424
+Date: 2013-12-17 11:27:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Worst instructor ever, can't even talk,  how sfu hired him, have no idea.  He's confusion g and hard to hear him in the class.  So boring person and instructor, waste of money &  time
+
+--- Rating #15 ---
+Class: ENSC424
+Date: 2013-03-01 01:45:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Well prepared and clear lectures.Assignments are challenging, with the deep understanding of materials plus intermediate coding skills, they are do-able.Exams are fair.You will realize how  hard this field is by taking his course, as well as learning a lot.2 advice on Ace this course: 1. Be super clear on important algorithms 2. Do HW yourself.
+
+--- Rating #16 ---
+Class: ENSC327
+Date: 2010-11-22 18:56:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Lecture wise, he's not that interesting to listen to. But his notes are AMAZING!! You don't need the textbook. The labs are easy, not like the brutal labs you get in other classes. HW and exam are basically derived from the notes. So if you studied the notes carefully, you are good to go for the exam. No formula sheet allowed, so lots of memorizing
+
+--- Rating #17 ---
+Class: ENSC327
+Date: 2009-12-22 00:08:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+This Prof is really one of the very few best professors I have met in all my life. He is so dedicated to teaching, very helpful to his his students. It is true he is more hardworking than students. I just see that Prof as my inspiration and certainly I would like to take more courses with him. Jie is the kind Prof that make you feel good about your
+
+--- Rating #18 ---
+Class: ENSC327
+Date: 2009-12-22 00:06:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+This Prof is really one of the very few best professor I met in all my life. He so dedicated to teaching, very helpful to his his students. It is true he is more hardworking than students. I just see that Prof as my inspiration and certainly I would like to take more courses with him. Jie is the kind Prof that make you feel good about yourself.
+
+--- Rating #19 ---
+Class: ENSC327
+Date: 2007-12-17 18:57:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very good teacher.
+
+--- Rating #20 ---
+Class: ENSC424
+Date: 2007-02-08 09:11:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Jie Liang is open to help his students, and would not turn away his students unless he is really busy.  He's also very hardworking, and often times he's more hardworking than his students.  He can make his lectures more interesting sometimes.

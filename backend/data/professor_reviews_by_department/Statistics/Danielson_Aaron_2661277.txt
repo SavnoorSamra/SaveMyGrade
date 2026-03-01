@@ -1,0 +1,24 @@
+Professor: Aaron Danielson
+Professor Legacy ID: 2661277
+Professor ID: VGVhY2hlci0yNjYxMjc3
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 2
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: STAT310
+Date: 2021-01-02 03:28:50 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+During our first lecture, Aaron made the class sound fun and interactive however THIS WAS VERY DECEIVING. He is super nice but has no teaching skills and is all over the place during lectures. This is NOT an introductory course (need R Studio experience) and it will cause you lots of stress. He gave everyone a good mark but I felt I learnt nothing

@@ -1,0 +1,24 @@
+Professor: Sara Anwar
+Professor Legacy ID: 3074879
+Professor ID: VGVhY2hlci0zMDc0ODc5
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BUS373
+Date: 2025-02-11 03:20:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I really like her teaching style; she is a smart, young, and caring instructor who really wants her students to succeed and get improved.

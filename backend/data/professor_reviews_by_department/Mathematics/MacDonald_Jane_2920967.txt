@@ -1,0 +1,271 @@
+Professor: Jane MacDonald
+Professor Legacy ID: 2920967
+Professor ID: VGVhY2hlci0yOTIwOTY3
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 1.2
+Avg Difficulty: 4.7
+Num Ratings: 119
+Would Take Again Percent: 4.2017
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MACM316
+Date: 2025-11-27 16:36:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+naw i cannot wtih this course
+
+--- Rating #2 ---
+Class: MTH256
+Date: 2025-10-30 01:31:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+studied the course myself. this prof was horrible.
+
+--- Rating #3 ---
+Class: MACM316
+Date: 2025-08-09 21:32:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jane is a very good lecturer, making Numerical Analysis much easier to handle.
+
+--- Rating #4 ---
+Class: MTH256
+Date: 2025-06-09 02:46:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Does not believe in posting notes or extra examples. She reads straight from the book and does not lecture. Her tests are brutal and the class average typically hovers around 70%. She also did not fully cover the curriculum we paid for, she started Chapter 8 on Wednesday of week 10. Get ready to read and study hard.
+
+--- Rating #5 ---
+Class: MTH256
+Date: 2025-05-21 04:02:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Probably the worst proffessor I've ever had. Barely goes over examples in lectures and only reads from the textbook. Tests are worth 70 percent of your entire grade and the review problem she gives for them sometimes don't even relate to the actual exam problems. I would recommend getting a tutor because she is incompetent in teaching.
+
+--- Rating #6 ---
+Class: MTH256
+Date: 2025-05-13 04:08:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+There are two mid-terms in this class both worth 20% of your grade and a final worth 30% of your grade. You can go to lectures, but she literally teaches straight out of the textbook, copying it word for word. When she tries to explain it, it's all very confusing so you are basically stuck with teaching YouTube videos and online resources.
+
+--- Rating #7 ---
+Class: MTH256
+Date: 2025-05-08 04:17:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Do not take. Please listen to this plea.
+
+--- Rating #8 ---
+Class: MACM316
+Date: 2024-11-07 23:24:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+no. Nope. Run.
+
+--- Rating #9 ---
+Class: MACM316
+Date: 2024-10-01 23:41:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Just don't. Bad lectures slides. Tests are asking completely different things from what she mentioned in the lectures. She asked to memorize the MATLAB syntax the whole term, and then never asked a question about it on the final. The course is doable tho, but there are much better profs to take it  with.
+
+--- Rating #10 ---
+Class: MACM316
+Date: 2024-09-11 03:58:49 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She often loses her train of thought and just follows her notes. She doesn't post her filled out lecture slides and she doesn't allow people to take pictures without her permission. Also, the optional homework doesn't relate to the quizzes/exams. If you go to office hours she is really nice and actually makes sense
+
+--- Rating #11 ---
+Class: MACM316
+Date: 2024-08-21 22:46:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Exams and quizzes are unrelated to the textbook homework. Focus on her lecture slides and be prepared to memorize all the formulas and small details. If something doesn't make sense on the slides, there's a high chance she's made a mistake. Don't expect much from her; she's not capable of explaining well. Mahdi, her TA, is much better at teaching.
+
+--- Rating #12 ---
+Class: MACM316
+Date: 2024-08-19 20:34:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This prof has terrible lecture notes and cannot teach effectively enough for an upper division Math course such as MACM 316. It's passable so long as you prepare for the final and do fine on the assignments. I would see the TA's frequently here. She isn't good enough of a teacher to help you excel so you have to do the work yourself and see TA's.
+
+--- Rating #13 ---
+Class: MACM316
+Date: 2024-08-19 19:15:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jane is not a competent teacher at all. She is always late, doesn't allow students to take pictures of the slides, and just generally doesn't care for her students. Quizzes were difficult and unreasonable, with way too much content to memorize in this class, since no formula sheets were allowed. Clearly she's only here for research. Please avoid!
+
+--- Rating #14 ---
+Class: MACM316
+Date: 2024-08-19 07:56:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Does not test materials in lecture and homework, very messy writing, and does not upload lecture notes.
+
+--- Rating #15 ---
+Class: MACM316
+Date: 2024-08-17 23:36:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Completely uninvested in her student's. Doesn't post the automatically recorded lectures. Doesn't post filled in notes. Her handwriting is very bad with lots of mistakes. She yells at you if you take pictures, but if you ask sometimes it's fine? No practice midterm or final. No cheat sheets, and the midterm was mostly proofs with no warning. Avoid.
+
+--- Rating #16 ---
+Class: MACM316
+Date: 2024-08-14 21:05:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Frequently gets lost in her own notes and makes countless mistakes during lectures, greatly disrupting learning. Yells at students for taking picture of the projector during class. Refuses to post filled in lecture notes but lectures too fast for students to copy down the notes in class. Be prepared to memorize formulas. Power trip issues.
+
+--- Rating #17 ---
+Class: MACM316
+Date: 2024-08-12 02:04:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+She had the TAs stood over our shoulders, stared at us for almost the entire exam to send a message. None of us were even thinking of cheating. The exam was already hard, and we didn't need that kind of pressure.. Just don't take any course with her..
+
+--- Rating #18 ---
+Class: MACM316
+Date: 2024-08-11 06:44:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+I wish there is "Unrespectable" in the categories above. She is so far the least respected professors I know by all of her students, and for valid reasons. Unsupportive is one thing, but she is actively sabotaging. Ugly, illegible notes. Gate keeping. Uneven marking. Random 2 minutes long pause. Rude. 100% of her effort is spent on her outfit.
+
+--- Rating #19 ---
+Class: MACM316
+Date: 2024-08-11 06:33:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Worst of all time indeed.
+
+--- Rating #20 ---
+Class: MACM316
+Date: 2024-08-10 21:00:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+She might be a stellar researcher but she absolutely sux at teaching. SFU please do better and have capable personnel teach such an important course. I was made to lose interest and stop caring about this course very early on. TBH she might have been the worst I've had of all time.

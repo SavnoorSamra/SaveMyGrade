@@ -1,0 +1,63 @@
+Professor: George Kirczenow
+Professor Legacy ID: 1696047
+Professor ID: VGVhY2hlci0xNjk2MDQ3
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 3.8
+Avg Difficulty: 2.7
+Num Ratings: 4
+Would Take Again Percent: 50
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: PHYS102
+Date: 2019-12-06 23:22:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Only applies to surrey campus. Although George as a prof is alright, the way classes were structured were not optimal to say the least. Each class you had to complete an activity manual that was supposed help you implicitly learn certain concepts on your own. Lengthy nature of these manuals, meant you were playing catch up the entire semester.
+
+--- Rating #2 ---
+Class: PHYS102
+Date: 2017-01-23 19:52:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+NOTE: APPLIES ONLY TO SURREY CAMPUS. In each class, you'll do activity manuals. For the tests, he lets you bring those manuals in with you. Need I say more? As long as you take good notes on them, have a good grasp of the material and solid formula sheets on those manuals (note: use the back of one to make a combined sheet), you'll be fine.
+
+--- Rating #3 ---
+Class: PHYS102
+Date: 2016-04-02 05:43:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Dr. Kirczenow is a good professor who is easy to approach.  Although unclear during certain lectures at times, he was willing to repeatedly go over main ideas until students understood them. The textbook is needed for homework, practice questions and reinforcing concepts. His tests were fair too, and overall there is not much to complain about.
+
+--- Rating #4 ---
+Class: PHYS421
+Date: 2012-02-23 15:40:22 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He's not a very interesting lecturer as his lectures can be pretty boring. But he is clear and very good and presenting the material. He is quite slow in his pace - which is good for a 4th year physics course. Additionally, his exams a very fair. There are usually proofs from his lecture notes. At least one question from the HW.

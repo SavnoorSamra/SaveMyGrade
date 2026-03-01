@@ -1,0 +1,271 @@
+Professor: Brian Funt
+Professor Legacy ID: 89811
+Professor ID: VGVhY2hlci04OTgxMQ==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.6
+Avg Difficulty: 3
+Num Ratings: 37
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT412
+Date: 2019-04-02 03:46:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This course combined actually a lot of learning without a huge onerous work load. We demoed are projects to the TA which gave immediate feedback. Dr. Funt was struggled having to teach some reasonably dense mathematics to class with a pretty diverse mathematical background but seemed to be able to convey the essential ideas successfully.
+
+--- Rating #2 ---
+Class: CMPT412
+Date: 2018-12-21 02:35:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Wow, best professor ever met. His lecture is very interesting. The material is challenging in a good way. Assignments are very helpful. One classmate got a well paid job by talking about one of the assignments we did in this course. Prof Funt is very patient to students and their questions. Very supportive for extra helps.
+
+--- Rating #3 ---
+Class: CMPT102
+Date: 2016-04-20 01:10:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Brian is a great prof for CMPT 102: he has good knowledge in Matlab and he is passionate in teaching it . I would say attending lectures is quite important for this course, as there are "to-tries'  for every lecture. It's a great opportunity since you code with ppl there to answer questions. It's an easy A if you do the practice in class.
+
+--- Rating #4 ---
+Class: CMPT412
+Date: 2014-07-23 20:38:32 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He looks very kind, but he is quite mean. I got 69% of total and just get C+. The average of class is C+. Exams are very surprising since we haven't done any related questions. He always say "you should be fine", but your marks will be very low if you believe him. The assignment is interesting though.
+
+--- Rating #5 ---
+Class: CMPT412
+Date: 2014-05-12 15:05:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great professor. Brian explains the points very clear and the homework was very interesting, although time consuming.
+
+--- Rating #6 ---
+Class: CMPT412
+Date: 2014-04-11 20:24:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Nice guy with a very hands-on teaching style. My main complaint is that he offers no practice questions even though most of the course is heavy on math, so the only way to study for exams is to understand the abstract concepts and then hope you can solve calculation problems during the exam. If he gave written problems he would be awesome.
+
+--- Rating #7 ---
+Class: CMPT102
+Date: 2011-12-17 04:28:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great Professor ! Very kind and helpful.
+
+--- Rating #8 ---
+Class: CMPT102
+Date: 2009-12-23 19:37:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+An approachable educator who definitely knows what he's teaching. His lecture slides are useful, though basic. So, you need to master the in class examples to complete the homework. Though he is decent at explaining things, I found the TA even more helpful than him. My only suggestion for Dr. Funt is that he boil down to simpler terms when teaching
+
+--- Rating #9 ---
+Class: CMPT412
+Date: 2009-12-21 12:17:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+No textbook so you need to go to class. Always available for help and you can always ask questions in class. Allows cheat sheet for exams. Only need short to medium length answers for exams, but you have to think. Course is easier if you have MATH 251, 314 but still okay without it.
+
+--- Rating #10 ---
+Class: CMPT102
+Date: 2009-12-18 00:15:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Horrible prof, by far one of the worst people i have ever encountered. I hope he does not continue as a professor, at SFU.
+
+--- Rating #11 ---
+Class: CMPT102
+Date: 2009-12-14 17:57:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Always willining to help. Sometimes confuses himself during lectures. Overall a relatively nice guy
+
+--- Rating #12 ---
+Class: CMPT412
+Date: 2009-12-10 01:55:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+difficult but fair exam questions, easy marking, a very interesting prof, sometimes unclear.
+
+--- Rating #13 ---
+Class: CMPT412
+Date: 2009-12-09 15:09:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+nice prof, very helpful. It's better to learn from him than other computer vision books.Assignments are useful and pratical, exams are relatively hard.
+
+--- Rating #14 ---
+Class: CPMT102
+Date: 2009-04-15 16:46:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+great prof. hard exam.
+
+--- Rating #15 ---
+Class: CMPT102
+Date: 2008-04-14 01:24:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+he doesnt know what he is talking about and his hair is negatively affecting my ability to concentrate in his class this man should learn how to teach and if he continues to persue computer science he should learn how to use a computer
+
+--- Rating #16 ---
+Class: CMPT102
+Date: 2008-04-03 00:14:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Dr Funt is a great prof, he spearheaded getting this course switched to Matlab which is way more useful for most people who have to take it.  He clearly wants the best for his students, and is very helpful.  Assignments can be a little tricky, but they're interesting and instructive.  All the tests were very fair.
+
+--- Rating #17 ---
+Class: CMPT102
+Date: 2008-04-02 22:58:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+funt is a great prof. Just make sure you dont play on the computers during lecture! he does not like that. just listen and you'll be fine.
+
+--- Rating #18 ---
+Class: CMPT102
+Date: 2008-04-02 16:00:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I love professor Funt. This class would be a lot harder if it wasn't taught in CSIL. Matlab was a way better language to learn than Java or C++. I thought I would hate it, but this class is awesome.
+
+--- Rating #19 ---
+Class: CMPT102
+Date: 2008-04-02 15:54:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Dr. Funt is a very helpful,funny, caring teacher. He even me offered extra help outside the course content. One of the best professors I've had. A+ hands down. Very clear and reasonable in all testing and teaching aspects.
+
+--- Rating #20 ---
+Class: CMPT102
+Date: 2007-12-26 00:24:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Not interesting/helpful/useful...that pretty much sums it up...maybe he's better at teaching courses in his &quot;area of expertise&quot; but he's a crummy first year course prof

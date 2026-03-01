@@ -1,0 +1,141 @@
+Professor: Shannon Linning
+Professor Legacy ID: 2785906
+Professor ID: VGVhY2hlci0yNzg1OTA2
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 3.8
+Avg Difficulty: 3
+Num Ratings: 11
+Would Take Again Percent: 60
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: CRIM318
+Date: 2025-12-08 03:22:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Shannon is a very nice professor but the class itself is a lot of writing, there is weekly written portion, and attending lecture is mandatory because almost everything in her exams are from her lectures. TAKE GOOD NOTES. Final paper is 10-12 pages. Overall not bad but just a lot of work for what the class is.
+
+--- Rating #2 ---
+Class: CRIM318
+Date: 2025-04-24 00:28:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best criminology prof. If you go to all the lectures and write down everything she says, you will get a really good grade on the exams which are takehome exams and she gave us 3 days to do them. Amazing prof.
+
+--- Rating #3 ---
+Class: CRIM318
+Date: 2025-04-23 05:14:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best prof I've ever had. Super passionate and is very clear/well-spoken. Gives lots of good examples to help understand content. Advice - go to lecture and write down everything said. Exams are almost all lecture based, so if you go, take notes, and pay attention, it's easy to do well.
+
+--- Rating #4 ---
+Class: CRIM318
+Date: 2025-04-04 21:33:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Good professor overall. There's a group project that's a presentation. Online homework is time-consuming. Tutorials are a must, and you have to participate if you want full marks. Does not post slides to canvas, and exams are lecture heavy, so lecture attendance is important. Term paper was easy to write (easy steps to follow). No textbook!
+
+--- Rating #5 ---
+Class: CRIM220
+Date: 2024-03-11 20:12:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Maybe better in-person than online.  Didn't upload anything to Canvas except point form list objectives, assignment briefs, and lecture videos.  Weekly office hours and midterm conflicted with other courses.  Little actionable feedback on assignments and didn't return midterm; how am I supposed to improve if I don't know why I got marked down?
+
+--- Rating #6 ---
+Class: CRIM318
+Date: 2023-01-08 03:00:00 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+did not vibe with this prof at all, very old fashioned, and inspires very little. she is not open to students feedback, and her TA is just as useless as her, would never take this prof again despite earning a good mark.
+
+--- Rating #7 ---
+Class: CRIM318
+Date: 2022-12-10 05:20:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+One of the best lecturers at SFU. Clear slides and informative lectures, explains concepts so well you have no problem understanding the material. Exams are short-answer questions, but open-book, with all recordings of lectures available. Definitely recommend.
+
+--- Rating #8 ---
+Class: CRIM318
+Date: 2022-12-07 05:49:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She is a solid prof. I have taken her a couple of times now and I found her to be fair and reasonable. One suggestion I have is to focus on what she talks about in lectures and the examples she gives.
+
+--- Rating #9 ---
+Class: CRIM433
+Date: 2022-04-12 21:13:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+(CRIM 220) Really confusing as the grading criteria was not clear for assignments. I would answer the question but needed to provide more outside of what was asked? 15 page paper was overwhelming so beware. Prof was accessible outside of class and listened to any concerns. TA worked against me not for me almost as if she wanted us to fail.
+
+--- Rating #10 ---
+Class: CRIM433
+Date: 2022-04-07 19:31:56 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This class is pretty straight forward. She lectures for the first half of class and the last half is dedicated to discussions which counted towards participation. 2 textbooks were used but both can be accessed for free online. Course content itself isn't that all challenging but completing weekly readings helps with the writing assignments.

@@ -1,0 +1,52 @@
+Professor: Tebuwana Ratnasekera
+Professor Legacy ID: 2808698
+Professor ID: VGVhY2hlci0yODA4Njk4
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 1
+Avg Difficulty: 4
+Num Ratings: 3
+Would Take Again Percent: 0
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: stats-201
+Date: 2022-06-30 02:22:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: True
+Comment:
+I recommend the in-person of this course, or take online with someone else. He jumps way ahead, and doesn't give any prior intro to the course. The textbook doesn't teach you how to code, yet there is 60 pages to read each week including 20 practise questions/chapter. All assignments are CODING. In comparison to in-person this is really unfair.
+
+--- Rating #2 ---
+Class: stats-201
+Date: 2022-06-30 02:20:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+1. doesn't teach you rcode - zip file is super unclear on how to do it
+2. His practise question videos from the textbook are almost useless, because he does the rcode himself and just reads what's on it. He only talks about what he applied, but doesn't emphasize on understanding or how it is done at all. 
+3. His assignments are difficult.
+
+--- Rating #3 ---
+Class: stats-201
+Date: 2022-06-30 02:19:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+DON'T TAKE THIS COURSE WITH PULINDU! He has an extremely super thick accent, and it's super hard to understand what he is saying. He does not teach anything, his videos are also pointless.

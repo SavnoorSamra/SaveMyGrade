@@ -1,0 +1,37 @@
+Professor: Shahram Amiri
+Professor Legacy ID: 2491518
+Professor ID: VGVhY2hlci0yNDkxNTE4
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 1
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: MSE320
+Date: 2020-09-10 06:24:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Worst professor ever! He does not have a good grasp of the concepts and was learning along with us. An example of a typical class was the following - Sharam would open the Machine Elements in Mechanical Design textbook and would go to the topic as specified in the syllabus. He would then recite portions of the book using the document camera.
+
+--- Rating #2 ---
+Class: MSE995
+Date: 2019-05-09 06:30:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Although the course has 'advanced' in its name, what the professor teaches is very simple. All he teaches about in the course is how to use SolidWorks, which I believe is better learned if you follow the tutorials in the software instead. The classes are very boring. He will give you as good marks as his own teaching.

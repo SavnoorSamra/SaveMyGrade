@@ -1,0 +1,271 @@
+Professor: Steve Mongrain
+Professor Legacy ID: 27754
+Professor ID: VGVhY2hlci0yNzc1NA==
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 3.9
+Avg Difficulty: 2.8
+Num Ratings: 51
+Would Take Again Percent: 88.8889
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ECON302
+Date: 2019-11-22 18:51:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He slept during Bill Nye's speech. Best prof ever!!! Easy class
+
+--- Rating #2 ---
+Class: ECON302
+Date: 2019-04-24 07:30:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is the best prof you can choose for Econ302.
+
+--- Rating #3 ---
+Class: ECON494
+Date: 2018-11-16 21:47:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+494 is very beneficial to honor thesis by having more time to increase the quality of honor thesis. The two semesters of honor thesis give you more advantage when you are compared to other universities' students, especially when you apply external award for your paper to impress grad school. Steeve provided consistent feedback throughout semesters.
+
+--- Rating #4 ---
+Class: ECON302
+Date: 2018-05-11 16:05:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Final exam is super hardbut the course is curving so dont worry. Professor Steeve is the greatest prof I have met.
+
+--- Rating #5 ---
+Class: ECON302
+Date: 2018-04-23 04:09:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+HARDEST FINAL EVER, the practice questions not related to final.
+
+--- Rating #6 ---
+Class: ECON302
+Date: 2018-04-16 07:37:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Lecture note are bit hard to understand, but Steeve is really helpful during his office hours. Studying lecture notes and tutorial questions are enough for the exams.
+
+--- Rating #7 ---
+Class: ECON402
+Date: 2017-12-21 05:04:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I really like Steeve's style. He is really a nice person to get along with, and available even outside announced office hours. He doesn't seem to have strict rules, at least in this course -- he understands and trusts students. The down side is his notes are a bit messy, you may want to use his office hour to ask him if anything is not clear.
+
+--- Rating #8 ---
+Class: ECON402
+Date: 2017-12-19 21:13:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Steeve is SUPER smart so sometimes you might be lost during his lectures, but he is extremely willing to help outside classes. Final was challenging but I like the originality of his questions. Really representative of the difficulty of masters coursework.
+
+--- Rating #9 ---
+Class: ECON492
+Date: 2017-04-06 16:32:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Steeve is passion and patient prof ever see before!!!! very nice guy, and likely use the easy understand example to explain complicated theory  and he understands what to teach and how to teach
+
+--- Rating #10 ---
+Class: ECON393
+Date: 2010-12-17 00:06:11 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+WORST WORST WORST PROF EVER! Exams are so hard.
+
+--- Rating #11 ---
+Class: ECON325
+Date: 2010-12-15 04:02:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+DO NOT TAKE HIS CLASS!!! HIS NOTES ARE USELESS AND WITH THAT AN EVEN MORE USELESS TEXTBOOK FULL OF ERRORS. Writes a bunch of algrebra that makes no sense, reading textbook just makes u even more confused. Doing questions from the book wont help u pass his 70% final
+
+--- Rating #12 ---
+Class: ECON325
+Date: 2010-12-14 00:37:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+DO NOT TAKE THIS CLASS UNLESS YOU LOVE ALGEBRAIC MATH NOTES! He does no numerical examples in class, just messy chicken scratch algebraic math notes. 90% of my notes make no sense to me. Textbook sucks too. Overall terrible class! Dreading the 70% Final
+
+--- Rating #13 ---
+Class: ECON302
+Date: 2010-09-11 13:59:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Hard to understand, and his exams were a pain. Don't take this guy's class.
+
+--- Rating #14 ---
+Class: ECON393
+Date: 2010-01-07 19:14:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Best econ prof I've ever had. He designed the course well so that it's interesting and insightful and would  motivate students into looking at these fields/topics in the future by themselves. His markings r fair (based on understanding). he's down to earth and friendly that makes even shy students like me feel comfortable in asking questions.
+
+--- Rating #15 ---
+Class: ECON103
+Date: 2008-04-25 00:35:41 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+great prof! take 103 w/ him!
+
+--- Rating #16 ---
+Class: ECON103
+Date: 2008-04-24 22:05:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Really Good Professor. Very straight forward. Exams were very fair, if the average is low the marks get inflated at the end. Awesome prof, take 103 with him.
+
+--- Rating #17 ---
+Class: ECON103
+Date: 2008-04-24 18:11:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+His exams arn't ridiculously difficult. They make you think but I admit you do need some luck. Course is bellcurved. To do well you actually have to  understand and hope a bit of luck is on your side. I got an A  hope you can too.
+
+--- Rating #18 ---
+Class: ECON110
+Date: 2008-04-24 03:37:15 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+this prof is beneath avg. His tests are hard,and not reflective of what he tells u to study, espicially the labs.Midterms had 25 multiple choice questions worth 4 marks each, all or nothing. Final exam had 5 T/F worth 8 points and had to write ur reasoning--HARD. But scales the exams a lot depending on class avg. Prof is French,wid POOR English.
+
+--- Rating #19 ---
+Class: ECON393
+Date: 2007-12-12 13:18:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+lots of typos. need to answer the questions on every aspect u can think of...not just the question itself. Not much material to study for (which is a good thing)
+
+--- Rating #20 ---
+Class: ECON393
+Date: 2007-11-28 20:41:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+he is the best prof ever!! So helpful and all his lectures are interesting and you learn so much!! It is hard at first but he is always ready to be of help!! He has funny comments also and is SOO pretty, lol like wow :)

@@ -1,0 +1,24 @@
+Professor: Farhad Shahryarpoor
+Professor Legacy ID: 3087287
+Professor ID: VGVhY2hlci0zMDg3Mjg3
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 1
+Avg Difficulty: 5
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: econ104
+Date: 2025-04-09 20:16:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Honestly, one of the most frustrating classes I've ever taken. Farhad is super disorganized, speaks bad English and has a strong accent and half the time he just reads off the slides without actually explaining the material. If you ask a question, he either brushes it off or gives a super confusing answer.

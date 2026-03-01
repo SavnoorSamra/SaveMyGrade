@@ -1,0 +1,281 @@
+Professor: Mohammad Tayebi
+Professor Legacy ID: 2670502
+Professor ID: VGVhY2hlci0yNjcwNTAy
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.6
+Avg Difficulty: 3.6
+Num Ratings: 46
+Would Take Again Percent: 36.9565
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT782
+Date: 2025-12-11 03:20:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Highly recommended professor. 5 stars. Will take his course again.
+
+--- Rating #2 ---
+Class: CMPT782
+Date: 2025-12-10 03:54:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prof. Tayebi is by far the best instructor I've had. He's genuinely caring, understands what students in this program need, and gives us all the tools to succeed. He takes time after labs to connect with us and regularly brings in industry professionals to share their experience. He's definitely the best person to be leading Cybersecurity at SFU.
+
+--- Rating #3 ---
+Class: CMPT782
+Date: 2025-12-10 03:36:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took this fall course at SFU and, while he demands a lot, his cadence and expectations are truly industry level. Many who rated him poorly may not realize how much they learned. He genuinely made us better me included even though I already had substantial knowledge.
+
+--- Rating #4 ---
+Class: CMPT782
+Date: 2024-07-29 21:30:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+2 big group projects. 4 more projects. 11 assignments. 2 quizzes. A LOT of presentations, which take time away from learning.
+
+Terrible at teaching. Reads off slides. Dense, incoherent slides. Rude to students. Somewhat generous with grades.
+
+Assignments are useful + difficult, but worth only 2.5% each. Labs where the TAs explain stuff is useful.
+
+--- Rating #5 ---
+Class: CMPT120
+Date: 2024-05-01 12:18:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+The assignment grading system is frustratingly opaque. I've followed requirements and gotten same inputs/outputs, yet lost marks without clear feedback. Hard to learn from mistakes when I don't know what they are. A more transparent system would help.
+
+--- Rating #6 ---
+Class: CMPT120
+Date: 2024-04-12 18:53:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Inconsistent grading criteria. Avoid him since there are many alternative profs available for this course.
+
+--- Rating #7 ---
+Class: CMPT120
+Date: 2024-01-05 03:01:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His slides are erroneous.
+
+--- Rating #8 ---
+Class: CMPT120
+Date: 2023-12-12 22:27:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Terrible quizzes. Terrible mistake-riddle slides. 
+
+Won't learn anything in his class.
+
+--- Rating #9 ---
+Class: CMPT354
+Date: 2023-09-28 11:41:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+His class is him just readiing his mistake ridden slides. 
+
+Additionally, there is a noticeable inconsistency in the grading criteria, which undergoes frequent changes on a weekly basis. 
+
+Moreover, his teaching abilities are wanting, marked by challenges in both the articulation of the English language and logical comprehension
+
+--- Rating #10 ---
+Class: CMPT120
+Date: 2023-09-08 20:43:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great professor, terrible quizzes. If you read the slides and practice outside of your own time, you'll do just fine.
+
+--- Rating #11 ---
+Class: CMPT120
+Date: 2023-06-27 16:50:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I really enjoyed his CMPT 120 class (it was my first time coding). His slides were easy to understand and follow. He did gave some challenging homework tasks, but the midterm and final exams were fairly easy to score in. I enjoyed this course so much that I decided to change my major!
+
+--- Rating #12 ---
+Class: CMPT120
+Date: 2023-04-25 22:16:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's such a kind and caring guy. The lectures weren't very understandable and sometimes legit useless, but the detailed slides make up for it. He's inexperienced with teaching, but I think you should give him a chance, he really tried his absolute best to teach. Assignments/exams were easy & fair (I had some previous programming knowledge though).
+
+--- Rating #13 ---
+Class: CMPT120
+Date: 2023-04-24 10:20:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+All i'm going to say is that he cares more about the class average than actual students learning experiences.
+
+--- Rating #14 ---
+Class: CMPT120
+Date: 2023-04-23 22:42:31 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I had prior coding experience and did not need to learn too much new information. However, once I had a question and approached to ask wasn't helpful and it seemed he had limited knowledge especially if you ask out of scope questions. Other students struggled to keep up with the course pace. Generally, I recommend looking for alternative profs.
+
+--- Rating #15 ---
+Class: CMPT120
+Date: 2023-04-23 19:21:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+had zero coding experience and despite this course being an intro level, i really struggled. he ran a very fast paced course with heavy and difficult assignments that a lot of people struggled on BUT hes a super nice guy and really encourages attending office hours or emailing him. he's helpful and really wants everyone to succeed
+
+--- Rating #16 ---
+Class: CMPT120
+Date: 2023-04-23 01:46:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Poor teaching skills and messy slides. Seemed approachable and organized at the begging of the semester so no one drop the course and afterwards he was kinda rude with monotonic and boring tone and unfair expectations. Just avoid. You learn nothing.
+
+--- Rating #17 ---
+Class: CMPT120
+Date: 2023-04-22 22:22:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is one of the nicest instructors I've ever had. He answers questions quickly on Piazza. Many complained about the difficulty of quizzes, but they were definitely doable. They were all online open book too and were only worth 10% of the course. He prepared practice exams for the midterm and final, both similar difficulties to the actual exams.
+
+--- Rating #18 ---
+Class: CMPT120
+Date: 2023-04-22 09:07:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I'd say with having absolutely no prior coding experience, I found Mohammad to be pretty decent at teaching the subject. However, lectures can be boring, but can't really blame the guy since compsci is boring. He is super nice and caring only thing I would say is that assignments are a bit tricky and gradescope makes the experience even worse.
+
+--- Rating #19 ---
+Class: CMPT120
+Date: 2023-04-16 03:09:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Coming from someone who's doing well in his class, avoid him (for 120 at least). He is very caring, did try his best, and gave reasonable exams, but his boring and convoluted lectures plus brutal assignments made CMPT 120 extremely painful. If you've never programmed before, good luck, because his expectations are insane for an intro course.
+
+--- Rating #20 ---
+Class: CMPT120
+Date: 2023-04-16 02:36:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great professor overall, is really caring towards his students and encourages everyone to succeed. Assignments are pretty tough but he is very helpful if you go to his office hours, and his lectures are also super useful. Final exam was pretty tough but fair, just make sure to keep up with topics and practice often!

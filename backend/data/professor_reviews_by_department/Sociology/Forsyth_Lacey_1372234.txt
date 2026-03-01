@@ -1,0 +1,11 @@
+Professor: Lacey Forsyth
+Professor Legacy ID: 1372234
+Professor ID: VGVhY2hlci0xMzcyMjM0
+Department (CSV): Sociology
+Department (Fetched): Sociology
+Avg Rating: 1
+Avg Difficulty: 5
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

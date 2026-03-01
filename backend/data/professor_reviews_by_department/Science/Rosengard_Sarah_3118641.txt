@@ -1,0 +1,76 @@
+Professor: Sarah Rosengard
+Professor Legacy ID: 3118641
+Professor ID: VGVhY2hlci0zMTE4NjQx
+Department (CSV): Science
+Department (Fetched): Science
+Avg Rating: 5
+Avg Difficulty: 2.4
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: EVSC100
+Date: 2026-01-10 09:16:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Dr. Rosengard is so passionate about environmental science and it made the course so fun. I highly recommend attending her office hours because she's so knowledgeable. The exams were fair (though you definitely need to study) and there were extra-credit opportunities as well. The course format was well-structured and helped me absorb the content.
+
+--- Rating #2 ---
+Class: EVSC100
+Date: 2025-12-20 05:58:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: True
+Comment:
+She's great! I would totally take another course with her. The course isn't that difficult to comprehend since most of the information you're learning is interesting and engaging. Bonus: she offers extra credit that's easy to earn! Sarah is really understanding. She was willing to change the way she presents lectures and exams.
+
+--- Rating #3 ---
+Class: EVSC100
+Date: 2025-12-13 02:43:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Sarah is a wonderful prof who really engages with students and readily takes feedback about what works and what doesn't with the course. Her content is engaging and assignments usually entail looking at specific case studies. Lots of free points to do well + extra credit. Would recommend 100% for folks needing sci credits too. 1 midterm + 1 final.
+
+--- Rating #4 ---
+Class: EVSC100
+Date: 2025-12-12 01:48:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Sarah is an awesome teacher! Really cares about how the students feel about the class and is willing to make changes to the exams/syllabus if something is working. Would 10000% take her again.
+
+--- Rating #5 ---
+Class: EVSC100
+Date: 2025-12-07 05:26:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+She is the absolute best. The course was a majority online, but I loved the assignments because they were really interactive and she always made sure to ask us our opinions of things. Tough midterm so watch out. If you don't like a lot of participation maybe take a pass on her, but I'd recommend anyone else to take EVSC 100 with her.

@@ -1,0 +1,128 @@
+Professor: Jasmina Arifovic
+Professor Legacy ID: 890368
+Professor ID: VGVhY2hlci04OTAzNjg=
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 3.2
+Avg Difficulty: 2
+Num Ratings: 9
+Would Take Again Percent: 40
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: ECON832
+Date: 2021-09-04 20:23:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+She is very rude and irresponsible. The grading system is also ambiguous. At the end, you will gain nothing from this course.
+
+--- Rating #2 ---
+Class: ECON832
+Date: 2021-07-28 20:04:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Speak in class, communicate and discuss, ask questions, read the papers, and comment to them, you will get a good mark. Unclear grading scheme. Difficult course but possible to get a good grade with lots of work. She is very knowledgeable about Genetic Algorithms and she is one of the best in that aspect. If you did not read the paper, she knows.
+
+--- Rating #3 ---
+Class: ECON832
+Date: 2021-04-29 15:44:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The worst professor I've ever seen in my academic life. She put clear racial discrimination in her grading system. She is very impolite and irresponsible. The scoring system is totally baseless and unclear. Do not waste your time. WORST PROFESSOR FOR EVER!!
+
+--- Rating #4 ---
+Class: ECON832
+Date: 2020-01-16 06:26:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She has a clear preference for teaching harder subjects as she is a world expert in fields of computational techniques and possibly THE expert in social learning. She likes to talk and you need to talk back. Tough concepts were explained very clearly and the class average was A-. Course was a bit freeform but had a lot of &quot;freebie&quot; marks.
+
+--- Rating #5 ---
+Class: ECON403
+Date: 2018-04-06 15:28:38 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+For some reason this semester she was very disorganized. She did not send us problem sets or readings when she said she would. We were scheduled to present in class but class will be cancelled (this happened 3 times!). When she actually did teach is was good and she is a good instructor. Maybe something is going on in her life?
+
+--- Rating #6 ---
+Class: ECON428
+Date: 2010-01-17 05:10:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+She likes students who attend classes, comment and ask questions and read the articles. If you do the above, you will get an excellent grade. The exams are straight out of the notes and the articles. She does sometimes repeat herself and appears disorganized, but don't let it fool you - she knows what is happening. Be extra polite in her class.
+
+--- Rating #7 ---
+Class: ECON428
+Date: 2008-10-23 02:54:26 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+easy going prof. and easy tests.  however, she doesn't have well organized notes. sometimes she gives u 2 names for the same thing and forgot to mention it. kinda confusing when studying. still a good teacher.
+
+--- Rating #8 ---
+Class: ECON482
+Date: 2007-01-26 12:41:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Good class
+
+--- Rating #9 ---
+Class: ECON403
+Date: 2006-12-18 10:50:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Tends to ramble and then realize she is rambling and then suddenly stop rambling and continue to write on the overhead.

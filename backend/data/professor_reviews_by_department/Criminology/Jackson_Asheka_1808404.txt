@@ -1,0 +1,37 @@
+Professor: Asheka Jackson
+Professor Legacy ID: 1808404
+Professor ID: VGVhY2hlci0xODA4NDA0
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 4
+Avg Difficulty: 2
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: CRIM300W
+Date: 2013-10-25 03:35:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+She is super helpful and  approachable! One of the best TA!
+
+--- Rating #2 ---
+Class: CRIM300
+Date: 2013-04-12 06:38:03 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Considering this is a writing intensive course, Asheka is a pretty easy marker. Didn't really learn anything new but I would much rather take an easy marker over some of the other crazy TA's at SFU.

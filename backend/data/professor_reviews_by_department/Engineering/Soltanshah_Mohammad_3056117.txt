@@ -1,0 +1,24 @@
+Professor: Mohammad Soltanshah
+Professor Legacy ID: 3056117
+Professor ID: VGVhY2hlci0zMDU2MTE3
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: ENSC204
+Date: 2024-12-08 08:02:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prof will take attendance if lecture numbers are low and gives out bonus marks to in class participation. Really clear lectures and easy to understand assignments. Exams are all based on the worksheets and assignments given. Quizzes were open book on canvas based on lectures. Prof is really responsive and easy to approach. nice chill guy

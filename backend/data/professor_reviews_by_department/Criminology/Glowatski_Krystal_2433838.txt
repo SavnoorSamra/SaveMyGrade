@@ -1,0 +1,50 @@
+Professor: Krystal Glowatski
+Professor Legacy ID: 2433838
+Professor ID: VGVhY2hlci0yNDMzODM4
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 4.7
+Avg Difficulty: 2.3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: CRIM135
+Date: 2019-11-30 02:03:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Not a prof/instructor, but she was a TA for CRIM135. She is funny and very chill. She is very passionate about restorative justice.
+
+--- Rating #2 ---
+Class: CRIM317
+Date: 2019-04-15 21:02:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Krystal is one of the most caring T.A.'s that I've had throughout my degree. There are very clear expectations and her marking accounts for following all the required components. Attendance and participation both matter, but as long as you do the the requirements and put in effort, getting a good grade is very possible.
+
+--- Rating #3 ---
+Class: CRIM315
+Date: 2018-12-03 00:33:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Krystal's class was unlike any other I've taken at SFU so far. Each class consists of a circle, mirroring restorative justice practices. The class requires a lot of participation and is not heavily focused on lectures. She brought in many guest lecturers, which really helped us to understand the theoretical material we were learning.

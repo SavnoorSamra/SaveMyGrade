@@ -1,0 +1,232 @@
+Professor: Caroline Greaves
+Professor Legacy ID: 1371715
+Professor ID: VGVhY2hlci0xMzcxNzE1
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 2.7
+Avg Difficulty: 3.7
+Num Ratings: 17
+Would Take Again Percent: 57.1429
+
+Ratings Count Returned: 17
+
+--- Rating #1 ---
+Class: PSYC100
+Date: 2023-12-29 13:22:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Be ready to read the book, and what i recommend is that go through every pages from the book, tho Caroline provides a few slides of powerpoint for us, but I feel like it doesn't help much in the test, most of the questions were asked from the book, if you don't read, i'm pretty sure u wont get what shes asking, Good Luck!
+
+--- Rating #2 ---
+Class: PSYC100
+Date: 2023-08-22 03:17:49 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This class was very interesting, the topic covered was very much engaging. But you have to self-study and rely too much on the TEXTBOOK to get a decent grade. Every topic requires you to read over dozens of tedious and time-consuming pages. Lectures materials will help you with 1/3 of the exam. If you're planning to take this course,READ THE BOOK!
+
+--- Rating #3 ---
+Class: PSYC100
+Date: 2020-04-24 13:00:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Caroline is an amazing professor, she explains psychology very clearly and holds some interesting activities in class to help us understand the definitions better. But we still need to read the textbook carefully after class to get a good grade in the exams because she may not talk all the contents in class.
+
+--- Rating #4 ---
+Class: PSYC102
+Date: 2019-05-11 00:19:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A better choice than the rest for this course?
+
+--- Rating #5 ---
+Class: INTG100
+Date: 2018-12-29 02:00:10 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+not recommend to take this class again
+
+--- Rating #6 ---
+Class: PSYC102
+Date: 2018-01-24 23:11:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+There is too much to cover in class so it's not possible for her. She is really good teacher, you can ask her for help and she would help you. Psychology is boring. She tests mostly on concept and doesn't encourage memorizing. If you read books which she encourages from day 1 you are good.
+
+--- Rating #7 ---
+Class: PSYC102
+Date: 2016-11-21 23:18:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+She's funny and very helpful.  *Some of the material she doesn't cover in her slides are on the midterms so make sure you get a copy of the textbook.
+
+--- Rating #8 ---
+Class: PSYC241
+Date: 2015-10-30 06:18:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Caroline is so nice. She answers all the questions and her lectures are very clear. Her tests are very fair, really enjoyed this course.
+
+--- Rating #9 ---
+Class: PSYC1100
+Date: 2015-06-28 01:20:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+I am not really sure what's up with these comments on her, shes super friendly and funny If you even put a little bit of effort in, you will get an great grade She is a fair marker, gives good feedback Really nice lady, respectful, willing to answer any questions.
+
+--- Rating #10 ---
+Class: PSYC102
+Date: 2012-08-24 12:38:44 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+no comm
+
+--- Rating #11 ---
+Class: PSYC102
+Date: 2011-03-12 03:25:07 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Caroline is monotone and has no enthusiasm in what she teaches. Her tests are also very inconsistent with the material she teaches. For our most recent midterm, there were questions so specific and was never mentioned in her lectures but expects us to know everything in the textbook. In the end, if you want to get a good grade dont take this class
+
+--- Rating #12 ---
+Class: PSYC241
+Date: 2010-07-06 19:49:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Such an interesting topic somehow made into the most dull class I have ever taken. Was hoping for so much more.
+
+--- Rating #13 ---
+Class: PSYC241
+Date: 2010-04-26 13:18:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She is the most boring professor to listen to. Shows videos every class which are a waste of time and not testable. Her multiple choice questions are pretty hard, but short answer are easy. Textbook chapters are long and she cover maybe 1/16 of the material in lecture. Would not take a class with her again.
+
+--- Rating #14 ---
+Class: PSYC241
+Date: 2010-03-24 17:27:13 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I have read the textbook inside and out. And I still somehow failed the Multiple choice part of the exams. She is dull and boring and find myself unable to focus during her lectures. I highly recommend taking the class with another prof if possible.
+
+--- Rating #15 ---
+Class: PSYC241
+Date: 2010-03-24 16:41:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+This is my second time taking Psyc 241 after taking interventions (psyc371) last semester (A-). Despite how hard I'm studying for these exams my multiple choice grades are around a C+ average but I'm getting perfects in my short answers. I feel like there's something wrong with the MC section like wording or something that's screwing me over.
+
+--- Rating #16 ---
+Class: PSYC241
+Date: 2010-01-27 04:06:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+this class is sooo dull... put some life into will ya&#63; jeez...
+
+--- Rating #17 ---
+Class: PSYCH241
+Date: 2009-12-10 13:47:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Wow boring and impossible to understand

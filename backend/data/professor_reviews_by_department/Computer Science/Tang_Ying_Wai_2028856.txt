@@ -1,0 +1,50 @@
+Professor: Ying Wai Tang
+Professor Legacy ID: 2028856
+Professor ID: VGVhY2hlci0yMDI4ODU2
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1.8
+Avg Difficulty: 4
+Num Ratings: 3
+Would Take Again Percent: -1
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: CMPT165
+Date: 2015-12-19 01:33:05 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+This course seems easy at first but it isn't unless you're in Comp. Sci.. Ms.  Tang is a bit unorganized and will often throw you off if this is your first time seeing the material. Homework and labs will be confusing but manageable. The midterm and final is scary with questions you've never seen before. I recommend CMPT120 as a prerequisite.
+
+--- Rating #2 ---
+Class: CMPT165
+Date: 2015-10-13 18:00:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Poor lecturer. reads off powerpoint does not elaborate on anything. midterms are poorly written 0/10 would never take again
+
+--- Rating #3 ---
+Class: CMPT165
+Date: 2015-08-12 02:46:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Never ever take her courseWorst prof ever

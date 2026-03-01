@@ -1,0 +1,50 @@
+Professor: James Delgrande
+Professor Legacy ID: 1942648
+Professor ID: VGVhY2hlci0xOTQyNjQ4
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.7
+Avg Difficulty: 3.3
+Num Ratings: 3
+Would Take Again Percent: 50
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: CMPT411
+Date: 2019-12-29 23:53:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Delgrande is a solid prof with a very dry sense of humor. I found myself laughing several times in his classes. Overall I enjoyed his lectures though they could be a bit boring at times. The assignments and midterm/final were fair and not too difficult.
+
+--- Rating #2 ---
+Class: CMPT310
+Date: 2018-12-14 22:37:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+In my opinion he's fine at best. I actually liked the class a lot. But, at least for me, his answers to any questions (during lectures of office hours) were useless because he just repeats himself. Assignments (especially programming assignments) were really fun. Exams were fair.
+
+--- Rating #3 ---
+Class: CMPT411
+Date: 2014-11-13 21:42:23 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+First class I failed in 4 years at SFU. This is probably my fault, although I did attend every lecture. Got an A- in the other class I was taking that semester so...

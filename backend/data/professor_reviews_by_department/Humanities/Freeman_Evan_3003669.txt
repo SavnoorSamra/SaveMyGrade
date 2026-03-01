@@ -1,0 +1,50 @@
+Professor: Evan Freeman
+Professor Legacy ID: 3003669
+Professor ID: VGVhY2hlci0zMDAzNjY5
+Department (CSV): Humanities
+Department (Fetched): Humanities
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: HUM106
+Date: 2025-12-16 01:50:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+one of the best profs ive ever had... he was extremely passionate and personable.. his lectures were very interesting and he definitely made a 3 hour class pass by quickly. He's one of those profs that have so much knowledge and excitement about what they're teaching, which makes it very easy to stay engaged and actually want to do a good job
+
+--- Rating #2 ---
+Class: HUM106
+Date: 2025-01-08 01:12:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Loved Evan!! He was extremely passionate, which made the subject all the more interesting. He posts assigned readings for the objects you learn about, but as long as you pay attention & take notes during lectures, you don't need to read anything. Slides are posted, have accompanying study questions, & the online quizzes are straightforward.
+
+--- Rating #3 ---
+Class: HUM106
+Date: 2024-12-15 20:56:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very nice and lectures were always well done and engaging, you can tell he cared about the material a lot and was always excited to teach. Was easily one of my favourite courses. :)

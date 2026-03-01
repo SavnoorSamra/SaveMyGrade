@@ -1,0 +1,63 @@
+Professor: Robert Williamson
+Professor Legacy ID: 2296095
+Professor ID: VGVhY2hlci0yMjk2MDk1
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4
+Avg Difficulty: 3
+Num Ratings: 4
+Would Take Again Percent: 75
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: EDUC424
+Date: 2025-03-17 10:15:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great experience in his class!
+
+--- Rating #2 ---
+Class: EDUC424
+Date: 2021-08-18 22:41:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Williamson uses the UDL method while teaching. For the assignment that took up most of our final grade, we were able to resubmit it based on feedback. He was also very accessible outside of class hours.
+
+--- Rating #3 ---
+Class: EDUC424
+Date: 2020-07-30 17:42:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+The prof's organization of the course is an issue. Examples: he used outdated assignment rubrics from past years &amp; didn't update them. He didn't give a course breakdown (violation of sfu policy) He wasn't organized, didn't reply to student emails &amp;didn't support us in tutoring. The class stopped asking for help from him we didn't feel comfortable
+
+--- Rating #4 ---
+Class: EDUC422
+Date: 2017-11-07 02:04:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He's the best professor I've had this term. He's very passionate about what he's teaching, and he cares about his taught material. He creates a safe space for students to express their thoughts and invites critical perspectives on special education topics. I love his teaching philosophy, and I look forward to taking 424 with him this summer!

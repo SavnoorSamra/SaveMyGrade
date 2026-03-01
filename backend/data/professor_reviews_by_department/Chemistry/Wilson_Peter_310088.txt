@@ -1,0 +1,276 @@
+Professor: Peter Wilson
+Professor Legacy ID: 310088
+Professor ID: VGVhY2hlci0zMTAwODg=
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 3.7
+Avg Difficulty: 3.5
+Num Ratings: 104
+Would Take Again Percent: 70.1754
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CHEM283
+Date: 2025-12-19 20:18:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I had him for 284 and not 283 but there was no option for it. He's more of an old-school teacher with his hand-written notes but if you aren't paying attention in class you won't understand the problem sets or exams. My advice is to learn the reagents, not the mechanisms. Please go to tutorial.
+
+--- Rating #2 ---
+Class: CHEM283
+Date: 2025-12-13 02:17:29 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Pete's content is lecture heavy but he refuses to post notes before lectures.
+
+The midterms difficulty is not reflected in his problem sets, as some of them are heavily theoretical and on material not tested on. 
+
+He is willing to guide and help if you ask but he's definitely not someone to take if you found Org chem 1 difficult.
+
+--- Rating #3 ---
+Class: CHEM286
+Date: 2025-12-10 18:19:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+If you are comfortable with organic chemistry and being in a lab this is a very easy A+. Most of your grade is weekly lab reports that are not very long or difficult. Lots of NMR and IR in every report sheet but with practice, those are easy. Other than the start of each lab you don't interact with Pete much, mainly TAs so hope you have a good one
+
+--- Rating #4 ---
+Class: CHEM282
+Date: 2025-11-23 22:11:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+To be very honest, the worse part of the course, he doesn't post the lecture notes until after the lecture. His reasoning is that would make students come to class. That is the stupidest thing I have ever heard. I ended up with A+ because of YouTube (Chad prep). His exams are not super hard. Also his problem sets are useless though.
+
+--- Rating #5 ---
+Class: CHEM282
+Date: 2025-11-18 21:45:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Handwritten lecture notes are useful and to the point, really approachable even do hes built like a semi-truck (compliment). His lectures are a little on the boring side, however please do go as it's useful. Also his tutorials are useful to prep with the midterm and final.
+
+--- Rating #6 ---
+Class: CHEM283
+Date: 2025-09-04 18:58:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Pete is very friendly, respected and intelligent. I enjoyed his class. His exams were very challenging but fair as he helped where he could (bonus marks). Notes were very old school, but once you got used to them they were actually much better than modern notes. If you take the class tho, just conform to his methods of teaching and you'll be fine.
+
+--- Rating #7 ---
+Class: CHEM282
+Date: 2025-07-03 21:53:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Don't look at the positive reviews. This guy will make you fail the class. He's very old school with his hand written notes. I couldn't even understand his hand writing. So, it's better to take this rigorous course with other prof. ANYONE BUT HIM! Trust me.
+
+--- Rating #8 ---
+Class: CHEM282
+Date: 2025-06-25 07:42:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Pete is truly one of the best profs I have ever had at SFU. His lectures are really engaging and he explains the concepts really well and helps you to build a strong foundation of organic chemistry. Exams may be a bit challenging but he gives easy bonus questions and scales. I highly recommend taking Organic chem 2 with Dr. Pete.
+
+--- Rating #9 ---
+Class: CHEM282
+Date: 2025-06-24 00:18:30 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Has a very old school way of teaching. His notes are mainly hand written (except for at the end of the course) and aren't posted before class, instead they're posted after so you can't annotate your notes as he talks. Speed runs that last topics of the course (rxn mechanisms), and from then on its all self taught and figuring it out yourself
+
+--- Rating #10 ---
+Class: CHEM282
+Date: 2025-05-01 05:29:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Pete's old school yet kinda used to technology. He is a chill but not the best. His files are disorganized in my perspective and are overall just hard to read and figure out what concept you are learning. To be honest this course was mostly just self teaching. The course flies fast so know the topics and learn them outside of class if you can.
+
+--- Rating #11 ---
+Class: CHEM282
+Date: 2025-04-27 21:43:18 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I wish Dr. Wilson would post slides ahead of time, as I found it quite difficult to get everything down during lectures. He posts his notes afterwards but the Canvas files are unorganized and hard to navigate. Exams were quite difficult and I spent hours upon hours of studying. The grade breakdown is rough and scale was only one letter grade.
+
+--- Rating #12 ---
+Class: CHEM282
+Date: 2025-04-27 01:49:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+if u dont attend lecture u will def not succeed. dr.wilson posts his notes after lecture and are hand written, so trying to understand it on ur own is difficult. practice sets were harder than the exam which is great for practice. exams were fair and is very clear in his questions, and even gives hints for several questions.
+
+--- Rating #13 ---
+Class: CHEM283
+Date: 2025-04-26 18:20:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Wilson is an amazing prof! CHEM 282/83 is a difficult course and many students complained that he crams too much content into the last few weeks. DO NOT try and memorize everything, instead do the problem sets and understand and recognize similar patterns. Many students that didn't like this class were life sci majors who are used to memorizing
+
+--- Rating #14 ---
+Class: CHEM283
+Date: 2025-04-26 16:00:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Makes no sense as you go but it'll be come together once you cram everything and then it's like &#8220;aahh I see what you want&#8230;k I'm cooked&#8221; You'll get used to the handwritten notes. Problem sets were tedious but helpful. EASY marker thank god. Fell asleep a few times in lec. Also he'll tell a joke, stop, face blank, stare into your soul n grin
+
+--- Rating #15 ---
+Class: CHEM282
+Date: 2025-04-25 23:32:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Pete is very nice and passionate about chemistry. His teaching style was not for me, he doesn't post his ancient hand written notes until after class. Make sure you attend every lecture because they aren't recorded either. Tests were very difficult and his problem sets didn't help me prepare much. I relied more on outside resources.
+
+--- Rating #16 ---
+Class: CHEM282
+Date: 2025-04-21 06:51:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Pete is a sweet and caring professor. I had him for my lab also, and he would often let me stay overtime and patiently wait for us to finish our experiments if we were running late. The class itself is tough, but Dr. Pete has amazing notes and takes the time to explain. He also is very kind to help students in office hours. Hard work is key.
+
+--- Rating #17 ---
+Class: CHEM282
+Date: 2025-04-17 05:33:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Not an approachable prof was often quite sassy.
+Material was on exams that he said would not be covered yet he still covered it. Lectures were most often him rambling and his notes weren't that appealing.
+
+--- Rating #18 ---
+Class: CHEM282
+Date: 2025-03-18 20:57:55 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+i'd avoid taking this class with him. nice guy who seems to really enjoy the material, but it's not worth his mess of notes. handwritten notes and slides that don't explain much, lecture topics are all over the place making it really difficult to follow. you will have to teach yourself or pray you have a good TA.
+
+--- Rating #19 ---
+Class: CHEM283
+Date: 2025-01-08 04:43:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I loved Pete! The course distribution was quite challenging since it was all exam-based, but they were fairly written. He also included bonus marks which helped A LOT. I found his lectures interesting and liked that he always encouraged questions. This class was difficult but still my favourite class I've ever taken!
+
+--- Rating #20 ---
+Class: CHEM282
+Date: 2024-12-09 09:30:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He teaches very well but his course format is ARCHAIC!!! For the love of god he needs to combine his weekly lecture material into one, or just re-do his notes. Anyways, do the problem sets, go to office hours and you'll be okay! He's got a bit off sass but I think it's just the accent.

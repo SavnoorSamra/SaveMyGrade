@@ -1,0 +1,141 @@
+Professor: Ian Angus
+Professor Legacy ID: 33676
+Professor ID: VGVhY2hlci0zMzY3Ng==
+Department (CSV): Humanities
+Department (Fetched): Humanities
+Avg Rating: 4.1
+Avg Difficulty: 3.6
+Num Ratings: 10
+Would Take Again Percent: -1
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: HUM
+Date: 2013-04-08 00:42:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+His Great Texts series was awesome. Ian is friendly and incredibly intelligent. Lots of reading, but he'll teach you about life- not just history.
+
+--- Rating #2 ---
+Class: HUM202
+Date: 2012-12-03 06:22:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Loved the Great Texts series with him. He's honestly my favorite professor at SFU. Be prepared to read lots, write quite a bit, and learn a lot. Don't take them if you don't care about the history of ideas//great thinkers. He made  the seminar structure work really well!
+
+--- Rating #3 ---
+Class: HUM360
+Date: 2011-08-17 23:24:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+In my four years of school this was the most interesting class I have taken. There is a lot of reading - but it is very interesting. Ian is also a very bright person who really helps break down the ideas of the great thinkers of our time into something an undergrad can understand. I recommend a class with Ian if you get a chance, great guy.
+
+--- Rating #4 ---
+Class: HUM382
+Date: 2006-03-29 17:51:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+A seminar format is Dr. Angus' strength; has high expectations of his students, and welcomes independent, interdisciplinary contributions to the discussions. Students cannot 'slough' through this class. Strongly recommended for anyone considering SFU's Liberal Studies Program.
+
+--- Rating #5 ---
+Class: COMMUNICATION
+Date: 2005-06-17 13:31:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Had him years back when he was still at Umass.  How can anyone NOT learn from him&#63;  He is a great mind.  He can be overly-theoretical to the point that only him and two of his friends (who have read his book) understand what he is saying.  Otherwise, he is fair and brilliant and NOT easy.
+
+--- Rating #6 ---
+Class: HUM382FRIENDS
+Date: 2004-11-11 00:26:10 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Horrible professor with a pompous attitude and boring lecture.  Thought it was a interdisciplinary course on Friendship - turned out to be Philosphy ... bad
+
+--- Rating #7 ---
+Class: HUM202
+Date: 2004-05-29 14:43:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+The greatest prof I have ever had!  Difficult class for those students unwilling to admit the privaleges that they have, and those who refuse to do anything about it.  Thank you sir!
+
+--- Rating #8 ---
+Class: HUM
+Date: 2003-08-16 19:37:11 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+boring lecture with tons of notes. Doesn't care for you if you don't care for the material. Tries to lead discussions and then takes over, prefers the adults in the class
+
+--- Rating #9 ---
+Class: HUM202
+Date: 2002-12-03 14:16:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Rigorous and articulate
+
+--- Rating #10 ---
+Class: SA360
+Date: 2002-02-19 14:46:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Excellent Teacher

@@ -1,0 +1,50 @@
+Professor: Lisa Poole
+Professor Legacy ID: 2358016
+Professor ID: VGVhY2hlci0yMzU4MDE2
+Department (CSV): Sociology & Anthropology
+Department (Fetched): Sociology amp Anthropology
+Avg Rating: 3.7
+Avg Difficulty: 4
+Num Ratings: 3
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: SA250
+Date: 2024-06-25 10:36:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+her lectures are useless, she doesnt teach anything
+
+--- Rating #2 ---
+Class: SA331
+Date: 2019-10-20 03:50:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I loved my course with Lisa - she was knowledgeable, helpful, dynamic, understanding, more than qualified. I don't understand some of the other evaluations. She might be rigorous and expect you to learn, but everyone I studied with loved her and the course. I wish she taught more.
+
+--- Rating #3 ---
+Class: SA250
+Date: 2018-04-06 15:34:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I really enjoyed her style of lecturing. Lisa likes to engage her students by bringing in contemporary relevant material and lots of discussions to apply to social theory beyond whats stated in the textbook. She always encourages questions and really wants her students to succeed. I would definitely recommend her and take another class with her.

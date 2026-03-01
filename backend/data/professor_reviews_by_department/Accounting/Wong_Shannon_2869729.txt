@@ -1,0 +1,37 @@
+Professor: Shannon Wong
+Professor Legacy ID: 2869729
+Professor ID: VGVhY2hlci0yODY5NzI5
+Department (CSV): Accounting
+Department (Fetched): Accounting
+Avg Rating: 4
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS200
+Date: 2024-04-21 23:16:26 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Nice professor to talk to, however very boring and non-interactive lectures. Overall the class was quite easy, but I did not put any effort; opened the textbook an hour before the final. I regret not taking this class with the other BUS200 prof (sasha) whose exams were online, therefore easy A.
+
+--- Rating #2 ---
+Class: BUS200
+Date: 2023-04-12 09:04:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She's great. Very easy class if you read the book, attend class, and study a bit.

@@ -1,0 +1,37 @@
+Professor: Srividhya Mouli
+Professor Legacy ID: 2939478
+Professor ID: VGVhY2hlci0yOTM5NDc4
+Department (CSV): Management
+Department (Fetched): Management
+Avg Rating: 3
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: CHRM220
+Date: 2024-11-12 04:29:32 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Weekly videos from the professor were recorded a year ago for a previous section and often included incorrect dates when discussing upcoming assignments. Reflection assignments weren't graded until a week prior to the end of the course and did not include feedback. Feedback on major assignments was vague and did not aid in skill building.
+
+--- Rating #2 ---
+Class: CHRM200
+Date: 2023-10-20 23:20:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+She was nice and helpful with questions. Weekly modules to do and discussion posts here and there + 3 big assignments. Would totally take her again.

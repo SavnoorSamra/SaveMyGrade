@@ -1,0 +1,128 @@
+Professor: John Peloza
+Professor Legacy ID: 1058940
+Professor ID: VGVhY2hlci0xMDU4OTQw
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.5
+Avg Difficulty: 3.6
+Num Ratings: 9
+Would Take Again Percent: 0
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: BUS448
+Date: 2017-03-27 16:12:53 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I had a completely different experience.  Peloza was funny in class but rude when you want to talk to him.  Maybe he just has students he likes and students he doesn't like.
+
+--- Rating #2 ---
+Class: BUS448
+Date: 2009-03-28 15:40:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Best Marketing Class Ever! You'll be soo glad you took this course! Great prof, super relateable! You learn a ton but in a fun way...just make sure you participate, it will help your mark!
+
+--- Rating #3 ---
+Class: MKTG448
+Date: 2009-03-16 13:49:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Wow, a marketing professor at SFU that actually cares!  What a concept!  John is the best prof at SFU by far.  He clearly cares about the success of his students, and will take the time to make sure you get all the help you need.  His lectures are based on REAL WORLD experiences and useful information, and always entertaining.
+
+--- Rating #4 ---
+Class: EMBA600
+Date: 2008-08-07 13:56:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+His knowledge is exceptional and teaching style well suited to an executive audience.
+
+--- Rating #5 ---
+Class: MBA610
+Date: 2008-07-07 15:12:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+John did a great job of covering the whole field of marketing in a single course.  Enough detail to make it useful, but enough breadth to be of interest to everyone (it's the only mktg course in the program).  The cases were great illustrations of the concepts, nicely linked and applied.
+
+--- Rating #6 ---
+Class: BUS449
+Date: 2008-05-19 00:58:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+i don lern lots from jon. he is a great professur and made me etfical
+
+--- Rating #7 ---
+Class: BUS448
+Date: 2007-12-06 17:19:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+John is a very nice prof! very easy-going ! I would recommend ppl taking his course~!! I think if you done the reading, you wont do bad on the exams!!  Casual way of teaching Love it!
+
+--- Rating #8 ---
+Class: BUS449
+Date: 2007-11-29 21:39:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Excellent prof. Interesting and engaging. Great teaching style and understands what it is like to be a student. Doesn't force readings, although they are interesting /helpful. Highly recommend! One of the best profs I've had.
+
+--- Rating #9 ---
+Class: BUS449
+Date: 2007-11-20 03:34:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+John was the best professor I have ever had. He is casual, brilliant and facilitates intelligent discourse.

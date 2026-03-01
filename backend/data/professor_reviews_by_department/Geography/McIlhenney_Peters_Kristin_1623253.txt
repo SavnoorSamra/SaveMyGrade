@@ -1,0 +1,50 @@
+Professor: Kristin McIlhenney Peters
+Professor Legacy ID: 1623253
+Professor ID: VGVhY2hlci0xNjIzMjUz
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 4.7
+Avg Difficulty: 1.7
+Num Ratings: 3
+Would Take Again Percent: -1
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: GEO100
+Date: 2012-04-17 21:49:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+That was my best elective course so far. Very interesting course
+
+--- Rating #2 ---
+Class: GEOG100
+Date: 2011-12-19 00:57:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+The class was fun but lacked any real substance. Prof is a graduate student with limited knowledge. I fear I won't be prepared well for other courses.
+
+--- Rating #3 ---
+Class: GEOG100
+Date: 2011-12-03 15:31:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Fun Teacher, Fun Class!

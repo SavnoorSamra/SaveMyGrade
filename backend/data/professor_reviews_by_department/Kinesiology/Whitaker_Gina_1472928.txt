@@ -1,0 +1,115 @@
+Professor: Gina Whitaker
+Professor Legacy ID: 1472928
+Professor ID: VGVhY2hlci0xNDcyOTI4
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 4
+Avg Difficulty: 3.5
+Num Ratings: 8
+Would Take Again Percent: 50
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: HMKN190
+Date: 2021-12-16 01:14:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+The course moves too fast and Prof can't reply email quickly. Run away plzzzzzzz!!!!!!!!!!
+
+--- Rating #2 ---
+Class: HMKN203
+Date: 2018-05-14 02:15:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Gina is now teaching at UBCO and I had her, very very kind and based pretty much all her testing on lecture material and was open to feedback. Also gave large portion of mark to an Easy A Group Project
+
+--- Rating #3 ---
+Class: BPK205
+Date: 2014-04-25 22:55:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+She is helpful, clear and makes the class fun. Her notes are easy and to the point. Her first midterm was a little hard, the second midterm was easy, and  final was not easy and not hard. Tutorial quizzes were easy.
+
+--- Rating #4 ---
+Class: BPK205
+Date: 2013-12-24 03:38:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Gina is the best prof I have ever had. She is crystal clear and is very helpful in anyt questions you may have. Exams are fair not too hard as long as you keep up with  the notes. TAKE THIS CLASS WITH HER!
+
+--- Rating #5 ---
+Class: BPK205
+Date: 2013-12-03 14:31:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+inconsistent with her exams. First midterm was extremely hard, second exam was extremely easy. SO you have no idea what her final will be like. And confusing. She would email us after classes correcting her statements and students would correct her iclicker answers (just prior to exams). However, she's very nice and approachable
+
+--- Rating #6 ---
+Class: KIN205
+Date: 2013-05-31 22:28:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Gina is hands down one of the best profs out there - likeable, knowledgeable, passionate, and follows up with questions asked in class. She has an open door policy and has very patiently explained concepts to me as well as helped me figure out my future career goals. Her exams are not easy, but if you put the work in, you should do well.
+
+--- Rating #7 ---
+Class: KIN205
+Date: 2011-08-26 02:34:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She was a good prof.  Very nice.  Tests were fairly tough, though physiology is probably always tough.
+
+--- Rating #8 ---
+Class: KIN205
+Date: 2011-04-20 17:33:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great at explaining concepts, exams were pretty difficult but nice prof overall

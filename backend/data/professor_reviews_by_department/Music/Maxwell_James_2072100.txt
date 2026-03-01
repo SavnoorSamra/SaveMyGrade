@@ -1,0 +1,11 @@
+Professor: James Maxwell
+Professor Legacy ID: 2072100
+Professor ID: VGVhY2hlci0yMDcyMTAw
+Department (CSV): Music
+Department (Fetched): Music
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

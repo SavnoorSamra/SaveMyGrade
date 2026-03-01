@@ -1,0 +1,76 @@
+Professor: Magie Ramirez
+Professor Legacy ID: 2621447
+Professor ID: VGVhY2hlci0yNjIxNDQ3
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 4
+Avg Difficulty: 2.6
+Num Ratings: 5
+Would Take Again Percent: 80
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: GEOG241
+Date: 2023-07-05 01:15:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Magie is very caring and approachable! Lectures are quote-heavy but draw from the readings so it's still understandable. Lots of choice/room for creativity with the assignments.
+
+--- Rating #2 ---
+Class: GEOG241
+Date: 2022-04-15 05:47:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: True
+Comment:
+Her political views varied greatly to my political views. Being on the right and the professor being on the left can lead to a lot of clashes. Never wanted to say anything because it could possibly 'offend' her.
+
+--- Rating #3 ---
+Class: GEOG241
+Date: 2021-12-07 08:25:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I love Magie! Super interesting course content. Always presented material in a variety of ways, not just dry textbook readings. Tough grader, but scales grades weirdly (85% and above is an A+) so it shakes out OK in the end. I'd love to take a class again with her, and I'm not even a geography major.
+
+--- Rating #4 ---
+Class: GEOG241
+Date: 2020-12-26 06:54:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+I enjoyed most of Magie's class. The topics of the lectures were interesting and covered a variety of relevant social and political issues. Her online lectures were never more than 40 minutes long (2-hr lec. block) but they were quite quote heavy. Tutorials were optional and there were weekly 500-word discussion posts and responses.
+
+--- Rating #5 ---
+Class: G241
+Date: 2020-11-23 17:49:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Magie is maybe the best prof I have had thus far at SFU. You can tell that she genuinely cares about the well-being of her students. Magie attended Stanford University and is clearly passionate about her field of study. Her course load is pretty light and she is really accommodating of students. I decided to take a second class with her next term!

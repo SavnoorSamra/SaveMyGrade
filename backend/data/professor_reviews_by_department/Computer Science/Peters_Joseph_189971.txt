@@ -1,0 +1,271 @@
+Professor: Joseph Peters
+Professor Legacy ID: 189971
+Professor ID: VGVhY2hlci0xODk5NzE=
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.5
+Avg Difficulty: 3.7
+Num Ratings: 27
+Would Take Again Percent: 70
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT371
+Date: 2020-01-06 09:40:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very knowledgeable. Clear and organized lectures. Very fair assignments and grading. Easy to talk to and loves discussions and questions during class. I would certainly recommend him. He is a very calm, quiet and well spoken person which can make his lectures almost soothing and relaxing to listen to. This can be a problem if youre already tired.
+
+--- Rating #2 ---
+Class: CMPT371
+Date: 2019-12-23 11:02:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He's a super nice guy, very knowledgeable and passionate about the material. 5 written assignments were fairly easy (24/30 average ish), midterm and final were fairly difficult (50 average ish) but they're scaled so you'll be fine. I missed a bunch of lectures but read every textbook chapter and got a B+. Read 10 pages a day and you're good to go!
+
+--- Rating #3 ---
+Class: CMPT307
+Date: 2019-12-16 17:21:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Joseph Peters was a great prof, particularly compared to my expectation of CMPT 307. His quizzes were straightforward - they directly tested your understanding. The homework was tough but marked quite easily. His choice of textbook (CLRS) was also great. Joseph's lectures simply helped us understand the content in the book.
+
+--- Rating #4 ---
+Class: CMPT371
+Date: 2019-10-07 23:20:46 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is nice but you just can't really focus on his lecture with his low, soft and deep voice reading the ppt in class... It always makes half class students fell asleep... Maybe Prof peters can change to other lecture style somedays...
+
+--- Rating #5 ---
+Class: CMPT307
+Date: 2017-04-25 13:17:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The content of CMPT 307 requires students to develop strong problem solving abilities over the length of the course which requires you to put in a lot of effort. Joseph Peter's lectures and homework really helped me to develop these skills and succeed in the course. He is a funny and clearly a caring person. I would certainly recommend him.
+
+--- Rating #6 ---
+Class: CMPT307
+Date: 2017-04-21 11:09:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+307 is a tough course and I would recommend taking it with Joseph Peters. The quiz material comes from the textbook and lectures so don't miss any classes, and he is very helpful in office hours which you will need for the assignments. The final is much harder than the quizzes.
+
+--- Rating #7 ---
+Class: CMPT307
+Date: 2017-01-16 20:16:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He's probably one of the toughest prof in SFU. You may be tricked into believing that he's a lenient grader at the end of the semester, so you give him a good review. Do not believe him. He failed many students in my class because he graded his final exam brutally. If you do bad in the final, he will fail you regardless of your overall performance.
+
+--- Rating #8 ---
+Class: CMPT307
+Date: 2017-01-04 17:22:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Hard to follow. He is not a good lecturer. Avoid this class.
+
+--- Rating #9 ---
+Class: CMPT307
+Date: 2016-12-22 20:07:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+An awesome instructor. Caring, explains concepts clearly, and is very helpful in office hours. One criticism - I feel like I got away with some BS/handwaving. The material is hard, but important to learn, so I definitely cared about understanding more than marks. Beware - the final is harder than the quizzes, and is worth 50%.
+
+--- Rating #10 ---
+Class: CMPT307
+Date: 2016-12-20 17:03:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Recommended for 307; course is mostly about solving word problems rather than mostly proofs so it's an interesting course in that way. Homework and quizzes can be tough but he is very helpful and friendly in office hours.
+
+--- Rating #11 ---
+Class: CMPT307
+Date: 2015-01-30 00:11:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Marks were based only on quizzes and final. Tough material so expect to study a lot.
+
+--- Rating #12 ---
+Class: CMPT371
+Date: 2014-11-22 01:15:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I took this class because it was a pre-requisite for Distributed Systems and I wasn't necessarily expecting to be that interesting. However, I very much enjoyed this class. Dr. Peters is a fantastic lecturer, one of the best I've had at SFU, and he was helpful during office hours and after class. I learned a lot from this class.
+
+--- Rating #13 ---
+Class: CMPT371
+Date: 2013-04-29 20:00:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+The prof's level of interest in the subject is very high so you will get lots of tidbits that is real world compared to other classes.  Highly recommend him.
+
+--- Rating #14 ---
+Class: CMPT371
+Date: 2012-05-15 20:12:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great prof. Lectures were interesting, and he listens to students' suggestions
+
+--- Rating #15 ---
+Class: CMPT307
+Date: 2009-04-30 21:23:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Dr.Peters does a good job teaching a rather difficult subject.  This is perhaps the hardest CMPT course I have taken yet, yet most likely the one I have enjoyed the most so far.  He teaches in a way that encourages actual learning and thinking.  Coming up with a solution to problems is not easy, as you will find in this course.
+
+--- Rating #16 ---
+Class: CMPT307
+Date: 2008-11-11 16:26:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He is one of the best professors I had. He rewards people for creative solutions to problems even if they don't work out in the end. He encourages discussion in class which unfortunately not many take advantage of. Exams require creative thinking so if you just want to memorize something, then you should rethink the reason why you are in university
+
+--- Rating #17 ---
+Class: CMPT307
+Date: 2008-04-16 23:06:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I always seem to be running out of time on quizzes, and half of the course grade are based on those quizzes.  His notes are useless, so just study from the textbook.  Would not take another class with him again.
+
+--- Rating #18 ---
+Class: CMPT405
+Date: 2008-03-21 04:59:29 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Nice guy, but avoid his class, I don't understand how he expects you to finish his 50 minute midterm in time, hard to believe he is a full professor and still doesn't understand this, how many more years until you figure this out Joe, maybe you don't really care although it seems like you do. Proof, some can do, some can teach ...
+
+--- Rating #19 ---
+Class: CMPT307
+Date: 2008-02-27 00:01:43 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Marking is based only on many quizzes and final exam. 20 minute quizzes were given about once a week or so.  I found these quizzes hard and also he doesn't give us enough time.  Class average on these quizzes were low.  The instructor does not give out useful notes so be prepared to study from the textbook yourself.
+
+--- Rating #20 ---
+Class: CMPT307
+Date: 2008-02-01 19:24:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Really difficult prof.  Would not take another course with him again.

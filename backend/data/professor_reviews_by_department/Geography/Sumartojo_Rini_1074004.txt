@@ -1,0 +1,115 @@
+Professor: Rini Sumartojo
+Professor Legacy ID: 1074004
+Professor ID: VGVhY2hlci0xMDc0MDA0
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 3.5
+Avg Difficulty: 2.4
+Num Ratings: 8
+Would Take Again Percent: 100
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: GEOG1100
+Date: 2023-09-02 07:29:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I loved this class.
+
+--- Rating #2 ---
+Class: GEOG1160
+Date: 2022-03-14 06:22:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took an online course last summer. Rini Sumartojo is a great instructor. I liked her style of teaching and her approach to sensitive themes related to Human Geography. I gained so much knowledge thanks to her lectures, discussions and interesting video materials she has included in the curriculum.
+
+--- Rating #3 ---
+Class: GEOG1100
+Date: 2013-11-21 22:37:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Boring class, everyone leaves after attendance. I asked her to explain the assignment and she got confused telling me how to do it. Slow marker. Gave us an assignment a week before end of semester.
+
+--- Rating #4 ---
+Class: GEOG1160
+Date: 2013-06-20 05:55:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Rini is an awesome Prof! She came to teach at Douglas for a while & I was fortunate to have her as a prof. Rini is very thorough with her lectures and her power points are very helpful, it pretty much covers about 90% of the textbook. She gives plenty of quizzes which definitely prepares you for the midterm & final. I would take her class again.
+
+--- Rating #5 ---
+Class: GEOG241
+Date: 2011-10-18 16:27:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+She pushed me to think about issues. I think other students wanted her to just give us 'the answers' but I was happy she made us do the thinking for ourselves. I think this will help me in my 3rd and 4th year!! Thanks Rini!
+
+--- Rating #6 ---
+Class: GEOGTA
+Date: 2009-01-12 20:05:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Worst TA of my life. Not interesting and has no interest in teaching the class. Rambles on about who knows what. Classes very awkward. Always would be eating/drinking, often coming late to go to renissence/vending machine. Hard to keep focused in discussion. Material is interesting but somehow she sucked out all the good. Failure.
+
+--- Rating #7 ---
+Class: GEOGTA
+Date: 2009-01-12 19:58:07 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She is the absolute WORST TA ever. She didn't care about the students as she arrived to class late every day. She is always sloppy. Explanations were terrible and she was often lazy and even admitted it to us. She is awful at clarifying what was taught in class. Lots of small group discussion and did not get involved, instead she origamied.
+
+--- Rating #8 ---
+Class: GEOG462
+Date: 2008-04-03 18:32:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Good prof overall. The class looked at the U.S. from a social geography perspective. I was expecting more of a regional geography class but overall the class was informative and interesting.

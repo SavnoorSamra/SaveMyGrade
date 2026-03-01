@@ -1,0 +1,63 @@
+Professor: Brian Smerdon
+Professor Legacy ID: 1270902
+Professor ID: VGVhY2hlci0xMjcwOTAy
+Department (CSV): Earth Science
+Department (Fetched): Earth Science
+Avg Rating: 4.6
+Avg Difficulty: 2
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: EASC104
+Date: 2009-07-17 14:09:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I had no background in earth science before, but I came out of this class wanting to know more and more!  He is intriguing to listen to and passionate about this subject.  He was excellent at answering questions and related well to students.  His exams were fair - he prepared us well for them.  Made me want to change my major!
+
+--- Rating #2 ---
+Class: EASC104
+Date: 2009-05-08 19:51:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+What an amazing prof! I looked forward to every lecture. He is clearly passionate about what he teaches and it shows in his lectures. It doesn't hurt that he is young and good looking!
+
+--- Rating #3 ---
+Class: EASC104
+Date: 2009-05-04 03:24:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Passionate about nature hazards. He explains the material really well and has clear notes. He also makes a feel awkward jokes that makes class enjoyable.
+
+--- Rating #4 ---
+Class: EASC104
+Date: 2009-04-11 23:43:23 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I think the Spring 2009 semester was Brian's first term teaching (he was a TA before&#63;). He was a GREAT prof! His class made me consider doing a minor in Earth Science. He goes into more detail during lectures, I don't find it enough to just read the slides. Midterms were really easy. Brian made natural hazards sexy!

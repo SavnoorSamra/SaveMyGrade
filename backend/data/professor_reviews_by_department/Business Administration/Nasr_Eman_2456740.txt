@@ -1,0 +1,193 @@
+Professor: Eman Nasr
+Professor Legacy ID: 2456740
+Professor ID: VGVhY2hlci0yNDU2NzQw
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 2.6
+Avg Difficulty: 3.6
+Num Ratings: 14
+Would Take Again Percent: 42.8571
+
+Ratings Count Returned: 14
+
+--- Rating #1 ---
+Class: BUS362
+Date: 2024-12-09 23:12:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Honestly I really enjoyed Dr. Nasr's BUS 362 course. She is very passionate about the subject and does her best to keep the class engaged throughout her lectures. She is very accessible outside of lecture hours and genuinely wants to see her students succeed. It's a 4 credit course so yeah, expect some work.
+
+--- Rating #2 ---
+Class: BUS362
+Date: 2024-05-19 20:02:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+no complaints but expect lots of work
+
+--- Rating #3 ---
+Class: BUS362
+Date: 2024-03-04 06:41:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Fair and interesting class and professor - my tip - stay on top of your work (regular meetings) and the workload is very manageable.
+
+--- Rating #4 ---
+Class: BUS362
+Date: 2024-02-29 22:33:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I'll be honest, I have no idea what the other reviews are talking about, Dr. Nasr is a great professor, her lectures are very applicable and interesting and all of her assignments are fair. It's a 4 credit course so it's a given that there will be more work to do but nonetheless, it's great.
+
+--- Rating #5 ---
+Class: BUS362
+Date: 2023-04-05 22:43:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I hated this course so much because of the disorganization. She told us in the beginning of the semester that the 2 midterms will NOT be cumulative and then a week before the second midterm (now called a final), is cumulative. AVOID her at all costs.
+
+--- Rating #6 ---
+Class: BUS362
+Date: 2023-03-13 20:22:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Eman is extremely disorganized and decided to change due dates last minute, moving up the final project and other assignments. There is no time to work on the final project - meaning you would have to do it all out of class with your group. She also does weekly quizzes of stuff she doesn't even teach in class so you should read the textbook
+
+--- Rating #7 ---
+Class: BUS362
+Date: 2022-03-28 00:19:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is one of the most boring professors I've had at SFU. Her lectures are dry and she makes up examples on the spot rather than having them prepared, meaning most of the time it does not match what the textbook is showing(follow the textbook and not her examples). She does not give any instructions on the assignments and refuse to answer questions
+
+--- Rating #8 ---
+Class: BUS462
+Date: 2020-04-10 02:41:23 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Taught R for the majority of the class despite low application irl other than specialized roles, but knowledgable about specific details in analytics. Came off as egoistic during presentations, asking analytics related q's but not taught in class. Picked on a student publicly for contribution which wasn't a good look. Doesn't know about git
+
+--- Rating #9 ---
+Class: BUS336
+Date: 2019-04-22 03:43:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Eman definitely is not the best professor in terms of punctuality and charisma. However, the tradeoff here is that her class is far easier than a lot of other professors. On one hand, there's a prof in which you have to pour hours into assignments worth nothing, while the other prof can barely teach, both of which are for the Burnaby campus.
+
+--- Rating #10 ---
+Class: BUS336
+Date: 2019-04-19 06:30:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+These other reviews are tripping. Emans 336 is miles easier than any other prof at SFU. Sure, she isnt the best teacher, but in terms of workload and exam difficulty she is by far the best. Super high averages on every midterm compared to other 336 profs. Generous grading. She is an extremely kind an approachable prof. She made 336 a breeze.
+
+--- Rating #11 ---
+Class: BUS336
+Date: 2019-04-18 08:59:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is never on time for class. Mostly upsetting how students have tried to educate her on certain topics but she did not want feedback. For example, was under the impression that she did not need to curve??? Also that she could pick which campus to make us write exams?? This prof is very unprofessional andan embarrassment to the business faculty!
+
+--- Rating #12 ---
+Class: BUS336
+Date: 2019-04-18 08:52:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Bad lecturer. Wants students to come up to the board and write answers? Information learned wasnt very useful because she doesnt apply the concepts to real world examples XD. Bad attitude to want to help a student who is asking
+
+--- Rating #13 ---
+Class: BUS336
+Date: 2019-01-16 22:40:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She has poor attitude towards student concerns in class and just shrugs it off. She has kahoot quizzes in class each worth 1% but barely gives us enough time to read the question let alone answer the question (the questions are not clear btw). The class has not felt productive so far. She was also not aware that Beedie classes need to be curved.
+
+--- Rating #14 ---
+Class: BUS336
+Date: 2019-01-15 23:00:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+THE LECTURE IS AT SURREY CAMPUS, BUT SHE WANTS ALL THE CLASS TO GO TO BURNABY CAMPUS TO TAKE ALL THE EXAMS???? AND I BELIEVE SHE IS THE ONLY PROF THAT USE EXCEL FOR ALL THE EXAM FOR THIS COURSE. SHE DOES NOT KNOW WHAT SHE IS TEACHING. BEING LATE FOR EVERY CLASS, NO BREAK, AND ALWAYS DELAY TO DISMISS THE CLASS. DO NOT TAKE THIS CLASS WITH HER.

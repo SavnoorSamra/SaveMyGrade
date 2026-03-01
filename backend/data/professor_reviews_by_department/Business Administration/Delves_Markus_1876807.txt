@@ -1,0 +1,11 @@
+Professor: Markus Delves
+Professor Legacy ID: 1876807
+Professor ID: VGVhY2hlci0xODc2ODA3
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

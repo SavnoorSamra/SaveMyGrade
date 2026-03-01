@@ -1,0 +1,232 @@
+Professor: Philip Grant
+Professor Legacy ID: 1777974
+Professor ID: VGVhY2hlci0xNzc3OTc0
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 2.3
+Avg Difficulty: 2.8
+Num Ratings: 17
+Would Take Again Percent: 11.1111
+
+Ratings Count Returned: 17
+
+--- Rating #1 ---
+Class: BUS343
+Date: 2021-03-10 07:22:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+extremely full of himself. Will start the semester off coming off as a nice person but that quickly changes. Test are also very easy as they are all on quizlet.
+
+--- Rating #2 ---
+Class: BUS343
+Date: 2020-12-31 01:32:32 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He was very passionate; however, since some students cheated in the midterm, the average ended up to be in 90s. Thus, to bring down the average, he gave us an unreasonably hard, time-consuming, and vague final to bring down average. Also, the concepts were vague, the textbook and his slides were disorganized, and marking rubric is not provided.
+
+--- Rating #3 ---
+Class: BUS343
+Date: 2020-12-17 07:23:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+AVOID. Seems passionate about marketing but he did awful with the remote semester. Exams were completely taken from online sources, and since they weren't proctored, seems like most of the class found the answers - average was in the 90s. To bring down the average he gave no assignment criteria and decreased the marks the TAs originally gave.
+
+--- Rating #4 ---
+Class: BUS343
+Date: 2020-12-15 19:55:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+He is very passionate but the course needs a major revamp. I was disappointed that he did not adjust the course much for online classes... He says closed book exams but there is no proctoring...? I don't see how that works. This was a classic memorize definitions for the exam and then forget it class. The concepts were vague and expectations too.
+
+--- Rating #5 ---
+Class: BUS343
+Date: 2020-12-15 05:17:42 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+You can tell that he's trying but at the end of the day, it's not enough. He told us that he made the exam papers specific to the semester. But the exact questions were on the internet so anyone who didn't cheat, didn't do well. Everything was all over the place. No clear instructions or guidelines.
+
+--- Rating #6 ---
+Class: BUS343
+Date: 2020-12-14 23:00:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Assignments were very vague. Didn't explain what to do to any of them. I would avoid.
+
+--- Rating #7 ---
+Class: BUS343
+Date: 2020-12-14 22:58:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Terrible prof. Very unprofessional as his family randomly shows up in lectures. Not very educated in the material; likes to boast more than teach. Extremely lazy and was very frustrating hearing that he used Quizlet questions for midterms which made the average around 95 percent. So if you did the exams honestly, you had no chance with the curve.
+
+--- Rating #8 ---
+Class: BUS447
+Date: 2016-11-05 03:59:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The course material presented about international business was not only relevant but it also enabled me to leverage that info at work. Great presentation tips. Very helpful and understanding when issues were raised. Would recommend taking this course with him. Reading the course outline and group project outline thoroughly are key to doing well.
+
+--- Rating #9 ---
+Class: BUS343
+Date: 2016-08-17 15:49:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He's a terrible prof. He examines you in a way that doesn't promote learning. For his midterm and final, you have to memorize answers to 42 short answer questions and he selects about 12 from those and tests you on 10. Oh, and he also added a case study to the final on top of that (which is fine, but ridiculous with the additional short answers).
+
+--- Rating #10 ---
+Class: BUS343
+Date: 2016-05-09 11:04:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Classes and discussions dragged on. Tried to help, but not particularly helpful. High energy.   If given the choice, I would not take another class with him.
+
+--- Rating #11 ---
+Class: BUS447
+Date: 2016-05-08 23:04:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Young teacher. Tries hard. Marking schemes don't make a lot of sense.
+
+--- Rating #12 ---
+Class: MARK1115
+Date: 2016-03-31 19:48:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Dr. Grant is by-far the most inspirational teacher to have. He is very understanding and at the end of the day, he truly cares about his students. If you want to have a blast in your semester, take ANY class by him.
+
+--- Rating #13 ---
+Class: BUS447
+Date: 2013-05-14 13:12:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Practical teacher. Easy marker. Engaging. Friendly and personable. Funny. Does not require you to buy a text. Responds very quickly to e-mails. Takes suggestions into consideration. Just be sure to clarify exactly what you need to do for any assignments or projects. Overall, good prof, I would recommend taking this course with him.
+
+--- Rating #14 ---
+Class: BUS447
+Date: 2013-04-21 13:38:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Phil challenges his students by using a "test how you think" not "test what you know" mindset. No textbook regurgitation, but rather an analysis of one Harvard case study each week make lecture engaging and interest. Midterms and finals are the same - no textbook memorization but critical thinking analyzing cases. Phil shares his passion each class
+
+--- Rating #15 ---
+Class: BUS343
+Date: 2013-04-20 02:57:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I think Phil was a great prof- super personable and smiled a lot, used good examples and very engaging. You could tell he was very knowledgable about the content- My only future recommendation would be that he go more in depth into less concepts, rather than less in depth into more concepts- as there were certainly A LOT in this intro class..
+
+--- Rating #16 ---
+Class: BUS447
+Date: 2013-04-19 18:04:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great prof, very enthusiastic about course material which makes it easy to pay attention during lecture. Desires for all his students to succeed and will go to bat for them! Challenges you to think, but not beyond what you can handle. Overall, great course!
+
+--- Rating #17 ---
+Class: BUS343
+Date: 2013-04-14 18:39:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is not a professional prof. He emails revised ppts on the day of lecture, makes email announcements hours before lectures, and he basically skims through the ppts during lectures. His midterm is hard because it is almost all situational questions which are open to interpretation. Class is too time consuming for a 3 credit course. Not recommended

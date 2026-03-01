@@ -1,0 +1,115 @@
+Professor: Sun-Ha Hong
+Professor Legacy ID: 2419254
+Professor ID: VGVhY2hlci0yNDE5MjU0
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 4.5
+Avg Difficulty: 3.1
+Num Ratings: 8
+Would Take Again Percent: 87.5
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: CMNS253W
+Date: 2022-11-28 03:14:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Knows how to deliver course material in way that makes it easy to understand.
+
+--- Rating #2 ---
+Class: CMNS253W
+Date: 2020-12-15 05:18:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+(I took this remotely because of COVID). He was a serious gem. He's knowledgeable &amp; makes the lectures interesting. The readings are interesting too. Make sure to keep up with the annotations &amp; exercises because it helps when final paper time comes around. He's also super understanding &amp; caring if you need an extension. 1 of my fav profs for sure!
+
+--- Rating #3 ---
+Class: CMNS815
+Date: 2020-05-12 21:36:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Intelligent, articulative, his spoken words are like books. The readings he gave are all insightful and connected to various topics on a broader sense. Discussions are enhanced with his sharp points and relevant examples. Flexible, accessible and understanding outside of class. Love him!
+
+--- Rating #4 ---
+Class: CMNS253W
+Date: 2020-01-16 22:49:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I absolutely loved this Prof. He was so articulate, interesting, intelligent, and had relevant examples that helped us understand new media issues in meaningful ways. Easily my favourite professor I've ever had.
+
+--- Rating #5 ---
+Class: CMNS253W
+Date: 2019-12-03 20:41:23 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Demands a lot in papers and even proposals. A long email was usually sent to the whole class after every proposal/paper submitted about how our papers didn't satisfy, while he didn't make clear what he wanted beforehand and often got us confused. Told us lecture attendance was counted towards final grade in the end of term w/o prior notice.
+
+--- Rating #6 ---
+Class: CMNS253W
+Date: 2019-05-24 03:05:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very articulate and passionate about the topic and his work. Impressive since it's his first semester teaching at SFU. Showed helpful relevant examples in class. I hope to take more courses from him! Course mainly depended on doing well on the term paper and writing assignments.
+
+--- Rating #7 ---
+Class: CMNS253W
+Date: 2019-03-22 19:16:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Good lectures, though a little light on student involvment
+
+--- Rating #8 ---
+Class: CMNS253
+Date: 2019-03-22 19:16:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Nice prof, good understand on the course material and make it fun. Course was fun and engaging. Marking was tough tho.

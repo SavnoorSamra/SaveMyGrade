@@ -1,0 +1,271 @@
+Professor: Cary Campbell
+Professor Legacy ID: 2654255
+Professor ID: VGVhY2hlci0yNjU0MjU1
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.7
+Avg Difficulty: 2.3
+Num Ratings: 27
+Would Take Again Percent: 92.5926
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: EDUC469
+Date: 2024-12-22 19:13:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Cary's the best young prof I've ever had ... literally a renaissance man -- musical, philosophical, athletic, cute -- but super caring and personable -- and his classes reflect this!
+
+--- Rating #2 ---
+Class: EDUC352
+Date: 2024-08-08 05:29:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Cary is seriously the best professor that I have ever had! He truly cares about his students and wants everybody in his class to succeed. His classes are very interesting and you can tell that education is his passion. His assignments are also very flexible in terms of completion and format. I am taking his class again and so should you :)
+
+--- Rating #3 ---
+Class: EDUC352
+Date: 2024-08-04 20:02:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Cary is one of the most caring profs I have experienced here at SFU. He is truly passionate about, and interested in the content that he is teaching. He values his students time that is put into the course work, so if you put the effort in, he will recognize that. His courses are not boring, and I would be happy to take another class with him.
+
+--- Rating #4 ---
+Class: EDUC478
+Date: 2024-07-02 16:51:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Cary is truly a wonderful professor. He takes the time to check in on students in and outside class. If you have any questions he is easily approachable and gives great advice.
+
+--- Rating #5 ---
+Class: EDUC252
+Date: 2024-04-27 16:35:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best prof ever! Made me actually excited to come to class and learn. The course is structured so you can move at your own pace, and he's so understanding, helpful, and knowledgeable!
+
+--- Rating #6 ---
+Class: EDUC352
+Date: 2024-04-17 18:25:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I have had 3 classes with Cary and he is genuinely one of my favourite profs at SFU! He is so kind and caring! The course work is so unique compared to other education classes. I learned so much from him in every class that I have taken. I highly recommend his classes!!
+
+--- Rating #7 ---
+Class: EDUC352
+Date: 2024-04-17 18:12:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Cary Campbell is a TRUE honor to have as a professor! Not only does he teach the course, he transmits his passion and knowledge to others in such a positive and uplifting way! He is clear with his assignments and is extremely transparent on what needs to be done. I would retake this course over and over again! SFU is beyond lucky to have Cary here!
+
+--- Rating #8 ---
+Class: EDUC352
+Date: 2024-04-16 14:18:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Cary Campbell is a man that loves to hear himself talk. I don't feel like he taught me anything valuable.
+
+--- Rating #9 ---
+Class: EDUC352
+Date: 2024-03-30 02:36:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Super kind and outgoing, he always tries to engage the class by asking so many questions. He is very good at explaining and will do so at any point if you ask him too. He has no problem repeating himself and is always listening to the class and what we want to focus on/is confused about. Super helpful as well when you need help on your project.
+
+--- Rating #10 ---
+Class: EDUC252
+Date: 2024-01-04 17:10:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Cary's class is very open ended and it is clear he wants to see his students engage with the content in their own way. He is very kind and is always willing to help out. He somehow manages to make an online asynchronous class engaging and memorable which is no easy feat.
+
+--- Rating #11 ---
+Class: EDUC100
+Date: 2023-08-08 04:10:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Literally, the kindest professor I have had at SFU. He truly cares for all of his students and I am happy I got to take the class with him. He is very receptive of class feedback and accessible/helpful outside of class. You will not regret having him as your professor. Tips: Do the readings he assigns and engage in class discussions. He's the GOAT
+
+--- Rating #12 ---
+Class: EDUC252
+Date: 2023-07-25 20:57:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+
+
+--- Rating #13 ---
+Class: EDUC100W
+Date: 2022-12-28 20:58:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+I've been lucky enough to have Cary as a prof for EDUC100W, 252W, and 352W. I can't recommend him enough. He is very responsive to emails and really cares about his students. One of the best profs I've ever had at SFU. The material can be a lot to digest and doesn't always make sense right away, but it is really interesting overall. 10/10
+
+--- Rating #14 ---
+Class: EDUC100W
+Date: 2022-08-22 15:55:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Not amazing, contradicts himself when asked on make up assignments. Marking system is not the best, gives not so great feedback on assignments.
+
+--- Rating #15 ---
+Class: EDUC100W
+Date: 2022-06-16 03:44:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Cary was such an engaging professor that seemed to enjoy teaching and talking with the students in the class. It was a pleasure to attend his class and I enjoyed it immensely. The homework he gives is extremely helpful and he is a very fair grader. Additionally, he gives very in-depth feedback. I would 100% recommend taking this class.
+
+--- Rating #16 ---
+Class: EDUC100W
+Date: 2022-05-14 10:30:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Cary genuinely wants his students to succeed and puts extensive effort into ensuring we feel safe and comfortable! His passion for teaching translates into the course w/ detailed weekly emails, clarifying videos, and fascinating personal insight in modules. His teaching style truly changed my education (for once, I felt valued as a student!). 10/10
+
+--- Rating #17 ---
+Class: EDUC100W
+Date: 2022-05-09 22:59:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Cary is extremely kind and understanding. EDUC 100W is an easy course, but it requires a lot of reading and a fair amount of effort. Cary truly cares about his students and is very passionate about the course topics. Highly recommend!
+
+--- Rating #18 ---
+Class: EDUC252
+Date: 2022-01-05 02:22:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Great prof! Cary provided many resources to learn from and was easy to reach and get feedback from outside of class. The course (online) was fairly disorganized but was still fun and a helpful learning experience overall.
+
+--- Rating #19 ---
+Class: EDUC252
+Date: 2022-01-05 00:20:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+This course was a great learning experience. Make sure you are actively engaged with the other discussion posts as well as taking the time to thoughtfully formulate your own answers. Cary provided many resources to use for the weekly discussion posts. He also responds to emails very quickly and was helpful when I asked for clarification on things.
+
+--- Rating #20 ---
+Class: EDUC100
+Date: 2021-12-27 10:29:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+TA was bad, but the prof gave great and respected feedback on assignments. Clear grading criteria. Just small assignments throughout the semester. Recommend.

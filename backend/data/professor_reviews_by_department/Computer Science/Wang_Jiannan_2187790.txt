@@ -1,0 +1,128 @@
+Professor: Jiannan Wang
+Professor Legacy ID: 2187790
+Professor ID: VGVhY2hlci0yMTg3Nzkw
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.1
+Avg Difficulty: 2.9
+Num Ratings: 9
+Would Take Again Percent: 77.7778
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: CMPT354
+Date: 2022-05-01 23:16:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He listens to student feedback and strives to improve his course components when necessary, this is rare among SFU profs.
+
+--- Rating #2 ---
+Class: CMPT354
+Date: 2022-05-01 21:26:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Goated prof. Practical assignments, covers needed information in lectures, fair final (mt was a bit rushed for time). Would take again. Make sure to pay attention in class as he sometimes mentions what to focus on for exams! : )
+
+--- Rating #3 ---
+Class: CMPT354
+Date: 2019-04-07 22:00:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Super likeable ! Good lecturer, clear assignments, and fair midterm+exam! Sometimes notes have minor mistakes but otherwise notes are really useful even without going to lecture (but you should go anyway! Answers to questions on notes are not in the notes). Mild accent but you get used to it after about 2 lectures, don't worry.
+
+--- Rating #4 ---
+Class: CMPT354
+Date: 2018-12-30 19:22:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Took CMPT 354 with him and he approached the class in a way few other professors did. He taught us the skills and nuances in a way to prepare us to actually use those skills in the future and extend our knowledge of databases and data architecture. Of course the course itself was relatively simple but his enthusiasm helped keep interest.
+
+--- Rating #5 ---
+Class: CMPT300
+Date: 2018-12-12 15:26:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+This is the hardest course I've ever taken at SFU. This prof is really good for every class except CMPT 300! Had no problem failing a third of the class. Final and midterms were among the hardest I've ever seen and the assignments took weeks to complete. You're best off waiting to take this course with any other prof.
+
+--- Rating #6 ---
+Class: CMPT354
+Date: 2018-11-25 15:18:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jiannan's first time teaching an undergraduate class, CMPT 354, was a breath of fresh air as he takes modern approaches to the course material and concepts. What you learn is straightforward and is applicable to the work industry. Assignments and midterm are easy as long you pay attention to class and follow along. Would highly recommend him!
+
+--- Rating #7 ---
+Class: CMPT354
+Date: 2018-11-23 03:23:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+His lectures are easy to follow along with. He is very approachable and will spend time to answer any questions you might have. He is also caring and understanding towards his students. We were allowed 4 grace days for assignments spread over the term. Would take another course with him if I could.
+
+--- Rating #8 ---
+Class: CMPT354
+Date: 2018-11-22 04:12:38 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Unorganized and unprepared.. Often.. He is very knowledgeable and cares, and is a nice person, but can spend so much time off topic that I forget what he was teaching. Often breaks and changes topic mid sentence and can be difficult to follow. Assignments were very easy and small then suddenly ABSURDLY large and difficult at the end.
+
+--- Rating #9 ---
+Class: CMPT843
+Date: 2018-04-15 17:22:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jiannan is a great prof with a lot of knowledge. He is easily approachable and helps students. His knowledge of databases is fantastic. Not much of quizzes in this course, as it is a seminar-based course and he, helps you with the preparation for giving a talk and asking questions.

@@ -1,0 +1,11 @@
+Professor: Roghayeh Nataj
+Professor Legacy ID: 2735853
+Professor ID: VGVhY2hlci0yNzM1ODUz
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

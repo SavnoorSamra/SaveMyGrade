@@ -1,0 +1,154 @@
+Professor: Huamei Han
+Professor Legacy ID: 1619773
+Professor ID: VGVhY2hlci0xNjE5Nzcz
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 2.9
+Avg Difficulty: 3.9
+Num Ratings: 11
+Would Take Again Percent: 50
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: EDUC825
+Date: 2019-12-04 07:36:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Han was an amazing teacher who supported us all well throughout the course. She wears her heart on her sleeve, and shows us that professors have emotions too, just like the rest of us. She sometimes loses track of time as she uses opportunities in class for &quot;teachable moments&quot;, but I believe that's what great instructors do. I recommend her!
+
+--- Rating #2 ---
+Class: EDUC825
+Date: 2016-07-21 16:40:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Avoid if possible. One of the worst professors I've had. No respect for opinions/worldviews different from her own. Bad time management (detailed syllabus but in class time she  rambles on about unrelated things for up to an hour). Class is unpredictable. Can be condescending towards students. Takes questions that go against her opinions personally
+
+--- Rating #3 ---
+Class: EDUC467
+Date: 2014-03-29 18:52:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+She is not good at teaching, bad time management, also tries to apply her thought into her students. you are supposed to agree with everything she said and taught. you can disagree and you are not encouraged to come with ideas that she doesn't want. stay away.
+
+--- Rating #4 ---
+Class: EDUC467
+Date: 2014-03-26 00:14:12 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Although she was extremely well versed in the immigrant experience, she does not spend much time on teaching ELL classes. Like previous comments, she is extremely sensitive to feedback.
+
+--- Rating #5 ---
+Class: EDUC467
+Date: 2013-08-03 19:41:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+A brilliant being, but is so preoccupied with her own lived experiences that it automatically colours any feedback that might not be positive as discriminatory, rather than a comment on her teaching methods and nothing else. Course material presented seemed to be based on her own agenda and was thus not at all as advertised by SFU
+
+--- Rating #6 ---
+Class: EDUC467
+Date: 2012-03-03 20:52:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Dr. Han is by far one of THE best Education professors at SFU.  She models effective teaching practices and is a tremendous example of an excellent teacher!  She is a teacher through and through with tremendous passion and care for her craft and her students.  I believe all Education students should take a class of hers.  You will learn sooo much.
+
+--- Rating #7 ---
+Class: EDUC467
+Date: 2012-02-02 01:33:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+One of my favourite profs. She is smart and her lectures were interesting to listen to. I never rated anyone before this, but I really wanna let u all know that she is one of the most amazing Educ profs.
+
+--- Rating #8 ---
+Class: EDUC471
+Date: 2012-01-07 00:25:45 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Dr. Han's classes are for those who possess self discipline. She is an amazing scholar who began her journey in rural China, a life testament to where dedication to academic study can take you. She will respect those who act respectfully to her and fellow classmates. Her respect is worth earning. Her class is an opportunity to challenge yourself.
+
+--- Rating #9 ---
+Class: EDUC471
+Date: 2012-01-07 00:13:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Take classes with Dr. Han if you are prepared to take the subject seriously. Dr. Han comes from rural China and has had an amazing academic journey to be the accomplished scholar she is today. Dr. Han's class is for those with self discipline. Earn her respect, it is worth it. She respects those who respect her and their fellow classmates.
+
+--- Rating #10 ---
+Class: EDUC825
+Date: 2012-01-06 22:21:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+She is very knowledgeable and helped us explore complex theories in a way that made them clear and logical.
+
+--- Rating #11 ---
+Class: EDUE
+Date: 2011-09-19 21:53:56 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Although I got an A in her class, I will never take her again. Condescending, although she claims she can make mistakes too, puts on airs and expects to agree with her on everything, including a text interpretation. Undergraduate education should be about inspiration and discovery, she fails on both. Very disappointing class.

@@ -1,0 +1,115 @@
+Professor: Cari Miller
+Professor Legacy ID: 1431012
+Professor ID: VGVhY2hlci0xNDMxMDEy
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 3
+Avg Difficulty: 3.1
+Num Ratings: 8
+Would Take Again Percent: 100
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: HSCI481
+Date: 2017-04-21 13:30:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Super Interesting
+
+--- Rating #2 ---
+Class: HSCI431
+Date: 2017-04-21 13:28:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Inspiring
+
+--- Rating #3 ---
+Class: HSCI431
+Date: 2014-05-23 13:11:09 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+She may have a problem of speech, and she has to use "um" in every sentence. I do not know whats the point of letting so many guests to hold the lectures. What I know is she needs to practice speaking more clearly.
+
+--- Rating #4 ---
+Class: HSCI431
+Date: 2014-05-08 01:53:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Dr. Miller did a great job teaching hsci 431. First of all, the material is actually really interesting since you're learning about one topic in particular. Secondly, Cari is super nice, approachable, organized, knowledgeable, etc. I loved this course and would recommend it to other students in a heartbeat!
+
+--- Rating #5 ---
+Class: HSCI431
+Date: 2014-01-30 20:23:25 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+The lectures are basically pointless because everything is based on the readings. She has a problem with speaking clearly.
+
+--- Rating #6 ---
+Class: HSCI431
+Date: 2013-11-04 13:57:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Wonderful course!  Enjoyed taking it.
+
+--- Rating #7 ---
+Class: HSCI431
+Date: 2010-07-18 20:40:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+How did is this woman allowed to teach&#63; She hardly ever taught only had guest speakers, made it hard to get a good mark and can't complete a single sentence without using the word &quot;um.&quot; When she didn't feel like teaching she got her husband to come teach the class, and this class is suppose to be her speciality. If you don't want to teach, quit!
+
+--- Rating #8 ---
+Class: HSCI340
+Date: 2010-07-05 14:34:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She has a major problem when it comes to clear speech and clarity of her sentences. She always stops her sentences mid-way and then begins with a new topic. She messed up the syllabus in terms of grading for our paper and final, which ultimately made it almost impossible to get a decent mark. And her exams are only on the details of the text, notle

@@ -1,0 +1,273 @@
+Professor: Kamal Gupta
+Professor Legacy ID: 59574
+Professor ID: VGVhY2hlci01OTU3NA==
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 3
+Avg Difficulty: 3.7
+Num Ratings: 28
+Would Take Again Percent: 31.25
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENSC380
+Date: 2025-05-30 22:05:08 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His notes are really tough to understand and look back on. He covers a lot of theory and proofs while not doing too many examples. His weight distribution of marks put way too much emphasis on the final. Good person but class could be structured and delivered better.
+
+--- Rating #2 ---
+Class: ENSC383
+Date: 2025-04-29 02:29:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Kamal's assignments and exam questions are all based off of his lecture notes and textbook. As long as you studied his notes and read textbook, you can make through without any issue. However, I'm not a big fan of his messy and disorganized notes since they are hard to read sometimes. Also he gives a lot of assignments. Other than that, solid prof.
+
+--- Rating #3 ---
+Class: ENSC380
+Date: 2024-12-21 01:26:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The lecture notes are challenging to follow and understand, making it difficult to grasp the material. Additionally, the test questions are quite difficult. The grade distribution is heavily weighted, with only 10% allocated to homework and 90% determined by midterms and finals, which puts significant pressure on exam performance.
+
+--- Rating #4 ---
+Class: ENSC380
+Date: 2024-12-19 06:51:41 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lecture notes are hard to read and lectures themselves are a little dry. He follows the textbook pretty closely and notes down in the lecture notes what parts of the textbook are omitted. I skipped every lecture and just read the textbook. 
+
+Exams are pretty fair if you just do some textbook problems. Definitely make use of office hours.
+
+--- Rating #5 ---
+Class: ENSC380
+Date: 2024-10-28 18:16:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+If you complain about kamal pls go take ensc316 with bernhard. Do the example on the textbook, everything will sort out
+
+--- Rating #6 ---
+Class: ENSC380
+Date: 2024-10-10 01:46:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Notes were not great and I didn't understand the structure of the course. The explanations were all over the place.
+
+--- Rating #7 ---
+Class: ENSC380
+Date: 2024-09-19 20:06:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Stay away from this instructor
+
+--- Rating #8 ---
+Class: ENSC380
+Date: 2021-12-10 22:56:17 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Aight
+
+--- Rating #9 ---
+Class: ENSC380
+Date: 2021-07-13 20:19:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+He does not scale. Class average was a C. Have fun with those notes!
+
+--- Rating #10 ---
+Class: ENSC887
+Date: 2019-08-19 19:24:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Would recommend taking the course. He's very thorough in the notes. Would recommend attending lectures and starting the homework early. The homework is almost entirely based on the notes or textbook.
+
+--- Rating #11 ---
+Class: ENSC488
+Date: 2017-02-19 02:52:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This prof is a horrible prof and stink at explaining things.  Professor who stink at explaining things
+
+--- Rating #12 ---
+Class: ENSC488
+Date: 2017-02-19 02:46:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This prof is a horrible prof.  Professor who stink at explaining things
+
+--- Rating #13 ---
+Class: ENSC488
+Date: 2016-12-11 03:15:42 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures are heavy and you do have lots of assignments. However, the course is very interesting and prof is always open to help. Project is time consuming, but also essential to understand the course material and fun to do
+
+--- Rating #14 ---
+Class: ENSC488
+Date: 2016-12-09 22:24:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He doesn't know how to teach you at all! just go through the textbook and learn from it. At lot of workload and no study materials(assignment, MTs solution etc.)
+
+--- Rating #15 ---
+Class: ENSC488
+Date: 2016-11-22 10:15:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This professor repeats the materials in the textbook without further examples. No solutions to the assignment, midterm to study. This professor materials does not help with doing the project. No sample input/output of the project and time consuming. If you are taking this course with him, better not take any other heavy courses.
+
+--- Rating #16 ---
+Class: ENSC488
+Date: 2016-11-16 00:10:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Too much work. TA sucks. Read the textbook and save yourself tons of time
+
+--- Rating #17 ---
+Class: ENSC383
+Date: 2015-07-02 11:22:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Has bad temper! Watch out! And slow marker too!
+
+--- Rating #18 ---
+Class: ENSC887
+Date: 2012-04-30 03:44:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very knowledgeable and enthusiastic about his teachings. Very helpful and extremely nice. One of the best professors I've had up to PhD level.
+
+--- Rating #19 ---
+Class: ENSC488
+Date: 2011-09-01 13:29:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very knowledgeable, intelligent and enthusiastic.
+
+--- Rating #20 ---
+Class: ENSC383
+Date: 2008-01-11 01:17:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Excellent!Very knowledgable.

@@ -1,0 +1,279 @@
+Professor: Yagiz Aksoy
+Professor Legacy ID: 2535416
+Professor ID: VGVhY2hlci0yNTM1NDE2
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1.4
+Avg Difficulty: 4.2
+Num Ratings: 54
+Would Take Again Percent: 11.1111
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT361
+Date: 2026-02-27 22:01:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+There is a fundamental mismatch in level of abstraction of lectures and the midterm.
+
+Algorithm derivations in textbook only, with no proof digestion in lectures, only functional descriptions. Then midterm expects one to derive them from first principles.
+
+Not sure why I pay tuition if rigorous learning is delegated to a 3rd party textbook. Avoid.
+
+--- Rating #2 ---
+Class: CMPT361
+Date: 2026-02-26 03:34:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+I took his 361 a while ago, and I think he doesn't deserve all these rage ratings. He is passionate about the topics, and I think he actually enjoys discussing the topics if you pay attention. Exams were indeed somewhat challenging but assignments were really nice tho. Watching videos before coming to class helps you prepare well, just watch it.
+
+--- Rating #3 ---
+Class: CMPT361
+Date: 2026-02-19 01:15:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Using a bonus question in mid to grade students' assignment you serious??? Who gonna waste their exam time answering a question not even marked?
+
+--- Rating #4 ---
+Class: CMPT361
+Date: 2026-02-18 18:41:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Yagiz spends a good 30 minutes of each lecture saying um
+
+--- Rating #5 ---
+Class: CMPT361
+Date: 2026-02-18 18:40:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Do not take this course not worth it
+
+--- Rating #6 ---
+Class: CMPT361
+Date: 2026-02-18 18:39:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+CMPT361 is the worst CMPT class I've ever taken. The professor has no incentive to teach the course content. Lectures are just scribbles on a canvas, and the YouTube videos have almost no correlation with the midterm. The only thing helpful so far is he said, don't worry, the class is scaled. SFU needs bette profs.
+
+--- Rating #7 ---
+Class: CMPT361
+Date: 2026-02-12 04:00:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+No lecture slides, you'd need to watch his YouTube lectures and live lectures and take notes form them.
+Exams feels insanely hard not only because the exam itself is hard but also because of the he teaches without lecture slides. 1 is too high for him, I wish I could give him -2
+
+--- Rating #8 ---
+Class: CMPT762
+Date: 2025-12-19 01:45:21 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Odd experience. His policy: Miss 2+ classes? You get an NA. No laptops in class. If using Zoom, camera on, or he'll call you out until you turn it on, or he kicks you. He answers questions during class in a way that makes you feel like you should know better. However, talking to him 1-on-1 he is keen to help and seems to genuinely care about you.
+
+--- Rating #9 ---
+Class: CMPT361
+Date: 2025-12-16 01:52:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+By far the laziest prof I've ever experienced. Did not provide practice exams or any help in that matter. Simply told us to watch all the lectures in 2x speed. Too lazy to use Canvas and instead uses the github that he made half a decade ago. Avoid at all costs. I wish I could give him a 0. A rating of 1 is too much for him.
+
+--- Rating #10 ---
+Class: CMPT361
+Date: 2025-11-11 23:05:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures don't reflect the material on the midterm, which had a mean of 40% and a very flat grade distribution. Also, the midterm was so bad that someone had a panic attack and ran out of the room crying, he didn't specify what was going to be on it and refused to give practice problems. Only take if you want to lower your GPA.
+
+--- Rating #11 ---
+Class: CMPT361
+Date: 2025-10-12 23:29:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I feel like he has improved a lot as i feel like the past ratings didn't really match my experience. During lecture he gave us a lot of space to ask questions and encouraged questions and answered silly questions. he gave a practice midterm and he emphaizes what you NEED to know for exam in lecture. He was also funny sometimes!made me hehehe a few
+
+--- Rating #12 ---
+Class: CMPT361
+Date: 2025-04-08 22:17:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+As usual for this school he is a research professor that does not actually want to teach courses. Zero care was put into explaining any of the concepts if you dont go look for yourself in the book. Zero clue what would be on the exam because he refused to say. Just remove this course or have jason teach it by himself, he is not a good teacher.
+
+--- Rating #13 ---
+Class: CMPT361
+Date: 2025-02-13 02:46:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The reviews are right
+
+--- Rating #14 ---
+Class: CMPT361
+Date: 2025-02-10 01:42:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+WORST PROF EVER! I mean the rating speaks for itself. I don't even know how he got his job at SFU, and it's funny with the amount of dissatisfaction from the student, SFU's still keeping him. It makes me think of my university like a joke!
+
+--- Rating #15 ---
+Class: CMPT361
+Date: 2024-12-27 07:22:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+this guy making associate prof will mark the death of post-secondary education
+what a joke of an instructor
+this guy deserves to stay assistant prof for 20 years
+one of the worst hires SFU has ever done, esp for graphics/vision faculty
+
+--- Rating #16 ---
+Class: CMPT762
+Date: 2024-12-13 03:29:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the most IRRESPONSIBLE instructors I've ever had. Slides and homework are taken from others. Doesn't prepare for lectures at all. At times he just stares at the slides in silence like he has no idea what is on it. Still, he requires attendance. 1/3 of the term was taught by his grad students. Often late to lectures or end early.
+
+--- Rating #17 ---
+Class: CMPT361
+Date: 2024-11-01 17:29:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Very bad prof who teaches the computer vision portion (roughly the first half of the semester) of the course. Midterm had a failing average and he gave us NO practice for it and didn't say any specifics of what would be on it. Overall, not a good experience taking this course so far. Do not recommend.
+
+--- Rating #18 ---
+Class: CMPT361
+Date: 2024-04-23 02:47:55 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is not as bad as everyone says but not good either. His teaching is so different from the exams.
+
+--- Rating #19 ---
+Class: CMPT361
+Date: 2024-04-12 22:22:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+my condolences if you take this course
+
+--- Rating #20 ---
+Class: CMPT361
+Date: 2024-01-11 20:56:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Never seen a worse instructor. Shows zero effort to make things clear for students. Not kind either. You should avoid him at all cause. SFU needs more qualified professors.

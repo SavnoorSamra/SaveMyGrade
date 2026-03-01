@@ -1,0 +1,271 @@
+Professor: Sonja Isberg
+Professor Legacy ID: 2629120
+Professor ID: VGVhY2hlci0yNjI5MTIw
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 5
+Avg Difficulty: 2.2
+Num Ratings: 59
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: STAT305
+Date: 2025-01-07 23:06:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great lecturer! very engaging. The exam questions reflected your effort on the homework. Make sure you do all the homework.
+
+--- Rating #2 ---
+Class: STAT100
+Date: 2024-01-09 00:42:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Sonja is a babe. She gives great concise lectures that are relevant to examinations. She is fun but not too goofy. Just do readings and possibly attend lectures. Mandatory lab quizzes.
+
+--- Rating #3 ---
+Class: STAT285
+Date: 2023-12-20 18:42:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She's a great professor who gave us bonus marks for midterm and final exam to bring the average up. Course requirements practice and there's lots of practice questions
+
+--- Rating #4 ---
+Class: STAT285
+Date: 2023-11-29 03:37:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Sonja is one of the greatest professors I have ever had. She explains things so clearly and gives a concise breakdown of how to approach and solve problems. Fair warning brush up on your calculus and it will be expect of you, and instructs you clearly on this, to go over some conceptual exercises and derivations on your own time.
+
+--- Rating #5 ---
+Class: STAT100
+Date: 2023-08-20 22:17:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Had very clear lecture slides and was fairly accessible outside of class via Canvas discussions. She was very transparent of the solutions that made it easy to follow. It was my second time getting around this class and she made it much easier to understand. I didnt like how the midterms were only out of 17 so each mark would drop your percentage
+
+--- Rating #6 ---
+Class: STAT100
+Date: 2023-08-18 21:57:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Sonja is an amazing prof. she teaches the material so clearly and she knows the areas where students can find difficult. She is very accessible outside of class. Her tests were fair and she made the content easier than it was. I highly suggest taking this class with her if you want a gpa booster.
+
+--- Rating #7 ---
+Class: STAT100
+Date: 2023-08-18 06:58:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Sonja explains concepts thoroughly and her lectures are easy to follow. She also records all lectures and posts annotated slides which is useful for review. Review lecture notes, assignments, labs, and read chapters that are more complex, and you'll really enjoy this course! Truly everything you could ask for in a prof
+
+--- Rating #8 ---
+Class: STAT100
+Date: 2023-08-16 05:44:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Sonja is superb. By far one of the best professors I've encountered in all my post-secondary experience. For reference, I am NOT a "math person" yet, received an A-. Yes, it's fairly easy so long as you just keep up & attend labs (heavily referenced on exams). Well-paced & very clear, Sonja personally takes a lot of care to encourage your success.
+
+--- Rating #9 ---
+Class: STAT100
+Date: 2023-08-10 05:26:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Everything you want in a professor! She records lectures, posts annotated slides, and tells you the topics that will be on the exam. Her lectures follow closely with the textbook. You get a cheatsheet for all the exams, I got 100% on both midterms so far! You also learn A LOT in this class and the material is super interesting.
+
+--- Rating #10 ---
+Class: STAT100
+Date: 2023-08-06 06:49:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great prof! Highly recommend if you're a bus student and wanna get a science cred + learn some basics before bus 232. Exams are super easy - you get a cheat sheet. I literally just study the night before by listening to her lectures in 2x speed and writing up a cheat sheet. Literally highschool stats with the first exam being mean median and mode.
+
+--- Rating #11 ---
+Class: STAT100
+Date: 2023-04-26 20:22:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Sonja is an amazing prof -- she's super caring for her students, explains concepts thoroughly, lectures are easy to follow. Tests are relatively easy, based on materials pulled directly from lectures and labs. Attend all lectures and labs, review lecture notes, and read chapters that are more complex, and you'll breeze through this course!
+
+--- Rating #12 ---
+Class: STAT100
+Date: 2023-04-24 07:02:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+STAT100 was one of the easiest classes I've ever taken. There were bi-weekly assignments which were like 2-5 questions, and they were based directly on the lectures (i.e., the questions were ones Sonja went over in lecture or ones covered in the labs by the TAs). The exams were also so fair. You get a cheat sheet (1 page) and there's no surprises.
+
+--- Rating #13 ---
+Class: STAT305
+Date: 2023-03-11 02:02:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the best profs I ever had. She is very knowledgeable and cares about her students. Her lectures and lecture slides are very clear and easy to understand. Some assignments + 2 midterms + 1 final, Exams were reasonable but you definitely need to study for them and keep up with the course material. Getting an A in this class is not difficult.
+
+--- Rating #14 ---
+Class: STAT270
+Date: 2023-01-25 19:19:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing if you are taking stats 270 take it with her
+
+--- Rating #15 ---
+Class: STAT305
+Date: 2023-01-05 01:56:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the best profs I've ever had. Midterms and final exams had no surprises and we were only tested on things that were taught. I struggled in stat 203 but 305 was by far way easier and Sonja did an excellent job at making sure her lessons were simplified and easy to understand.
+
+--- Rating #16 ---
+Class: STAT270
+Date: 2023-01-05 01:38:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Overall it was awesome. You can study just a week to pass the course.
+
+--- Rating #17 ---
+Class: STAT201
+Date: 2022-12-22 05:58:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Sonja is a great professor, she is very supportive and ready to accommodate students. The material is fairly easy and doesn't require too much review. I only have one complaint, the midterms were out of 13 or 15 marks, and one mistake can make the difference between an A and a B.
+
+--- Rating #18 ---
+Class: STAT270
+Date: 2022-12-21 03:00:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Sonja is an amazing professor. Exams was around the same difficulty as the examples in the lectures. As long as you understand those, you are golden. This class can be difficult, but Sonja made the course material easily understandable.
+
+--- Rating #19 ---
+Class: STAT305
+Date: 2022-12-17 06:06:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+sonja is the best prof ive had in my entire undergrad. she is so thoughtful and an amazing lecturer. she only tests you on things she has taught in class, there is no surprises. to better prep for exams, do the assignments and quizzes again and you will be set because they are so similar.
+
+--- Rating #20 ---
+Class: STAT305
+Date: 2022-12-17 01:15:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Wonderful professor. Haven't had a professor I was this pleased to be a student. Carefully review the quizzes, and prepare the cheat sheet and you will be spot on. She provides the lecture code with lots of detail so that assignments are very easy and she is very accessible for extra help. Thanks Sonja! :)

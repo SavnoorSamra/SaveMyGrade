@@ -1,0 +1,24 @@
+Professor: Richard Parent
+Professor Legacy ID: 2270708
+Professor ID: VGVhY2hlci0yMjcwNzA4
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 1
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: CRIM7124
+Date: 2019-03-12 23:15:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lecture and textbook heavy. Would state many concepts that would be on the test but weren't. Rather, would go into specifics of statistics. Avoid him

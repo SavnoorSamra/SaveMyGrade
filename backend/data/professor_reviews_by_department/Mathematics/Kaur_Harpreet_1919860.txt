@@ -1,0 +1,115 @@
+Professor: Harpreet Kaur
+Professor Legacy ID: 1919860
+Professor ID: VGVhY2hlci0xOTE5ODYw
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4.4
+Avg Difficulty: 2.6
+Num Ratings: 8
+Would Take Again Percent: 100
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: MATH0005
+Date: 2023-01-25 22:55:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Harpreet has an unmatched energy during her lectures. Her lectures are very clear. She is caring and always answer any questions with a smile, often jokes around. She is a fair marker and gives partial marks if problem solving process is correct. She is one of my favorite professors!
+
+--- Rating #2 ---
+Class: EDUC212
+Date: 2018-04-12 18:06:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great teacher, very genuine and kind. Very knowledgeable on math, and is willing to take the time to teach math concepts in different styles. It would be nice if she returned assignments quicker.
+
+--- Rating #3 ---
+Class: MATH0005
+Date: 2018-04-12 18:05:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She is a decent teacher, awesome marker but i wish she explained the theory behind the material better.
+
+--- Rating #4 ---
+Class: EDUC212
+Date: 2018-02-25 07:15:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Harpreet is currently teaching in BCIT. I would say overall her teaching is great. She always be prepared, and she teaches useful skills to solve problems. She never refuses to answer questions, and she gives practice tests and solutions prior the real ones take place. By the way, she is a charming instructor.
+
+--- Rating #5 ---
+Class: EDUC212
+Date: 2016-10-12 15:59:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I like her way of approaching different problems.  She makes math so much easier.
+
+--- Rating #6 ---
+Class: EDUC212
+Date: 2016-10-12 03:19:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Awesome
+
+--- Rating #7 ---
+Class: EDUC212
+Date: 2016-10-12 00:29:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She is a great instructor. She is really good at mathematics. She made math much easier for me. I would certainly take her class for any future math courses.
+
+--- Rating #8 ---
+Class: EDUC212
+Date: 2015-05-08 18:53:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Unfortunately, Harpreet's teaching skills were lacking as she is a brand new instructor. Often glances quickly over math steps and leaves it up to students to figure out how she got from A to Z. Harpreet also was not at her scheduled office hours on 3 separate occasions. This class however was an easy A, but I mostly taught myself the material.

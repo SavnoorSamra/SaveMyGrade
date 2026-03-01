@@ -1,0 +1,128 @@
+Professor: Amir Amintabar
+Professor Legacy ID: 2557153
+Professor ID: VGVhY2hlci0yNTU3MTUz
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.6
+Avg Difficulty: 3.7
+Num Ratings: 9
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: BUS464
+Date: 2024-09-18 16:17:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+I don't think he knows C from COBOL.  This guy clearly doesn't like to teach and doesn't care about his students.
+
+--- Rating #2 ---
+Class: BUS464
+Date: 2024-08-24 20:05:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Not a good instructor at all.
+
+--- Rating #3 ---
+Class: BUS464
+Date: 2024-08-08 23:48:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amir is an exceptional professor who deeply cares about his students. He brings energy and humor to class while thoroughly covering the material. Attending lectures is crucial, especially if you're new to coding, as each session builds on the last. Falling behind makes catching up challenging, so stay engaged and present.
+
+--- Rating #4 ---
+Class: BUS362
+Date: 2023-07-29 18:39:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Amir is obstinate and does not give good guidance.  He is very difficult to work with and does not seem to know how to teach (perhaps he just doesn't know the program material).   Does not get back to you in a timely manner.
+
+--- Rating #5 ---
+Class: BUS464
+Date: 2021-05-14 21:19:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Solid choice. Course content was helpful to get introduced to mysql. Assignments and homework connected directly to the course content and provided hands on experience. Classes were interesting and interactive. Exams weren't too hard but challenging. Would recommend him for the course.
+
+--- Rating #6 ---
+Class: BUS464
+Date: 2020-11-24 21:52:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Took course in summer 2020, absolute joy to work with and is very engaging. Easier if you have some programming experience, but course is manageable for non-experienced. Be ready to be creative with your SQL queries, some fairly hard questions, and w3schools will be your best friend.
+
+--- Rating #7 ---
+Class: BUS464
+Date: 2020-08-28 12:56:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Didnt know SQL til I took 464 with him. Learned a ton, and classes were very engaging and fun. Hes so funny, you wont expect that his exams would be tough haha, so be prepared! But if you study hard, practice lots, answer bonus questions and ask him questions when lost, youll be just fine. He tries his best to motivate students, a real gem!
+
+--- Rating #8 ---
+Class: BUS464
+Date: 2020-07-09 08:15:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Amir is a good instructor. Hes worked for Microsoft and google for many years and has a ton of work experience. Thanks to him Ive gained a lot of experience that I can transfer in the MIS field. Hard exams, make sure you prepare. Total jokester too, quite personable.
+
+--- Rating #9 ---
+Class: BUS362
+Date: 2020-06-21 01:47:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Amir is very knowledgable and has a genuine care for his students. His exams are quite difficult so be prepared. Make sure to participate because he will call on you randomly or give out bonus marks for participation. Quirky and likes to joke around. Solid choice.

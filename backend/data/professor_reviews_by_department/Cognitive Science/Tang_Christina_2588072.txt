@@ -1,0 +1,24 @@
+Professor: Christina Tang
+Professor Legacy ID: 2588072
+Professor ID: VGVhY2hlci0yNTg4MDcy
+Department (CSV): Cognitive Science
+Department (Fetched): Cognitive Science
+Avg Rating: 1
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: COGS100
+Date: 2020-04-22 17:27:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+When I went to her office hours, she deferred all of my questions to the prof. Intentionally override the sum of a rubric to prevent me from getting 100%, I appealed and got my 100%. The next essay she gave me 78%, this essay was worth 30% of my grade.

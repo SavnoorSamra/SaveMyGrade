@@ -1,0 +1,76 @@
+Professor: Elic Chan
+Professor Legacy ID: 1560730
+Professor ID: VGVhY2hlci0xNTYwNzMw
+Department (CSV): Sociology
+Department (Fetched): Sociology
+Avg Rating: 4.5
+Avg Difficulty: 3
+Num Ratings: 5
+Would Take Again Percent: -1
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: SOCI1120
+Date: 2015-11-27 23:59:22 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Took Elic's class at Langara, he is a good prof - knows his stuff! Class was big, so not much one on one interaction. He explains things clearly and gives decent feedback on tests and papers. Use office hours for one on one time. Don't slack off on the readings like I did, get em done!
+
+--- Rating #2 ---
+Class: 1120SOCIOLOGY
+Date: 2014-12-18 15:07:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I took this class as an elective never previously having taken a Sociology class. The professor was clear and very engaging with the lectures, made it easy to understand. He is very helpful and will provide with all the necessary tools to get a good mark.
+
+--- Rating #3 ---
+Class: SA322
+Date: 2013-04-11 02:15:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He was such a great professor. Very organized and his lectures were crystal clear. Assignments were interesting.
+
+--- Rating #4 ---
+Class: SOCIO210
+Date: 2012-03-10 01:49:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is really really nice and helpful. His lecture is funny and clear.
+
+--- Rating #5 ---
+Class: SA322
+Date: 2011-04-11 13:40:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He's awesome! Really great at lecturing. Four hours class with him is bearable and interesting. He really prepared well for his lectures each week and he's genuinely interested in teaching about the topic. Definitely cares about his students and as we were required to book an appointment with him to talk about our proposal.

@@ -1,0 +1,195 @@
+Professor: Scott Harrison
+Professor Legacy ID: 2129553
+Professor ID: VGVhY2hlci0yMTI5NTUz
+Department (CSV): Environmental Resources
+Department (Fetched): Environmental Resources
+Avg Rating: 4.7
+Avg Difficulty: 3.1
+Num Ratings: 14
+Would Take Again Percent: 100
+
+Ratings Count Returned: 14
+
+--- Rating #1 ---
+Class: REM375
+Date: 2026-02-09 00:36:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He'll tell you exactly what's on the exam
+
+--- Rating #2 ---
+Class: REM375
+Date: 2026-02-09 00:35:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+LOVE SCOTT!! He's such an awesome prof and makes lecture so amazing. The content is interesting and he's quite chill. TAKE A CLASS WITH HIM YOU'LL LOVE IT
+
+--- Rating #3 ---
+Class: REM202
+Date: 2026-01-14 07:48:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The most inspiring prof I've ever had. Even for REM 202 W, though it is difficult at times, I was motivated to become a better writer thanks to Scott. I recommend lots of repetition for getting through 202 and talking to Scott about any questions you have!  Very friendly and caring guy.
+
+--- Rating #4 ---
+Class: REM388
+Date: 2025-12-17 22:46:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+REM 388 was a interesting and fun class with him
+
+--- Rating #5 ---
+Class: REM202
+Date: 2025-11-20 21:36:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best prof I've had, works very hard to support learning. Always willing to meet outside of class to help. Goes above and beyond.
+
+--- Rating #6 ---
+Class: REM388
+Date: 2025-11-18 03:10:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Took this class as an upper division elective and Scott is awesome. Lectures are interesting and enjoyable. Very funny humor. To succeed in this course, you MUST go to lectures as slides contain pictures, so you need to take notes on what he says. Lectures are very easy to follow though. He also tells great stories about his field work. Cougars.
+
+--- Rating #7 ---
+Class: REM202
+Date: 2025-04-06 20:28:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good man, but too difficult. Expectation too high.
+
+--- Rating #8 ---
+Class: REM202
+Date: 2024-12-04 01:49:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+ABSOULELY HATED 202W !!! but love scott shout out!! 202w destroyed my understanding of the english language. summary: class content is a bit confusing, lecture slides and handouts have so many colours it's hard to read, prof is amazing tho, glad to be out of this hellscape! one &#8216;paper', multiple assignments including in class writes
+
+--- Rating #9 ---
+Class: REM388
+Date: 2024-09-25 00:20:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+rem 202W with Scott was a NIGHTMARE but he made up for it by being awesome in 375 and 388 and 311. If you can scrape and grind and cry through 202w you will love him in other classes.
+
+--- Rating #10 ---
+Class: REM375
+Date: 2024-03-04 22:01:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very passionate about what he teaches, approachable outside of class, caring and determined to help you learn/understand concepts
+
+--- Rating #11 ---
+Class: REM375
+Date: 2023-12-09 19:42:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+He is such a nice caring guy who really just wants you to LEARN. I totally reccomend REM 100, didnt even like this topic to start but its just AWESOME. Scott makes this awesome. Such a good knowledgeable course
+
+--- Rating #12 ---
+Class: REM388
+Date: 2023-06-20 16:41:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+His lectures are insightful, relevant and informative and he has a sense of dry humor that I appreciate. However: This course was a condensed online offering and there was a lot of lecture material to chew through. Made studying hard because there was no practice problems and you could only do labour-intensive review to prepare for finals
+
+--- Rating #13 ---
+Class: REM375
+Date: 2023-04-17 20:38:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Scott was a great prof. Very engaging lectures, funny, and a genuine passion for REM. Attendance was required for tutorials, and there was a group project/presentation. Exams were fair, but very little time was given.
+
+Course: REM 100
+
+--- Rating #14 ---
+Class: REM375
+Date: 2020-10-26 22:45:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Scott is my favorite professor. No one to date has kept me as engaged in lectures and inspired to pursue my career and academic goals as he. Funny, insightful and full of great stories from his experiences in ecology research.

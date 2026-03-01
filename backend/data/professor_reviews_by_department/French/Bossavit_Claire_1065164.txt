@@ -1,0 +1,271 @@
+Professor: Claire Bossavit
+Professor Legacy ID: 1065164
+Professor ID: VGVhY2hlci0xMDY1MTY0
+Department (CSV): French
+Department (Fetched): French
+Avg Rating: 3.9
+Avg Difficulty: 2.8
+Num Ratings: 25
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: FREN202
+Date: 2026-01-06 21:31:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very caring prof, she goes out of her way for her students. She is very helpful and gives good feedback on online modules. Participation is mandatory but also helpful for oral communication skills. She is a very tough grader for in person written exams. I would 100% take her class again, one of the most helpful french profs.
+
+--- Rating #2 ---
+Class: FREN202
+Date: 2024-12-15 18:29:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Claire Bossavit is an amazing prof. She's really nice, speaks clearly and is pretty easy to understand (which matters a lot for a French course conducted in French), and also the course is pretty easy. A lot of the marks are just participation, and the rest is mainly tests which are easy if you've done the online homework. Highly recommend her
+
+--- Rating #3 ---
+Class: FREN211
+Date: 2022-03-21 20:56:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Claire takes time to genuinely give feedback on your homework, however participation and paying attention in class will haunt you as she picks on individuals to speak up during lecture. She cares about how students do and provides really helpful insight when asked.
+
+--- Rating #4 ---
+Class: FREN211
+Date: 2022-01-06 01:28:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Claire is a good prof and she makes her classes engaging with lots of interaction and interactive activities. You definitely have to go to class and do the online modules before and after class but if you do them and apply her feedback it's not hard to do decently in the course.
+
+--- Rating #5 ---
+Class: FRE210
+Date: 2021-10-30 03:22:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I think Professor Bossavit is amazing! Though she may be a little tough with marking at times, her feedback is very helpful and she seems to really care about her students. She is always more than happy to help you if you are confused about a topic. I enjoyed her lectures and she was very forgiving with the grammar tests allowing us 5 chances.
+
+--- Rating #6 ---
+Class: FRE210
+Date: 2021-10-18 04:07:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She's a great prof who really wants her students to learn French and helps in any way possible to make sure they succeed.
+
+--- Rating #7 ---
+Class: FREN211
+Date: 2021-01-12 23:43:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Had her for 2 classes online, the modules were super clear, easy to follow. I had no idea how good I had it last semester, I didn't have to go searching around for what was due this week, just had to look at the module and it included everything. About her lectures, it's easy to participate, and she's not the most interesting person but was chill.
+
+--- Rating #8 ---
+Class: FREN221
+Date: 2021-01-03 05:04:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Claire is a good prof, especially for this course. I took this course as a high school french immersion student and found it similar to what I had previously learned, however it is grammar so it's not super easy. Tests were fair but she is picky when marking write ups (compositions, paragraphs). Grammar sessions are a huge help!! Overall solid!
+
+--- Rating #9 ---
+Class: FREN210
+Date: 2020-11-22 01:22:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+I have been with Claire for my two French classes and I definitely love her. She is really helpful and is always there for help. She is a tough grader though. But, if you prof read your essays and practice listening, you will be good to go.
+
+--- Rating #10 ---
+Class: FREN210
+Date: 2018-12-22 01:30:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Claire is an amazing professor! If you want to learn French, she is the right prof. Each class was extraordinary and informative. She created very interesting assignments and I am sure that Claire spent a lot of time to prepare course materials.
+
+--- Rating #11 ---
+Class: FREN211
+Date: 2016-12-09 18:34:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Claire is an amazing person and professor, but she is a tough marker. BRUSH UP ON YOUR ECOUTE BEFORE TAKING A CLASS WITH HER. half an exam is solely ecoute.
+
+--- Rating #12 ---
+Class: 215
+Date: 2015-06-29 17:24:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Claire is a caring, kind teacher who is there for her students..
+
+--- Rating #13 ---
+Class: FREN211
+Date: 2014-10-30 01:27:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Very clear teaching style, very nice instructor. Would recommend!
+
+--- Rating #14 ---
+Class: FRE210
+Date: 2013-11-11 18:59:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Came from highschool, was in for a shock when I realized her class was ENTIRELY in French! Super nice, very patient - sometimes she has to repeat things multiple times or in different ways for me to understand. Our class is pretty informal - she lets us have fun and be creative. Quizzes - straightforward and boost mark. Exams are manageable.
+
+--- Rating #15 ---
+Class: FREN210
+Date: 2012-06-12 06:09:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Good prof, a little bit dull at times, but a nice lady nonetheless. She teaches her material very clearly, and is always ready to clarify and make corrections. Solid course!
+
+--- Rating #16 ---
+Class: FR215
+Date: 2011-11-28 05:19:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Easy, friendly, helpful... what's not to like&#63;  Enjoyed the class very much.
+
+--- Rating #17 ---
+Class: FRENXXX
+Date: 2011-05-02 04:13:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Blah. That is all I have to say. She is the most unhelpful person EVER. Does not seem to give crap about her students.
+
+--- Rating #18 ---
+Class: FREN210
+Date: 2010-12-28 04:32:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Ya... don't take a class with her. She's dismissive; you ask her a question and she'll tell you, &quot;Did you read the book&#63; Because if you did, you'd understand it.&quot;
+
+--- Rating #19 ---
+Class: FREN210
+Date: 2009-11-26 05:19:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She's ok. I didn't find her to be terribly warm or gregarious - something I think is needed in a conversationally based class to kick things off. I missed having a cultural context to the class and the main book is expensive & useless, her WebCT notes are better at explaining concepts. Her tests, marking, etc are extremely fair no complaints there.
+
+--- Rating #20 ---
+Class: FREN121
+Date: 2009-03-31 18:24:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She is a great teacher. She is sooooo beautiful. I fell in love with her eyes:)

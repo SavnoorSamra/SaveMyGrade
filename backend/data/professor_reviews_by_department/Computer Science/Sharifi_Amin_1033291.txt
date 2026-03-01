@@ -1,0 +1,89 @@
+Professor: Amin Sharifi
+Professor Legacy ID: 1033291
+Professor ID: VGVhY2hlci0xMDMzMjkx
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.3
+Avg Difficulty: 3
+Num Ratings: 6
+Would Take Again Percent: -1
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: CMPT125
+Date: 2008-02-04 16:59:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He is a really good prof who you will feel helpful to learn from. His assignments and tutorial questions are really helpful. If you know how to do those two things you will at least get a B grade for sure. Furthermore, his lecture is closely related to his exams.
+
+--- Rating #2 ---
+Class: CMPT125
+Date: 2008-01-09 01:53:05 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+...see I noticed he kept giving away bonuses etc..I was worried if it's &quot;too easy&quot; to get high marks an A+ may end up being set really high.....he said &quot;ur email was useful&quot; but in the end guess what..my fear was realized and A+ WAS SET AT 100%....I had 99!! Anyway hes pretty bad, unclear, goes offtrack, brags abt how fast he wrote a prog..horrible
+
+--- Rating #3 ---
+Class: CMPT125
+Date: 2007-12-14 18:56:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Amin's teaching was horrible the first few weeks but later he did improve. The assignments were difficult but it just needed ALOT of time to do like all cmpt courses. If ppl took the time to visit his office hours, he offered great advice and insight on ur code. If the assignments were easy, every1 would be getting 100%  The midterm/final were EASY
+
+--- Rating #4 ---
+Class: CMPT125
+Date: 2007-12-03 19:56:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+forces students to go to class by deciding to have a pop quiz half way through the semester, and teaches material that is not on the course page nor textbook.  Nobody attends his class for a reason.
+
+--- Rating #5 ---
+Class: CMPT125
+Date: 2007-11-29 05:09:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+His classes are totally useless, less than half the class attend his lectures regularly.  I, along with many other people used our textbook as the only reference to do the assignments and study.  The times that i've attended his lecture, he seemed to be afraid or unsure of what he was teaching and alot of the time he teaches useless stuff.
+
+--- Rating #6 ---
+Class: CMPT125
+Date: 2007-09-29 02:48:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Amin does not have the ability to teach. He is extremely nervous, and unsure. He always asks the class how he should teach. We are 3 weeks into the course and he has not really taught us anything at all. All his instructions are extremely confusing. I am very disappointed in the computing science department at SFU for such low teaching standards.

@@ -1,0 +1,24 @@
+Professor: Kristen Matheson
+Professor Legacy ID: 2657632
+Professor ID: VGVhY2hlci0yNjU3NjMy
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BUS200
+Date: 2021-01-12 02:49:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Solid prof. Very helpful and kind.

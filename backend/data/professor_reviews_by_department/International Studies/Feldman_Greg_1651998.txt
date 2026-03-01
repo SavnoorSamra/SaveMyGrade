@@ -1,0 +1,76 @@
+Professor: Greg Feldman
+Professor Legacy ID: 1651998
+Professor ID: VGVhY2hlci0xNjUxOTk4
+Department (CSV): International Studies
+Department (Fetched): International Studies
+Avg Rating: 3.4
+Avg Difficulty: 3.8
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: IS329
+Date: 2018-03-10 15:06:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I took several classes with him. Really interesting, expands your consideration of IS topics. Sometimes the subjects are too theoretical and hard to put into practice aside from helping you conceptualize issues. Really great with students, most of liked him when I had him! Great anecdotes. Could use more practical/&quot;real-life&quot; application in cours
+
+--- Rating #2 ---
+Class: IS101
+Date: 2017-01-10 11:36:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Greg is an amazing professor. Looks like John Lennon. Although his lectures consist of him just talking (no PowerPoints), he teaches the material so eloquently that it's easy to understand. Lots of readings. Very caring and accessible outside of class. One of those eye-opening professors; very hilarious. Loves the Rolling Stones.
+
+--- Rating #3 ---
+Class: IS110
+Date: 2015-10-23 01:24:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+He is clearly an extremely smart and knowledgeable person, but his lectures are horrible. He's extremely unclear, and this is something that a lot of us have noticed. The readings are long and boring, and it's hard to figure out what the point of the entire lecture was. This makes it impossible to study for exams.
+
+--- Rating #4 ---
+Class: IS329
+Date: 2012-01-12 00:04:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+One of the most interesting professors I have had. Don't let his appearance fool you. Be prepared for discussion as the majority of the class is seminar. Highly intellectual and humorous. Take a class with this guy!
+
+--- Rating #5 ---
+Class: IS329
+Date: 2011-11-24 22:21:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Be prepared to participate in class conversation. He's great at giving you the context of the readings in class. He's not interested in just giving you answers and will push you to figure it out yourself. Defintely worth taking his class just know that he'll make you work for your grade. No final just term paper.

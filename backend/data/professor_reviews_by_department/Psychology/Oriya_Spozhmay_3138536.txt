@@ -1,0 +1,11 @@
+Professor: Spozhmay  Oriya
+Professor Legacy ID: 3138536
+Professor ID: VGVhY2hlci0zMTM4NTM2
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

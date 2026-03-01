@@ -1,0 +1,37 @@
+Professor: Ewa Ciesielska
+Professor Legacy ID: 1687023
+Professor ID: VGVhY2hlci0xNjg3MDIz
+Department (CSV): Linguistics
+Department (Fetched): Linguistics
+Avg Rating: 4.3
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: GERM102
+Date: 2012-05-12 20:04:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Super Lehrerin
+
+--- Rating #2 ---
+Class: GERM102
+Date: 2012-03-21 03:22:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great teacher!

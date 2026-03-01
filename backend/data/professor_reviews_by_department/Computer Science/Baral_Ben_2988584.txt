@@ -1,0 +1,65 @@
+Professor: Ben Baral
+Professor Legacy ID: 2988584
+Professor ID: VGVhY2hlci0yOTg4NTg0
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.5
+Avg Difficulty: 3
+Num Ratings: 4
+Would Take Again Percent: 75
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: CMPT307
+Date: 2024-06-13 16:47:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great person, really helpful and easy to reach anytime
+
+--- Rating #2 ---
+Class: CMPT307
+Date: 2024-05-01 21:29:55 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ben is passionate about what he teaches. His explanations during lectures can be hard to follow, you will have to watch YouTube videos. The course closely follows slides provided by Brad Bart, another prof at SFU. Ben is very approachable for office hours and even post-lecture. Asking Ben questions will help you a lot. Poorly organized final exam.
+
+--- Rating #3 ---
+Class: CMPT307
+Date: 2024-04-01 16:33:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He loves what he teaches and has a genuine passion to teach. He tries his best to ensure everyone gets the content. Will make extra effort in the office hrs to make you understand everything. He enjoys algorithms and will make you enjoy learning them too. Very caring and kind. Puts a lot of effort to make the class interesting.
+
+--- Rating #4 ---
+Class: CMPT307
+Date: 2024-02-26 07:54:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This was his first time teaching his own class, and while he did have some trouble at the beginning of the year due to his inexperience, he has gotten a lot better at teaching.
+He cares very much about the class and tries his best to make sure we understand the content
+His assignments are also very fair, and correspond with what was taught in class

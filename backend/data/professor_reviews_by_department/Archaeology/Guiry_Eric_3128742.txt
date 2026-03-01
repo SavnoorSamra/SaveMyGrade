@@ -1,0 +1,25 @@
+Professor: Eric Guiry
+Professor Legacy ID: 3128742
+Professor ID: VGVhY2hlci0zMTI4NzQy
+Department (CSV): Archaeology
+Department (Fetched): Archaeology
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: ARCH101
+Date: 2025-12-11 21:45:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Eric was awesome, he always gave you every opportunity to succeed, made things accessible, and was very clear and knowledgeable, was always willing to chat when he was in his office. Put in the work and you'll do well.
+P.S. you gotta love the suspenders.

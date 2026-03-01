@@ -1,0 +1,167 @@
+Professor: Cary Tsai
+Professor Legacy ID: 882746
+Professor ID: VGVhY2hlci04ODI3NDY=
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 3.4
+Avg Difficulty: 3.5
+Num Ratings: 12
+Would Take Again Percent: 42.8571
+
+Ratings Count Returned: 12
+
+--- Rating #1 ---
+Class: RISK321
+Date: 2026-01-03 23:29:31 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He just reads the notes for lectures, which are just extracts of the textbook copied verbatim, but without context. Filled notes & tutorial solutions are not posted, forcing attendance to see the answers. The midterm was a huge difficulty spike, but the final was fair. Make sure you can do all tutorial & assignment problems that are doable by hand.
+
+--- Rating #2 ---
+Class: RISK321
+Date: 2025-12-19 19:23:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Worst class I've ever taken. Professor Tsai would read/copy everything straight from the textbook and oftentimes was confused about his own notes. It can be difficult to follow lectures as he goes over everything very fast and it can be hard to read his handwriting. The content wasn't too bad, but the way it was explained made it 10x more confusing
+
+--- Rating #3 ---
+Class: ACMAMANY
+Date: 2025-12-07 07:52:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Prof. Tsai genuinely cares about his students and truly wants to see them succeed. He goes offers great advice on co-ops and career decisions. He is approachable, patient, and always willing to help.
+
+--- Rating #4 ---
+Class: ACMA301
+Date: 2025-11-28 00:45:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is very hard to understand and his notes are awful! Notes are literally  copied word to word from text book and he just read  from that!
+
+--- Rating #5 ---
+Class: ACMAMANY
+Date: 2025-11-16 21:21:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This professor is hard to understand based off the way he teaches. He reads off the notes with very little explanation. His exams are very difficult.
+
+--- Rating #6 ---
+Class: ACMA301
+Date: 2023-02-10 18:12:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor Tsai is one of the most caring professors I have ever met at SFU. He genuinely cares about his students and is willing to help them if they have any difficulties. He tests you on what he teaches, so there are no surprises on his exams.
+
+--- Rating #7 ---
+Class: ACMA301
+Date: 2022-12-25 03:04:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His notes are mostly proofs. they help a bit. Focus on understanding his assignments & practice tests. He's very fair & available to help if you're stuck. There's no surprises on tests if you've been studying the homework. He actually cares a lot & is very understanding. When students had problems he would always listen and try to accommodate us.
+
+--- Rating #8 ---
+Class: ACMA315
+Date: 2013-04-16 15:38:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Very helpful prof, knows his stuff well.
+
+--- Rating #9 ---
+Class: ACMAMANY
+Date: 2008-12-03 17:29:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Good prof, all his material is very technical, so learning to understand and deriving formulas helps. Beware of accent, sometimes hard to comprehend :P
+
+--- Rating #10 ---
+Class: ACMA315
+Date: 2008-08-03 03:02:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Pretty straight forward.  To learn the material, you should rederive the formulas yourself until you understand them.  For exams, study his examples well.  He will not use any tricks.
+
+--- Rating #11 ---
+Class: ACMA315
+Date: 2006-12-12 16:52:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very nice man, and helpful lecture
+
+--- Rating #12 ---
+Class: ACMA315
+Date: 2006-08-28 02:50:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Good

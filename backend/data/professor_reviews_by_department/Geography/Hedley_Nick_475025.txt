@@ -1,0 +1,271 @@
+Professor: Nick Hedley
+Professor Legacy ID: 475025
+Professor ID: VGVhY2hlci00NzUwMjU=
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 3.1
+Avg Difficulty: 3.7
+Num Ratings: 65
+Would Take Again Percent: 56
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: GEOG255GIS
+Date: 2026-02-25 08:44:06 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+. I wouldn't recommend this course to anyone. for an intro course, it exceedingly difficult to follow, and the prof didnt structure properly.
+
+--- Rating #2 ---
+Class: GEOG356
+Date: 2025-12-03 02:05:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Lectures were somewhat disorganized at times, however they were still very interesting. Labs were very easy, with lots of bonus marks available. Overall good prof, but could be a bit more organized.
+
+--- Rating #3 ---
+Class: GEOG255
+Date: 2025-12-01 20:42:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Very interting class and professor, its quite hand holdy at first so if you ask for help and follow along you should be fine. The exams are very fair but diffrnet from what i was used to because tehre were lots of pictures and visual. But it was a very interesting and cool class i would recommend if you wnat to try something new and that isnt hard.
+
+--- Rating #4 ---
+Class: GEOG255
+Date: 2025-10-27 03:09:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Avoid if you can. Very dry lectures, assignment instructions are very unclear, and grading scheme is non existent. Overall very disorganized and you basically have to teach yourself the technical stuff in labs - very little support or guidance from TA.
+
+--- Rating #5 ---
+Class: GEOG356
+Date: 2025-10-22 07:03:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Nick is an amazing professor! His lectures are extremely engaging and his labs are very straightforward and easily marked, I took this class as an elective and it is not only a grade booster but makes me want to minor in GIS. There is no final exam, he does a semester long take home exam with simple definitions and an end of term project. 10/10
+
+--- Rating #6 ---
+Class: GEOG255
+Date: 2025-09-22 17:58:38 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+disorganized and frequently behind
+
+--- Rating #7 ---
+Class: GEOG356
+Date: 2022-04-27 00:18:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Probably the most passionate prof I've seen about class material, very engaging in lectures and makes Game of Thrones references a lot. Main cons are that material is sometimes unorganised because he goes on work trips during semester etc., and gives a lot of assignments compared to 255, which each take a lot of time.
+
+--- Rating #8 ---
+Class: GEOG255
+Date: 2022-04-12 00:46:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+If this class is not necessary for you to take, I recommend avoiding it at all costs. Nick is a nice person who is very passionate about the material but his disorganization and lack of communication ruins the course experience completely. Assignment criteria is very unclear, and anything NOT graded by the TA will take forever to be graded.
+
+--- Rating #9 ---
+Class: GEOG255
+Date: 2022-03-19 02:53:38 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I found his lectures incredibly difficult to follow. He moved quite quickly with little explanation and did not provide the basic understanding before moving onto harder topics. The criteria sheet for the assignments are all over the place and is not well laid out. It took over 6 weeks for 50% of the class to receive their midterm grades.
+
+--- Rating #10 ---
+Class: GEOG255
+Date: 2021-12-08 22:45:48 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Nick is a great guy, but his disorganization is what ruins his classes for me. Due dates on canvas don't match with the syllabus almost ever. Canvas modules is always a mess and videos aren't named in the same format.
+
+--- Rating #11 ---
+Class: GEOG457
+Date: 2021-04-26 21:16:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Pros: Nice guy, Very knowledgeable, doesn't make you feel bad about asking questions. Inspiring lectures. Cons: Grading feedback takes longer than usual. Sometimes unclear grading criteria. Note: Tests underline major themes of the course. Projects are extremely time consuming if you don't know what you're doing. Ask for help if you want an A.
+
+--- Rating #12 ---
+Class: GEOG255GIS
+Date: 2020-11-26 00:38:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+His lectures are a bit abstract heavy sometimes, but overall interesting enough to listen to and explains things well. He is slow with uploading documents and lectures online and marking. He lets the TA take care of the labs entirely. The TA Roya was very difficult to understand and did not explain assignments or projects well.
+
+--- Rating #13 ---
+Class: GEOG255
+Date: 2020-05-23 02:06:35 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Nice and interesting guy. Lectures weren't always on topic and he often spoke about his own projects, which was interesting at times but not after the 2nd or 3rd time. As a prof he was fine, my issue is just with the course design.
+
+--- Rating #14 ---
+Class: GEOG255
+Date: 2020-05-07 23:07:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great prof! while he wasn't really responsible for the marking, that was all on the TA. Very engaging and captures your attention with the lectures and plenty of real world examples. He does talk a lot about his own work but that didn't really bug me. Overall great prof really enjoyed the course.
+
+--- Rating #15 ---
+Class: GEOG356
+Date: 2020-02-11 21:02:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+dry lecture, ambiguous guildline of assignment. unclear grading criteria.
+
+--- Rating #16 ---
+Class: GEOG255
+Date: 2019-12-07 11:18:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Nice and funny guy. Passionate about his course. Doesn't use Canvas so you have to search your email every time for lec notes. Sometimes he doesn't even send lec notes. He tests literally every slide in his lectures and be prepared to write in font size 6 cuz he gives no space. And I've only received 1 response from the 4 questions I emailed him.
+
+--- Rating #17 ---
+Class: GEOG255
+Date: 2019-12-05 01:15:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+nick is a super nice person who genuinely cares about his students, prepare to work hard, but the work was worth it. you leave his class feeling like you really learned and can apply what he is teaching in future courses or even jobs. the only annoying thing is that he doesn't use canvas, so you have to sift through your email for everything
+
+--- Rating #18 ---
+Class: GEOG255
+Date: 2019-12-04 06:23:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Nick is a nice guy, but his lectures are very dry. He always starts a few minutes early, gives no break (2hr lecture) and then goes a few minutes past the end every week. He is also very disorganized. He doesn't use Canvas, and he often forgets to send out lecture notes after class. The labs are a HUGE headache too. Would not recommend this class.
+
+--- Rating #19 ---
+Class: GEOG255
+Date: 2019-03-25 17:13:48 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Nick is a good guy but his midterm was extremely hard. There is a textbook for the course but just rely on the lecture slides. The labs were pretty intense as well, had to work on projects outside of lab time in the computer lab because it was sort of hard. He made the final a little bit easier. And the final project will take forever to complete
+
+--- Rating #20 ---
+Class: GEOG255
+Date: 2018-12-20 06:07:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Geog 255 with Nick was one of the most difficult courses I've taken at SFU, but now that it's done, I genuinely feel like I understand ArcGIS as a tool. Labs are difficult and time-consuming, but with help from the TA, it was manageable. Overall, very happy with the outcome and I will definitely be using the information again in the future.

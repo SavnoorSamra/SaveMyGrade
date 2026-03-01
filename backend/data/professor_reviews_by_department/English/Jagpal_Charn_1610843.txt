@@ -1,0 +1,24 @@
+Professor: Charn Jagpal
+Professor Legacy ID: 1610843
+Professor ID: VGVhY2hlci0xNjEwODQz
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 5
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: ENGL492W
+Date: 2011-08-21 01:15:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Awesome Prof!! The reading material was fascinating, the discussion was thought-provoking and the lectures were informative. Oh, and she gives great feedback on papers and assignments. If you ever get a chance, I highly recommend taking her class.

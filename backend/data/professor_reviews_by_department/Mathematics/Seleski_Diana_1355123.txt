@@ -1,0 +1,24 @@
+Professor: Diana Seleski
+Professor Legacy ID: 1355123
+Professor ID: VGVhY2hlci0xMzU1MTIz
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 5
+Avg Difficulty: 1
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: MAT0022
+Date: 2015-05-08 10:52:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Prof. Seleski was wonderful!! She makes it very clear what needs to be done to pass the class. She gives homework (not alot), but its more to help you understand the material. Tests arent even as hard as the homework. Gives lots of opportunitys for extra credit. Its a fast paced class, be ready and expect to move quickly!

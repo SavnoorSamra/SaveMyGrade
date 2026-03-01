@@ -1,0 +1,128 @@
+Professor: Madeline Knickerbocker
+Professor Legacy ID: 2397484
+Professor ID: VGVhY2hlci0yMzk3NDg0
+Department (CSV): History
+Department (Fetched): History
+Avg Rating: 3
+Avg Difficulty: 3.6
+Num Ratings: 9
+Would Take Again Percent: 44.4444
+
+Ratings Count Returned: 9
+
+--- Rating #1 ---
+Class: FNST201
+Date: 2020-04-21 22:55:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Maddie is a real gem of a prof. She is caring and so respectful that STUDENT'S HAVE LIVES OUTSIDE OF CLASS! She does give a lot of work and there are readings to do, but honestly, it's not that bad because of how awesome she is. I learned so much in class and 100% recommend her if you want a strict but fun prof.
+
+--- Rating #2 ---
+Class: FNST201W
+Date: 2020-03-05 19:54:21 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+the course is writing-intensive (expected with a W course) and she gives some useful feedback. however, she can be very condescending in class and in her feedback. takes forever to mark: took her 3 weeks to mark a 1500 word essay for a class of 20 people. lec slides aren't posted. overall don't take her class unless you have to but shes an ok prof
+
+--- Rating #3 ---
+Class: FNST101
+Date: 2019-08-14 23:28:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Do not take FNST 101 as a GPA booster. Her syllabus is completely different from previous profs. She does not post lecture slides, lectures are mandatory. Grading scale is also tougher, I finished with 84% which was B+, but most profs would have that as A-. The class average ended up as C+, which is a letter grade below coursediggers stated avg.
+
+--- Rating #4 ---
+Class: FNST101
+Date: 2019-08-06 23:00:23 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Avoid taking FNST101 with her for an easy B-Hum credit, she has changed the course so that it is completely different than what you have heard. The only graded materials are 2 papers, and 2 essay based exams, writing intensive. Goes through lecture slides very fast but does not post the pdfs. Unresponsive to criticism despite being asked for it.
+
+--- Rating #5 ---
+Class: FNST201
+Date: 2019-05-02 02:02:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Maddie was useless, she would hand back assignments after another one was due so you could not use the feedback to improve. Also she takes forever to mark. She is a tough marker. This class felt like a chore to go to. I would not take another class with her again. I swapped another class for this one,biggest mistake ever.
+
+--- Rating #6 ---
+Class: FNST326
+Date: 2019-04-25 21:45:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I have taken two classes with Maddie and I highly recommend her! Beware she is a tough marker but she gives clear instructions of what she expects and is always available for help. She gives great feedback and I learned a lot from her. She's passionate, knowledgeable, understanding and funny. She made the class a safe space for all students.
+
+--- Rating #7 ---
+Class: FNST2O1W
+Date: 2019-04-07 21:57:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Maddie was one of the best profs I've ever had. Held super engaging lectures and was helpful with assignments. You can tell she really cares about what she is teaching and cares about making an impact in your learning. The course is writing heavy but that's expected with a W course and she provides a lot of resources and help with essays.
+
+--- Rating #8 ---
+Class: FNST201
+Date: 2019-04-02 23:25:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This class was interesting however, the prof was such a hard marker! She also was not helpful and is very condescending and rude. Dont take this class ever with this prof!
+
+--- Rating #9 ---
+Class: FNST222
+Date: 2018-08-20 16:09:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The grading criteria was a little murky as we didn't get some assignments marked until the end of the semester, but overall an okay course. I would take her class again.

@@ -1,0 +1,37 @@
+Professor: Viviane Josewski
+Professor Legacy ID: 1531066
+Professor ID: VGVhY2hlci0xNTMxMDY2
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 2
+Avg Difficulty: 2
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: HSCI340
+Date: 2017-04-09 05:11:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This was one of my worst SFU experiences. Lectures were impressively unorganized and uninspiring. If not for the weekly in-class group work I would've never attended. A disappoint since the topics covered in this course genuinely interest me. I don't appreciate having my time wasted, especially in upper division courses. I gained nothing from this.
+
+--- Rating #2 ---
+Class: HSCI340
+Date: 2017-03-18 12:51:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Viviane was an ok prof. She was really nice, but she started her first lecture by essentially saying she was a PhD student, so if we had questions make sure they weren't questions answered somewhere else b/c she doesn't have time. Kind of disorganized, pretty much assigned readings and videos and didn't teach much. Grading was not clear.

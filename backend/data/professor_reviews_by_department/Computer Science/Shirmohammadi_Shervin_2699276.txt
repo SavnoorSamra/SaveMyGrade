@@ -1,0 +1,271 @@
+Professor: Shervin Shirmohammadi
+Professor Legacy ID: 2699276
+Professor ID: VGVhY2hlci0yNjk5Mjc2
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.3
+Avg Difficulty: 3.8
+Num Ratings: 79
+Would Take Again Percent: 35.443
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT371
+Date: 2025-10-24 23:27:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The lectures were pretty good; he explained concepts very well. The assignment requires you to do a bit of research on your own. Quizzes are hard due to not enough time and a strict marking scheme. Midterm and Exam are easier because it's basically a longer quiz with reused assignments and quiz questions.
+
+--- Rating #2 ---
+Class: CMPT371
+Date: 2025-08-17 06:30:27 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Information is kind of just thrown at you and not much practice. Many assignment questions covering concepts not discussed in lecture... meant to "inspire you to do your own research". Quizzes are random bits and pieces from lecture. Shervin's nice but you're pretty much on your own; anticipate this being a memorization course.
+
+--- Rating #3 ---
+Class: CMPT371
+Date: 2025-05-08 17:42:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good professor
+
+--- Rating #4 ---
+Class: CMPT371
+Date: 2025-05-01 05:51:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The course was well-structured and the professor was kind and helpful. However, the TA support was lacking&#8212;especially Jeril, who often deducted marks unfairly on quizzes and the project. Clearer grading guidelines and more consistent evaluation would have improved the experience.
+
+--- Rating #5 ---
+Class: CMPT371
+Date: 2025-04-28 23:51:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great lectures, difficult quizzes, fair assignments and examinations, very good professor to take for 371
+
+--- Rating #6 ---
+Class: CMPT371
+Date: 2025-04-28 23:10:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His lectures are great and I definitely learned a lot. He posts lecture recordings too which is great. There is a socket programming group project. Can't recommend him for CMPT 272, but for 371, he is your guy.
+
+--- Rating #7 ---
+Class: CMPT371
+Date: 2025-04-28 23:10:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+he gave me A+ so im happy w it
+
+--- Rating #8 ---
+Class: CMPT371
+Date: 2025-04-28 21:13:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lecutres were amazing, I simply attended them to ask more questions about the subject. He does not rush through them and takes his time to make sure everyone's on the same page. Exams were very fair, the group project was fun to build. Goated prof overall.
+
+--- Rating #9 ---
+Class: CMPT371
+Date: 2025-04-28 20:05:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Night and day from 272. Shervin was extremely knowledgeable in this class, and as a result I learned the most in a single CS course so far. Invites questions and spends time re-explaining course concepts when needed. Quizzes are tough, but the exams are more than fair. If you pay attention and work hard, it will be quite rewarding.
+
+--- Rating #10 ---
+Class: CMPT371
+Date: 2025-04-27 20:48:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Dont know why reviews are so low for 371, the only thing difficult in this course is the first few weeks and the quizzes since they are a time crunch. Otherwise hes a very good prof and is very knowledgeable for this course, workload not high and exams are very fair.
+
+--- Rating #11 ---
+Class: CMPT371
+Date: 2025-04-24 07:17:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I once was a Shervin hater. I had failed CMPT 272 and never mastered the ability to create HTML forms and fix 2006 era websites, however Shervin swooped in and changed me with his love of Networking and incredible explanations of TCP congestion control. Packets may be lost, but my love for Shervin will never be lost again.
+
+--- Rating #12 ---
+Class: CMPT371
+Date: 2025-04-15 08:08:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+only advice : RUNNNNNNNNNNNN
+
+--- Rating #13 ---
+Class: CMPT371
+Date: 2025-03-26 05:43:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good lectures, and records them too which is nice.
+
+--- Rating #14 ---
+Class: CMPT371
+Date: 2025-03-09 20:47:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Horrible marking.
+
+--- Rating #15 ---
+Class: CMPT371
+Date: 2025-02-19 22:14:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good at lecturing, overall a good professor.
+
+--- Rating #16 ---
+Class: CMPT371
+Date: 2025-01-15 21:36:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Had to drop, He is not that great.
+
+--- Rating #17 ---
+Class: CMPT272
+Date: 2025-01-10 07:41:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+BADDDDD  PROFFFFFFF
+
+--- Rating #18 ---
+Class: CMPT272
+Date: 2024-12-25 03:09:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His lectures were pretty informative and useful. I learnt a lot about html/css/js/react. Very unclear grading criterias for assignments and tests. The assignments were overly tedious (remake a healthcare form in html without css) and tests were way to long for the time given. You really need to be able to code fast to do good in this class.
+
+--- Rating #19 ---
+Class: CMPT272
+Date: 2024-12-17 09:11:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This was Shervin's first time teaching the class, and it showed in the lack of organization. Too much time was spent on HTML/CSS, leaving only 2 weeks for JavaScript/React. Assignments were okay, but exams were impossible to finish on time. He asked for a long HTML form with unclear instructions, which he hadn't even completed himself.
+
+--- Rating #20 ---
+Class: CMPT272
+Date: 2024-12-15 02:14:08 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Shervin's alright himself, but I think if he teaches this again he should reconsider his testing strategy, and put some more thought into the questions he asks. Unacceptable for such a "distinguised prof", I mean take a look at this guys personal website... you kidding me ???

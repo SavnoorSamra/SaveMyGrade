@@ -1,0 +1,11 @@
+Professor: Daniel Higginbottom
+Professor Legacy ID: 3156303
+Professor ID: VGVhY2hlci0zMTU2MzAz
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

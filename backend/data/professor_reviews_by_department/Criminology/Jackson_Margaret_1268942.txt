@@ -1,0 +1,63 @@
+Professor: Margaret Jackson
+Professor Legacy ID: 1268942
+Professor ID: VGVhY2hlci0xMjY4OTQy
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 4.9
+Avg Difficulty: 1.8
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: CRIM440
+Date: 2016-04-28 08:25:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Sherry Mumford does the marking for this class and she marks very easy. I would highly reccomend this class if you need a GPA booster.
+
+--- Rating #2 ---
+Class: CRIM440
+Date: 2012-06-20 05:13:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great course. I took this class through distance education. The tutor marker prepared us well for the exam. Learned a lot in this class.
+
+--- Rating #3 ---
+Class: CRIM440
+Date: 2012-06-20 05:10:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great course!!!  I took it online through distance education. You learn a lot about correctional agencies, program planning etc in this class.. She prepares you well for the exam. With effort you can do well in this class.
+
+--- Rating #4 ---
+Class: CRIM416
+Date: 2009-04-07 00:42:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Interesting course, extremely helpful teacher. She's approachable and a really nice lady

@@ -1,0 +1,63 @@
+Professor: Lin Yao
+Professor Legacy ID: 1493651
+Professor ID: VGVhY2hlci0xNDkzNjUx
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 3.8
+Avg Difficulty: 2.5
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: CMNS130
+Date: 2012-04-17 18:34:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Examples and comments on our discussions help clarify some key concepts.
+
+--- Rating #2 ---
+Class: CMNS240
+Date: 2012-01-06 13:20:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great TA. She did a better job in explaining the political economic concept than the instructor did. very helpful!
+
+--- Rating #3 ---
+Class: CMNS130W
+Date: 2011-06-17 15:34:09 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She's a great person, but REALLY difficult to understand because of her accent.  It's hard to learn Communications from someone who can't speak a proper sentence.
+
+--- Rating #4 ---
+Class: CMNS130
+Date: 2010-11-10 02:27:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+awesome TA for CMNS130! Very nice and helpful, just don't be afraid to ask~

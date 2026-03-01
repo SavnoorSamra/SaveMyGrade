@@ -1,0 +1,245 @@
+Professor: Mark Brockman
+Professor Legacy ID: 1509532
+Professor ID: VGVhY2hlci0xNTA5NTMy
+Department (CSV): Molecular Biosciences
+Department (Fetched): Molecular Biosciences
+Avg Rating: 4.2
+Avg Difficulty: 2.8
+Num Ratings: 18
+Would Take Again Percent: 90
+
+Ratings Count Returned: 18
+
+--- Rating #1 ---
+Class: MBB201
+Date: 2026-02-25 23:35:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Overall super nice guy. His lectures can be a little confusing sometimes but honestly he's super caring and if you go to him in office hours, he's super helpful and doesn't make you feel bad. 10/10 would recommend him as a prof!!
+
+--- Rating #2 ---
+Class: MBB201
+Date: 2025-12-15 23:34:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He made the course very straightforward. He can be a bit boring and is usually hard to access via email but very knowledgeable and available after class for any help. Overall good and caring prof
+
+--- Rating #3 ---
+Class: HSCI326
+Date: 2025-11-20 01:16:08 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's a nice professor but his lectures are dry and hard to focus at times. His lectures aren't that engaging and the material for the exam is a lot, we had 3 midterms and a project that was done in groups of two or individually. If you're not that okay with immunology don't take this course with him.
+
+--- Rating #4 ---
+Class: MBB322
+Date: 2025-11-18 23:30:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+For MBB 201 - Mark is the goat. Although the content of the course can be dry sometimes, it is taught in a clear, concise way that makes it clear what he is going to test you on. Exams are very fair and he even gave bonus marks for our 2nd midterm. Highly recommend
+
+--- Rating #5 ---
+Class: HSCI326
+Date: 2025-06-21 04:25:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr brockman is a great prof. He is very chill and cares for students. His lectures are very well structured and not messy at all which is important for this course. He teaches in a way so you can learn a lot while getting a good grade. Exams were straight forward and he might add bonus questions too. I wish more profs had his teaching style.
+
+--- Rating #6 ---
+Class: HSCI326
+Date: 2025-04-29 16:28:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Brockman is really nice during office hours and explains stuff well. His lectures are well structured and he makes the complicated pathways easy to understand. His exams are very fair and straightforward too. All the questions from the exams were stuff talked about in lecture and the questions tell you what main points to talk about.
+
+--- Rating #7 ---
+Class: HSCI326
+Date: 2025-04-03 04:27:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof. Very very fair exams take 326 with him if possible. lectures get content-heavy at times but does his best to explain them
+
+--- Rating #8 ---
+Class: HSCI326
+Date: 2025-03-27 20:10:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great prof! Very clear lectures and powerpoints; very fair exams.
+
+--- Rating #9 ---
+Class: HSCI326
+Date: 2022-04-25 01:03:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Fantastic prof. He explains the slides very throughly, available for questions after class. The thing I really appreciated was that he takes his time to highlight important concepts in all his slides. Exams were extremely fair. Fall in love with the immune system after this class. I can't recommend him enough. Also cares a lot about his students.
+
+--- Rating #10 ---
+Class: HSCI326
+Date: 2022-04-13 20:06:10 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Not bad of a prof; he seems nice and accessible after class. Oftentimes he reads off his slides but that's just a minor thing to consider about him. Communication on tutorials, exams, and cancelled classes needs to be improved, but he is overall good enough to take a class with.
+
+--- Rating #11 ---
+Class: HSCI473
+Date: 2015-12-15 22:07:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Very ok class. Difficult to pay attention because the class was pretty dry. Easy A and average was approximately 86% Fall 2015.
+
+--- Rating #12 ---
+Class: MBB322
+Date: 2014-12-23 19:30:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Brockman seems to really care about his students. However, his lectures were confusing and his tests were much more detailed than he suggested they would be in class. Reading the textbook is a must, because he includes very specific details on the tests.
+
+--- Rating #13 ---
+Class: MBB322
+Date: 2014-12-11 02:54:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Mark is brilliant, friendly and cares that his students do well. The lecture material is dry and going to class is optional. Exams require a lot of memorizing. Big concepts for written but the multiple choice does test on some very small details (protein names) Final was simple - just study what is on his review sheet, no more than that.
+
+--- Rating #14 ---
+Class: MBB322
+Date: 2014-01-05 05:28:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Dr. Brockman is an amazing professor, he is very clear in every topic for each of the lectures and will help if you ask! His exams are fair but study the book and his notes vigorously if you want to do well in his exams! Everyone clapped at the end of his last lecture, that's how awesome he is!
+
+--- Rating #15 ---
+Class: MBB322
+Date: 2012-03-06 02:24:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Exams are very fair with only a few trick questions.  Class averages were very high although attendance was quite low.  Study notes and should be okay.
+
+--- Rating #16 ---
+Class: MBB322
+Date: 2012-01-02 22:25:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I found the material really interesting, but like most people I rarely attended lecture because he read straight off the notes. The material isn't really hard, but the class average was quite high on all exams, so you really have to know your stuff to do really well.
+
+--- Rating #17 ---
+Class: MBB322
+Date: 2011-05-16 07:42:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Dr. Brockman is a great professor who is very interested in what he teaches. He allowed us a cheat sheet on the final, which made the exam very easy. Recommended.
+
+--- Rating #18 ---
+Class: MBB322
+Date: 2010-12-12 15:52:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+First time teach 322 this sem. He's very nice and has good notes. As for exams, its mostly fair with some trick questions. Had 3 midterms. Final exam was cumulative and much harder but was allowed one cheat sheet. Half the ppl dont show up to lecs cause its boring. Just study the notes well and you will do decent. Overall a good prof.

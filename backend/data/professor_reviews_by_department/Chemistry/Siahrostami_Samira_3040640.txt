@@ -1,0 +1,11 @@
+Professor: Samira Siahrostami
+Professor Legacy ID: 3040640
+Professor ID: VGVhY2hlci0zMDQwNjQw
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

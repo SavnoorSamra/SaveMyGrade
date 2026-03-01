@@ -1,0 +1,11 @@
+Professor: Bob Christie
+Professor Legacy ID: 2128176
+Professor ID: VGVhY2hlci0yMTI4MTc2
+Department (CSV): Fine Arts
+Department (Fetched): Fine Arts
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

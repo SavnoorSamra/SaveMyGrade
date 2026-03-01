@@ -1,0 +1,11 @@
+Professor: Leanne Roderick
+Professor Legacy ID: 2841576
+Professor ID: VGVhY2hlci0yODQxNTc2
+Department (CSV): Geology
+Department (Fetched): Geology
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

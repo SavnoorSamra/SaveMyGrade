@@ -1,0 +1,102 @@
+Professor: Teo Penkov
+Professor Legacy ID: 2290785
+Professor ID: VGVhY2hlci0yMjkwNzg1
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 4.8
+Avg Difficulty: 1.4
+Num Ratings: 7
+Would Take Again Percent: 100
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: BISC101
+Date: 2019-01-31 07:53:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Fantastic TA. Had him for 101 and then his practice quizzes and tests helped me throughout 202. Crystal clear explanations and will always sit down with you, clarifying the difficult in a variety of ways so that it makes perfect sense. Thanks Teo :)
+
+--- Rating #2 ---
+Class: BISC101
+Date: 2017-12-24 19:45:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Teo is such a helpful TA. All of my friends in other tutorial sessions came to mine because he made his own practice exams and gave feedback with such detail. Thanks a lot Teo!
+
+--- Rating #3 ---
+Class: BISC202
+Date: 2017-12-22 18:46:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great TA and very nice guy. Very helpful
+
+--- Rating #4 ---
+Class: BISC101
+Date: 2017-12-22 18:21:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Most helpful TA Ive ever had! He gives fantastic feedback and takes time to make sure you understand before moving on.
+
+--- Rating #5 ---
+Class: BISC101
+Date: 2017-12-22 18:18:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Out of all the professors or TAs Ive had, Teo is hands down the best. During tutorial sessions, he reexplains the difficult and pinpoints the important. He holds his own review sessions which SAVED MY GRADE. He truly cares about all his students (grades &amp; well-being) and Id take any course with him again!
+
+--- Rating #6 ---
+Class: BISC202
+Date: 2017-11-02 22:58:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+best TA out there for genetics! Other TAs literally dont do anything for their students and this guy holds his own review sessons
+
+--- Rating #7 ---
+Class: BISC202
+Date: 2017-10-26 15:07:25 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Awesome TA and cares about his students

@@ -1,0 +1,37 @@
+Professor: Susan Clements
+Professor Legacy ID: 1262339
+Professor ID: VGVhY2hlci0xMjYyMzM5
+Department (CSV): Media Arts
+Department (Fetched): Media Arts
+Avg Rating: 3
+Avg Difficulty: 3.5
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: IAT202
+Date: 2020-12-02 18:59:35 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Tough trader tbh
+
+--- Rating #2 ---
+Class: IAT202
+Date: 2010-04-06 17:44:49 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+CC

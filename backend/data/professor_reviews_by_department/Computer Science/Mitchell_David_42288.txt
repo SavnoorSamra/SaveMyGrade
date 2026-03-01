@@ -1,0 +1,271 @@
+Professor: David Mitchell
+Professor Legacy ID: 42288
+Professor ID: VGVhY2hlci00MjI4OA==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2
+Avg Difficulty: 3.2
+Num Ratings: 175
+Would Take Again Percent: 30.2326
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT225
+Date: 2025-05-19 20:45:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Tests n Final was easy lectures were dry and unclear yet tests r based off the slides. Assignments would be handed out late with no instructions, took 3 days to update the instructions to something half bad, leaving u 2 days to finish the assignment and don't expect to get marks back on time Assignment 1 part b was released right after the final XD
+
+--- Rating #2 ---
+Class: CMPT225
+Date: 2025-05-06 04:32:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+I got an A but this guy is doomed. How did he even had a teaching career?!!!
+
+--- Rating #3 ---
+Class: CMPT225
+Date: 2025-05-01 03:33:14 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Boring lecture style, but they can be helpful. Lecture slides are handwritten and barely readable. Assignment instructions were never clear and always had to update instructions because even TAs were confused. False promises on test prep and solutions. Test difficulty and grading standard were on the lighter side. Nice guy overall
+
+--- Rating #4 ---
+Class: CMPT225
+Date: 2025-04-29 23:56:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+ending his career on a bad note
+
+--- Rating #5 ---
+Class: CMPT225
+Date: 2025-04-29 21:02:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I think it was his last semester but if you ever had to take him dont. Not only he didnt curve but he scaled down, his exams were easy but whats the point if i get 87% in the course and end up with and B+.
+
+--- Rating #6 ---
+Class: CMPT225
+Date: 2025-04-29 21:00:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Worst prof ive ever taken. He is super slow in grading. Doesnt bother to answer any questions and he acts like he is the smartest person in the room. His notes have issues in them but he doesnt bother to fix them before releasing them. He also scaled down, making everyone's grade much worse than it should be. How exams seem easy, but grading bs.
+
+--- Rating #7 ---
+Class: CMPT225
+Date: 2025-04-29 20:02:29 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I hate courses where all you do is stare at the lecture slides. No practice no nothing. The way he teaches CS is archaic, should utilize more practice and coding on a computer e.g leetcode style, while paper tests should only be reserved for stuff like big-O and similar. Dunno if it's the problem with him or SFU CS tho. Horribly late grading btw.
+
+--- Rating #8 ---
+Class: CMPT225
+Date: 2025-04-29 07:44:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Morally bankrupt, maybe even evil.
+
+--- Rating #9 ---
+Class: CMPT225
+Date: 2025-04-29 06:58:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+David is the perfect example of everything that is wrong with CS professors at SFU. David makes ~161K annually paid by us students ofc and yet he doesn't bother to answer our questions or put out any of the content he has promised his students until it's too late. For example, he released the final exam review, a day before the exam.
+
+--- Rating #10 ---
+Class: CMPT225
+Date: 2025-04-29 06:48:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He encouraged the use of the online forum yet ignores all important questions. Don't bother asking about the promised exam review, he won't respond to you.Don't bother asking if we will receive grades back months later, he will simply ignore you.Your students aren't dumb it's very obvious that you ignore all the questions that ask something of you.
+
+--- Rating #11 ---
+Class: CMPT225
+Date: 2025-04-29 06:43:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+David began the course by setting up his canvas page about 2 weeks after classes started. One section, included textbook readings, he updated it once and never again. He was slow at getting assignments out and even slower at grading them and by slow I mean getting assignment 1 back 2 and a half months after it was due. (1)
+
+--- Rating #12 ---
+Class: CMPT225
+Date: 2025-04-28 15:59:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His lecturing is basically circling his slides. His assignments are vague no clarification. His class is heavily on exams, even though the exams are ez, and you study the lecture you are fine. But then you get above 75 on the exams and you end up with a B, because he decided to change the boundary for letter grades (doesnt have on in the beginning)
+
+--- Rating #13 ---
+Class: CMPT225
+Date: 2025-04-21 02:54:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+he's a sweet heart, despite late grading, bro really cares about his students
+
+--- Rating #14 ---
+Class: CMPT225
+Date: 2025-04-14 00:33:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+handed in almost 6 assignments, but only 2 were released until the final exam date.
+
+--- Rating #15 ---
+Class: CMPT225
+Date: 2025-04-13 20:08:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Released the assignment the day after it was due. Gave me back my marks for my final after I graduated 2 years later. Can't recommend David Mitchell enough &#128077;&#127999;.
+
+--- Rating #16 ---
+Class: CMPT225
+Date: 2025-03-30 18:23:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This professor would give you a hard time understanding his assignment. He underperforms at writing an easy-to-understand description, always leading to confusion and sudden changes in the process.
+
+--- Rating #17 ---
+Class: CMPT225
+Date: 2025-03-26 23:39:38 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Just like the other computer science profs. Withholds informations, teaches topics that personally interest him, and but tricky.
+
+--- Rating #18 ---
+Class: CMPT225
+Date: 2025-03-20 22:15:22 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is a respectable prof, he teaches with a soothing tone, easier to grasp the contexts. BUT, if you don't attend his class, even if you knew the material before, you're cooked. Because in exams he would ask you to recall what was taught in the lecture to be the standard for grading. If do can't bring it up, you're cooked (even "useless" details)
+
+--- Rating #19 ---
+Class: CMPT225
+Date: 2025-03-14 20:54:58 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+If his life depended on writing coherent instructions for assignments, he would die.
+
+--- Rating #20 ---
+Class: CMPT307
+Date: 2024-12-21 02:36:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Gives somewhat reasonable exams. He's pretty lazy as assignments and solutions often posted late and gives us only the weekend to complete them. Average teaching and the handwrote slides were hard to follow at times. He was very approachable and responsive on Piazza. On the other hand, the TAs were invisible the whole term and did nothing but mark.

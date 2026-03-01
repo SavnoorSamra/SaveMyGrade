@@ -1,0 +1,278 @@
+Professor: Thomas Shermer
+Professor Legacy ID: 1483920
+Professor ID: VGVhY2hlci0xNDgzOTIw
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1.9
+Avg Difficulty: 4.6
+Num Ratings: 27
+Would Take Again Percent: 21.7391
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MACM101
+Date: 2024-02-26 08:03:04 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I would not recommend. Lectures seem unconnected to what he tests. Assignments are quite different from tests. Incredibly boring lectures. The textbook assigned was old and boring. I ended up just self studying the Rosen Discrete math textbook. 1 out of maybe 10 lectures he will say something useful.
+
+--- Rating #2 ---
+Class: MACM101
+Date: 2024-01-12 22:03:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His notes were disorganized and made no sense. Avoid this professor at all times. I got advice from others that he was a prof to avoid, and I thought if I worked hard in this course, I could still do it. Oh i was so wrong. It doesn't matter how much effort you put into this course. His exams and assignments had no resemblance to notes whatsoever.
+
+--- Rating #3 ---
+Class: MACM101
+Date: 2023-12-14 17:46:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His lectures are monotone, the notes he writes are useless after looking back on them a few days later. His choice in examples used in lectures are often complicated, and he would often scratch out things after second guessing himself (he changed his solution 6 times once in class). MACM is already a difficult subject, even tougher with him.
+
+--- Rating #4 ---
+Class: MACM101
+Date: 2023-12-14 00:31:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+worst teacher ever. got good marks in assignment and close to average in midterm. but failed final exam but few marks which gave me D. However, the class is curved. If i calculate my marks, I should get at least C- but this guy gave me D(after curved). Does not revealed how he curved it. He cannot even teach and youtube will save you.
+
+--- Rating #5 ---
+Class: MACM101
+Date: 2023-08-27 04:23:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+All the lecture notes were hand written and only formula without any explanation. Only thing he did in class was just reading that hand written notes that he wrote previously without any explanation when to use this formula. All the exam questions were not even close to the textbook practice question. Maybe cause i am CMNS major
+
+--- Rating #6 ---
+Class: CMPT379
+Date: 2023-08-21 07:07:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Class is established to be curved from day one. Lectures cover both theory and code, but you need to investigate the code base on your own to get a high mark. Tom listened to the suggestions, so the project work load has been reduced and you can also work in pairs. It's hard to do compilers justice in the span of 3 months, so he did a great job.
+
+--- Rating #7 ---
+Class: CMPT379
+Date: 2023-07-19 20:21:04 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lots of work for the compiler project but mostly due to trying to understand the code and trial and error. Apparently project has been made easier than prev years. Prof spent lectures at start of the term going over how to do certain parts of the project which was helpful to get started. Pretty accessible outside class for help. Lectures were ok.
+
+--- Rating #8 ---
+Class: MACM101
+Date: 2023-07-13 07:14:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+(Fall 2023)
+
+Tbh: avoid. Dry lectures with no recorded lectures for review, and no pre-posted slides. You'll need to rely on the textbook and the scanned lect. notes. Def read ahead in the textbook before lectures and hope you get a good TA to help explain things. Midterm and final averages were both low 50s, so take that as you will. Good luck!
+
+--- Rating #9 ---
+Class: CMPT379
+Date: 2023-07-07 06:46:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Course is no joke - 2 courses worth of workload packed into 1. And it's already been watered down by a LOT.
+Project is not dreadfully difficult as myth suggests - just a lot of trial and error + having to understand the codebase = very time consuming. Prof is knowledgeable and always available. Lectures are meh. You will come out a better dev.
+
+--- Rating #10 ---
+Class: MACM101
+Date: 2023-01-11 22:53:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+MACM ON STEROIDS FOR NO REASON
+Reasons why you should avoid this prof at all costs:
+1. Be ready to self teach. f* his lectures of hand written notes and stick to the textbook
+2. You will be confused. The assignments introduce concepts that are taught later down the road and some are not based on the lectures
+3. The curve will be your only hope GLHF
+
+--- Rating #11 ---
+Class: MACM101
+Date: 2023-01-11 21:04:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This man is built like Santa Claus would not be surprise if his side hustle was the Santa in the mall but the difference from him and Santa is that Shermer is a walking L. Buddy is teaching half of MACM 201 and the homework has things we did not cover. The only gift he gives is he curves the marks. Please avoid this robot at all cost.
+
+--- Rating #12 ---
+Class: MACM101
+Date: 2022-12-13 17:21:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Half the time I had no clue what his ramblings where even about. Barely gave coherent examples in the lectures. Get ready to read like you never read before if you're taking macm101 with Shermy
+
+--- Rating #13 ---
+Class: CMPT307
+Date: 2022-08-31 08:20:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+You'll probably end up self-learning all the materials; attending his lectures won't help. His notes don't make much sense when you read it on your own, and since his lectures aren't recorded, then you're left puzzled when reading them. Assignments are vague, even the TAs couldn't do some questions; they would provide solutions copied from online.
+
+--- Rating #14 ---
+Class: CMPT307
+Date: 2022-07-26 22:48:23 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He did 2 hour lectures and 1 hour problem sessions. Lectures were hard to follow as they were very dense and mathematical. I often found myself not fully understanding one point then being lost for the rest of the lecture. Definitely a class where you rely heavily on the textbook. Posts lecture slides but no recordings or problem solutions.
+
+--- Rating #15 ---
+Class: CMPT307
+Date: 2022-01-13 09:29:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Fairly low workload, but very challenging with Shermer. He doesn't teach anything so your best bet is to read all the textbook sections he says the exams will be on and do as many textbook problems as you can. Everyone does pretty poorly objectively, but the course is graded on a curve so you pretty much just have to outperform your peers.
+
+--- Rating #16 ---
+Class: CMPT307
+Date: 2021-12-22 10:50:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Brutal course with horrible prof, impossible to tell what exam questions will be like because Shermer provides no practice exams. Exams are are extremely difficult and just understanding algorithms is not enough. Workload is fair with only 4 assignments, but content is very challenging. Course is 100% self-study as lectures are useless.
+
+--- Rating #17 ---
+Class: CMPT225
+Date: 2021-12-08 03:24:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He just read his PowerPoint in all the lectures. This course will definitely be useless in my future life. It is extremely bad. This is the worst class I have ever taken. I really want to give him a 0 rate. I WILL NEVER TAKE ANY COURSES TAUGHT BY THIS PROF.
+
+--- Rating #18 ---
+Class: CMPT225
+Date: 2021-12-01 21:43:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+This prof is very unorganized, there is miscommunication between the prof and the TA's, we didn't get our first assignment until a month and a half into the semester. Shermer just reads off the slides and barely shows any coding. Avoid this prof if you actually want to learn something in this course.
+
+--- Rating #19 ---
+Class: CMPT307
+Date: 2020-12-12 00:16:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He tried to make lectures online, but he speaks a normal talking speed if you speed up the video to x2. That is if you watch the lectures at all. They do NOT explain any of the material, they are an introduction to SOME important subjects, and don't clarify anything. His office hours are him saying re-read the chapters.
+
+--- Rating #20 ---
+Class: CMPT307
+Date: 2020-10-14 23:53:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+We're a month into the semester and so far he has been quite bad at conveying the material in my opinion and also the way he speaks puts you to sleep. His notes are also quite bad.

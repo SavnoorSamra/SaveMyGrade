@@ -1,0 +1,76 @@
+Professor: Robert Holt
+Professor Legacy ID: 1437765
+Professor ID: VGVhY2hlci0xNDM3NzY1
+Department (CSV): Biochemistry
+Department (Fetched): Biochemistry
+Avg Rating: 4
+Avg Difficulty: 3.4
+Num Ratings: 5
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: MBB420
+Date: 2023-11-30 19:43:15 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Holt is very knowledgable in his field and has incredibly interesting research, but his lectures are a little dry. He has very high expectations for the students in his classes, and is a relatively fair marker. The lectures are not recorded to encourage students to attend lecture, and he has a long list of questions to ask during presentations.
+
+--- Rating #2 ---
+Class: MBB462
+Date: 2019-04-27 09:29:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr Holt is really good, I learned a lot. Course has 2 exams non cumulative, 2 assignments and 1 group presentation that is about an hour long with questioning. lots of guest lectures and you get lots of cool perspectives. The course covers a variety of topics. Would recommend!
+
+--- Rating #3 ---
+Class: MBB462
+Date: 2017-04-09 02:31:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Fair quizzes/assignments, clear grading criteria, if you're interested in genomics take MBB 462 it will give you an overview of relevant topics and very cool guest lectures. Dr. Holt is very down-to-earth, helpful, and does amazing research- my favorite prof at SFU, really respect him, highly recommend him- thank you Dr. Holt, you're awesome!
+
+--- Rating #4 ---
+Class: MBB440
+Date: 2011-12-19 20:34:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Smart man but his quizzes get harder and harder. If you're thinking of doing grad school you should definitely take his class. He can give you lots of advice and he's very knowledgeable!
+
+--- Rating #5 ---
+Class: MBB440
+Date: 2011-12-11 01:46:06 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Rob is a great person and he's really nice and funny. I enjoyed the course, I learned a lot but his quizzes get harder and harder and it seems like he doesn't scale at all. His lectures can be boring sometimes but he's very intelligent!

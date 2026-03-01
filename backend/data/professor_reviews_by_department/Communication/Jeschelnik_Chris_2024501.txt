@@ -1,0 +1,271 @@
+Professor: Chris Jeschelnik
+Professor Legacy ID: 2024501
+Professor ID: VGVhY2hlci0yMDI0NTAx
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 4.7
+Avg Difficulty: 2.5
+Num Ratings: 32
+Would Take Again Percent: 96.5517
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMNS226
+Date: 2026-02-24 23:48:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great professor and genuinely a nice guy overall. This class was fun and engaging, with two 'big' assignments (one of them being a group project). Special shoutout to Sage, great TA!
+
+--- Rating #2 ---
+Class: CMNS201W
+Date: 2025-12-22 23:14:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Chris is a great prof. But the 201W course (curriculum and context) itself was dry.
+
+--- Rating #3 ---
+Class: CMNS201W
+Date: 2025-11-03 18:53:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Chris is one of the best profs I've had at SFU. He is so funny and does his best to make lectures entertaining despite its dry content. There are quite a few things to do (quizzes, 3 assignments, labs, tutorial) but the grading scheme is fair and if you put in the work you will succeed! Love Chris!!!!
+
+--- Rating #4 ---
+Class: CMNS226
+Date: 2025-06-21 18:53:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Chris is one of the best profs for CMNS classes!! He's easy-going, straightforward, and his lectures are easy to follow. Would definitely recommend taking his classes.
+
+--- Rating #5 ---
+Class: CMN201W
+Date: 2025-04-28 21:36:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Chris is one of the best profs for cmns! His lectures can be quite dry at times but his personality is silly lol. Graded by three easy assignments, quizzes that are simple (just re read slides), and writing exercises in person at the end of class. 10/10 recommend :D
+
+--- Rating #6 ---
+Class: CMNS201W
+Date: 2025-04-03 20:47:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+One of the most detailed, clear and caring profs at the entire university. He actually wants you to succeed and even better, wants to help you do it. Do not expect a prof who throws out a guideline and calls it a day. He walks you through what you need to know so specifically that it makes it feel easy to succeed.
+
+--- Rating #7 ---
+Class: CMNS201W
+Date: 2024-12-10 04:05:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great prof! If you attend lectures and study what is on the slides, you will do fine on the tests. Assignments are marked by your TA (or at least mine were), so how tough stuff is graded really depends on them. Overall, it was a very straightforward and relatively easy course.
+
+--- Rating #8 ---
+Class: CMNS314
+Date: 2024-12-09 20:07:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Chris is one of my favourite CMNS prof! Super nice and genuinely cares for his students. This was such a fun class because we got to use some really cool equipments and actually take what we learn and apply it. Would definitely take his classes again!
+
+--- Rating #9 ---
+Class: CMN201W
+Date: 2024-11-26 23:54:15 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Chris is a great professor who really cares about his students. He seemed very knowledgeable about what he taught and explained his concepts in lecture really well. For the quizzez, if you attend the lecture he usually hinted at what would come, and usually it would be there on the quiz.
+
+--- Rating #10 ---
+Class: CMN201W
+Date: 2023-02-20 23:03:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is such a great prof! It's clear he is passionate and wants his students to learn. He is willing to answer any and all questions and teaches the material in a fun way. I actually enjoyed the lectures even though the material can be dry.
+
+--- Rating #11 ---
+Class: CMN201W
+Date: 2023-02-16 20:15:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof. Very supportive and genuinely cares about his student's success.
+
+--- Rating #12 ---
+Class: CMNS201W
+Date: 2022-12-22 01:21:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great prof! The course material for CMNS201w is pretty dry, but the prof engages the content in interesting ways and is very involved with the labs and tutorials. Easily approachable and down-to-earth professor.
+
+--- Rating #13 ---
+Class: CMNS201W
+Date: 2021-04-19 05:01:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Be aware of confusion. The class needs to be structured better.
+
+--- Rating #14 ---
+Class: CMNS201W
+Date: 2020-09-09 21:25:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+HE IS AMAZING! Chris is so helpful and personable, he is there to help literally at any time. I can't say enough about this prof, you have to take a course with him!
+
+--- Rating #15 ---
+Class: CMNS201W
+Date: 2020-08-27 19:52:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He was totally understanding of COVID situations and made sure everyone gets bonus points etc. Would definitely take his course in the future if I can, and one of the most understanding prof Ive met in SFU. Lecture videos were short, but summarized the key points for each chapter.
+
+--- Rating #16 ---
+Class: CMN201W
+Date: 2020-05-13 19:00:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Chris was one of the best professors I have had at SFU. CMNS 201 was my first Q class and I was very nervous, but Chris explained everything in a way that made total sense. He is very empathetic towards his students, and this was especially prevalent during the COVID-19 crisis, as he constantly gave us many opportunities to earn extra grades!!
+
+--- Rating #17 ---
+Class: CMNS226
+Date: 2019-04-28 19:44:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Chris is such a sweet guy but the format for 226 seemed messy. It was a bit chaotic and disorganized. The TA was a migraine and we didn't get to learn as much Adobe Premiere as past classes did. It was very much of watching tutorials and learning on your own. Chris is almost too nice to the point where this class felt too lax and he just sat back.
+
+--- Rating #18 ---
+Class: CMNS226
+Date: 2019-04-09 15:59:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Chris is a nice guy, but the format of 226 is a bit weird. Attendance is mandatory because there's always a workshop portion of the class and that has participation marks attached to it. All the readings are done in class, which is fine, and there are online discussions every week. It's work intensive, especially for the final group video project.
+
+--- Rating #19 ---
+Class: CMNS201
+Date: 2018-03-16 17:18:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+chris is soooooo nice, everything you need to know is on the lecture slides, don't bother with the textbook.
+
+--- Rating #20 ---
+Class: CMNS201
+Date: 2018-01-04 01:11:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Chris is honestly so caring and such a sweet professor. He genuinely cares and he knows that Q credit classes tend to scare people, so he simplifies the course and makes it as easy as possible. As long as you go to lectures it's a relatively easy course, considering it's 4 credits. Can't say enough good things about this guy!

@@ -1,0 +1,50 @@
+Professor: Jas Morgan
+Professor Legacy ID: 3029721
+Professor ID: VGVhY2hlci0zMDI5NzIx
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 2.3
+Avg Difficulty: 3.7
+Num Ratings: 3
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: cmns314
+Date: 2025-04-07 19:32:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+I took this class online and it was fairly say. The midterm was very straightforward and the weekly activities were easy to do as well.
+
+--- Rating #2 ---
+Class: cmns314
+Date: 2025-01-20 01:01:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+A troublesome outline and homework without examples
+
+--- Rating #3 ---
+Class: 215
+Date: 2024-12-10 04:18:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the hardest courses I've taken at SFU. The midterm was extremely difficult; the assignments had little guidance or outline on what was expected or how to succeed; their lecture slides had little text, and they spoke very quickly, so writing good notes was very hard; and the material was extremely dense, and confusing.

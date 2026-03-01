@@ -1,0 +1,271 @@
+Professor: Maryam Aliyar
+Professor Legacy ID: 1142379
+Professor ID: VGVhY2hlci0xMTQyMzc5
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.7
+Avg Difficulty: 2.4
+Num Ratings: 28
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT225
+Date: 2019-11-09 00:47:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She was great. Long time ago!
+
+--- Rating #2 ---
+Class: CMPT225
+Date: 2016-07-01 17:54:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Wow this was ages ago. I remember it was a great course and a great prof.
+
+--- Rating #3 ---
+Class: CMPT225
+Date: 2015-05-08 10:38:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is a great instructor, her notes are clear and easy to follow. As long as you attend class and follow the examples she solves in class you should expect at least a B. Many of the questions she includes on her quizzes and tests are taken directly from class notes.
+
+--- Rating #4 ---
+Class: CMPT225
+Date: 2014-12-05 14:52:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Awesome prof.
+
+--- Rating #5 ---
+Class: CMPT225
+Date: 2014-08-29 21:39:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I actually remember this course quite well.  She was obviously knowledgable.  And I think this was her 1st time teaching so she wasn't 100% ready every time but good overall.
+
+--- Rating #6 ---
+Class: CMPT225
+Date: 2014-06-11 10:40:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I just stumbled upon this page and remembered her.  Good course!
+
+--- Rating #7 ---
+Class: CMPT225
+Date: 2014-03-15 10:52:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I took this class ages ago! I was just looking at some of my SFU prof's pages on RMP. As most of people mentioned here, the prof was very nice. Fair amount of assignments and I remember exams were similar to the problems in the assignments.
+
+--- Rating #8 ---
+Class: CMT225
+Date: 2013-12-16 17:39:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I just stumbled upon this page.  Don't remember much about the course (few years ago). She was nice and the exams were fair. A lot of assignments but it was worth it. Overall no complaints.
+
+--- Rating #9 ---
+Class: CMPT225
+Date: 2013-05-29 20:30:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Don't remember much but a fairly easy course.
+
+--- Rating #10 ---
+Class: CMPT225
+Date: 2011-08-03 02:15:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Good course.
+
+--- Rating #11 ---
+Class: CMPT225
+Date: 2011-03-05 05:12:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Took this course some years ago while in Simon Fraser University. Got an A (or A+, can't really remember). Overall, an easy course.
+
+--- Rating #12 ---
+Class: CMPT225
+Date: 2010-11-26 16:11:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I took this course a couple years ago. It was easy and the professor was nice :-)
+
+--- Rating #13 ---
+Class: CMPT225
+Date: 2010-06-30 14:56:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+She was a very kind woman. Needs more practice in teaching, but overall a good course.
+
+--- Rating #14 ---
+Class: CMPT225
+Date: 2010-05-19 15:44:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very nice professor. A+!
+
+--- Rating #15 ---
+Class: CMPT225
+Date: 2010-04-16 22:27:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+She is very nice. Overall this was a very easy and useful course.
+
+--- Rating #16 ---
+Class: CMPT125
+Date: 2010-03-08 00:35:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+She is a good teacher. And she is very kind. Also she gives good marks!
+
+--- Rating #17 ---
+Class: CMPT225
+Date: 2009-06-10 04:53:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+So glad i knew half of the material before the course, HORRID PROF.
+
+--- Rating #18 ---
+Class: CMPT225
+Date: 2008-12-11 03:53:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+a good woman, dedicated pro, but relatively not good at teaching
+
+--- Rating #19 ---
+Class: CMPT225
+Date: 2008-12-09 16:37:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Awful professor, hardly teaches, can't make the course matter interesting to save her soul.
+
+--- Rating #20 ---
+Class: CMPT225
+Date: 2008-12-01 17:29:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+She can't teach but the assignments and labs are pretty easy.  Stutters a lot during lectures and because of it, less than 50 out of 120 students bother attending her lectures.  Only reason to attend is for possible quizzes for bonus marks otherwise you're better off just reading the lecture notes she provides, at home.

@@ -1,0 +1,37 @@
+Professor: Kristin Matheson
+Professor Legacy ID: 2687109
+Professor ID: VGVhY2hlci0yNjg3MTA5
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.5
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS200
+Date: 2021-08-21 05:52:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Ms. Matheson is a caring, sweet, and sympathetic professor. I recommend her %100. Her exams are detailed multiple choices; registering for Pearson might help you practice some more multiple-choice questions. However, it is not mandatory. It is best to read the book and use her slides to organize your thoughts.
+
+--- Rating #2 ---
+Class: BUS200
+Date: 2021-04-17 00:56:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Nice and standard prof! Did flipped classes during covid so you were required to go over material on your own and then ask questions during class. Quizzes were easy if you read textbook. Lots of group assignments which I didnt like/were hard and unclear. Willing to help if you had questions! Not a bad prof but wish she explained some concepts more

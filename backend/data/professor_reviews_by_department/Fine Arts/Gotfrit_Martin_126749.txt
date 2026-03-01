@@ -1,0 +1,102 @@
+Professor: Martin Gotfrit
+Professor Legacy ID: 126749
+Professor ID: VGVhY2hlci0xMjY3NDk=
+Department (CSV): Fine Arts
+Department (Fetched): Fine Arts
+Avg Rating: 4.7
+Avg Difficulty: 1.6
+Num Ratings: 7
+Would Take Again Percent: -1
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: FPA289
+Date: 2012-04-21 18:23:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Martin is an amazing teacher. He prepares his lectures so well and the outcome is that you are moved and captivated by his ideas and insights. One of the best lecturers I have ever had the pleasure of listening to. The assignments put you into the world of composing for film.
+
+--- Rating #2 ---
+Class: FPA147
+Date: 2012-03-06 21:18:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+ah, the dude is awesome.  extremely good educator.  knows his stuff but more importantly, knows how to break it down and think like a student.  all materials relevant.  very good in person/tutorials.  fun, interested and easy to learn from.  really loved him!!!
+
+--- Rating #3 ---
+Class: FPA289
+Date: 2006-12-01 02:50:01 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Martin is really good professor-- and he teaches FPA 289 with a passion for film music. I was really interested in the beginning, but I found myself sleeping in each lecture. I had a morning tutorial the same day. Too bad I missed a lot of lectures, but I still ended up with great grade. A good prof, easy marker!
+
+--- Rating #4 ---
+Class: FPA289
+Date: 2006-04-01 15:50:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+If you ever have an opportunity to take a class with Martin, take it! He is so enthusiastic, open and gentle- it feels much more like a conversation than a lecture.  He's also brilliant.
+
+--- Rating #5 ---
+Class: VARIOUSMUSIC
+Date: 2005-12-28 11:14:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Knowledgeable, playful, inventive, clear, inspiring guy. A true artist and a kind man. One of the best.
+
+--- Rating #6 ---
+Class: FPA289
+Date: 2003-04-07 23:48:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Really interesting guy... Too bad over half the class never came to lecture, they missed out on some cool stuff!
+
+--- Rating #7 ---
+Class: FPA289
+Date: 2003-03-10 20:22:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very knowledgeable and an easy marker

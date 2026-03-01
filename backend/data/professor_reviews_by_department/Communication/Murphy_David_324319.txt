@@ -1,0 +1,271 @@
+Professor: David Murphy
+Professor Legacy ID: 324319
+Professor ID: VGVhY2hlci0zMjQzMTk=
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 3.9
+Avg Difficulty: 2.4
+Num Ratings: 20
+Would Take Again Percent: 75
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMNS357
+Date: 2023-07-01 20:59:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is just a kind and great person who cares deeply about his field and transfers that to students in an accommodating manner. Great at being available outside of class time and providing advice, and it's a joy to hear the targents he goes on which leave you feeling a little inspired if that's not cheesy to say.
+
+--- Rating #2 ---
+Class: CMNS321
+Date: 2021-05-05 02:17:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+I enjoyed taking this class with Dr. Murphy as he is very understanding and tries to make online learning fun. Aside from being a nice guy, there are some issues with the course. His grading rubric are unclear )until I followed up with my TA), and he chose to take out participation and average the scores. Could have gotten an A+ but still happy.
+
+--- Rating #3 ---
+Class: CMNS358
+Date: 2021-01-05 01:59:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+I have taken four classes with David now because he is such a great prof. The topics he teaches are interesting and you get to do work in production rather than just writing papers. Taking this course online was a bit difficult since we could not use the lab, but David helped make sure his students had access to the necessary softwares.
+
+--- Rating #4 ---
+Class: CMNS226
+Date: 2020-12-17 22:47:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+David Murphy is the best professor I have ever had. I took his class online during the pandemic and he was supportive, understanding, and very accommodating. He truly cares about his students and their well-being. He was always available for extra help on assignments and gave great feedback. Take his class!!
+
+--- Rating #5 ---
+Class: CMNS226
+Date: 2020-12-10 12:18:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He knows what he's talking about and seems to work in the field of sound and has connections. I enjoyed his projects despite really only showing up to 3 classes the entire semester. As long as you do the projects well, you should get a good grade. Labs are more important than lectures.
+
+--- Rating #6 ---
+Class: CMNS426
+Date: 2020-11-11 16:09:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+David is probably the best prof I've had in my five years at SFU. His lectures are engaging, interesting and he's a really funny, genuine guy. He's always willing to help with projects and answer questions, super supportive.
+
+--- Rating #7 ---
+Class: CMNS358
+Date: 2018-09-26 17:55:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Honestly a terrible prof. Not only are his assignment guidelines beyond vague but his syllabus has no dates on it and he doesn't bring up a deadline until about 4 days before they're supposed to be done. Very unorganized and lackluster. Also he just expects you to fumble your way through Logic Pro, never actually taught us how to use the software
+
+--- Rating #8 ---
+Class: CMNS428
+Date: 2017-02-28 21:35:33 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Horrible. No direction the entire class; vague comments on how to do assignments. When grades come back (at the end of the semester, not right when it's marked) you get a much lower mark than he lets off. Do not take.
+
+--- Rating #9 ---
+Class: CMNS357
+Date: 2014-05-10 02:41:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+BEST professor I had in 4 years!! Really nice and informative classes. David is just so nice!! Awesome professor!! Hope to take a course with him again.
+
+--- Rating #10 ---
+Class: CMNS386
+Date: 2011-11-28 02:50:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I loved both the coursework and lectures. The unfavourable guy back here must be really annoying, anyhow this is a laid back prof who knows a lot about the subject matter.  Make sure you pick his brains not just for theories, but also for the methods you can use in your projects - as this is a project driven course...
+
+--- Rating #11 ---
+Class: CMNS386
+Date: 2011-09-14 20:35:19 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Solid Prof. He seems to favour students however. He also seems to get fed up with other students easily.
+
+--- Rating #12 ---
+Class: CMNS226
+Date: 2009-06-21 15:55:22 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Lectures were relaxed but very informative but there was a lot of material to cover in a short amount of time, especially for students without any prior film experience.  We didn't get any form kind of feedback and our grades were mostly just numbers without any final comments, so that part was hard.
+
+--- Rating #13 ---
+Class: CMNS226
+Date: 2007-11-19 23:36:12 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Easy and interesting classes.  Tends to pick favorites.
+
+--- Rating #14 ---
+Class: CMNS387
+Date: 2007-11-04 15:22:49 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+he is an easy marker. and he is kind and easy going
+
+--- Rating #15 ---
+Class: CMNS
+Date: 2006-02-16 23:07:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Dave was... approachable and accessible.. Marking was fair and he seemed to give a damn about your work (in a laid back way), even though it was an introductory class. The only problem I had was accessing equipment.ONly 5 cameras-typical ghetto SFU.
+
+--- Rating #16 ---
+Class: CMNS226
+Date: 2005-12-10 17:57:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+A good approach to media education. Teaches the foundational skills and theory in a laid back approach. Fair makring and intresting content.
+
+--- Rating #17 ---
+Class: CMNS200
+Date: 2005-01-07 08:33:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #18 ---
+Class: CMNS428
+Date: 2004-12-01 11:32:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I took two classes with Daivd on video production and found him very helpful, easy to approach and genuinely interested in my projects. He is very intelligent and a very nice man.
+
+--- Rating #19 ---
+Class: CMNS
+Date: 2004-11-26 12:06:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #20 ---
+Class: CMNS200
+Date: 2004-09-01 19:33:39 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Took David's intro to communications course in 1993. Big class, so hard to say how good he is as a prof.  Lectures were OK, readings no-brainer, and the workload/exams easy (just read the book, and plug in the multiple choice answers).  A'cd this course.

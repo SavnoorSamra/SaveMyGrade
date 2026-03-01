@@ -1,0 +1,24 @@
+Professor: Kleen Toohey
+Professor Legacy ID: 1422204
+Professor ID: VGVhY2hlci0xNDIyMjA0
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.5
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: EDUC480
+Date: 2011-04-14 02:48:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Kelleen is a very intelligent and attractive woman. It is clear she is very busy but finds the extra time to help you succeed in class.

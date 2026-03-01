@@ -1,0 +1,141 @@
+Professor: Mohamed Hefeeda
+Professor Legacy ID: 775552
+Professor ID: VGVhY2hlci03NzU1NTI=
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4
+Avg Difficulty: 2.7
+Num Ratings: 10
+Would Take Again Percent: 83.3333
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: CMPT471
+Date: 2024-08-03 14:43:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I think the topics are interesting and practical. Labs are alright but projects are a bit underwhelming. Usually only takes low single digit hours to finish. 2 exams and no final. If you want a light UD course this will work.
+
+--- Rating #2 ---
+Class: CMPT471
+Date: 2024-06-23 17:42:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The prof will make you will fall in love with how the IT industry has evolved over the years. How it took 50 years to build the protocols that are in use today. What problems each iteration of these protocols solved. How the networks are set up in the industry today. How does money impact the optimality of internet. Hands down awesome prof.
+
+--- Rating #3 ---
+Class: CMPT471
+Date: 2022-12-23 19:44:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This professor is a good professor, he explains concepts very clear in lecture. Very helpful professor with enough office hours, and very responsive (quick reply to emails). The exams are fair, as long as you study his lecture note thoughtfully, you can get a good score in exams.
+
+--- Rating #4 ---
+Class: CMPT371
+Date: 2017-06-23 00:01:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great prof. Very kind and explains in detail. We did bad in the midterms so he made the finals easier. Approachable and always ready to help.
+
+--- Rating #5 ---
+Class: CMPT371
+Date: 2017-01-09 21:28:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Gives one of the best lectures I've ever seen. Explains things in great depth, giving out examples and ensures students understand the content well. Networking may be a confusing topic at first, but Hefeeda explains it extremely well.
+
+--- Rating #6 ---
+Class: CMPT371
+Date: 2016-12-02 03:16:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lecture slides are shallow overviews with no explanations. He doesn't do a good job explaining the course material. Assignments/projects are impossible but everyone googles the answers. You learn more by reading the textbook.  Course itself sounded interesting but turned out boring. Would not recommend this prof.
+
+--- Rating #7 ---
+Class: CMPT371
+Date: 2014-01-24 05:50:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Follows the textbook very closely. You need to read the text book, and then read it again, and you will do well. Attend lectures, because he will give explicit notes of what is on the exam.
+
+--- Rating #8 ---
+Class: CMPT371
+Date: 2013-12-13 06:32:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He kept the class really interesting. He tried hard to make the material more approachable to students and gave extensions whenever needed to help everyone get a better understanding of the course. However, he isn't a great teacher and skims over the material during the lecture. It's not a big deal, since the course follows the book very closely!
+
+--- Rating #9 ---
+Class: CMPT301
+Date: 2007-12-18 04:19:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I got a bad mark, so I gave him a bad review - that's how this site works right&#63;&#63;... seriously tho, Cons: found assignments/projects time consuming and hard. Relied highly on the text (course did not go much beyond what this offered IMO) PROS: he is a nice guy, and passionate about what does (really more suited to graduate students tho IMO).
+
+--- Rating #10 ---
+Class: CMPT300
+Date: 2005-12-09 02:19:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+A good prof overall. He's not funny or exciting but he's clear, organized, and explains concepts well. Assignments might be a bit challenging but the grades he gives are fair.

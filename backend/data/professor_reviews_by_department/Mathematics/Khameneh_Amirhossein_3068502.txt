@@ -1,0 +1,120 @@
+Professor: Amirhossein Khameneh
+Professor Legacy ID: 3068502
+Professor ID: VGVhY2hlci0zMDY4NTAy
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 5
+Avg Difficulty: 2.4
+Num Ratings: 8
+Would Take Again Percent: 100
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: MACM101
+Date: 2025-08-29 07:32:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The best prof to take MACM101 with.
+
+--- Rating #2 ---
+Class: MACM101
+Date: 2025-08-29 07:27:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is genuinely very kind and goes out of his way to help. All you gotta do is reach out to him.
+The course itself is kind of hard but his exams are very similar to the assignments and the tutorial questions. So make sure to practice similar questions, and you do not need to stress over MACM if you're in his class!!
+Also, the textbook is free.
+
+--- Rating #3 ---
+Class: MACM101
+Date: 2025-08-16 08:25:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Absolute legend, takes time to fully explain his lectures and his midterm and final are very reasonable. Made MACM101 easy and very doable. 100% recommended, best prof for MACM101.
+
+--- Rating #4 ---
+Class: MACM101
+Date: 2025-08-16 08:17:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+One of the best profs at SFU! Super clear, supportive, and actually cares about his students' success. Take him if you can!
+True Goat!
+
+--- Rating #5 ---
+Class: MACM101
+Date: 2025-08-16 05:12:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+W prof, course was 5 assignments worth 20%, attendance tutorial for 10% (they only did it for the first half of the course), 30% on midterm 1 on first 2 chapters, 40% on final on everything after (non cumulative.) Midterm and final were manageable if you did tutorials, plus he added a 10 point scale to our raw grades which bumped me up quite a bit
+
+--- Rating #6 ---
+Class: MACM101
+Date: 2025-08-13 23:19:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+One of the best professor for MACM101. His lectures are easy to follow if you pay attention, and the slides covers everything you need to know to do the assignments. The exams are based off of the tutorial questions so as long as you understand the slides and do the tutorial questions, then it should be a fairly straightforward course.
+
+--- Rating #7 ---
+Class: MACM101
+Date: 2025-08-13 23:10:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Slides are easy to read and exams are fair to what is taught in class/tutorials
+
+--- Rating #8 ---
+Class: MACM101
+Date: 2025-08-13 23:10:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This professor may be the best professor for MACM101. His lectures are easy to follow if you pay attention. His slides are well done and the tests directly reflects the slides. The assignments were challenging but nothing to be stressed out about. 
+
+Tip for students: Study tutorial and slide questions! Or you risk failing.

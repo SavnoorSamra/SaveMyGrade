@@ -1,0 +1,273 @@
+Professor: Fred Popowich
+Professor Legacy ID: 59120
+Professor ID: VGVhY2hlci01OTEyMA==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.2
+Avg Difficulty: 3
+Num Ratings: 24
+Would Take Again Percent: 80
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: cmpt120
+Date: 2025-04-16 18:56:15 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+so I thought the class wasn't bad till I did 125 and come to find thank god we only learned turtle cause that was super useful. You essentially dont learn how to code and it will make 125 terrible but he seems good at the time
+
+--- Rating #2 ---
+Class: cmpt120
+Date: 2024-05-05 06:30:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Unless the final, it was pretty easy. He explains everything clearly.
+
+--- Rating #3 ---
+Class: CMPT165
+Date: 2024-04-28 04:56:20 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Teacher doesnt really teach well to be honest. However he is very nice and kind but his teaching style and voice in lectures is difficult to understand. Doing practice exams and working hard is your best bet for this class.
+
+--- Rating #4 ---
+Class: CMPT165
+Date: 2024-02-14 00:52:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Great prof. Very helpful outside of classes. Gives good feedback. For Cmpt 120 but it doesnt let me choose it
+
+--- Rating #5 ---
+Class: CMPT376W
+Date: 2023-04-17 21:12:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+CMPT376W was quite easy with Fred. He had some interesting stories from time to time and was very nice about mixups with submissions.
+
+If you are going to take this class you should take it with him. It will be pretty easy and straight forward but if you're in CS you probably don't like writing courses anyways.
+
+--- Rating #6 ---
+Class: CMPT376
+Date: 2014-03-19 01:13:42 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: N
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+The professor is nice, but the grade you get depends on the TA. If you have Brian Booth, drop the course. He gives ridiculous reasons for taking points off, and marks some people harsher than others. Absolutely ridiculous marker! He's just a grad student, but it's harder to make him listen to your side than a full-time professor.
+
+--- Rating #7 ---
+Class: CMPT376W
+Date: 2013-12-11 13:52:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Fred's got a great sense of humour. Very easy marker. I'm a fob and still pulled an A. If English is your first language there's no reason why you cannot get an A+.
+
+--- Rating #8 ---
+Class: CMPT376W
+Date: 2013-12-07 14:24:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Fred is a great professor for this course. He was very clear and made this writing course somewhat enjoyable. Highly recommend for this course.
+
+--- Rating #9 ---
+Class: CMPT376W
+Date: 2013-08-08 13:50:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+One of the best prof I have had from all the CMPT course I took in SFU. He explained the concepts well and was always prepared before class. Marking scheme is nice and easy.
+
+--- Rating #10 ---
+Class: CMPT165
+Date: 2009-08-21 03:28:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Distance ed - Never saw him ever. TA's had bad attitudes. Didn't respond to WEB CT and didn't even give us their SFU emails. Class is not for anyone who doesn't have programming background.
+
+--- Rating #11 ---
+Class: CMPT165
+Date: 2007-06-03 16:33:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+nice prof :) always happy and has interest in what hes teaching. email him questions, he will answer them and try to help you as much as possible. TAs don't help, they gave a bad attitude. His lectures are from the courseware, he makes questions and does his own examples showing you step by step so you can do the hw. good prof! :)highly recommend h
+
+--- Rating #12 ---
+Class: CMPT165
+Date: 2007-04-24 14:48:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Distance version. Course materials are fairly well written. Assignments are exceedingly easy, especially if you've taken another programming course and have done web design. TAs don't check WebCT, but are fairly quick at responding to email. The suggested pacing of the course is a bit off, as the bulk of the reading and work are in the final weeks.
+
+--- Rating #13 ---
+Class: CMPT165
+Date: 2007-03-11 19:15:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Well... he is a good prof I guess, I took the class for a grade booster and the only problem with his teaching that I had is that he constantly threw in his biasisms into the lecture, everything from the US to Windows.
+
+--- Rating #14 ---
+Class: CMPT165
+Date: 2006-09-09 21:51:50 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He was a good prof- very interested in the course.The lectures were well prepared but he moved on with material very quickly-it was somehow hard to keep up-midterm was very easy-but the final-a wake up call.
+
+--- Rating #15 ---
+Class: CMPT413
+Date: 2006-04-20 15:10:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very enthusiastic, very interested in the topic, gives very good lectures. Assignments were reasonable and well-related. Readily available for help.
+
+--- Rating #16 ---
+Class: CMPT413
+Date: 2006-03-31 16:48:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very enthusiastic and knowledgeable in the material. The assignments and project were manageable and closely related to the class material.  He uses powerpoint.
+
+--- Rating #17 ---
+Class: CMPT165
+Date: 2005-08-19 11:19:22 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He doesn't really know how to verbally teach materials in an organized way though his PP slices r well formed.  Don't feel learning much from lec but reading the study guide. The exams were too theory focused as it's anyways a CMPT science course(Not enough programming Qs) Don't like having a big assig. due on the very last day of the semester!
+
+--- Rating #18 ---
+Class: CMPT165
+Date: 2005-08-01 20:39:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+talk too fast
+
+--- Rating #19 ---
+Class: CMPT165
+Date: 2005-08-01 12:52:16 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+horrible. this class was all over the place. the assignments were based on 1-2 examples that didn't give you enough information. will not return emails. the text books were poorly written. all around horrible.
+
+--- Rating #20 ---
+Class: CMPT165
+Date: 2005-07-28 21:44:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+What I saw in his lecture, this teacher really don't know how to use computer. However, he is teaching computer course... One more thing, if you not really master on the subject which u taking.. or you never take this subject before.. you better don't take this teacher, his hw, assignment, mid-term and exam is extremely hard!

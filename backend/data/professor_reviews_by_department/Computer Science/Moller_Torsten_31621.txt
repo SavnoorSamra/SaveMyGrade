@@ -1,0 +1,271 @@
+Professor: Torsten Moller
+Professor Legacy ID: 31621
+Professor ID: VGVhY2hlci0zMTYyMQ==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.3
+Avg Difficulty: 2.5
+Num Ratings: 51
+Would Take Again Percent: -1
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT361
+Date: 2011-12-20 07:55:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+The course covers a lot of content and the assignments are very long. But the prof is great, he explains things very thoroughly in the lectures. I learned a lot.
+
+--- Rating #2 ---
+Class: CMPT461
+Date: 2011-11-09 18:35:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Numerous students are dissatisfied with this course, but perhaps we should direct our anger towards the TA, not the professor. The word &quot;harsh&quot; is not enough to describe the TA. I have never spent so much time on an assignment only to receive 10%. On the other hand, I find Torsten genuinely interested in the course material, smart, & helpful.
+
+--- Rating #3 ---
+Class: CMPT316
+Date: 2010-10-04 16:56:10 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+First, I need to indicate that this class is about OpenGL and is very hard. His labs are extremely long and hard, and he only provides very basic stuff in his class. If you'd like to take this class with him, be sure to prepare a handy OpenGL primer guide because the textbook he uses is not suitable for OpenGL beginners.
+
+--- Rating #4 ---
+Class: CMPT361
+Date: 2010-07-26 23:34:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+This is the COMP SCI professor not the english one, don't be tricked.  DO NOT, I REPEAT DO NOT, once again... DO NOT take this course with him.
+
+--- Rating #5 ---
+Class: CMPT361
+Date: 2010-07-20 12:56:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great Prof, start your labs early. Got EXTREMELY high mark from him
+
+--- Rating #6 ---
+Class: CMPT361
+Date: 2009-12-16 23:38:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+What's wrong with you stupid arts people, this is the CMPT Torsten ! OK!&#63; Torsten is one of the worst profs in cmpt at sfu. His lecture is not informative at all, labs are brutally long and hard. His exams are hard in the sense that you never know what he's gonna test you on. It could be anything that he said in the lecture but not on the slides.
+
+--- Rating #7 ---
+Class: ENGL310
+Date: 2007-08-29 02:33:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Overall, Torsten is a great professor. Very laid back and easy to talk to. He seems really interested in what he's teaching.  However, he's very easily distracted and somewhat disorganized during lectures.  He always seems prepared to deliver an amazing lecture, but he gets so distracted by the class that sometimes he doesn't get to the good stuff.
+
+--- Rating #8 ---
+Class: ENG311
+Date: 2007-08-09 21:04:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Torsten ROCKS!!!! He is incredibly laid back and you feel it in his lectures. They are enjoyable AND you leave learning a few things too!!! Super understanding and picks some GREAT material to read. I loved him sooo much Im taking 342 with him in the fall. He's awesome. You will think so too! Best English prof I've encountered at SFU!!!
+
+--- Rating #9 ---
+Class: ENGL311
+Date: 2007-07-12 21:56:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Such a great professor I've enrolled in his class 3 times...great class to take to gain credits with ease..he made my 4 course load feel like 3.
+
+--- Rating #10 ---
+Class: ENGL311
+Date: 2007-05-23 06:01:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+One of the most easy-going, helpful, engaging profs I've ever had. He knows his stuff, and he actually cares that his students learn it, too. He is beyond reasonable, understanding, and witty. Anyone who says otherwise is just afraid to be out-classed. Attend just ONE day--just the first class, please, and judge for yourself.
+
+--- Rating #11 ---
+Class: ENGL203
+Date: 2007-05-12 03:38:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+HE is by far the best prof i've had a st sfu. Not only does he give a simple quiz at the end of the term as his final, but he is extremly passionate about his work and is always evoking laughter. You are fortunate if you can get into one of his classes, he'll make your semmester
+
+--- Rating #12 ---
+Class: ENGL203
+Date: 2007-04-17 21:47:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Torsten is FANTASTIC. Lectures are painless, assignments are explained clearly, NO FINAL!, fun in class group play, nice guy and generally picks good material. Thumbs up! SFU better give him tenture before he gets a better offer.
+
+--- Rating #13 ---
+Class: ENGL311
+Date: 2006-12-19 00:44:45 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Although he is constantly joking and thinks he is hilarious, he isn't. His three hour lectures were monotonous and full of rambling. He was also very disorganized.However, the lectures often had really good points to consider, and papers were very relevant with laid-back guidelines. Not too bad, but probably wouldn't take another with Torsten.
+
+--- Rating #14 ---
+Class: ENGL311
+Date: 2006-12-12 04:23:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Just a really nice guy
+
+--- Rating #15 ---
+Class: ENGL311
+Date: 2006-12-08 13:21:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Excellent prof!!! Very nice, very funny (at least I think so), and shows that he is passionate about what he's teaching. Definitely recommend him, one of the best at SFU.
+
+--- Rating #16 ---
+Class: ENGL311
+Date: 2006-09-14 21:30:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Awesome. Makes learning this subject interesting and fun. This is the way teachers were meant to teach. His lectures are funny and he managed to make a boring topic really interesting... Best Proff to have... I would recommend all of his classes whether they are interesting or not...
+
+--- Rating #17 ---
+Class: 314
+Date: 2006-08-01 02:04:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Torsten is an awesome prof! He's super nice, understanding of student's stressful schedules & very knowledgeable about course material. He loves teaching, esp. Shakespeare, and it shows. Definitely take a class with him if you can! Best Eng. prof I've taken at SFU. Another awesome one: Steve Collis. Good Luck!!
+
+--- Rating #18 ---
+Class: ENG311
+Date: 2006-04-23 03:16:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very nice guy, easy-going and empathetic towards student's needs.  Funny sense of humour and really into his Shakespeare.  Made the material understandable.
+
+--- Rating #19 ---
+Class: ENGL306
+Date: 2005-09-25 13:14:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Chaucer! well Torsten spends more time talking about &quot;things&quot; than actually learning Chaucer. No syllabus given out for what, when things are expected.  Not someone who follows time-lines or structure.  Nice guy tho'.  But, the question remains to be seen: can he teach Chaucer&#63;
+
+--- Rating #20 ---
+Class: ENG315
+Date: 2005-08-23 07:18:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments

@@ -1,0 +1,89 @@
+Professor: Chantal Gibson
+Professor Legacy ID: 1006279
+Professor ID: VGVhY2hlci0xMDA2Mjc5
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.4
+Avg Difficulty: 4.2
+Num Ratings: 6
+Would Take Again Percent: 100
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: BUS360W
+Date: 2022-04-12 19:54:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Gibson taught 309W like a boss. Sure, the grading in this course is rough but the concepts she teaches helps students become a better writer. Her lectures are hilarious and relatable, but be ready to follow instructions and put in the work. Your ethos will thank you for taking this course!
+
+--- Rating #2 ---
+Class: BUS272
+Date: 2015-03-12 21:05:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+HE is not helpful,so bad
+
+--- Rating #3 ---
+Class: BUS360
+Date: 2008-10-10 22:25:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+I can't decide if I like her or not. Whenever I write assignments while following my intuition, I get good grades from her, yet when I write assignments using her advice, my grades go down by 20%. Her teaching methods are fine, but she should give more credit to the textbook. GET FEEDBACK ON YOUR ASSIGNEMNTS BEFORE HANDING THEM IN!!!
+
+--- Rating #4 ---
+Class: BUS360
+Date: 2008-04-23 14:59:25 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Make no mistake about it, this course is as tough as you've heard. While you may be shocked at your initial marks, if you follow her (rather specific) feedback you will see an improvement in your marks. Always well prepared for class, handouts are provided and the lecture flows smoothly. If you need help, be sure to sign up for office hours early.
+
+--- Rating #5 ---
+Class: BUS360W
+Date: 2008-03-25 23:57:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+She is very interested and passionate about writing and the course, however she can get defensive if you question grading, comments, or instructions. Though it is hard to access her for office hours (because everyone wants to go to them!), but you should go for individual or group feedback- it will help your grades.
+
+--- Rating #6 ---
+Class: BUS360
+Date: 2007-07-05 17:51:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Chantal is one of the best prof's I've had in my three years at SFU. She is very passionate about what she does and genuinely cares about her students. She is motivating and does all she can to help you. This course is alot of work, but Chantal makes it very bearable.

@@ -1,0 +1,272 @@
+Professor: Matthias Danninger
+Professor Legacy ID: 2681641
+Professor ID: VGVhY2hlci0yNjgxNjQx
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 2.8
+Avg Difficulty: 4.1
+Num Ratings: 38
+Would Take Again Percent: 47.3684
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PHYS120
+Date: 2025-04-29 08:55:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Struggles to explain anything during lecture, also do not sit in the first few roads his breath smells awful. Somebody tell this physics prof to go brush his teeth my god it smells like the worst &#129314;
+
+--- Rating #2 ---
+Class: phys125
+Date: 2025-03-01 05:40:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+great prof. midterms were chill but the final was very challenging. He scaled the final so it was fine.
+
+--- Rating #3 ---
+Class: phys125
+Date: 2025-01-11 00:27:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His lectures went super fast and the slides weren't that helpful. The midterms were pretty straightforward if you do the homework and study a bit. The final was crazy hard though. Be prepared to learn a lot of things on your own because the topics are covered too briefly in lecture.
+
+--- Rating #4 ---
+Class: phys125
+Date: 2025-01-06 19:30:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's a really great professor, very knowledgeable! The midterms are pretty straightforward and easy but the final was a lot harder than the midterms.
+
+--- Rating #5 ---
+Class: phys125
+Date: 2024-12-02 03:18:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Greatly recommend this prof
+
+--- Rating #6 ---
+Class: phys125
+Date: 2024-12-02 03:16:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great professor. Fun lectures, always engaging.
+
+--- Rating #7 ---
+Class: PHYS211
+Date: 2024-04-25 05:59:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This was a very difficult course made more difficult by this incompetent prof.
+
+--- Rating #8 ---
+Class: PHYS211
+Date: 2024-04-23 08:25:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Disorganized lectures, useless notes and just terrible explanations.
+
+--- Rating #9 ---
+Class: PHYS211
+Date: 2024-04-12 07:06:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great professor. Engaging lectures. Very approachable. Obviously wants his students to succeed. Would definitely recommend.
+
+--- Rating #10 ---
+Class: PHYS120
+Date: 2023-02-02 14:19:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Took it last semester, failed both midterms and studied like my life depended on it only to clutch the final everyone failed, other classes feel easy now. This man will help you dig deep into the abyss that is your soul to find potential that hasn't seen the light of day, whether you like it or not.
+
+--- Rating #11 ---
+Class: PHYS120
+Date: 2023-01-08 04:35:50 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The lectures were very hit or miss. He often did useful demos to explain topics but otherwise, his explanations were lacklustre and he often used calc 2 concepts even though calc 1 is the corequisite for this course. Both midterms were very fair but the final was brutal with a failing average.
+
+--- Rating #12 ---
+Class: PHYS120
+Date: 2023-01-05 19:32:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Took this course as an elective, and while it was a ton of work it was one of the most rewarding classes I have taken yet. Exams are hard but as they should be for this type of class, nothing on them will hit you out of left field, your grade in this class is a direct representation of how hard you work. Matthias' lectures are solid and enjoyable.
+
+--- Rating #13 ---
+Class: PHYS120
+Date: 2022-12-23 01:41:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Exams are difficult but they are not unfair. If you study and really understand the material fully you should be able to do well. The average was very low but I don't think this course was unfair at all. He cares about students and does fun live demos and does his best to keep lectures interesting. Study by doing lots of practice problems.
+
+--- Rating #14 ---
+Class: PHYS120
+Date: 2022-12-19 17:58:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Really not as bad as people make him out to be. His lectures are pretty basic compared to the tutorial questions and homework so I recommend doing practice problems. Midterms were fine and fair, but the final was pretty hard (mostly due to it being focused on rotation, which I personally found difficult). Overall, ignore the bad reviews
+
+--- Rating #15 ---
+Class: PHYS120
+Date: 2022-12-16 09:06:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+These reviews are way to harsh. Dr. Danninger is chill and kind dude who wants the best for his students. His Midterms and Finals were fair (I found the midterms to be harder than the finals). As long as you study for them you will get a good grade. Make sure to go to the tutorials as they are very helpful
+
+--- Rating #16 ---
+Class: PHYS120
+Date: 2022-12-15 02:18:13 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+PHYS120 taught by Danninger is probably one of the easiest physics courses that you can take compared to 101 or 125. The lectures were a bit hard to follow excluding the practical demonstrations.
+If you know your stuff and want to get a good grade, this "criminal of a professor" has got your back.
+
+--- Rating #17 ---
+Class: PHYS120
+Date: 2022-11-10 05:09:46 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's a nice prof to be honest. His test from midterm 1 should be what you expect from his difficulty, I would recommend to study off your tutorials instead of homework from achieve (not enough hard question to be on a test) . Tutorial actually requires you to use lectures materials that he teaches, achieve homework can be done with phys 12 ways.
+
+--- Rating #18 ---
+Class: PHYS120
+Date: 2022-11-09 18:59:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ignore the other reviews, Danninger is awesome. He makes lectures interesting with lots of random cool demos, and he always covers everything needed in lectures. Although sometimes his lectures can seem overcomplicated, it's because he is showing you the proofs for each equation, instead of just saying them. 100% would take another class.
+
+--- Rating #19 ---
+Class: PHYS120
+Date: 2022-06-21 00:15:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Dr. Danninger has no consideration for his students it is appalling. Avoid this criminal of a prof. His exams are beyond what should be considered fair for first-year students. Exam averages in the 30s should not be allowed! Take a class with a professor other than Stupid Danninger.
+
+--- Rating #20 ---
+Class: PHYS120
+Date: 2022-02-11 16:48:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+worst physics professor ive ever met. seems to want to fail every single student but cant because he has to let some students pass to avoid suspicion. his exams are so unfair your gonna need to study you azz off if you wanna even have a chance at passing. he also scaled our class up, so i got a D with 55. utterly wicked professor.

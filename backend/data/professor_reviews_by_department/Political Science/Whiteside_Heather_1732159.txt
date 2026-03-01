@@ -1,0 +1,63 @@
+Professor: Heather Whiteside
+Professor Legacy ID: 1732159
+Professor ID: VGVhY2hlci0xNzMyMTU5
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 2
+Avg Difficulty: 2.5
+Num Ratings: 4
+Would Take Again Percent: 25
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: PSCI231
+Date: 2025-10-08 17:56:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Heather Whiteside is a vindictive professor. She has a 0 tolerance policy for late submissions. This sounds reasonable in theory, until you understand that she leaves no room for nuance with this policy. A late submission, whether 1 minute or 3 hours late, will give you an automatic 0 in the assignment. That being said, her course is easy enough.
+
+--- Rating #2 ---
+Class: PSCI231
+Date: 2023-10-03 17:16:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This professor is a fine enough person. She is really nice and I have had no issues with her. However, she is one of the worst lecturers I have ever had. She reads from a sheet of paper, and her voice is incredibly monotone. She made a subject I was interested in feel super dull. I would not take another class with her.
+
+--- Rating #3 ---
+Class: PSCI428
+Date: 2020-02-27 23:58:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Avoid taking any courses from Dr. Whiteside at all costs. If you have enrolled in a course with her, I would drop out ASAP if that is possible and enrol in a different course. She is very unreasonable and not worth the time and effort her courses take. In all four years of university she is the worst prof I have had yet.
+
+--- Rating #4 ---
+Class: PSCI231
+Date: 2017-09-14 16:54:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+the best

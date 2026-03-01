@@ -1,0 +1,24 @@
+Professor: James (Jim) Utley
+Professor Legacy ID: 2368406
+Professor ID: VGVhY2hlci0yMzY4NDA2
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BUS484
+Date: 2020-11-25 23:20:28 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He makes you work. Each week there are so many things to read (e.g. articles, lecture notes, powerpoint slides, and case studies which are sometimes 10-15 pages). For a performance management prof, his expectations are not very clear - he marks on what he &quot;feels.&quot; Your grade is based on one group project, two individual assignments, &amp; participation

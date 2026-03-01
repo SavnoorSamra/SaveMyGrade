@@ -1,0 +1,37 @@
+Professor: Dr. Isabell Graf
+Professor Legacy ID: 1905661
+Professor ID: VGVhY2hlci0xOTA1NjYx
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2.8
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: MATH251
+Date: 2014-08-02 20:45:48 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Her notes are atrocious. F looks like T, r looks like v, 2 looks like z, and so on. Exams does not test on everything covered for no reason. eg. first MT left out 3D shapes, second MT left out Lagrange multipliers. 80% of lecture is theory and very redundant proofs. little examples and practice. Prepare to study the textbook urself and ull be fine.
+
+--- Rating #2 ---
+Class: MATH251
+Date: 2014-08-02 17:13:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+She's a great prof, it's just that her accent is pretty harsh. Her exams are well related to the example exams she provides you. Her lecture notes are the main focus, not the textbook. Don't take the class with her if you are the type to skip class.

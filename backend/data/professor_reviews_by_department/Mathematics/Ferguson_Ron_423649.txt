@@ -1,0 +1,102 @@
+Professor: Ron Ferguson
+Professor Legacy ID: 423649
+Professor ID: VGVhY2hlci00MjM2NDk=
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 1.9
+Avg Difficulty: 4.1
+Num Ratings: 7
+Would Take Again Percent: -1
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: MATH251
+Date: 2009-12-29 19:00:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Not a very good teacher, but a nice guy
+
+--- Rating #2 ---
+Class: MATH251
+Date: 2009-12-22 04:23:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Terrible prof. Went to class for first week and never again. So hard to understand. The average mark was 36% or sumthing in the class.
+
+--- Rating #3 ---
+Class: MATH251
+Date: 2009-12-14 10:40:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+EASY :)
+
+--- Rating #4 ---
+Class: MATH154
+Date: 2005-02-11 01:44:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Horrible Notes. Not Helpful. Yell at people for asking questions and never answer questions adressed to him... these questions veered his whole brain off path of lecture and would spend the rest of the class stuttering like the idiot he is.  His exams we're almost impossible. Homework was fair tho.
+
+--- Rating #5 ---
+Class: MATH154
+Date: 2005-02-08 01:41:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+By far the worst teacher in the history of teaching.  Notes were pathetic. Got angry when people asked questions. Tests were unrelated to assignments. Stay far away from a class taught by this guy.
+
+--- Rating #6 ---
+Class: MATH154
+Date: 2004-09-17 23:19:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #7 ---
+Class: MATH154
+Date: 2004-06-15 00:19:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Just Don't.  Really...I mean it.  Don't.  Real nice guy, but don't.  First midterm: 3 questions, 96 marks.  Don't.  Average 46/96.  I told you don't.  I'm warning you.  Don't.

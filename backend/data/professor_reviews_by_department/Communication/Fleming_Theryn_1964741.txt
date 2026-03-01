@@ -1,0 +1,63 @@
+Professor: Theryn  Fleming
+Professor Legacy ID: 1964741
+Professor ID: VGVhY2hlci0xOTY0NzQx
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 1.8
+Avg Difficulty: 1.5
+Num Ratings: 4
+Would Take Again Percent: 0
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: CMNS455
+Date: 2017-11-13 20:20:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+This is such a useless course. Prof is passionate but doesn't seem to even understand the course or maybe its because its planned poorly. She doesn't reply, and class material doesn't really help prepare for the paper.
+
+--- Rating #2 ---
+Class: CMNS455
+Date: 2016-06-08 03:46:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This was one of the most useless classes I've taken. This prof does one lecture in wk 2 for 4 hrs (4 min break only), and the rest of the semester consists of classmate presentations. 10 weeks, 4 presenters each week (40 students), each presenter about 45 minutes to an hour.  She doesn't need to lecture. You self-learn this class.
+
+--- Rating #3 ---
+Class: CMNS455
+Date: 2015-11-03 15:13:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Very nice and helpful for your works.
+
+--- Rating #4 ---
+Class: CMNS455
+Date: 2014-12-16 14:34:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+The entire course is based on your classmates' presentations and yours (20mins long). She does not lecture or grade your paper. There is a marker who grades your paper. Don't expect she will teach you something. You have to read and learn by yourself and ask for help.

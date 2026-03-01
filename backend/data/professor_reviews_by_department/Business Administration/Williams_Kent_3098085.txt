@@ -1,0 +1,258 @@
+Professor: Kent Williams
+Professor Legacy ID: 3098085
+Professor ID: VGVhY2hlci0zMDk4MDg1
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 2.4
+Avg Difficulty: 3.9
+Num Ratings: 19
+Would Take Again Percent: 36.8421
+
+Ratings Count Returned: 19
+
+--- Rating #1 ---
+Class: BUS275
+Date: 2026-01-30 00:31:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I loved his class he is my favorite professor of all time
+
+--- Rating #2 ---
+Class: BUS275
+Date: 2026-01-29 19:23:59 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Friendly professor, however the weekly tasks given I felt were pointless. We had to write long reflections on how much we love Earth. I don't see how this relates to business.
+
+--- Rating #3 ---
+Class: BUS275
+Date: 2025-12-29 09:07:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Challenging exam; people who complain are not kidding! All the exam contents are the class discussions. DO NOT TAKE BUS275 WITH HIM!!!!!!!!!! (HONEST ADVICE)
+
+--- Rating #4 ---
+Class: BUS275
+Date: 2025-12-29 09:05:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+RUN RUN RUN!!! He is not good to teach this course, really hard!!!
+
+--- Rating #5 ---
+Class: BUS275
+Date: 2025-12-29 09:04:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+HARD MT EXAM!! HARD MT EXAM!! HARD MT EXAM!! HARD MT EXAM!!
+
+--- Rating #6 ---
+Class: BUS275
+Date: 2025-12-29 09:03:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He had a VERY HARD midterm exam; it was really not a good choice to take this course with him! It is understandable to recognize the course is not easy; he made the test really really really hard to prepare for. Choose others instead!
+
+--- Rating #7 ---
+Class: BUS275
+Date: 2025-12-29 09:01:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is okay! But his exam was really challenging and not acceptable; it is not fine to take it with the first-year freshman.
+
+--- Rating #8 ---
+Class: BUS275
+Date: 2025-12-19 00:27:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's nice, but his Canvas and criteria are unorganized, and content mostly repeats itself the whole semester. It can be really boring by week 4. He does weekly in-person open-book quizzes based on readings, and the only exam is focused on specific things in his slides + readings. Relate course material to all writing assignments and you'll do fine.
+
+--- Rating #9 ---
+Class: BUS275
+Date: 2025-12-12 06:35:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I honestly really liked this class. The final assignment was kind of confusing, and we had to clarify with our TA a lot. His lecture style is definitely unique; he makes his lectures speeches but I liked it. All content talked about in the lecture is straight from the readings so his lectures just help you think more critically about the content.
+
+--- Rating #10 ---
+Class: BUS275
+Date: 2025-12-09 20:02:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I thought Dr. Williams was a kind and fair prof! If you do the required material&#8212;readings and short tedtalks&#8212;you will do well on the midterm and overall in the class (even if u just glance over the long ones). The content is not difficult and I thought the modules were well organized with great real-world examples to enhance the business aspect.
+
+--- Rating #11 ---
+Class: BUS275
+Date: 2025-12-06 23:10:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This course was on the more challenging side, but overall found it's helped me reshape how I study and take notes. Kent is kind, and truly cares about the topics he brings up in lectures. Please pay attention to what he speaks about in class though- its often brought up again on tests!!!
+
+--- Rating #12 ---
+Class: BUS275
+Date: 2025-12-06 23:01:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Williams is a friendly guy, and you can tell he is passionate about his topic of teaching. Although people on here speak of how this is a difficult course, I think it is worth it to take this with Kent as he will expand your learning and critical thinking skills.
+
+--- Rating #13 ---
+Class: BUS275
+Date: 2025-11-11 07:03:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+You could imagine how his rate for teaching courses was his first time at SFU. Just run and choose another prof...
+
+--- Rating #14 ---
+Class: BUS275
+Date: 2025-11-11 07:01:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+If you want to get a super challenging exam, choose him without any doubt, and I wish you can successfully pass this course. Good luck to his future students...
+
+--- Rating #15 ---
+Class: BUS275
+Date: 2025-11-11 07:00:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+He is not clear with what he wants, and your grade will reflect that. All he talks about in lectures are things that won't even be applied later on in the course. It is so useless to study this course with him&#8230;
+
+--- Rating #16 ---
+Class: BUS275
+Date: 2025-11-11 06:58:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Stagnant prof, I would highly recommend NOT taking this class with this prof at all costs. It's not too too hard to get a decent grade but he is a good person but with so hard exam.
+
+--- Rating #17 ---
+Class: BUS275
+Date: 2025-11-11 06:56:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Don't take this course with Kent! It is ridiculous that he tested so hard and made people feel like they had to study so hard and without direction. So many "In the class, we discussed about..." questions.
+
+--- Rating #18 ---
+Class: BUS275
+Date: 2025-10-21 04:52:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Although he is very nice I am not enjoying 275 due to the un-organization of the slides (mostly just pictures and not information of actual course concepts, which makes it difficult to review if you miss a class). I also find that politics are discussed way too much in the course even when its not related or relevant. Wouldn't take this prof again.
+
+--- Rating #19 ---
+Class: BUS275
+Date: 2025-09-27 20:25:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This professor is great, and he is new to the Beedie; he doesn't give any breaks in the class, and all the course is talking about Indigenous people and how to protect the environment (without any content with business). But overall, he is the good choice for this course.

@@ -1,0 +1,37 @@
+Professor: Craig Janes
+Professor Legacy ID: 1591561
+Professor ID: VGVhY2hlci0xNTkxNTYx
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 5
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: HSCI824
+Date: 2018-03-14 00:01:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Craig Janes is one of the best professors I have ever met!
+
+--- Rating #2 ---
+Class: HSCI821
+Date: 2011-06-16 14:43:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+LOVE HIM

@@ -1,0 +1,219 @@
+Professor: Sam Behfarshad
+Professor Legacy ID: 2227757
+Professor ID: VGVhY2hlci0yMjI3NzU3
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 4.9
+Avg Difficulty: 2.5
+Num Ratings: 16
+Would Take Again Percent: 100
+
+Ratings Count Returned: 16
+
+--- Rating #1 ---
+Class: MSE321
+Date: 2020-12-20 07:39:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I loved being a student in his class. He really goes above and beyond to make sure you know your material and responds to emails very quickly. As long as you listen to him and study the material from tutorials youll be fine. If youre stuck somewhere, just send him and email and he will explain it in detail. Hes so caring and very respectful
+
+--- Rating #2 ---
+Class: MSE300
+Date: 2018-07-25 14:41:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+best prof ever GOAT
+
+--- Rating #3 ---
+Class: MSE223
+Date: 2018-05-14 15:19:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Highly recommend Sam to everyone. He is really passionate about teaching and would go above and beyond to make sure you understand the material.
+
+--- Rating #4 ---
+Class: MSE223
+Date: 2018-04-12 15:35:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+nice prof, easy to get a good grade in his class, he is willing to help you to learn
+
+--- Rating #5 ---
+Class: MSE223
+Date: 2018-04-08 22:38:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Ghasem (Sam) is a very caring professor, and he wants his students to succeed. He is an interesting combination since he is very responsive. What I mean by that is when the class fails, he tries to make you pass, and when the class does well, he tries to fail you. In the end you will likely pass though. Don't skip class, there's pop quizzes!
+
+--- Rating #6 ---
+Class: MSE321
+Date: 2018-02-08 12:44:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great prof. Amazing lectures. Super caring, kind and funny.
+
+--- Rating #7 ---
+Class: MSE321
+Date: 2018-01-10 12:52:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Sam is a great prof. He tries his best to explain concepts and is always available outside of class time for help. Is also very down to earth which makes him understanding as well. Overall, great prof. Study for those pop quiz's (he gives you the dates before hand). Exam questions are right out of the book. Fair marker. He should teach more
+
+--- Rating #8 ---
+Class: MSE321
+Date: 2018-01-06 19:49:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+MSE321 is one of the toughest course at SFU but professor Sam made the classes more interactive and fun, which made the course look easier.
+
+--- Rating #9 ---
+Class: MSE220
+Date: 2018-01-06 19:44:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very caring and helpful
+
+--- Rating #10 ---
+Class: MSE321
+Date: 2018-01-06 03:47:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I got my MSE321 course with Sam last semester. He is one of the best profs I have ever had at the SFU. He is caring and easily accessible outside class. However, course is not easy and do not expect easy grade, as you will have to work on this course and do your best. If you put your effort, you will like this course and Sam!
+
+--- Rating #11 ---
+Class: MSE321
+Date: 2018-01-05 21:29:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Sam is one of the best profs I have ever had in MSE. Not only he's good at explaining the material but also the flexibility he gave to students. Thermodynamics is a tough course and he has taught this class well.
+
+--- Rating #12 ---
+Class: MSE321
+Date: 2018-01-05 19:02:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Good class that I found very useful and recommend everyone to take it with Sam.
+
+--- Rating #13 ---
+Class: MSE220
+Date: 2018-01-05 14:00:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Sam is one of the best profs I had at SFU. One of the only prof that actually cares about his students. He is alway open to his students input and can make adjustments. He will slow down and explain a concept if he feels that students are having a hard time with it. Hoping to have hime more courses in the future.
+
+--- Rating #14 ---
+Class: MSE321
+Date: 2017-12-27 02:14:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Behfarshad is such a funny and great guy! Definitely take a class with him and he'll become your favorite prof.
+
+--- Rating #15 ---
+Class: MSE301
+Date: 2017-12-18 01:24:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Sam is very nice, caring and smart. I went to him a few times during his office hours and he went out of his way to make sure I understand the material and he explained it very well. It's not an easy course but Sam makes if very enjoyable. I will definitely take another course with him again.
+
+--- Rating #16 ---
+Class: MSE321
+Date: 2017-12-03 12:45:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Thermodynamics and heat transfer isn't an easy course but Sam (Ghasam) made it really enjoyable. His lectures are really organized, full of humor and he makes sure the students understand the material. Asking questions is encouraged and he clearly explains what he is looking for in an exam. He's really caring and nice! Will take again!!!

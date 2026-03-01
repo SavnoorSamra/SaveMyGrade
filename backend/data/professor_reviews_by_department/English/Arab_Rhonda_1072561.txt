@@ -1,0 +1,193 @@
+Professor: Rhonda Arab
+Professor Legacy ID: 1072561
+Professor ID: VGVhY2hlci0xMDcyNTYx
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 3.7
+Avg Difficulty: 2.4
+Num Ratings: 14
+Would Take Again Percent: 75
+
+Ratings Count Returned: 14
+
+--- Rating #1 ---
+Class: ENGL204
+Date: 2024-03-11 19:04:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Probably the worst professor at SFU. Do not take this class.
+
+--- Rating #2 ---
+Class: ENGL113W
+Date: 2022-03-23 06:03:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Arab is great! She chose really interesting plays for us to study and every lecture approached the key themes from cool perspectives. Grading is done by your TA so it depends (my TA, Felix, was awesome! Assignments aren’t awful, since the prompts are stuff that we focus on in class. Overall, great course!
+
+--- Rating #3 ---
+Class: ENGL113W
+Date: 2022-03-22 00:41:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Arab is underrated on here. She’s awesome! Really interesting way of approaching the texts and analyzes them in a way that engages you the whole lecture! She chose great plays for us to study and lectures are really thought provoking. Assignments are what you’d expect from an english class, few papers but interesting topics! Love her!
+
+--- Rating #4 ---
+Class: ENGL311
+Date: 2018-08-06 19:18:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Ronda made Shakespeare enjoyable. She picked a great selection of plays and focused on the texts themselves, rather than critical theory. This lecture-style made the task of talking about Shakespeare less daunting. Her papers were typical of the third year level. She gives you a choice on what to write on. Not a difficult marker, just picky.
+
+--- Rating #5 ---
+Class: ENGL311
+Date: 2015-08-15 20:43:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This was one of my favourite classes I ever took. Ronda was such a good lecturer and fantastic at creating student discussion. She came well prepared with engaging lecture content and was always very clear in her expectations. She answers emails fast and encouraged people to come to office hours, where she gave very good feedback on papers.
+
+--- Rating #6 ---
+Class: ENG103
+Date: 2014-02-09 19:07:39 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I like her teaching method, she shows you movie clips during lecture that relate to the books. She tells you exactly what vocab and quotes to study, so it was easy to prepare for her final exam. My TA was great too! Great choice of books, good TAs, and  a prof who clearly outlines what's going to be on the exam! I recommend taking her class!
+
+--- Rating #7 ---
+Class: ENG103W
+Date: 2013-12-14 16:17:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I thought she was a great prof! I hardly attended lectures and yet still did well on essays. The exam was straight forward, one of the easiest exams I've ever written. Reading material was simple too, and she clarified alot of info. Overall, I would recommend!
+
+--- Rating #8 ---
+Class: ENGL203
+Date: 2011-12-09 17:58:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Clearly interested in what she teaches, but you may find it dull and dry if you're not interested in English literature. Otherwise, her lectures are very clear and I have learned a lot from her class. Few complaints here. Only one would be her slight lack of organization, but it isn't a significant issue.
+
+--- Rating #9 ---
+Class: ENG103
+Date: 2011-11-19 00:18:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I really enjoyed her ENG 103 lecture and tutorial. My writing capabilities improved vastly thanks to her encouragement and feedback.
+
+--- Rating #10 ---
+Class: ENG103
+Date: 2010-12-27 18:39:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Good prof, she tells you what kind of questions are going to be on the final (quotes from lectures, certain stage diagrams, etc) and is clear and straightforward. Involves students in discussions every class. Tutorial attendance counts for 15%, which really helped!
+
+--- Rating #11 ---
+Class: ENGL103
+Date: 2010-12-07 20:31:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Promoted discussion in lecture and brought up/clarified points made by students. Very helpful, a little dry. Overall a good professor!
+
+--- Rating #12 ---
+Class: ENG103
+Date: 2010-11-14 18:54:33 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Lectures are all over the place. She's very hard to understand and I found myself completely zoning out the entire lecture most of the time. Avoid her if you can.
+
+--- Rating #13 ---
+Class: ENG311
+Date: 2010-04-21 11:32:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Avoid her if you can. Terrible professor.
+
+--- Rating #14 ---
+Class: ENG203
+Date: 2007-12-11 14:56:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She's really nice and helpfull one-on-one, but the lectures are painfully disorganized and hard to follow.

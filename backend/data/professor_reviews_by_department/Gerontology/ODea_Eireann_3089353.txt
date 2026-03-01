@@ -1,0 +1,11 @@
+Professor: Eireann  O'Dea
+Professor Legacy ID: 3089353
+Professor ID: VGVhY2hlci0zMDg5MzUz
+Department (CSV): Gerontology
+Department (Fetched): Gerontology
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

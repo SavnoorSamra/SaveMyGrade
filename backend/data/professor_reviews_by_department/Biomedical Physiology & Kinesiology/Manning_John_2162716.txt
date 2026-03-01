@@ -1,0 +1,24 @@
+Professor: John Manning
+Professor Legacy ID: 2162716
+Professor ID: VGVhY2hlci0yMTYyNzE2
+Department (CSV): Biomedical Physiology & Kinesiology
+Department (Fetched): Biomedical Physiology  Kinesiology
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BPK207
+Date: 2016-11-14 12:17:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr Manning was a fun and caring prof. the content of 207 is not the funnest but he did a great job of getting the class involved. I was 1% away from getting an A in the course and he allowed me to come in on his own time and check my exam for part marks. He cares about his students and is an absolute beauty

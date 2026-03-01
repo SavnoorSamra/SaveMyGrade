@@ -1,0 +1,24 @@
+Professor: Christopher Woo
+Professor Legacy ID: 2909278
+Professor ID: VGVhY2hlci0yOTA5Mjc4
+Department (CSV): Accounting
+Department (Fetched): Accounting
+Avg Rating: 5
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BUS330
+Date: 2023-05-11 04:32:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Chris was an amazing professor, especially during his first semester ever of teaching. There are tons of concepts to remember, and it can be overwhelming, but use the textbook as reference and KEEP UP with the practice questions (do it over and over to study). Exams are lengthy and mostly calculations, but Chris lets you know exactly what is on it.

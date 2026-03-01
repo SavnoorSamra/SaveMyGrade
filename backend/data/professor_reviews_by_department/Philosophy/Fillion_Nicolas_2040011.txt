@@ -1,0 +1,271 @@
+Professor: Nicolas Fillion
+Professor Legacy ID: 2040011
+Professor ID: VGVhY2hlci0yMDQwMDEx
+Department (CSV): Philosophy
+Department (Fetched): Philosophy
+Avg Rating: 3.6
+Avg Difficulty: 3.8
+Num Ratings: 80
+Would Take Again Percent: 50
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PHIL451W
+Date: 2026-01-17 15:19:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Full of contempt, dismissive and totally allergic to original ideas. Not only does he not have a clue about what he himself is talking, he does not have a clue about what you (as a student) are saying. Fails to understand most philosophical concepts; very limited philosophical insight.
+
+--- Rating #2 ---
+Class: PHIL110
+Date: 2026-01-12 16:27:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If you have any self-love or self-respect, you won't take a class with him.
+
+--- Rating #3 ---
+Class: PHIL110
+Date: 2025-12-28 10:14:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+This class is cooked
+
+--- Rating #4 ---
+Class: PHIL310
+Date: 2025-11-20 11:07:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Unnecessary tough assignments and heavy workload. I was unable to get help during office hours since there was such a big queue of students stuck in their assignments
+
+--- Rating #5 ---
+Class: PHIL310
+Date: 2025-11-17 23:56:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Taking 310 with Nic was a great experience. Learning the material is so satisfying and fun. Dr. Fillion makes the class as engaging as one can when studying ZFC Set theory. I would recommend this course to anyone. The bonus marks on assignments and exams makes getting a good grade very achievable as well.
+
+--- Rating #6 ---
+Class: PHIL110
+Date: 2025-09-02 11:10:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Him and Dr. Calico could be twins, he tried really hard even though the material is dry as toast.
+
+--- Rating #7 ---
+Class: PHIL310
+Date: 2025-09-01 08:12:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Actually amazing, as long as you pay attention and do the assignments its an easy A. He does everything to help you succeed and makes these really complicated topics really easy to understand.
+
+--- Rating #8 ---
+Class: PHIL310
+Date: 2025-08-31 08:49:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The most discouraging academic experience I've had. Explanations are unclear, questions met with condescension, and the environment feels hostile rather than supportive. Logic and set theory are already difficult, but this professor actively undermines students' confidence. Avoid if you want to learn.
+
+--- Rating #9 ---
+Class: PHIL110
+Date: 2025-08-30 08:50:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Nic is more stand-up clown than professor &#8212; shallow lectures, arbitrary grading, zero real substance
+
+--- Rating #10 ---
+Class: PHIL310
+Date: 2025-08-23 10:48:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Terrible lecturer. The workload feels pointless and unchallenging. Even though attendance isn't required, it's almost the only way to piece together what's going on, since the material isn't organized. He often uses bizarre, outlandish examples that end up being more confusing than helpful.
+
+--- Rating #11 ---
+Class: PHIL110
+Date: 2025-08-14 19:06:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Brilliant lecturer. Workload is very manageable. He drops hints about exams in lectures, so don't miss the last class before each exam for sure. Although attendance isn't mandatory, it was the best way for me to keep up. He may use some outlandish examples, but those are the ones that helped me remember concepts.
+
+--- Rating #12 ---
+Class: PHIL110
+Date: 2025-08-02 01:53:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Attendance is required in the sense that you have to attend to keep up. Don't think you already know the material or that it is something you can pickup from youtube. Put in the effort and there's a big payoff.
+
+--- Rating #13 ---
+Class: PHIL110
+Date: 2025-08-02 00:28:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Brilliant, kind and charismatic. High quality teaching. Do this course and at the end you will know you have achieved something substantial.
+
+--- Rating #14 ---
+Class: PHIL110
+Date: 2025-07-23 07:20:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+-1000. Ridiculous expectations
+
+--- Rating #15 ---
+Class: PHIL110
+Date: 2025-07-02 05:01:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Say goodbye to all free time if you're taking his classes
+
+--- Rating #16 ---
+Class: PHIL310
+Date: 2025-06-02 12:41:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Professor Nicolas Fillion is incredibly smart & adept at teaching about logic. Encourages critical thinking in philosophy students to improve their arguments. Funny guy outside the classroom
+
+--- Rating #17 ---
+Class: PHIL310
+Date: 2025-05-16 04:55:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Nic is an excellent professor, with an engaging lecture style and tough but fair grading criteria. He is more than happy to accomodate questions and is genuinely interested in course content. Nic is also quite the comedian, which facilitated an easygoing class dynamic.
+
+--- Rating #18 ---
+Class: PHIL310
+Date: 2025-03-26 11:53:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Homework every week but it's fair. He actually cares about the his students learning. And his lectures are engaging. ASK QUESTIONS! He is more than happy to help you out. Hes also pretty funny. I wish all profs are like him.
+
+--- Rating #19 ---
+Class: PHIL310
+Date: 2025-03-20 17:16:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Be prepared to cry yourself to sleep every week. The assignments are crazy
+
+--- Rating #20 ---
+Class: PHIL310
+Date: 2025-03-13 14:45:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Attendance was not mandatory causing people to skip his lectures and then conclude that he is a bad professor. In actuality lectures were amazing and very educational. If these people rating 1 star had been in more than 2 lectures they would see that Nic is a very competent lecturer. Lectures? Captivating. Accent? Alluring. Appearance? Gorgeous.

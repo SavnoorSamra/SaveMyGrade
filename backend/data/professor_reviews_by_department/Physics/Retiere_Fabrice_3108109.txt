@@ -1,0 +1,11 @@
+Professor: Fabrice Retiere
+Professor Legacy ID: 3108109
+Professor ID: VGVhY2hlci0zMTA4MTA5
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

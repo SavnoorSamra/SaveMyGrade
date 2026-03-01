@@ -1,0 +1,76 @@
+Professor: Keyvan Khoroush
+Professor Legacy ID: 2504427
+Professor ID: VGVhY2hlci0yNTA0NDI3
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 2.6
+Avg Difficulty: 4
+Num Ratings: 5
+Would Take Again Percent: 40
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: CHEM122
+Date: 2025-01-02 10:26:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is not a professor but a teacher's assistant.  What a fake.
+
+--- Rating #2 ---
+Class: CHEM122
+Date: 2025-01-02 10:21:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Terrible instructor and individual.
+
+--- Rating #3 ---
+Class: CHEM122
+Date: 2022-12-29 23:20:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Best
+
+--- Rating #4 ---
+Class: CHEM122
+Date: 2020-08-16 19:14:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is not a prof though. He is a TA! Almost zero-knowledge about the topic and never properly prepared for the lectures.
+
+--- Rating #5 ---
+Class: CHEM122
+Date: 2019-07-23 02:04:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Really great! Even gives additional tutorials and really helpful

@@ -1,0 +1,274 @@
+Professor: Nienke Van Houten
+Professor Legacy ID: 1722796
+Professor ID: VGVhY2hlci0xNzIyNzk2
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 3
+Avg Difficulty: 3.3
+Num Ratings: 56
+Would Take Again Percent: 46.1538
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: HSCI441
+Date: 2025-04-29 07:26:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Enjoyed the class. Professor was kind, accommodating, and caring. Mike, the TA, was amazing.
+
+--- Rating #2 ---
+Class: hsci477
+Date: 2025-01-07 22:58:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The teacher gave tons of homework every week on two selected articles. Students were expected to not only memorize the key details but also the "correct interpretation" of the result. The TA failed to provide valuable feedback and grading was inconsistent for some students. However, Dr.N is very kind, approachable, and accommodating. Tough grader
+
+--- Rating #3 ---
+Class: HSCI100
+Date: 2022-12-02 22:04:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. N is very kind and always helpful. Lectures are fun, but be very careful with what she skips. 
+Exams are understandable and are based on what she talks about in class. 
+
+TA are respectful and fun to be around; they help you understand the content and assist you with your written paper if you're stuck.
+
+--- Rating #4 ---
+Class: HSCI212
+Date: 2021-05-11 02:52:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr.N was a good prof. Lectures were content heavy but not hard to follow along. Had bi-weekly quizzes which were straightforward. Grading was harsh, so beware of going over the word count for assignments. Lectures were sometimes uploaded late, the prof also responds to emails late or never. TA was very accessible. Overall, it was an easy class.
+
+--- Rating #5 ---
+Class: HSCI100
+Date: 2020-08-26 05:38:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+She is a really nice person; she is caring and accommodating. however, she lacks humour, and classes are a little boring. but it's an easy class. it's a little reading heavy. lectures were recorded. and class notes are easy to navigate. overall was a good class.
+
+--- Rating #6 ---
+Class: HSCI212
+Date: 2020-05-02 18:59:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Pros: Lectures are recorded, very good review rubric, knowledgeable; Cons: Lectures are sometimes dry, outside readings required but not unreasonable, grading from TA inconsistent, grading rubric is harsh(since every level is 1/4 of the marks in that section, so if it's not perfect, bye-bye 25%!!!!), grading is on the slow side as well.
+
+--- Rating #7 ---
+Class: HSCI100
+Date: 2020-01-01 21:18:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Her lectures are very boring as she just reads off the lecture notes so a-lot of people tend to skip and learn on their own. Do not recommend this professor.
+
+--- Rating #8 ---
+Class: HSCI100
+Date: 2019-12-20 20:55:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Best prof so far. She is very clear about what will be on the midterm/final. Lectures are recorded. Review of Bio 12. Textbook was optional I never used it because everything needed was on lecture slides. Her lecture slides had plenty of info to learn from. Shes nice and caring, she can be monotone but her lectures are still interesting. Recommend.
+
+--- Rating #9 ---
+Class: HSCI212
+Date: 2019-10-10 06:42:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+This is not an easy class, but she makes it so engaging, and really cares about students learning that it makes it so worth it. Lectures are engaging, and she is kind and understanding. would take a class just because she is teaching it!
+
+--- Rating #10 ---
+Class: HSCI100
+Date: 2019-10-09 18:12:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I took this course as it was required. I didn't attend any classes because I didn't get what she taught in class. If you don't have a biology background, I would strongly recommend not to take this course with her. The course is super easy, but the way she teaches makes it super difficult and you won't understand anything if you don't have biology.
+
+--- Rating #11 ---
+Class: HSCI212
+Date: 2019-07-10 16:54:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I didn't enjoy the class as much as I expected. She is probably the most boring prof I've ever had but she's a nice person. We were allowed to use a cheat card which was VERY useful. My biggest issue with this class is that the group project was not clear and grades for it came out after the semester was over so I couldn't even go dispute the grade
+
+--- Rating #12 ---
+Class: HSCI100
+Date: 2019-05-03 14:43:03 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Easy class overall, but really boring
+
+--- Rating #13 ---
+Class: HSCI212
+Date: 2019-04-30 20:58:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She expected you to know a lot of terms which even not covered by her lecture. Her slide looks good and easy but the test is way beyond that and the cheat card is not enough to help to survive. Grading is so slow and even she noticed the criteria is not clear enough lol
+
+--- Rating #14 ---
+Class: HSCI212
+Date: 2019-04-29 07:08:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She literally drop a lot weight grades by the end of the last day of whole term and then sent a scale say this is how she do the grades. Now, we cant email her, contact TA about project and got a really bad grades. Lecture was so intense like a MBB class. Definitely avoid this class and her!!!!!!!!
+
+--- Rating #15 ---
+Class: HSCI212
+Date: 2019-04-25 20:43:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. van Houten needs to reconside her career in teaching. Class materials are so disorganized and inaccessible to students, and she marks inconsistently and didnt release our marks for projects or exams until it was too late to discuss them with her. She didnt give us our main project marks until weeks after the semester ended. AVOID AVOID AVOID!
+
+--- Rating #16 ---
+Class: HSCI212
+Date: 2019-04-14 21:29:58 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Houten is an ok prof, she's knowledgeable on the topic but she takes the class way too seriously. This was a 2nd year HSCI course but it's more like an MBB class. There is a group project worth 25% but her instructions for it were very vague and disorganized. She did let us bring in cue cards for exams but it didn't help. Overall very mediocre.
+
+--- Rating #17 ---
+Class: HSCI100
+Date: 2019-01-15 21:31:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Okay, so I've been in this class for a solid 2 weeks. I'm a fourth year student, and out of all the courses I've ever taken, this is by far the most disorganized. Literally absolutely nothing is organized in this class. So far, the class is really easy, but the disorganization makes it suck.
+
+--- Rating #18 ---
+Class: HSCI100
+Date: 2017-04-12 12:10:41 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+A bit monotone, but she knows her stuff. Honestly, just studying the lecture notes a week before an exam and you'll do fine. It's easy to get an A, as long as you're good at memorizing.
+
+--- Rating #19 ---
+Class: HSCI100
+Date: 2017-04-11 00:49:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+One group project (an easy one). Really liked her humor - she sounds a bit monotone, but she's really cool when you look past that and chat with her. Overall, she's easy to understand and very fair with exams and grading. No complaints with her. Actually knows how to use TopHat too. Just keep up with your notes!
+
+--- Rating #20 ---
+Class: HSCI212
+Date: 2017-04-08 16:48:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Honestly, her slides are really useless and tets a lot of things outside her lecture slides that she expects you to read on like articles and videos. Its a little bit heavy on the bio side, but I like that. What I don't like is how it doesn't really explain it, and just throws a bunch of terms. Don't take this course with her.

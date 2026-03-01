@@ -1,0 +1,102 @@
+Professor: Ryan Shea
+Professor Legacy ID: 2208285
+Professor ID: VGVhY2hlci0yMjA4Mjg1
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.9
+Avg Difficulty: 3.9
+Num Ratings: 7
+Would Take Again Percent: 71.4286
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: CMPT371
+Date: 2018-04-18 16:50:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Took 371 and 300 with Ryan. He's very engaging with his discussions and live demos. Definitely recommend for either or both of these courses!
+
+--- Rating #2 ---
+Class: CMPT371
+Date: 2018-04-16 06:58:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Interesting/entertaining lectures. Randomly busts out kali and aircrack for live demos. Actually discusses slides rather than just reading them to you. Slides/textbook available online. Attendance not mandatory but definitely helpful. Not an easy grader but not a random trivia master either. Midterm/final stuck to the slides. 75% exam average
+
+--- Rating #3 ---
+Class: CMPT886
+Date: 2017-05-10 20:18:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Prof has outstanding fundamental knowledge in Computing sciences. Tough assignments. covers 2hrs of topics in an hour. Grad seminar course, so students talk more than prof and students cant emulate prof. mostly self learning in the course and project. I feel they should rethink about course structure and limit student seminars to final presentation
+
+--- Rating #4 ---
+Class: CMPT300
+Date: 2017-04-19 23:45:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Only criticism I have is some exam questions concepts were repeat from assignments. If you struggled on the assignments, it mirrored on the exams. Otherwise, Dr. Shea is a hero. He really knows the course material and how to teach it. Fast and efficient in office hours. Gave homework extensions based on class feedback. No regrets taking his class.
+
+--- Rating #5 ---
+Class: CMPT300
+Date: 2017-03-30 01:12:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This prof is the reason people wouldn't wanna go to school. He lacks originality with copying all of his assignments from other universities which take up WAY too much time. The assignments should be worth 70% of the course instead of 50%. We should be focused on learning EFFICIENTLY, not having a lot of time consumed for the purpose of learning.
+
+--- Rating #6 ---
+Class: CMPT300
+Date: 2017-03-06 03:22:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+3 years at SFU and he's the best CMPT prof I've had. He knows what he is talking about AND he knows how to explain it clearly to students. He postpones assignments when requested so students can learn. Ryan Shea MAKES your job as a student easier by providing you with the necessary resources.
+
+--- Rating #7 ---
+Class: CMPT300
+Date: 2016-12-15 14:20:49 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Hard course with tough prof. Assignments are Copied from graduate course ones. Exams ok.

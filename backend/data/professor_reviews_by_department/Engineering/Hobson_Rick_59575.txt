@@ -1,0 +1,89 @@
+Professor: Rick Hobson
+Professor Legacy ID: 59575
+Professor ID: VGVhY2hlci01OTU3NQ==
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 2.2
+Avg Difficulty: 4
+Num Ratings: 6
+Would Take Again Percent: -1
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: ENSC450
+Date: 2013-03-07 13:42:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very knowledgeable and helpful. Always present for the students if they need help during their project.
+
+--- Rating #2 ---
+Class: ENSC450
+Date: 2010-11-22 18:58:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Only do the assignments when he is in his office, or else don't even attempt!!
+
+--- Rating #3 ---
+Class: ENSC250
+Date: 2005-01-20 19:20:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+As said, you will get a good grade, but you will be lost all semester and only feel safe when he lays down that easy final infront of you, and you look around and see that only half the class decided to show up for the final.
+
+--- Rating #4 ---
+Class: ENSC250
+Date: 2004-03-23 23:35:07 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+scared me away from computer hardware courses
+
+--- Rating #5 ---
+Class: CMPT250
+Date: 2003-03-06 05:22:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+you will get a good grade, but you won't learn anything....
+
+--- Rating #6 ---
+Class: ENSC250
+Date: 2002-08-10 06:13:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments

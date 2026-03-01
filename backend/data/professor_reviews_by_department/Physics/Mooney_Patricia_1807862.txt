@@ -1,0 +1,24 @@
+Professor: Patricia Mooney
+Professor Legacy ID: 1807862
+Professor ID: VGVhY2hlci0xODA3ODYy
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 1
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: PHYS231
+Date: 2013-04-10 18:25:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+When you ask her an honest question, instead of helping you she will get upset and defensive. Literaly the worst prof I've ever had by a long shot.

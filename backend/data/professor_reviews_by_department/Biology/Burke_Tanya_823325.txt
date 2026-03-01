@@ -1,0 +1,11 @@
+Professor: Tanya Burke
+Professor Legacy ID: 823325
+Professor ID: VGVhY2hlci04MjMzMjU=
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

@@ -1,0 +1,271 @@
+Professor: Samir Gandesha
+Professor Legacy ID: 501682
+Professor ID: VGVhY2hlci01MDE2ODI=
+Department (CSV): Humanities
+Department (Fetched): Humanities
+Avg Rating: 2.6
+Avg Difficulty: 3.5
+Num Ratings: 36
+Would Take Again Percent: 30
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: HUM321
+Date: 2024-04-29 15:37:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+This course was his first delivered online. The timeline of getting recorded lectures was sporadic. He prepares minimal slides for his lectures so you need to pay close attention to what he says. The major assignments were all due at the end of the semester, which made it hard to know how he grades. Turns out he has very high expectations.
+
+--- Rating #2 ---
+Class: HUM101W
+Date: 2023-12-17 00:16:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Do not take unless mandatory for your degree. Class is an introduction to humanities yet I've never been more confused in a humanities class before. The professor is inconsistent with his rubric and docks grades for criteria he fails to mention. Never shows up to class with prepared slides just stands and talks in the front for the duration.
+
+--- Rating #3 ---
+Class: HUM101W
+Date: 2023-12-04 03:48:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures were confusing and he rarely had slides ready for class. With the TSSU strike many concepts were skimmed over or skipped completely. Second paper ended up being worth 40% of the total grade and the grading rubric was changed mid semester without any guidance. Tough grader, unclear, unorganized and came to class unprepared.
+
+--- Rating #4 ---
+Class: HUM360
+Date: 2022-11-19 00:30:53 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The topics and readings were very interesting, and the class discussions were great. However, there is some sense that topics not necessarily relate to one another (and he does not do a great job helping there). His grading is really unclear despite the rubric. The feedback is minimal and appears unimportant, yet his grading is tough
+
+--- Rating #5 ---
+Class: HUM101
+Date: 2022-10-15 01:33:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the worst profs I've ever had. Boring, inconsistent, and a terrible grader. Rubrics and comments constantly have one-word responses next to incomplete grades, with absolutely NO feedback or suggestions on what you can fix to improve your mark. Avoid classes with him if you value your sanity.
+
+--- Rating #6 ---
+Class: hum320
+Date: 2022-04-30 03:07:58 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+The professor is nice and talketive but he is a tough grader. Classes are long but enjoyable and get ready to ready.
+
+--- Rating #7 ---
+Class: HUM101W
+Date: 2021-12-03 19:44:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Fairly interesting topics, good crossover between modern and ancient topics. Lots of reading, some pretty difficult to follow along with, but he is extremely fair and takes feedback seriously to improve the course. Flexible with deadlines if he sees that people are struggling. Overall good prof and enjoyed the course
+
+--- Rating #8 ---
+Class: HUM101W
+Date: 2021-12-01 00:23:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Samir is a great person and cares about his students. However, unless this class is required for your major I would avoid it due to the work load. Average 2hrs of reading a week + 1hr homework (if you know what you're doing) on top of regular class time. Must participate in tutorials each class for marks. Not a GPA booster, concepts can be hard.
+
+--- Rating #9 ---
+Class: HUM101W
+Date: 2018-01-18 17:41:01 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I am currently in his Hum 101W class &amp; this is only our 3rd class and I feel a little lost. He makes great discussion in the class but I feel like he digress a lot and does not provide good lecture notes or guidelines for that matter. I'm a biology student &amp; I'm used to clear notes. I wish he was more organized. Prepare to read 8 different textbook
+
+--- Rating #10 ---
+Class: HUM101
+Date: 2017-09-05 21:35:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is an amazing teacher, and really cares about his students. Gandesha values everyones differing opinions and thoughts, and often provokes insightful ideas. There is a lot of reading but it was his first time running this course. He very much is polisci so keep up to date with the news, but he is lovely so if you do the homework you will be fine.
+
+--- Rating #11 ---
+Class: HUM321
+Date: 2016-01-06 19:07:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Difficult class, but Samir made it super interesting. Definitely not a clear-cut syllabus, so it's important to attend lectures and take the time to understand the material.
+
+--- Rating #12 ---
+Class: HUM101W
+Date: 2013-04-29 20:38:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Definitely knows his stuff...except he can't communicate well with his students. He mumbles in class so it's really hard to hear him. He treats it like a 4th year class too! He's very unorganized with last-minute slides full of typos and is a fickle. Be prepared to do lots of readings. Could've been way more interesting...
+
+--- Rating #13 ---
+Class: HUM322
+Date: 2010-12-29 04:16:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Class was enjoyable, discussions were always interesting and challenging. Encourages critical thinking. Assignments were fair, final paper was 10-12 pages and involved analyzing a real-world issue using the class readings. Which is a lot better than abstract philosophy!
+
+--- Rating #14 ---
+Class: HUM360
+Date: 2010-12-23 18:50:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I recommend taking this class, because it's one of the very few dedicated to the theme of nihilism. Class discussions were always relevant and engaging, however he tends to go off on tangents. One of the drawbacks is their is much more sporadic course content (no exams), so it may be hard to pull it all together. Assignments are fair, though.
+
+--- Rating #15 ---
+Class: HUM202
+Date: 2010-08-23 01:31:23 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Amount of reading was decent (7 books, 2 essays - but SHORT ones), and material was really well connected with social, political, and philosophical issues. Lack of an exam means what you learn is equal to the effort you put in, rather than rote memorization. Reasonably accessible and helpful - encourages discussion, passionate about the humanities.
+
+--- Rating #16 ---
+Class: HUM101
+Date: 2010-07-29 04:17:45 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He really knows what he's talking about, however, he seems to expect too much from his students. Over all it was a very interesting class, because he was able to relate the content very well to modern society, but there was way to much reading required.
+
+--- Rating #17 ---
+Class: HUMHUM
+Date: 2010-04-07 15:18:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He is friendly enough and teaches somewhat comprehensively. However, he is terribly unorganized and expects way too much for a 100 level introductory course. He is very last minute and ambiguous in his directions. it caused me alot of stress during the semester. the amount of work i put into the course didn't reflect in my grade at all.
+
+--- Rating #18 ---
+Class: HUMXXX
+Date: 2009-11-24 20:08:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great Prof. Very intelligent yet approachable. He is unarguably invested in his work and in students demonstrating some level of academic engagement. I suspect that most of these negative comments are from students undertaking HUM courses for &quot;easy&quot; breadth requirements - b/c HUM is a small dept, most courses do not have prereqs. Now you know.
+
+--- Rating #19 ---
+Class: HUM101
+Date: 2009-07-25 03:09:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+VERY boring. Droned on and on about stuff unrelated to the class. 10 textbooks, two 10 page papers, no time to do all that! NOT a 100level course. GET A GOOD TA, I got a terrible one. I talked to Gandesha about issues with my TA and he disregarded it. Worst course I've ever taken.
+
+--- Rating #20 ---
+Class: HUM101
+Date: 2009-03-13 00:49:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+This guy butchered HUM 101 for me big time! Not only are his lectures BORING, but he drones on and on in tutorial! Texts were interesting, but he didn't really do anything engaging to him. Not helpful at all.

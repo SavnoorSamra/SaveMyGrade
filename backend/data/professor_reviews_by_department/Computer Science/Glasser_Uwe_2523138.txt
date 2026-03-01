@@ -1,0 +1,63 @@
+Professor: Uwe Glasser
+Professor Legacy ID: 2523138
+Professor ID: VGVhY2hlci0yNTIzMTM4
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.5
+Avg Difficulty: 2.8
+Num Ratings: 4
+Would Take Again Percent: 50
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: CMPT318
+Date: 2024-04-22 22:13:05 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Uwe is very knowledgeable about cybersecurity, but what is taught in class is more the theoretical side of cybersecurity. Uwe is probably cybersecurity Fortinet HHM anomalies haha
+
+--- Rating #2 ---
+Class: CMPT318
+Date: 2023-12-26 11:19:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Phenomenal professor who adeptly carries out an effective and cohesive approach in conveying a productive and coherent lecture during every class. Despite limited availability due to conference engagements and research commitments, it does not undermine his capacity to impart a sense of enjoyment in an advanced computer science course.
+
+--- Rating #3 ---
+Class: CMPT318
+Date: 2022-08-21 01:11:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+hes the man
+
+--- Rating #4 ---
+Class: CMPT318
+Date: 2022-08-21 01:06:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+bro reset his rate my prof bruhhhh

@@ -1,0 +1,24 @@
+Professor: Steven Thompson
+Professor Legacy ID: 2412630
+Professor ID: VGVhY2hlci0yNDEyNjMw
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: STAT330
+Date: 2019-12-18 23:32:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great lectures and pretty straightforward exams/no big curveballs.

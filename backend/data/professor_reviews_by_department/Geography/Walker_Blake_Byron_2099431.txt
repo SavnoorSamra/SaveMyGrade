@@ -1,0 +1,24 @@
+Professor: Blake Byron Walker
+Professor Legacy ID: 2099431
+Professor ID: VGVhY2hlci0yMDk5NDMx
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 5
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: GEOG355
+Date: 2016-04-27 00:52:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Fantastic professor. Very clear and concise during his lectures and always willing to help you out. Would definitely recommend.

@@ -1,0 +1,37 @@
+Professor: Srinivas Sura
+Professor Legacy ID: 1173387
+Professor ID: VGVhY2hlci0xMTczMzg3
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 5
+Avg Difficulty: 3.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BISC302
+Date: 2018-11-08 15:48:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Awesome professor!
+
+--- Rating #2 ---
+Class: BISC302
+Date: 2008-08-29 11:30:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+No Comments

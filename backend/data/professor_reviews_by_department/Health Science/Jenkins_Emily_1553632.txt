@@ -1,0 +1,24 @@
+Professor: Emily Jenkins
+Professor Legacy ID: 1553632
+Professor ID: VGVhY2hlci0xNTUzNjMy
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 4.5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: HSCI214
+Date: 2011-09-07 00:14:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She's a good prof and explains things really well. She also makes her classes interesting with videos and guest speakers, but she will include this information on her exams. The only think I really didn't like was that her exam questions were often tricky making you second guess yourself no matter how much you knew the subject matter.

@@ -1,0 +1,11 @@
+Professor: Nancy Cochrane
+Professor Legacy ID: 902404
+Professor ID: VGVhY2hlci05MDI0MDQ=
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

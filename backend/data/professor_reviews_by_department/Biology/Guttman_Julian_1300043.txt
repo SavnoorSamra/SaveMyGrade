@@ -1,0 +1,276 @@
+Professor: Julian Guttman
+Professor Legacy ID: 1300043
+Professor ID: VGVhY2hlci0xMzAwMDQz
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 3.7
+Avg Difficulty: 3.2
+Num Ratings: 32
+Would Take Again Percent: 78.5714
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BISC428
+Date: 2026-01-22 20:14:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Guttman is great. His lectures are interesting and get to the point without extra fluff, he has a good sense of humour and actually makes going to class enjoyable. You do need to show up as the slides are skeleton slides and not posted online. He's a solid Biology prof, take courses with him if you can!!
+
+--- Rating #2 ---
+Class: BISC428
+Date: 2025-12-23 01:01:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+what a GREAT prof. Everything he does is extremely caring. He speaks with a very soft voice and it's very soothing. He's extremely entertaining and he's also sooo jacked he gives really easy tests so my only homework was to go out and see friends and that was extremely hard for me as I have no social compass
+
+--- Rating #3 ---
+Class: BISC428
+Date: 2025-08-16 02:52:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Guttman is a good lecturer and explains the concepts well, he's pretty entertaining too. But you have to attend lecture to get the notes, he doesnt record them. Tests are all multiple choice which can be difficult, I would have appreciated some short answer questions on the final. A 160 MC final is insane but doable if you study constantly.
+
+--- Rating #4 ---
+Class: BISC428
+Date: 2025-08-15 16:29:07 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Guttman is an ok prof not good not bad. You have two midterms and a final that full cumulative all mc. He doesn't record is lecture and you need to fill in the blanks so you have to show up but he is kind of entreating. If you want a good mark start studying day one and you should be fine dont try to cram on the last day unless you want to do bad.
+
+--- Rating #5 ---
+Class: BISC303
+Date: 2024-12-20 06:04:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I really liked Dr. Guttman, exams were straight forward, no long answer questions, just MC and short answer. He was also very enthusiastic and his lectures were fairly simplistic. Just make sure you study everything from the lecture slides and you will do great!
+
+--- Rating #6 ---
+Class: BISC303
+Date: 2024-10-20 00:32:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I think I am paying to learn material I will need in my career.
+Guttman thinks I am paying for the right to take exams. 
+He makes learning the material as difficult as he can. Lecture slides are posted, shrunk down to half a page, in black and white, with all needed material deleted. 
+He could have lectures recorded, but he chose not to
+He yells.
+
+--- Rating #7 ---
+Class: BISC303
+Date: 2024-09-18 20:12:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+It is work heavy course. Two labs a week are exhausting with the pre labs, discussion questions, poster etc. You have to go to labs on non scheduled days to get observations on your experiment. However lectures were good and exams were from slides. Have to go to lecture to pass the course as slides are empty and need to be filled in class.
+
+--- Rating #8 ---
+Class: BISC428
+Date: 2023-12-11 19:56:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+No tutorials or assignments. just 2 midterms all pure memorization and a cumulative final exam that i still gotta write. Great guy but it is legit all memorization. Content heavy and you gotta attend class to fill in the blanks in the notes. He is really great and accessible. Make cue cards after every lecture otherwise you may fall behind.
+
+--- Rating #9 ---
+Class: BISC428
+Date: 2023-04-25 05:51:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Julian's a very engaging and fun lecturer, I always enjoyed coming to his class. 428 was extremely content heavy and you cannot miss any lectures. I suggest making friends to share notes and voice record lectures as he will test on things he says that aren't in the notes. The cumulative final is killer so review EVERYTHING (including figures).
+
+--- Rating #10 ---
+Class: BISC428
+Date: 2023-03-04 03:12:23 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Keep up with every lecture every day and you'll do well. He covers a lot in lecture, so it's crucial to not cram at the last minute. 100% multiple choice, midterms are non-cumulative, final is cumulative. Memorize everything from lecture.
+I don't recommend taking it with four other courses, but this is the most straightforward course I have taken.
+
+--- Rating #11 ---
+Class: BISC303
+Date: 2022-10-29 07:22:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very passionate and knowledgeable professor. His lectures are enjoyable but very info dense so you never put your pen down and it's hard to pay attention to what he says in class. Attendance somewhat mandatory as his slides are blank. Some may find his testing very specific and difficult but diligent studying makes it very fair. Highly recommend.
+
+--- Rating #12 ---
+Class: BISC428
+Date: 2022-05-16 07:54:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Guttman is caring and gives amazing lectures. You could tell he is really passionate about his work. I would highly recommend!
+
+--- Rating #13 ---
+Class: BISC303
+Date: 2022-02-04 19:46:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+The exams are based on the lectures. The lectures are packed with information that you probably won't be able to properly remember since you will be too busy filling in the blanks he leaves in the lecture slides. He's passionate about the stuff he teaches, which makes it interesting to learn about, but memorizing everything can be painful.
+
+--- Rating #14 ---
+Class: BISC303
+Date: 2021-12-23 22:21:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Since it was online, all of his lectures were recorded so he was just reading off the slides and explaining diagrams a bit monotonously. I don't really think his lectures added anything; you could just read slides yourself. I think he's a good dude and might be better in person? Exams are memorization so remember literally everything!
+
+--- Rating #15 ---
+Class: BISC303
+Date: 2015-09-08 23:53:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+BEST PROFESSOR ANYONE COULD EVER ASK FOR!! If you haven't taken this course, you need to take it ASAP. He's a genuine prof., always there for you when you need help. ALSO, he's an amazing mentor! You the best, Julian, an inspiration to us.
+
+--- Rating #16 ---
+Class: BISC303
+Date: 2014-10-14 22:13:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Extremely enthusiastic about the course content, however talks really fast while you're filling in the blanks in your notes. Exams are pure memorization, be sure to study all the little details!
+
+--- Rating #17 ---
+Class: BISC303
+Date: 2014-09-27 00:48:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I am a chem major, took this class as an elective. When people say biology is all rote memorization, he definitely further enhances this stereotype.  Nice guy but thinks the "GPA" is all that matters in life. His ideologies seemed kind of silly for 2014.
+
+--- Rating #18 ---
+Class: BISC303
+Date: 2014-08-20 00:11:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+There is a lot of memorization. His midterm was very fair but the final was quite hard because of the amount of detail he expected you to know even for the very small concepts. I found the course very interesting overall and would recommend this prof.
+
+--- Rating #19 ---
+Class: BISC303
+Date: 2012-08-18 02:25:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Exams are one word/ one sentence. Have to know the little specific details. Not able to answer questions in class.
+
+--- Rating #20 ---
+Class: BISC303
+Date: 2012-07-15 18:05:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+This guy loves memorization and has the worst lecturing style I've come across in my 4 years here. He posts 10% of the notes, and forces you to write down the other 90% while simultaneously explaining it (making the explanation pointless since you're too busy writing). His exams test memorization, not knowledge. He fails to answer questions in clas

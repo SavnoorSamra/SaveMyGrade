@@ -1,0 +1,283 @@
+Professor: Andrei Bulatov
+Professor Legacy ID: 970256
+Professor ID: VGVhY2hlci05NzAyNTY=
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.3
+Avg Difficulty: 3.5
+Num Ratings: 141
+Would Take Again Percent: 73.6264
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MACM101
+Date: 2026-01-10 22:23:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The course itself is a bit challenging but he is a great prof
+
+--- Rating #2 ---
+Class: MACM101
+Date: 2026-01-07 23:51:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Andrei is a great professor, however the course material is very difficult. He makes lectures engaging but does move a little bit fast. There are pop quizzes so beware of those, but they're weighted very little in your final grade. As long as you memorize most of the lecture slides, you will do well on the tests
+
+--- Rating #3 ---
+Class: MACM101
+Date: 2025-12-15 16:59:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Beautiful prof, even though course was pretty hard, still it's very likely to get a good grade if you js study.
+
+--- Rating #4 ---
+Class: MACM101
+Date: 2025-12-13 22:40:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very good professor, but a VERY difficult class. Weekly homeworks take hours. Tutorials aren't very helpful, but attendance counts towards your grade. Midterms and final are fair (you must pass the final to pass the class); if you can do the homeworks, you'll be fine. Expect pop quizzes. Keep up with the slides and DON'T fall behind.
+
+--- Rating #5 ---
+Class: MACM101
+Date: 2025-12-10 04:09:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Really great prof; enjoyed lectures a lot. Homework was much more difficult than the tests or quizzes, so if you understand the homework, you'll be fine. Pop quizzes every couple weeks, so try to keep up; he moves quickly through the material and is religious about his slides, but they're pretty good.
+
+--- Rating #6 ---
+Class: MACM101
+Date: 2025-12-08 04:44:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Tough grader, many surprise quizzes, content slides are bit convoluted
+
+--- Rating #7 ---
+Class: MACM101
+Date: 2025-12-02 22:48:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Andrei is a solid prof, difficult accent to sometimes, but overall good
+
+--- Rating #8 ---
+Class: MACM101
+Date: 2025-11-14 00:33:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is engaging in lecture. There are surprise quizzes, so you have to keep up with the material (most people did not keep up with the material, so the medians were often 60%). Most of the homework is doable but a few questions are very difficult to figure out.
+
+--- Rating #9 ---
+Class: MACM101
+Date: 2025-10-18 23:14:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Overall decent. Like others said, he sort of just goes off the slides. After the first couple of weeks the content gets harder, and understanding the lectures gets that much tougher. The notes sometimes have mistakes as well which creates more confusion. He also has an accent that makes some sentences hard to understand.
+
+--- Rating #10 ---
+Class: MACM101
+Date: 2025-09-01 06:12:26 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+It's hard to get a good grade from his lecture.
+
+--- Rating #11 ---
+Class: CMPT308
+Date: 2025-06-30 10:03:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Clearly not interested in what he does.
+
+Reads slides without slightest interest in the course materials.
+
+Course materials are often mistake ridden.
+
+--- Rating #12 ---
+Class: MACM101
+Date: 2025-04-21 04:54:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The professor was pretty decent in lectures, though sometimes a bit hard to follow. Overall, the course was okay and manageable.
+
+--- Rating #13 ---
+Class: MACM101
+Date: 2025-04-20 05:25:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Ah yes, good ol Bulatov. Had him in fall 2023, my first semester at SFU. He was tough, definitely entertaining in lecture, exams were decently fair, but his homeworks were something I'll tell you. I'd recommend him if you want a memorable experience (take that as you will)
+
+--- Rating #14 ---
+Class: MACM101
+Date: 2025-04-18 04:30:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Overall experience was ok, for final just memorize every single proof on the slides even if u don't understand it. Midterms and final were as expected
+
+--- Rating #15 ---
+Class: MACM101
+Date: 2025-04-08 04:49:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+As someone else said, "fahntahstic."
+
+I see a lot of bad reviews of Dr. Bulatov for being lazy or weak in his lectures, but this isn't accurate. To me, a lot of people are complaining about him just because they got bad MACM grades.
+
+Exams are very definition heavy, but he's made interesting with an accent that is entertaining and barely confusing.
+
+--- Rating #16 ---
+Class: MACM101
+Date: 2025-04-04 05:49:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+"fahntahstic"
+
+--- Rating #17 ---
+Class: MACM101
+Date: 2025-03-26 16:36:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+he is so kind
+
+--- Rating #18 ---
+Class: CMPT307
+Date: 2024-12-17 21:22:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This was a pretty good class. Midterms were definition-heavy while homeworks required a lot of critical thinking and were very theory-heavy. Final was a mix of both and resulted in a class experience that was fair and enjoyable. Didn't attend a single lecture as I didn't find them particularly useful, reading the slides is sufficient.
+
+--- Rating #19 ---
+Class: MACM101
+Date: 2024-08-08 04:53:13 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Do not slip up, this is a hard class and prof is mehh, keep up with the content.
+
+--- Rating #20 ---
+Class: CMPT404
+Date: 2024-08-02 09:05:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Antiquated teaching methods and it shows. 
+
+Better to listen to old, classical songs on the radio than his life draining monologue. 
+
+He should quit and retire.

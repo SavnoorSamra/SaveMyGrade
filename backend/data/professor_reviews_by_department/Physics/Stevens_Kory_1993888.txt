@@ -1,0 +1,76 @@
+Professor: Kory Stevens
+Professor Legacy ID: 1993888
+Professor ID: VGVhY2hlci0xOTkzODg4
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 3
+Avg Difficulty: 2.8
+Num Ratings: 5
+Would Take Again Percent: 0
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: PHYS121
+Date: 2021-05-04 04:50:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+His lectures are fine but the exams are horrible.
+
+--- Rating #2 ---
+Class: PHYS102
+Date: 2018-12-18 06:53:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Worst prof I have ever had, till this day. Does not, at all, care about his students. Goes off on multiple tangents, talking about everything other than stuff on syllabus. Does not care if the material is sticking, and doesnt bother to offer extra help. First midterm was fair, the second midterm and final were terrible ! Do not recommend at all.
+
+--- Rating #3 ---
+Class: PHYS121
+Date: 2015-08-04 00:48:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+He was always super enthusiastic but he is new and not the best prof. He rambles on and some of the midterms are very hard and unrelated to the emphasized material.
+
+--- Rating #4 ---
+Class: PHYS121
+Date: 2015-07-25 18:15:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing Prof.  He explains material very clearly, and I understand most of the material after hearing his lectures.  I have never been very interested in Electricity and Magnetism, but he made the class interesting.  He's also very friendly and willing to help after class.
+
+--- Rating #5 ---
+Class: PHYSICS121
+Date: 2015-06-12 19:04:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+There are times a prof is so good that you wish you could rate them a 65. Kory is one of these profs.  He explains concepts very well and gives reasonable tests that are based on the course material which many profs don't do. Pay attention in class and you will succeed. 1010 would take again

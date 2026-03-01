@@ -1,0 +1,271 @@
+Professor: Isabelle Cote
+Professor Legacy ID: 1075068
+Professor ID: VGVhY2hlci0xMDc1MDY4
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 4.2
+Avg Difficulty: 3.2
+Num Ratings: 35
+Would Take Again Percent: 55.5556
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BISC406
+Date: 2025-01-13 18:44:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr Cote is a great instructor. She is extremely caring and interested in her field and is always excited when you are passionate about marine science. Bisc 406 isnt an easy class which I think many people expected it to be, but if you work for it you will be fine. It sets you up for a future exploring the marine sciences and Dr cote inspires you!
+
+--- Rating #2 ---
+Class: BISC406
+Date: 2021-05-02 23:04:11 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+The tests are very long and the labs take a lot more time than you would anticipate.
+
+--- Rating #3 ---
+Class: BISC102
+Date: 2021-04-23 15:46:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Nice prof, very hard class. Bisc 406. Interesting course but extra test heavy. Doesnt seem to test knowledge sometimes, more based on skills to type/ computers. Prof is great but course needs to differ.
+
+--- Rating #4 ---
+Class: BISC406
+Date: 2021-04-14 20:55:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The reports which made a large chunk of the course were heavily based on R which was very time consuming and hard for people who have no experience with R. The exams were super long (50 minutes for about 29 short questions) and graded harshly. I would avoid her at all costs as she is not helpful or accommodating of students needs! :(
+
+--- Rating #5 ---
+Class: BISC406
+Date: 2021-04-13 06:24:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Dr Cote was fantastic! The lectures were straightforward and super interesting, her slides and presentations were awesome. The labs took a lot longer each week than I anticipated but the work itself was clear and engaging. The exams are short so don't overthink them! And she loves when you bring your pets into zoom with you! :)
+
+--- Rating #6 ---
+Class: BISC406
+Date: 2021-04-13 06:16:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Dr. Cote was unbelievably kind, engaging, and accommodating. I wish that I could take more courses with Isabelle! If you reach out to her for help she will happily take the time to work with you through a problem in the best way I have ever seen a prof do. Her lectures and the lab activities were so interesting, and she is so excited to teach! :)
+
+--- Rating #7 ---
+Class: BISC406
+Date: 2021-03-25 19:57:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Fantastic prof and awesome course. She goes above and beyond to make lectures clear and engaging, and her lecture slides are well-organized and easy to follow. Lab activities and assignments are also interesting, and while they can be time-consuming, you'll learn a lot along the way. Would highly recommend this prof and this course!
+
+--- Rating #8 ---
+Class: BISC406
+Date: 2021-02-26 08:46:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Not accommodating at all. The first midterm was pathetic- 31 questions worth 50 marks in 50 mins and the lab exercises were even worst with literally no guidance.
+
+--- Rating #9 ---
+Class: BISC102
+Date: 2020-06-16 19:34:19 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Not a nice prof. Takes herself far too seriously. Respect her or else.
+
+--- Rating #10 ---
+Class: BISC102
+Date: 2015-12-26 17:15:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Dr. Cote is an awesome lecturer and you can see very clearly her passion for biology. She cares about her students and if notices a common misconception or confusion, she will go back and clearly explain the material again. She's usually very easy to listen to. Come to lectures because her lectures are usually completely different from the readings
+
+--- Rating #11 ---
+Class: BISC102
+Date: 2015-12-22 21:13:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great lecturer. Her lecture notes are very detailed. The material in the course is not too hard but she is a VERY tough grader.
+
+--- Rating #12 ---
+Class: BISC102
+Date: 2015-12-22 17:04:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Dr. Cote is a great prof, incredibly passionate about what she does and her lectures are quite interesting, even though I have no interest in biology. One lecture is entirely Harry Potter references, which was awesome. Tests are really hard though, study the slides very closely and know the test cases she uses. Don't underestimate the Eco-Evo.
+
+--- Rating #13 ---
+Class: BISC102
+Date: 2015-12-15 22:56:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Cote is one of my favourite profs I've had so far.  Not only is she extremely passionate about what she teaches, but she's also an amazing lecturer.  She's very clear; I never left lecture without understanding what she was talking about.  I would highly recommend taking a class with her!
+
+--- Rating #14 ---
+Class: BISC102
+Date: 2015-12-11 12:57:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Really passionate about what she does, and is very clear too! Great proff, exams are pretty tough though.
+
+--- Rating #15 ---
+Class: BISC102
+Date: 2015-11-19 15:15:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The class itself isn't easy, there's a lot of content covered in not a lot of time. Dr. Cote is great though, so passionate about what she does and is so helpful. Definitely utilize office hours! Great examples, plus she makes Harry Potter references :)
+
+--- Rating #16 ---
+Class: EDUC100W
+Date: 2015-05-17 18:02:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Shes rally passionate and a fair marker. Great prof would reccomend
+
+--- Rating #17 ---
+Class: 102
+Date: 2014-11-07 02:36:20 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great public speaker, and is passionate about biology. She adds fun clicker questions for bonus points as well.
+
+--- Rating #18 ---
+Class: BISC102
+Date: 2014-04-13 00:23:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Dr Cote was definitely a passionate and great professor. Make sure to read the textbook! For some reason the midterm was pretty hard and the average was 36% which later caused remarking so it can be boosted to 46%. Make sure you know the general big concepts and you should be fine!
+
+--- Rating #19 ---
+Class: BISC102
+Date: 2014-02-07 00:51:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Dr. Cote was such an absolutely wonderful welcome to the Biology program at SFU. Clearly VERY passionate about what she does, and this is reflected in her engaging, well thought out lectures. Her exams are challenging, but great in the sense that they push you to think conceptually and to APPLY what you're taught.
+
+--- Rating #20 ---
+Class: BISC102
+Date: 2014-01-09 18:15:56 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She was okay, most of the stuff are from the textbook. Make sure u read and memories things from the textbook as well. Midterm was hard but the final was fair. Lots critical thinking questions on the exams. Read textbook before lecture helps

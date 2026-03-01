@@ -1,0 +1,258 @@
+Professor: Darren Fleet
+Professor Legacy ID: 2597210
+Professor ID: VGVhY2hlci0yNTk3MjEw
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 3.4
+Avg Difficulty: 3.3
+Num Ratings: 19
+Would Take Again Percent: 57.8947
+
+Ratings Count Returned: 19
+
+--- Rating #1 ---
+Class: CMNS316
+Date: 2025-02-27 01:47:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Overall, he's a great prof. The lectures were long and sometimes he goes off topic but he's very good at explaining course concepts in an engaging way. I will say his slides could be improved (sometimes he will just put a quote from a reading and not explain the confusing terminology). He's approachable outside of class and quite understanding.
+
+--- Rating #2 ---
+Class: CMNS316
+Date: 2025-01-16 04:32:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Easy course, recommend 10/10
+
+--- Rating #3 ---
+Class: CMNS316
+Date: 2024-12-09 19:58:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Darren was a knowledgeable and sweet prof. I learned a lot from this course and am very appreciative of the effort he puts in his lectures.
+
+--- Rating #4 ---
+Class: CMNS316
+Date: 2024-11-01 00:03:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I enjoyed Darren's course. He's enthusiastic and knowledgeable about the content he teaches. His readings benefit from being read thoroughly. He records audio of the lectures and posts them after class since the slides don't include all of the info he talks about. I would give him a 5/5, but I never received my final paper marks back.
+
+--- Rating #5 ---
+Class: CMNS316
+Date: 2024-08-03 08:00:50 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very tough course with heavy lectures and reading. Midterm & final were in person with very high expectations! TA WAS horrible at grading.
+
+--- Rating #6 ---
+Class: CMNS316
+Date: 2024-08-03 07:58:51 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures were so heavy, writing Midterms & finals in person. TA was tough in grading.
+
+--- Rating #7 ---
+Class: CMNS316
+Date: 2024-07-30 06:15:38 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Darren is a good prof, took him for CMNS 110 before and got a pretty good grade. However, I would not take a high level course with him because you will need to sweat to get a good grade. You need a good TA as well and not the ones who speak worse English than you. Group projects certainly didn't help. Word of advice - find online alternatives
+
+--- Rating #8 ---
+Class: CMNS323
+Date: 2024-06-26 18:05:43 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prof was nice, but I thought the class was extremely disorganized, and the lectures were dragged out. TA didn't know what they were doing, and couldn't answer basic questions about the course. I think the prof had higher expectations than what was communicated and should prepare a better rubric for the group project moving forward.
+
+--- Rating #9 ---
+Class: cmns110
+Date: 2024-05-12 20:34:26 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+A good lecturer but I didn't understand the meaning behind his topics most of the time. His slides were bare. There was a lot of miscommunication between him and the TAs. Darren did do a good job at connecting the topics to "trendy" things depending on the topic of the week which helped to keep me engaged and understand that week's concepts.
+
+--- Rating #10 ---
+Class: cmns110
+Date: 2024-05-08 03:41:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Fourth year student here, this is the worst communications proff I have had. Group assignments are annoying and all the assignments are very unclear with vague criteria and no rubric. The TAs for this class were not good either, little communication between the TA and Proff and they did not know what they were doing.
+
+--- Rating #11 ---
+Class: cmns110
+Date: 2024-05-02 03:59:03 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+was not a fan of his lectures. Slides were very bare. a lot of the topics felt very vague. Though he is a very nice guy.  Several readings each week. they are quite uninteresting. It is clear he cares about his students. But his teaching style is just not for me.
+
+--- Rating #12 ---
+Class: cmns110
+Date: 2024-04-25 17:32:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great guy and truly cares about his students and teaching. Lec slides are very bare, he talks a lot. In 110, his lectures are mostly just to provide context around the 'key topics' that he is trying to teach. All you really need to do is study the key topics, and he gives you a list 10 days before each exam. I always liked attending his lectures.
+
+--- Rating #13 ---
+Class: cmns110
+Date: 2024-04-18 06:44:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He was very friendly and passionate about communications. He tried to make the lectures engaging and refereed to modern media (with some old media stuff mixed in). Lectures were hard to take notes on but all you have to do is wait for him to release the study guide before the exam and review what the keywords are using the slides he posts.
+
+--- Rating #14 ---
+Class: cmns110
+Date: 2024-03-23 07:32:16 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+nice guy, but yaps a lot. slides only contain images and long quotes. midterm and final: chose 5 out of 8 questions to answer. very tough to get an A. easy to pass (25% of grade is just participation)
+
+--- Rating #15 ---
+Class: CMNS130
+Date: 2024-01-15 04:13:26 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This prof seemed like he did not know what he was doing and all of the tutorial teachers marked so hard. The lectures were so hard to follow and he doesn't record anything. After class there would be a huge line up behind him of confused and annoyed students who needed answers because he confused the whole class and the tests were so hard
+
+--- Rating #16 ---
+Class: CMNS130
+Date: 2023-03-07 17:37:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great person. Great prof. Passionate and kind. Exam-based course but if you pay attention and memorize the concepts the essay questions come as a breeze. Darren wants to hear where he can get better too. It is amazing how Darren wants to learn from his students but is also such a source of knowledge. Personable Prof too; knew my name immediately.
+
+--- Rating #17 ---
+Class: CMNS130
+Date: 2022-12-08 09:00:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor fleet was very accommodating and kind. readings were long and often boring, but standard for university level. lectures were boring at times but he tried his best to keep us focused and attentive. overall, nice professor but hard course
+
+--- Rating #18 ---
+Class: CMNS130
+Date: 2022-11-02 05:34:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I disagree with the person who rated  him yesterday. Professor Fleet's classes are highly insightful, and though they are extremely detailed lectures, you really only need to focus on the big ideas for this class. He gives a lot of real-life examples on concepts, and encourages his students to be critical thinkers by exploring different narratives.
+
+--- Rating #19 ---
+Class: CMNS323
+Date: 2020-07-06 19:25:15 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Darren is great! After years as a TA for Jody Baker, he did a wonderful job taking over 323 - despite Covid-19 and remote teaching. always there for students after class, generous with extensions, and explained concepts clearly. However, the course was difficult to distinguish from CMNS 223, and seemed a bit more like a 'beginner' CMNS course.

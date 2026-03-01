@@ -1,0 +1,76 @@
+Professor: Milena Droumeva
+Professor Legacy ID: 1806303
+Professor ID: VGVhY2hlci0xODA2MzAz
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 5
+Avg Difficulty: 2.6
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: CMNS355
+Date: 2021-05-03 21:33:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Milena is an engaging prof who cares about her students, and is passionate about gender, technology, and social justice. Readings are typically interesting, and there is always room for conversation and discussion in class. Watch out for TA's though - grading was tough (and a little arbitrary) when I took Milena's class.
+
+--- Rating #2 ---
+Class: 355W
+Date: 2020-09-22 21:36:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof, super genuine and kind and extremely interesting lectures. Lots of readings but well worth it!
+
+--- Rating #3 ---
+Class: CMNS258
+Date: 2017-04-15 22:10:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Milena is one of the best professors I have ever met. Her genuine interest towards the class is absolutely one of a kind. Also, if you are into video gaming like me you will find this class more interesting than you can ever imagine.
+
+--- Rating #4 ---
+Class: CMNS259
+Date: 2017-03-12 20:44:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Milena's brilliant! Having never taken a communications class before, I felt I had to play catch-up with some of the sound studies terminology, but she's a very accessible, kind prof who gives rather engaging lectures. I'm really glad I took this class. Gave me some different ways of looking at the world around me, which is incredibly valuable.
+
+--- Rating #5 ---
+Class: CMNS258
+Date: 2016-03-23 13:02:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Honestly, one of the best profs I've met!

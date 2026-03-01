@@ -1,0 +1,219 @@
+Professor: Jack Thomas
+Professor Legacy ID: 2577045
+Professor ID: VGVhY2hlci0yNTc3MDQ1
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.9
+Avg Difficulty: 2.6
+Num Ratings: 16
+Would Take Again Percent: 100
+
+Ratings Count Returned: 16
+
+--- Rating #1 ---
+Class: CMPT225
+Date: 2021-11-30 23:27:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+He is just the best prof in SFU CS.
+
+--- Rating #2 ---
+Class: CMPT354
+Date: 2021-08-27 01:39:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+His lectures were straightforward and his lecture notes were clear. However, understanding the examples given in the lectures was far not enought for doing the assignments. I used lots of online supplementary materials to understand this course and do the assignments. This was time consuming but self-study is one of the most important skills for us
+
+--- Rating #3 ---
+Class: CMPT354
+Date: 2021-08-25 02:30:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Professor Jack Thomas is one of the best CMPT prof's I've had at SFU. His lectures covered a significant amount of information without it feeling overwhelming and his midterm and final were all fair without having to invest significant time into the material. His assignments are a mix between being easy if you know the material and a lot of work.
+
+--- Rating #4 ---
+Class: CMPT225
+Date: 2021-04-19 22:10:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+One of the best compsci profs I've encountered. Really friendly, explains topics clearly, and exams were fair. Do the work and you'll do fine.
+
+--- Rating #5 ---
+Class: CMPT276
+Date: 2020-12-17 02:42:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Jack is really and actually cares about the course and helping students
+
+--- Rating #6 ---
+Class: CMPT276
+Date: 2020-12-14 23:41:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+So much of the material in 276 could be quite the boring grind, but if you take this class with Jack Thomas you're guaranteed a fun time. Not only are the lectures entertaining, but he will actually give you some solid advice from his own experiences. All around great guy, and fantastic prof.
+
+--- Rating #7 ---
+Class: CMPT276
+Date: 2020-12-14 07:58:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Hands down the best professor I've ever got at SFU. He is an amazing teacher and is caring and diligent with his students. He will tell you the truth about the Tech-Industry and what goes in the back. He is a real gem.
+
+--- Rating #8 ---
+Class: CMPT276
+Date: 2020-12-10 23:21:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Jack is really good at helping students understand the importance of the material without being boring. He also offers 'real talk' about what it's actually like to work in the field that you might not get out of other instructors. The assignments were gentle enough to prepare you for the group project in Android Studio. Video tutorials are provided
+
+--- Rating #9 ---
+Class: CMPT276
+Date: 2020-11-16 04:01:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Jack is an amazing Prof. he gives people the opportunity to score more in Assignments which are already pretty easy. His Midterm is also pretty easy most of the questions are application-based, so just go through the slides thoroughly before the exam. Highly Recommended!!!!
+
+--- Rating #10 ---
+Class: CMPT276
+Date: 2020-10-30 10:35:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+He is an encouraging and understanding instructor. He seems to genuinely care for students and makes the lectures fun with various efforts. He tries to offer anything he could for students to learn in a better environment, which is uncommon. He is a good person or at least a great instructor. Definitely take a course with him!
+
+--- Rating #11 ---
+Class: CMPT276
+Date: 2020-09-24 00:06:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Jack is a really great prof. Unlike many other profs at the school he's a recent graduate so he is much more relatable from a student perspective. 276 has very boring lecture material but Jack kept it pretty interesting. Really enjoyed the class.
+
+--- Rating #12 ---
+Class: CMPT276
+Date: 2020-09-15 20:37:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+10/10 prof, he really wants everyone toe succeed and do well. The material has some dry bits but Jack makes the class fun and engaging!
+
+--- Rating #13 ---
+Class: CMPT276
+Date: 2020-08-31 23:54:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Probably my favourite cmpt prof so far! Super nice and funny, cares about his students a lot. Assignments and project were very fair; not super difficult. Midterm was long, but he compensated and bumped up marks. Final was very fair. Show up to lectures, or at least watch the recordings and you'll be good to go!
+
+--- Rating #14 ---
+Class: CMPT276
+Date: 2020-08-28 22:04:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Lectures were fun with a few memes in some slides. Assignments were simple to do, but the group projects were a lot more time consuming and difficult. Lectures were focused on theory while assignments is through videos or own research. Midterm was lengthy but final was good. Discord office hours were nice too!
+
+--- Rating #15 ---
+Class: CMPT276
+Date: 2020-08-26 11:11:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+For his first time teaching, Dr. Thomas did a good job. His lectures tended to be a little on the tangential side. I really appreciated the different perspectives of software engineering he offered. The project was a lot of fun and a good introduction to software engineering.
+
+--- Rating #16 ---
+Class: CMPT276
+Date: 2020-08-13 18:12:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+I quite like his style for a not-so-technical course like 276. He chats and jokes a lot but still explain the concepts quite clear. My only complaint is he doesn't talk much about Java or Android but the assignment and project are all about them, but I guess that's not completely his problem

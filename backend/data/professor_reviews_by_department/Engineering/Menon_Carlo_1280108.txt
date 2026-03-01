@@ -1,0 +1,89 @@
+Professor: Carlo Menon
+Professor Legacy ID: 1280108
+Professor ID: VGVhY2hlci0xMjgwMTA4
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 4.8
+Avg Difficulty: 2.7
+Num Ratings: 6
+Would Take Again Percent: 0
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: MSE491
+Date: 2020-12-24 22:14:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+The lectures are decent and assignments are meaningful. A lot of information (Neuroscience, Math, ML, Engineering) covered in class, but he doesn't post notes or lecture recordings, so it's harder to review the material.
+
+--- Rating #2 ---
+Class: ENSC383
+Date: 2013-12-06 17:20:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+AMAZING prof. So good at explaining things, has an answer for every question, and is super reasonable and friendly. Speaks clearly and he chooses good TAs.
+
+--- Rating #3 ---
+Class: ENSC383
+Date: 2013-12-04 01:40:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+wow this guy is absolutely amazing, definitely one of the best engineering profs at SFU.
+
+--- Rating #4 ---
+Class: ENSC383
+Date: 2012-08-16 19:10:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He explained the material clearly and tested us on whatever he covered in the class. One easy midterm for this course and the average was high  around 85% so he decided to give  us couple of tricky questions in the final. Overall He is a nice guy and he cares a lot about the students and highly recommended!! BTW he got nice accent!!
+
+--- Rating #5 ---
+Class: ENSC383
+Date: 2012-07-27 03:36:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great guy, helpful and an easy marker.
+
+--- Rating #6 ---
+Class: ENSC801
+Date: 2011-11-18 17:06:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+easy going prof. neat and very nice. not much knowledge you got from the course. I used to study alone. his exam is easy but too much long. you cant finish the exam within the time given.

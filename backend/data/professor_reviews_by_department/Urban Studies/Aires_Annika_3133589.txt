@@ -1,0 +1,11 @@
+Professor: Annika Aires
+Professor Legacy ID: 3133589
+Professor ID: VGVhY2hlci0zMTMzNTg5
+Department (CSV): Urban Studies
+Department (Fetched): Urban Studies
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

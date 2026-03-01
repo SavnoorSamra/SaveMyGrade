@@ -1,0 +1,37 @@
+Professor: Jakub Burkowcz
+Professor Legacy ID: 1606833
+Professor ID: VGVhY2hlci0xNjA2ODMz
+Department (CSV): Sociology
+Department (Fetched): Sociology
+Avg Rating: 5
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: SA321
+Date: 2013-10-17 14:38:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Really great prof: I wasn't interested in theory at all but he makes it interesting, engaging, and accessible.
+
+--- Rating #2 ---
+Class: SAJ100
+Date: 2011-08-10 00:02:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Really great course and a great instructor!

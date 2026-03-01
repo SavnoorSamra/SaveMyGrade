@@ -1,0 +1,50 @@
+Professor: Sourabh Paul
+Professor Legacy ID: 1235757
+Professor ID: VGVhY2hlci0xMjM1NzU3
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 3.5
+Avg Difficulty: 3
+Num Ratings: 3
+Would Take Again Percent: -1
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: ECON105
+Date: 2010-01-07 21:23:25 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Good teacher, sometimes hard to understand. Exams are extremely difficult and content oriented, but the class is curved, which balances the grades.
+
+--- Rating #2 ---
+Class: ECON105
+Date: 2009-10-22 21:48:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Yeah he has a bit of an accent but you can overcome this! He is extremely helpful if you ask him questions!! He wants his class to be very involved. However, his lectures are super boring! Tests are straight from the book and lecture notes (lecture notes are literally based from the book)! Pay attention and practise the problems and youll do fine!
+
+--- Rating #3 ---
+Class: ECON105
+Date: 2009-08-13 11:44:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He cares about the students too much. Lectures are very informative and are clear. Assignments are well related. Exams are fair. He is pretty good.

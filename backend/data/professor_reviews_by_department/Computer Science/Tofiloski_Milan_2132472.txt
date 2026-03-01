@@ -1,0 +1,271 @@
+Professor: Milan Tofiloski
+Professor Legacy ID: 2132472
+Professor ID: VGVhY2hlci0yMTMyNDcy
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.1
+Avg Difficulty: 3.4
+Num Ratings: 109
+Would Take Again Percent: 28.7037
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MACM101
+Date: 2025-04-21 20:10:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This was perhaps the most difficult class I have taken in 5 years of university. Expect to fully read the textbook plus watch tons of online courses on the material. Exams were very difficult. I personally really liked Dr Tofiloski and think he made the most of a very tricky subject. Part marks given if you went to him and explained your solution.
+
+--- Rating #2 ---
+Class: MACM101
+Date: 2025-01-18 01:20:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Lectures can be disorganized, but Milan is flexible with deadlines. Textbook is unclear, so use Unstuck study and other resources to supplement. Overall, a challenging but doable course with a generous curve.
+
+--- Rating #3 ---
+Class: CMPT125
+Date: 2024-12-11 20:08:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Cancelled many classes and able to explain the basic outlines of course to the students.
+
+--- Rating #4 ---
+Class: MACM101
+Date: 2024-11-21 08:49:14 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Cancels lectures randomly and does the bare minimum in lectures. If you don't mind teaching yourself he's alright because the midterms weren't horrible and the curve was alright, but as a professor he is pretty bad.
+
+--- Rating #5 ---
+Class: CMPT125
+Date: 2024-11-13 04:09:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Would prefer any student to teach rather than this professor.
+
+--- Rating #6 ---
+Class: MACM101
+Date: 2024-07-07 03:55:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Horrible at teaching as everyone else has said. You are better off watching Youtube videos than going to his lectures. He cancels classes last minute which apparently is a common thing for him to do in other classes he teaches as well.
+
+--- Rating #7 ---
+Class: MACM101
+Date: 2024-06-07 17:54:36 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Classes got cancelled randomly, the homework felt nothing like what we learned in lecture, and leads to just using Youtube videos to learn the concepts. Tested on things that he had never fully covered in class, and marking was inconsistent. Though, the curve was generous and he did seem to want to prevent people from failing.
+
+--- Rating #8 ---
+Class: MACM101
+Date: 2024-05-09 09:42:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dont takeit
+
+--- Rating #9 ---
+Class: MACM101
+Date: 2024-04-30 23:20:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Disorganized. Classes got cancelled on short notice. Homework took ages to be graded. Unhelpful exam outlines. The textbook is almost as unclear as Milan, be ready to teach yourself. Lectures are a drag, examples are just copied from the textbook. Milan somehow manages to come across as even more unenthusiastic about this course than the students.
+
+--- Rating #10 ---
+Class: MACM101
+Date: 2024-04-30 19:55:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I got curve but due to his messy nature course was a hassle
+
+--- Rating #11 ---
+Class: MACM101
+Date: 2024-04-30 12:37:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+As the other reviews say Milan is definitely not the most organized nor a great teacher. However, his flexibility with deadlines throughout the course as well as a relatively free final made up for it. Not to mention the curve was pretty generous!
+
+--- Rating #12 ---
+Class: MACM101
+Date: 2024-04-30 05:07:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+L PROF
+
+--- Rating #13 ---
+Class: MACM101
+Date: 2024-04-29 20:31:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Professor lacks basic teaching skills, fails to return assignments, and ignores emails. Zero engagement, disappointing experience.
+
+--- Rating #14 ---
+Class: MACM101
+Date: 2024-04-29 20:07:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This class easily bombed my GPA because of his midterm2 outline being so vague, and then using the hardest q's from a chapter he didnt teach. Thanks Milan!
+
+--- Rating #15 ---
+Class: MACM101
+Date: 2024-04-29 20:03:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If you have the chance to take the course w a diff prof, do so. We were ghosted the entire sem, MTs were delayed, classes constantly cancelled, and as a result our final mark is delayed. Someone who lacks this much should not be a professor. AVOID.
+
+--- Rating #16 ---
+Class: MACM101
+Date: 2024-04-29 19:52:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+this prof is so incompetent! our hw didnt get marked for months on end, mt2 outline was disgustingly vague (and resulted in a 40avg), and now he rushed hw marks and doesn't have our final grade back despite td being the grade deadline. to future takers, PLEASE AVOID. he cant teach, and he read off tb the entire sem. he also doesnt know d/dx x^2. :P
+
+--- Rating #17 ---
+Class: MACM101
+Date: 2024-04-29 17:09:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+this "instructor" shouldn't be allowed to teach at SFU. assignments were assigned and *NO* feedback was given whatsoever, as well as releasing all the homework grades on the last day.. His lectures are monotone including his "lecture videos" and he CANNOT explain any topic at any level. He is inaccessible outside of class, and ghosts emails. AVOID
+
+--- Rating #18 ---
+Class: MACM101
+Date: 2024-04-20 17:37:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This professor shouldn't even be a professor. His lecture slides are copied/pasted from the textbook. You will never get anything out of the lecture. His exams are also a curveball. He has made plenty of mistakes on his exams, and due dates always are pushed back at a very late notice. Very unorganized and unprofessional. Avoid at all costs.
+
+--- Rating #19 ---
+Class: MACM101
+Date: 2024-03-13 05:58:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Literally the worst professor, you are better off watching youtube instead of his lectures
+
+--- Rating #20 ---
+Class: CMPT310
+Date: 2023-12-13 08:46:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Milan in Spring 2023 was not prepared to teach this course. Material covered was tangential at best and did not touch on core concepts/algorithms. He taught similarly to CMPT 105W in Fall 2021. Tofiloski was replaced by Harinder Khangura for the remaining half of the course. Great for a free grade, not so much for an educational experience.

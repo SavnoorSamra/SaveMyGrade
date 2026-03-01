@@ -1,0 +1,271 @@
+Professor: Michael Everton
+Professor Legacy ID: 708397
+Professor ID: VGVhY2hlci03MDgzOTc=
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 4.7
+Avg Difficulty: 3.4
+Num Ratings: 144
+Would Take Again Percent: 93.4426
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: 111W
+Date: 2024-11-14 22:05:25 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Professor Everton's 111W class is challenging but worth it. His engaging lectures and useful feedback make it a rewarding experience. For study prep, tools like unstuck AI and the free textbook are super helpful.
+
+--- Rating #2 ---
+Class: ENG437
+Date: 2024-11-05 22:59:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+In my last semester as an English major and feel like every other prof here pales in comparison. He somehow makes Moby Dick interesting. He's also easy on the eyes with a nice voice which makes it easier to show up to class. He likes participation a lot, by the way.
+
+--- Rating #3 ---
+Class: ENGL447
+Date: 2024-10-28 00:57:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+It would be impossible to take this class and not catch his enthusiasm for Melville and Moby-Dick. Made me and my classmates absolutely fall in love with Melville. Such an excellent teacher.
+
+--- Rating #4 ---
+Class: ENGL345
+Date: 2024-04-18 05:22:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If you ever come across a class taught by Everton, TAKE IT!! You won't regret it! He's a genuinely great guy who cares a LOT about you and your success in class. Most approachable prof I've ever had. A bit of a tough marker on writing, but he will teach you good strategies you can use. His feedback is in depth & helps you with the next assignment!
+
+--- Rating #5 ---
+Class: ENGL211
+Date: 2024-03-13 04:57:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Michael is one of the best professors I have ever had. You can see his passion for English and the material in his lectures, and he hooks you to what he is saying everytime. His humour and caring nature helps you stay engaged and there is not too much work for the course other than readings.
+
+--- Rating #6 ---
+Class: ENGL211
+Date: 2024-01-05 06:16:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Everton is an amazing professor who made me fall back in love with English! His assigned readings and lectures are engaging and he genuinely wants everyone to learn and succeed in his class. Tutorials are discussion-based (attendance marked) and useful for understanding the complex novels. Show up and put in the effort and you will do well!
+
+--- Rating #7 ---
+Class: ENGL210
+Date: 2024-01-05 05:07:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Probably the best prof at SFU. He cares very deeply at SFU and gives really great feedback if you meet up with him to discuss your exams/essays. His lectures are so entertaining and have so much information so as long as you show up to lectures, you really don't need to study or anything. Don't skip the lectures, they're so worth it.
+
+--- Rating #8 ---
+Class: ENGL210
+Date: 2023-12-01 22:41:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I took my first English class (Engl 211) with him and It's fair to say he is an outstanding prof. His lectures provide great insight into the text and prepare you well for his assignments/exams. He cares very deeply about his students. We had a late exam and he waited at the bus stop for every student to safely board the bus.
+
+--- Rating #9 ---
+Class: 111W
+Date: 2023-07-11 02:20:31 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's definitely a good professor but if you're looking for a GPA booster, this course isn't it if you're not a strong writer.
+
+--- Rating #10 ---
+Class: ENG437
+Date: 2023-04-25 19:09:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+A VERY special professor. Double edged sword though because if you take him, be assured that every other professor you have will pale in comparison.
+
+--- Rating #11 ---
+Class: ENG111W
+Date: 2023-03-20 01:05:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+By far the best Prof I've ever had. I don't care what subject he's teaching, I'm taking it.
+
+--- Rating #12 ---
+Class: 111W
+Date: 2023-01-06 19:36:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Michael Everton is super chill and funny, and he communicates information clearly and effectively. Your TA has more direct influence on your grade than he does. Don't skip his lectures, they provide context on readings that you can't find elsewhere, which means self-study isn't really an option (at least in this course)
+
+--- Rating #13 ---
+Class: ENG111W
+Date: 2023-01-04 23:27:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great lectures and all essays/tests can be completed easily with basic knowledge of what was said in lectures
+
+--- Rating #14 ---
+Class: ENG111W
+Date: 2022-12-27 22:16:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Absolutely one of the best professors I have ever had. I do not care what class he is teaching, I'm taking that class.
+
+--- Rating #15 ---
+Class: ENGL111W
+Date: 2022-12-23 22:24:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor Everton is very kind and smart! He genuinely wants all of his students to succeed. You can go to him with any questions and he will be more than willing to answer them. People complain a lot about him being a harsh marker, but I found his marking to be perfectly fair. The Canvas page was also very organized which was helpful.
+
+--- Rating #16 ---
+Class: ENG111W
+Date: 2022-12-17 21:43:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The best prof ever. His delivery was perfect at lectures as he is extremely expressive and humorous. Difficult class though, literally impossible to get a good mark if you're not already a strong writer
+
+--- Rating #17 ---
+Class: 111W
+Date: 2022-12-08 01:43:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's a great prof with engaging and hillarious lectures. There's reading quizzes every week (worth 2.5% of grade) and tutorials are accounted for overall grade. There's only 2 big essays and a final exam for grades which is pretty light. But if you're taking this class thinking it's an easy A, trust me it's not unless you're a writing god.
+
+--- Rating #18 ---
+Class: ENG111W
+Date: 2022-12-05 02:21:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+literally a god among professors, if you have a chance to take one of his classes TAKE. IT.
+
+--- Rating #19 ---
+Class: 111W
+Date: 2022-12-01 01:29:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Michael Everton has been my favourite prof at SFU so far. Really funny, explains all the concepts in great detail with examples, reviews things in case you didn't get them the first time. I really loved going to his lectures. The grading was a little hard but the feedback was great (though I think that's mostly TA-dependant). Great Prof!!!
+
+--- Rating #20 ---
+Class: 111W
+Date: 2022-11-30 19:50:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This Professor is one of the best professors I've had in SFU. Before this class, I used to hate horror literature, and now I ENJOY IT!! If you ever need to take an English course, you NEED to take it with him. He's tough on grading, but I learned a LOT from his lectures and the thorough feedbacks.  A M A Z I N G  CLASS!!!

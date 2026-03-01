@@ -1,0 +1,37 @@
+Professor: Michael Rosenblat
+Professor Legacy ID: 2810087
+Professor ID: VGVhY2hlci0yODEwMDg3
+Department (CSV): Biomedical Physiology & Kinesiology
+Department (Fetched): Biomedical Physiology & Kinesiology
+Avg Rating: 1
+Avg Difficulty: 5
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BPK303
+Date: 2022-11-13 18:10:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Don't do it. Just don't. Took BPK 303 with him a few semesters ago, and wrote a review (it disappeared, how convenient right?) lectures are full of studies, with no actual notes. Just rambles on about the studies. Doesn't tell you the format of the exam. Its a guessing game with him. Doesn't take feedback, stuck in his own ways.
+
+--- Rating #2 ---
+Class: BPK326
+Date: 2022-07-06 01:17:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Not receptive to feedback. Insufficient at facilitating learning of the course material.

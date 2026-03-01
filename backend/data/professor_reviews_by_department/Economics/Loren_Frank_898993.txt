@@ -1,0 +1,11 @@
+Professor: Frank Loren
+Professor Legacy ID: 898993
+Professor ID: VGVhY2hlci04OTg5OTM=
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

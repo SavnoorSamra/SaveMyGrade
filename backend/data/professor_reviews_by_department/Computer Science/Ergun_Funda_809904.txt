@@ -1,0 +1,245 @@
+Professor: Funda Ergun
+Professor Legacy ID: 809904
+Professor ID: VGVhY2hlci04MDk5MDQ=
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.8
+Avg Difficulty: 2.7
+Num Ratings: 18
+Would Take Again Percent: -1
+
+Ratings Count Returned: 18
+
+--- Rating #1 ---
+Class: CMPT371
+Date: 2014-02-14 07:01:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+well, she is one of my favorite teacher. her notes are clear and well organized. read all the notes will guarantee u a c+ or higher. listening to her lectures and take her side notes will get an easy A!!
+
+--- Rating #2 ---
+Class: CMPT371
+Date: 2013-09-26 23:35:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+If you would like to actually learn, and be in a good class then take this course with her!
+
+--- Rating #3 ---
+Class: CMPT371
+Date: 2013-05-01 20:27:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great professor. You follow the slides, and listen in class you should be have a decent mark. If you ever have questions or problems, she is very kind and will help you out. She understands the situations students are in, and keeps that in mind when it comes to assignments or exams. I highly recommend her, unless you want to do programming!
+
+--- Rating #4 ---
+Class: CMPT371
+Date: 2013-04-30 02:44:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Her assignments and exam are fair, but her attitudes during class are excellent. her teaching is clear. she ll teach u more if u ask her during her office hour. she makes me feel the course is interesting and fun. ofcourse, u still have to work hard and think hard to get a high mark
+
+--- Rating #5 ---
+Class: CMPT371
+Date: 2013-04-29 15:31:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Best professor ever! She is inspiring when she teaches her subject. She is a very nice person, who cares about her students. She's also a fair marker. I only wish she also taught Networking II. As it is, the choices for that course are not great.
+
+--- Rating #6 ---
+Class: CMPT371
+Date: 2013-02-19 01:44:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Doesn't practice slides. Lazy, skips through difficult parts. Often has no clue what she is talking about, dodges all difficult questions that students ask. May be easy but you won't learn anything in her class.
+
+--- Rating #7 ---
+Class: CMPT765
+Date: 2012-12-25 16:53:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Very good professor. Extremely clear lectures.
+
+--- Rating #8 ---
+Class: CMPT765
+Date: 2011-06-10 14:50:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+She does not invest enough time and effort for her classes.
+
+--- Rating #9 ---
+Class: CMPT765
+Date: 2011-02-02 01:10:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Funda is bar none the best professor I've had so far at SFU.  Fun, helpful, and very engaging -- she genuinely cares about her students.  There's no wonder why she's the graduate director!
+
+--- Rating #10 ---
+Class: CMPT371
+Date: 2010-05-26 03:44:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I enjoyed Funda's class, she's got a great sense of humour. Assignments and tests are both fair, imo (plus the class is always curved). Teaches from textbook-based slides that are posted online. My only gripes are that she can be a tad disorganized and her wording on assignments can be vague at times.
+
+--- Rating #11 ---
+Class: CMPT371
+Date: 2010-04-23 19:21:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+This prof is very *VERY* unorganized. On assignments she'll ask you questions she hasn't taught. Flies over slides in lecture. Sometimes skips them because she has no idea what they mean (she hasn't done her slides...). Will test you on stuff she hasn't talked about in class. Is often late, cancelled 2 classes for personal reasons.
+
+--- Rating #12 ---
+Class: CMPT371
+Date: 2007-09-08 04:39:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+A prof whose exams seem extremely hard, but at the end of the day, she marks very fair and really tests if you know what you're doing or not.  I didn't much like the popup quizes, aka attendance checks, but i guess that's her choice.  Assignments were doable and marked easily.
+
+--- Rating #13 ---
+Class: CMPT371
+Date: 2007-04-16 20:50:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+dun wanna comment on how she teach, i think just so-so...  i got all assignments perfect... mt on avg... but end up got a D... thx to her tricky, non-sense final... u will see questions u dont know how to answer at all even with ur book opened
+
+--- Rating #14 ---
+Class: CMPT371
+Date: 2006-12-26 15:20:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+An excellent teacher to take 371 with.  I have no idea why people complain about her using the powerpoint slides that come with the textbook, they're good slides! I much happier that she used them then tried making up her own material.  Her explanations aren't always clear but if you ask her to work through an example you'll get what she means.
+
+--- Rating #15 ---
+Class: CMPT371
+Date: 2006-12-03 01:22:01 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Lectures consist of reading slides aloud. Questions are encouraged but she answers unclearly and it doesn't seem to me like she knows what she is talking about. Not recommended, better get a networking book.
+
+--- Rating #16 ---
+Class: CMPT371
+Date: 2006-11-15 03:16:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+she is not quite up-to-date, but knows the course content well enough to teach it. you can do just as well by reading the textbook alone, although her explanations help, but they're just so long and windy...
+
+--- Rating #17 ---
+Class: CMPT371
+Date: 2006-04-12 19:29:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very nice and knowledable prof.  Will take the time (sometimes too long) to explain the finer details, and always (and I do mean always) checks to see if there are questions.  Only major complaint is that 99% of the class was her reading power point notes (which she said at the beginning of the term she wouldn't do).  Otherwise, very good prof.
+
+--- Rating #18 ---
+Class: CMPT371
+Date: 2006-02-10 18:43:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments

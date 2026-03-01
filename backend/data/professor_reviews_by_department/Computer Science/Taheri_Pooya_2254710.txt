@@ -1,0 +1,232 @@
+Professor: Pooya Taheri
+Professor Legacy ID: 2254710
+Professor ID: VGVhY2hlci0yMjU0NzEw
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.9
+Avg Difficulty: 2.7
+Num Ratings: 17
+Would Take Again Percent: 100
+
+Ratings Count Returned: 17
+
+--- Rating #1 ---
+Class: CMPT120
+Date: 2022-08-03 00:07:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Pooya is a legend at teaching
+
+--- Rating #2 ---
+Class: CMPT225
+Date: 2020-09-11 06:48:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+He is amazing
+
+--- Rating #3 ---
+Class: CMPT225
+Date: 2020-06-24 03:20:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Pooya is one of the most generous and caring profs I've had. He's always willing to take feedback and is considerate when it comes to extending deadlines if most students are struggling with other exams. I wish all profs care about their students as much as he does
+
+--- Rating #4 ---
+Class: CMPT225
+Date: 2020-06-02 02:28:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Pooya is an absolute gem of a teacher. Possibly one of the most caring and understanding professors I have had. He tries his hardest to help his students succeed, and help them understand the material. He comes across as one of the nicest professors I have ever had, and I would take any future classes with him.
+
+--- Rating #5 ---
+Class: CMPT135
+Date: 2020-01-01 12:18:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is one of the nicest instructors I've had thus far, his lectures are great and he gives extra effort to explain things again with good examples if you don't understand something. He even gives out snacks from time to time and he goes the extra mile to teach extra stuff if you are interested. Pay attention to his lectures and you should do well.
+
+--- Rating #6 ---
+Class: CMPT135
+Date: 2019-11-22 01:56:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He's a really kind instructor that really helps student to learn about the course. Really approachable and welcome any kind of questions. He also give fair marks. I would totally recommend taking the course with him
+
+--- Rating #7 ---
+Class: CMPT135
+Date: 2019-11-07 00:14:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Amazing lecturer, has superb patience on explaining much abstract concept. Pay attention in classroom and you do just fine.
+
+--- Rating #8 ---
+Class: CMPT132
+Date: 2018-10-17 15:50:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Hes absolutely amazing! His slides are very easy to understand and very detailed. Pay attention in class so you dont have to spend much time reviewing before exams.
+
+--- Rating #9 ---
+Class: CMPT135
+Date: 2018-10-01 04:18:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Pay attention in class and you would easily get an A. Very caring and supportive. Lengthy lectures but covering all material.
+
+--- Rating #10 ---
+Class: CMPT130
+Date: 2018-07-08 01:27:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Hi Pooya, I'm Calvin, your FIC student. Thanks for the awesome lectures. Very caring and like to give us biscuits and candies. Best Professor EVER! Please teach me in SFU again !
+
+--- Rating #11 ---
+Class: CMPT130
+Date: 2018-05-09 17:49:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Best professor Ive ever met.
+
+--- Rating #12 ---
+Class: CMPT130
+Date: 2018-03-25 22:19:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Caring and amazing instructor. You can clearly see he wants to teach, wants to help you. Responds to email very fast too.
+
+--- Rating #13 ---
+Class: CMPT120
+Date: 2018-01-01 20:30:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is the best prof I've met. He is a very nice and caring prof. He explains concepts well. He won't get pissed of if you ask easy concepts. He is always happy to help you with the course materials. He also uses interesting methods to teach. He brought cups with numbers to teach us the sorting concept. This made me to understand it easier
+
+--- Rating #14 ---
+Class: CMPT130
+Date: 2017-12-23 02:54:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very good at explanation. Has good lecture notes. Informs very well on what to do and what not to do.
+
+--- Rating #15 ---
+Class: CMPT130
+Date: 2017-08-10 02:21:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is a very caring person. He will be here whenever you have any questions no matter in class or outside class. Amazing teacher!
+
+--- Rating #16 ---
+Class: CMPT130
+Date: 2017-06-09 12:43:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He sets a little difficult exam but if you practice you can get A easily. He is a great teacher and always ready to help .
+
+--- Rating #17 ---
+Class: CMPT130
+Date: 2017-05-03 13:56:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+His lectures are long, but he is super helpful in every single detail.

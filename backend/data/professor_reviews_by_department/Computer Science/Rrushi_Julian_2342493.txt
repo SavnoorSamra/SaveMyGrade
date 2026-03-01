@@ -1,0 +1,50 @@
+Professor: Julian Rrushi
+Professor Legacy ID: 2342493
+Professor ID: VGVhY2hlci0yMzQyNDkz
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2
+Avg Difficulty: 1.3
+Num Ratings: 3
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: CMPT300
+Date: 2018-04-20 02:10:44 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+GPA booster. Simplest course ever taken. Got A without studying. Sample questions same as exam. Class start at least 30 minutes late than schedule. Grading is very easy.
+
+--- Rating #2 ---
+Class: CMPT300
+Date: 2018-04-19 18:26:07 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+His lectures are pretty good when he shows up on time and definitely interested in the subject material. Midterm was pretty easy but final was harder. Projects used from previous profs but you did learn something from doing them. Gave out lots of extensions which was annoying if you did the work in time. Pretty decent prof overall.
+
+--- Rating #3 ---
+Class: CMPT300
+Date: 2018-04-13 11:54:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+It was very easy course. Julian doesn't care much. He regularly came 30 minutes late and sometimes even 45 to 60 minutes late. Also cancelled few classes for personal reasons. He gives sample questions for midterm and final which are word to word same as his actual exam. Basically I will get easy A without learning anything.

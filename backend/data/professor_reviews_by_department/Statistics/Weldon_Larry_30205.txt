@@ -1,0 +1,271 @@
+Professor: Larry Weldon
+Professor Legacy ID: 30205
+Professor ID: VGVhY2hlci0zMDIwNQ==
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 2.3
+Avg Difficulty: 3.1
+Num Ratings: 24
+Would Take Again Percent: -1
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: STAT100
+Date: 2010-07-22 14:45:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+GREAT PROF! if you understand english, you understand him.. He's too nice, and too naive.. LEARN ENGLISH! You'll do very well!
+
+--- Rating #2 ---
+Class: STAT100
+Date: 2010-04-10 04:10:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+never ever take this prof!!!!all i learn is just flipping a coin!
+
+--- Rating #3 ---
+Class: STAT100
+Date: 2010-03-31 16:49:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Alought he cannot make things clearly, but he is a really nice person. This STAT100 is a low average course. but if you read all the lectures, you will be fine. He is a kind person.
+
+--- Rating #4 ---
+Class: STAT100
+Date: 2010-03-24 04:25:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Boring... Rambles... Teaches &quot;the theory behind statistics&quot; so he doesn't allow numbers, formulas, calculators, etc... Extremely frustrating. Class average is in the 30s - bad. I mean, he's a nice guy, but this is not a good class.
+
+--- Rating #5 ---
+Class: STAT100
+Date: 2004-11-12 12:12:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+the worst teacher ever!
+
+--- Rating #6 ---
+Class: STAT101
+Date: 2004-08-13 00:14:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Although this course is easy because the entire class did bad (scaled), he is not responsible and never put this class as his priority by delaying everything. This STAT 101 class is much harder than BUEC 232 (which it shouldn't be).
+
+--- Rating #7 ---
+Class: MSSC480
+Date: 2004-03-18 15:46:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very easy course.  Only a half page report each class and some participation each class then you can get full marks.  Just remember don't be late.  He hates late comers in this class.
+
+--- Rating #8 ---
+Class: STAT490
+Date: 2003-03-22 04:40:09 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+an easy going person. but his lecture is boring and unclear.
+
+--- Rating #9 ---
+Class: STAT100
+Date: 2003-03-20 21:22:15 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+brutal final compared to MTs. Super boring voice. no teaching ability. Knows the material but can't explain it on a 100 level. Forgets. Recommended for insomniacs.
+
+--- Rating #10 ---
+Class: STAT490
+Date: 2003-01-12 20:09:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #11 ---
+Class: STAT100
+Date: 2003-01-05 16:35:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+very boring lec, fell asleep too many times... but all the stuff r in the notes
+
+--- Rating #12 ---
+Class: STAT100
+Date: 2003-01-05 00:31:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+easy midterms, very hard final
+
+--- Rating #13 ---
+Class: STAT100
+Date: 2002-12-11 05:58:28 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #14 ---
+Class: STAT100
+Date: 2002-12-11 01:41:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+come on, he wasnt that bad! very detailed notes, tests based on notes,
+
+--- Rating #15 ---
+Class: STAT100
+Date: 2002-12-03 15:51:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He doesn't know how to teach.
+
+--- Rating #16 ---
+Class: MSSC480
+Date: 2002-12-03 01:58:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+hee hee....such an easy going guy (giggles a lot)
+
+--- Rating #17 ---
+Class: STAT100
+Date: 2002-11-20 23:32:42 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+don't even understand a word
+
+--- Rating #18 ---
+Class: STAT280
+Date: 2002-11-14 00:21:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+don't waste your time...you won't learn anything from him...
+
+--- Rating #19 ---
+Class: STATS101
+Date: 2002-11-13 01:31:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #20 ---
+Class: STAT100
+Date: 2002-09-30 20:59:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+aaaaargggggggggh

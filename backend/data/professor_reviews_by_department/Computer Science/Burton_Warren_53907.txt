@@ -1,0 +1,219 @@
+Professor: Warren Burton
+Professor Legacy ID: 53907
+Professor ID: VGVhY2hlci01MzkwNw==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1.8
+Avg Difficulty: 2.5
+Num Ratings: 16
+Would Take Again Percent: -1
+
+Ratings Count Returned: 16
+
+--- Rating #1 ---
+Class: CMPT383
+Date: 2009-09-08 11:01:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He is a very nice and friendly guy. He knows his stuff, but his teaching is confusing and all over the place. He is unorganized and you will do well if you just read the textbook. His tests and assignments are not too hard.
+
+--- Rating #2 ---
+Class: CMPT481
+Date: 2007-12-06 18:09:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Nice and knowledgeable guy but terrible at teaching. Seriously not recommended, useless class. Content not overly difficult, so you are better off with reading the book on your own.
+
+--- Rating #3 ---
+Class: MACM300
+Date: 2007-08-18 21:01:55 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+This guy's really nice, but makes mistakes everywhere - can be a bit difficult to follow.  Has a tendency to go off on long tangents and then run out of class-time.  His class is fun, though, especially if it's just a few students.  His tests usually let you pick 4 or 5 questions out of 7 or 8, which makes them much easier.
+
+--- Rating #4 ---
+Class: CMPT383
+Date: 2006-09-24 03:28:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Really nice guy, but he's a terrible professor. I was hoping for a class on Programming Languages, given the name of the course and all, but instead got a class on abstract math. I'm used to that at this point, but the fact that he was too confused to continue his lectures most of the time made it pretty hard to take. Sign up with a different prof.
+
+--- Rating #5 ---
+Class: MACM101
+Date: 2005-04-30 00:02:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Boring, unclear, makes plenty of mistakes in his lecture notes, messy lecture notes. AVOID!!!!!!!
+
+--- Rating #6 ---
+Class: MACM101
+Date: 2004-12-05 18:54:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He is the worst of the worst! Avoid him by all means. His lectures make you more confused. His writing is messy and he often makes mistakes. It's better to read the textbook on your own. He is very unorganized and unclear. There's no homework for 1 month and 2 homework in 6 days. He should be fired.
+
+--- Rating #7 ---
+Class: MACM101
+Date: 2004-07-02 15:17:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+His lectures are useless
+
+--- Rating #8 ---
+Class: MACM101
+Date: 2004-05-13 01:52:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+one of the weirdest teacher i've known, maybe he's smart but he doesnt know how to teach...His lectures are all over the place, I dont konw what he's talking about....bottom line, sucks
+
+--- Rating #9 ---
+Class: MACM101
+Date: 2004-05-10 23:17:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Worse professor I've ever had in my entire life.  He definitely knows his stuffs, but does not know how to teach...at all.
+
+--- Rating #10 ---
+Class: CMPT383
+Date: 2003-01-02 20:41:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Generally a good guy, but makes many many mistakes when he teaches
+
+--- Rating #11 ---
+Class: CMPT383
+Date: 2002-12-12 03:27:49 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Super easy tests.goes on&on&off topic.quote: urhhh  often  hangs  like computers
+
+--- Rating #12 ---
+Class: CMPT101
+Date: 2002-10-31 06:52:13 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He bailed on the class after spending 2 weeks talking about admin.
+
+--- Rating #13 ---
+Class: CMPT383
+Date: 2002-10-29 15:03:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Be prepared to master Haskell.  Not the hottest skill in the world.
+
+--- Rating #14 ---
+Class: CMPT101
+Date: 2002-09-09 01:07:56 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+This guy spent the first 3 classes talking about his e-mail policies.
+
+--- Rating #15 ---
+Class: MACM101
+Date: 2002-08-08 21:53:01 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Easy Professor.
+
+--- Rating #16 ---
+Class: CMPT101
+Date: 2002-05-26 15:49:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments

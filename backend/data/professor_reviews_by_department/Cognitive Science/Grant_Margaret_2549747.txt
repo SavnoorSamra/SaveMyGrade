@@ -1,0 +1,271 @@
+Professor: Margaret Grant
+Professor Legacy ID: 2549747
+Professor ID: VGVhY2hlci0yNTQ5NzQ3
+Department (CSV): Cognitive Science
+Department (Fetched): Cognitive Science
+Avg Rating: 2.8
+Avg Difficulty: 3.6
+Num Ratings: 32
+Would Take Again Percent: 46.875
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: COGS100
+Date: 2025-03-08 03:48:09 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Super disorganized and the lectures are sometimes 100+ slides with no particular order. She just randomly throws theories to you without connecting them or explaining their significance. Easy class, horrible teacher. Finished with an A but still learned nothing.
+
+--- Rating #2 ---
+Class: COGS100
+Date: 2025-02-12 06:16:34 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Initially gave Meg the benefit of the doubt, but found reviews were very accurate. She rushes through 150+ slides or goes off-topic, making lectures confusing. She and TAs rarely respond on Canvas, and slides are ALWAYS uploaded late. Even her study guide didn't help&#8212;MC questions were oddly worded. Avoid this class unless the structure improves.
+
+--- Rating #3 ---
+Class: COGS100
+Date: 2025-01-10 01:12:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Overall, she is a very decent instructor and is passionate about the materials she teaches. However, she did miss a lot of classes due to her sick days. But when she is available, she did a great job introducing many concepts that turned out to be useful for AI research.
+
+--- Rating #4 ---
+Class: COG100
+Date: 2024-08-03 02:47:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I really enjoyed COGS100 with Margaret Grant. Yes, there is a lot of course content to cover and there are a few readings each week, but if you engage with the material it is straightforward and enjoyable. I liked this format of hybrid teaching. Lectures were great. Assignments and tests not too difficult. Highly recommend taking a course with her.
+
+--- Rating #5 ---
+Class: COGS100
+Date: 2024-04-22 19:18:49 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+her lectures were confusing, with her slides being full of words but no clear indication to what we were learning. this was a hybrid class, so we we were required to do 4/5 participation assignments plus "an hour" of extra reading outside of lectures. she focused on linguistics more than cognitive science. seems nice, but not the best prof.
+
+--- Rating #6 ---
+Class: COGS100
+Date: 2024-04-22 19:18:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Awful lecturer who's main focus was on the linguistics side of COGS and hardly anything else. Gave out way too many readings to fill in the 1 hour of designated online time for the course. Made 0 effort to prepare her students for any exams and never responded to emails/canvas messages. Took as an elective yet is somehow my lowest grade. Avoid her.
+
+--- Rating #7 ---
+Class: COGS100
+Date: 2024-04-20 22:54:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Way too much work for a base 100 level class. 70+ slides every plus readings plus extra videos to watch every single week. Midterms and final are extremely tough, asking very specific questions, including who says... and minute details that come from her 1000+ slides. Not a good class for an introduction to cognitive science nor for GPA boost.
+
+--- Rating #8 ---
+Class: COGS100
+Date: 2024-04-18 01:45:52 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The lectures were dry and she covered a lot of material very quickly but then in the exams, the questions were more detailed. There were two midterms and one cumulative final. The course didn't feel like a 100-level course due to tough exams.
+
+--- Rating #9 ---
+Class: COG100
+Date: 2024-01-08 00:19:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The problem was that Margaret specializes in linguistics, so the content tended to be more about the linguistic side of cognitive science. I'm not sure how much she really knew about the other topics in cognitive science but I was still able to learn a lot. She also seemed a bit unorganized at times but she was caring towards the students.
+
+--- Rating #10 ---
+Class: COGS100
+Date: 2023-12-22 23:01:35 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+there was a LOT of content covered in this class. but she explained and also had lecture recordings. make sure you prepare your written questions well for the exam. good luck
+
+--- Rating #11 ---
+Class: COGS100
+Date: 2023-12-20 12:02:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Meg Grant is an awful professor. She's a nice person, but she should not be teaching this course. She has a linguistics background and made half the course about that. Lectures are extremely boring, and exams are memory based. Grading criteria for papers and exam questions is unclear and inconsistent. I regret taking this class.
+
+--- Rating #12 ---
+Class: COGS100
+Date: 2023-08-15 22:43:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I don't think this course is as bad as some reviews are making it out to be. It's definitely a tougher 100 level class so some prior knowledge in phil and psyc helps a lot. Study the main ideas (section summaries) in the slides for the exams, don't try to memorize every detail as the slides can be long.
+
+--- Rating #13 ---
+Class: COGS100
+Date: 2023-08-03 19:42:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Decent prof who cares about the topic and students a lot. Course content is not for most first-year students. Without a foundation to build on, I can see how the topics can be overwhelming, no matter how detailed the lectures or how easy the tests are. I would advise taking intro psyc courses beforehand at the very least.
+
+--- Rating #14 ---
+Class: COGS100
+Date: 2023-07-20 01:22:12 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Im sorry but she is not a good teacher. She tends to ramble on and on about stuff that isn't that important and barley goes over the important topics. I spend hours and hours just trying to understand one lecture and her lectures are so info-heavy. However for the midterms she has given us the written questions prior so we can prepare for those.
+
+--- Rating #15 ---
+Class: COGS100
+Date: 2023-07-20 01:17:12 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+DO NOT TAKE THIS CLASS AS AN ELECTIVE! She makes this class so info-heavy, some of her lectures are 70+ slides. Some topics are very complex and she is not good at explaining. She gives like two long readings each week and sometimes videos too. Overall I would say this class is just too info heavy with 12 units and some have more than 1 topic.
+
+--- Rating #16 ---
+Class: COGS100
+Date: 2023-07-03 01:33:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Utter confusion for a 100 level class. I spent more time looking up word definitions than actual reading. I takes me ~4hrs to listen to the lecture and make enough sense to be able to make notes. I haven't got a grade lower than B-, and not sure I will pass this class. Lectures are highjacked by rambling off topic questions, so very frustrating
+
+--- Rating #17 ---
+Class: COGS200
+Date: 2021-08-29 04:44:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lots of very dense cogs readings that are hard to understand. This course was a tough one to get through. But it was fair with clear marking requirements. There was a group project. I got an amazing group however (your mileage may vary on that part). She was always very quick to respond to emails and answer any questions as well.
+
+--- Rating #18 ---
+Class: COGS200
+Date: 2021-04-17 14:30:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+In the group project, two of us did most of the work. We lost a lot of points because of this. This was very unfair to those of us who put in the work. I wish the textbook was used, it would have made studying easier.
+
+--- Rating #19 ---
+Class: COGS200
+Date: 2021-03-18 17:17:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+If you catch a marking mistake, she won't even bother replying to your email. This has been my least engaging course at SFU of my three years. She records all lectures, but she bothered posting for weeks 1, 2, and 8. Which is quite deceiving because that's the drop deadline. I wish I waited for another prof to teach this course.
+
+--- Rating #20 ---
+Class: COGS100
+Date: 2021-01-05 02:23:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+At first I found her and the course harder than expected for a first year course but she's incredibly thorough in the material and once I understood her teaching style I found her to be very open and fair. Not the most engaging orator but clearly knows her stuff. I appreciate that she tried very hard to adapt for online and tries to engage 1on1.

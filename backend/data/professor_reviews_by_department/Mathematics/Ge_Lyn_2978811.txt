@@ -1,0 +1,272 @@
+Professor: Lyn Ge
+Professor Legacy ID: 2978811
+Professor ID: VGVhY2hlci0yOTc4ODEx
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4.7
+Avg Difficulty: 2.8
+Num Ratings: 68
+Would Take Again Percent: 92.6471
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: Math150
+Date: 2025-12-26 21:59:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Worst prof worst accent seems like all the reviews are written by her, they are in such a polished English
+
+--- Rating #2 ---
+Class: Math150
+Date: 2025-05-27 09:52:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lyn was very understanding and non-judgemental of math difficulties I was having. She is so encouraging, and extremely helpful in office hours (I just wish she had more hours!). She made the dullest class in university a little bit brighter.
+
+--- Rating #3 ---
+Class: Math150
+Date: 2025-05-07 20:18:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very, very solid overview of Calc 1. She covered all nevessary concepts and practice problems, and the course overall had quizzes, seminars and assignments to stay updated with the material. Highly recommend.
+
+--- Rating #4 ---
+Class: Math150
+Date: 2025-04-20 05:23:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Fantastic lecturer, I always understood the concepts she explained
+
+--- Rating #5 ---
+Class: Math150
+Date: 2025-04-19 02:51:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She's a very good teacher who actually cares about students. This was a great experience for calc 1.
+
+--- Rating #6 ---
+Class: Math150
+Date: 2025-04-18 17:08:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She's a very good prof for math. She goes very slowly during lectures which is a good thing and explains different concepts very well. sometimes she's hard to understand but you can always go to office hours or calculus workshop. MATH150 is a hard course with lots of hw and quizzes weekly so make sure to stay on top of those when studying!!
+
+--- Rating #7 ---
+Class: Math150
+Date: 2025-04-16 09:09:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Theorem: Yes!!! Take it w Lyn or forever regret your life choices.
+Proof: look at all the reviews :)
+
+--- Rating #8 ---
+Class: Math150
+Date: 2025-04-15 10:00:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lyn is very caring and wants her students to succeed. I was scared of Math but now considering to switch to engineering because of her. Exam questions match the seminar problems and assignments. If you review them, you should be fine. Definitely recommend!
+
+--- Rating #9 ---
+Class: Math150
+Date: 2025-04-15 02:08:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Best prof ever: seriously.
+
+--- Rating #10 ---
+Class: Math150
+Date: 2025-04-09 23:21:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Solid prof for first year calc, she's very understanding that first years are new to uni structure, and helps you adapt nicely
+
+--- Rating #11 ---
+Class: Math150
+Date: 2025-03-30 08:33:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+The class can seem fast paced, so I definitely recommend lots of practice outside of class to really lock in the concepts. Her lectures are decent, sometimes she's hard to understand, but overall pretty good. The exams matched well with the samples and the seminar questions, so overall I can recommend her
+
+--- Rating #12 ---
+Class: Math150
+Date: 2025-03-29 09:36:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+The quizzes can be a serious time crunch at first, but you get used to them, and she's pretty decent at explaining
+
+--- Rating #13 ---
+Class: Math152
+Date: 2025-03-29 08:52:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+She willingly wrote me a reference letter for my USRA project application - as a former student from her Calc 2 class, I definitely appreciated that
+
+--- Rating #14 ---
+Class: Math150
+Date: 2025-03-29 08:51:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I'm in this class rn and I can confirm it's going great, I'll admit I'm not a math major and this is one of the few math classes I'll ever need to take, but ngl I'm considering a math minor now
+
+--- Rating #15 ---
+Class: Math152
+Date: 2025-03-29 08:50:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+It's a shame that she doesn't teach that many classes. I hope the math dept reads these reviews and realizes that we NEED Lyn
+
+--- Rating #16 ---
+Class: Math150
+Date: 2025-03-29 08:49:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+You can tell she knows the difficulties of student life, thus she doesn't make this class any harder than it needs to be.
+
+--- Rating #17 ---
+Class: Math150
+Date: 2025-03-29 08:48:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Excellent teacher
+
+--- Rating #18 ---
+Class: Math150
+Date: 2025-03-29 08:47:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Would give more than 5/5 if I could
+
+--- Rating #19 ---
+Class: Math152
+Date: 2025-03-29 08:47:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+The night before our final, she sent a message on the class wide Discord reminding us to eat and sleep properly. See? This is the difference: you have here a Prof who actually cares about the well-being of students.
+
+--- Rating #20 ---
+Class: Math152
+Date: 2025-03-29 08:46:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+She's got the weird mix of terrible handwriting yet amazing teaching. It's so hard to explain but I love it somehow

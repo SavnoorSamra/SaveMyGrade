@@ -1,0 +1,271 @@
+Professor: Jane Friesen
+Professor Legacy ID: 76759
+Professor ID: VGVhY2hlci03Njc1OQ==
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 2.7
+Avg Difficulty: 3.2
+Num Ratings: 95
+Would Take Again Percent: 54.5455
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ECON280
+Date: 2025-06-04 16:57:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The TA has to be the worst of the absolute worst.
+
+--- Rating #2 ---
+Class: ECON280
+Date: 2024-08-10 16:18:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She really cares about the students' understanding and makes the tests exactly what she taught in class. I didn't even need to study outside of her lectures and participation activities, because they were so helpful.
+
+--- Rating #3 ---
+Class: ECON280
+Date: 2024-08-09 15:23:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This woman is a wolf in sheep's clothing I would avoid at all cost. She does not adequately prepare you for her exams and there are allot of trick questions. If you are forced to take a class with this individual, for exams identify all possible scenario's within all models and read the slides carefully for exact words in multiple weeks slides.
+
+--- Rating #4 ---
+Class: BUEC280
+Date: 2023-10-25 00:23:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The grading system for this course heavily relies on the Midterm and Final exams, which contribute 90% of the total grade.
+
+--- Rating #5 ---
+Class: ECON381
+Date: 2021-08-08 20:10:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Course was graded largely on weekly assignments and quizzes, so you have to stay on top of things. That being said Jane is specific with what she expects from the assignments so its not hard to do well on them. Overall great prof.
+
+--- Rating #6 ---
+Class: ECON280
+Date: 2021-05-03 00:54:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Jane is an amazing prof. Her course might be difficult. But she is very kind. Tries to help her students.
+
+--- Rating #7 ---
+Class: ECON435
+Date: 2019-11-24 07:12:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She's absolutely lovely. Definitely recommend for upper-div. classes. Her jokes will make you smile, class is always a comfortable learning environment, and her feedback is incredibly valuable for anybody planning on doing future statistical work/study. Thanks Jane!
+
+--- Rating #8 ---
+Class: ECON435
+Date: 2019-11-20 20:54:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+ECON435 has been my most favorite class that I have taken at SFU. Jane's lectures are engaging, the assignments are relevant, her feedback is constructive and her grading is fair. The knowledge and skills I have learned in this class are extremely applicable to real-world problems. I would highly recommend this course to all ECON students.
+
+--- Rating #9 ---
+Class: ECON280
+Date: 2019-04-13 22:49:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+T he best prof ever!!!!
+
+--- Rating #10 ---
+Class: ECON381
+Date: 2018-03-19 18:42:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+worst
+
+--- Rating #11 ---
+Class: ECON381
+Date: 2018-01-20 18:32:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+all graphs
+
+--- Rating #12 ---
+Class: ECON280
+Date: 2015-11-25 00:33:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof! Lectures are very engaging... Exams are straight forward and very similar to assignment questions. Definitely take her class. Jane ROCKS! :)
+
+--- Rating #13 ---
+Class: ECON280
+Date: 2015-04-30 15:49:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Great lecturer.  Fair marker.
+
+--- Rating #14 ---
+Class: ECON381
+Date: 2014-04-25 01:30:49 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+she is really funny and her lectures are really clear. However, she speaks really quick. If English is not your first language, maybe you need 2 weeks to get used to her speed.
+
+--- Rating #15 ---
+Class: ECON381
+Date: 2014-04-24 01:32:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+very straight forward. no tricky questions in midterms. assignments are easy.
+
+--- Rating #16 ---
+Class: BUEC280
+Date: 2013-07-17 02:42:04 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+The class was straight forward. The TA's were very unorganized and did not release assignment grades until the last week of class. Jane is kinda out there, but she's a nice woman. GO TO CLASS and ask questions. You'll do fine.
+
+--- Rating #17 ---
+Class: BUEC280
+Date: 2013-06-23 00:23:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+she is nice but the stuff she teaches are really hard. the TAs are helpful.
+
+--- Rating #18 ---
+Class: ECON381
+Date: 2012-12-20 05:53:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Her notes are complement to the textbook. Do the practice questions for the midterm and final. Recommended
+
+--- Rating #19 ---
+Class: BUEC280
+Date: 2012-07-12 14:47:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She knows her stuff. You need to attend classes as her notes are quite different from the textbook. Do not skip tutorials as questions discussed there are likely to come out in the exams. Her exams are not easy but if you study her notes, you should be fine
+
+--- Rating #20 ---
+Class: BUEC280
+Date: 2011-01-07 18:40:29 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Class looked interesting, turned out to be boring. Lectures were decent, but she was unable to answer any student questions that weren't directly related to the slides. No real marking scheme, which wasn't really fair. She's not the worst, but she's not good.

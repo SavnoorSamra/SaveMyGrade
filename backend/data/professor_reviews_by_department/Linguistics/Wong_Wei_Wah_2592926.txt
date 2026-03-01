@@ -1,0 +1,89 @@
+Professor: Wei Wah Wong
+Professor Legacy ID: 2592926
+Professor ID: VGVhY2hlci0yNTkyOTI2
+Department (CSV): Linguistics
+Department (Fetched): Linguistics
+Avg Rating: 3.7
+Avg Difficulty: 2.5
+Num Ratings: 6
+Would Take Again Percent: 83.3333
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: LING111
+Date: 2025-05-09 02:57:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Dr. Claudia is an amazing professor who was always willing to answer questions. The group project where we created our own language was fun and very easy. Weekly assessments and quizzes were easy and helped reinforce the material. Would highly recommend taking this class!!
+
+--- Rating #2 ---
+Class: LING111
+Date: 2025-04-24 04:02:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She makes everything so easy to follow and actually enjoyable. Super clear, organized, and chill. You'll learn a lot without feeling overwhelmed. One of the best profs fr.
+
+--- Rating #3 ---
+Class: LING111
+Date: 2024-12-18 09:47:11 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+LING 111: Criteria often wasn't clear and differed between Dr. Wong and the TAs. Weekly self-learning assignments were really easy so there was no point going to lectures (she just reads off the slides, which are posted).
+
+--- Rating #4 ---
+Class: LING111
+Date: 2024-12-13 03:42:28 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Alright prof. Does a mediocre job teaching material (reads off slides). Not clear with grading rubrics (wants a specific thing but doesn't really emphasize what it is). Otherwise it's a relatively easy class.
+
+--- Rating #5 ---
+Class: LING362
+Date: 2021-12-03 03:31:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Dr Wong is very helpful, knowledgeable, and genuinely interested in teaching. She is also quite down to earth. Rubrics and feedback are sufficiently thorough yet concise. Scoring high on assignments is easy if you put the time in.
+
+--- Rating #6 ---
+Class: LING111
+Date: 2021-11-15 09:24:28 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+RUN! a 100 level course gives you a 300 level course workload. you better run!

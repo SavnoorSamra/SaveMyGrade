@@ -1,0 +1,37 @@
+Professor: Tracy Yiu
+Professor Legacy ID: 2622021
+Professor ID: VGVhY2hlci0yNjIyMDIx
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 5
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS200
+Date: 2020-10-29 00:02:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures are long, but great professor, informative lectures, and exams are do-able if you do the readings.
+
+--- Rating #2 ---
+Class: BUS200
+Date: 2020-09-18 04:56:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+One of the best professors I have ever taken. She's incredibly kind and her voice is so calming to listen to during lectures. She is incredibly reasonable with her marking and explains the guidelines very specifically. Highly recommend her for BUS 200!!

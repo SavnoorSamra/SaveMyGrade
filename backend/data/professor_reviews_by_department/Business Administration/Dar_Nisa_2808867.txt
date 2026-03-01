@@ -1,0 +1,11 @@
+Professor: Nisa Dar
+Professor Legacy ID: 2808867
+Professor ID: VGVhY2hlci0yODA4ODY3
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

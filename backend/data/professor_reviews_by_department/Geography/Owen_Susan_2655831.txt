@@ -1,0 +1,76 @@
+Professor: Susan Owen
+Professor Legacy ID: 2655831
+Professor ID: VGVhY2hlci0yNjU1ODMx
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 4.4
+Avg Difficulty: 2.4
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: GEOG100
+Date: 2021-05-21 02:16:04 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+The course would benefit from more interesting graphics and photographs in the lectures. Since this is an introductory course, there is a lot of memorization and a lot of material to plow through. Although encouraged to &quot;think about&quot; the concepts, when it came to assignments, the TA's were not able to recognize thinking outside the box.
+
+--- Rating #2 ---
+Class: GEOG100
+Date: 2021-05-19 00:03:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Good professor
+
+--- Rating #3 ---
+Class: GEOG100
+Date: 2021-04-22 23:43:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Sue is the best prof I've had during the pandemic. She gave us the most freedom in how you choose to study, and was quick to respond to my email when I had a tech issue. Exams were both fair. The hardest marking was on discussion exercises, which were still very fair. Read the textbook, do the weekly quizzes and you'll do well.
+
+--- Rating #4 ---
+Class: GEOG100
+Date: 2021-01-03 08:22:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Owens did well teaching the class. In my opinion, there was a TON of content to work through every week. She had lecture videos(2.5hrs/week), textbook readings (30+pages/week), and quizzes. The course content is quite bland but is not hard to understand. She seemed like she actually cared about her students and tried to help us if we needed it.
+
+--- Rating #5 ---
+Class: GEOG100
+Date: 2020-12-18 22:37:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Really cares for students and wants them to succeed. Structured the course really well and assignments/quizzes were very enjoyable. Study guide was given for both mid term and final which really helps in studying. Would highly recommend taking a course with Susan if you can!

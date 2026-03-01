@@ -1,0 +1,271 @@
+Professor: Evan McCuish
+Professor Legacy ID: 2027461
+Professor ID: VGVhY2hlci0yMDI3NDYx
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 4.5
+Avg Difficulty: 2.9
+Num Ratings: 77
+Would Take Again Percent: 94.2029
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CRIM103
+Date: 2026-01-10 23:58:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great Prof! He cared about students and was passionate about what he was teaching. He is very clear about what will be on the test though so that helps a lot. Although he is a great prof the TA's were very harsh markers, I would suggest going to office hours with them to ensure you know exactly what they want to see on the assignments.
+
+--- Rating #2 ---
+Class: CRIM103
+Date: 2025-12-17 20:46:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. McCuish was a great professor, he was very clear about what content was important for quizzes, and did a great job at trying to make sure he communicated information in a way that we understood. Really appreciated his teaching style. However, TA's graded pretty harshly.
+
+--- Rating #3 ---
+Class: CRIM103
+Date: 2025-12-08 20:35:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof., Passionate in teaching and lectures are interesting. He also puts lectures on YouTube. Paper weights 30% but grading is fair, and he gives clear instructions(he literally spend a whole lecture talking about how to write a paper). Really recommend taking his class.
+
+--- Rating #4 ---
+Class: CRIM103
+Date: 2025-12-08 07:46:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Course felt pretty dry, and I was honestly just ready to be done with it. Assignments had very vague instructions; good if you like the freedom, but often left you unsure of what he actually wanted. TAs graded harshly for a 100-level class, often on things not in the rubric. Quizzes were fair and the prof was clear about what would be tested.
+
+--- Rating #5 ---
+Class: CRIM210
+Date: 2025-12-04 06:54:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Evan Mccuish cares a lot about his work and students, which is clear in lectures and the way assignments are designed. I really enjoyed this class, but it was definitely the toughest grading I've had in uni so far. 10/10 professor and course material, just be prepared to get a lower grade than you're maybe used to
+
+--- Rating #6 ---
+Class: CRIM210
+Date: 2025-12-04 06:19:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Only classes i've walked away remembering things from throughout uni were his. Big thanks to evan to making crim what it is at sfu
+
+--- Rating #7 ---
+Class: CRIM210
+Date: 2025-12-04 06:18:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Doesn't compare to any other profs at SFU. If you have the chance to take any of his classes-do it. Funny guy, super knowledgeable. Cares about the subject and will make you interested even if you don't enjoy reading dense classes.
+
+--- Rating #8 ---
+Class: CRIM103
+Date: 2025-12-04 06:15:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great prof. Great guy. Super engaging, no bs kinda class. He will make clear to you how everythings graded, whats on the exams and what you need to succeed. Couldn't ask for more.
+
+--- Rating #9 ---
+Class: CRIM210
+Date: 2025-12-03 06:45:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+amazing prof. He teaches his own research which is extremely engaging. If you are interested in crim special topics especially psychopathy he is ur guy. in all 4 years i've never had a better prof.
+
+--- Rating #10 ---
+Class: CRIM103
+Date: 2025-12-02 19:21:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+all i gotta say. best prof ever
+
+--- Rating #11 ---
+Class: CRIM103
+Date: 2025-11-28 20:39:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Evan is a chill dude and would take a class with him again. Just like any class, put in the effort and you'll come out with a decent grade. He usually tells you what will be on the quiz during lecture so keep your ears open.
+
+--- Rating #12 ---
+Class: CRIM103
+Date: 2025-10-23 19:07:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+lectures are clear and cover textbook material that he expands on. he was engaging and his slideshows were formatted well and had relevant information. there was only 2 quizzes, 2 assignments and a tut group presentation. best prof I had this semester, he was also funny and really nice.
+
+--- Rating #13 ---
+Class: CRIM210
+Date: 2025-02-10 01:27:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Watched his YouTube videos
+
+--- Rating #14 ---
+Class: CRIM210
+Date: 2025-01-04 00:41:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Prof was pretty easy and nice. There wasn't too much work in his class. There are easy discussions worth 20%, which are really nice. The TA's were fair markers as well. I would recommend.
+
+--- Rating #15 ---
+Class: CRIM210
+Date: 2024-12-14 06:10:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The GOAT. that's it.
+
+--- Rating #16 ---
+Class: CRIM210
+Date: 2024-12-11 07:46:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+One of my favourite profs at SFU. He made this course interesting because he showed interest in it, too. I liked how the papers had extensive feedback on them, it helped set me up for the rest. However, the final quiz or exam (worth 25%) was kinda more difficult than anticipated. Otherwise, Evan is the man
+
+--- Rating #17 ---
+Class: CRIM210
+Date: 2024-12-10 07:42:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Evan is a really nice guy. It's very obvious that he cares about his students. The papers are graded a bit hard but he kinda helps make it up by making it clear what is gonna be on the final. The discussions are important and helpful. Evan is always willing to have proper conversations and answer questions. Interesting course content.
+
+--- Rating #18 ---
+Class: CRIM210
+Date: 2024-12-09 06:44:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Dr. McCuish really cares about his students & is overall a great professor. Really open to answering questions in depth to help students understand. A little bit of a tough marker on essays but overall course isn't too difficult if you attend the lectures ! Managed to get a decent grade without even looking at the textbook.
+
+--- Rating #19 ---
+Class: CRIM210
+Date: 2024-12-04 21:08:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+He is super nice and clearly cares about his content and students. Essays are marked extremely heavy and online discussion posts matter a lot. Since this class was hybrid, it was a little annoying to keep up with weekly content, but the content itself was super interesting. He is passionate and always answers questions in depth. Overall great!
+
+--- Rating #20 ---
+Class: CRIM210
+Date: 2024-11-22 06:51:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great professor. Discussion questions for this class were important but I believe it's because it was a partially online course. Overall really good experience with this professor. Clear lectures, assignments and overall very organized.

@@ -1,0 +1,271 @@
+Professor: Andrew Gemino
+Professor Legacy ID: 170714
+Professor ID: VGVhY2hlci0xNzA3MTQ=
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.3
+Avg Difficulty: 3.1
+Num Ratings: 40
+Would Take Again Percent: -1
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS201
+Date: 2015-01-07 16:47:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Probably my favourite prof so far. Very inspiring and clearly wants his students to do well. Engaging lecturer and very helpful.
+
+--- Rating #2 ---
+Class: 201
+Date: 2014-11-26 23:09:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Most down to earth prof. He is really straight up and is one of the best profs ever. He makes his lectures intriguing.  Easy class to do well, not to much work. Very helpful and honest
+
+--- Rating #3 ---
+Class: BUS201
+Date: 2014-01-18 22:54:56 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Andrew is such an amazing person. He is such a cool and nice person and I wish I could have him as a prof for more classes. He goes through his slides a bit quickly, but honestly this is a really easy class to do by just reading the text book
+
+--- Rating #4 ---
+Class: BUS201
+Date: 2013-01-06 21:18:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I had Mr. Gemino for ONE class because he was our substitute. And man...our whole class wished he stayed as our permanant prof. He gave one of the best lectures i've ever had in my whole semester. He is really one of the few profs who can teach you while having fun. ANDREW, if you are reading this you're awesome!
+
+--- Rating #5 ---
+Class: BUS201
+Date: 2012-04-16 02:01:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+The most down to earth prof I've ever had. He's very nice prof and wants everyone to do well! Class average was way too high though.
+
+--- Rating #6 ---
+Class: BUS201
+Date: 2012-03-28 02:56:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Very good at teaching and making class interesting.
+
+--- Rating #7 ---
+Class: BUS201
+Date: 2011-12-20 15:40:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great Prof!  He is really interested in his students and wants all of them to succeed and do well.  The material can get a little dry but he does a great job preparing you with the fundamentals of business.
+
+--- Rating #8 ---
+Class: BUS201
+Date: 2011-11-01 04:09:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Funny but hard
+
+--- Rating #9 ---
+Class: BUS237
+Date: 2010-04-27 16:27:55 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+First of all, MIS is the most boring class I have ever taken BUT he makes it seem like class is a lot of fun... That was the only reason why I still went to class despite the boring subjects.
+
+--- Rating #10 ---
+Class: BUS237
+Date: 2008-09-16 17:36:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Gemino is a great prof. The only thing that's annoying about this class is he tries to make MIS sound like the best career ever. The book was dry, but you have to read it cause it's heavily weighted in the exams(which are hard by the way). Gemino is a fantastic speaker and does the best he can with a pretty boring subject.
+
+--- Rating #11 ---
+Class: BUS237
+Date: 2008-07-18 01:47:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Going into MIS because of him
+
+--- Rating #12 ---
+Class: BUS237
+Date: 2008-06-27 04:54:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is one of the best prof I had. I do not have interest towards computers and technology. And I thought I will hate this class. But this prof really made the class so much interesting than I thought. I realli feel like learning. Studying notes is very important! Strongly Recommended.
+
+--- Rating #13 ---
+Class: BUS237
+Date: 2008-03-19 16:14:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He is probably the best prof you can get for this course. This course is ridiculous, the projects take forever and aren't even worth that much. The midterm is multiple choice but really tricky. You have to do more than read the textbook for this course! It is a ton of work!
+
+--- Rating #14 ---
+Class: BUS361
+Date: 2007-12-21 02:12:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I came into this course not knowing what to expect, but I came out with an appreciation for project management. Andrew brings real-world experiences into the lecture so everything in the course seems practical. He's also quite flexible with scheduling and deadlines. The sustainability projects were quite ambitious and were fun to be a part of.
+
+--- Rating #15 ---
+Class: BUS237
+Date: 2006-06-11 20:00:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+he's a pretty fun prof... projs and assignments are time consuming (and at the end, it doesnt even worth THAT much... -___-) i suggest taking at least one CMPT course before taking this class, because some of the concepts are pretty technical. exams are tricky, but they're the same every yr (they're from exam banks :]) READ the text & u'll do fine!
+
+--- Rating #16 ---
+Class: BUS237
+Date: 2006-04-14 18:13:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+people say this course is hard, but not really. All you have to do is memorize those tons of concepts. you might feel hard cuz it is all the computer terms, but dont be afraid and just memorize them. course is fine, instructore is even better. he is enthusiastic and helpful. take 237 with andrew!!
+
+--- Rating #17 ---
+Class: BUS237
+Date: 2006-04-11 19:48:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+AWESOME PROF, CRAZY EXAMS.The workload is quite heavy (2 exams, 3 assignments, 8 quizzes, and a group presentation) but you actually learn a lot. Make sure you stay on top of everything before entering the exam, because they are like, REAL TOUGH. Andrew is one of the best prof ever though!
+
+--- Rating #18 ---
+Class: BUS364
+Date: 2006-04-02 19:53:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Andrew has a sexy voice.  You can listen to his lectures on tape too.  It has helped me learn project management concepts better.
+
+--- Rating #19 ---
+Class: BUS364
+Date: 2006-03-30 19:16:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Great guy, excellent knowledge, high soft skills
+
+--- Rating #20 ---
+Class: BUS237
+Date: 2006-03-22 06:11:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Assignments & projects does require time & effort to get high marks. Midterms are fair, and b/c it's a curved course, getting a high mark isn't really all that hard. materials r applicable, i love his sense of humour. tries to make lectures interesting.. NOT boring! REcommended!

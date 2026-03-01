@@ -1,0 +1,63 @@
+Professor: Nadine Attewell
+Professor Legacy ID: 2665873
+Professor ID: VGVhY2hlci0yNjY1ODcz
+Department (CSV): Women
+Department (Fetched): Women
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: GSWS-320
+Date: 2025-05-26 20:02:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Attewell is incredibly kind and easy to approach. Her lectures are engaging, and you spend most of the time in a collaborative discussion. Also, she is willing to help with all your assignments and your final project. A professor who really cares about her students.
+
+--- Rating #2 ---
+Class: GA-101
+Date: 2025-05-06 20:30:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Attewell is a great prof! This was my first Global Asia course and I found it very interesting. This course had two 1000 word essays worth 30% each--- these were the main assignments. We had weekly readings or films to watch, and we would discuss them in class. Overall this course was very fun, a good GPA booster, and quite manageable!
+
+--- Rating #3 ---
+Class: GSWS-320
+Date: 2024-09-10 23:02:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The topics explored in this class felt very niche; it was very fun to explore and reflect on new concepts I hadn't heard of before. Dr. Attewell is very nice and approachable and gave great advice and help regarding any concerns I had over assignments. Readings were interesting and very manageable. Final is a choice between creative project/ essay
+
+--- Rating #4 ---
+Class: GSWS-320
+Date: 2024-07-03 02:55:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Attewell is such an amazing professor. You can tell that she is passionate about every topic that she teaches and so respectful of everyone's opinions. Participation does not always have to be talking in class, she gives lots of opportunities for writing thoughts downs too

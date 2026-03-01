@@ -1,0 +1,11 @@
+Professor: Violette Baillargeon
+Professor Legacy ID: 2919979
+Professor ID: VGVhY2hlci0yOTE5OTc5
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

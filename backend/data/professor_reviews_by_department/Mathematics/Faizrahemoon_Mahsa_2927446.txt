@@ -1,0 +1,63 @@
+Professor: Mahsa Faizrahemoon
+Professor Legacy ID: 2927446
+Professor ID: VGVhY2hlci0yOTI3NDQ2
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4
+Avg Difficulty: 3.3
+Num Ratings: 4
+Would Take Again Percent: 75
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: D100
+Date: 2024-08-20 20:38:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Her lectures were simple and straight to the point. She went through examples and gave time for people to try them during the lecture.
+
+--- Rating #2 ---
+Class: D100
+Date: 2024-07-21 01:45:40 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very hard
+
+--- Rating #3 ---
+Class: D100
+Date: 2024-01-11 02:45:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Gave straight forward lectures and many examples that reflected the midterm and finals. Is quite straight forward and blunt but is very easy to understand. Came to understand her and her humor by the end of the term.
+
+--- Rating #4 ---
+Class: D100
+Date: 2023-09-11 22:59:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Excellent Prof, Mahsa is funny and energetic, and she is very approachable for any questions regarding lecture criteria. She breaks down concepts to the point where they become easy to understand, and she gives helpful practice questions that are relative to exams. This is the first math class where I got an A!

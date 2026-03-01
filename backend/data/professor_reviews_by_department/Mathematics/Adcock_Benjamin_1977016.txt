@@ -1,0 +1,275 @@
+Professor: Benjamin Adcock
+Professor Legacy ID: 1977016
+Professor ID: VGVhY2hlci0xOTc3MDE2
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.3
+Avg Difficulty: 3.8
+Num Ratings: 50
+Would Take Again Percent: 56.0976
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH242
+Date: 2025-12-08 22:59:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Going to his lectures was equivalent to having your textbook read aloud as an audiobook. He is one of the worst professors I have ever had. I don't even think he was qualified to teach the course. He seemed to know nothing except how to read from the textbook, and he couldn't come up with his own examples, he just copied them directly. steer clear.
+
+--- Rating #2 ---
+Class: MATH310
+Date: 2025-08-13 04:58:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I strongly recommend avoiding any course taught by him.
+
+--- Rating #3 ---
+Class: MATH242
+Date: 2025-04-21 01:50:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The lectures weren't helpful since he mostly read off the textbook, but the exams were fair though the final was a bit harder. He was reasonable with deadlines and scaled final grades by about 5%, which helped. Overall, he was average, but the course is tough and time-consuming, so expect to put in extra effort than your usual 3 credit math course.
+
+--- Rating #4 ---
+Class: MATH242
+Date: 2025-04-21 00:22:24 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Good professor who knows his stuff. Lectures go too fast, but that's a fault of the material. 242 has a reputation for being one of the most difficult math courses at SFU, and it's well-deserved. Be prepared to spend way more hours than you think on homework and studying. Overall a fair prof, but the final was tricky. He did scale us up though.
+
+--- Rating #5 ---
+Class: MATH242
+Date: 2025-04-19 02:51:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He read off the textbook word for word, lectures were of no use. This class tanked my GPA.
+
+--- Rating #6 ---
+Class: MATH242
+Date: 2025-04-14 07:17:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Avoid if possible. I had no choice since the course is offered only once a year, but it ruined my GPA. Lectures are just the prof writing notes like it's an English essay &#8212; no real explanation of concepts. Doesn't feel like a math class. No helpful online resources either. Not recommended for a proof-based course.
+
+--- Rating #7 ---
+Class: MATH242
+Date: 2025-04-09 22:22:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If you see him teaching Analysis MATH 242 dont take him cuz he will be reading off the textbook anyway (Word by Word). You can learn it faster if you just read the book 
+
+I wouldn't recommend him
+
+--- Rating #8 ---
+Class: MATH309
+Date: 2024-12-21 21:25:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Course material was interesting and Dr. Adcock gave good lectures. Assignments were sometimes difficult but he was helpful during office hours. Midterms were tight on time but were fair if you studied the lectures and assignments. Final was very fair and even had a question pasted from one of the assignments.
+
+--- Rating #9 ---
+Class: MATH260
+Date: 2024-01-15 02:03:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ben was a great prof. He was always available and non-judgmental during office hours. Very open and friendly. The class itself was honestly not too bad compared to some other 200-level math classes I have taken.
+
+--- Rating #10 ---
+Class: MATH260
+Date: 2023-12-30 22:28:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His course meets my expectation of 200 level math, 2nd midterm was lit bit hard for 50 mins but final was pretty fair, quiz slightly harder than the hw but style is pretty similar. His lecture is def not that bad, both Leo and Hannah were really helpful during tutorial
+
+--- Rating #11 ---
+Class: MATH260
+Date: 2023-12-20 06:01:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+how can someone so mean have such a cute dog :(
+
+first midterm was fair and easy to study for which then gave us a false sense of security for the second midterm. average went from 70 on the first one to 44 on the second one lol. final was somewhere in the middle but overall that second midterm and the quizzes afterward were way too hard.
+
+--- Rating #12 ---
+Class: MACM316
+Date: 2021-11-30 18:03:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+The worst teacher I've met!
+
+--- Rating #13 ---
+Class: MATH152
+Date: 2020-12-14 08:03:23 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This guy's teaching style is &quot;love it or hate it&quot;. I thought he was a middle of the pack prof. Evident that the notes weren't his, however it was also his first time teaching this class. I think there are better options out there, but he isn't a horrible choice.
+
+--- Rating #14 ---
+Class: MATH310
+Date: 2020-12-14 04:36:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Easy and pleasant class. Very organized and professional guy. Notes are useful enough to not need to read the textbook. Homework and exams are closely related and similar in difficulty.
+
+--- Rating #15 ---
+Class: MATH152
+Date: 2020-05-10 22:44:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Enjoyed his sense of humor! Lectures were clear and engaging.
+
+--- Rating #16 ---
+Class: MATH152
+Date: 2020-04-08 00:55:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is VERY robotic when teaching. He copies his lecture notes, doesn't explain stuff between two steps, makes LOTS of mistakes. I struggled to understand anything he explains in lecture, just not a good teacher. Doesn't explain concepts, this makes hw very hard. Not clear when teaching. compared to other teachers he makes the course harder.
+
+--- Rating #17 ---
+Class: MACM316
+Date: 2019-08-16 08:08:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Quizzes and assignments (every. single. week.) which count for A LOT are very hard. Expect to spend at least 14 hours a week on this class. Lectures consist mostly of scarily long proofs and derivations. Midterm was super rushed but the questions weren't too bad. The final was pretty reasonable though and he seems pretty organized.
+
+--- Rating #18 ---
+Class: MACM316
+Date: 2019-08-15 23:24:16 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He doesnt explain concepts clearly, its only after LOTS of studying you figure out that the thing you're currently studying isnt really THAT bad. In lecture he just goes on and on with proofs and gigantic derivations that mean nothing in the end. On the plus side he's approachable.
+
+--- Rating #19 ---
+Class: MACM316
+Date: 2019-08-15 02:44:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Final is really hard, too many prove.
+
+--- Rating #20 ---
+Class: MACM316
+Date: 2019-08-14 17:00:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The course is challenging. It starts off fairly easy but quickly becomes overwhelming. Try to keep up with your weekly homework and you should be fine. I recommend going to Bens office hours, he is willing to help you. Great prof overall

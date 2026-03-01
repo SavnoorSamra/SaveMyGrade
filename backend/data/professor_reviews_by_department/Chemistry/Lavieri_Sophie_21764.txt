@@ -1,0 +1,271 @@
+Professor: Sophie Lavieri
+Professor Legacy ID: 21764
+Professor ID: VGVhY2hlci0yMTc2NA==
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 4.1
+Avg Difficulty: 2.5
+Num Ratings: 129
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CHEM100
+Date: 2018-11-20 22:36:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Easy A in this class.
+
+--- Rating #2 ---
+Class: CHEM111
+Date: 2014-02-02 20:52:07 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Not good. Don't be fooled by her appearing "helpful". Doesn't ask what u thought about exams (full of mistakes), but she wouldn't know b/c she wasn't there. Final exam way too hard. Full of things we didn't learn. Doesn't guide u by giving homework. Control freak re: cell phones/tablets. Doesn't allow them even tho students use them to take notes.
+
+--- Rating #3 ---
+Class: CHEM111
+Date: 2014-01-06 18:31:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She has a heart of gold, and I could tell she takes her job seriously. She goes over time a lot and is always concerned whether her students are paying attention (will call you out if you are texting) so that was extremely irritating. She also is not very clear with certain concepts.  But overall she's average.
+
+--- Rating #4 ---
+Class: CHEM126
+Date: 2013-12-13 04:03:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+First off she's an extremely nice lady and loves being around and helping her students.  Most of the labs weren't too bad except a couple that ran the whole time and a couple with long calculations.  For midterms make sure you go over loncapa questions and go over all of the labs in detail as that's were most of the questions come from.
+
+--- Rating #5 ---
+Class: CHEM126
+Date: 2013-12-10 19:40:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Sophie is by far one of the best profs I've ever had, and for sure the nicest. Very helpful in labs when you screw up, and is more than happy to help you understand concepts. Most labs were fair, a few had some harder calculations, but most were based off of Lon-Capa. Midterms were hard~50% for both, but most of your mark is based off of lab work.
+
+--- Rating #6 ---
+Class: CHEM121
+Date: 2013-12-06 12:40:52 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Hands down one of the nicest profs I've ever had. SHe's just not very good at teaching. Time better spent looking at the material in the textbook
+
+--- Rating #7 ---
+Class: CHEM111
+Date: 2013-10-24 12:07:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She's just average. Doesn't reply to many emails and kind of just passes you on to TAs for everything, even though she is a teaching prof and not a research prof. Way too many questions on the Midterm for the time given. I think when a prof sees that 98% of the class didn't finish on time, this should indicate something is wrong.
+
+--- Rating #8 ---
+Class: CHEM126
+Date: 2013-08-06 22:43:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Sophie is hands down one of the most compassionate professors at SFU. She genuinely cares about her students and she's always willing to lend a hand if you need it. 8 out of the 11 labs are easy, the others require a bit more thinking, but prelabs will prep you well. Midterms were definitely difficult, final average was 51%!
+
+--- Rating #9 ---
+Class: CHEM121
+Date: 2012-12-23 00:57:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Terrible time trying to understand her accent. Her demo's at beginning were slow and pointless, the questions arent that hard follow lab manual and what you learned in lecture to do well.
+
+--- Rating #10 ---
+Class: CHEM121
+Date: 2012-11-30 00:27:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+If you can understand her through her accent the labs are very easy. The report sheet are based on Loncapa or from the lab manual. Beware though, my TA and a lot of my friends' TA are horrible! Just fallow the manual and you do well.
+
+--- Rating #11 ---
+Class: CHEM121
+Date: 2012-10-31 00:34:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Horrible as a lab professor. Very hard to understand her accent.
+
+--- Rating #12 ---
+Class: CHEM126
+Date: 2012-08-29 12:59:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Very nice professor, lab with her is super easy. Midterms were on the more difficult side, class avg was ~60% for each, but questions were based on lon-capa and lab descriptions. Lab write-ups were worth 50%, so make sure you put some effort into them! I didn't do well on the two midterms, but ended up with B+ in the course b/c of high lab marks.
+
+--- Rating #13 ---
+Class: CHEM126
+Date: 2012-07-24 05:15:07 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Nice professor but is not able to communicate lab ideas effectively. The lab writeups are easier than 121, but the midterms are on the hard side.
+
+--- Rating #14 ---
+Class: CHEM121
+Date: 2012-05-01 18:33:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She was a fantastic lab instructor. She was friendly, helpful and definitely not condescending. Her instructions were helpful and I enjoyed her labs.
+
+--- Rating #15 ---
+Class: CHEM122
+Date: 2011-05-10 00:39:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Sophie is a passionate prof! Very nice to her students. But in her class you are mostly on your own. Study her notes. She likes her own lec notes. Go to her office hours, and TAs are helpful too. Put in your effort then you shouldnt end up so bad.
+
+--- Rating #16 ---
+Class: CHEM126
+Date: 2010-12-20 06:16:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+her teaching is confusing and don't listen to her about midterm b/c it will be different from loncapa and exp...just go to office hour and ask ta's for help.
+
+--- Rating #17 ---
+Class: CHEM126
+Date: 2010-12-15 04:40:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Sophie's a really nice prof. Her labs are straightforward business, marking based on accuracy and equations. For the exams, be sure to go over the lon-capa questions & lab intros in the manual! Both lab final and midterm were pretty tough, so come prepared! Overall, a pretty decent chem course.
+
+--- Rating #18 ---
+Class: CHEM281
+Date: 2010-09-29 14:55:34 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+the style of teaching is confusing
+
+--- Rating #19 ---
+Class: CHEM111
+Date: 2010-07-30 20:08:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Incredibly enthusiastic. This Professor epitomizes a passion for teaching. She genuinely cares about her students, and their ability to learnt he material.
+
+--- Rating #20 ---
+Class: CHEM111
+Date: 2010-05-20 19:06:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+BEST Professor!!! Enthusiastic and extremely helpful.

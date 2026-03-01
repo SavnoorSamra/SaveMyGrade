@@ -1,0 +1,271 @@
+Professor: Nancy Khalil
+Professor Legacy ID: 1292731
+Professor ID: VGVhY2hlci0xMjkyNzMx
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.5
+Avg Difficulty: 3.6
+Num Ratings: 20
+Would Take Again Percent: 55.5556
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH154
+Date: 2019-01-06 22:36:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Nancy was with out a doubt the best math prof/teacher I've ever had. I wouldn't really say that I'm a math person, and have struggled with it in the past, but she makes everything so easy to understand and presents how to solve problems in a logical way. She also hand writes her notes which I find super useful.
+
+--- Rating #2 ---
+Class: MATH232
+Date: 2018-12-01 23:44:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Nancy is an exceptional professor. She marks very fairly, but is still always willing to listen to your grading appeals. Her lecture notes and clear and concise which is also a huge plus. You need to put in the effort to do well in linear algebra and Nancy is always there to help. She is clearly interested in math and is an inspiring teacher.
+
+--- Rating #3 ---
+Class: MATH154
+Date: 2018-07-25 10:48:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Nancy is very passionate about what she does. She provides a lot of support to her students. It is important to show her that you care and that you're trying and she'll be ready to help you out. Make sure to study her notes.
+
+--- Rating #4 ---
+Class: MATH152
+Date: 2018-07-09 14:09:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Doesn't know how to teach Calculus II, notes are very disorganized, she would spend time on easy questions and in the end just rush the hard ones, very inexperienced professor.
+
+--- Rating #5 ---
+Class: MATH154
+Date: 2018-04-20 01:59:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This was an easy course. Just make sure you read and understand the notes she posts and do the practice final/midterms she hands out. Everything she tests are covered in her lecture. Her final and midterms didn't have any over-the-top stereotypical bullsh*t questions so its all good.
+
+--- Rating #6 ---
+Class: MATH232
+Date: 2018-04-20 00:07:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Easy midterms, and easy finals. Midterm 2 was easier than midterm 1
+
+--- Rating #7 ---
+Class: MATH154
+Date: 2018-04-13 13:08:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+For a science major, I've never been a very strong math student and after high school I put off taking calculus for two years. Nancy's patience and revision of concepts we needed to know to understand the material helped me feel more confident and I left the course feeling like I learned a lot, regardless of my low letter grade
+
+--- Rating #8 ---
+Class: MATH232
+Date: 2018-04-09 17:52:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great prof. Her exams are fair and shes good at explaining concepts. Really enjoyed her lectures, and will look for other classes to take with her.
+
+--- Rating #9 ---
+Class: MATH232
+Date: 2018-03-22 04:25:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very fair midterms , and good at explaining concepts
+
+--- Rating #10 ---
+Class: MATH154
+Date: 2018-03-21 15:48:39 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Will only help you if you put in the effort, which is understandable with most profs, but many other students needed a lot of extra help. The only reason why I did fairly well in this class was because it was not my first time taking this class.
+
+--- Rating #11 ---
+Class: MATH100
+Date: 2018-03-19 23:43:14 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+MATH 232 Marks insanely hard. Makes you completely understand every last detail of the topic to get full marks(guess that's good but its so strict to the point where if you don't write 1 sentence explaining your answer, you won't get full marks even if you showed your work. She also rushes lectures and puts barely taught topics into midterms.
+
+--- Rating #12 ---
+Class: MATH154
+Date: 2018-03-17 23:48:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Helpful after class and through emails. I really feel she wants her students to succeed and do well in the course, and she is invested in helping us. Explains each step thoroughly and communicates the course material well. One of my favorite profs. Great teacher!
+
+--- Rating #13 ---
+Class: MATH232
+Date: 2018-03-17 19:14:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Nancy is the equivalent of a power point presentation
+
+--- Rating #14 ---
+Class: MATH232
+Date: 2018-03-15 17:28:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+she does not care. always in rush. everything is disorganized and messy. never gives review sessions.
+
+--- Rating #15 ---
+Class: MATH232
+Date: 2018-03-14 20:21:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+The teacher is particularly bad. The exam questions require you to write an explanation but not give an answer space. The answer she gave is wrong. She doesn't feel concerned or help you to change the score. I do not know what qualifications such people have as teachers.
+
+--- Rating #16 ---
+Class: MATH232
+Date: 2018-03-07 13:38:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures like a kindergarten class, puts questions not covered in lectures on exams, grades the quizzes on obscure criteria; those points and more are what irked me about this course. Sure, the course itself isn't hard if you study, but the way the info is presented, makes the course seem extra hard.
+
+--- Rating #17 ---
+Class: MATH232
+Date: 2018-02-08 16:07:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great instructor, with clear notes and fair exams. Always willing to answer questions.
+
+--- Rating #18 ---
+Class: MATH232
+Date: 2018-01-25 21:59:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+worst instructor ever
+
+--- Rating #19 ---
+Class: MATH100
+Date: 2016-01-25 02:47:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very clear instructor with a practical grading criteria. Do your work and you will end up with a good mark.  Exams are very fair.
+
+--- Rating #20 ---
+Class: MATH100
+Date: 2009-07-21 04:01:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Helped me through precalc. very clear with her concepts and she is more than willing to spend the time out of class to make sure you understand it

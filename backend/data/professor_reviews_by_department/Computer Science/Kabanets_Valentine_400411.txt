@@ -1,0 +1,279 @@
+Professor: Valentine Kabanets
+Professor Legacy ID: 400411
+Professor ID: VGVhY2hlci00MDA0MTE=
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.1
+Avg Difficulty: 4.6
+Num Ratings: 134
+Would Take Again Percent: 17.5926
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT308
+Date: 2026-02-12 00:44:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Pay money to suffer infinitely in this man's class. Never again.
+
+--- Rating #2 ---
+Class: CMPT307
+Date: 2026-01-08 02:02:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+C- avg. many students failed lol. I shouldve taken it with Jocelyn when I had the chance
+
+--- Rating #3 ---
+Class: CMPT307
+Date: 2025-12-23 18:36:44 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I don't want to say it's common, but it's fair enough even though the class average is C-. I didn't attend class after the first week (maybe MIT 6.006 on YouTube helps you better). If you understand the assignments (not graded) and key concepts, you should be fine to pass with an unsatisfactory grade :) ..
+
+--- Rating #4 ---
+Class: CMPT307
+Date: 2025-12-19 19:00:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+If you're the type of student who goes to office hours and reads the textbook, you'll be fine. If you're not just avoid taking 307 with him and go with anyone else, you will most likely fail. Each quiz is worth 15% so basically you have 4 midterms and a final. Go with Kay or Jocelyn and save your gpa.
+
+--- Rating #5 ---
+Class: CMPT307
+Date: 2025-12-18 11:19:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+C- average, don't need to say much, worst experience, many failed. Content and questions don't relate at all. if anyone decides to take this course with him after this rmp then.....
+
+--- Rating #6 ---
+Class: CMPT308
+Date: 2025-12-17 19:16:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If you're interested in computability and complexity theory, I'd recommend taking this course with Valentine
+
+If you don't think you'd be interested in those topics, avoid this course with him
+
+The material is hard, but the lectures are taught at a slow pace
+
+Lectures are broad. The HW covers some applications. The textbook as many examples
+
+--- Rating #7 ---
+Class: CMPT308
+Date: 2025-12-03 07:00:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This has to be the saddest course that I've taken so far at SFU. I thought that it would be a good class for improving problem solving and understanding of different mathematical theorems, but it's more like a brutal memorization challenge. What is taught is rarely directly useful for the quizzes. I'm going to fail and I'm fine with it.
+
+--- Rating #8 ---
+Class: CMPT308
+Date: 2025-11-19 20:01:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Definitely would not take this guy again. The lecture notes don't align with what he shows in class and the averages are 30-40% with all the grades coming from 4 quizzes and 1 final. Concepts are already hard enough to understand but the way he teaches with his handwritten notes that aren't what you get in class makes it a teach it yourself course.
+
+--- Rating #9 ---
+Class: CMPT307
+Date: 2025-08-25 05:50:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Never in my life have I ever been happy to get a C+ before.
+
+--- Rating #10 ---
+Class: CMPT307
+Date: 2025-08-22 05:37:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Came into this class as a proud fourth year CS major with a 3.81 GPA. Averaged 38% on his four quizzes (60% of the grade!) and managed an incredible 44% on his final exam (the other 40% of the grade!). Apparently I should feel good?
+
+Do. Not. Take. ANYTHING. With. Him!!!!! HE. DOES. NOT. CARE. ABOUT. YOU.
+
+--- Rating #11 ---
+Class: CMPT307
+Date: 2025-08-22 05:21:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Showed up to the final hoping for some leniency from the prof. Nope. Average 35%. This is how the entire semester went. Nearly everyone failing.
+
+--- Rating #12 ---
+Class: CMPT307
+Date: 2025-08-22 05:20:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Average of the final exam was around 35%. The entire class average was around the same mark with the 4 quizzes. This is absurd.
+
+--- Rating #13 ---
+Class: CMPT307
+Date: 2025-08-22 05:19:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Final average was 35%.
+
+--- Rating #14 ---
+Class: CMPT307
+Date: 2025-08-21 06:14:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Out of all the classes I have ever taken, this one is thee most difficult one. I spoke to others who said it's a difficult class but average was 60-70%. Our average was 30%.
+
+--- Rating #15 ---
+Class: CMPT307
+Date: 2025-08-21 06:13:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I want students to know that if you are going to take this class with him as the prof, you must be ready to accept a failing average. No matter how many hours you think you put in, you will not pass all quizzes. Maybe if you are lucky you pass 1. Otherwise, just take it with another prof.
+
+--- Rating #16 ---
+Class: CMPT307
+Date: 2025-08-21 06:10:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Very bad prof. Just like what everyone else said.
+
+--- Rating #17 ---
+Class: CMPT307
+Date: 2025-08-20 16:00:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He doesn't know how to test his students. I honestly did not know what I wrote down on any quiz and final question. I could have wrote an essay and still got 0/10 on the question. If you don't have the exact wording, you aren't getting part marks.
+
+--- Rating #18 ---
+Class: CMPT307
+Date: 2025-08-20 15:58:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+What a roller coaster of a semester only because of this class. The workload is fairly low but the difficulty is on another level. You have 50 minutes per quiz to hope to get 2-3 out of the 5 questions done as they are very time consuming and need quite a lot of thinking. The final exam was like 2 quizzes combined and people had blank pages.
+
+--- Rating #19 ---
+Class: CMPT307
+Date: 2025-08-19 17:32:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+The worst.
+
+--- Rating #20 ---
+Class: CMPT307
+Date: 2025-08-19 17:31:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+A very very difficult class that is very important. We didn't get tested on many actual data structures and algorithms but more so of proofs. At some points I had no idea what I should write due to how difficult he structured the questions and how limited time we had.

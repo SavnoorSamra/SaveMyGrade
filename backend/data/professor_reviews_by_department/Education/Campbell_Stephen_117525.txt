@@ -1,0 +1,271 @@
+Professor: Stephen Campbell
+Professor Legacy ID: 117525
+Professor ID: VGVhY2hlci0xMTc1MjU=
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 3.8
+Avg Difficulty: 2.3
+Num Ratings: 33
+Would Take Again Percent: 92.3077
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: EDU250
+Date: 2021-01-06 22:46:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Professor Campbell is by far one of my favourite professors at SFU! Not only does he genuinely care about each and everyone of his students, but he also is deeply passionate about that which he teaches. I would wholeheartedly recommend taking courses with Professor Campbell!
+
+--- Rating #2 ---
+Class: EDU250
+Date: 2020-12-26 22:39:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Stephen was very insightful and a super nice guy. He made the subject matter very interesting and a lot of what he said stuck with me after the lectures. The weekly quizzes were kind of stressful but other than that the class is very enjoyable.
+
+--- Rating #3 ---
+Class: EDUC475
+Date: 2020-08-25 19:52:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+If you actually want to learn something about math, dont take his class. I feel like I learned more about urban legends than actually understanding how to teach/do math concepts. Very unclear about expectations as well. Just save yourself the trouble and dont take a class with him if you dont have to.
+
+--- Rating #4 ---
+Class: EDUC211
+Date: 2020-05-14 22:16:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Such a great prof! He is literally the most genuine and kind person ever!! I went into this class having no idea what I was going to learn so I was fairly weary about enrolling. I now can proudly say that I have no regrets! This was such an amazing course and I learned so much from him. He was very accommodating during the pandemic also.
+
+--- Rating #5 ---
+Class: EDUC250
+Date: 2019-01-07 17:45:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Professor Campbell is extremely understanding, passionate and knowledgeable. Every week you must submit a 200-250 word reflection based on the reading (given to you on Canvas), and complete a quiz. This class is all discussion but you get what you put in and he's very fair. Highly recommend but be prepared to work, read and debate
+
+--- Rating #6 ---
+Class: EDU250
+Date: 2017-12-05 14:46:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+BEST PROFESSOR EVER. class is very engaging and fun
+
+--- Rating #7 ---
+Class: EDU250
+Date: 2017-12-01 13:05:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+One of the best profs I've ever take at SFU. Class is mandatory. Really enjoyed the discussions. Thought provoking class.
+
+--- Rating #8 ---
+Class: EDU250
+Date: 2017-12-01 12:35:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Amazing prof! He engages with everyone and makes sure to get to know everyone individually! He really makes you open up your mind and think critically. Would definitely recommend!
+
+--- Rating #9 ---
+Class: EDU250
+Date: 2017-11-30 02:03:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great professor. Your learning experience and success is his main interest. Would recommend!
+
+--- Rating #10 ---
+Class: EDU250
+Date: 2017-11-29 19:00:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+he is amazing ! so friendly and engaging with everyone. He genuinely cares for all his students and do his best to ensure that everyone has a chance to explain themselves.
+
+--- Rating #11 ---
+Class: EDU250
+Date: 2017-11-29 16:08:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great prof. Listening to him for 3 hours can be boring, but the discussions made up for it. GPA Booster
+
+--- Rating #12 ---
+Class: EDU250
+Date: 2017-11-29 15:57:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Best Prof. and best class ever!!
+
+--- Rating #13 ---
+Class: EDU250
+Date: 2017-11-29 14:11:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Best prof ever
+
+--- Rating #14 ---
+Class: EDU475
+Date: 2014-09-12 13:55:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I really enjoyed Sen's class.  Because the math involved in teaching K-8 is so diverse it's hard to touch on everything.  So Sen focused on the idea to convey the interest and excitement of teaching/learning math in order to entice students.  I'm glad this class wasn't just practical things because we already had to cover that in an earlier course
+
+--- Rating #15 ---
+Class: EDUC250
+Date: 2013-12-17 14:13:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is AMAZING! His interest for the course is definitely worth taking the course. He is extremely helpful + super kind- always smiling! You need the courseware for sure- there arees every class worth like 30% of your grade. But they're not too difficult as long as you read the course readings every week. Overall, it's easy to excel in this class
+
+--- Rating #16 ---
+Class: EDUC250
+Date: 2013-12-01 15:08:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+His classes were awesome! It sometimes may be boring because he talks to himself for the 3 hour lecture, however, if you listen to what he talks about, sometimes new ideas or thoughts might come to your mind and give you a "click". discussions and quizzes are worth 40% and 30% of your final grade. basically you'll get 40% for your discussion :)
+
+--- Rating #17 ---
+Class: EDUC250
+Date: 2013-11-21 16:28:42 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+You honestly learn so much in this class- it is totally worth your time. Ya the material may be a bit dry, but you do discussions for majority of the seminar class. Its all about your own opinion.. and in most post secondary classes you don't get to voice your own opinion enough. Best prof ever!!
+
+--- Rating #18 ---
+Class: EDUC250
+Date: 2012-03-20 20:10:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I am really enjoying the class! Very attractive and interesting topics!
+
+--- Rating #19 ---
+Class: EDUC250
+Date: 2010-12-02 23:11:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I really enjoyed this class. It was formatted a little differently but if you keep up with the readings you should be fine. Out of the lower div. education classes this was by far my favourite.
+
+--- Rating #20 ---
+Class: EDUC250
+Date: 2010-12-02 23:10:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I really enjoyed this class. It was formatted a little differently but if you keep up with the readings you should be fine. Out of the lower div. education classes this was by far my favourite.

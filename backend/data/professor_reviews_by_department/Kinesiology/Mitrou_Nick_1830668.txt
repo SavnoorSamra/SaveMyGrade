@@ -1,0 +1,24 @@
+Professor: Nick Mitrou
+Professor Legacy ID: 1830668
+Professor ID: VGVhY2hlci0xODMwNjY4
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: BPK305
+Date: 2014-11-27 17:21:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Firstly, Nick is easy on the eyes and very conversational. He made those tutorials easy to understand and helped you prepare for the exam. Great communicator and gives good examples. What more can you ask for!

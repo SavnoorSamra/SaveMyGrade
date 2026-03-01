@@ -1,0 +1,141 @@
+Professor: Simin Najmi
+Professor Legacy ID: 1457409
+Professor ID: VGVhY2hlci0xNDU3NDA5
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 3.4
+Avg Difficulty: 2.8
+Num Ratings: 10
+Would Take Again Percent: 37.5
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: 157
+Date: 2025-10-28 01:38:26 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+You can tell Dr. Najmi is a really nice person, but she's really bad at teaching. She goes over everything very quickly, and when she explains the equations, she just says the names of the variables.
+
+--- Rating #2 ---
+Class: 157
+Date: 2024-10-14 06:18:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Never finishes a lecture on time, spends too much time explaining the simplest of concepts while missing out on the bulk. skip.
+
+--- Rating #3 ---
+Class: phys100
+Date: 2024-07-07 07:15:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Stay away for the sake of your GPA
+
+--- Rating #4 ---
+Class: phys100
+Date: 2024-07-07 07:14:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+It appears to me that there was another category for Simin since her last website on rate my prof was in a 3 range. It also seems that she has boosted this herself. I am here to tell the truth about Simin. Her teaching skills lack. I have self taught most of this semester. I have taken her for Physics 100 and will not make the same mistake again.
+
+--- Rating #5 ---
+Class: PHYS101
+Date: 2023-09-17 18:42:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+She did her best to show and explain concepts in class. iClicker was mandatory almost every lecture, but it hepled in understanding the material. The midterms were traumatizing though.
+
+--- Rating #6 ---
+Class: phys100
+Date: 2023-07-26 00:38:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Simin was passionate about physics, gave great engaging lectures, easy on grading, and not too much homework. She also had good physical demos and responded to questions well.
+
+--- Rating #7 ---
+Class: PHYS101
+Date: 2023-04-22 20:53:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+FLAWLESS. Best prof I've ever had. Such organized lec slides, so helpful during office hours. Achieve homework can be brutal but it's not her fault obviously. Does multiple choice questions in class (if you answer wrong u still get full marks) that are so useful. Takes feedback so well, is genuinely THE PERFECT PROF
+
+--- Rating #8 ---
+Class: PHYS101
+Date: 2023-03-15 00:19:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Genuinely the best prof I've ever had. Her lecture slides are so organized + she constantly updates material based on questions / feedback. Achieve homework is pretty tough (discord will save you) and there are mini prelecture vids and questions due that actually do help! Iclicker is participation only. Everyone in lecture agreed she's awesome.
+
+--- Rating #9 ---
+Class: PHYS141
+Date: 2011-02-16 01:37:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+One of the best proffs i ever had. such a great personality. makes everything easy and she's never mean to anyone. Oh and she looks really pretty :) take her as your physics proff
+
+--- Rating #10 ---
+Class: PHYS141
+Date: 2010-09-07 01:27:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very helpful and fun to be around. She has a great sense of humour and is extremely fair in her exams.

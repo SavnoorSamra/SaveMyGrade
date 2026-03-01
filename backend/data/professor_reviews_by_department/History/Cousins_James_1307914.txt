@@ -1,0 +1,76 @@
+Professor: James Cousins
+Professor Legacy ID: 1307914
+Professor ID: VGVhY2hlci0xMzA3OTE0
+Department (CSV): History
+Department (Fetched): History
+Avg Rating: 4.5
+Avg Difficulty: 3
+Num Ratings: 5
+Would Take Again Percent: -1
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: HIST102W
+Date: 2011-11-23 13:57:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+You need to attend the lecture, because he does not post notes.  If possible get him for the tutorial, he has lots of facts and artifacts to share.
+
+--- Rating #2 ---
+Class: HIST102W
+Date: 2011-08-16 21:37:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Notes were organized/clear. You have to go to the lecture because he doesn't post them online. It's important to get a good TA. Mine was Sarah Nickel and she was a hard marker.If you ask for her opinion on what you should talk about on ur paper, she tells you what you should write but still give u a bad mark even tho u followed her instructions.
+
+--- Rating #3 ---
+Class: HIST102W
+Date: 2009-11-28 19:05:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Pretty good prof. GET A GOOD TA!!! The one I got was so brutal (Julia). Had no explanation for giving students bad marks so there was no way to improve. Cousins took over a tutorial one day and it was much better.
+
+--- Rating #4 ---
+Class: HIST102
+Date: 2009-09-08 11:10:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Good teacher. The only thing is he doesn't post notes online so you have to go to lecture every class. Also, there are a lot of notes so take a laptop or else your hand will get tired very quickly.
+
+--- Rating #5 ---
+Class: HIST102W
+Date: 2009-08-27 19:51:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Cleary lecture notes.Excellence teacher I have seen before. Very nice smile, and very helpful.

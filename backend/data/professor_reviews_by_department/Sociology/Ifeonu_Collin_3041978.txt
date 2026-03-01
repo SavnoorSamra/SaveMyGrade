@@ -1,0 +1,274 @@
+Professor: Collin Ifeonu
+Professor Legacy ID: 3041978
+Professor ID: VGVhY2hlci0zMDQxOTc4
+Department (CSV): Sociology
+Department (Fetched): Sociology
+Avg Rating: 3.7
+Avg Difficulty: 3.3
+Num Ratings: 37
+Would Take Again Percent: 59.4595
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: SA-150
+Date: 2026-02-26 17:53:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This prof is one of the best I have had so far. He teaches very clearly and runs a smooth and easy to study for course. His tutorials are VERY helpful, and he genuinely cares and wants you to succeed. I definitely recommend taking this course!
+
+--- Rating #2 ---
+Class: SA-304
+Date: 2026-02-19 02:01:29 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+why does everything
+
+--- Rating #3 ---
+Class: SA-150
+Date: 2026-01-09 04:56:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This professor was a great lecturer, and he was very clear in wanting to engage with the students despite large class sizes. Introductory courses such as this tend to be monotonous but he kept it engaging and fun (which was difficult for 8 am). The TAs were tough graders with unclear reasoning though.
+
+--- Rating #4 ---
+Class: SA-150
+Date: 2025-12-23 06:12:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Prof is funny and his lectures are very engaging. His TA's Adam and Nelson were also both very kind. The class itself consisted of 2 midterms and 1 final exam, no assignments. The tests were all written with 7 short answer and 1 long answer, which in my opinion were very fair. Overall, if you study the material often, you'll do well in this class.
+
+--- Rating #5 ---
+Class: SA-150
+Date: 2025-12-18 20:11:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+First year, first semester, non-sociology major here. If you pay attention to the lectures, this is a pretty easy course. 2/3 of the class didn't even show up to lectures after the second week, which I presume are who did badly on the tests. Explain your answers on tests by providing definition, context/history, and example, and you'll do fine LOL.
+
+--- Rating #6 ---
+Class: SA-150
+Date: 2025-12-16 01:39:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I really enjoyed his class! His lectures were very engaging and you could tell he is passionate about the material. He's really funny, which is a plus, and he clearly cares about his students. Tutorials were very helpful in grasping concepts and TAs were really nice. For tests, make sure you break down the questions and explain every part of it!!!
+
+--- Rating #7 ---
+Class: SA-150
+Date: 2025-12-12 06:17:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Really great intro course with an entertaining professor! Tutorials and lectures covered exam material pretty well and if you pay attention you'll be fine (I did the readings like twice and scored a 95 on the final). The discussions in class are really helpful for exam success.
+
+--- Rating #8 ---
+Class: SA-150
+Date: 2025-12-11 21:49:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+went to lectures, participated in tutorial and ended with a 96- i dont understand what the discourse is all about but im going to assume its a bunch of 1st years assuming this class would be a free A. didn't do anything crazy to study the material, heck i didnt even read the textbook. 2/3rds of my class werent at lecture, thats why they did poorly.
+
+--- Rating #9 ---
+Class: SA-150
+Date: 2025-12-10 18:37:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I don't recommend this course to anyone, so all the exams are written. TA's and professor are very harsh markers, so I got unfairly graded on those exams. The majority of your grade is based off the written exams and tutorial. Please don't take this class, it's a GPA dropper. The class average for the first exam was really bad. PLEASE AVOID.
+
+--- Rating #10 ---
+Class: SA-150
+Date: 2025-12-06 19:06:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Do not reccommend. Terrible intro class and very unfair. Your whole grade is based off exams which are fully written. This class is WAY to hard for an intro level. The fail rate of this class is very high. Waiting on exam mark back but will probably be re taking the class. AVOID
+
+--- Rating #11 ---
+Class: SA-150
+Date: 2025-12-06 19:02:46 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Bad class. For an intro it was crazy. Your whole grade is based off of 3 exams and tutorial. All the exams are fully written and prof expects your answer to be exactly what he says. his last exam does not line up with lecture material is was all off memory. Do not take if you dont need this class.
+
+--- Rating #12 ---
+Class: SA-150
+Date: 2025-12-06 18:55:21 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+This course is not an introduction course. The exams are memorization based and the gradings don't make sense. Nothing in the tutorials prepares for you what is tested. Also almost no one in this class was a sociology major, and everyone I spoke to felt lost in the course material. The prof and TAs were nice, but I found this course challenging.
+
+--- Rating #13 ---
+Class: SA-150
+Date: 2025-12-06 18:32:11 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Usually do not leave reviews but I need to.
+For an intro level class this was awful.The tests are so hard and fully WRITTEN.The prof seemed nice and the TA's were also nice but they always seemed confused.The tutorials were not very effective either.There was zero help on prep for the exams and the marking on exams was impossible. Not reccommended.
+
+--- Rating #14 ---
+Class: SA-150
+Date: 2025-12-06 18:22:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I typically never write reviews but this profs exams made me. The TAs were nice but confused because of the prof. The exams are all written and for an intro class (coming from a non sociology major) this class is WAY too hard. The prof expects a lot from a first year class so keep that in mind if taking this prof.
+
+--- Rating #15 ---
+Class: SA-150
+Date: 2025-12-04 22:50:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The syllabus wasn't accurate, and expectations were too high for a 100-level class. Communication between the professor and TAs felt poor, with little information before exams. Canvas updates were minimal, and reused slides made the course feel unorganized.
+
+--- Rating #16 ---
+Class: SA-150
+Date: 2025-11-27 20:27:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Overall, a fantastic professor, but beware that his tests may drop your GPA. He has great lectures that are engaging and thought-provoking. His tests are all written-answer questions, which you must answer in depth to score well; you're marked on your understanding. I found this surprising for an intro class, but I'm glad I took SOC 150.
+
+--- Rating #17 ---
+Class: SA-150
+Date: 2025-11-12 08:32:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Engaging lectures and very passionate. Easy exams, everything is off the slides and readings no unexpected jumpscares of random irrelevant questions. I also had my tutorial with him which was great but his two TA's seemed quite nice and happy to help with anything. Overall great course highly recommend.
+
+--- Rating #18 ---
+Class: SA-150
+Date: 2025-09-03 07:42:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took this class in Fall 2024. I never write reviews but when now that its enrolling season I remebered this course.
+Prof Collins Ifeonu is by far the best professor I have had at SFU. He is intelligent, caring, and kind. And truly the type of teachers we need.
+He teaches well SA150 was the best class.
+
+--- Rating #19 ---
+Class: SA-304
+Date: 2025-06-17 18:40:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is far from being a sociologist. As an academic, he certainly has the ability to talk and write at length, though much of it tends to be unfocused. While he may be a decent amateur lecturer, I feel sorry for the sociology community that he's considered part of it. He does not represent the field well.
+
+--- Rating #20 ---
+Class: SA-304
+Date: 2025-03-28 16:53:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Absolutely loved this prof. Smart, caring, funny, and generally made SA442 really engaging. Not an easy class, and the readings themselves tended to be a bit dry, but completely worth it. Teaches you how to really analyze readings well, and class discussions are really helpful. 100% would take this professor again.

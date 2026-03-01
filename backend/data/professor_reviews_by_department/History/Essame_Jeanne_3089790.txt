@@ -1,0 +1,24 @@
+Professor: Jeanne Essame
+Professor Legacy ID: 3089790
+Professor ID: VGVhY2hlci0zMDg5Nzkw
+Department (CSV): History
+Department (Fetched): History
+Avg Rating: 2
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: HIST455W
+Date: 2025-12-10 20:24:16 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Nice & kind prof, but unorganized and unclear when it came to how things would be graded (did not receive our grades for anything till the end of semester), did not follow her syllabus (we walked into every class ill-prepared, not knowing what to expect for lecture), and all of our questions about assignments would be met with an "I don't know".

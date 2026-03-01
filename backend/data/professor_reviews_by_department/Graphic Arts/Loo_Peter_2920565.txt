@@ -1,0 +1,37 @@
+Professor: Peter Loo
+Professor Legacy ID: 2920565
+Professor ID: VGVhY2hlci0yOTIwNTY1
+Department (CSV): Graphic Arts
+Department (Fetched): Graphic Arts
+Avg Rating: 2.5
+Avg Difficulty: 2
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: IAT110
+Date: 2023-08-28 18:07:06 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Peter would've been 5/5 if he graded better. The class average for our class was B! B for IAT110. A course no one takes for any other reason than as a GPA booster. B!
+
+--- Rating #2 ---
+Class: IAT110
+Date: 2023-07-20 08:00:14 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is not really organized. I want to give him a chance esp bc this is his first semester teaching, but all the small things of disorganization adds up. Due dates, rubric, assignment docs and class examples were inconsistent with each other. Slides stated due dates on a dif. semester and assignment docs were inconsistent with rubric found in canvas

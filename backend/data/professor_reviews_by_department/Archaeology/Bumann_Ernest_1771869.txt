@@ -1,0 +1,271 @@
+Professor: Ernest Bumann
+Professor Legacy ID: 1771869
+Professor ID: VGVhY2hlci0xNzcxODY5
+Department (CSV): Archaeology
+Department (Fetched): Archaeology
+Avg Rating: 4.1
+Avg Difficulty: 2.2
+Num Ratings: 65
+Would Take Again Percent: 62.5
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ARCH100
+Date: 2025-12-08 06:18:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Cares a lot about students
+
+--- Rating #2 ---
+Class: ARCH252
+Date: 2025-01-06 05:14:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Cutie patootie
+
+--- Rating #3 ---
+Class: ARCH131
+Date: 2024-09-22 22:57:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing professor, very sweet and really cares about his students. His classes do require you to read a lot but they're very interesting and you should definitely take ARCH100 or 131 as an elective.
+
+--- Rating #4 ---
+Class: ARCH100
+Date: 2024-03-21 00:23:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing professor, always willing to help students. The slides provided are enough for the exams if you listen to him during the class as he gives hints about the questions he may ask in the exam.
+
+--- Rating #5 ---
+Class: ARCH100
+Date: 2023-05-31 07:26:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing teacher he teaches so well and has a lot of interest in students its so easy to pass if you know what do lets be real if you dont pass this you are the most inocent thing in the world or have no interest in the class
+
+--- Rating #6 ---
+Class: ARCH131
+Date: 2022-12-14 21:34:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Such an amazing professor, One of the best in the Arch department. He truly cares about his students and his lectures are very interesting as he covers in-depth analysis on almost all topics.
+
+--- Rating #7 ---
+Class: AECH100
+Date: 2022-11-11 05:58:16 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Okaish prof. Rejects Graham Hancock's theory of history and Archeology.
+
+--- Rating #8 ---
+Class: ARCH100
+Date: 2020-12-04 15:41:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Probably the most interesting class at SFU so far. He is funny, has creative explanations, and is engaging. Get ready to memorize stuff on his slides. I wished the class would never end :((
+
+--- Rating #9 ---
+Class: ARCH100
+Date: 2020-07-18 07:41:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lovely prof. He is extremely nice and caring. His innocence and friendly nature with students go hand in hand. Will grade you fairly. Super nice much recommended
+
+--- Rating #10 ---
+Class: ARCH100
+Date: 2020-06-13 11:05:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Amazing guy. He is so innocent that you would want to work and get good grades to not disappoint him. You will also probably cry in your last class with him, he's that nice. DEFINITELY RECOMMENDED!
+
+--- Rating #11 ---
+Class: ARCH131
+Date: 2020-03-06 19:26:12 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+nice prof, but his lectures are long. His slides are unclear and often lack information/context, so its best to be present for lecture in order to understand. His exams are pretty easy &amp; are mainly based on the lecture slides. The textbook wasn't really necessary, but was helpful to provide insight on the topics he only briefly covers during class
+
+--- Rating #12 ---
+Class: AECH100
+Date: 2020-01-01 12:10:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is one of the nicest instructors I've had and although I took his course as an elective and I'm not a big fan of archaeology, I enjoyed his classes a lot. His exams are mostly based on the class lectures, just a lot of memorization. Try to participate as much as you can and be sure to review his slides and class notes before the exams.
+
+--- Rating #13 ---
+Class: ARCH131
+Date: 2019-07-04 01:54:55 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The prof himself was okay, he was friendly and tried to make a boring course more fun. Course is graded on a curve or something, because the syllabus doesn't say what percentage gives you what letter grade. 3 exams determine your grade, but there's no homework and the questions are mostly MC. Textbook was useless, don't buy it.
+
+--- Rating #14 ---
+Class: ARCH131
+Date: 2019-06-20 23:15:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Exams are easy if you go to lecture. His exams are based on lectures and slides. Lectures are quite boring but he attempts to make it interesting by making jokes.
+
+--- Rating #15 ---
+Class: ARCH100
+Date: 2019-05-14 08:24:13 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Ernest himself is a fine prof, nice guy and pretty funny. However the course itself is absolutely brutal. It is the most boring course I have ever taken. There is so much memorization required. This course was not a GPA booster for me and many other people I know who took it. Unless greatly interested in prehistory, do not take this course.
+
+--- Rating #16 ---
+Class: ARCH100
+Date: 2019-04-01 22:03:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+This class was the worst experience. Do not recommend taking it as a GPA booster unless you're good at memorizing thousands of words and could remember weird and new ones too. No complaints towards the professor himself but the course is quite boring &amp; he has way too many slides filled with fluff rather than important info that will be on the test
+
+--- Rating #17 ---
+Class: AECH100
+Date: 2019-01-28 23:06:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The best prof I have ever seen before
+
+--- Rating #18 ---
+Class: AECH100
+Date: 2018-12-12 23:43:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Class is easy however, make sure you study the slides a LOT. Exams are lot easier compared to the lecture slides. Study each lecture in detail couple of times nd become familiar with the key concepts. It is a straight forward class as long as u study in detail. NOT A EASY CLASS compared to other GPA booster classes u gotta work for the grade.
+
+--- Rating #19 ---
+Class: ARCH100
+Date: 2018-06-30 19:16:43 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Took ARCH 100 summer intersession with this professor and it was the worst experiences of my uni career. A lot of slides to memorize and none of the slides made sense as they were put together pretty clumsily. Class average was usually around 65.2%. NOT RECOMMENDED TOUGH PROF
+
+--- Rating #20 ---
+Class: ARCH100
+Date: 2017-06-09 02:56:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Taken 100, and 252 with him and can tell you with 100% confidence, don't buy the textbooks for these classes. Going off the lecture slides will guarantee a B or higher depending on how much you retain. Go to class and take notes of the things he talks about in detail. The exams are 50 MC and 1 short answer question. Reviews slides a day before.

@@ -1,0 +1,24 @@
+Professor: Shawn Jansepar
+Professor Legacy ID: 2265124
+Professor ID: VGVhY2hlci0yMjY1MTI0
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 5
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: CMPT470
+Date: 2018-03-19 16:39:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+TL;DR: Shawn is a great lecturer and an even greater person. You'll learn lots +100. Took this course Spring 2017. Shawn is very approachable. Lectures were well organized and presented. He understood how to communicate in a way that most people would understand and related topics back to relevant industry topics, making his teachings invaluable.

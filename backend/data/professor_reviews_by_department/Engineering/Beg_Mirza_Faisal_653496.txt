@@ -1,0 +1,271 @@
+Professor: Mirza Faisal Beg
+Professor Legacy ID: 653496
+Professor ID: VGVhY2hlci02NTM0OTY=
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 4.6
+Avg Difficulty: 2.4
+Num Ratings: 32
+Would Take Again Percent: 92.8571
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENSC801
+Date: 2024-12-16 19:08:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+good guy, kindness, can get inspiration from his course.
+
+--- Rating #2 ---
+Class: ENSC801
+Date: 2022-10-19 20:38:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The best Professor I have seen in my whole life, Inspirational, Caring and Kindly and friendly deliver course material.
+
+--- Rating #3 ---
+Class: ENSC413
+Date: 2021-10-15 18:37:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Faisal is a very good lecturer with good student engagement in class. The level of difficulty rating is somewhat misleading because difficult concepts are taught but they are made easier with good lectures (especially if students ask questions on the concepts explored). The things learned in class feel relevant in real world applications.
+
+--- Rating #4 ---
+Class: ENSC474
+Date: 2020-06-15 00:21:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great professor. Super helpful and willing to explain concepts further in depth if asked/approached. Great understanding of material and classes are fun and engaging. Would definitely take a class with him again.
+
+--- Rating #5 ---
+Class: ENSC474
+Date: 2020-05-06 05:39:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I do not recommend him. you do not learn anything in his class. easy exam just students rate him high
+
+--- Rating #6 ---
+Class: ENSC801
+Date: 2019-12-11 00:36:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is the best!
+
+--- Rating #7 ---
+Class: ENSC801
+Date: 2019-12-04 20:27:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Wants students to understand the material. Aims for quality not quantity.
+
+--- Rating #8 ---
+Class: ENSC801
+Date: 2019-12-04 11:34:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Best of the best professor
+
+--- Rating #9 ---
+Class: ENSC801
+Date: 2019-11-22 00:48:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great guy and wants to prepare you for real-life outside of the classroom.
+
+--- Rating #10 ---
+Class: ENSC474
+Date: 2019-03-06 08:27:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is the best!!
+
+--- Rating #11 ---
+Class: ENSC801
+Date: 2018-01-03 20:01:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Excellent &amp; passionate. Explains very well. One of the saving graces of ENG dept. Unique notes. I suggest to take notes however, even though he writes on his tablet and shares that but taking notes will help you to understand his notes better. Trip to Starbucks every class, helps with making new friends from class. Final and its grading were tough.
+
+--- Rating #12 ---
+Class: ENSC474
+Date: 2017-04-17 19:13:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof. You will also learn MATLAB the way you really should know it. The class isn't very difficult and the assignments are interesting. He is not a tough grader and helps everyone get a good grade. One of the best professors I've had.
+
+--- Rating #13 ---
+Class: ENSC474
+Date: 2017-04-15 22:39:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr Beg was great. Take a class with him if you get the chance. He really cares about your understanding. Explanations are clear and notes are great. Encourages questions. Extends discussions beyond scope of the class material (good thing). Very accessible. No midterm but prepare for weekly assignment. Wish I could've taken more courses with him.
+
+--- Rating #14 ---
+Class: ENSC801
+Date: 2016-12-12 02:29:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He's a true gentleman, he treats students like friends, would take his entire class and get them free coffee, he cares for his students. His teaching style is unique, he encourages you to engage and ask questions without being judgmental. He makes the topics interesting even though they're hard to grasp and abstract. Fair exams with fair grading.
+
+--- Rating #15 ---
+Class: ENSC474
+Date: 2016-04-27 14:56:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Terrible marking, awful TA, and no curving !
+
+--- Rating #16 ---
+Class: ENSC383
+Date: 2015-11-10 17:14:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Faisal is definitely a great prof, and he treat people as friends. Although the course material was challenging, he kept the students in mind and catered each topic around our needs.  I've learned  so much from his lectures, and I apply them to the rest of my work. His mentoring truly had a positive impact in my life. No doubt, take his class..:)
+
+--- Rating #17 ---
+Class: ENSC383
+Date: 2014-08-18 12:47:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Faisal is the best prof I have had in ensc. Lectures are informative, assignments can be time consuming but well worth doing since the account for 30% of your grade. Overall, great class and great prof.
+
+--- Rating #18 ---
+Class: ENSC383
+Date: 2014-08-18 10:27:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: N
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Great prof, he makes everything clear and easy to understand during the lecture so you need minimal effort to be put for the midterm and the final. Also, his sense of humor makes the lecture worth attending. I ended up getting an A- but half of the class would end up in the A range(very rare in ensc). We need more engineering profs like him at sfu!
+
+--- Rating #19 ---
+Class: ENSC383
+Date: 2014-08-17 20:31:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great course and Great Prof. Although the last part of the course about design controller is a bit hard, once you understand it's very interesting and useful. I worked so hard on the final, and almost doubled my midterm. It's great semester
+
+--- Rating #20 ---
+Class: ENSC474
+Date: 2014-07-07 17:49:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very helpful and kind professor. This class is incredibly fun too. You learn a ton, and 80% of the grade comes from assignments/final project.

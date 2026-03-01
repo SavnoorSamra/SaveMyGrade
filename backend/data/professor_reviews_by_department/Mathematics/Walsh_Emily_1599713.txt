@@ -1,0 +1,63 @@
+Professor: Emily Walsh
+Professor Legacy ID: 1599713
+Professor ID: VGVhY2hlci0xNTk5NzEz
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4
+Avg Difficulty: 2.8
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: MACM316
+Date: 2013-05-08 14:39:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Initially i did not look forward to this course but by the end of the semester I have a new-found respect for this prof (failed midterm but aced final, my fault entirely not hers). Lecture notes were crystal clear, office hours very helpful. Study off the notes and assignments and you should be fine.
+
+--- Rating #2 ---
+Class: MATH150
+Date: 2012-04-18 00:07:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She is a nice person and her lectures are crystal, assignments and midterms are  fair, I strongly recommended.
+
+--- Rating #3 ---
+Class: MATH150
+Date: 2011-10-27 19:57:39 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+This prof is generally grate and responsible for students. In her course, you will get 10%for assignment(the TA will mark them), as long as you did it. It is not quite difficult to get A grade or even better in her course.
+
+--- Rating #4 ---
+Class: MATH150
+Date: 2011-07-18 02:58:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Don't even know what happened in this class. Every assignment was a struggle, and exams always consisted of questions that were too challenging and long for that amount of time. Lectures were also unnecessarily fast, and concepts were not introduced well. I pretty much learned everything on my own since lectures were too fast to follow.

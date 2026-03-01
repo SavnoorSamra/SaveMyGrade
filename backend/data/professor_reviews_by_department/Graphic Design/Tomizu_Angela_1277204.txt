@@ -1,0 +1,63 @@
+Professor: Angela Tomizu
+Professor Legacy ID: 1277204
+Professor ID: VGVhY2hlci0xMjc3MjA0
+Department (CSV): Graphic Design
+Department (Fetched): Graphic Design
+Avg Rating: 3.1
+Avg Difficulty: 3
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: IAT102
+Date: 2010-09-05 08:30:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She's very helpful, you just have to look for her
+
+--- Rating #2 ---
+Class: IAT102
+Date: 2009-12-16 22:02:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Angela is a cool lady. She's very laid back and swears a lot. But she is helpful and gives you useful tips on how to improve your work. She won't do the work for you but is lenient on marking. It is a first year class so it's pretty simple. If you have a passion for design and you actually care about what you are creating, you will get an A.
+
+--- Rating #3 ---
+Class: IAT102
+Date: 2009-12-05 04:32:43 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #4 ---
+Class: IAT102
+Date: 2009-07-30 22:29:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+This woman clearly has NO teacher training and VERY limited experience - she's a masters student and should only be a TA. She offers useless feedback, unable to put into words what is wrong with a student's work, while snickering w/TA during presentations when students say something that is incorrect. Extremely disappointed and want my $$ back!!!

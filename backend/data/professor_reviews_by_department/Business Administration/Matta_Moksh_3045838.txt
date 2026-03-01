@@ -1,0 +1,76 @@
+Professor: Moksh Matta
+Professor Legacy ID: 3045838
+Professor ID: VGVhY2hlci0zMDQ1ODM4
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.8
+Avg Difficulty: 3
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: 361
+Date: 2025-07-15 21:43:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+The best teaching you can get in MIS
+
+--- Rating #2 ---
+Class: 361
+Date: 2024-12-21 20:43:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I really like how he consistently checked in on the progress of the projects every week. The final exam was heavy and the concepts were all scenario based. I would have liked to see grades being released throughout the semester as he never showed a single grade. It was sort of a feeling of how you did and hopefully you did good. Good professor.
+
+--- Rating #3 ---
+Class: 361
+Date: 2024-12-09 19:51:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I really enjoyed Prof. Matta's classes, which blended practical tools with economic and behavioral theory. What stood out most was his genuine care about our understanding. He encouraged questions and was truly curious about whether we found value in the lessons, creating a supportive and engaging learning environment.
+
+--- Rating #4 ---
+Class: 361
+Date: 2024-12-07 22:15:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Moksh redesigned the entire course to update the material. He got rid of the textbook because he felt it was outdated and only taught us concepts he felt were actually relevant to today's job market. He had industry experience which kept the class engaging and was a good communicator during lectures. He also worked closely with us on our projects.
+
+--- Rating #5 ---
+Class: 361
+Date: 2024-12-06 06:34:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures were very informative. Professor gave feedback on projects for each group so everyone knew what to do. Textbook was not needed - everything in the lecture. Exam was fair based on what was in the lectures. Projects had flexible deadlines and rubric so groups have freedom to work how they want.

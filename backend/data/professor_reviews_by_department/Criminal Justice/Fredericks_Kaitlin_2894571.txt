@@ -1,0 +1,63 @@
+Professor: Kaitlin Fredericks
+Professor Legacy ID: 2894571
+Professor ID: VGVhY2hlci0yODk0NTcx
+Department (CSV): Criminal Justice
+Department (Fetched): Criminal Justice
+Avg Rating: 4.8
+Avg Difficulty: 2
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: Crim131
+Date: 2023-10-06 04:08:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Fredericks is the most amazing prof I've had so far, its clear that she cares a lot about her students. Her lectures are interesting, easy to follow, and she puts a lot of emphasis on the material most likely to be tested. She was also very understanding with deadlines and papers. Overall great experience, I'd take any course taught by her
+
+--- Rating #2 ---
+Class: Crim131
+Date: 2023-05-05 06:34:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Super kind and genuinely caring to the class. Flexible with due dates if you reach out which was also great. I found her lectures made me somewhat interested in criminology but they could be a little dry sometimes. Her grading was also really fair and honestly kinda lenient. If you're reading this Dr. Fredericks, thank you for the great class :)
+
+--- Rating #3 ---
+Class: Crim131
+Date: 2023-04-23 23:43:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Kaitlin was an absolute gem. She obviously cares so much for the wellbeing of her students, starting lectures with mental health check ins and making it well known she is always there to talk. Assignments were fair. She gave a very good outline for the term paper. Final was open book, take home. She doesn't record lectures though.
+
+--- Rating #4 ---
+Class: Crim131
+Date: 2023-04-14 23:06:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr.Fredericks was a great professor. The class consisted of weekly tutorials, a midterm(straight forwards), an 8-page paper, and a take-home final, where you picked two questions and answered them with a minimum 750 word response (and it was open for a week to complete). I thought this class would be boring but I really enjoyed it.

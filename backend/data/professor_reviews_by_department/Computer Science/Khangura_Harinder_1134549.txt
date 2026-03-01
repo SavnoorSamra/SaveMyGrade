@@ -1,0 +1,277 @@
+Professor: Harinder Khangura
+Professor Legacy ID: 1134549
+Professor ID: VGVhY2hlci0xMTM0NTQ5
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.5
+Avg Difficulty: 2.9
+Num Ratings: 52
+Would Take Again Percent: 89.1892
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT105W
+Date: 2025-05-01 09:12:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good lecturer with minimal stutters and no accent.
+
+I don't know why people say the lectures are boring. Just imagine its a movie, you don't need to take any notes. You can literally show up without a pencil.
+
+The late penalties are 10% per day. I ate a lot of late penalties.
+
+The formatting of the assignments are marked harshly.
+
+--- Rating #2 ---
+Class: CMPT105W
+Date: 2025-04-27 03:51:05 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Probably one of the worst classes I have ever taken. The lectures are boring , the content even more so. The TA's are insufferable. They cut way too many marks for very tiny details while grading rubrics are way toooo vague. Do urself a favor and take this course with any other prof.
+
+--- Rating #3 ---
+Class: CMPT105W
+Date: 2025-04-26 02:55:08 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great professor with a good attitude but the lectures were quite boring. Not too many assignments but near the middle and the end of the course there is big papers you have to write. TAs marked very poorly and took off large chunks of your mark for the tiniest things.
+
+--- Rating #4 ---
+Class: CMPT105W
+Date: 2025-04-22 01:46:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Marked very thought, boring lectures, you are expected way more than what is being said, TAs take away big marks for little things. Bad experience
+
+--- Rating #5 ---
+Class: CMPT105W
+Date: 2025-02-14 19:15:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Pretty chills, just make sure you don't mess up the informative and persuasive papers as those are worth essentially your entire grade.
+
+--- Rating #6 ---
+Class: CMPT105W
+Date: 2025-02-08 04:09:49 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+great lectures, extremely boring content, insufferable marking, final was insanely random
+
+--- Rating #7 ---
+Class: MACM101
+Date: 2025-01-02 07:55:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Probably the best MACM 101 professor out there. Practice the textbook questions a lot and really understand the assignment quizzes. They help a ton.
+
+--- Rating #8 ---
+Class: MACM101
+Date: 2024-12-28 01:04:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing teacher for macm. Amazing lectures, he made everything so simple and easy to understand. Definitely take him for macm 101
+
+--- Rating #9 ---
+Class: CMPT105W
+Date: 2024-12-28 01:02:54 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Horrible prof for cmpt 105w do not take him. Class average was a b- but the other class had a a- average. Do not take him for cmpt 105w
+
+--- Rating #10 ---
+Class: MACM101
+Date: 2024-11-25 00:36:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+if you have the option take him
+
+--- Rating #11 ---
+Class: CMPT300
+Date: 2024-10-22 08:16:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Despite being a notoriously difficult course with hard assignments, this professor managed to make it all clear and understandable that attending every class was definitely worth every second.
+
+--- Rating #12 ---
+Class: CMPT300
+Date: 2024-05-01 05:20:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Goated Prof
+
+--- Rating #13 ---
+Class: CMPT300
+Date: 2024-03-18 19:04:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing lectures, amazing slides. Hard assignments (4 of them, 2-3 in pairs). Fair, medium-hard exams. About same difficulty as 295 but it's okay because Harinder made this one of my favourite cmpt courses so far.
+
+--- Rating #14 ---
+Class: CMPT105W
+Date: 2024-01-23 23:45:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Majestic speaking voice gosh dilly darn
+
+--- Rating #15 ---
+Class: CMPT300
+Date: 2023-12-21 05:44:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best prof at SFU. Very professional and he sets the standard of what a professor should be like. Exams are fair and assignments are challenging but teach you a lot. Lecture ability is amazing and he is very accessible outside of class.
+
+--- Rating #16 ---
+Class: CMPT300
+Date: 2023-12-13 08:42:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I took Harinder back in Spring 2023 (those who know, know), and his class was extremely fair. Ample time for assignments, answered questions quickly on CourSys discussion forums. Provided practice quizzes that the midterms/final were based on. Assignments were tough but rewarding. Also took CMPT 310/MACM 101 with him and enjoyed thoroughly.
+
+--- Rating #17 ---
+Class: CMPT300
+Date: 2023-11-22 00:49:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great prof!
+
+--- Rating #18 ---
+Class: MACM101
+Date: 2023-09-12 04:24:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Mr. Khangura, I love you.
+
+--- Rating #19 ---
+Class: MACM101
+Date: 2023-06-03 18:43:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This is a challenging course but he made it much easier to understand. One of the best profs I've had.
+
+--- Rating #20 ---
+Class: MACM101
+Date: 2023-05-05 23:51:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Super. His lectures were easy to understand and the TAs were helpful at the tutorials.

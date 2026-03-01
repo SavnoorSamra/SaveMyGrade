@@ -1,0 +1,37 @@
+Professor: Joel Rivera
+Professor Legacy ID: 3112396
+Professor ID: VGVhY2hlci0zMTEyMzk2
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 5
+Avg Difficulty: 1
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS203
+Date: 2025-12-22 01:59:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+engaging lecturer and amazing person.
+
+--- Rating #2 ---
+Class: BUS203
+Date: 2025-12-17 01:41:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+He is such a nice person, very passionate about sharing his life with the class. Highly recommended!

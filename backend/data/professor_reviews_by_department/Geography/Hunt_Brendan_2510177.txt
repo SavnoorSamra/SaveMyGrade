@@ -1,0 +1,37 @@
+Professor: Brendan Hunt
+Professor Legacy ID: 2510177
+Professor ID: VGVhY2hlci0yNTEwMTc3
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 4.5
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: GEOG104
+Date: 2019-09-04 18:50:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He really tried, and I'm sure he's a nice person but the course was really dry (lol no pun intended). I don't think he was the problem, I think it was that good-awful TA who literally deducted points for font size on a poster. Other than that, no textbook and relatively easy concepts, for some reason though, people didn't really do well.
+
+--- Rating #2 ---
+Class: GEOG100
+Date: 2019-08-19 16:17:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+he is so nice and try to make class a fun.

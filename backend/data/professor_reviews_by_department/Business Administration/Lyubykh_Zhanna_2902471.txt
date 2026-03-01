@@ -1,0 +1,76 @@
+Professor: Zhanna Lyubykh
+Professor Legacy ID: 2902471
+Professor ID: VGVhY2hlci0yOTAyNDcx
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4
+Avg Difficulty: 1.8
+Num Ratings: 5
+Would Take Again Percent: 60
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: BUS381
+Date: 2026-01-19 17:32:08 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures were not good. Essentially straight out of the textbook with no added context. However attendance is needed bc her exams would have questions like &#8220;what did we talk about during this lecture.&#8221; Other than those questions going to class was a waste of time so insanely boring. Overall exams were easy.
+
+--- Rating #2 ---
+Class: BUS381
+Date: 2025-12-26 00:24:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Zhanna found a way to make this class engaging and somewhat interesting. Her in-class discussions can be fun, and she often adds interesting or funny personal anecdotes from her time in HR roles. Exams were fair, and everything else (group project, other assignments) had very clear instructions. Study and you'll do well.
+
+--- Rating #3 ---
+Class: BUS381
+Date: 2025-12-13 00:47:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+By far one of the most engaging and best lecturers I've had, Zhanna made learning the material so easy and her classes were never boring. Be prepared to have some in-class discussions every week, but they are so worth participating in. Highly recommend her for this class.
+
+--- Rating #4 ---
+Class: BUS381
+Date: 2025-12-04 00:52:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Zhanna is my favourite professor at SFU. If you have the opportunity to take a class with her, take it. She teaches the material in a way that is easy to understand, and her lectures include a lot of participative discussions which really helps you learn the material. She even adds a little humour to each class. Participating in lectures is key.
+
+--- Rating #5 ---
+Class: BUS485
+Date: 2025-04-14 21:00:32 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+A tough grader and , if you have any other choices, please choose others to instead

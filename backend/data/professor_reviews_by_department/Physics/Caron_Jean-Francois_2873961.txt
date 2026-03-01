@@ -1,0 +1,275 @@
+Professor: Jean-Francois Caron
+Professor Legacy ID: 2873961
+Professor ID: VGVhY2hlci0yODczOTYx
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 2
+Avg Difficulty: 4.1
+Num Ratings: 121
+Would Take Again Percent: 23.1405
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PHY-102
+Date: 2026-01-15 04:49:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is a newer prof but genuinely tries his best! The content could have a couple of mistakes but is doable! He answers all questions and is there to help anytime.
+
+--- Rating #2 ---
+Class: PHY-102
+Date: 2025-10-25 22:18:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He listened to the feedback and changed 
+
+He's a good prof now  &#128591;&#128591;
+
+Made exams and assignments pretty clear and fair
+
+--- Rating #3 ---
+Class: PHY-102
+Date: 2025-10-04 00:27:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+JFC ! JFC! JFC ! Not as bad as I thought it would be, some reviews are exaggerated.
+
+--- Rating #4 ---
+Class: PHYS100
+Date: 2025-09-21 01:08:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He really cares about his students and he tries his best to accommodate to our needs. Some of his lectures can be difficult and full of hard examples from achieve.
+
+--- Rating #5 ---
+Class: PHY-102
+Date: 2025-09-19 16:33:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He was such a great prof, his exams were just like the practice ;) would recommend - Sam Bok
+
+--- Rating #6 ---
+Class: PHY-102
+Date: 2025-09-19 16:33:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He was such a good prof during lectures. I really paid attention and understood everything he said! Highly recommend - Chase Kalanchey
+
+--- Rating #7 ---
+Class: PHY-102
+Date: 2025-09-09 03:49:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+ok tbh he isn't too bad and from what ive heard from his past courses he has improved a lot. midterms and finals were only worth 15% each so there was a heavier emphasize on assignments which were easy overall. the class avg was pretty high and he tells you what written questions are gonna be on his exams.
+
+--- Rating #8 ---
+Class: PHY-102
+Date: 2025-09-08 17:57:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The midterms weren't too difficult and focused on concepts covered in the review lecture. The only thing I was disappointed by was the scaling down. The grading scheme was based on the class average, so a 90% translated to an A-. But overall, jf was a great prof and I'm glad I took his class.
+
+--- Rating #9 ---
+Class: PHY-102
+Date: 2025-08-20 06:03:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very accommodating and kind Prof. He made the exams worth only 15% each which was nice. Overall he's improved a lot and made the course enjoyable. I no longer hate physics
+
+--- Rating #10 ---
+Class: PHY-102
+Date: 2025-08-19 19:19:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This professor reused past midterms word-for-word, inflating the class average. He then made the final excessively difficult and raised grade boundaries, making an A+ disproportionately harder to earn. Additionally, his frequent mistakes in worked examples during lecture further confused students.
+
+--- Rating #11 ---
+Class: PHY-102
+Date: 2025-08-18 20:08:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I've had him for both physics 100 and 102 and there's 100% been an improvement in his teaching. I think he gets too much hate. A lot of students don't take the time to really understand concepts but hope on seeing the exact same questions on exams. (Ps if you think something is marked wrong the TA's are very helpful)
+
+--- Rating #12 ---
+Class: PHY-102
+Date: 2025-08-14 17:14:12 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is honestly not a tough grader, i found his exams very fair. He also does give us hints on what we could expect on the exam. I feel like he tries his best to explain the concepts. His homework questions are very helpful when it comes to studying for the exams. Overall a decent professor.
+
+--- Rating #13 ---
+Class: PHY-102
+Date: 2025-08-14 00:54:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He has improved drastically in his ways of teaching from last semester. There are some issues still in the examples where he will skip a few steps, and sometimes the midterm questions (MC) are pretty hard. Also the person complaining about their learning being ruined because other people did well on the test needs to grow up and get a life or job
+
+--- Rating #14 ---
+Class: PHYS100
+Date: 2025-07-28 05:30:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+don't do it.
+
+--- Rating #15 ---
+Class: PHYS100
+Date: 2025-07-12 01:09:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I was hesitant taking this course with J-F because of the rating but happy I did. He does a good job at working through the problems during lecture and is very approchable. His tests are fair and there isn't too much homework or pre-reading you have to do. One of the only profs I've had book a room outside of class and do a study session for us.
+
+--- Rating #16 ---
+Class: PHY-102
+Date: 2025-07-08 22:07:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I was hesitant at first to take him, but he's good. He barely makes mistake, but will correct himself and fix it.  Additionally, he hinted us the written questions on midterm 1 which was quite helpful when studying, especially since I have so much going on. So to the one person complaining about him defeating the purpose of learning, deal with it.
+
+--- Rating #17 ---
+Class: PHYS100
+Date: 2025-07-02 20:35:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I honestly don't really understand his low rating. JF is a really passionate prof, he's engaging during lectures, and I found his tests to be quite fair. in my honest opinion, there is far worse profs at SFU. He very rarely makes mistakes in his examples.
+
+--- Rating #18 ---
+Class: PHY-102
+Date: 2025-06-25 22:31:33 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+JF, the class is not going to be happy when their 90% grade gets curved down two letter grades. Please don't reuse the exams and please don't tell the class what questions are going to be on the exam as that defeats the entire point and process of learning. Thanks for being a kind guy.
+
+--- Rating #19 ---
+Class: PHY-102
+Date: 2025-06-25 22:27:11 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The reason the first midterm had a crazy high average of ~80% is that JF reused the EXACT same midterm as last semester and the majority of the class shared and viewed the exact answer key to the midterm prior to the exam, which is clear from the exam average. Please JF do not reuse you're old exams and punish the students trying to learn honestly.
+
+--- Rating #20 ---
+Class: PHY-102
+Date: 2025-06-18 17:59:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+JF has changed, don't listen to the bad reviews. He does worked examples in advance so he doesn't make mistakes anymore. His exams are very fair and not hard at all, most of your course grade ~30% comes from easy participation marks (iclicker/tut)

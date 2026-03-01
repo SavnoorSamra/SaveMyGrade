@@ -1,0 +1,271 @@
+Professor: Daniel Chang
+Professor Legacy ID: 2385053
+Professor ID: VGVhY2hlci0yMzg1MDUz
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.6
+Avg Difficulty: 2.5
+Num Ratings: 29
+Would Take Again Percent: 89.6552
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: EDUC100
+Date: 2025-12-22 01:24:42 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Rubric for assignments not always clear (i.e. the requirement for online discussions was three posts on different days instead of "2-3"). No feedback given for assignments was disappointing, could have at least added numbers to rubric. Last assignments were not given grades before final grades released, making calculating my own grade impossible.
+
+--- Rating #2 ---
+Class: EDUC100
+Date: 2025-12-08 20:57:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+zzzzzz. boring
+
+--- Rating #3 ---
+Class: EDUC220
+Date: 2025-08-25 23:02:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+I really enjoyed Dr. Chang's class. Assignments and discussions were clear, and you could do well by following the guidelines. He also gave us bonus marks for uploading our notes, and we could earn an extra 1% by checking each other's work. He was also supportive and gave us an extension since feedback from the previous assignment was delayed.
+
+--- Rating #4 ---
+Class: FALX99
+Date: 2025-05-16 00:28:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+he is such an amazing and sweet professor. also such a caring person as he understands our struggles and is always answer any emails instantly. if you ever have a hard time writing in general, take him for more interesting lectures and we also get to be more interactive during class.
+
+--- Rating #5 ---
+Class: FALX99
+Date: 2025-04-10 09:24:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Such an amazing and great professor. he knows how we feel and how we expeirence being a student and he will always assit you if you need any help
+
+--- Rating #6 ---
+Class: EDUC220
+Date: 2025-04-08 02:36:39 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I actually took EDUC222 (not listed above). This was my second class with Daniel. He is nice, funny and helpful.
+
+--- Rating #7 ---
+Class: EDUC220
+Date: 2025-03-28 18:21:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+he is one of the kindest profs ive ever had. so genuine but his lectures can be pretty boring
+
+--- Rating #8 ---
+Class: EDUC100
+Date: 2024-10-23 04:29:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He is the BEST lecturer in my student career life, so nice and kind; JUST CHOOSE HIM PLEASE!!!!!!!
+
+--- Rating #9 ---
+Class: EDUC220
+Date: 2024-08-15 21:28:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took Daniel for EDUC Psych 220, and I experienced a bad car accident 1/4 into the semester. I shared this with Daniel and he was extremely understanding and accommodating of my situation. He worked with me to help me complete the semester given my restrictions due to my injuries. I am very grateful for all of his support. Highly recommend him!
+
+--- Rating #10 ---
+Class: EDUC220
+Date: 2024-08-02 07:28:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+I've taken two classes with Daniel Chang so far, both online and they were super easy. You just have to do every assignment and you're pretty much guaranteed an A. He really seems to want his students to succeed and the content is very straightforward while also being engaging and useful.
+
+--- Rating #11 ---
+Class: EDUC100
+Date: 2024-01-05 23:56:45 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Class was easy and Daniel was nice but the topics taught in the class were politically charged and highly skewed. The topics made me, as a student, feel forced to adopt an ideology and write my paper in using a certain ideology that I wasn't comfortable with, in order to satisfy what I believed the professor wanted to hear to get a good mark.
+
+--- Rating #12 ---
+Class: EDUC100
+Date: 2023-12-20 23:58:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Daniel is a fantastic professor, he made an elective a very interesting class and expressed compassion when I experienced difficulties throughout the semester. As long as you give each assignment a good effort, you will do well, marks were generally very high.
+
+--- Rating #13 ---
+Class: EDUC220
+Date: 2023-07-25 23:28:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Daniel is very caring and responds to emails/questions quickly and with detail. His assignments, midterm and final are all graded fairly. The course overall was straightforward.
+
+--- Rating #14 ---
+Class: EDUC220
+Date: 2023-04-27 08:23:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He was my TA before and I just found out he becomes a professor! He is very nice and caring. You can feel that he really cares about his students. Not a tough grader, gives good feedback, makes good jokes, S tier professor.
+
+--- Rating #15 ---
+Class: EDUC100
+Date: 2023-04-22 01:45:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+THE BEST PROF AT SFU!!! He is very caring and understanding of his students. I highly recommend taking courses with him. God Bliss You, Dr. Chang!
+
+--- Rating #16 ---
+Class: EDUC100
+Date: 2023-04-07 06:13:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Professor Daniel is amazing. He replies to emails promptly, gives great feedback, and truly cares about what he teaches. He will tell you what he expects, and he does it in a very caring and polite manner. A real legend during my short stint in the faculty of education. Helped me with my writing and critical thinking tremendously.
+
+--- Rating #17 ---
+Class: EDUC100
+Date: 2023-01-20 07:44:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Awesome prof I love this man! Truly cares for his students and accessible outside of class (will get back to your emails quickly).You can tell he has a passion for what he teaches which is rare. Course was easy but interesting AND a GPA boost. 4 online discussions, 4 reading responses and a reflection paper. Seems like a lot but trust me, it's not.
+
+--- Rating #18 ---
+Class: EDUC220
+Date: 2022-12-28 21:05:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+I've had Daniel for both EDUC220 and EDUC326, and he was great for both. Replies to emails very quickly and throughout all hours of the day/night. He puts a lot of effort into his teaching, and there are opportunities for extra credit in 220 if you take good notes. Lots of reading, but would recommend him!
+
+--- Rating #19 ---
+Class: EDUC220
+Date: 2022-12-22 03:05:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Very accessible outside of class, replying emails with lighting speed (immediately most of the time)! He is very caring and listening to students' opinions. I met him in person for reviewing midterm exam and he was very friendly. Class assignments and discussions aren't that bad. Exams can be tough because there are a lot of long readings!
+
+--- Rating #20 ---
+Class: EDUC220
+Date: 2022-12-19 18:36:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Dr Chang was extremely supportive of his students, you can tell he wants everyone to succeed. The course itself can be difficult but he does his best to be supportive.

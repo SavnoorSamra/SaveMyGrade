@@ -1,0 +1,63 @@
+Professor: D. C. Merrett
+Professor Legacy ID: 1547034
+Professor ID: VGVhY2hlci0xNTQ3MDM0
+Department (CSV): Archaeology
+Department (Fetched): Archaeology
+Avg Rating: 3.3
+Avg Difficulty: 2.5
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: ARCH322
+Date: 2015-12-17 14:04:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This class was super interesting! I find the archaeology department does not offer many classes  that fall under the historical category, and therefore this one was super interesting. Deb is a good lecturer, although her lectures tend to be long. The midterm was a bit uncalled for but luckily the final was the same format so you knew what to expect
+
+--- Rating #2 ---
+Class: ARCH322
+Date: 2013-06-22 00:41:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Deborah is absolutely amazing! She loves what she teaches and that is obvious in her lectures. She tells great stories and is clear about what she expects on exams. Tough marker, but if you work hard you will do fine. She cares so much about her students...refreshing! I would take any course I could with her :)
+
+--- Rating #3 ---
+Class: ARCH344
+Date: 2012-05-04 14:55:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+wouldn't recommend. stay away if you want to learn something.
+
+--- Rating #4 ---
+Class: ARCH334
+Date: 2011-03-28 01:14:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+She's really nice and her lectures are interesting. She's scatterbrained, but she tells interesting stories. I'd take a class with her again for sure.

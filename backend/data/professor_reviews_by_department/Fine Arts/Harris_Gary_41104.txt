@@ -1,0 +1,232 @@
+Professor: Gary Harris
+Professor Legacy ID: 41104
+Professor ID: VGVhY2hlci00MTEwNA==
+Department (CSV): Fine Arts
+Department (Fetched): Fine Arts
+Avg Rating: 3.6
+Avg Difficulty: 2.2
+Num Ratings: 17
+Would Take Again Percent: -1
+
+Ratings Count Returned: 17
+
+--- Rating #1 ---
+Class: FPA171
+Date: 2015-06-14 01:48:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Gary is the sass master! So funny, and always ready to help you, both with class work and with scheduling and course conflicts. Super positive and an amazing human.
+
+--- Rating #2 ---
+Class: FPA171
+Date: 2013-03-27 20:31:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+awesome prof. if you need help, you go to him and he'll provide you with full information, good to talk to, very funny. I loved his class.
+
+--- Rating #3 ---
+Class: FPA171
+Date: 2011-12-07 19:30:33 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Pretty good teacher. Has a negative attitude usually, but if you're on his good side he will literally sing your name down the halls. Most people didn't like him but I really enjoyed him as a prof. Recommended!
+
+--- Rating #4 ---
+Class: FPA171
+Date: 2011-07-20 16:23:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+nice guy. his class is inspirational.
+
+--- Rating #5 ---
+Class: FPA171
+Date: 2008-10-10 02:05:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Good overall. boring lectures and mandatory attendance, but a nice guy.
+
+--- Rating #6 ---
+Class: TECH171
+Date: 2007-01-11 21:03:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #7 ---
+Class: FPA171
+Date: 2005-03-24 16:40:09 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+It's a pretty easy course, nothing much to do.  But he's very subjective. Grade students based on impression.
+
+--- Rating #8 ---
+Class: FPA170
+Date: 2003-12-21 17:59:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Get on his good side to get a good mark.
+
+--- Rating #9 ---
+Class: FPA170
+Date: 2003-05-12 12:10:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+gary isa great guy. tech theatre rocks. take this course. it will change your life.
+
+--- Rating #10 ---
+Class: FPA170
+Date: 2003-03-27 01:34:07 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #11 ---
+Class: FPA171
+Date: 2003-03-10 20:21:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+If you don't take him to seriously he is a great guy.
+
+--- Rating #12 ---
+Class: 170
+Date: 2003-02-15 12:05:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+definitly a good teacher
+
+--- Rating #13 ---
+Class: FPA170
+Date: 2003-01-07 21:40:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #14 ---
+Class: FPA170
+Date: 2002-11-29 05:50:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+People have had bad experiences with him, but I like the guy.  A very cool guy!
+
+--- Rating #15 ---
+Class: FPA170
+Date: 2002-11-15 03:31:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #16 ---
+Class: FPA170
+Date: 2002-04-01 08:04:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+he's a cool prof!  take 170 :)
+
+--- Rating #17 ---
+Class: FPA170
+Date: 2002-03-29 21:51:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+awesome guy, learned alot, demanding but fun

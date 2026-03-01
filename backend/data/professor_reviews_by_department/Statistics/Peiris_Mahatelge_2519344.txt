@@ -1,0 +1,76 @@
+Professor: Mahatelge Peiris
+Professor Legacy ID: 2519344
+Professor ID: VGVhY2hlci0yNTE5MzQ0
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 4.8
+Avg Difficulty: 2.6
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: STA032
+Date: 2025-02-13 02:14:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Amazing professor. Professor Peiris covers everything we need to know in detail and also provides the theory behind formulas. He really cares about students and tries to help everyone understand the concepts. Also very approachable and helpful and responds well to feedback.
+
+--- Rating #2 ---
+Class: STA032
+Date: 2025-01-08 05:12:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Super awesome guy. He really cares if you understand the concepts. Very friendly, humble and approachable.
+
+--- Rating #3 ---
+Class: STA032
+Date: 2025-01-06 06:30:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Taught for a quarter at UC Davis for an intro. stats class. Very sweet professor who clearly cares for his students. Made occasional mistakes with tech or a stats problem, but otherwise taught pretty well.
+
+--- Rating #4 ---
+Class: STAT485
+Date: 2019-12-18 01:10:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Wonderful individual as a teacher. The best I ever met!
+
+--- Rating #5 ---
+Class: STAT485
+Date: 2019-09-25 18:24:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Great teaching

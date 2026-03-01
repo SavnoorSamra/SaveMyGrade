@@ -1,0 +1,141 @@
+Professor: Weiming Liu
+Professor Legacy ID: 2986394
+Professor ID: VGVhY2hlci0yOTg2Mzk0
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.5
+Avg Difficulty: 3.1
+Num Ratings: 10
+Would Take Again Percent: 90
+
+Ratings Count Returned: 10
+
+--- Rating #1 ---
+Class: BUS330
+Date: 2026-01-15 04:11:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Really great prof, you can tell he cares about his students, has very fair exams, and will go out of his way to help you if you ask! the slides examples are comprehensive and well explained as well!
+
+--- Rating #2 ---
+Class: BUS330
+Date: 2025-12-26 00:12:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Weiming is great. He structures the course and exams very fairly, makes sure to emphasize exam topics in class, and is extremely approachable. One of the more genuine and kindhearted professors I've encountered at SFU. I definitely recommend.
+
+--- Rating #3 ---
+Class: BUS330
+Date: 2025-11-11 06:52:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I bombed Exam 1, receiving the lowest grade due to my incompetence. But Weiming's encouragement in Exam 2 helped me perform years better, getting near the highest mark! He adjusted the exam weight if we do better in Exam 2. I was considering dropping the course, and glad I didn't. His exams are fair, and he's like a nice dad + allows a cheat sheet!
+
+--- Rating #4 ---
+Class: BUS254
+Date: 2024-12-20 07:06:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I love him so much, hes my fav! I dont usually give a rating or comment, just read and leave. But Weiming Liu is the best out of the best! He makes SFU and Accounting great again! Thanks
+
+--- Rating #5 ---
+Class: BUS322
+Date: 2024-12-13 03:15:35 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's a nice guy but he spoke to his TA in Chinese&#8230; His English isn't great so it can be hard to understand what he's talking about and he doesn't seem to have any pedagogical skills. The course also included too much content, you aren't able to actually learn intuitively and understand, hence the cheat sheet.
+
+--- Rating #6 ---
+Class: BUS254
+Date: 2024-09-08 21:11:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Weiming made BUS 254 an approachable course. He explained concepts clearly and welcomed any questions we had. Attendance is necessary because of the marked in-class group quizzes but the question pools for them are in the syllabus. His exams were super fair and reflected the homework and tutorial problems. He also allowed formula sheets on exams.
+
+--- Rating #7 ---
+Class: BUS254
+Date: 2024-08-12 07:53:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+It is not an easy course, to be honest; he is a nice instructor and always willing to help his students. But the exams are pretty easy and straightforward, so choose him confidently!
+
+--- Rating #8 ---
+Class: BUS322
+Date: 2024-04-15 23:45:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Such a genuinely nice guy who tries his best to make managerial accounting fun. The class is a lot of work but his tests are very fair and easier than the content covered in lecture. Definitely recommend!
+
+--- Rating #9 ---
+Class: BUS330
+Date: 2024-02-14 23:14:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Not bad overall, the exams were easy compare to the lecture.
+
+--- Rating #10 ---
+Class: BUS322
+Date: 2024-02-14 23:10:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Pretty good professor to study accounting with at Beedie!

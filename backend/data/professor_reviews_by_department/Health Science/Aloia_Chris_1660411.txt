@@ -1,0 +1,24 @@
+Professor: Chris Aloia
+Professor Legacy ID: 1660411
+Professor ID: VGVhY2hlci0xNjYwNDEx
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 3.5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: HSCI140
+Date: 2012-04-11 23:19:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Chris was overall a really interesting lecturer and I found I really learned alot in his classes about things that would pop up in future HSCI classes. He seemed to be really interested and enthusiastic about the topic.

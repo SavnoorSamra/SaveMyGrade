@@ -1,0 +1,271 @@
+Professor: John Jones
+Professor Legacy ID: 59567
+Professor ID: VGVhY2hlci01OTU2Nw==
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 4.5
+Avg Difficulty: 2.1
+Num Ratings: 50
+Would Take Again Percent: -1
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENSC100W
+Date: 2016-03-09 19:03:47 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+The course was largely based around a group project and a paper from a co-requisite class. His "practice tests" use the same questions as his actual tests, so attendance and textbook reading is not mandatory. He is a great professor though who is passionate about engineering and helping students learn.
+
+--- Rating #2 ---
+Class: ENSC100
+Date: 2016-01-02 19:10:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Final project can be extremely fun depending on your group members and topic choice. Make sure not to leave everything til the last minute.   Just read the textbook and go to lectures and you should be fine for tests. Lectures are hilarious and interesting.
+
+--- Rating #3 ---
+Class: ENSC100
+Date: 2015-12-21 17:11:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This was a very interesting and enjoyable class! Although a lot of the topics  talked about are in his book, should go to lectures anyways because they can be entertaining and thought provoking. John Jones is very wise.
+
+--- Rating #4 ---
+Class: 100
+Date: 2015-01-19 16:43:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+He so g
+
+--- Rating #5 ---
+Class: ENSC100
+Date: 2014-12-14 20:16:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+This is an engineering history class that covers nearly 1,000,000 years.  Jon Jones presents it in an interesting and passionate way.  No need to take notes in his class, just pay attention during lectures.  The final group project can be a lot of fun if you choose the right topic.
+
+--- Rating #6 ---
+Class: MSE102
+Date: 2014-10-30 01:11:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+I would say in the whole engineering faculty at SFU, both Dr. John Jones and Dr. Kevin Oldknow compete for the top spot on the engineering students favourite teachers list. He is an amazing lecturer, and as he says at the beginning of every lecture, there is no need to take notes.
+
+--- Rating #7 ---
+Class: ENSC100W
+Date: 2014-10-07 02:10:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Excellent speaker and a very nice professor. He wrote the textbook himself, so he remembered everything in the book pretty much. This course was boring since it was about history related things but if you like history, its fine.
+
+--- Rating #8 ---
+Class: ENSC100W
+Date: 2013-04-03 18:43:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very interesting teacher, and passionate about what he's teaching!
+
+--- Rating #9 ---
+Class: ENSC100W
+Date: 2012-11-23 15:38:45 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Dr Jones is very interesting to listen to. His accent is very soothing and he has a great sense of humour.  Going to lectures can get boring, but as long as you read the book you'll do fine.
+
+--- Rating #10 ---
+Class: ENSC106
+Date: 2012-04-12 17:43:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Really enjoyed this professor! He made every class entertaining, interesting, and easy to follow. Quizzes were a little challenging, but over-all alright. Great class, great teacher, and the textbook was just as fun to read.
+
+--- Rating #11 ---
+Class: ENSC100W
+Date: 2011-12-07 04:35:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great and patient professor. Very dedicated man. Quiz difficulty is a little unreasonable but scales appropriately. Applies pressures on students quite fairly as well.
+
+--- Rating #12 ---
+Class: ENSC100
+Date: 2011-12-06 20:20:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Dr. Jones is a great prof.  He's super enthusiastic about pretty much everything he lectures on.  You can get by in the class without reading the textbook, but on the tests there are quite a few questions on the tests on material not covered in lecture, so you're better off reading the text.
+
+--- Rating #13 ---
+Class: ENSC100
+Date: 2011-11-14 17:21:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+A great proff, great man too. you wont regret taking him, just study ahead for his quizzes and his mock tests, they need some attention.
+
+--- Rating #14 ---
+Class: ENSC100W
+Date: 2011-06-06 16:58:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Without a doubt best prof I've had at SFU so far. Lectures are fun, made me love engineering. Take his class even if you're not an engineering major!
+
+--- Rating #15 ---
+Class: ENSC201
+Date: 2011-04-08 13:57:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Really nice prof. He is Cristal clear. I really liked him. If you study his sample questions and do his suggested problems, you can get an A easily.
+
+--- Rating #16 ---
+Class: ENSC100
+Date: 2010-12-19 13:04:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+really nice guy easy B guranteed. Never attended his lectures just went home and studied instead but overall this course brings your gpa up
+
+--- Rating #17 ---
+Class: ENSC100
+Date: 2010-12-05 17:35:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+John Jones is the most interesting man in the world. But, in all seriousness, extremely interesting to listen to, amazing course, and you can tell he loves to talk about it.
+
+--- Rating #18 ---
+Class: ENSC100
+Date: 2010-11-28 02:57:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great professor! I took his class my first term at SFU and really helped me start out on a good footing. His lectures are so fun and interesting, they are the only ones I goto!
+
+--- Rating #19 ---
+Class: ENSC100
+Date: 2010-11-06 00:48:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+awesome teacher love his shoes
+
+--- Rating #20 ---
+Class: ENSC100
+Date: 2010-10-11 16:55:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+One of the best professors at SFU. Even if you aren't an ENSC major you should try to take his course. He's awesome.

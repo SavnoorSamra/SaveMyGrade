@@ -1,0 +1,65 @@
+Professor: Xue Bin Peng
+Professor Legacy ID: 2873291
+Professor ID: VGVhY2hlci0yODczMjkx
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.5
+Avg Difficulty: 3
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: CMPT361
+Date: 2025-04-08 22:13:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This guy was significantly more competent for teaching the course.
+
+--- Rating #2 ---
+Class: CMPT361
+Date: 2023-05-11 08:44:09 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good prof, decent lectures and lecture notes. Overall a difficult course regardless. Most of the class did very poorly but it was graded on a curve.
+
+--- Rating #3 ---
+Class: CMPT361
+Date: 2023-01-10 21:10:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good professor. 
+Yagiz makes it tough but Xue Bin balances it out well.
+Assignments are a smidge tough but nothing a few hours can't solve.
+
+--- Rating #4 ---
+Class: CMPT361
+Date: 2023-01-10 18:10:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This professor made up for the first part of the course (taught by Yagiz), he was an incredible professor who cared about making course content clear and understood by students. There were many examples that were directly related to the content in assignments. The assignments were fun and interesting, and the final exam was fair and relevant

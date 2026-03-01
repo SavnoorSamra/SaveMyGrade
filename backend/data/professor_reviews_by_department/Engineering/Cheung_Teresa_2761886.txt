@@ -1,0 +1,24 @@
+Professor: Teresa Cheung
+Professor Legacy ID: 2761886
+Professor ID: VGVhY2hlci0yNzYxODg2
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: ENSC280
+Date: 2022-01-01 03:42:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A great choice for an introductory statistics class. Clear easy to follow lectures and homework assigned from textbooks. Uploads notes after lectures. Tests are homework questions with different numbers so studying homework is good test preparation. The labs and term projects are shallow, token, and useless; but the program requires them.

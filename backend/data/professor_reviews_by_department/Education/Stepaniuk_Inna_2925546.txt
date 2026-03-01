@@ -1,0 +1,89 @@
+Professor: Inna Stepaniuk
+Professor Legacy ID: 2925546
+Professor ID: VGVhY2hlci0yOTI1NTQ2
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 3.3
+Avg Difficulty: 2.8
+Num Ratings: 6
+Would Take Again Percent: 50
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: EDUC426
+Date: 2025-11-11 21:58:10 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: True
+Comment:
+the worst part about this course is to complete a group project worth 45% of your grade with people you've never met in person. it's basically just how lucky you get with your group members. Prof is impossible to get a hold of- she doesn't want emails sent to her and only responds to questions posted on canvas. she's also somewhat snippy
+
+--- Rating #2 ---
+Class: EDUC382
+Date: 2025-04-08 18:42:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is such an inspiring professor who is incredibly knowledgeable and experienced. The course content is interesting; however, due to the length of the class (4 hours), it can become quite boring. The assignments are straightforward, reflect what you are learning and help you unpack the material. low anxiety class. prof is also very caring!
+
+--- Rating #3 ---
+Class: EDUC382
+Date: 2025-03-30 19:57:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great prof. She is very passionate about her work. Fair marker and a really caring. She's the kind of person you could go to with a personal problem and she'd try her best to help. I'd definitely take another class with her.
+
+--- Rating #4 ---
+Class: EDUC382
+Date: 2025-03-27 08:49:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is so nice and caring. She's always available for questions and is so passionate about the topic. She does a good job in teaching it as well. She is such an easy marker. Sometimes in class when there's an awkward silence in discussions, she also does a great job in saving that and asking better guiding questions, Great prof!
+
+--- Rating #5 ---
+Class: EDUC426
+Date: 2024-02-05 05:18:17 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This class has the potential to be a lot more interesting. Ok with 1-1 help
+
+--- Rating #6 ---
+Class: EDUC426
+Date: 2023-08-21 01:53:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Class is very boring. nothing much to say.

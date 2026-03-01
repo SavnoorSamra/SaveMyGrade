@@ -1,0 +1,50 @@
+Professor: Piper Jackson
+Professor Legacy ID: 1782647
+Professor ID: VGVhY2hlci0xNzgyNjQ3
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.8
+Avg Difficulty: 2.3
+Num Ratings: 3
+Would Take Again Percent: -1
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: CMPT383
+Date: 2013-12-21 03:08:55 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Decent prof, but the assignments were *ABSOLUTELY* brutal, and very little related to the course topics. Also, the midterm was extremely challenging. Quite tricky final, too. He ended up scaling the grades, though, which was very fair in my opinion, because of the low class average. Briefly put: decent prof, super boring course.
+
+--- Rating #2 ---
+Class: CMPT383
+Date: 2013-01-08 23:19:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+His exercise and exams are closely related to his lecture and notes. And he presents his ideas well. Just one thing, textbooks is useless in his class, all you need to do is to follow his ideas in the class. Sometimes its a bit confusing for me.
+
+--- Rating #3 ---
+Class: CMPT383
+Date: 2012-12-15 03:51:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He taught 383 very well.  Well spoken and laid back, grades fairly and created interesting and relevant assignments.  Exams are well-written and are directly related to course material.  Terrific for what I believe is his first time teaching the class.

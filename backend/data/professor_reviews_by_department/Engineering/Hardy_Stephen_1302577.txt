@@ -1,0 +1,24 @@
+Professor: Stephen Hardy
+Professor Legacy ID: 1302577
+Professor ID: VGVhY2hlci0xMzAyNTc3
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 4
+Avg Difficulty: 2
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: ENSC220
+Date: 2010-07-09 18:26:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Satisfactory prof

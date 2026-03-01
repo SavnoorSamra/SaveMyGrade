@@ -1,0 +1,273 @@
+Professor: Justin Gray
+Professor Legacy ID: 18538
+Professor ID: VGVhY2hlci0xODUzOA==
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.9
+Avg Difficulty: 3.1
+Num Ratings: 213
+Would Take Again Percent: 72.3077
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH100
+Date: 2026-01-07 23:49:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+So many different stuff it's a slide show
+
+--- Rating #2 ---
+Class: MATH100
+Date: 2026-01-07 08:12:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best prof you could get. Has the most genuine and best intentions at heart towards all his students. You getting him is basically a steal, would highly recommend
+
+--- Rating #3 ---
+Class: MATH100
+Date: 2025-12-26 22:01:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: True
+Comment:
+The course is just a slide show
+
+--- Rating #4 ---
+Class: MATH100
+Date: 2025-12-19 01:22:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+he is very kind and try his best to help. the class is a bit heavy, a lot of homework but a lot of easy credit to earn. highly recommend taking a class with him
+
+--- Rating #5 ---
+Class: MATH100
+Date: 2025-07-22 18:22:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Great prof, just do the online works assigned and go to the math clinics. very nice and detailed about the questions that people get stuck on.
+
+--- Rating #6 ---
+Class: MATH100
+Date: 2025-05-12 04:06:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Genuinely one of the best profs at SFU. The course has quite a bit of work but it prepares you well for the quizzes and exams. Some exam questions were kind of difficult but nothing out of pocket. He's super understanding and wants his students to succeed. Would def recommend.
+
+--- Rating #7 ---
+Class: MATH100
+Date: 2025-04-24 03:27:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+As long as you do the work you will get a well deserved mark. He doesn't stray from his sample questions for midterms and finals.
+
+He has prerecorded videos that you need to watch before lectures, then he'll present practice questions in class. I found that really helpful. Hoping I can have him for more calculus classes, he really was very helpful.
+
+--- Rating #8 ---
+Class: MATH100
+Date: 2025-04-07 23:59:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He assigns a fair amount of work but it's not unreasonable. The setup for the class is kinda unusual in the way that you have video lectures to watch 3 times a week that are due the night before every class. It really only works if you stay on track with the schedule as class time is spent solving problems. Lots of ways to get easy marks tho
+
+--- Rating #9 ---
+Class: MATH100
+Date: 2025-03-28 22:30:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He is a pretty chill prof that actually cares that the students in his class learn and understand the material.
+
+--- Rating #10 ---
+Class: MATH251
+Date: 2025-03-26 07:30:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I think Professor Gray was an excellent professor for the PRIME section in Fall 2024. He may initially seem intimidating, but he genuinely cares about students, is very willing to answer questions, and wants to see you succeed. Ask questions after class, attend lectures, take notes, and do all the practice textbook questions! You've got this!
+
+--- Rating #11 ---
+Class: MATH251
+Date: 2024-09-27 00:09:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Professor Gray runs a well-structured course. While his lectures can be dry, the textbook and practice problems are invaluable. Attending class and using resources like unstuckstudy for study prep are key to success.
+
+--- Rating #12 ---
+Class: MATH251
+Date: 2024-08-03 21:17:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I liked Justin very much. At first he seems a little intimidating. But if you seek for help, ask questions during office hours he is very helpful, patient, and calm. His lectures and notes are very organized and easy to follow. Fair grading.
+
+--- Rating #13 ---
+Class: MATH251
+Date: 2023-12-16 10:56:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Took 251 in the spring. Incredibly well organized notes and examples used in class. I found the first mt harder than the 2nd, but both were very fair. Final was incredibly fair, I found it easier than the assigned weekly questions and I did the entire final 3 times during the exam. Loved the course, it made me transfer from business to math no joke
+
+--- Rating #14 ---
+Class: MATH251
+Date: 2023-12-13 21:50:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Justin is a nice guy. He genuinely cares about his students and he teaches quite well. The only downside was that his lectures were pretty boring. The quizzes and exams were fair but the final was a lot harder than previous assessments. Regardless, he is a solid choice for this course.
+
+--- Rating #15 ---
+Class: MATH251
+Date: 2023-12-07 19:07:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Best math prof I have ever had! Explains really well and cares for students. The problem solving clinics were very helpful and motivating to work in a group.
+
+--- Rating #16 ---
+Class: MATH251
+Date: 2023-11-23 23:58:05 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's definitely not a  bad guy but his lecture is kind of boring especially when you use jamie's video for pre lecture and he's always a lit bit behind his own schedule kind of boring for 830 classes. Anyway his test is fair and time is enough as long as you prepared with questions behind the textbook
+
+--- Rating #17 ---
+Class: MATH251
+Date: 2023-05-01 00:03:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Everything is based on the textbook. If you can deal with the textbook questions you will be fine in the exam
+
+--- Rating #18 ---
+Class: MATH251
+Date: 2023-04-28 07:53:53 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His lectures were okay, but made me fall asleep quite often. Quiz questions are taken from hw questions so if u finish all your hw, u should be good. The final exam was very straightforward and tbh a lot easier than his midterms. Overall, not too bad of an experience being in his class
+
+--- Rating #19 ---
+Class: MATH251
+Date: 2023-04-26 03:47:03 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Decent prof overall, nothing stands out. If you put in the work, your mark will reflect it. Better than Pyke, lol
+
+--- Rating #20 ---
+Class: MATH251
+Date: 2023-04-22 02:03:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+NOT RECCOMONDED!

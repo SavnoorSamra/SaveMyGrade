@@ -1,0 +1,24 @@
+Professor: Daniel Grace
+Professor Legacy ID: 1738748
+Professor ID: VGVhY2hlci0xNzM4NzQ4
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 4.5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: HSCI431
+Date: 2012-08-03 14:10:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Dr.Grace is very helpful and he is very good at explaining things to the class. He tries his best best to be clear as possible. Although the attendance is not mandatory it is for the students benefit to attend class. Overall good professor and an reasonable course!

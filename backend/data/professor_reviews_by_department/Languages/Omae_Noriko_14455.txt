@@ -1,0 +1,271 @@
+Professor: Noriko Omae
+Professor Legacy ID: 14455
+Professor ID: VGVhY2hlci0xNDQ1NQ==
+Department (CSV): Languages
+Department (Fetched): Languages
+Avg Rating: 2.2
+Avg Difficulty: 4
+Num Ratings: 83
+Would Take Again Percent: 0
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: JAP201
+Date: 2022-04-19 04:30:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Low knowledge level of Japanese language. Makes kanji writing mistakes on blackboard. Oral exams can be graded based on non-academic reasons.
+
+--- Rating #2 ---
+Class: JAP101
+Date: 2019-04-11 23:22:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+This was the most difficult language course I've ever taken, and that's including Latin. She is very knowledgeable in Japanese, but her teaching skills and organization are weak. Class time barely focused on grammar. There were many in-class assignments that just didn't help if you couldn't understand the readings... Also, her book had many typos.
+
+--- Rating #3 ---
+Class: JAP101
+Date: 2018-01-30 01:15:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Terribly AWFUL
+
+--- Rating #4 ---
+Class: JAP101
+Date: 2017-12-07 11:38:22 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The way she taught was awesome, inspiring. You could actually improve your Japanese listening skills since she spoke basic Japanese phrases quite often. However, her textbooks were too much and not useful for learning grammar. So you would end up learning nothing from her course.
+
+--- Rating #5 ---
+Class: JAP100
+Date: 2017-11-29 06:54:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Rude, unhelpful, and inappropriate in her behaviour. It takes no time to see how unprofessional she is... avoid her at all costs.
+
+--- Rating #6 ---
+Class: JAP100
+Date: 2017-06-22 02:09:51 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She uses her own textbooks that are filled with typos. And while she focuses more on practical Japanese over grammar, making it a bit easier, that won't fly once you advance to JAPN101 with another instructor. She pretty much left out 30-50% of the fundamental material you should've learned at a 100 level.
+
+--- Rating #7 ---
+Class: JAP100
+Date: 2016-08-24 20:18:39 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+awesome
+
+--- Rating #8 ---
+Class: JALANG101
+Date: 2015-11-23 04:32:54 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Beautiful and inspiring with integrity
+
+--- Rating #9 ---
+Class: JAPN300
+Date: 2015-04-21 07:49:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+She is enthusiastic and is there to help if you ask. However, I feel like I didn't learn much from the class. Having taken preceding JAPN classes here, I feel like I learned more in the previous class than this one..  Seems easy enough to get a good grade. She grades by effort not so much 'ability'  Textbook is used in class, but not examinable
+
+--- Rating #10 ---
+Class: ECON101
+Date: 2014-11-27 14:28:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Incredibly hard to understand and very unhelpful. Every one of her examples in class are nearly straight out of the textbook and her lessons are the same as the textbook just with less detail and way less clear language. Ontop of this she holds random pop quizez to ensure that you attend class and sit through her unless lectures. Not recommended.
+
+--- Rating #11 ---
+Class: JAP100
+Date: 2014-07-22 16:46:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Horrible...
+
+--- Rating #12 ---
+Class: JAP100
+Date: 2014-07-20 19:02:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Despite the fact that I got a  decent grade, I view this professor as highly unprofessional and arrogant. She is using two textbooks, each 300-400 pages long and expect you to know a fair amount of it. Two first oral tests are jokers, but the final is "mission impossible" without any jokes. Take out lesson from it is "AVOID HER IF POSSIBLE".
+
+--- Rating #13 ---
+Class: JAPN100
+Date: 2014-05-15 23:41:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+She is the worst prof i have ever taken.
+
+--- Rating #14 ---
+Class: JAPN100
+Date: 2014-05-07 20:55:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Don't take her class unless you have learned Japanese before. If you are a beginner who want to get good mark in her class, I suggest you find a tutor. Omae uses a textbook written by herself.It is terrible and has lots of mistake in it. She didn't teach grammar and explain vocabulary,you have to memorize everything in her textbook.
+
+--- Rating #15 ---
+Class: JAPN101
+Date: 2013-12-08 02:20:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+The trend of instructors is to use a unpublished textbook written by an instructor at school. The PDF book is divided into grammar and lessons; lessons are seemingly random in content, focused on Canadian oriented vocabulary. Because of the sheer volume of vocabulary and disjointed content the lessons often resort to fill-in-the blank work.
+
+--- Rating #16 ---
+Class: JAPN101
+Date: 2013-12-08 02:19:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Instruction time resorts to pushing students through fill-in-the-blank workbooks and partner oral work following strict guideline both of which discourages students to develop tangible skill. Instruction time all but ignores the grammar component which students are told to self-study outside of the class.
+
+--- Rating #17 ---
+Class: JAPN101
+Date: 2013-12-08 02:18:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+The textbook itself is laden typos and errors, and heavy in grammatically jargon ignoring the work of modern to simplify textbook formats such as those by Genki.
+
+--- Rating #18 ---
+Class: JAPN101
+Date: 2013-12-08 02:18:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Finally the format of the class is set up to have students fail. Midterms are oral exams, while the final exam is 3 hours of written work with zero oral content, which leaves students ill prepared and forced to scramble to memorize hundreds of disjointed vocabulary rather than focus of strengthening skills.
+
+--- Rating #19 ---
+Class: JAP100
+Date: 2013-11-19 00:29:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+One terrible prof with bad temper and bad teaching. stay away from her at all costs. You will suffer. Also,the only way to get A in this course is to suck it up to her.
+
+--- Rating #20 ---
+Class: JAPN100
+Date: 2012-12-18 14:57:55 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I've gotta say, she's one terrible prof. She doesn't have hard copy of the book and asks you to print it off from a bunch of scanned pdf files (tiff). It's a pain in.. You can bring laptop to class, but she said she hates it so there that. If you are taking her class, good luck finding the instructions. It's always not clear, so there you have it.

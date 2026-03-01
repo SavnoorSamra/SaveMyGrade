@@ -1,0 +1,37 @@
+Professor: Ronaldo Au-Yeung
+Professor Legacy ID: 2788896
+Professor ID: VGVhY2hlci0yNzg4ODk2
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 4.5
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: HIST305
+Date: 2024-10-26 05:08:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the few professors who take cheating seriously at UCW.  He caught 7 people in the midterm.
+
+--- Rating #2 ---
+Class: pol200
+Date: 2022-04-17 05:24:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Gives tough comments but quite useful; At the same time grading is fair

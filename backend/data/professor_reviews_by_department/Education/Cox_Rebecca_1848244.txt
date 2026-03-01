@@ -1,0 +1,154 @@
+Professor: Rebecca Cox
+Professor Legacy ID: 1848244
+Professor ID: VGVhY2hlci0xODQ4MjQ0
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 2.5
+Avg Difficulty: 2.8
+Num Ratings: 11
+Would Take Again Percent: 40
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: EDUC813
+Date: 2022-01-22 23:03:44 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Not clear with directions
+
+--- Rating #2 ---
+Class: EDUC376
+Date: 2021-06-16 09:37:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Good prof.
+
+--- Rating #3 ---
+Class: EDUC376
+Date: 2021-06-15 23:20:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+she pretend she cares, but she doesn't. She is the only person interested in the course and always come unprepared.
+
+--- Rating #4 ---
+Class: EDUC864
+Date: 2020-12-08 04:21:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Rebecca Cox is amazing! She is so honest, caring, and her classes are enjoyable. She's always open, supportive and wants to see her students succeed. I learned a lot from her class, very straight-forward, clear and hilarious.
+
+--- Rating #5 ---
+Class: EDUC000
+Date: 2017-10-15 02:14:33 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+why is she still here?
+
+--- Rating #6 ---
+Class: EDUC100W
+Date: 2015-11-24 01:34:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+I loved her class! Best class I have taken thus far in University!!! Must take!! Be creative and participate. It is fun! I would actually take this class again!! I had no idea what education was coming in, but she truly changed my mind!
+
+--- Rating #7 ---
+Class: EDUC800
+Date: 2015-06-10 02:30:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+As a teacher, she is everything that I aspire not to be.
+
+--- Rating #8 ---
+Class: 900
+Date: 2015-05-24 20:36:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+condescending
+
+--- Rating #9 ---
+Class: 905
+Date: 2015-05-12 23:35:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Excellent prof. Engaged and interesting (and interested in your learning).
+
+--- Rating #10 ---
+Class: EUC600
+Date: 2015-04-05 02:28:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+American with no idea of the Canadian system.   No original thought just  the same old same old.
+
+--- Rating #11 ---
+Class: EDUC001
+Date: 2015-03-03 02:21:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+so many great teachers out there but she is not one of them.

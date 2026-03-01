@@ -1,0 +1,63 @@
+Professor: Victor Chen
+Professor Legacy ID: 1597859
+Professor ID: VGVhY2hlci0xNTk3ODU5
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.8
+Avg Difficulty: 2
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: CBMF120
+Date: 2011-09-08 13:14:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+ok
+
+--- Rating #2 ---
+Class: CBMF120
+Date: 2011-08-30 21:38:22 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+good teacher
+
+--- Rating #3 ---
+Class: BUS207E
+Date: 2011-08-30 14:51:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very funny and acknowledgable guy; even his jokes contain a lot of relevant information...
+
+--- Rating #4 ---
+Class: BUS207
+Date: 2011-07-11 02:10:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Speaks a bit too fast

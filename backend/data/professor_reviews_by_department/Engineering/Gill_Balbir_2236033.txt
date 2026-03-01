@@ -1,0 +1,89 @@
+Professor: Balbir Gill
+Professor Legacy ID: 2236033
+Professor ID: VGVhY2hlci0yMjM2MDMz
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 2.3
+Avg Difficulty: 3.3
+Num Ratings: 6
+Would Take Again Percent: 16.6667
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: CMPT371
+Date: 2018-12-22 00:49:58 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+If you just need to pass this course, this is your prof. Otherwise, I definitely recommend taking someone else. He is a good person but his exams are really awful. Lectures are the reviews of book authors' slides, which cover mostly theoretical stuff. All practical problems (about 80% of his exams) should be learned individually.
+
+--- Rating #2 ---
+Class: ENSC327
+Date: 2018-04-19 22:47:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Copies notes from another professor and doesnt know how to explain them. He just copies notes entire lecture...... please take his class to not learn anything
+
+--- Rating #3 ---
+Class: ENSC327
+Date: 2018-04-19 22:45:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+terrible lecturer. does not know anything about the course and he still continue to teach it. Tries to avoid a question he does not know how to answer by going off track and explaining something else. big blunder man.
+
+--- Rating #4 ---
+Class: CMPT371
+Date: 2018-01-06 08:14:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Terrible terrible teacher. He does not have not a single clue what is he talking about. use jargon to fit in kinda guy
+
+--- Rating #5 ---
+Class: CMPT371
+Date: 2017-08-15 03:33:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+really nice prof.
+
+--- Rating #6 ---
+Class: CMPT371
+Date: 2017-04-13 04:08:23 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is a nice and funny guy, gives good lectures. In fact I liked his lectures. However, he doesn't care too much about students' progress. Might be because he thinks the course is too easy, He didn't release a single practice for us in over a month. If you study regularly without assignments you'll be fine.

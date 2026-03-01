@@ -1,0 +1,11 @@
+Professor: Scott McAlpine
+Professor Legacy ID: 2601322
+Professor ID: VGVhY2hlci0yNjAxMzIy
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

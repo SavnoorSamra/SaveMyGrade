@@ -1,0 +1,102 @@
+Professor: Penny Deck
+Professor Legacy ID: 1987567
+Professor ID: VGVhY2hlci0xOTg3NTY3
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 2.6
+Avg Difficulty: 4
+Num Ratings: 7
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: BPK140
+Date: 2019-12-24 05:58:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+very easy class, attend all lectures to complete participation activities which are free marks, also there are weekly online participation activities that are free marks if you do them. Exams consisted of MC, TF, fill in the blank, and short answers. Everything was easy but fill in the blank was a little tricky. Overall very easy to get high mark
+
+--- Rating #2 ---
+Class: BPK110
+Date: 2019-02-22 21:28:00 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+slide does not include everything, literally the first practice question for chapter 3 was not in the slides. During class, she tends to mumble a lot and it became difficult to retain certain information. Would not take again unless major changes is made in her teaching techniques.
+
+--- Rating #3 ---
+Class: BPK110
+Date: 2017-08-22 02:20:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Make sure you attend each class, read book and lecture notes for weekly quizzes at tutorial. There are 3 assignments for the whole term: 3 Dietary analysis reports. Basically, keep tracking what you eat/drink for the first assignment and  for the rest you would be fine.
+
+--- Rating #4 ---
+Class: HSCI100
+Date: 2015-09-25 23:45:27 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Penny is nice person and makes her own effort. However, as an undergrad and an arts student; this pre-req for HSCI is taught and meant for graduates. Very difficult to grasp content, suffered greatly with all the effort put into her class. Content is interesting, but everything is self taught and memorization.. Good luck.
+
+--- Rating #5 ---
+Class: HSCI100
+Date: 2015-04-11 18:55:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Penny Deck (HSCI 100) is the most AWFUL professor I've had in my undergraduate degree (3rd year student, 3.0 GPA average going in). She sits in front of her laptop, reads off slides for 3 hrs. No motivation. No experience teaching. Posts slides & hands out survey responses LAST MINUTE. Terrible and the most unfair exams I've ever written.
+
+--- Rating #6 ---
+Class: HSCI100
+Date: 2015-03-26 04:37:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lecture notes are nothing but pictures. spends 1 slide and barely any class time on something, yet makes a question about it worth 12 pt on the midterm. class average of 55% on the MT and she wont scale I get that this is her first year teaching this course, and apparently her bpk classes are better (according to her) but just dont. not with her.
+
+--- Rating #7 ---
+Class: HSCI100
+Date: 2015-02-27 03:49:12 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+If you do not biology don't take this course as an elective just because you did well in bio12. LOTS of material covered and ALL memorization and conceptualization. Slides are useless as she doesn't include all from the lecture and most are pictures from the text (aligns with text well). Self taught myself everything by going through the textbook.

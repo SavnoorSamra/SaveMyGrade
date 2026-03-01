@@ -1,0 +1,271 @@
+Professor: David Newman
+Professor Legacy ID: 942580
+Professor ID: VGVhY2hlci05NDI1ODA=
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 3.5
+Avg Difficulty: 3.3
+Num Ratings: 101
+Would Take Again Percent: 8.3333
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: WRDS150
+Date: 2023-08-08 07:20:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+probably one of the worst profs i have ever had. never gives a clear outline of what is expected and spends classtime on irrelevant topics.
+
+--- Rating #2 ---
+Class: WRDS150
+Date: 2023-08-08 07:16:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+one word. terrible.
+
+--- Rating #3 ---
+Class: WRDS150A
+Date: 2022-02-22 20:35:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+The worst experience I've had so far. Too many assignments, tight deadlines (2 hours after class? I'm taking other courses!), lectures and assignments are barely linked, instructions are unclear, grading is tough in a way where it's not about your learning but about finding things to lose you marks. Absolutely horrendous.
+
+--- Rating #4 ---
+Class: BUS217
+Date: 2021-12-20 06:53:57 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Already a poor course to begin with. David makes the experience even worse. Lectures and assignments are thinly linked. Deadlines are quick, some assignments are due the very same day at the end of class. Marking is slow. He's very out of touch with students, asking him questions will get you long winded non-answers.
+
+--- Rating #5 ---
+Class: BUS217
+Date: 2021-12-10 12:33:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Horrible prof. Hes always talking about his UBC classes and always putting last minute effort to our class. Groups are supposed to switch 3-4 times (this is reflected in ALL 217 classes). We switched twice. Assignments are also made together for all sections yet ours was entirely different and instructions were so vague. AVOID AT ALL COSTS
+
+--- Rating #6 ---
+Class: WRDS150
+Date: 2021-11-17 19:37:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Professor David Newman gives so much assignments and the grading we receive is often late. He is a really tough grader and its hard to achieve anything above a 70 no matter how much effort you put into your paper. In the beginning of term, he stated that in the previous year everyone got an A and he received complaints, so that's explains why...
+
+--- Rating #7 ---
+Class: CMNS130
+Date: 2021-11-12 19:52:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Professor Newman is a great teacher. However, he gives so much assignments and dont grade them in time. The TA was also very unresponsible and dont give us scores in time. In addition to the many assignments, he is really cheap in giving grades. Pretty sure its because in the previous years everyone got an A and now he just gives students &lt;70
+
+--- Rating #8 ---
+Class: WRDS150
+Date: 2021-03-30 13:22:26 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+He's pretty nice but if I have to listen to him talk about how he failed his first year of uni again I'm going bungee jumping without the cord. Teaching wise he's pretty below average and I wouldn't expect good guidance from him on any assignment past the basic &quot;oh you should write about this or add this&quot;. pretty chill dude tho
+
+--- Rating #9 ---
+Class: CMNS230
+Date: 2017-01-21 00:46:15 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Professor David Newman is very smart. But, his lecture are often lengthy, boring disorganized and repetitive. I think he really needs to work on making the course more relevant and informed.
+
+--- Rating #10 ---
+Class: CMNS230
+Date: 2017-01-13 00:39:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I've taken two courses with David now, and never will again. He's incredibly disorganized, to the point where half the time the materials were not on Canvas when they were supposed to be. We spent a lot of time sitting in lecture listening to him talk about Lord of the Rings, or New Zealand. Avoid him if you can, especially for lower divisions.
+
+--- Rating #11 ---
+Class: CMNS458
+Date: 2016-12-25 01:43:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+His lecture is dry and unorganised,  and he seems to be insecure about being disliked so he tries so hard to be liked.  He would try to get students who seem to like him in this class to sign up for the next class. I suspect that bribing students with good grades is a way to attract students to the next class for him.
+
+--- Rating #12 ---
+Class: CMNS230
+Date: 2016-09-05 19:37:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Donald was very into the course topics and always encouraged us to participate and discuss, he would often babble onto other relevant topics during lectures but they were pretty interesting stories! Because I took this course during summer, we were able to get real experience by going on a field trip. The material learned was very interesting.
+
+--- Rating #13 ---
+Class: CMNS131
+Date: 2016-05-10 15:12:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Loooooong lectures with zero breaks, he tries his best to make things funny, but the material is dry enough as it is. His slides are mostly scattered pictures that are not at all helpful, readings are the only was you'll pass this class.
+
+--- Rating #14 ---
+Class: PUB438
+Date: 2016-05-06 19:29:25 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+For work ethics, I recommend this  course. It can give you a good protfolio to start your carreer. Creativity, lean approach, this is what the employers are looking for at the present time. It takes you away from dry theorical courses and David is a good reference to have.
+
+--- Rating #15 ---
+Class: PUB438
+Date: 2016-04-20 01:14:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This was one of the most (if not THE most) useful courses I've taken at SFU. David's lectures are informative yet entertaining, the group project taught me things that I can take with me to any place of employment, and he gave awesome feedback. Whether you're in publishing or not, I would recommend this course to anyone!
+
+--- Rating #16 ---
+Class: CMNS230
+Date: 2016-04-07 00:05:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+There was quite a lot of work to do in the class, but it was NOT HARD. The midterm was the easiest test I have taken so far in my undergrad, short answer and multiple choice, just have to study the lecture slides.   Overall David made the class enjoyable. Assignments were straight forward. Take home final. And easy opportunity for extra credit.
+
+--- Rating #17 ---
+Class: CMNS230
+Date: 2016-01-05 18:15:42 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I had David for both 230 and 235. He's incredibly disorganized. It took him weeks to get the course material up on Canvas, and he kept forgetting to submit the course pack to the bookstore so students could buy it. I would avoid taking classes with him if possible, unless you don't mind three hour lectures on his native New Zealand.
+
+--- Rating #18 ---
+Class: CMNS230
+Date: 2015-12-23 16:20:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures are a little long but very informative.  The subject matter is a little dry but David does make it more interesting.  Fair tests.  Really helpful if you need assistance in understanding an assignment better.  Be ready to write at least 500 words every week and complete all the readings.  I would take another class with David.
+
+--- Rating #19 ---
+Class: CMNS130
+Date: 2015-11-24 02:40:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Newman isn't a bad guy but I found his lectures incredibly boring. To give him some credit, it wasn't his fault that the content of the course was boring, but his way of speaking made it all the worse.
+
+--- Rating #20 ---
+Class: CMNS230
+Date: 2015-11-23 22:04:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+This is my second course with David Newman. After taking 130 with him, I basically felt hopeless. But I have really enjoyed 230 with him! Not only is the material more interesting, but David has a fair course structure. Would recommend.

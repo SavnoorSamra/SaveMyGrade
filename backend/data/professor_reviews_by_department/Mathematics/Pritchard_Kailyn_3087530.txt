@@ -1,0 +1,37 @@
+Professor: Kailyn Pritchard
+Professor Legacy ID: 3087530
+Professor ID: VGVhY2hlci0zMDg3NTMw
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.5
+Avg Difficulty: 5
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: FANX99
+Date: 2025-09-01 09:39:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+the course was not created by her and it is mainly TA and coordinator marking who are strict on it. she just follow on what is in the plan and this course takes up half of our time. its not helping
+
+--- Rating #2 ---
+Class: FANX99
+Date: 2025-08-01 04:19:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+the professor isn't the problem, the course is since it takes up half our time and she follows the course outline which is created by the math department

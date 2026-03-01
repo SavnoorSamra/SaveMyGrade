@@ -1,0 +1,180 @@
+Professor: Ryan Woods
+Professor Legacy ID: 2523626
+Professor ID: VGVhY2hlci0yNTIzNjI2
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 4.9
+Avg Difficulty: 2.5
+Num Ratings: 13
+Would Take Again Percent: 100
+
+Ratings Count Returned: 13
+
+--- Rating #1 ---
+Class: HSCI230
+Date: 2024-02-06 17:34:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The best HSCI professor I had! Ryan is very caring, always open for questions and patient with students. Lectures are very clear and easily readable. If you attend his lectures you will do well in his course. There's only two problem sets which are similar to examples given during lectures. His lectures made me change my view on health research.
+
+--- Rating #2 ---
+Class: HSCI230
+Date: 2023-12-18 06:21:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Ryan is so so so nice, he's trying his best to make sure we understand the contents. I had never attended his office hours but he is always accessible and replies to students very fast. The course is not hard overall but has a lot to learn. He puts a lot of effort into his slides. Try to attend all the lectures as it's easier to catch up.
+
+--- Rating #3 ---
+Class: HSCI230
+Date: 2023-12-16 04:49:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ryan is an amazing professor who doesn't get much credit. You can tell that he really cares about the course and wants you to do well. He is very easy to contact and has extra office hours during finals. His lectures may be a bit heavy but very easy to understand. Put in some effort and you can easily get an A in this class.
+
+--- Rating #4 ---
+Class: HSCI230
+Date: 2023-11-25 21:36:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I am just studying for the final, and while going through his slides I realize how much effort he puts into them. Professor Woods is so wholesome and caring and he clearly cares a lot about his students. He helps as much as he can and not once had I experienced him having a bad tone. His slides, quizzes, tests, assignments are insightful and fair!
+
+--- Rating #5 ---
+Class: HSCI230
+Date: 2023-11-21 02:58:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ryan is a very caring professor, he wants his students to succeed. He communicates well and accommodates with his students. His grading criteria is very clear, and he supplies all the resources you need in order to do well in the course. You can tell he is passionate about what he does as it makes class more engaging despite its long duration.
+
+--- Rating #6 ---
+Class: HSCI230
+Date: 2023-11-12 23:38:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+A sweetheart, is very passionate about what he teaches and tries accommodating everyones need. Lectures can get boring but not a hard class to keep up with
+
+--- Rating #7 ---
+Class: HSCI230
+Date: 2022-12-07 05:35:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Recommended taking HSCI 230 with him. Although his lecture is a bit too long, he tries to explain things as clearly as he can so students can understand them easily. He is also caring and friendly to talk to and is willing to provide help when you are struggling with course materials. If you have a chance to talk course with him, take it for sure!!
+
+--- Rating #8 ---
+Class: HSCI230
+Date: 2022-04-23 00:26:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Ryan is such a great prof, and I would 100% recommend taking hsci230 with him. He explains concepts really well and is always available to help if something is unclear. He wants his students to succeed and is so helpful, and the quizzes/assignments are fair, and similar to what he asks on tests
+
+--- Rating #9 ---
+Class: HSCI330
+Date: 2020-01-07 16:32:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Woods makes the course really interesting and his lectures are enough to understand the material. He goes out of his way to help you with assignments and the material. His exams were based on the examples in his lectures and the assignments. Definitely recommend.
+
+--- Rating #10 ---
+Class: HSCI330
+Date: 2019-12-15 04:22:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Woods is such an amazing professor. He genuinely cares about his students and if we're understanding the material. He was so helpful in office hours and can convey concepts very clearly during lecture. Also, he posts lecture slides ahead of time. Solid choice!!
+
+--- Rating #11 ---
+Class: HSCI330
+Date: 2019-12-07 18:08:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Most understanding and reasonable prof I've ever had. He makes sure you understand concepts. Exams and Assignments were very reasonable and doable. Honestly would've loved to have him for STAT305 too. Bless his soul
+
+--- Rating #12 ---
+Class: HSCI330
+Date: 2019-11-20 18:43:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+clear explanations of concepts and preps the lecture slides beforehand so a plus. I suggest going to lectures to listen to better reinforce the material. the guest lectures are not tested on which is great. only two assignments and they are a great help to understand the material from lecture.
+
+--- Rating #13 ---
+Class: HSCI330
+Date: 2019-11-15 02:52:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+One of the best profs in HSCI. He is constantly updating his office hours . Hes willing to stay pass his office hours to help students and is extremely clear with what is expected on the exams. 2 assignments worth 20% but hes more then willing to help guide you through it. Currently takin this course and will take it again with him!!!

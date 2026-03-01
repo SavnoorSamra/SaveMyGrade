@@ -1,0 +1,24 @@
+Professor: Andres Wanner
+Professor Legacy ID: 1470611
+Professor ID: VGVhY2hlci0xNDcwNjEx
+Department (CSV): Information Technology
+Department (Fetched): Information Technology
+Avg Rating: 5
+Avg Difficulty: 1
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: IAT334
+Date: 2012-06-08 16:47:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He is so nice and helpful!

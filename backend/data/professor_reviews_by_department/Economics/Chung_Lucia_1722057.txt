@@ -1,0 +1,63 @@
+Professor: Lucia Chung
+Professor Legacy ID: 1722057
+Professor ID: VGVhY2hlci0xNzIyMDU3
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 5
+Avg Difficulty: 2.5
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: ECON103
+Date: 2012-08-13 18:27:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Best teacher I have had by far. No other teacher has this much interest in there students success. I will definitely be taking other classes with her!!
+
+--- Rating #2 ---
+Class: ECON103
+Date: 2012-07-25 16:34:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+first time i want to rate a prof on the web cuz shes the best prof i've ever met. helpful and easygoing. if u pay attemtion to the class, u will do well. and she loves feedbacks.
+
+--- Rating #3 ---
+Class: ECON103
+Date: 2012-07-23 23:35:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+best prof i ever had
+
+--- Rating #4 ---
+Class: ECON103
+Date: 2012-07-23 23:33:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Best Prof i ever had, always available and very helpful

@@ -1,0 +1,271 @@
+Professor: Gamage  Perera
+Professor Legacy ID: 2070305
+Professor ID: VGVhY2hlci0yMDcwMzA1
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 4.3
+Avg Difficulty: 2.4
+Num Ratings: 67
+Would Take Again Percent: 87.3016
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: STAT203
+Date: 2025-08-21 21:01:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Gamage's STAT 203 class is engaging and well-structured. He explains complex concepts clearly with practical examples, making statistics fun. Lectures are engaging and assignments reinforce learning effectively. His supportive style fosters success, though the final exam is heavy, so consistent studying is really essential.
+
+--- Rating #2 ---
+Class: STAT302
+Date: 2024-12-14 03:19:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Best stats prof by far, in his lectures he breaks down concepts into very simple concepts for students to understand. Sometimes he will even add in if itll be tested on the exam. Although the final was worth 50% it's an online course so I guess it's understandable. Just wish he provided more practice content but overall highly recommend
+
+--- Rating #3 ---
+Class: STAT201
+Date: 2024-12-13 21:41:42 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Chill professor that makes what might be the driest subject matter even somewhat palatable. Plenty of time was given for the assignments and the tests allowed for the use of TYPED cheat sheets.
+
+--- Rating #4 ---
+Class: STAT302
+Date: 2024-12-10 19:21:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Best statistics professor!!!
+
+--- Rating #5 ---
+Class: STAT270
+Date: 2024-08-21 04:50:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took this course in spring. Harsha is a very chill and approachable professor. His explanations are clear and his expectations are reasonable. Manageable workload. Fair exams, though the final was a bit tricky. Practice assignment and textbook questions well to prepare for exams.
+
+--- Rating #6 ---
+Class: STAT302
+Date: 2024-07-30 04:53:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+best prof at sfu , made concepts really easy to understand. He replies to emails super quick, even at 12am. The tests are fair and mainly come out of the textbook
+
+--- Rating #7 ---
+Class: STAT270
+Date: 2024-04-26 22:06:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+The best professor I could have wanted for STAT270. His lectures are clear and assignments are straightforward. Exams are also fair. He is super approachable and is always looking to help students. He is constantly seeking feedback to improve his course which is something I respect. He is very caring and wants to see his students do well. 10/10
+
+--- Rating #8 ---
+Class: STAT270
+Date: 2024-03-21 16:59:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Perera genuinely cares about students. He goes slowly during lectures and repeats important concepts. His office hours are quite helpful and he often mentions what type of questions will be on the exam during class. Still, it is a hard class so make sure to consistently practice outside of class. Take STAT 270 with him if you're able to!
+
+--- Rating #9 ---
+Class: STAT270
+Date: 2024-02-09 04:38:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+switched from scott pai's section to this one and im so glad. prof perera can actually teach and responds extremely quickly to emails
+
+--- Rating #10 ---
+Class: STAT270
+Date: 2024-01-24 00:06:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's really kind and is able to teach a really dense subject efficiently, he also teaches slowly in chapter three (probabilities) which is really nice of him, but 270 is pretty hard in general so make sure to practice the textbook questions he assigns. Overall he's great, you can tell he knows what he's doing :)
+
+--- Rating #11 ---
+Class: STAT270
+Date: 2024-01-12 19:48:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Nice
+
+--- Rating #12 ---
+Class: STAT203
+Date: 2023-08-12 04:59:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+STATS 270 was not an option but Harsha is the best prof I've had so far. He's very respectful and kind and is always wanting feedback from his students. His exams are very fair and realistic as well. Would recommend 10/10 and to go to his office hours even if you don't have any questions.
+
+--- Rating #13 ---
+Class: STAT203
+Date: 2022-04-29 23:39:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I had held back on taking STAT203 for years and finally took it with Harsha. He made it feel easier and took his time explaining concepts. The assignments really helped prepare for tests and he even allowed cheat sheets which really helped. Would definitely recommend taking his class, especially for statistics!
+
+--- Rating #14 ---
+Class: STAT203
+Date: 2022-04-29 04:48:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Harsha is such a king, he's an amazing professor who made stat 203 a very doable and enjoyable class. He's super caring and will make sure everyone understands the concepts. I love how he would emphasize and repeat important concepts in the course. If you do the assignments and keep up with the lectures and course, you can do really well!
+
+--- Rating #15 ---
+Class: STAT201
+Date: 2021-01-17 01:27:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Everyone scared me and said STAT 201 is the hardest class in their degree, however Harsha made it one of the easiest! He would make you do all the hard calculations in the assignments that weren't worth much, and the exams which were worth more would have the most basic easiest questions ever. I studied two hours before the final and got full marks
+
+--- Rating #16 ---
+Class: STAT430
+Date: 2021-01-16 22:53:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I've had Harsha before and he was fine, but 430 was poorly done for an online class. Basically read the textbook word for word while screen-sharing it. Didn't breakdown the material or add anything helpful. Felt like I was listening to the textbook on Audible. I spent more time memorizing details than learning the reasons behind certain designs.
+
+--- Rating #17 ---
+Class: STAT201
+Date: 2021-01-04 06:02:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Harsha was great for STAT 201!! His pre-recorded lectures were straight to the point and he even acknowledged on our first day of class that he would try to be concise as he understands that it's a boring subject for many and did not want them to drag. Exams are easy if you do the homework. R code can be tricky but he didn't put it on the exams.
+
+--- Rating #18 ---
+Class: STAT201
+Date: 2020-12-29 07:28:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Professor Perera was a really fair and understanding professor, and adapted very well with the online format. His lectures are very straight forward and include examples, there's about 5-6 assignments (he gives you more than enough time). Do the assignments, watch the lectures, read the textbook, and you should do fine. def take this class w/ him!
+
+--- Rating #19 ---
+Class: STAT201
+Date: 2020-12-27 10:26:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Lectures were easy to follow and mostly short. There were a few short quizzes during the semester, and a couple assignments. Assignments could be a little long at times, but similar examples were in the textbook that you could follow along. Exams were multiple choice and open book.
+
+--- Rating #20 ---
+Class: STAT201
+Date: 2020-12-18 02:19:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+THE BEST PROF DO NOT HESITATE TO TAKE WITH HIM hands down the best prof, he has tons of office hours, he understands peoples situations, adjusts classes to the people that take them unlike some other profs out there. You will not regret taking a class with him, its an easy class in general but having an understanding, well teaching prof is perfect

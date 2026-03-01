@@ -1,0 +1,63 @@
+Professor: Kathleen Barnard
+Professor Legacy ID: 1143986
+Professor ID: VGVhY2hlci0xMTQzOTg2
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.8
+Avg Difficulty: 2.3
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: FAL99
+Date: 2010-04-25 19:10:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great professor,she can really teach. Her comments are very useful and she explains to you clearly what she expects from you.
+
+--- Rating #2 ---
+Class: FALX99
+Date: 2009-12-08 03:45:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+really a good profmy english has improved a lot!!
+
+--- Rating #3 ---
+Class: FALX99
+Date: 2009-03-27 19:41:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Katleen is an excellent teacher. She cares alot about her students. If you need help with anything, she'll be meet you whenever she is free. She gives lots of useful comments and feedback on assignments. A+++! :)
+
+--- Rating #4 ---
+Class: FALX99
+Date: 2008-06-04 13:25:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+she is a good teacher. She cares a lot about her students. she also is a very sweet person!

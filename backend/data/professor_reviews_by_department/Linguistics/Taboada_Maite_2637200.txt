@@ -1,0 +1,52 @@
+Professor: Maite Taboada
+Professor Legacy ID: 2637200
+Professor ID: VGVhY2hlci0yNjM3MjAw
+Department (CSV): Linguistics
+Department (Fetched): Linguistics
+Avg Rating: 4.7
+Avg Difficulty: 3.3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: LING450
+Date: 2024-04-12 18:39:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Taboada is absolutely wonderful. She is so so nice and fair and approachable and really wants everyone to understand the course content. She is more than willing to help with everything from the theoretical aspects to the little technical implementation problems and is super understanding. Couldn't recommend her more
+
+--- Rating #2 ---
+Class: LING250
+Date: 2024-01-09 06:54:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I loved Maite, she was so sweet and so knowledgeable, and she's so smart. 
+It is an introduction to Python class, so it scared the soul outta me but she made it bearable and easygoing, it's one of the best-organized classes I've taken. 
+It is a lot of info though, not easy, but she makes it worthwhile.
+
+--- Rating #3 ---
+Class: LING250
+Date: 2023-11-08 00:40:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Incredibly kind woman and very good prof, I really enjoyed this class. As someone with no coding experience prior it was difficult but not unmanageable, and she was very helpful in office hours when I had questions.

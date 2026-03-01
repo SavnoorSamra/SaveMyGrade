@@ -1,0 +1,63 @@
+Professor: Charles Scott
+Professor Legacy ID: 1069253
+Professor ID: VGVhY2hlci0xMDY5MjUz
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.9
+Avg Difficulty: 2.5
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: FALX99
+Date: 2010-11-26 04:34:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+best teacher!~~
+
+--- Rating #2 ---
+Class: EDUC712
+Date: 2010-07-06 15:20:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I like his class very much
+
+--- Rating #3 ---
+Class: EDUC712
+Date: 2010-07-05 01:57:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very good teacher.
+
+--- Rating #4 ---
+Class: EDUC230
+Date: 2009-02-04 23:29:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Good man.

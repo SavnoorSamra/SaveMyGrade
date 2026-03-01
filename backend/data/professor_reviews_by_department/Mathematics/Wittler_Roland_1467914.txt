@@ -1,0 +1,89 @@
+Professor: Roland Wittler
+Professor Legacy ID: 1467914
+Professor ID: VGVhY2hlci0xNDY3OTE0
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.3
+Avg Difficulty: 1.7
+Num Ratings: 6
+Would Take Again Percent: -1
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: MATH157
+Date: 2010-11-03 12:18:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Took 157 with him. Though lectures are boring, he makes things easy for you on exams. Kind of shy, but an interactive person. Think math is hard&#63; Take math with him, makes things easy.
+
+--- Rating #2 ---
+Class: MATH157
+Date: 2010-08-21 16:26:21 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+German accent overpowers lectures so its sometimes impossible to understand what he's saying, can't imagine how ESL students cope. Very poor job at actually explaining concepts, rather he reads verbatim the notes on the overhead, which you could do at home.
+
+--- Rating #3 ---
+Class: MATH157
+Date: 2010-08-19 02:37:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Cool prof. Was nervous at beginning of semester because I think it was his first semester but got over it fast. Clear notes, doesn't try to trick you.
+
+--- Rating #4 ---
+Class: MATH157
+Date: 2010-08-18 20:45:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Really nice professor. Review example from notes, his exams are straight from them so very fair.
+
+--- Rating #5 ---
+Class: MATH157
+Date: 2010-08-18 19:01:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Failed 157 before, retaking it with him I got an A. Very clear notes with lots of examples. Exams are examples we see in notes, no surprises. Very fair. Light German accent but will probably only be problem if you're very ESL.  Great math prof!
+
+--- Rating #6 ---
+Class: MATH157
+Date: 2010-08-17 03:23:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Can't hear what's he saying in class. mumbles all the way. His review session for exams are useless, very bad. No one in class participated when he asked questions. Seriously, don't take his class.

@@ -1,0 +1,63 @@
+Professor: Thomas Perry
+Professor Legacy ID: 1367091
+Professor ID: VGVhY2hlci0xMzY3MDkx
+Department (CSV): Linguistics
+Department (Fetched): Linguistics
+Avg Rating: 3
+Avg Difficulty: 4
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: LING480
+Date: 2013-12-17 14:30:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Dr.Perry is an  amazing professor he is very helpful and willing to talk to students if they have a problem. He also seems to be very interested in the material which made the class more interesting. I highly recommend him as a teacher, although his classes are not easy.
+
+--- Rating #2 ---
+Class: LING321
+Date: 2012-09-20 22:14:17 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+One problem I had was he told us up front that he didn't want to be teaching the class, that he had other things to do. Lectures were boring but Dr.Perry is very funny in his own way. The exams were fair but each question was worth a lot of points, which is difficult as phonology questions are often all or nothing.
+
+--- Rating #3 ---
+Class: LING321
+Date: 2010-12-24 10:44:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He speaks in a monotone voice, and gives very boring lectures and very difficult assignments. He is nearly useless as he tells us to go to the TA everytime we have a question. From what I have observed, he is simply not engaged with teaching.
+
+--- Rating #4 ---
+Class: LING221
+Date: 2010-06-10 16:01:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He expects the students to know a lot already about phonetics and phonology. Not very helpful during office hours because he replies a question with another question. I definitely self-taught 80% of the course and go to class for his examples.

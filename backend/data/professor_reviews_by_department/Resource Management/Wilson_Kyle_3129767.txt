@@ -1,0 +1,24 @@
+Professor: Kyle Wilson
+Professor Legacy ID: 3129767
+Professor ID: VGVhY2hlci0zMTI5NzY3
+Department (CSV): Resource Management
+Department (Fetched): Resource Management
+Avg Rating: 3
+Avg Difficulty: 1
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: rem100
+Date: 2025-12-04 23:08:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Good prof super easy class gpa booster. Lectures are slide heavy so attendance isnt neccessary always. content is enjoyable but not hard

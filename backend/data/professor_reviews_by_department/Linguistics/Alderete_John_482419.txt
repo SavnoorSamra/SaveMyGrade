@@ -1,0 +1,272 @@
+Professor: John Alderete
+Professor Legacy ID: 482419
+Professor ID: VGVhY2hlci00ODI0MTk=
+Department (CSV): Linguistics
+Department (Fetched): Linguistics
+Avg Rating: 2.7
+Avg Difficulty: 3.3
+Num Ratings: 46
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: COGS200
+Date: 2025-06-15 10:09:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Tough homework assignments, would advise asking for help on these. Other than that attend all classes and you should get a great grade.
+
+--- Rating #2 ---
+Class: LING323
+Date: 2025-06-02 19:59:57 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+John's a nice enough guy, but he's not the best teacher. He posts videos in addition to his lectures, and you're better off just watching those at home and saving yourself the trip to campus.
+
+--- Rating #3 ---
+Class: LING220
+Date: 2025-05-29 20:59:32 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Better profs available for 220!
+
+--- Rating #4 ---
+Class: COGS200
+Date: 2025-02-27 18:44:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is great nowadays. He is underrated here.
+
+--- Rating #5 ---
+Class: LING323
+Date: 2024-11-16 06:31:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+First day of class stated "I mean if you use AI for your homework you could only get a B at best", so dont use it. 
+Homework is worth 66% of the mark, and on the biweekly homeworks sometimes the students would get 0 feedback on their homework. Students complained in class and he simply said "I dont have time to give feedback for everyone"...
+
+--- Rating #6 ---
+Class: LING220
+Date: 2024-06-02 21:05:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Was my first semester so no background knowledge. Tests were open book and quite fair. Assignments often went outside of material he had taught you so you had to teach yourself. Readings were smaller pieces of larger texts. Finding the larger texts online could often help for learning concepts relevant to assignments. Overall just a solid prof.
+
+--- Rating #7 ---
+Class: COGS200
+Date: 2024-04-30 03:02:10 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures consistent of student presentations of an article every week and the rest of the class is him talking about a subject he wants to. Things were not well organized, and hard to study for. An 80 was considered a C and we did not know this at all. He is a very nice guy though and I liked him as a person. Though over all not a very hard class.
+
+--- Rating #8 ---
+Class: LING220
+Date: 2024-04-17 20:22:56 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+As other people mentioned here, the material was taught as if we already had some background knowledge on it, so I had to spend a lot of time outside class going over it. The grade distribution was not clear but I got B+ with ~80%. Tests were relatively easy compared to the homework and the amount of time I spent figuring the material out.
+
+--- Rating #9 ---
+Class: LING220
+Date: 2024-02-24 23:32:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+AVOID HIM TRUST
+
+--- Rating #10 ---
+Class: LING220
+Date: 2024-02-24 06:02:37 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I've taken many ling courses and this = one of the most difficult due to lack of communication and clear instruction alone. He is very knowledgebale, 100%, but he assumes you know more than you do and doesn't offer much foundational help. Difficult to reach both prof and TAs out of class. Very, very frustrating tbh, feeling #abysmal sorry john
+
+--- Rating #11 ---
+Class: LING220
+Date: 2024-02-04 04:49:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Not hard to get a good grade, but is very frustrating to learn under. He develops his own way of writing and doesn't explain what most of it means, leaving you to decipher his system on your own. Assumes that you already know far too much, especially for an intro Ling course.
+
+--- Rating #12 ---
+Class: COGS200
+Date: 2023-04-17 01:42:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's a good guy, unfortunately not in COGS himself so he can't speak to a lot of the CS or Psyc topics, engaging and teaches well though. Vague in marking as everyone else says but you can also just ask him questions over email or before/after class and he will answer. He's reasonable and if you have issues with group mates you can talk to him.
+
+--- Rating #13 ---
+Class: LING323
+Date: 2023-04-16 09:47:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+he deserves his rating. does not have clear criteria at all. gives you a grade without specific explanation. classes boring. does not even use canvas to remind things and assign grades. makes you frustrated about morphology. please definitely take 323 with another prof
+
+--- Rating #14 ---
+Class: LING321
+Date: 2022-04-05 00:48:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Alderete's teaching philosophy is great if you are interested in the course material and willing to participate. Quizzes and homework are fair and answers are covered in detail in the following class.
+
+--- Rating #15 ---
+Class: LING323
+Date: 2021-12-10 06:15:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is a knowledgeable professor, even though sometimes it took time for me to understand the content, he was willing to help and reply emails fast. Read textbook really helped me. Teaching style did not suit me, but he is a good professor, just ask him question if you are confused. Quizzes are NOT easy.
+
+--- Rating #16 ---
+Class: LING321
+Date: 2020-08-17 18:11:17 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+People told me John was bad news. As a lecturer, he isnt good at explaining things. When you ask a question he either refers you to the syllabus or asks you a question in return. Very lecture heavy, but I took the course as SS in 5 weeks, instead of 13. As the course was REMOTE, he wasnt really teaching, but talking AT us - goes too fast, keep up!
+
+--- Rating #17 ---
+Class: LING321
+Date: 2020-08-02 05:40:10 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+John Alderete is a good professor and he knows what he's talking about, although he lacks bedside manner and most often won't answer your question if it's content-related. I took this class summer session, so it was condensed into five weeks instead of thirteen, which worked well. The homework was hard but he'll help you if you ask for it.
+
+--- Rating #18 ---
+Class: LING321
+Date: 2019-05-05 11:28:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Horrible prof, his hand-writing is awful and his explanation is confusing , I suggest you avoid this guy if you are Asian , also, if you visit his office hour , he wont be nice to you and try to kick you out ASAP , his grading is tough and most of the time you dont know why you get wrong because there are no explanation. Class averages are C
+
+--- Rating #19 ---
+Class: LING323
+Date: 2018-10-24 00:24:00 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+John is a very difficult dude. Considering taking him for a course? Sit the semester out and wait for a different professor to teach it. Seriously. You won't get much support from this guy, and you'll learn much more from a textbook.
+
+--- Rating #20 ---
+Class: COGS200
+Date: 2018-04-17 22:32:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Good lecturer, frequent class discussions and group work are interesting and fun. However he is very unclear on his marking scheme. You can get Bs and As on all midterms and presentations based on his scheme and end up with a C- final grade - other components supposidly being worth a combined 20%. States this is standard practice.

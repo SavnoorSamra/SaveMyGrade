@@ -1,0 +1,63 @@
+Professor: Leanna Mitchell
+Professor Legacy ID: 1829781
+Professor ID: VGVhY2hlci0xODI5Nzgx
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 2
+Avg Difficulty: 3.8
+Num Ratings: 4
+Would Take Again Percent: -1
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: ECON301
+Date: 2013-08-15 14:46:03 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+She doesn't know how to teach. She makes a big mistake on assignments, exams and sample exams... She doesn't care about students. Do not take her courses.
+
+--- Rating #2 ---
+Class: ECON301
+Date: 2013-08-14 16:29:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Her explanation in lecture was just fine. She needed to slow down and explain things for the more difficult concept but overall her explanations made sense and were clear. She is also really eager to be helpful during office hour so go. Theres alot of calculus in this course (which is expected).
+
+--- Rating #3 ---
+Class: ECON301
+Date: 2013-08-13 15:18:10 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+You can tell Leanna is interested in this field but she does a terrible job of teaching.  Her nervousness keeps her from explain concepts well.  Seems like she is scatterbrained about certain topics and gets a lot of examples she does in class incorrect.  I needed to take this course, but wish it had been with another teacher. A lot of calculus.
+
+--- Rating #4 ---
+Class: ECON301
+Date: 2013-07-27 19:52:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+difficult class, but she unorganized, unclear in her exam and assignments questions, doesn't want to clarify, textbook is a better teacher, dont go to class read the textbook.

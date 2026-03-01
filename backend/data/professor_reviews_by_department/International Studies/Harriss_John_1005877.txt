@@ -1,0 +1,167 @@
+Professor: John Harriss
+Professor Legacy ID: 1005877
+Professor ID: VGVhY2hlci0xMDA1ODc3
+Department (CSV): International Studies
+Department (Fetched): International Studies
+Avg Rating: 3.4
+Avg Difficulty: 4.2
+Num Ratings: 12
+Would Take Again Percent: 100
+
+Ratings Count Returned: 12
+
+--- Rating #1 ---
+Class: IS451
+Date: 2019-01-17 23:57:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Harriss is the best prof I have had at SFU. He is extremely knowledgable and sharp, but still very kind and approachable. I learned more in his once class than I think I have in the rest of my first two years combined.
+
+--- Rating #2 ---
+Class: IS451
+Date: 2018-11-29 00:36:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Professor Harriss is a great professor. His lectures are well structured and helped a lot for the papers. While he is somewhat quirky, it is clear that he really cares about his students. That being said, you will have to work very hard in his class. This is the most intense class I've taken but it was worth it.
+
+--- Rating #3 ---
+Class: IS451
+Date: 2016-01-22 14:26:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He's a nice guy, very friendly and knowledgeable. A slow talker. He also isn't very helpful. He doesnt give criteria (because you shouldn't need instructions in 4th year) so I was trying to make sure I knew what to do, and he acted offended that I even asked. He barely talked about the assignment as if it wasn't even for marks.
+
+--- Rating #4 ---
+Class: IS313W
+Date: 2015-01-14 23:01:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+The workload was demanding for a 300 level course but if you put in the work, there is no reason why you should not do well. Professor Harriss is a fair marker, the expectations are clear, and he takes the time to help you if you need it. He is excellent at communicating material and also very accommodating toward his students. Highly recommend!
+
+--- Rating #5 ---
+Class: IS451
+Date: 2011-05-31 15:08:40 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He is extremely arrogant.  He obviously knows a lot but some people just are not born to teach.  He should stick to his research.
+
+--- Rating #6 ---
+Class: IS451
+Date: 2010-10-29 18:57:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+I've had Harriss for 101, 450 and 451. He's an articulate communicator and has extensive knowledge. He's friendly, and very helpful one on one. Lectures can be dry, but if you focus you get a lot out of them. I've never worked harder for a professor, but I've never learned so much either. If you can't put in the work, don't take IS.
+
+--- Rating #7 ---
+Class: IS451
+Date: 2010-07-12 13:09:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Although a challenging class, it is well worth the effort. Harriss is not head of the department for nothing. He is a wealth of knowledge and when utilized properly can teach so much. Don't blame him for your laziness.
+
+--- Rating #8 ---
+Class: IS00
+Date: 2010-01-20 23:13:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Great prof, tough marker, but it feels good when you get a good grade from him because you KNOW you deserved it.  Will take the time to listen to you if you take the time to do the work.
+
+--- Rating #9 ---
+Class: IS313W
+Date: 2009-11-20 19:10:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I like his lectures, not the seminars because he leaves no room for discussion or comments from students but keeps on talking himself. An extremely tough marker. What will easily get you an A on other courses will only qualify for a B and if you put in a LOT then maybe A-
+
+--- Rating #10 ---
+Class: IS409
+Date: 2009-06-05 23:41:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He's incredibly dry and arrogant.  Shows little enthusiasm towards his students.  Reading material is almost as dry as he is.
+
+--- Rating #11 ---
+Class: IS101
+Date: 2008-02-25 17:11:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+his lectures are SOOOOOOOO boring. Reading material just blows you off
+
+--- Rating #12 ---
+Class: IS101
+Date: 2007-11-13 00:04:35 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Great guy, slow class.

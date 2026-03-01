@@ -1,0 +1,76 @@
+Professor: Jeffrey Zurek
+Professor Legacy ID: 1555848
+Professor ID: VGVhY2hlci0xNTU1ODQ4
+Department (CSV): Earth Science
+Department (Fetched): Earth Science
+Avg Rating: 5
+Avg Difficulty: 1.2
+Num Ratings: 5
+Would Take Again Percent: -1
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: EASC104
+Date: 2012-08-24 12:21:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Good Prof
+
+--- Rating #2 ---
+Class: EASC104
+Date: 2012-08-24 12:19:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Midterms and finals were easy. Textbook and lectures were useless. Only need to look at lecture notes to do well in course.
+
+--- Rating #3 ---
+Class: EASC104
+Date: 2012-08-13 20:02:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Jeffrey's definitely the guy to take a course with! Lectures are very organized and informational. It is very easy to get a decent mark by just going to lecture and studying the lectures notes. Very little work is required for this course. His exams are super fair and he drops many hints in lectures! Simply amazing prof!
+
+--- Rating #4 ---
+Class: EASC104
+Date: 2012-08-01 18:01:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Jeff is without a doubt one of the best profs I have had at SFU.  Class is direct and no need to use the textbook if you attend regularly.  He drops lots of hints on what will be covered on exams(good mix of easy and thinking questions).  He is really down to earth, funny  and approachable.  Can not say enough nice things about him.
+
+--- Rating #5 ---
+Class: EASC104
+Date: 2011-03-31 22:45:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+It was Jeff's first semester teaching and he was great! Totally chill guy and a generous marker. If you need to take a science elective he's def the guy to take it with!

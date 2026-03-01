@@ -1,0 +1,232 @@
+Professor: Arvind Saraswat
+Professor Legacy ID: 2392437
+Professor ID: VGVhY2hlci0yMzkyNDM3
+Department (CSV): Environmental Science
+Department (Fetched): Environmental Science
+Avg Rating: 2.8
+Avg Difficulty: 2.2
+Num Ratings: 17
+Would Take Again Percent: 41.1765
+
+Ratings Count Returned: 17
+
+--- Rating #1 ---
+Class: EVSC300
+Date: 2022-12-06 05:22:55 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Sper easy course, I did quite literally about 4 hours of work after the first week of October for this course. But the prof is so monotone and boring about every topic except sustainable housing which he absolutely loves.
+
+--- Rating #2 ---
+Class: EVSC300
+Date: 2022-11-27 21:05:30 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He was ok, very very boring and dry lecturer. Lots of group projects with no guidelines but he marks them all super super easy.
+
+--- Rating #3 ---
+Class: EVSC395
+Date: 2022-11-25 07:11:26 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I was really looking forward to this course as air quality is his specialty but man was he ever a dry lecturer. The material had so much potential but it was just very monotone lectures with little emotion.
+
+--- Rating #4 ---
+Class: EVSC300
+Date: 2022-11-22 19:46:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This was the first class I have ever fallen asleep in. Evening class and he lectured us with no lecture slides for up to 1.5 hours and then having groups give 1-2 hours presentations was extremely hard to sit through as well as actually present. Most of your grade comes from the group term paper and group project presentation.
+
+--- Rating #5 ---
+Class: EVSC100
+Date: 2022-11-21 18:59:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Saraswat was extremely boring and monotone professor. The material had so much potential to be an awesome class but the way he taught it put the class to sleep. Very slow and uneventful teaching method and he just didn't seem that interested in teaching the class.
+
+--- Rating #6 ---
+Class: EVSC300
+Date: 2022-11-17 19:34:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Saraswat didn't give any grading criteria for anything and made our group paper and group presentation extremely stressful. Even if you asked for help he would be super vague which made it even harder to understand what he wanted. Take this course with Dr. Hippmann instead as she is fantastic and will make the course much more interesting
+
+--- Rating #7 ---
+Class: EVSC300
+Date: 2022-11-14 22:19:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Arvind lectures were so boring. Everyone was falling asleep. He would just walk around at the front of class for hours with no lectures slides and just talk about whatever came to his mind. There was no grading criteria, and everyone got the same marks in the end. The 1:45 hours presentation was also brutal.
+
+--- Rating #8 ---
+Class: EVSC300
+Date: 2022-11-14 21:53:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+For our group paper worth 40% of our mark and group presentation that was 1:45 hours long we had no criteria and no feedback and gave everyone the same mark except one group. The paper he told me "anywhere from 3-100 pages long.' He will also lecture for up to 2 hours straight with no breaks nor lecture slides which is just soooo much fun.
+
+--- Rating #9 ---
+Class: EVSC100
+Date: 2021-05-10 04:23:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Arvind's class was quite interesting, informative and wasn't challenging! His lectures can be boring but he'll always make an effort to answer students' questions. The midterm and final were quite fair and on the easier side. Would definitely take another class with him. Very knowledgable and passionate about the subjects he discusses.
+
+--- Rating #10 ---
+Class: EVSC300
+Date: 2021-01-20 19:34:14 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+I was disappointed by the lack of feedback we received for our assignments. It feels like he didn't put much effort in at all. I don't understand how we are supposed to learn and improve as students if we do not receive anything more than a percentage with no reasons given. This class had the potential to be interesting, but unfortunately was not.
+
+--- Rating #11 ---
+Class: EVSC300
+Date: 2020-12-30 01:04:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Arvind is a really kind and caring prof. Personally I would take another class with him in a heartbeat. He really has a lot of knowledge to share, but is also very receptive to feedback from students.
+
+--- Rating #12 ---
+Class: EVSC100
+Date: 2019-07-09 07:18:32 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Arvind is a very nice prof. It seems like he cares for his students but his lectures are very dull. He also takes a long time to get back the exam marks. The only assignments we had were in tutorial, 1 midterm and a final. Overall choose another prof for this course if you want it to be interesting. But for an easy A this may be the course.
+
+--- Rating #13 ---
+Class: EVSC100
+Date: 2019-04-23 01:29:49 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+A very caring prof but I found his lectures dull. He strives to make sure you understand the content. There is no homework, projects or papers. Only graded on exams and tutorials. Read his notes and exams are easy to pass. Being able to explain concepts and memorization is what gets you good grades in this class. There are no trick questions.
+
+--- Rating #14 ---
+Class: EVSC100
+Date: 2019-04-19 07:12:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is the most kindest and caring prof, really passionate about what he teaches and made the course so interesting. Do not need to buy a textbook, solely relying on his slides, and exams are really fair. I would love to take another class with him
+
+--- Rating #15 ---
+Class: D100
+Date: 2018-10-09 21:25:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+very easy course! gpa booster. exams are easy
+
+--- Rating #16 ---
+Class: EVSC100
+Date: 2018-09-01 02:19:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+i think he made the final easier than the midterm. he's a good guy. gpa booster especially if you take with saraswat.
+
+--- Rating #17 ---
+Class: EVSC100
+Date: 2018-07-28 03:56:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Lectures were informative and Dr. Saraswat really tries to engage the dead class by asking questions. Tutorials  easy 20% of overall grade. Try to do well on the midterm, because asides from that and tutorials, what's left is only the final exam. Easy course if you've done good in science 10 or are interested in environmental issues/concepts.

@@ -1,0 +1,76 @@
+Professor: Liang Cao
+Professor Legacy ID: 2578237
+Professor ID: VGVhY2hlci0yNTc4MjM3
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.2
+Avg Difficulty: 3
+Num Ratings: 5
+Would Take Again Percent: 80
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: EDUC471
+Date: 2023-03-30 03:38:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Great professor, easily accessible by either visiting office hours or sending emails, just don't send them late and make sure to put down the course name and number as subject and your question or assignment name. Mediocre marker, would not say was a tough marker or easy marker but had lots of discussions on canvas to reply to, had one every week.
+
+--- Rating #2 ---
+Class: CHIN100
+Date: 2022-03-14 23:17:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This professor is accessible outside of class time and wants the best for all his students. He's very clear on what we need to work on and will make sure we improve almost immediately.
+
+--- Rating #3 ---
+Class: EDUC471
+Date: 2021-12-17 08:50:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is okay as marking tutor. Never reply in the tutors office in discussion broad so you probably wanna sent him email rather than ask question in canvas. Fair marking.
+
+--- Rating #4 ---
+Class: CHIN100
+Date: 2021-04-16 01:47:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Nice teacher. The marking on the homework assignments was very lenient. Quizzes and tests should be okay as long as you do the textbook and homework exercises, and memorize the characters for the lessons.
+
+--- Rating #5 ---
+Class: EDUC341
+Date: 2020-08-18 20:50:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+tough grader, avoid if you can.

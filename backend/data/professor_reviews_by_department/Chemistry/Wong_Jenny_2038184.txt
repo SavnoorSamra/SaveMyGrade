@@ -1,0 +1,271 @@
+Professor: Jenny Wong
+Professor Legacy ID: 2038184
+Professor ID: VGVhY2hlci0yMDM4MTg0
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 2.4
+Avg Difficulty: 3.9
+Num Ratings: 20
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CHEM121
+Date: 2017-01-08 01:09:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Taught straight off of her slides and rarely did harder more exam-like examples during lectures. However, she's really helpful during labs and if you talk to her you'll find that she's super friendly and can be helpful if you attend her office hours
+
+--- Rating #2 ---
+Class: CHEM102
+Date: 2017-01-05 13:34:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She is actually a pretty good prof. most people complaining never went in for help or did not do well in high school chem. if you do your homework and listen in class, you will do fine. The final is hard but she didn't even write it, it is a standard SFU Chem final drawn from a bank of questions.
+
+--- Rating #3 ---
+Class: CHEM121
+Date: 2016-12-20 14:26:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Really helpful in lab if you had questions. Quizzes were  similar to homework. Gave out a formula sheet for the midterm and final exam.
+
+--- Rating #4 ---
+Class: CHEM121
+Date: 2016-12-17 16:19:32 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jenny is super nice and great to talk to about anything but chemistry. She reads off the lecture slides and doesn't explain concepts well. LonCapa was hard to complete and required asking for a lot of help from TAs. Midterm was very similar to LonCapa work but the final was brutal and based off a lot of concept instead of formulas. Try another prof
+
+--- Rating #5 ---
+Class: CHEM121
+Date: 2016-12-13 18:18:29 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very nice person but not the best at explaining things. Lectures were spent reading off the slides and writing a few notes for the examples. LONCAPA assignments were tough, but helped us learn for the exams. Labs were well structured and fair. Easy midterm, very difficult final. Overall she's not the best, but not the worst either.
+
+--- Rating #6 ---
+Class: CHEM121
+Date: 2016-12-09 03:15:00 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+overall jenny is a good person and easy to talk too. Midterms and Final was far different from review and what we learned in class. Her m/c was brutal and lectures question were far different from loncapa hw. Loncapa was hard and annoying
+
+--- Rating #7 ---
+Class: CHEM121
+Date: 2016-12-07 22:30:54 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Seems like a happy-go-lucky person but reads off lecture slides and horrible at explaining when you ask for help. Would not recommend unless you like self learning/teaching. Attendance (apart from labs) isn't counted and lectures posted online. Final was around 70 Q but worth 50% of your grade :/
+
+--- Rating #8 ---
+Class: CHEM121
+Date: 2016-12-07 22:28:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Jenny seemed like a cool person, but her abilities as a prof were lacking. Lectures were bland and she just read off the slides. Even in labs we were not allowed to ask for help. The final exam was brutal, it was all based on one lecture and 80% theory. I would not recommend Jenny as a prof.
+
+--- Rating #9 ---
+Class: CHEM121
+Date: 2016-12-07 22:13:45 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jenny is a pretty entertaining prof, but the homework assignments were a lot especially when you has labs the same week. The reviews for the final and midterm had some similar questions but the majority were different. Made it difficult to study for.
+
+--- Rating #10 ---
+Class: CHEM121
+Date: 2016-12-07 00:02:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jenny made my first semester in Uni a little easier. I generally struggle with chem but due to her very entertaining lectures and excellent ability to explain and work through problems It was a little easier. Jenny provided practice questions that were actually similar to midterm and finals. She actually cares and gets to know you if you try.
+
+--- Rating #11 ---
+Class: CHEM122126
+Date: 2016-12-03 02:47:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is by far the worst prof ever. She is not helpful at all. During labs she would not answer any questions regardless. When you ask her a questions during office hours she would "smirk" making you feel dumb... As for exams- midterms were EASY, however 122 final and 126 final were BRUTAL .. avoid her like the plague.
+
+--- Rating #12 ---
+Class: CHEM122
+Date: 2016-07-14 19:12:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Worst prof I've had at SFU so far! Her lectures are BORING, she just reads off the slides, your better off teaching yourself. If you ask her a question she looks at you like she doesn't know what's going on and ends up giving an answer that has nothing to do with what you asked. Midterm was really easy but final was brutal. AVOID AT ALL COSTS!!!
+
+--- Rating #13 ---
+Class: CHEM126
+Date: 2016-05-12 01:49:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+never take this course with jenny wong, the labs are tough and she will not help you and tell you to read your lab manual, final was extremely terrible (33 mc) and she does not tell you what will be on it/what to expect, every question i asked her she could not answer and stared at me as if i was stupid, just don't even bother with her...
+
+--- Rating #14 ---
+Class: CHEM122
+Date: 2016-04-21 23:51:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She seems like a nice person but her lectures were terrible. They were not engaging, and even attending lectures did not help me learn She's so unclear. Doesn't even tell you how many questions to expect on midterms and finals Wish she was a little nicer.
+
+--- Rating #15 ---
+Class: CHEM122
+Date: 2016-04-20 22:58:29 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+If you get to know her, she's actually not that bad and if you ask her for help she is willing to help you as long as you show her that you're willing to work. Yes it is her first time teaching the class and her style of teaching may not agree with your way of learning but the material isn't extremely difficult anyways
+
+--- Rating #16 ---
+Class: CHEM122
+Date: 2016-04-18 15:08:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+The lectures were only 50 minutes long but felt like eternity. Worst prof I've ever had, brand new, just got out of school. Not respected by students. Lectures were completely useless and I've self taught everything. Had her for 122 and 126
+
+--- Rating #17 ---
+Class: CHEM126
+Date: 2016-03-02 00:05:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Good Prof. I liked her teaching style. Very helpful when I went to her office hours and she was able to clearly explain the chemistry concepts I needed help with.
+
+--- Rating #18 ---
+Class: CHEM126
+Date: 2015-12-16 02:47:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Jenny is one of those profs who takes pleasure in watching students struggle, and makes the semester way harder than it needs to be. She is no help whatsoever, didn't teach a single topic, and when you ask her for help she is super sarcastic and tells you to go read your lab manual. One of the worst profs out there.  No formula sheet for final exam
+
+--- Rating #19 ---
+Class: CHEM126
+Date: 2015-12-15 11:04:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+She is not a very helpful instructor. Most of the course content must be self taught and she is not willing to help with understanding the material.
+
+--- Rating #20 ---
+Class: CHEM126
+Date: 2015-12-11 12:49:52 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Lots of work in this course overall, and it is very confusing if you do not do the readings and come prepared! Unfortunately the TA's are not much help either.

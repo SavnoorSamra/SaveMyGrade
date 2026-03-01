@@ -1,0 +1,272 @@
+Professor: Paul Li
+Professor Legacy ID: 479451
+Professor ID: VGVhY2hlci00Nzk0NTE=
+Department (CSV): Chemistry
+Department (Fetched): Chemistry
+Avg Rating: 3.2
+Avg Difficulty: 2.8
+Num Ratings: 70
+Would Take Again Percent: 56.7164
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: 210
+Date: 2025-04-29 03:48:05 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Li is a nice guy who has unfortunately completely given up on teaching. Bro simply does not care. I pray for any future takers of the classes he teaches that he retires soon.
+
+--- Rating #2 ---
+Class: CHEM121
+Date: 2025-04-19 07:25:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+love paul li, take any chem course with him and you will succeed. he will take the time to teach you content if you go to his review sessions before an exam. don't stress to impress.
+
+--- Rating #3 ---
+Class: 210
+Date: 2025-04-08 21:52:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great Prof!
+
+--- Rating #4 ---
+Class: CHEM121
+Date: 2025-04-06 08:17:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great Guy, yes I know some students have mixed feelings, however I would like to emphasize how caring he was during office hours and his exams were not bad if you just went to lectures, east peasy lemon squeeze - jasper wong
+
+--- Rating #5 ---
+Class: CHEM121
+Date: 2024-12-17 07:41:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Take it right now!
+
+--- Rating #6 ---
+Class: CHEM122
+Date: 2024-12-17 07:40:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+I only got a bad mark because I wasn't studying enough! But he is so kind!
+
+--- Rating #7 ---
+Class: CHEM122
+Date: 2024-12-17 07:39:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Love him soooo much!
+
+--- Rating #8 ---
+Class: CHEM122
+Date: 2024-12-17 07:38:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I loved that this class was so clear! He is amazing!
+
+--- Rating #9 ---
+Class: CHEM121
+Date: 2024-09-10 00:16:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Terrible lectures as he will drone on and on and they are exceptionally boring to listen to.
+However, his tests are fair and it is possible to do well on all of them. Homework and tutorials make up a good portion of the marks and most of the learning can be done through them instead of going to lecture.
+
+--- Rating #10 ---
+Class: CHEM121
+Date: 2024-08-30 03:46:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor Li was really helpful during lectures as he went through examples that would end up showing up on exams, make sure to attend all his lectures. He was always super responsive in his emails and his exams were fair game. The class average for his chem class was higher than any other chem class, expect weekly  assignments to take a few hours.
+
+--- Rating #11 ---
+Class: CHEM121
+Date: 2024-08-19 23:45:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Attendance rates were at about 30% for lectures. He refuses to buy a tablet and spends his time trying to draw with a mouse. He is fairly knowledgeable about chemistry, but I felt most of his teaching was him trying to impress us with his knowledge of "special relativity". His English isn't good. However the assignments/exams weren't difficult.
+
+--- Rating #12 ---
+Class: CHEM121
+Date: 2024-08-16 22:01:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Paul Li's lectures are not helpful at all. The worse is that he goes through theory and history which isn't needed. It would be better to have lectures mainly based on questions which can further prepare for the exam. I would recommend to use the textbook and LON-CAPA instead of his lectures. Overall, maybe do it with another prof.
+
+--- Rating #13 ---
+Class: CHEM121
+Date: 2024-08-14 16:40:00 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Paul Li's lectures were by far the worst lectures I have ever attended. If you want to make good use of your time, skip lectures and read textbook. His good points are that he follows the given textbook VERY closely and that the mid term and final pulls questions from textbook, lon capa and tutorials, so his examinations were actually overall fair.
+
+--- Rating #14 ---
+Class: CHEM121
+Date: 2024-08-14 00:04:56 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Paul is a funny guy who is very knowledgeable about random things. However, I remember more random useless information from Paul then what is actually relevant to class. I don't recommend attending lectures unless you want to have a good laugh. Paul desparately needs an iPad as he write solutions to questions with his PC mouse.Prepare to self study
+
+--- Rating #15 ---
+Class: CHEM121
+Date: 2024-08-09 23:30:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures are not worth going to, plenty of mistakes in his solutions, focuses too much on some sections while skimming others. Only redeeming factor was how fair the midterm was. Final is much harder as alot of content post midterm is completely separate, and the given formula sheet is absolutely useless. Try to avoid.
+
+--- Rating #16 ---
+Class: CHEM121
+Date: 2024-08-09 19:34:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Paul can't explain concepts clearly and concisely in an engaging way. Memorize your formulas because the ones he gives you on the formula sheet really aren't going to help you on the final... There's no written questions on exams; so say goodbye to part marks. Practice material he gave didn't really help much either for the final.
+
+--- Rating #17 ---
+Class: CHEM121
+Date: 2024-08-01 22:20:17 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He needs to invest in a pen so he can stop trying to draw with his mouse on his computer. He takes too long to get to certain concepts and when he explains theories we need to know, he breezes over them. At this point the textbook can teach you better.
+
+--- Rating #18 ---
+Class: CHEM121
+Date: 2024-07-12 02:49:16 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Midterm was fair, questions were very similar to assignments & practice questions. Paul is a nice guy but his lectures were not worth attending.
+
+--- Rating #19 ---
+Class: CHEM122
+Date: 2024-05-10 19:04:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+w prof (chem 121)
+
+--- Rating #20 ---
+Class: 210
+Date: 2024-01-25 04:30:35 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Mistakes all over lecture slides and assignments.

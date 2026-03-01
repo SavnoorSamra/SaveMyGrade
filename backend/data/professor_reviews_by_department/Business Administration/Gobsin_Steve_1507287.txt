@@ -1,0 +1,11 @@
+Professor: Steve Gobsin
+Professor Legacy ID: 1507287
+Professor ID: VGVhY2hlci0xNTA3Mjg3
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

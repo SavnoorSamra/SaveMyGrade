@@ -1,0 +1,63 @@
+Professor: Vasiliki Spiliotopoulos
+Professor Legacy ID: 2265869
+Professor ID: VGVhY2hlci0yMjY1ODY5
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 3.5
+Avg Difficulty: 2.8
+Num Ratings: 4
+Would Take Again Percent: 50
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: LLED360
+Date: 2021-09-05 20:59:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Valia knows her subject very well both theoretically and practically. She has a lot of experience in the field and is a very knowledgeable instructor.
+
+--- Rating #2 ---
+Class: LLED360
+Date: 2020-12-04 02:24:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Valia pretends she knows about teaching in public schools while she has obviously never taught in the public system. She knows absolutely nothing about pedagogy, or practical applications of the content of her classes. She is a classic north american professor who pretends to care but doesn't really.
+
+--- Rating #3 ---
+Class: BUS217W
+Date: 2019-06-12 19:30:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Even though Dr. Spiliotopoulos mainly teaches EDUC courses in SFU, I took BUS217W with her and really enjoyed the course. The way she teaches the material is really accessible to both domestic and international students. The final and assignments are fair, but take a lot of time, so do not underestimate this course!
+
+--- Rating #4 ---
+Class: EDUC252
+Date: 2017-06-14 14:04:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Lectures were often unfocused but class discussions were well led and interesting. Weekly readings were required and often hard to understand. Group work based on case studies was submitted every 2 weeks or so. Final portfolio requirements were very unclear with changing descriptions and instructions.

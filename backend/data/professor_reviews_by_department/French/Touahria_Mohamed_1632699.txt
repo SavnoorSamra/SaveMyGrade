@@ -1,0 +1,89 @@
+Professor: Mohamed Touahria
+Professor Legacy ID: 1632699
+Professor ID: VGVhY2hlci0xNjMyNjk5
+Department (CSV): French
+Department (Fetched): French
+Avg Rating: 3.4
+Avg Difficulty: 2.3
+Num Ratings: 6
+Would Take Again Percent: -1
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: 221
+Date: 2015-06-29 17:22:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Tough marker and is not there for the students, don't bother asking for help.
+
+--- Rating #2 ---
+Class: FREN210
+Date: 2015-03-15 20:52:28 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+dislikes helping students
+
+--- Rating #3 ---
+Class: FREN211
+Date: 2014-01-04 17:43:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Great prof! He's organised and enthusiastic and always available for help. His lessons are clear and assignments are fairly easy.
+
+--- Rating #4 ---
+Class: FREN100
+Date: 2013-01-16 23:28:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+AWESOME PROF! Absolutely love him. If you have previous french language experience it is such an easy peasy course. I barely used the textbook actually I never even touched my text until before a quiz/exam. That being said, I had studied french several years but def friendly and easy!! LOVE HIM
+
+--- Rating #5 ---
+Class: FREN210
+Date: 2011-12-04 20:46:22 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Gets along with students well, but his teaching is a little unorganized. Very little work (might be good to do some vocab drill and review grammar on your own) and he marks fairly.
+
+--- Rating #6 ---
+Class: FREN221
+Date: 2011-10-28 13:37:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Mohamed is a fantastic prof! He is adorable and kind of awkward. He loves the French language and is hilarious! Particularly when he tries to explain things in English (doesn't go well). He marks really easy and there are hardly any assignments- the ones that he does assign are rare and only take about a half hour to complete. Awesome prof!!!

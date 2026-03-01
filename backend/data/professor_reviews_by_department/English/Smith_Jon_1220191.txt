@@ -1,0 +1,272 @@
+Professor: Jon Smith
+Professor Legacy ID: 1220191
+Professor ID: VGVhY2hlci0xMjIwMTkx
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 3.8
+Avg Difficulty: 3.4
+Num Ratings: 69
+Would Take Again Percent: 77.2727
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENGL349
+Date: 2025-08-25 04:24:29 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is honestly not a great prof and he will brag about it! He marks based off of what he thinks is right, not if the paper is actually well written. His feedback is not great, his lectures are go with the flow (even though there is an exam), and his grading criteria is MIA. He also just will not teach you anything so do not expect to learn.
+
+--- Rating #2 ---
+Class: ENGL411
+Date: 2025-08-13 19:27:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His classes are funny and engaging- he's clearly super knowledgeable and goes on many tangents without being pretentious. Attendance and participation is important. He's one of the very few English profs at SFU that values and welcomes disagreement, and does not expect students to blindly adopt his ideologies. Values good arguments.
+
+--- Rating #3 ---
+Class: ENG383
+Date: 2025-04-10 07:14:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Jon Smith is one of the best English professors at SFU in my opinion. Write a solid essay and you'll get solid feeback. His lectures are enjoyable and he's knowledgeable about what he teaches.
+
+--- Rating #4 ---
+Class: ENGL210
+Date: 2025-02-06 18:53:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I loved Jon's lectures because he is so knowledgeable about American history and made everything very digestible with humour and anecdotes. Very straightforward essays and final exam. 5 required texts, but they were all super interesting! Show up and take good notes and you will be good!
+
+--- Rating #5 ---
+Class: ENGL210
+Date: 2025-01-21 18:26:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Jon is one of the best lecturers I've ever had the privilege of listening to. Surprisingly, he doesn't like the lecture format himself, but he's an incredible speaker. His lectures were incredibly insightful and invaluable when it came to studying alone. He really knows his stuff and I hope I will get to take another course with him.
+
+--- Rating #6 ---
+Class: ENGL111W
+Date: 2024-12-19 08:20:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Jon  is an awesome prof. His exams  while not easy, are very passable as long as you attend lecture and focus on textual evidence of the close readings he gives. I also had an amazing TA (shoutout Belle), which while unfortunate your TA definitely dictates how well/ how much you like the class. Jon is so great that I'm taking another of his classes
+
+--- Rating #7 ---
+Class: ENGL385
+Date: 2024-09-03 07:56:25 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Easily one of the best profs I've had. Super great prof and even better person, really fun and caring. Heavy reading load and class is discussion based so make sure to be caught up on your readings. Super fair grader!
+
+--- Rating #8 ---
+Class: ENGL385
+Date: 2024-08-16 03:37:42 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures were hard to follow, hard to pinpoint the most important things. Enjoyed his enthusiasm, good with letting everyone speak if desired. Reading pace is fast (too fast IMO) but I loved the book selection. Easy grader from my experience, straightforward midterm (final tbd). He wouldn't be my first choice but I would still take his class again!
+
+--- Rating #9 ---
+Class: ENGL111W
+Date: 2024-07-25 20:13:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jon was one of the coolest profs I've taken, especially considering it was my first English course at SFU. The books were amazing, TAs were amazing, and Jon was always willing to converse. I'm taking another course of his this semester, and I know I won't regret it. Take one of his courses if you get the chance!
+
+--- Rating #10 ---
+Class: ENG484
+Date: 2024-02-28 03:21:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I really enjoyed Jon's lecturing style however I found it quite difficult to keep up with how much we had to read considering a full course load.
+
+--- Rating #11 ---
+Class: ENGL111W
+Date: 2024-02-27 05:22:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+If I could take this course again, I absolutely would. Jon is an amazing prof and especially for someone just starting off at SFU, this course was so much fun. He also encourages discussion and participation which is really helpful when understanding various texts. You won't regret taking this course!
+
+--- Rating #12 ---
+Class: ENGL111
+Date: 2024-01-09 07:55:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Comes off as simultaneously kind and rude (tough front but a nice guy). Reasonable prof. You have to put in work for the readings but hey, it's an English class. Worst part about him as a prof is that he talks quickly about many different things (hard to keep up with), and lectures aren't recorded. But I liked the course and am glad I took it.
+
+--- Rating #13 ---
+Class: ENGL111W
+Date: 2023-12-21 06:15:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Jon is a pretty decent prof. He kept the midterm and final to content he mentioned in lecture so attending them and taking notes while you're there is important. The paper was also not that difficult. My hand hurt after all the writing for the final but at least he handed out timbits every hour of it lol.
+
+--- Rating #14 ---
+Class: ENGL111W
+Date: 2023-12-19 22:27:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+It was a horrible final exam. Level of difficulty is ridiculously high for 1st year course. Easy miderm. He does not post anything.. i mean anything on canvas. Not even the assignment rubric. Good luck.
+
+--- Rating #15 ---
+Class: ENGL111W
+Date: 2023-12-17 22:42:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Jon is an amazing prof, he cares about his students getting enough information for exams. Satanic verses was a hard read, even for those who read a lot. The thing i hate is that you can end up with a terrible TA. My TA was incredibly rude to people in the class (not Jon's fault but just a heads up). Don't take if you hate participating.
+
+--- Rating #16 ---
+Class: ENGL111W
+Date: 2023-12-08 05:14:57 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor Smith is engaging. The course is heavily based on the lectures so make sure you pay attention to the specific passages that he mentions. as for tutorials, I personally think that everything is fairly marked. the readings are heavy and boring, however if you pay attention in the lectures, they aren't too important. tests are easy.
+
+--- Rating #17 ---
+Class: ENGL111W
+Date: 2023-12-08 02:38:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Jon is a guy who well-respects his students, and you can clearly tell he just wants whats best for you. However, he sometimes gets distracted by random topics that he may think are relevant to his lecture. He's got some good humour if you're into dry humour, and he makes class entertaining. But lectures are mandatory because the exams are lec based
+
+--- Rating #18 ---
+Class: ENGL111W
+Date: 2023-11-23 23:57:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+he's so boringggg!!! does not post anything on canvas so if you miss a class good luck for the essays. Midterms easy but marks are ridiculously hard for a first-year course. He acts very entitled
+
+--- Rating #19 ---
+Class: ENGL111W
+Date: 2023-10-27 02:15:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I really enjoy his lecture most of the time, but he's definitely extremely pretentious. Thinks very highly of himself, and doesn't hesitate to impose his superiority over his first year classes. 
+Might be better for this guy to stick to teaching higher level classes, because those students maybe he would view as real, intelligent, people.
+
+--- Rating #20 ---
+Class: ENG383
+Date: 2023-08-16 16:21:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Smith was a delight! I took his class on Popular Literature and Culture, with a focus on the TV Show Buffy the Vampire Slayer). Dr. Smith is a passionate professor and made a 4-hour evening seminar quite enjoyable and insightful. As someone who is not an English major, I deeply valued his feedback on my papers, although his comments were blunt.

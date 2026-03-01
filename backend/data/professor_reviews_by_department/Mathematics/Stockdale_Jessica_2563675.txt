@@ -1,0 +1,233 @@
+Professor: Jessica Stockdale
+Professor Legacy ID: 2563675
+Professor ID: VGVhY2hlci0yNTYzNjc1
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.1
+Avg Difficulty: 2.9
+Num Ratings: 17
+Would Take Again Percent: 64.7059
+
+Ratings Count Returned: 17
+
+--- Rating #1 ---
+Class: MATH152
+Date: 2025-05-29 05:26:38 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Very tough grader
+Accessible out of class
+
+--- Rating #2 ---
+Class: MATH208W
+Date: 2024-05-26 20:15:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I highly suggest operation research with this prof. Although she may speak a little bit fast, but her notes are great and supports every assignments you do. There's a group project, so be prepared. Everything in her course are easy to follow.
+
+--- Rating #3 ---
+Class: MATH152
+Date: 2020-11-12 03:55:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A lot of self-reviewing. The material was hard for me, and she went through the lecture really fast, but it's not really her fault since there are only 50 min. But her explanations were really confusing sometimes.
+
+--- Rating #4 ---
+Class: MATH152
+Date: 2020-07-20 06:10:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Jessica is actually a good prof, even though she's new. She's very understanding even during a pandemic, and is clear and helpful when she teaches. I don't really understand why people are rating her really low, but she's a really good prof. However, the quizzes and exams are tough, but if you actually do the HW, you'll be fine
+
+--- Rating #5 ---
+Class: MATH152
+Date: 2020-04-19 00:57:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Definitely cares about success of students. Lectures are good, her notes are clear and she makes efforts to explain things in &quot;plain english&quot; which is appreciated. She is a reliable choice, I have no complaints.
+
+--- Rating #6 ---
+Class: MATH152
+Date: 2020-04-18 22:10:34 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Prof. Stockdale cares about her students, this is her first time teaching at SFU. Her notes are decent, though it's wordy, she tries to explain in the easiest way possible (in plain english) when she can. However, sometimes she does go a little overboard with the wordiness. Best is to keep it in short summarized (don't need perfect grammar)
+
+--- Rating #7 ---
+Class: MATH152
+Date: 2020-04-10 16:07:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A few people have written bad reviews for Professor Stockdale, but I think she's great. She explains the key concepts to you well and answers questions throughout the lecture (she doesn't make you feel stupid for asking). I've talked to her at the Calculus Workshop a few times and each time she is super open to answering my question. Overall great
+
+--- Rating #8 ---
+Class: MATH152
+Date: 2020-04-09 23:53:19 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She means well but is not that good at thoroughly explaining topics. I found myself watching videos that were shorter than lectures and learning more.
+
+--- Rating #9 ---
+Class: MATH152
+Date: 2020-03-29 03:38:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I find she does a really thorough job of going over the main points of the section's content in each lecture. That being said it's only a 50 minute lecture so she obviously can't cover every detail so the textbook is a useful resource. The course material itself is definitely quite challenging but I find her to be a very good teacher and very nice.
+
+--- Rating #10 ---
+Class: MATH152
+Date: 2020-03-06 19:33:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I've seen many of the reviews and people gave pretty bad reviews, but in my own opinion she makes calculus 2 not as bad as it seems. Though it's her first time teaching a math class shes not bad, she gives us most important material that we need to know. Quiz's are easy, it's just questions straight from the textbook/webassign, nothing too complex.
+
+--- Rating #11 ---
+Class: MATH152
+Date: 2020-02-12 19:00:48 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She's just an average math teacher, nothing spectacular. I do find that she does sometimes rush near through the notes at the end of class, so that's one bad thing about her. Oh and I forgot to mention, she tends to over-explain simple concepts and under-explains more important ones, so that's something she should work on.
+
+--- Rating #12 ---
+Class: MATH152
+Date: 2020-02-11 20:16:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She is not a good teacher. She will teach like half of the notes, then you need to go home and basically teach yourself. Also, dont bother trying to put your hand up. She never looks up to answer questions. If you want to pass, watch Jamie Mulhollands videos online. She copies his notes anyways, and all she does is make them worse.
+
+--- Rating #13 ---
+Class: MATH152
+Date: 2020-02-07 22:42:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Outlines criteria very well. Lectures move quickly, but she summarizes everything she wants you to know for the test at the end of the unit. Check the test review material she gives to do well. Really friendly professor.
+
+--- Rating #14 ---
+Class: MATH152
+Date: 2020-01-27 17:06:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+she uses a pen and paper for notes which makes it really hard to see, and it doesn't help that she goes really fast. she talks the whole time never looking up and just copying her notes. she a nice person, just not very organized :/
+
+--- Rating #15 ---
+Class: MATH152
+Date: 2020-01-27 04:19:57 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is okay, nothing really special other than her accent. She goes really fast through the notes during class so be prepared for a straight 50 mins of math. Quizzes are taken straight from the homework. Good Luck!
+
+--- Rating #16 ---
+Class: MATH152
+Date: 2020-01-20 23:51:53 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures could be done on something electronic rather than on pen and paper.
+
+--- Rating #17 ---
+Class: MATH152
+Date: 2020-01-10 05:50:59 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures goes too quickly for some people to follow. Needs to work on her pacing.

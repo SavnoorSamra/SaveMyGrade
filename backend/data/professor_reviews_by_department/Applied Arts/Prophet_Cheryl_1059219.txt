@@ -1,0 +1,76 @@
+Professor: Cheryl Prophet
+Professor Legacy ID: 1059219
+Professor ID: VGVhY2hlci0xMDU5MjE5
+Department (CSV): Applied Arts
+Department (Fetched): Applied Arts
+Avg Rating: 3.3
+Avg Difficulty: 2.6
+Num Ratings: 5
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: CA129
+Date: 2020-12-26 09:56:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Cheryl is an ok prof, for sure has her favorites which actually impacts your grade; make sure you get on her good side and do everything she wants as she asks or else you might not end up with the best grade. Overall a nice person and caring but her favoritism does influence your grade a great deal.
+
+--- Rating #2 ---
+Class: CA129
+Date: 2020-12-16 08:46:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Compared to the past reviews, Cheryl seems like she has changed a lot! She cares about her students and considered our health while taking classes during Covid. I really enjoyed her yoga and pilates classes, and really learned a lot about the muscles and bones in the body. Quality class, great to stay after class so she can get to know you!!
+
+--- Rating #3 ---
+Class: FPA122
+Date: 2017-07-19 00:47:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Cheryl seems very docile in class but grades difficulty and is extremely unclear in her demonstration and grading justification. Combos were boring but graded hard. Her first impression of you never really goes away and influences how she treats you. Kind of pretentious. A required prof at SFU dance but I couldn't wait to be done her class.
+
+--- Rating #4 ---
+Class: FPA101
+Date: 2009-06-03 21:15:14 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Cheryl is a concerned and caring prof, and she knows dance technique inside out. She can be impatient with people who don't 'get it' sometimes, but she's tireless. She's approachable and easy to talk to outside class, too.
+
+--- Rating #5 ---
+Class: FPAFPA
+Date: 2008-07-23 17:37:27 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Cheryl is an extremely lovely person who genuinely cares about her students. However, she is a terrible dance teacher.  Her demonstrations are unclear and then she gets frustrated with her students for not knowing what she wanted.  Learned more from conversations with her outside of class than i did from anything we did in class.

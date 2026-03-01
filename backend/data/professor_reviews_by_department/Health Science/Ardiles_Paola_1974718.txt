@@ -1,0 +1,102 @@
+Professor: Paola Ardiles
+Professor Legacy ID: 1974718
+Professor ID: VGVhY2hlci0xOTc0NzE4
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 3.7
+Avg Difficulty: 3.6
+Num Ratings: 7
+Would Take Again Percent: 60
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: HSCI855
+Date: 2023-05-26 19:00:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Nice enough person sometimes but you don't really learn anything you can really use outside the classroom. A lot of theory and politics in the class. Frequent use of breaks can get annoying because it cuts into the time for learning.
+
+--- Rating #2 ---
+Class: HSCI449
+Date: 2022-12-07 23:03:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+BEST PROF EVER! Definitely recommend this class. Gave very clear grading rubric, & classes were very engaging. Participation matters, but is very accommodating with accessibility needs, & allows you to participate online if it's too difficult to do in person. Very accessible outside of class, & very supportive of students future studies/careers!
+
+--- Rating #3 ---
+Class: HSCI449
+Date: 2022-04-11 02:38:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Uses 10 words when 1 word will do, assignments were a bit weird like journaling. Course is more or less paying tuition to do volunteer work to solve a social problem with an organization she recommends but doesn't really know about. Can take a while to get her by email and even then she is not always helpful. Too bad as the course concept is neat.
+
+--- Rating #4 ---
+Class: HSCI855
+Date: 2018-10-31 21:41:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+No other professor like her! Paola is the absolute best. Kind, attentive, social, knowledgeable and empathetic. She genuinely cares about her students and makes visible effort to see that they succeed! Class activities are so interesting and engaging and you leave everyday knowing you have gained so much . I highly recommend this class!!
+
+--- Rating #5 ---
+Class: HSCI449
+Date: 2017-04-07 13:36:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+My favourite prof at SFU by far! I had the best time in her class, which was seminar format. She encourages students to take active participation in the classroom rather than creating a barrier between her and her students (like most profs do). She creates a positive learning environment.. incorporates a variety of activities to make the class fun!
+
+--- Rating #6 ---
+Class: 8303
+Date: 2015-01-09 19:15:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is one of the best profs I've ever had! DO pay attention in class.
+
+--- Rating #7 ---
+Class: 8303
+Date: 2015-01-08 14:03:17 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+loved this class!

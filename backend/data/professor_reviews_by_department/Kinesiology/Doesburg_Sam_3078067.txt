@@ -1,0 +1,11 @@
+Professor: Sam Doesburg
+Professor Legacy ID: 3078067
+Professor ID: VGVhY2hlci0zMDc4MDY3
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

@@ -1,0 +1,37 @@
+Professor: Nadia Gill
+Professor Legacy ID: 1719192
+Professor ID: VGVhY2hlci0xNzE5MTky
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 4.8
+Avg Difficulty: 1.5
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: EDUC324
+Date: 2012-07-17 15:02:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Nadia is very knowledgeable, engaged, and passionate about the subject.  It made going a treat compared to "something you have to do".
+
+--- Rating #2 ---
+Class: EDUC324
+Date: 2012-05-04 15:44:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Nadia is one of the best professors you will ever have. If you are someone that is interested in understanding systems of oppression and its influence on individuals then this is the reflexive class you have been looking for. I highly recommend this class. Just do the readings and pay attention and you are guaranteed an A.

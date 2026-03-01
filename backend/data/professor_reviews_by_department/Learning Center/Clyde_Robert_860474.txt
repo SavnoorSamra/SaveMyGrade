@@ -1,0 +1,11 @@
+Professor: Robert Clyde
+Professor Legacy ID: 860474
+Professor ID: VGVhY2hlci04NjA0NzQ=
+Department (CSV): Learning Center
+Department (Fetched): Learning Center
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

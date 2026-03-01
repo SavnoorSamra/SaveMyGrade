@@ -1,0 +1,76 @@
+Professor: Shawn Ireland
+Professor Legacy ID: 1229525
+Professor ID: VGVhY2hlci0xMjI5NTI1
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 1.8
+Avg Difficulty: 3.6
+Num Ratings: 5
+Would Take Again Percent: 0
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: BUS100
+Date: 2021-12-11 20:10:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He doesn't explain the instructions well. Doesn't provide feedback, and his class isn't well organized. If you want to learn about the subject avoid taking lessons with him
+
+--- Rating #2 ---
+Class: MGMT403
+Date: 2014-11-03 16:39:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+wort professor ever. He is not helpful and he doesnt give people chances. If he wants u to fail he will make you fail.
+
+--- Rating #3 ---
+Class: BUS272
+Date: 2012-04-11 22:24:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Not sure if you attended the same class. Made you work hard but fair in feedback and grade
+
+--- Rating #4 ---
+Class: BUS488
+Date: 2011-04-07 21:26:28 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Extremely unorganized and never emails you back even after reading them (or so he says). I have learned nothing over the course of this semester. Unable to justify his marking (letter grade). Should not be a professor. An embarrassment to SFU.
+
+--- Rating #5 ---
+Class: BUS272
+Date: 2008-12-16 02:51:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Doesn't teach. always finishes the class half-1 hour before 2 hours is up. doesn't reply to emails. doesn't show up on midterm and final exams. very irresponsible.  he also requires us to read an additional boring book...

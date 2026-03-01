@@ -1,0 +1,271 @@
+Professor: Amin Milani Fard
+Professor Legacy ID: 2287109
+Professor ID: VGVhY2hlci0yMjg3MTA5
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.5
+Avg Difficulty: 3.1
+Num Ratings: 20
+Would Take Again Percent: 95
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS465
+Date: 2021-11-19 18:19:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+It is currently my last semester at SFU and I am so grateful that I was able to enroll in Amin's BUS 465 course as a final goodbye to SFU. Along with being the most understanding professor, he is very knowledgeable and one of the most technical professors I have met. Overall 10/10 professor!! Thank you, Amin!
+
+--- Rating #2 ---
+Class: BUS465
+Date: 2020-12-14 19:03:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Course content is a bit technical but he only tests you on the basics stuff, lab assignments are so easy it takes 5 minutes to complete, and he's easy on marking assignments and exams. One of the most enjoyable group project since he let's you make any web app you want, and teaches you basic HTML, CSS, JS, PHP, MySQL, etc.
+
+--- Rating #3 ---
+Class: BUS465
+Date: 2019-01-16 21:20:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I took 2 classes with Amin and learned a lot of useful skills from both! He is laid back and grades fairly, but averages tend to be super high. Regardless, easy A if you do above average. His exams can get more technical because his background is CMPT so bonus if you have previous experience. Overall he's one of my favorite profs at SFU :D
+
+--- Rating #4 ---
+Class: BUS465
+Date: 2018-12-19 18:56:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Amin is very personable, however he should not be teaching in the business faculty. He did not differentiate the marks at the end of the semester, and literally gave everyone the same grades on all the assignments and projects regardless of individual effort. He skips over important concepts in lecture, and can be condensending.
+
+--- Rating #5 ---
+Class: BUS462
+Date: 2018-08-16 21:25:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Amin is a very nice guy and he wants you to succeed. You get to learn a lot of useful material throughout the term. Prepare for power assignments in advance and do some practice exams before final.
+
+--- Rating #6 ---
+Class: BUS492
+Date: 2017-12-19 17:25:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Eloquent speaker that really gets you thinking. Super respectful prof who encourages questions and gives plenty of feedback to any comments/concerns raised in class. Summarizes key concepts well in each lecture. Exams are fair. Questions are based off of the lecture readings.
+
+--- Rating #7 ---
+Class: BUS492
+Date: 2017-12-16 00:27:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Sit down and buckle up! This is a crash course on JavaScript, CSS, HTML, PHP, and MySQL geared towards business students with no formal training. Amin did a great job of squeezing this rigorous curriculum altogether into a fast-paced learning environment. If you like a challenge and you're great at problem solving, this is the prof for you.
+
+--- Rating #8 ---
+Class: BUS462
+Date: 2017-12-15 01:18:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Wouldn't say it's easy, the course is designed to be technical, but this Prof is super nice with help if you ask for it. Not only he's helpful, but he understands the pains of students and keeps on trying to find ways to alleviate them. The prof has a cmpt and data background, so don't expect your usual business prof.
+
+--- Rating #9 ---
+Class: BUS462
+Date: 2017-12-13 19:46:26 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Very nice and an easy marker. Final is very fair and he always tries to help students as much as possible. Interesting to see things from his computer science background point of view as well as business.
+
+--- Rating #10 ---
+Class: BUS462
+Date: 2017-12-12 06:20:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Although he is new but Amin is very knowledgeable to the subject. You will find the course is heavy on weekly power assignments and quizzes but Amin will try to answer your questions and his gradings are pretty easy.
+
+--- Rating #11 ---
+Class: BUS462
+Date: 2017-12-11 19:37:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Prof. Amin has a deep understanding of business analytics and he is always open to industry-related questions. Understanding that most of the students in this class do not have a computing science background, he set a reasonable expectation and introduced us to additional tools and methods . 10/10 would take this course with him again.
+
+--- Rating #12 ---
+Class: BUS462
+Date: 2017-12-11 14:16:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great prof. Always listens to his students and gives good feedback on student work. If you don't fully understand course content, ask him and he will give you an excellent explanation.
+
+--- Rating #13 ---
+Class: BUS492
+Date: 2017-10-26 03:11:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He's easy going and passionate about the topics he discusses in class. He's also supportive with lab assignments and projects. Great prof overall.
+
+--- Rating #14 ---
+Class: BUS492
+Date: 2017-10-25 00:18:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+492 is an extremely packed class, particularly for a business class. Amin does a good job in class and labs highlighting the important parts of the languages you learn to create a final product. Be prepared to spend some time reviewing if you aren't familiar with the languages he teaches you.
+
+--- Rating #15 ---
+Class: BUS492
+Date: 2017-10-24 11:48:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Amin's 492 class was awesome! The material was quite difficult and heavy but his lectures made the concepts very easy to understand and applicable. He packs a lot into each class and tutorial but there's no other way to learn this much material in 13 weeks time, and he makes it relevant and fun. Take BUS 492 with Amin -- you won't regret it!
+
+--- Rating #16 ---
+Class: BUS492
+Date: 2017-10-24 00:10:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Professor Fard does a great job in simplifying technical details to be understood by business students. If not for Amins teaching abilities, this class would have been very difficult, as it covers a broad range of topics that generally would have lectures of their own. Amin is one of the most helpful and responsive professors at SFU.
+
+--- Rating #17 ---
+Class: BUS492
+Date: 2017-10-23 21:36:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Amin is one of the nicest profs I've ever had in Beedie. He down to earth and is super nice and is always willing to help you understand. I feel like he values the learning of the student rather than the grade. Although his lectures are very dry (especially this course, felt like reading a manual) I would definitely take a course again with Amin.
+
+--- Rating #18 ---
+Class: BUS462
+Date: 2017-10-23 16:15:15 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+If you pre-read/listen to the given course materials before class, lecture attendance isn't necessary. He Amin is very knowledgeable and helpful in tutorials. Lectures require more spice.
+
+--- Rating #19 ---
+Class: BUS492
+Date: 2017-10-19 15:40:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great prof! Very understanding and patient with students. Notes helped a lot with programming assignments. Amin was always available through email and truly wanted students to do good in the course.
+
+--- Rating #20 ---
+Class: BUS492
+Date: 2017-10-16 21:55:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Amin does a good job conveying a lot of material in each lecture. Labs can get difficult if you don't have experience in coding, but Amin does a great job helping you if you need it. Everything is correlated really well, so what you learn in lab and lecture is reflective of what is on the exams. Would recommend this class with Professor Fard!

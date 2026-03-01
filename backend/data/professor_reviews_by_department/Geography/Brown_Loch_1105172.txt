@@ -1,0 +1,271 @@
+Professor: Loch Brown
+Professor Legacy ID: 1105172
+Professor ID: VGVhY2hlci0xMTA1MTcy
+Department (CSV): Geography
+Department (Fetched): Geography
+Avg Rating: 4.3
+Avg Difficulty: 2.7
+Num Ratings: 23
+Would Take Again Percent: -1
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: GEOG316
+Date: 2012-12-27 15:43:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He is a nice prof but found him to be an inconsistent marker. Textbook is useless although he told us we would need it in the beginning of the term. As a lecturer he is okay.
+
+--- Rating #2 ---
+Class: GEOG102
+Date: 2011-03-30 05:25:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Excellent teacher. Lectures are interesting and hes got lots of enthusiasm for the subjects. While there are a lot of readings for the course they are, for the most part, great selections which give multiple sides of the topics.
+
+--- Rating #3 ---
+Class: GEOG102
+Date: 2011-03-09 02:37:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Great teacher. Basic first year course but interesting nonetheless.
+
+--- Rating #4 ---
+Class: GEOG312
+Date: 2010-08-21 08:22:50 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Nice & knowledgeable professor. Lectures are also very interesting with a lot of YouTube videos. Unfortunately, his responses to e-mails & online notes are pretty slow and tutorials are run too loosely (one TA said he didn't know about the topic of the week until the night before). Expect A LOT of readings - I say focus on notes & text for exams
+
+--- Rating #5 ---
+Class: GEO312
+Date: 2010-04-17 02:40:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+fantastic course. super interesting and fair marking.
+
+--- Rating #6 ---
+Class: GEOG312
+Date: 2010-04-01 18:26:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Really nice guy. Definitely knows his material. Likes to show youtube clips in class, as well as related class content to current natural disasters in the world. Midterm and exam were a bit left-field, but I think studying both his notes AND the textbook would achieve a higher grade.
+
+--- Rating #7 ---
+Class: GEOG102
+Date: 2010-03-22 14:03:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Fun to listen to, one of the best courses I've taken so far.
+
+--- Rating #8 ---
+Class: GEOG102
+Date: 2009-12-15 23:25:13 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Nice guy, but lectures seemed a bit unorganized (topics would often spill over to next class). Funny stories make lectures go by a bit faster. Posts slides, which is all you need to study.
+
+--- Rating #9 ---
+Class: GEOG312
+Date: 2009-12-14 22:17:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Overall he's a really nice, straightforward guy and seems interested enough in the material, but when it comes down to it he is really disorganized. Expect marks/feedback on your midterms and projects far after the fact this semester it was a month. Note taking doesn't seem necessary until you realize the slides won't be posted in a timely manner.
+
+--- Rating #10 ---
+Class: GEOG100
+Date: 2009-11-23 22:04:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Probably the best prof I've had so far.  Clear, helpful, passionate, easy on the eyes, funny, knowledgeable.  Take a class with him!
+
+--- Rating #11 ---
+Class: GEOG312
+Date: 2009-11-23 14:43:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Very nice, personable prof, he definitely likes the material. However, there's been some problems this semester. There is no reading list to tell us where we are in the text, which he rarely references if at all. And it has been a month and we haven't gotten our midterms back yet. Be warned that he lectures for the full 1hour 50mins with NO BREAK
+
+--- Rating #12 ---
+Class: GEO100
+Date: 2009-09-13 03:49:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+An excellent professor. Very fair when you find something wrong with an assignment or exam. He is very helpful and considerate. As for his teaching, it's pretty good. Sometimes, the class is boring, but that is beyond his control. No fault on his part. Exams are really fair since they are quite flexible! Just study off the notes; you'll do well.
+
+--- Rating #13 ---
+Class: GEOG100
+Date: 2009-07-31 22:11:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Best Prof Ever! Very fair and enjoyable!
+
+--- Rating #14 ---
+Class: GEOG100
+Date: 2009-07-17 20:22:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+The best prof I've had so far. Made a 3 hour lecture tolerable. He obviously knows alot about the subject and is very passionate about it. He has lots of stories and I hope I'm able to take more courses with him. :)
+
+--- Rating #15 ---
+Class: GEOG100
+Date: 2009-05-02 12:53:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Lectures were very interesting. His tests were different in that we were able to choose which questions to write on. For example: choose 5 out of 8 words to write definitions for. The only negative feedback was he was very slow in marking and putting up lecture notes, assignments, grades. Other than that, great class!
+
+--- Rating #16 ---
+Class: GEOG102
+Date: 2009-04-14 22:05:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+One of the best profs I've ever had. Very clear and knowledgeable on the topic. Lectures were always very informative and entertaining. Slides are really good and fit really well with the actual presentation. Very helpful.  Again - fantastic prof.
+
+--- Rating #17 ---
+Class: GEOG102
+Date: 2008-11-27 01:21:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Awesome prof! Really nice, helpful and happy to answer questions/share info. Would be nice if powerpoint notes went up faster. Assignments were a good length and got me thinking about material. Not too much reading which was great! One of the first uni classes where I feel I've actually learned something useful for the 'real world'.
+
+--- Rating #18 ---
+Class: GEOG100
+Date: 2008-11-04 03:06:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+He is a great teacher and thoroughly explains the material covered in his lectures. However just memorizing his lecture slides is not enough; make sure to memorize the textbook even though it is not used at all in the lecture. If you do this you will do very well in his class.
+
+--- Rating #19 ---
+Class: GEOG100
+Date: 2008-04-21 19:04:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Very nice professor. Tends to go quite fast in lectures, but posts all his notes on webct. Not too much work required from this course other than a term paper and a few short assignments. His midterm and final are very easy if you can memorize and write well. He's a great guy, highly recommended!
+
+--- Rating #20 ---
+Class: GEO100
+Date: 2008-04-18 22:40:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Not a very hard class at all! The midterm was fairly easy and the final was straight forward, he even gave us a list of questions to study from, they were quite similar to the questions on the final! There a bit of stuff to memorise though, look over the material ahead of time so you don't end up cramming!He's a nice guy!

@@ -1,0 +1,11 @@
+Professor: Mirza Baig
+Professor Legacy ID: 3157510
+Professor ID: VGVhY2hlci0zMTU3NTEw
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

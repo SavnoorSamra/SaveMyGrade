@@ -1,0 +1,50 @@
+Professor: Mirjam Gollmitzer
+Professor Legacy ID: 2161273
+Professor ID: VGVhY2hlci0yMTYxMjcz
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 1.3
+Avg Difficulty: 4.3
+Num Ratings: 3
+Would Take Again Percent: 0
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: CMNS432
+Date: 2016-12-30 16:34:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Avoid taking this class with Mirjam if you can!! Her assignment criteria is not clear, the course readings were extremely outdated  and the lectures were not informative. Although she is accessible outside of class I found it to be way below expectations and a disappointment for a 4th year class.
+
+--- Rating #2 ---
+Class: CMNS253
+Date: 2016-11-01 13:10:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I wouldn't ever take a class with Mirjam again. The class was graded and presented way harder than it needed to be. I don't feel like she understood the class material herself. She always gave extremely intense feedback on all assignments and it always made little to no sense. This prof brought me more stress than any sort of learning.
+
+--- Rating #3 ---
+Class: CMNS253
+Date: 2016-09-27 22:10:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Mirjam is easily the worst instructor I have ever taken a class with. Her feedback on assignments is highly contradictory, makes little to no sense, and provided no help whatsoever. Mirjam is very out of touch with students and honestly quite rude. I would never take a class with her again or recommend anyone else to.

@@ -1,0 +1,11 @@
+Professor: Brenda Lyshawg
+Professor Legacy ID: 2919313
+Professor ID: VGVhY2hlci0yOTE5MzEz
+Department (CSV): International Studies
+Department (Fetched): International Studies
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

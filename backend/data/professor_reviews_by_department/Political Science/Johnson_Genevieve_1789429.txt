@@ -1,0 +1,37 @@
+Professor: Genevieve Johnson
+Professor Legacy ID: 1789429
+Professor ID: VGVhY2hlci0xNzg5NDI5
+Department (CSV): Political Science
+Department (Fetched): Political Science
+Avg Rating: 4.8
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: POL316
+Date: 2021-12-14 05:18:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Genevieve was an amazing professor during this course. She navigated lectures and sensitive topics so gracefully and always encouraged us to speak up when comfortable. Her grading was fair and she gave good feedback. She also made herself available often outside of class, through office hours and a weekly hour study session. Overall, a solid 10/10!
+
+--- Rating #2 ---
+Class: POL210
+Date: 2013-01-04 16:36:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Dr. Johnson is highly interested in political philosophy and is very willing to help you understand the material. Speaking of material, there were A LOT of readings. Her voice (and lectures) almost put me to sleep many times but she actively tried to engage everyone, which I appreciated. Her final exam was very fair. Good fashion sense and humour!

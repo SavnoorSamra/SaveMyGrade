@@ -1,0 +1,271 @@
+Professor: Robert Krider
+Professor Legacy ID: 74510
+Professor ID: VGVhY2hlci03NDUxMA==
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.4
+Avg Difficulty: 3.1
+Num Ratings: 32
+Would Take Again Percent: 100
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: BUS445
+Date: 2020-12-30 13:50:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Krider adapted this course to online very well. Weekly labs/assignments/readings were reasonable length and well connected. The R programming was well explained and shouldn't scare you away. The marking was timely and fair.
+
+--- Rating #2 ---
+Class: BUS445
+Date: 2018-12-04 23:36:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+My favourite prof at SFU so far (by far). He is engaging, has witty humour, and knows his stuff. The course isnt easy, reading through the tutorials and weekly readings is a MUST. Weekly quizzes are based on readings, and fair. 2 large projects, dont underestimate the time these will take. He's a fair grader, but you will need to work for marks.
+
+--- Rating #3 ---
+Class: BUS446
+Date: 2014-12-09 20:45:29 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+I learned a lot from Robert in BUS 446 (Marketing Strategy). He is a very knowledgable prof with a good attitude toward helping students. Lectures are engaging as the majority is spent in class discussion about the weeks case reading. No exams, only projects and assignments. Not easy, but fair, marking.
+
+--- Rating #4 ---
+Class: BUS343
+Date: 2012-06-12 06:17:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great guy, interesting course. Provides a lot of real world examples, and takes polls in class to see different attitudes towards different aspects of marketing. Good prof to take marketing with if you want a good grade!
+
+--- Rating #5 ---
+Class: BUS343
+Date: 2011-12-15 18:42:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Useless!!  He doesn't know what he's talking about, there was always something wrong with his lectures, and exam questions were too vague and general! yuck!
+
+--- Rating #6 ---
+Class: BUS343
+Date: 2011-01-07 02:16:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Classes weren't useful but you have to go because videos shown in class are tested. Exams are ALL multiple choice. Know all the definitions in the chapters that are tested. Most marking really depends on your TA, so if you get a more lenient TA, then you're in luck. You really don't learn much in class, and only the videos are interesting.
+
+--- Rating #7 ---
+Class: BUS343
+Date: 2010-12-20 01:32:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+The class requires a lot of work! The key point is you have to be in a good group. The prof is okay overall, but I like my TA better. The contents are not much useful, from my perspective.
+
+--- Rating #8 ---
+Class: BUS343
+Date: 2010-12-14 02:35:08 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+The class in general is A LOT of work, but Krider does a good job of communicating the material.  The exams are really fair and pretty much straight out of the textbook.  Definitely recommend him.
+
+--- Rating #9 ---
+Class: BUS445
+Date: 2009-04-30 15:35:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Not sure why the previous poster feels that way. While not the most dynamic speaker, he gets the point across well enough. The class structure is fairly repetitive in that material is repeated in the text, lecture and lab, but it helps reinforce your skills. Probably the least demanding 400-level class. No surprises on assignments or exams.
+
+--- Rating #10 ---
+Class: BUS445
+Date: 2009-04-24 16:11:25 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Useless professor. I dont have a single good thing to say about him. If you want to take this class i suggest a different professor Jason Ho would be 50 times better. This guy doesnt know a thing about the class he teaches. Useless
+
+--- Rating #11 ---
+Class: BUS343
+Date: 2008-12-14 14:55:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+This class is not boring. We are dealing with the products and advertisements that surround us in our day to day lives. It's extremely interesting and he provides real life case studies or examples to further explain his point. The textbook is quite interesting and Krider does a great job explaining concepts and ideas. Exams are fair and relevant.
+
+--- Rating #12 ---
+Class: BUS343
+Date: 2008-12-12 06:34:00 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Sine this is an introductory class, the content is broad and general. You have to memorize the entire text and remember everything he talks about in lecture -- even if it is only for 2 sec, because they're all going to be on the exams. Although the exams were all MC, they were tough and the answers were ambiguous. TAs marked hard and very biased.
+
+--- Rating #13 ---
+Class: BUS343
+Date: 2008-12-09 01:31:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+First of all, this class is a lesson in common sense.  That said, Krider's tendency to tell compelling stories relating class concepts to the real world does add some much needed spice to the bland course curriculum.  If I had to guess, a Krider taught 445 quantitative marketing course would probably be pretty sweet.
+
+--- Rating #14 ---
+Class: BUS343
+Date: 2008-01-07 17:51:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Unfair evaluations-assignments marked hard and you will lose marks on criteria not even mentioned; exams require you to pick what HE thinks is the best answer.  final easier than midterm, paper ok. classes boring though he seems passionate about marketing. is rude to students who say &quot;wrong&quot; (in his opinion) answers in class
+
+--- Rating #15 ---
+Class: BUS343
+Date: 2007-12-18 13:44:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Krider did not attend to one lecture without any reason. Bad prof, unfair marking. Take this course with Cathy!!
+
+--- Rating #16 ---
+Class: BUS343
+Date: 2007-05-11 04:59:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+This class is boring and it's not the instructor's fault. He is a helpful guy with good knowledge of Marketing. text and lecture notes would sufice for a good grade.
+
+--- Rating #17 ---
+Class: BUS343
+Date: 2007-04-28 22:44:40 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Boring class.  Just read the textbook and lecture notes, you'll be fine.  The TA marking for assignments was kind of hard tho.  Not very engaging, so you don't have to attend lectures anyways.
+
+--- Rating #18 ---
+Class: BUS343
+Date: 2006-12-07 17:40:47 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+This class was very boring. I attended all the lectures and most of the discussion were quite obvious and did not require much analysis. Not his fault, it is an intro marketing class; what do u expect&#63; However, the amount of work was alot. The assignments, presentations and the marketing took alot of effort. The tutorials were fun but alot work!
+
+--- Rating #19 ---
+Class: BUS343
+Date: 2005-12-14 17:11:23 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+this class was very boring. we kept having open discussions with ppl saying obvious things and wasting time. asst's required so much work for 4% and the marking was tough in general (from TA)Exams were not too hard but required extensive book reading. Lectures were not important to attend, just do good on your project. disappointed.
+
+--- Rating #20 ---
+Class: BUS445
+Date: 2005-08-28 12:27:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Excellent class.  All assn's were turned in electronically - doesn't waste paper, great for a granola like me.  Facinating stuff, albeit a little too black-box for my liking.  For anyone with a marketing/stats mind, take this class!!!

@@ -1,0 +1,271 @@
+Professor: Jack Davis
+Professor Legacy ID: 1737891
+Professor ID: VGVhY2hlci0xNzM3ODkx
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 4.2
+Avg Difficulty: 2.5
+Num Ratings: 28
+Would Take Again Percent: 78.2609
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: STAT300W
+Date: 2021-08-17 00:52:44 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Disorganized and a little forgetful. Inconsistent use of email and Canvas was kind of a mess, but otherwise an all right, caring instructor. Lectures were not exciting and contained a lot of unnecessary information that could have been cut to save at least 30 minutes a week. Did learn some useful stuff though so there's that.
+
+--- Rating #2 ---
+Class: STAT302
+Date: 2019-10-08 07:15:32 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Tests, assignments are fair and clear on grading criteria. He is super prompt in replying emails, approachable and nice. Practical questions/assignments (using R) from the beginning to the end of the course. Super helpful
+
+--- Rating #3 ---
+Class: STAT302
+Date: 2019-09-13 06:41:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Professor Davis changed my feeling about stats at SFU. After his class I feel very confident in my ability to use the basics of R especially in regression. Tests are very similar to the extensive practice materials. He was always willing to answer any questions in class or in the stats workshop. A great class and great prof!
+
+--- Rating #4 ---
+Class: STAT201
+Date: 2018-07-13 13:39:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Jack is great! he is clear and fair. Really recommend taking Stats with him.
+
+--- Rating #5 ---
+Class: STAT300
+Date: 2018-07-07 13:18:45 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Lecture were interesting and you learned something. However, he comes across either as very lazy or disorganized because we had about 15 assignments and didnt get one single grade back. Overall Id prefer profs who are more organized.
+
+--- Rating #6 ---
+Class: STAT203
+Date: 2018-04-29 20:16:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Midterms were both fair - because you're allowed a cheat sheet Final exam was a bit harder than midterms but overall fair - because you're allowed a cheat sheet Assignments were super long with some tricky questions Funny sense of humour, never went to lectures even though they probably would've helped
+
+--- Rating #7 ---
+Class: STAT342
+Date: 2018-01-15 01:26:22 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Boring and you didn't really need to know much SAS to do well. If you're looking for an easy class this is the one though
+
+--- Rating #8 ---
+Class: STAT201
+Date: 2017-12-05 14:34:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Best prof hands down. Stats can easily be boring and dry but his teaching method makes the course interesting and clear. Good amount of assignments as the exams are almost identical. Would take his class again.
+
+--- Rating #9 ---
+Class: STAT203
+Date: 2017-11-12 21:16:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Best stats prof! Exams are just like his practice, only have to read notes and the class is an easy A
+
+--- Rating #10 ---
+Class: STAT201
+Date: 2017-09-13 23:52:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Amazing prof.
+
+--- Rating #11 ---
+Class: STAT201
+Date: 2017-08-21 03:32:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jack was a great prof! Lectures were always insightful, didn't open the textbook once, all you need are the slides. Exams were fair, make sure to use his office hours to your advantage as he was always happy to help. Assignments were rather long and some of the wording was difficult to understand so make sure to clarify!
+
+--- Rating #12 ---
+Class: STAT201
+Date: 2017-08-08 00:28:07 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+On a personal level, Jack seems like a great guy who's got a good sense of humor. However, on a professional level he's mediocre at best. Perhaps this was due to it being a summer term but he was continuously late with posting lectures notes and difficult to reach - even leaving for vacation before finals. However, the course itself was not hard.
+
+--- Rating #13 ---
+Class: STAT201
+Date: 2017-07-24 15:07:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Jack makes lectures enjoyable but are confusing at times.  His exams are very fair and he does review sessions before them which are helpful.  The class average was B+.  He's a great guy!
+
+--- Rating #14 ---
+Class: STAT201
+Date: 2017-07-21 18:56:55 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Funny, young prof who is in with pop culture and makes a lot of jokes during lectures. Super chill, listens to his students, and has his eyes open for questions people have in class. Takes his time to explain concepts and makes sure everyone is on the same page. Would definitely want him as my upper division stats prof, without a doubt!
+
+--- Rating #15 ---
+Class: STAT201
+Date: 2017-07-06 19:56:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Jack was great!  Classes were fun and engaging and I would gladly take another class with him.
+
+--- Rating #16 ---
+Class: STAT203
+Date: 2017-05-09 01:46:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Although the content may seem overwhelming with formulas and few calculations, he tries to make the fun out of it with memes and examples. midterms were straight forward and his flowcharts help a lot with studying
+
+--- Rating #17 ---
+Class: STATS201
+Date: 2017-04-25 13:46:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+BEST PROF EVER HAD. Go to every lecture because he's so good at explaining concepts and always has time in class for short questions. Has lots of office hours. The assignment questions are vague and r software can be confusing so go to his office hours to clarify. Be comfortable with big concepts know details because there can be trick questions.
+
+--- Rating #18 ---
+Class: STAT201
+Date: 2017-04-24 17:31:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+jack davis is a blessing.  he caters the course for the students and understands our concerns. even though the material isn't too interesting, jack is a very engaging and comedic lecturer, which made me wanna go to class. his final was very simple if you did the practice exams he provided and was very approachable. one of my fav profs for sure.
+
+--- Rating #19 ---
+Class: STAT203
+Date: 2017-04-06 21:47:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He's a little bit disorganized. Sometimes (okay a lot of the times) he messes up the numbering of questions and forgets things but he always acknowledges it and laughs at himself. I really enjoyed him as a prof. Actually really cares about students understanding and take the extra time to help the class understand something.
+
+--- Rating #20 ---
+Class: STAT305
+Date: 2017-02-07 15:32:02 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Professor Davis is an excellent educator. His lectures were informative, engaging, and it was obvious he was enthusiastic about not only teaching, but getting you to understand the core concepts. He went above and beyond for outside class assistance. I can't recommend this professor enough, he was an important part of my SFU experience.

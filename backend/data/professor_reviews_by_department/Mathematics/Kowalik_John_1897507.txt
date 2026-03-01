@@ -1,0 +1,37 @@
+Professor: John Kowalik
+Professor Legacy ID: 1897507
+Professor ID: VGVhY2hlci0xODk3NTA3
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 4.8
+Avg Difficulty: 3.5
+Num Ratings: 2
+Would Take Again Percent: -1
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: ACMA335
+Date: 2014-05-13 16:55:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+awesome teacher! always available and genuinely happy to answer questions. exams were not easy but thats how these courses are. he seems very interested in the material and does a great job of explaining even the very hard concepts.
+
+--- Rating #2 ---
+Class: ACMA335
+Date: 2014-05-03 21:35:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: N
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very good instructor. Works in the actuarial industry, very young, great role model, able to explain concepts clearly and relate them to real world applications.

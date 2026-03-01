@@ -1,0 +1,102 @@
+Professor: Andrew Baycetich
+Professor Legacy ID: 858737
+Professor ID: VGVhY2hlci04NTg3Mzc=
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.5
+Avg Difficulty: 2.9
+Num Ratings: 7
+Would Take Again Percent: 100
+
+Ratings Count Returned: 7
+
+--- Rating #1 ---
+Class: BUS272
+Date: 2025-11-13 19:06:48 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Is back teaching again after a hiatus to travel the world and learn about alpaca farming. Still talks too much about alpacas but has mostly fixed his problems with putting his pants on backwards.
+
+--- Rating #2 ---
+Class: BUS272
+Date: 2021-07-23 00:30:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He just started teaching again after taking time off to raise alpacas. Talks a lot about alpacas and underpants. Excellent teacher when he is sober, which is most of the time.
+
+--- Rating #3 ---
+Class: BUS272
+Date: 2009-12-29 15:12:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Good teacher, but weird.  Starts classes by describing his underpants.  Covers a lot of material (no pun intended).  Is shaped ike a pear, but in a good way.
+
+--- Rating #4 ---
+Class: BUS272
+Date: 2009-01-19 15:30:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Lots of stories about the time he spent in Wales helping sheep give birth.
+
+--- Rating #5 ---
+Class: BUS272
+Date: 2007-02-27 18:25:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #6 ---
+Class: BUS272
+Date: 2006-07-12 18:52:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments
+
+--- Rating #7 ---
+Class: BUS272
+Date: 2006-06-15 16:56:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Excellent prof, looks very good in his suits.

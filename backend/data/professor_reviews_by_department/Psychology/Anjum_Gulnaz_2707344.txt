@@ -1,0 +1,271 @@
+Professor: Gulnaz Anjum
+Professor Legacy ID: 2707344
+Professor ID: VGVhY2hlci0yNzA3MzQ0
+Department (CSV): Psychology
+Department (Fetched): Psychology
+Avg Rating: 4.3
+Avg Difficulty: 3.3
+Num Ratings: 58
+Would Take Again Percent: 81.0345
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: PSYC391
+Date: 2025-01-19 07:18:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Took this course some years ago. Like many students, I felt entirely let down by the lecturer. The lecture was all over the place. I am very surprised by the sudden shift in ratings (from very negative to very positive).
+
+--- Rating #2 ---
+Class: PSYCH391
+Date: 2024-06-12 09:29:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great Teacher, No-nonsense, professional attitude.
+
+--- Rating #3 ---
+Class: PSY366
+Date: 2022-07-26 21:49:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Professor Anjum was hands down the best professor at SFU. Every lecture shows how passionate they are about the environment and climate change. Her lectures are interesting and I found her case studies very helpful. Now that I am taking other courses, I still go back to Dr Anjum's PowerPoint slides for help.
+
+--- Rating #4 ---
+Class: PSYC361
+Date: 2022-02-12 15:10:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Had two courses with her and she was amazing in both. The lectures were interesting and thorough and Dr. Anjum actually cares about her students. I wish that I could take more courses with her.
+
+--- Rating #5 ---
+Class: PSYC366
+Date: 2022-01-09 10:39:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Absolutely loved this prof! Her lectures are super interesting, very applied, and relatable in the real world socially and personally. Her lectures and assignments were fun and easy to follow. I personally studied a lot but honestly, the lectures helped immensely. She always provided recordings of the sessions which was very helpful.
+
+--- Rating #6 ---
+Class: PSYC391
+Date: 2022-01-09 10:33:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+I enjoyed taking psyc 391 with prof. Anjum. She is really knowledgeable about so many cultures and the course content. I enjoyed her course very much because of how to clearly she teaches. In addition to regular classes she holds many office hours. She is definitely one of the best profs at SFU.
+
+--- Rating #7 ---
+Class: PSY366
+Date: 2022-01-06 20:31:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is a very passionate professor and it's evident in her lectures. Her course was well structured, with a clear rubric to follow and with plenty of room for creativity.
+
+--- Rating #8 ---
+Class: PSY366
+Date: 2021-12-27 21:17:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is an extremely friendly professor. She is very understanding and always there for you when you need help.
+
+--- Rating #9 ---
+Class: PSYC366
+Date: 2021-12-19 23:48:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Thank you so much, Dr. Gulnaz and the TAs. This was my favorite course this semester. I am immensely grateful to you for all the amazing lectures. I don't think any professor has been as supportive as you. Thank you for your fair grading and kindness.
+
+--- Rating #10 ---
+Class: PSYC366
+Date: 2021-12-19 23:43:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Thanks for everything, you've gone above and beyond in helping me do well on this course. This was by far the most important course on environment and climate change. Thanks for inspiring me.
+
+--- Rating #11 ---
+Class: PSYC366
+Date: 2021-12-19 23:37:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+It was my first course with Dr. Anjum. I am very grateful to her for her patience and understanding as it has helped me cope through this difficult semester. She is the best professor one can ask for.
+
+--- Rating #12 ---
+Class: PSYC366
+Date: 2021-12-16 12:34:34 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I admire how passionate Dr. Anjum is in teaching the topic of sustainability, but unfortunately I found her way of teaching to be somewhat disorganized and tended to focus on tiny details rather than psychological theories as a whole. Contacting her via email was also difficult as she wouldn't respond despite follow-up emails.
+
+--- Rating #13 ---
+Class: PSYC366
+Date: 2021-12-15 17:53:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is a very fair marker, and she is very passionate about the course topic. Exams are open book, provided clear criteria and very detailed description about the assignments. the contents may seem overwhelming if you don't stay top of the lectures.
+
+--- Rating #14 ---
+Class: PSYC366
+Date: 2021-12-12 23:18:11 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I can definitely tell how passionate Gulnaz is about the subject. However, I found her lectures hard to follow and her lecture slides were very vague and gave me the impression they were put together last minute (lots of typos). The course overall felt very disorganized.
+
+--- Rating #15 ---
+Class: PSYC366
+Date: 2021-12-11 23:54:05 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Gulnaz is passionate about environmental sustainability, which clearly shows through her lectures. She is sort of hard to follow in her lectures, and I found it really hard to get the point of what she was saying. Exams are open book but are mostly based on findings of specific studies that were briefly mentioned in lecture, so take detailed notes
+
+--- Rating #16 ---
+Class: PSYC366
+Date: 2021-12-11 02:15:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I love Dr. Anjum's classes. She is the best prof. at SFU. Her lectures are calm, funny, focused and helpful.
+
+--- Rating #17 ---
+Class: PSYC391
+Date: 2021-12-09 20:12:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+She is a very knowledgeable and caring professor. For the environmental sustainability course, she provided an easy assignment for 3 extra percentage assignment so that students can boost their grades. Since the contents can get heavy, she made the exams open book. The TAs also mark fairly.
+
+--- Rating #18 ---
+Class: PSY366
+Date: 2021-12-05 20:23:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Excellent course and brilliant professor in every possible way. She is the most kind, funny, and accommodating professor.
+
+--- Rating #19 ---
+Class: PSY391
+Date: 2021-12-05 20:18:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+This was one of my favorite courses. I will definitely take more courses with her.
+
+--- Rating #20 ---
+Class: PSY391
+Date: 2021-11-24 06:25:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Although the course was only online, Gulnaz is very accessible and supportive professor. Her approach is rather non traditional and more inclusive. She is a professor who talks about global research and cultural approaches. I wish she was teaching many more courses.

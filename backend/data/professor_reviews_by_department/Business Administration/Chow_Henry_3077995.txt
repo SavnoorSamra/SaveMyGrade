@@ -1,0 +1,245 @@
+Professor: Henry Chow
+Professor Legacy ID: 3077995
+Professor ID: VGVhY2hlci0zMDc3OTk1
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 1.8
+Avg Difficulty: 4.2
+Num Ratings: 18
+Would Take Again Percent: 22.2222
+
+Ratings Count Returned: 18
+
+--- Rating #1 ---
+Class: BUS217W
+Date: 2026-01-28 23:48:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The lectures feel extremely disorganized as you're bombarded with random and irrelevant details. Only a small portion of the lecture material is used in assignments. Henry is extremely picky in all aspects, such as your file names. Course content does not build, and you are forced to complete timed in-class assignments with zero preparation.
+
+--- Rating #2 ---
+Class: BUS217W
+Date: 2025-12-22 03:53:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+This course is unusually difficult for a lower&#8209;division BUS class, with unclear expectations, inconsistent rubrics, and limited support from the professor and TAs. Feedback is vague, grading feels harsh and misaligned with what is taught, and students struggle to get clarification while assignments and requirements constantly change.
+
+--- Rating #3 ---
+Class: BUS217W
+Date: 2025-12-19 00:14:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The toughest lower-div BUS course and the prof/TAs make it harder. Grading rubrics are NOT like the Canvas ones. You only have 40 mins to do 1-page assignments and group projects. Difficult to improve on feedback, since assignments differ each time! Take feedback at face-value and always bug prof/TAs for help and you "might" end up above the curve.
+
+--- Rating #4 ---
+Class: BUS217W
+Date: 2025-12-12 00:33:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prof is nice however, lectures were not helpful whatsoever. Individual assignments are marked by TA's and they provide vague feedback + strict markers. Additionally, later tutorials have an advantage as they can complete the individual work compared to those with an earlier time + AI is heavily used in this course. All in all, horrible class.
+
+--- Rating #5 ---
+Class: BUS217W
+Date: 2025-12-11 08:24:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Look him up, he's an instructor, not a prof. He's funny, but not insightful. Unclear grading, unclear instructions, hidden rubrics that differ from what's posted. TAs are also so unhelpful that they cannot even answer questions themselves, so they text Henry to ask him in the middle of the in-class write. Also marks all papers in what, 5 minutes?
+
+--- Rating #6 ---
+Class: BUS217W
+Date: 2025-12-11 07:44:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor will assign rushed group tasks and the expectations never match what's taught. Grading feels unnecessarily harsh, with feedback being indistinct and selective. The instructions are vague, and the rubrics contradict what is told to us by the professor and teaching team. Overall, did not gain or learn much.
+
+--- Rating #7 ---
+Class: BUS217W
+Date: 2025-12-05 06:53:28 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Henry honestly seems like a very knowledgeable and kind person, and his lectures are engaging. The issue is assignments were often very unclear, and AI use in creating course content makes this worse. Feedback from TAs is also often contradictory, and feels like its less related to writing and more to unclear assignment expectations.
+
+--- Rating #8 ---
+Class: BUS217W
+Date: 2025-12-04 00:59:58 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's nice but this class was ridiculous. You have 1 hour to do certain group projects with not a lot of notice. TA expects you to have papers written in specific formats not taught in class. None of these assignments were consistent- some you have the whole week to prepare for, others you have 30 minutes. Assignments were sometimes unclear.
+
+--- Rating #9 ---
+Class: BUS217W
+Date: 2025-11-30 08:48:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures are quite engaging, but he will assign heavy tasks that you have only 1 hour to complete and present later in the tutorial. Assignments are ridiculous; some of them do not make sense, and you will need to do them in class. Teachers and TAs often provide conflicting feedback, making it very difficult to understand.
+
+--- Rating #10 ---
+Class: BUS217W
+Date: 2025-11-18 19:33:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He only makes lecture slides available an hour into lecture and then makes us do assignments in 30 min in lecture with our group (presentations/reports) without getting graded for it. Graded in tutorial assignments and presentations. Marks hard, TA's mark hard, no one has gotten full marks so far. Midterm and Final project, no exams.
+
+--- Rating #11 ---
+Class: BUS217W
+Date: 2025-11-07 22:29:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Professor is notorious for pushing AI/LLM tools and produced several assignments with contradictory rubrics using aforementioned clankers.
+
+--- Rating #12 ---
+Class: BUS217W
+Date: 2025-09-04 17:14:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Recommended to take. He's caring and gives helpful feedback, but he grades very tough. Make sure you're on a strong team, otherwise you might end up writing a 4 page paper solo. Good luck, and be ready to defend every sentence you write.
+
+--- Rating #13 ---
+Class: BUS217W
+Date: 2025-08-14 18:53:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Well, now the course is monopolized by only two options (the school's schedule arrangement is ridiculous) for BUS217, I'd go with Henry. He's approachable and willing to help, and his lectures are more engaging. Workload is still heavy, but manageable if you keep up.
+
+--- Rating #14 ---
+Class: BUS217W
+Date: 2025-08-12 01:51:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is OK. The assignments grading is fair. The course covers the basics well but doesn't go much beyond that. Feedback is helpful but sometimes brief. It's a useless and boring course if you want steady progress without surprises.
+
+--- Rating #15 ---
+Class: BUS217W
+Date: 2025-07-22 00:48:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This course is useless for sure! I am so lucky that dropped Ilia's section and changed into his one, not bad but it's better to not listen some someone's useless news haha
+
+--- Rating #16 ---
+Class: BUS217W
+Date: 2025-06-24 21:38:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+So much writing material and unnecessary assignments.
+
+--- Rating #17 ---
+Class: BUS217W
+Date: 2025-03-12 00:30:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Henry is a horrible prof, I would avoid at all cost. His assignment instructions are always extremely unclear, leaving students left to figure it out themself. This is his first class at SFU and acts like he knows everything. Do yourself a favour and choose any other prof.
+
+--- Rating #18 ---
+Class: BUS217W
+Date: 2025-02-27 20:19:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He was enthusiastic about teaching at Beedie for the first time this semester but didn't tell the students about specific guidelines and grading standards for the assignments; the TA was particularly harsh and ridiculously picky, and also his cases were difficult compared to other instructors.

@@ -1,0 +1,180 @@
+Professor: Jonas Jankauskas
+Professor Legacy ID: 1796476
+Professor ID: VGVhY2hlci0xNzk2NDc2
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2.2
+Avg Difficulty: 3.9
+Num Ratings: 13
+Would Take Again Percent: -1
+
+Ratings Count Returned: 13
+
+--- Rating #1 ---
+Class: MATH215
+Date: 2016-01-07 02:13:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: True
+Comment:
+Very organized and clear lectures, but very dull. Gives enough pre-exam hints and prep to make them super easy. Lots of example problems.
+
+--- Rating #2 ---
+Class: MATH115
+Date: 2014-11-06 22:38:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+He started out badly but once he found out to slow down on examples he got much much better. Hard class, but he does a good job
+
+--- Rating #3 ---
+Class: MATH152
+Date: 2013-12-07 23:18:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He is very good at explaining the material, but goes through it very quickly, so you need to concentrate very hard to get everything. Exams are very long and hard, but then he scales a lot. Questions in class are not very encouraged, but in office hours he is helpful. Rather good prof overall, but not easy.
+
+--- Rating #4 ---
+Class: MATH152
+Date: 2013-11-19 18:45:24 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Useless lectures, thick accent, and his exams are very difficult.
+
+--- Rating #5 ---
+Class: MATH152
+Date: 2013-11-14 02:18:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+too many memes and chuck norris references his handwriting sucks and he goes way to fast for anybody to understand anything. dont take this unless youre doing it on its own or you really really love calculus
+
+--- Rating #6 ---
+Class: MATH152
+Date: 2013-10-30 11:48:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Teaches very fast and he's not very good at explaining concepts. His exams were difficult and lengthy. Avoid this teacher at all cost.
+
+--- Rating #7 ---
+Class: MATH152
+Date: 2013-10-01 14:16:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+His exams had too many questions for a short amount of time. The exam questions were very hard. He also had a very thick accent and his writing was difficult to understand.
+
+--- Rating #8 ---
+Class: MATH152
+Date: 2013-09-08 22:02:29 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Nice guy, but thick accent makes it hard to understand what he's saying. Notes are barely legible, and often makes mistakes in his example problems.
+
+--- Rating #9 ---
+Class: MATH152
+Date: 2013-09-06 12:09:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Thick accent, bad writing, teaches too fast, not enough time for midterms.
+
+--- Rating #10 ---
+Class: MATH152
+Date: 2013-08-16 19:43:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Cant teach (tons of mistakes), really condescending & openly mocks students who received avg marks, NEVER gives enough time for quizzes (always only around 7 min instead of allotted 10), tests based on exercises from class which are the exact worked solutions from the book, never responds to e-mails, posts stupid memes constantly. AVOID!
+
+--- Rating #11 ---
+Class: MATH152
+Date: 2013-08-07 15:44:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Class avg for first and second midterms are only around 60%. no matter how funny he is, its really hard course.
+
+--- Rating #12 ---
+Class: MATH152
+Date: 2013-08-06 21:23:05 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Very nice prof, he makes the class fun and entertaining even though it is a math class. Exams are fair but I usually ran out of time on the midterms.
+
+--- Rating #13 ---
+Class: MATH152
+Date: 2013-07-31 03:25:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+His exams are long and hard. You really have to keep up on things in order to do well.

@@ -1,0 +1,154 @@
+Professor: Sarah Sadeghi
+Professor Legacy ID: 1682088
+Professor ID: VGVhY2hlci0xNjgyMDg4
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 1.8
+Avg Difficulty: 2.6
+Num Ratings: 11
+Would Take Again Percent: -1
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: PHYS101
+Date: 2012-05-08 20:05:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+She really wasn't as bad as the previous ratings make her seem. She was super friendly and really tried hard to make the class understand the concepts she was teaching. The two midterms were super easy, as long as you did the homework assigned. The final was harder, but that's expected. Class averages were ~70%, which is nothing to complain about.
+
+--- Rating #2 ---
+Class: PHYS102
+Date: 2012-05-04 15:48:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+first time ever teaching a university class so ill give her some slack. I would recommend taking her class if your background knowledge in physics is good otherwise you will fail to learn new concepts she teaches you. Exams are poorly written although not challenging they dont test your physics knowledge. MC worth 4 marks does not seem correct
+
+--- Rating #3 ---
+Class: PHYS101
+Date: 2012-04-30 22:56:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+She is nice... but failed to deliver the material clearly, and i wish she actually solve with numbers too and not just variables. Exam and midterm were  poorly written. Makes a multiple choice question 4 marks/3 marks/ 2 marks each and no part marks awarded so what's the point. Maybe she'll get better, who knows.
+
+--- Rating #4 ---
+Class: PHYS101
+Date: 2012-04-29 21:22:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Had plenty of bonus questions which helped in the end but her lectures were less than helpful. Her lecture slides were taken from various other physics professors AROUND THE WORLD and when she solved example problems, she wouldn't give us the answer. She'd solve it halfway and say "then do this and do that and you'll get the answer". Shrill voice.
+
+--- Rating #5 ---
+Class: PHYS101
+Date: 2012-04-26 05:06:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+It was her first time teaching a university class, and it really showed. She tried really hard to get her teaching across but it was largely ineffective. You can basically self-teach yourself the course. Provided a lot of bonus marks which is good, the final was very tricky though.
+
+--- Rating #6 ---
+Class: PHYS101
+Date: 2012-04-24 17:14:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+She really cares for her students & tries hard. Her lectures were normally confusing & essentially not very good, but it was her first year teaching at university and I think she will improve. Overall I can't complain because she gave lots of bonus marks and I did better than I thought I would in the class.
+
+--- Rating #7 ---
+Class: PHYS101
+Date: 2012-04-06 20:15:04 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+not very good. she says she has office hours then cancels them even in weeks before exams. Lecture Notes are incomprehensible. She does examples in seemingly the most complicated way possible and then stops halfway through because class runs out of time. If she says she cares for her students, she does not appear to show it. Need to teach yourself.
+
+--- Rating #8 ---
+Class: PHYS101
+Date: 2012-03-20 00:42:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+if there were no iclicker questions during lecture, this class would be pointless to go to.  you're better off to just teach yourself out of the textbook, If anything, she just makes things harder to understand. Tests aren't too hard though
+
+--- Rating #9 ---
+Class: PHYS101
+Date: 2012-03-15 09:45:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+the lectures are stupidly easy to the point that if you have learned anything about physics, your good to go almost. she gives a LOT of bonus q's and she doesnt scale which doesnt matter too much. the first midterm had a class average of 70%. be warned though half the time in lecture she solves problems way harder than she needs to.
+
+--- Rating #10 ---
+Class: PHYS101
+Date: 2012-03-09 00:29:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Hard to understand. Her notes come off the textbook and tell you nothing.
+
+--- Rating #11 ---
+Class: PHYS101
+Date: 2012-03-09 00:27:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Hard to understand and her notes are so simple to the point that there is no use going to class because you learn more from reading the textbook.

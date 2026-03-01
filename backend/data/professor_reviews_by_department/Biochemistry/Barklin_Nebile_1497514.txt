@@ -1,0 +1,11 @@
+Professor: Nebile Barklin
+Professor Legacy ID: 1497514
+Professor ID: VGVhY2hlci0xNDk3NTE0
+Department (CSV): Biochemistry
+Department (Fetched): Biochemistry
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

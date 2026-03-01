@@ -1,0 +1,37 @@
+Professor: Tracy Liu
+Professor Legacy ID: 2620308
+Professor ID: VGVhY2hlci0yNjIwMzA4
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 3.5
+Avg Difficulty: 3
+Num Ratings: 2
+Would Take Again Percent: 50
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: BUS200
+Date: 2021-09-04 21:22:59 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Lectures are useless and horribly structured. Read the textbook and you are golden. An inefficient professor, and has vague expectations. For example, the group project was poorly designed and she was a nit-picky marker. The final and midterm exams were reasonable. The class was easy, but the professor made it annoyingly more difficult.
+
+--- Rating #2 ---
+Class: BUS200
+Date: 2020-09-08 19:25:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+Really great Prof, she actually cares about her students, there was a quite few readings to do. You must attend her lectures to get participation marks. But her exams were fair and the TA who was grading my other work was a bit of stickler for formatting but, overall decent class. Had fun as an elective

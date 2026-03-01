@@ -1,0 +1,37 @@
+Professor: Deanna Peluso
+Professor Legacy ID: 1530966
+Professor ID: VGVhY2hlci0xNTMwOTY2
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 4.8
+Avg Difficulty: 2.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: ECC512
+Date: 2023-05-09 01:09:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+They are really helpful.
+
+--- Rating #2 ---
+Class: EDUC471
+Date: 2012-10-31 17:53:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+good teacher

@@ -1,0 +1,180 @@
+Professor: Alfred Kong
+Professor Legacy ID: 1048591
+Professor ID: VGVhY2hlci0xMDQ4NTkx
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 2.5
+Avg Difficulty: 3.1
+Num Ratings: 13
+Would Take Again Percent: 0
+
+Ratings Count Returned: 13
+
+--- Rating #1 ---
+Class: ECON103
+Date: 2020-04-25 05:58:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+Worst teacher ever
+
+--- Rating #2 ---
+Class: ECON103
+Date: 2012-12-14 20:54:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Really good teacher, lectures arevery helpful,always teach students in a way that they can use concepts in real life easily
+
+--- Rating #3 ---
+Class: ECON383
+Date: 2011-12-17 02:54:20 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Lectures were not that interesting but very helpful. Hints on exam questions are given. Material and exams were not difficult but required some real world knowledge. Never did any readings. Good GPA booster.
+
+--- Rating #4 ---
+Class: ECON383
+Date: 2011-12-08 20:42:01 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+He is a nice person and he makes relatively easier midterm. Textbook is useless. But I always attend to his lec, and its useful to attend his lec b/c there are several questions in the midterm are mentioned in his lec.
+
+--- Rating #5 ---
+Class: ECON291
+Date: 2011-09-19 16:51:49 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+His exam is true or false and short answers. The exam is fair and mid 2 is easy.
+
+--- Rating #6 ---
+Class: ECON291
+Date: 2011-07-24 23:24:41 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+He is not the worst Econ prof I've had at SFU. He seems to be a good person, but he lacks the skills of teaching and his accent makes it even more difficult to understand him. If you take his class, you'll have to read the book and study the lecture notes by yourself ...
+
+--- Rating #7 ---
+Class: ECON291
+Date: 2011-07-21 20:19:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+USELESS PROF does not know how to teach, this is a self taught course. His exams are extremely easy (studied one day before each exam, and got the highest mark in the class) yet the averages were like 50%. I don't feel prepared for ECON 305. AVOID AT ALL COSTS.
+
+--- Rating #8 ---
+Class: ECON291
+Date: 2011-07-13 00:14:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+He make the students confused with either the course material or his lecture notes
+
+--- Rating #9 ---
+Class: ECON291
+Date: 2011-05-05 04:37:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Extremely helpful with his Cantonese accent~
+
+--- Rating #10 ---
+Class: ECO230
+Date: 2011-03-09 20:45:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+unfriendly and unhelpful, unsocial teacher.
+
+--- Rating #11 ---
+Class: ECON291
+Date: 2010-09-09 14:01:57 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+UMMM./. he is okay prof..nice prof..but sometimes a bit unorganized. i brutally failed the first exam because didn't really know how his exams are.but by the end i As the second midterm and final because i read the notes...
+
+--- Rating #12 ---
+Class: ECON291
+Date: 2010-08-28 01:38:33 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+His ok i guess. As long as you study his notes...you will be ok for his exams...however.... questions are tricky at times so beware
+
+--- Rating #13 ---
+Class: ECON291
+Date: 2010-08-26 15:02:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+very articulate and intelligent... test you on your true understanding in exams... Hey what's not to love&#63;

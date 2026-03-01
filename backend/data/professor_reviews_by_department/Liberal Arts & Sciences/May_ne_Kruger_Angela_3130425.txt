@@ -1,0 +1,37 @@
+Professor: Angela May (née Kruger)
+Professor Legacy ID: 3130425
+Professor ID: VGVhY2hlci0zMTMwNDI1
+Department (CSV): Liberal Arts & Sciences
+Department (Fetched): Liberal Arts & Sciences
+Avg Rating: 5
+Avg Difficulty: 2
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: GA301
+Date: 2025-12-03 16:06:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+wonderful class that was engaging, gave excellent feedback on assignments. just made the class feel more like a hangout where we learn some stuff, compared to a boring lecture
+
+--- Rating #2 ---
+Class: GA301
+Date: 2025-12-02 17:57:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Angela May is an exceptional professor. She is clear about what she expects, and is more than happy to assist students who are confused. She provides extremely detailed and thoughtful feedback on assignments, which is encouraging and very helpful for improvement. Amazing professor overall!

@@ -1,0 +1,76 @@
+Professor: Timothy Mossman
+Professor Legacy ID: 1810682
+Professor ID: VGVhY2hlci0xODEwNjgy
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 3.4
+Avg Difficulty: 3.8
+Num Ratings: 5
+Would Take Again Percent: 100
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: WORKS101
+Date: 2018-03-22 21:16:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+One of the best what SFU gave me. Clear, highly motivated and commited, encouraging students. I like his teaching methods and I really learnt.
+
+--- Rating #2 ---
+Class: FALX99
+Date: 2016-01-06 23:41:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Helpless to the writing, everyone given poor marks. Worst prof I met!!!
+
+--- Rating #3 ---
+Class: FALX99
+Date: 2013-07-22 19:14:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Tim is a great instructor. You can learn a lot about writing good essays from him. He is a tough marker though. He is always willing to help if you have question,.
+
+--- Rating #4 ---
+Class: FALX99
+Date: 2013-07-22 19:11:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Tim is a great teacher. Really knows his stuff. He is a tough marker, but you can learn a lot from him about writing good essays.
+
+--- Rating #5 ---
+Class: FALX99
+Date: 2013-04-20 16:42:13 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Never ever take his class!!! He is such a tough marker! FAL is supposed to be a fairly easy course, but all of my classmates received quite low marks!  He doesn't like passive voice, so don't use it in your paper, he will reduce mark on it. His feedback on our draft paper is not helpful at all.His class is extremely boring!

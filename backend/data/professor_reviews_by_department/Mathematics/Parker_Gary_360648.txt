@@ -1,0 +1,271 @@
+Professor: Gary Parker
+Professor Legacy ID: 360648
+Professor ID: VGVhY2hlci0zNjA2NDg=
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3.8
+Avg Difficulty: 4.3
+Num Ratings: 34
+Would Take Again Percent: 64.7059
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: STAT271
+Date: 2025-05-02 17:34:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Lectures are good, although there were a few slides that I felt had too much text. Just do and understand the homework, and you should get a good grade.
+
+--- Rating #2 ---
+Class: STAT271
+Date: 2025-04-27 15:47:19 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Gary Parker is an amazing prof but also the material in this course is quite difficult to understand. His lectures were great and he's very good at explaining things. Exams were very fair and just based on the assignments and textbook problems, but can sometimes be a bit tricky. If you take this course, do TONS of practice problems
+
+--- Rating #3 ---
+Class: STAT271
+Date: 2025-04-25 07:49:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Caring prof that wants students to do well. His lectures make a lot of sense and hw is helpful (not for marks and he posts the answers). He has clear expectations for whats on the quizzes/exams. He really likes to test your understanding on the exams. But as long as you read the lecture notes, study the tutorials, and do the hw, then youre good
+
+--- Rating #4 ---
+Class: STAT271
+Date: 2025-04-25 05:12:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Great guy and does a lot to make students have a better understanding of the concepts. Fair exams since he gives an outline of things he could test on so no surprises but exams can still be tricky. Definitely a better experience than the pre req for this course
+
+--- Rating #5 ---
+Class: STAT271
+Date: 2024-12-17 09:13:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Gary is a great and caring professor who genuinely wants his students to succeed. If you complete the homework he assigns, there won't be any surprises on the exams. The course covers a lot of material and is inherently challenging, but Gary does an excellent job making the concepts easy to understand.
+
+--- Rating #6 ---
+Class: STAT271
+Date: 2024-12-07 20:10:27 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I would recommend Dr. Parker to anyone who needs to take Stat 271. He is great at making the course content easier to understand and his exams/quizzes are easy as long as you study. He really cares about his students and does his best to support their learning.
+
+--- Rating #7 ---
+Class: STAT271
+Date: 2024-11-08 18:35:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Caring, chill, one of the best math prof at sfu. Great lectures and organization. Fair exams fair grading, the course itself can be difficult.
+
+--- Rating #8 ---
+Class: STAT271
+Date: 2024-04-20 00:01:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+snarky
+
+--- Rating #9 ---
+Class: STAT271
+Date: 2024-04-15 19:33:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His lectures are pretty good; he explains a lot of the intuition behind concepts which helps a lot. Tests are pretty fair since most of the questions are based on the assignments. If you do the assignments then you should do well in the class. Overall he's a pretty chill dude.
+
+--- Rating #10 ---
+Class: STAT485
+Date: 2024-01-16 00:13:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Gary Parker is a responsible and nice professor. Time series is a very difficult concept in the statistics industry, but he explained it very well. There are mathematical questions in the course that are tough but very helpful for us to understand the concept. Gary sacrifices his precious time for those students who are struggling with the course.
+
+--- Rating #11 ---
+Class: STAT485
+Date: 2023-12-24 11:29:31 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lots of theories and calculations, but most of the time you don't understand them. Even though I got a B, I didn't really learn anything
+
+--- Rating #12 ---
+Class: ACMA320
+Date: 2023-12-11 19:12:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Hard Test, Unclear lectures but a Nice Person
+
+--- Rating #13 ---
+Class: STAT485
+Date: 2023-11-05 00:27:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Extremely boring lectures, extremely boring. He spends so much time explaining theoretical materials which is practically useless and most students, like me, forget everything he teaches the day after his final exam. Let's be real, who is going to calculate auto-correlation manually with a pen and paper when everything is done by computer nowadays
+
+--- Rating #14 ---
+Class: STAT485
+Date: 2023-10-24 18:33:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Gary's class covers diverse topics, often lacking continuity. Quizzes and midterms are strict, with stringent process requirements and little credit for partial work. Both teaching and grading need refinement. Attendance and proactive homework are crucial for success here."
+
+--- Rating #15 ---
+Class: STAT485
+Date: 2023-01-05 04:01:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Hard test. The scoring criteria are extremely unfair. Obvious errors in his notes. The tutorials are useless.
+
+--- Rating #16 ---
+Class: ACMA210
+Date: 2020-01-07 01:42:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Really good professor. Don't be so confident. This course you must pay a lot of attention in order to get a good grade, even if you are a genius. Don't blame the professor if you did not get a good grade. You get a low grade shows you should not learn actuarial science, or you did not work hard enough.
+
+--- Rating #17 ---
+Class: ACMA320
+Date: 2016-12-12 16:55:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Gary was the best professor I ever had in university. YES, his course is very, very difficult. But if you put the time in, you can do well. As he once said, "You do you best, and I will do mine." I've never met a prof that cared more about the success and learning of his students.
+
+--- Rating #18 ---
+Class: ACMA320
+Date: 2016-05-05 10:47:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Gary is one of the best professor I have ever had. The class material is complicated, but he does a great job in teaching and explaining in practical ways. Ask any unclear question because he expects clear understanding. Hard work is necessary, yet it pays off. Overall interesting class Good luck to anyone who will take the class.
+
+--- Rating #19 ---
+Class: ACMA320
+Date: 2016-04-19 20:58:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Best Instructor in for ACMA in SFU, he is very knowledgeable. Exam are very though, you need to study hard and know everything, but you learn  a lot from this course.
+
+--- Rating #20 ---
+Class: ACMA210
+Date: 2014-09-04 15:05:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: Y
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+If you want to get into SOA you don't need to take Actuarial Sciences courses in university. You can learn what they teach by taking math and finance courses and they won't hurt your GPA. Gary can't teach wrong prof for this class. Don't get the textbooks use his lecture notes and the internet to find what you need.

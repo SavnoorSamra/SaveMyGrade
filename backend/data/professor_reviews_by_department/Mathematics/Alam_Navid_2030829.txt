@@ -1,0 +1,24 @@
+Professor: Navid Alam
+Professor Legacy ID: 2030829
+Professor ID: VGVhY2hlci0yMDMwODI5
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3
+Avg Difficulty: 5
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: MATH155
+Date: 2015-07-30 17:25:16 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+He is a new professor, so cant really expect much I guess.  The problems were that he gave really difficult midterms and had quizzes every Friday with limited time that were kind of hard.  He is okay but not the best.

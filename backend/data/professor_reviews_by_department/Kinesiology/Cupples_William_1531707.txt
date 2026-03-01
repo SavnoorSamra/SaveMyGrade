@@ -1,0 +1,193 @@
+Professor: William Cupples
+Professor Legacy ID: 1531707
+Professor ID: VGVhY2hlci0xNTMxNzA3
+Department (CSV): Kinesiology
+Department (Fetched): Kinesiology
+Avg Rating: 3
+Avg Difficulty: 3.4
+Num Ratings: 14
+Would Take Again Percent: 50
+
+Ratings Count Returned: 14
+
+--- Rating #1 ---
+Class: BPK801
+Date: 2016-12-06 17:47:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Will is a terrific mentor for new graduate students. His enthusiasm for science - and life in general - is infectious, leading to many vibrant, thoughtful class discussions throughout the semester. Thanks Will!
+
+--- Rating #2 ---
+Class: BPK306
+Date: 2016-07-05 15:23:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He was horrible at preparing you for exams. I would recommend going to see him after every lecture to clarify what the main points are and try to get sample questions he will actually use. I worked extremely hard in this class and still ended up failing.
+
+--- Rating #3 ---
+Class: BPK306
+Date: 2014-12-04 23:54:24 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Hate him or love him he will remain as long as his wife is dean! He confuses himself in his own lectures, if he put a few words on his slides it might even help him! Wastes a lot of time in class, dumps a lot of material on you but fair grader and friendly to talk to. This course was more work than it was worth though.
+
+--- Rating #4 ---
+Class: KIN496
+Date: 2013-04-13 02:51:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Dr.Cupples is very knowledgable about his field and is always willing to provide help. Great instructor and a nice person overall.
+
+--- Rating #5 ---
+Class: KIN306
+Date: 2012-09-02 18:04:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Dr. Cupples is more than fair. Students are very biased towards him for some reason. He helped me whenever I asked for help and I got an A. Easy A if you ask me considering the fact that I didn't even attend most lectures. He's a really nice guy.
+
+--- Rating #6 ---
+Class: KIN306
+Date: 2012-06-24 16:39:06 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+Not sure what the fuss is about. Clear prof, and decent lectures!
+
+--- Rating #7 ---
+Class: KIN306
+Date: 2012-05-10 00:43:02 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Some love him, some hate him. I understand both. Notes need a lot of work and the mark allocation on the first midterm made me want to cry. I couldn't follow his lectures, but listening to him after on tape, he comes across as very knowledgable and clear. Could be one of the best profs in kin but needs to put aside stubbornness & make some changes
+
+--- Rating #8 ---
+Class: KIN306
+Date: 2012-01-20 17:56:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+easy A. Good Prof very helpful if you asked for help.
+
+--- Rating #9 ---
+Class: KIN306
+Date: 2011-10-07 00:34:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He clearly should NOT be a professor.  He has interest in renal physiology and yet no interest in displaying his knowledge in a manor in which to aid students in learning the material.  He admittedly says he is allowed to be the big mean teacher and conveys an ego which could not possibly entice any student to want to learn from him.
+
+--- Rating #10 ---
+Class: KIN306
+Date: 2011-07-28 03:47:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Worst prof that ever stepped foot in SFU.  I'm serious.
+
+--- Rating #11 ---
+Class: KIN306
+Date: 2011-07-06 22:28:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very nice guy but it doesn't make up for his lack of organization and knowledge given that this is a core course for all other upper level classes. Knew a lot about renal physiology but had no clue in other areas of physiology, especially neurophysiology. I love physiology but Dr. Cupples really ruined the class. Also, he has no grading scheme.
+
+--- Rating #12 ---
+Class: KIN306
+Date: 2011-05-12 16:48:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Do the study questions and you'll be ok. Nice guy, ppt slides can be somewhat confusing at times
+
+--- Rating #13 ---
+Class: KIN306
+Date: 2011-04-19 03:00:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+really bad slides
+
+--- Rating #14 ---
+Class: KIN306
+Date: 2011-04-02 16:35:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+One of the worst professors I have had so far at SFU. Besides Renal Physiology, he has absolutely no clue what he is talking about. He says &quot;I don't know&quot; at least 10 times per class if a question is asked. He has not interest in the welfare of the students and clearly shouldn't be teaching. He marks really anally so look out!!!

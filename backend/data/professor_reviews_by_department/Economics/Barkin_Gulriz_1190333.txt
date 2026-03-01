@@ -1,0 +1,271 @@
+Professor: Gulriz Barkin
+Professor Legacy ID: 1190333
+Professor ID: VGVhY2hlci0xMTkwMzMz
+Department (CSV): Economics
+Department (Fetched): Economics
+Avg Rating: 2.5
+Avg Difficulty: 3.9
+Num Ratings: 158
+Would Take Again Percent: 29.1139
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ECON302
+Date: 2025-05-02 05:32:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Don't take any classes with this prof
+
+--- Rating #2 ---
+Class: econ220
+Date: 2025-03-15 01:55:47 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The course was meant to teach undergraduate econ majors an introduction to communicate effectively using economics lingo, but she made it about something else completely. She had biases towards certain students, which became evident towards the end of the course. Do not recomend taking any course with her.
+
+--- Rating #3 ---
+Class: ECON201
+Date: 2024-12-12 04:03:08 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Not the worst professor. Her grading in this course is very challenging. The final is way too hard to solve as a just starting Econ major. No partials or even anything on the exams. Lectures are a HASSLE to go through, very tough course.
+
+--- Rating #4 ---
+Class: ECON103
+Date: 2024-11-16 15:19:09 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Lectures can be long and wordy. Attending is a must for weekly quizzes. The material is challenging, but Unstuck AI and the textbook help make sense of the content. Overall, a tough but manageable course.
+
+--- Rating #5 ---
+Class: ECON103
+Date: 2024-11-09 15:12:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+After receiving my midterm back, I was trying to figure out why this one question was wrong (worth 9 marks) & after finally emailing her, she said that the she didn't realize the TA had regraded it & it was actually right. Had I not reached out to her, my grade would be a letter grade lower because she is careless.
+
+--- Rating #6 ---
+Class: econ220
+Date: 2024-11-02 07:06:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Talks way too much and always makes simple content more difficult.
+
+--- Rating #7 ---
+Class: ECON201
+Date: 2024-10-22 04:54:53 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Not friendly, rambles for the entire class on the most useless things. Cannot complete thoughts and always bounces around to fast.
+
+--- Rating #8 ---
+Class: 201
+Date: 2024-10-20 00:43:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Yaps a lot
+
+--- Rating #9 ---
+Class: ECON103
+Date: 2024-09-10 19:31:01 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She quite nice but her lectures make me feel like i was literally unlearning the stuff. Rambles on an don about easy topics for way too long and went over harder topics way to fast. Textbook was pretty good though. Midterms/final were okay but a handful of question doesn't reflect what we learnt
+
+--- Rating #10 ---
+Class: ECON103
+Date: 2024-08-21 01:25:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Ok professor but very easy class. Got by with just reading textbook a few times and doing tutorial questions. Didn't interact her much she seems intimidating at first but seems quite nice, gives a bit of my way or the highway feeling during lectures tho. Lecture was boring and there was no point going.
+
+--- Rating #11 ---
+Class: ECON105
+Date: 2024-08-19 06:01:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She's really nice, really passionate and loves to teach.  BUT, her exams and tutorial questions are so different than her course material.  They require a lot of interpretation and dissection that she doesn't directly teach you how to do, but expects you to be able to do.  I enjoyed the material, but it's hard to follow her in lectures.
+
+--- Rating #12 ---
+Class: ECON302
+Date: 2024-08-15 21:28:33 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is a nice person, even though the test is harder than the other classes.
+
+--- Rating #13 ---
+Class: econ220
+Date: 2024-08-05 07:12:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Without any useful helping on the course, the test is not related to what she taught during the class. Awful professor.
+
+--- Rating #14 ---
+Class: 103
+Date: 2024-07-26 22:20:03 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures arent mandatory so just grind out the textbook and tutorial problems and you should be fine. If you are going to lectures bring a pillow or sum
+
+--- Rating #15 ---
+Class: 103
+Date: 2024-07-15 23:47:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Gulriz is a nice person but her testing is not. Mt 1 was too long as it was the length of a final exam (she only gave us 2 hours). Not only that, lectures are too boring. Don't recommend her.
+
+--- Rating #16 ---
+Class: ECON103
+Date: 2024-07-11 02:37:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+try taking this course with another prof. its a 3 hour lecture and by the end i feel like i am forgetting the concepts i already know. Very strict and particular about her way so even if you technically say something right she would say no not exacty correct but her way is the only correct way. I donot understand anything in her lectures
+
+--- Rating #17 ---
+Class: ECON103
+Date: 2024-06-04 21:54:24 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures should be recorded for how much she yaps.
+
+--- Rating #18 ---
+Class: ECON103
+Date: 2024-06-04 15:31:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I wish I had read the reviews before I took her class. I am an honour roll student with straight A's and her classes are so confusing and difficult to understand. She spends so much time on one thing and then rushes through others and does things that the text book doesn't refer to yet expects you to know on exams.
+
+--- Rating #19 ---
+Class: ECON302
+Date: 2024-05-21 16:37:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+The more I took her lecture, the more I am certain I'll fail this class. Textbook somehow is more interesting to read and easier to undertand than her lecture.
+
+--- Rating #20 ---
+Class: ECON302
+Date: 2024-05-06 19:35:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Awful, and final grades are only based on final exam marks and never do extra credit. Hard grading. would not take it again

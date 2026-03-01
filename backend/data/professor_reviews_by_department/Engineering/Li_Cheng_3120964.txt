@@ -1,0 +1,274 @@
+Professor: Cheng Li
+Professor Legacy ID: 3120964
+Professor ID: VGVhY2hlci0zMTIwOTY0
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 1.7
+Avg Difficulty: 4.2
+Num Ratings: 27
+Would Take Again Percent: 7.4074
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENSC-151
+Date: 2026-01-02 16:52:26 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Don't take his class expecting the lectures to be your only source and you'll be okay. His slides are surprisingly competent, and all course material can be pretty easily learned from them. Most work comes from weekly lab assignments and a hilariously easy group project. If you're doing the assignments, you should know what you need for tests.
+
+--- Rating #2 ---
+Class: ENSC-151
+Date: 2025-12-22 07:46:31 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+while cheng li is a very nice professor, unfortunately he is not a very good teacher. went to pretty much every lecture and did all the homework, and yet i still didn't understand the material with the course material which reflected on my final exam. disorganized with TAs which were mostly bad and unhelpful. you WILL have to self teach.
+
+--- Rating #3 ---
+Class: ENSC-151
+Date: 2025-12-20 09:59:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Don't agree with the other ratings, Dr. Li was always very kind, approachable, understanding, and always encouraged questions. He was always open for communication, always replying to emails fast and accepting feedback from students. Course content was very reasonable and I really enjoyed this course. Great prof
+
+--- Rating #4 ---
+Class: ENSC-151
+Date: 2025-12-14 06:49:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He tries to help his students succeed, but to no avail. Professor Li, makes most of the students in his class confused because of a lack of communication. His lectures are often very confusing, he sometimes changes the syllabus grading scheme without any notification, and he also has improper communication between him and his TAs.
+
+--- Rating #5 ---
+Class: ENSC-151
+Date: 2025-12-09 01:26:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Doesn't communicate with students
+
+--- Rating #6 ---
+Class: ENSC-151
+Date: 2025-12-02 07:15:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The professor had poor communication between him, the TAs, and the students. The course schedule was also very obscure especially when it came to assessments like his practical exam and his quizzes. He also couldn't help people who were new with coding get into C++, because of poor teaching skills.
+
+--- Rating #7 ---
+Class: ENSC-151
+Date: 2025-11-30 07:12:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The reason he receives a lot of hate is because he constantly changes the grading scheme, however I think he does it in an attempt to accommodate students, however it is poorly received.
+His lectures are pretty boring and sometimes confusing, however if you do pay attention, you will learn, but make sure to briefly review the content before class.
+
+--- Rating #8 ---
+Class: ENSC-151
+Date: 2025-11-30 06:23:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This is a very hard class, but im personally enjoying it. Don't see why there are so many bad reviews...
+
+--- Rating #9 ---
+Class: ENSC-151
+Date: 2025-11-26 09:08:40 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is not a bad person but is super incoherent and runs a very disorganized class. Grading scheme changes in middle of the semester randomly and TAs taking forever to return assignments. Labs are poorly ran, as TAs and him rarely show up. Tests are brutal and overall class is not beginner friendly so avoid.
+
+--- Rating #10 ---
+Class: ENSC-151
+Date: 2025-11-25 04:48:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+"I love changing the outline every single day and not grading assignments until judgment day comes! -cheng li probably
+
+--- Rating #11 ---
+Class: ENSC-151
+Date: 2025-11-23 01:16:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's nice, but we learned to figure out what character 00100010 refers to before we wrote "if" in our code :/
+
+--- Rating #12 ---
+Class: ENSC-151
+Date: 2025-11-22 09:59:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+hasnt taught in a long time, tried teaching first years and doesn't know how to. Kindest professor in SFU, but you will only really succeed in this class if you have previous coding experience.
+
+--- Rating #13 ---
+Class: ENSC-151
+Date: 2025-11-18 01:20:16 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is a very nice teacher, however, I feel like the class is not very beginner friendly. The only people I believe that can pass the course with a good grade are the ones who coded before. The quizzes are moderate. The content is pretty easy, just watch videos on what you need to learn before class.
+
+--- Rating #14 ---
+Class: ENSC-151
+Date: 2025-11-16 21:59:56 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is a nice guy with great intentions but not meant to be a prof. Class is very disogranized, TAs do not know what is going on either. Random changes in the middle of the semester and weeks to recieve feedback on assignments. Midterm was pretty challenging, but overall the content is not too difficult if you study hard.
+
+--- Rating #15 ---
+Class: ENSC-151
+Date: 2025-11-14 17:51:33 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Do not take this prof no matter what, lectures are pointless but have in-class questions and quizzes. Genuinely the worst teacher/prof I have ever witnessed, and his tests are very hard. Not only that but the TA's somehow take over a month to mark the smallest assignments.
+
+--- Rating #16 ---
+Class: ENSC-151
+Date: 2025-11-13 23:16:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very horrible professor! Hasn't taught since 2007 and doesn't know how to. Lectures are useless and random grading system changes can occur without notice. If you take this class your gpa will tank!
+
+--- Rating #17 ---
+Class: ENSC-151
+Date: 2025-11-13 23:08:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Worst Professor ever, he isn't a bad person in general. However, he is the most inconsistent, incompetent, incoherent person ever.
+He has changed the syllabus and coursework in the middle of the semester, he hires the most useless TAs ever, the TAs doesn't have an idea what to do either. 
+(FYI: Dr. Cheng Li hasn't taught since 2007)
+
+--- Rating #18 ---
+Class: ENSC-151
+Date: 2025-11-13 23:04:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+heavy bald n rarded, not at all sorry
+
+--- Rating #19 ---
+Class: ENSC-151
+Date: 2025-11-13 04:22:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+ABSOLUTELY DO NOT TAKE! This professor does not know how to communicate to his students at all. Canvas is really empty and required to complete work explicitly and up to his standards. Assignments are changed everytime and last minute too. Midterm was brutal and is different from lecture materials. Lectures are also hard to understand.
+
+--- Rating #20 ---
+Class: ENSC-151
+Date: 2025-11-13 00:19:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He changed his rubric mid semester and got in academic misconduct trouble for it. Beware his English language skills. You can't attend his zoom meetings because he stands so far from mic you can't understand what he's saying. He also has spontaneous new projects/assignments and his grading rubric is inconsistent with different TA's.

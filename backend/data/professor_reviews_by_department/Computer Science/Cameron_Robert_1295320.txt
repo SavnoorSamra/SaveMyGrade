@@ -1,0 +1,277 @@
+Professor: Robert Cameron
+Professor Legacy ID: 1295320
+Professor ID: VGVhY2hlci0xMjk1MzIw
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1.5
+Avg Difficulty: 3.7
+Num Ratings: 31
+Would Take Again Percent: 7.4074
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT473
+Date: 2025-05-18 21:35:43 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Dr.Cameron's lectures are really boring and hes very unclear about his criterias. The grading feels random and not based on actual criteras he mentions in class. Quizzes every week. Heavy work course. He's very helpful on technical problems however. Great person, not a good prof.
+
+--- Rating #2 ---
+Class: CMPT128
+Date: 2024-12-12 09:55:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Always held a grudge against this thing but writing a review now to critique him on his poor planning skills. Delayed an exam without permission and let Janice make unallowed changes to grading scheme. He's a reminder that some people can bs their way through parts of life by negatively affecting other's lives and no consequences will follow.
+
+--- Rating #3 ---
+Class: CMPT276
+Date: 2023-08-09 22:18:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Actual fraud. I'm not even joking. Its the equivalent to taking an advanced calculus class only for the prof to go over addition and subtraction. He's also just a bad human being overall. 
+
+I used to wonder why so many students say terrible things about him or talk behind his back but I now know why.
+
+--- Rating #4 ---
+Class: CMPT276
+Date: 2023-07-29 21:39:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Janice and Robert! The doom duo! The world has never seen anything like these two!
+
+--- Rating #5 ---
+Class: CMPT276
+Date: 2023-07-22 04:15:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The course involves an android app group project. Teammates are random. Prof is a nice guy but he's not clear about what he wants in each iteration of the project. His lectures are horrifically dry. Would highly suggest you take CMPT 213 with this course, because if you don't know Java you'll have to learn both Java and Android on your own.
+
+--- Rating #6 ---
+Class: CMPT276
+Date: 2023-04-29 02:59:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I truly wonder why he chose to become a professor even though he doesn't like it. I learned absolutely nothing about software engineering. His criteria is ambiguous for the group project and he doesnt help out at all. Dont take the course with him, save your money from this fraud of a prof. Ive never disliked a prof until now.
+
+--- Rating #7 ---
+Class: CMPT276
+Date: 2023-01-06 20:03:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Rob does not respect your money or time, in this course you're expected to write an entire android app with 3 other students while Rob shows you ted talks about how AI driven cars should run straight into a wall if there are pedestrians. He also will just leave half way through to China and not plan lectures around that. Seriously don't take.
+
+--- Rating #8 ---
+Class: CMPT276
+Date: 2023-01-06 06:23:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+For some reason this prof thought it was a good idea to not cover design patterns smh. Dry lectures. Limited help. 55% of grade is an android app, mostly free marks. If you have deadweight group for project, then GL. 20% for MC quizzes and 25% for MC/Short answer final exam which is pretty easy to get good grades on if you have good memorization.
+
+--- Rating #9 ---
+Class: CMPT276
+Date: 2022-12-19 06:49:51 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I will now read to you the entire response given by Rob when a student had travel plans that interfered with a delayed exam:
+
+Hi, Cole. You should postpone your flight so that you can take the exam.
+
+This was the entire response. Worst person at SFU.
+
+--- Rating #10 ---
+Class: CMPT276
+Date: 2022-12-18 07:28:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Complete scam. The course is based on an Android project and Rob teaches 0 Android development, so get ready to learn 100% on your own. Instead he teaches a load of useless unrelated garbage which you have to memorize for weekly quizzes and the final exam. He also left for vacation halfway through the semester. SFU give me my money back!!!
+
+--- Rating #11 ---
+Class: CMPT276
+Date: 2022-12-17 23:03:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Rob is the least competent educator I have ever met. Materials are lazy, criteria is non-existent, he lacks any semblance of effort in his teaching. His content is ambiguous, contradictory, and tedious. Skipped about 30% of the course. Mid way through the semester, left for China, and was inaccessible. I could rant, but RMP has a 350 chars limit.
+
+--- Rating #12 ---
+Class: CMPT276
+Date: 2022-12-17 22:54:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+That class was a waste of money and time, did not learn anything important nor practical. Be aware of the android project, and Rob won't help at all. Barely responds to emails. He should be retired to be honest...
+
+--- Rating #13 ---
+Class: CMPT276
+Date: 2022-12-17 19:37:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Prof is very unorganized. The project requirements were vague and marking was done very poorly. Additionally the project is very difficult due to the lack of guidance and you are expected to parse a textbook in order to mangle an android application together. Quizzes and tests are just pure memorization with no questions that test comprehension.
+
+--- Rating #14 ---
+Class: CMPT276
+Date: 2022-11-15 03:13:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Rob took a vacation mid semester, and put a very low effort into creating lectures. There is no android programming taught yet you're expected to put together a fairly complicated application together. I do not recommend taking this course with Rob Cameron.
+
+--- Rating #15 ---
+Class: CMPT275
+Date: 2021-12-21 00:34:00 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+One of the absolute worst professors at SFU. Nothing at all is taught in class so don't go, it'll be a waste of 3 hrs. The assignments contained zero guidance so if you want any chance of completing them you have to email Rob to decode his own project. Rob really spent decades of his life to become a glorified slide reader rather than a professor.
+
+--- Rating #16 ---
+Class: CMPT276
+Date: 2021-11-13 01:02:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+In lecture, he just talked about code ethics, security, software requirements and etc. And for the project, he just throws hes parabix project to you with no comments and no explanation to write. The only way you can know how to write the code is keep sending emails and ask him. By the way, he reply emails very slowly. The worst professor everse
+
+--- Rating #17 ---
+Class: CMPT275
+Date: 2021-11-06 05:32:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Weekly readings consisted almost entirely of web articles and wikipedia pages. Weekly quizzes has questions copy pasted from the weekly readings. Prof would play youtube videos for lectures. Prof rarely explained key details and information regarding the course project.
+
+--- Rating #18 ---
+Class: CMPT128
+Date: 2020-12-18 23:29:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+this class sucked
+
+--- Rating #19 ---
+Class: CMPT128
+Date: 2020-09-30 19:04:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+Lectures are very boring.
+
+--- Rating #20 ---
+Class: CMPT276
+Date: 2019-06-18 02:39:56 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He didn't give us any information about the final and didn't provide us with final percentages. His very quiet and slow lectures put me to sleep, of which are also mandatory because, quizzes. His project was boring and not up to date with new technology. Should retire tbh.

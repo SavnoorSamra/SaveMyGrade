@@ -1,0 +1,50 @@
+Professor: Ruonan "Annie" Zhang
+Professor Legacy ID: 1331140
+Professor ID: VGVhY2hlci0xMzMxMTQw
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2.5
+Avg Difficulty: 3.7
+Num Ratings: 3
+Would Take Again Percent: -1
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: MATH157
+Date: 2010-10-04 00:49:41 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+nice prof. hard to understand topics but crystal clear
+
+--- Rating #2 ---
+Class: MATH157
+Date: 2009-12-01 22:51:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Not a very good prof. Very difficult to understand. Does not teach, merely reads notes. Does not explain anything. Questions are not encouraged and she is not very approachable.
+
+--- Rating #3 ---
+Class: MATH157
+Date: 2009-10-21 17:42:18 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Though I don't have 157, I go to her class almost every time with my friends... Just bored XD. Anyways, I think she's just scary... that's all I can think of about her =.=

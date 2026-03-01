@@ -1,0 +1,271 @@
+Professor: Richard Vaughan
+Professor Legacy ID: 433618
+Professor ID: VGVhY2hlci00MzM2MTg=
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.5
+Avg Difficulty: 3
+Num Ratings: 41
+Would Take Again Percent: 80
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT127
+Date: 2017-11-08 01:40:45 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Assignments use code with poor style. Has little regard for teaching syntax or really any useful programming practices. Spends most of his time going after students that have similar work and virtual signaling, never teaching. Class uses a completely flawed model of instruction.
+
+--- Rating #2 ---
+Class: CMPT127
+Date: 2017-01-09 22:50:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+One of the best profs for CS. Can't go wrong with him. He is extremely knowledgeable and respectful. Makes very clear points and tells you the potential of things you do making the content intriguing. The course is an easy A+. I loved coding myself so the labs are easy to me even that I didn't know any C before.
+
+--- Rating #3 ---
+Class: CMPT127
+Date: 2016-12-21 15:47:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The labs get difficult quickly, but Richard and the TAs are extremely helpful. Keep up or you'll fall behind and have to work extra hard as he gives tips on the latest labs.
+
+--- Rating #4 ---
+Class: CMPT127
+Date: 2016-12-06 22:37:32 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Don't leave the labs till the last minute. If you have solid foundation on C, you should be fine.
+
+--- Rating #5 ---
+Class: CMPT127
+Date: 2016-07-06 19:28:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Great prof. Coursework is meant to be challenging and vague to prepare you for programming in the real world.
+
+--- Rating #6 ---
+Class: CMPT127
+Date: 2015-12-20 18:35:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+This course counts towards your GPA now. We only got through 9 out of 11 labs, and the automatic grading for the last one took so long to be released that the deadline for the labs (there's only one deadline!) was delayed by a week. Paying attention to the in-lab lectures and asking questions will help you a ton.
+
+--- Rating #7 ---
+Class: CMPT127
+Date: 2015-05-01 21:45:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+This class does not count in your GPA but is a required class for CMPT major. The professor is really helpful and motivating.
+
+--- Rating #8 ---
+Class: CMPT127
+Date: 2015-04-23 10:36:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+He's a fantastic professor, wish he taught CMPT 125 as well. He's very helpful and the labs are very interesting. There are quite a few to finish but you only need to do 75% of them to pass the course.
+
+--- Rating #9 ---
+Class: CMPT127
+Date: 2015-04-17 18:33:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+He is a little intimidating at first because he obviously expects a lot from his students, but his one on one help is amazing. He was very patient and even went to a white board to explain a concept to me that I didn't get, I owe getting an A on my 125 midterm entirely to him. There should be more courses like this, a lot of pressure but it helps!
+
+--- Rating #10 ---
+Class: CMPT118
+Date: 2014-04-20 19:57:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: Y
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Too many labs to do. Cannot finish it and received a Fail
+
+--- Rating #11 ---
+Class: CMPT431
+Date: 2013-03-19 19:09:30 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Doesn't know his own slides. Frequently misspeaks in class. Was so slow releasing the assignment two guidelines that he cancelled it altogether and shifted that weight to the other two assignments (one which was already complete). He seems like a very intelligent man, but he definitely needs to sort himself out.
+
+--- Rating #12 ---
+Class: CMPT431
+Date: 2011-05-19 14:15:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Great professor, very interested in distributed systems and aims to teach you all he knows.
+
+--- Rating #13 ---
+Class: CMPT431
+Date: 2011-05-08 14:20:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Great Prof, would learn again. A++
+
+--- Rating #14 ---
+Class: CMPT431
+Date: 2011-04-19 01:49:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Excellent professor. He teaches this course like no other course is taught at SFU. I highly recommend it, with him, if you are smart, hard working, and willing to learn. He doesn't hold your hand, and you will have to learn some things on your own), but we're not here to learn online tutorial material. Theory and experience is why we're here.
+
+--- Rating #15 ---
+Class: CMPT300
+Date: 2008-08-15 09:15:41 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Very decent. Passionate about the subject he is teaching. Concise explanations and nice British accent. Posts slides online. Midterm was 100% textbook questions, final was 40% textbook questions; difficulty is fair to hard. HW can be challenging. Takes him FOREVER to mark assignments--very thorough about checking for copied HW.
+
+--- Rating #16 ---
+Class: CMPT300
+Date: 2008-04-21 16:18:50 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+At first he seems like a nice guy and makes funny jokes and all. However,he is totally sloppy if it comes to exams or assignments.He posts assignments late and gives ambigous instructions. His exames are the biggest joke since they often cover questions that appear once in the lecture but not in the book. Lecture slides, posted late and useless.
+
+--- Rating #17 ---
+Class: CMPT300
+Date: 2008-04-13 00:05:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Basically everything that can be said about Dr. Vaughan already has been.  He is an awesome prof, speaks English clearly, is not boring, is interested in the subject, gives interesting homework and his exams are not too hard.  I am going to take CMPT401 with him.
+
+--- Rating #18 ---
+Class: CMPT300
+Date: 2008-04-10 13:51:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+I echo the sentiments of the other reviews. He's an excellent professor.
+
+--- Rating #19 ---
+Class: CMPT300
+Date: 2006-11-09 12:07:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Great Prof !!!!! I love this guy. He made everything interesting and didn't go too far into details. Gave an excellent sample midterm, with questions that appeared on the actual one. EX. for 3 marks, what is an Operating System&#63; great guy. I got an A-. I spent a lot of time on his projects, but i actually learned about operating systems. Go for it!
+
+--- Rating #20 ---
+Class: CMPT300
+Date: 2006-08-09 16:19:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+I failed the midterm but managed to get an A on this course. Take it with him if you are really there to learn.

@@ -1,0 +1,271 @@
+Professor: Andrew Rawicz
+Professor Legacy ID: 28886
+Professor ID: VGVhY2hlci0yODg4Ng==
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 3.3
+Avg Difficulty: 2.8
+Num Ratings: 30
+Would Take Again Percent: 42.8571
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENSC440
+Date: 2022-01-01 04:31:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Capstone B, you've made it to the end of the degree. At this point the project is set, the documents have become routine, and there isn't really any big changes a professor can make to alter the experience. His involvement and presence is minimal, including some throwaway lectures, overall doesn't do anything notably good or bad.
+
+--- Rating #2 ---
+Class: ENSC440
+Date: 2019-09-20 18:16:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+No Clue on Lectures. Lectures not posted and talk about random stuff. We have to take this class but school should look for someone with engineering degree and not physics.
+
+--- Rating #3 ---
+Class: ENSC440
+Date: 2018-03-02 01:37:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+3 lectures in total for a 3 credit course. No coue why tuition fee is charged for this part of the course. Most absurd remarks about students projects with no inpits at all and grades are a game of roulette
+
+--- Rating #4 ---
+Class: ENSC481
+Date: 2017-02-07 01:56:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Prof: "Why do you think the Chernobyl disaster happened?" Student: "The engineers lacked knowledge."  Prof: "No. They were drunk!"  Best prof ever.
+
+--- Rating #5 ---
+Class: ENSC481
+Date: 2016-12-22 02:49:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Extremely engaging lectures. A midterm project and a final project. Weekly homework and quizzes every 2 weeks. Quizzes are conceptual only, no  numerical on quizzes. A must have prof. Take as many courses with him as you can.
+
+--- Rating #6 ---
+Class: ENSC481
+Date: 2016-10-07 23:51:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr. Rawciz is a professor ahead of his time. At the time, where professors drown students in homework, he believes in learning in action. He takes you on field trips. He tells you stories about the material so you can be engaged in the subject. He purposely answers questions wrong to see if his students are aware and present in class. Professional.
+
+--- Rating #7 ---
+Class: ENSC440
+Date: 2016-07-11 14:54:08 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+no clue how he grades you
+
+--- Rating #8 ---
+Class: ENSC370
+Date: 2015-02-23 23:44:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+Dr Rawicz is one of those rare professors who is completely self aware, and understands all the bull that Students have to face in University. His only goal is to see a strong future of Biomedical Engineering from his students. If you think outside the box and show a genuine interest in the material, you will get a good grade and take a lot from it
+
+--- Rating #9 ---
+Class: ENSC370
+Date: 2013-04-11 14:38:32 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Smart man who will help you figure out your career path. Doesn't like grades, and doesn't like students' obsession with grades. Vague outlines for all work done, so you don't know if you're doing anything right or not. Final grades seem arbitrary.
+
+--- Rating #10 ---
+Class: ENSC370
+Date: 2012-06-24 02:00:30 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+An active member of the SFU engineering department who truly deserves the title of professor.  Extremely knowledgeable due to his experience in research, industry, and intimate contact with leaders in the field.  He founded SFU biomed engineering and also owned a company.  Great guy and extremely passionate but you have to make the effort.
+
+--- Rating #11 ---
+Class: ENSC370
+Date: 2012-04-30 04:23:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Learned lots from him, and he has lots of connections around the city, so the field trips were very good. But when it comes to grading, never got any grades back until I got my final grade, which I was certain would be an A+, but was an A-. Prior to this semester, I never even got an A-. He just pulled the grade out of no where, with no justificatn
+
+--- Rating #12 ---
+Class: ENSC440
+Date: 2011-01-17 20:29:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+You are so useless Andrew. You should go to BCIT and see how they teach their final projects to students. Show up to the lab JUST FOR ONCE and see how much stress and effort this course costs students before opening your mouth with some stupid question regarding biomedical engineering.
+
+--- Rating #13 ---
+Class: ENSC440
+Date: 2011-01-15 20:46:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Very Easy Going guy but harsh on marking, its impossible to get an A from him, very smart guy, very funny
+
+--- Rating #14 ---
+Class: ENSC370
+Date: 2008-09-03 03:57:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Best Prof you can talk to and get advice about anything. Very smart and knowledgeable.
+
+--- Rating #15 ---
+Class: ENSC481
+Date: 2006-11-06 15:26:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+good
+
+--- Rating #16 ---
+Class: ENSC330
+Date: 2004-12-16 03:16:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He CANT speak english at all.
+
+--- Rating #17 ---
+Class: ENSC330
+Date: 2004-03-24 00:23:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+no notes, just textbook. take home exams were a nice change though
+
+--- Rating #18 ---
+Class: ENSC340
+Date: 2003-12-05 00:40:45 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Nice casual atmosphere.
+
+--- Rating #19 ---
+Class: 330
+Date: 2003-03-04 02:02:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+i found this guy to be very smart, patient, and helpful. most people are afraid to approach him because he looks scary, but he's really nice once you approach him...
+
+--- Rating #20 ---
+Class: ENSC330
+Date: 2003-02-26 04:25:04 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Unstructured course. Must learn stuff on ur own. Textbook a absolute MUST even if it's only recommended.

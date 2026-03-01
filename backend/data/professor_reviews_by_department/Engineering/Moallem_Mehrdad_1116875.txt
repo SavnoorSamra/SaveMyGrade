@@ -1,0 +1,63 @@
+Professor: Mehrdad Moallem
+Professor Legacy ID: 1116875
+Professor ID: VGVhY2hlci0xMTE2ODc1
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 3.9
+Avg Difficulty: 3.3
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: MSE312
+Date: 2016-12-18 00:24:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Very good prof!
+
+--- Rating #2 ---
+Class: MSE312
+Date: 2016-12-18 00:22:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He is a very knowledgeable professor and quite helpful. I enjoyed attending his class and learned a lot.
+
+--- Rating #3 ---
+Class: MSE312
+Date: 2015-11-16 17:13:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+he gave negative points on each question you did wrong. His lecture is clear and boring, lots of students skip his class and do just fine around B- to A
+
+--- Rating #4 ---
+Class: MSE450
+Date: 2015-05-06 20:22:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures are boring. Uses a lot of slides. Exams are OK. Nice person.

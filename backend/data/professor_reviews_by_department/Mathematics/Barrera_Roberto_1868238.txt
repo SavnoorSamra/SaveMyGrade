@@ -1,0 +1,50 @@
+Professor: Roberto Barrera
+Professor Legacy ID: 1868238
+Professor ID: VGVhY2hlci0xODY4MjM4
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 2
+Avg Difficulty: 4.7
+Num Ratings: 3
+Would Take Again Percent: -1
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: MATH310
+Date: 2014-01-07 23:47:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+*couldn't understand his accent. *make lots of mistakes during lecture. *TA was more helpful than prof..
+
+--- Rating #2 ---
+Class: MATH310
+Date: 2013-12-26 03:38:36 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+cant understand his accent. no one attends lecture because of it
+
+--- Rating #3 ---
+Class: MATH310
+Date: 2013-12-26 03:34:54 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: N
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+this guy doesn't want to scale the grades

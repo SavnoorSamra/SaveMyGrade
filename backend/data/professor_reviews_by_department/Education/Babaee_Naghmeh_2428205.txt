@@ -1,0 +1,90 @@
+Professor: Naghmeh Babaee
+Professor Legacy ID: 2428205
+Professor ID: VGVhY2hlci0yNDI4MjA1
+Department (CSV): Education
+Department (Fetched): Education
+Avg Rating: 2.3
+Avg Difficulty: 4.2
+Num Ratings: 6
+Would Take Again Percent: 33.3333
+
+Ratings Count Returned: 6
+
+--- Rating #1 ---
+Class: HUMN430
+Date: 2025-03-23 23:08:22 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+The professor is not giving the proper marks to student also behavior is not good regarding student for some not all
+I advice to student dont take this professor .
+
+--- Rating #2 ---
+Class: HUMN430
+Date: 2023-10-26 05:02:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I had a awful experience with this professor.  Was extremely unconsiderate professor and had no great skill of teaching in general. I found her unprofessional by using unappropriate example in class and clearing students were not comfortable. Lastly does not mark assignments in a timely matter, please don't take this professor at cost.
+
+--- Rating #3 ---
+Class: HUMN430
+Date: 2023-06-01 19:23:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Naghmeh was kind and very passionate about her work. I really enjoyed my classes with her!
+
+--- Rating #4 ---
+Class: FALX99
+Date: 2022-11-16 02:07:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Arrogant, gives me least grade out of my courses, although i pay my full attention.  Egoistic
+
+--- Rating #5 ---
+Class: HUMN430
+Date: 2022-01-02 20:45:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Worst proff ever. Failing is better than attending her course
+
+--- Rating #6 ---
+Class: FALX99
+Date: 2020-06-01 23:02:34 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Naghmeh was very clear of her expectations from the start and taught me many useful tips to write a successful academic paper that I didn't know before. She is a very sweet professor who makes class interesting and worth to learn from. I enjoy the little exercises from the workbook and peer edit sessions.

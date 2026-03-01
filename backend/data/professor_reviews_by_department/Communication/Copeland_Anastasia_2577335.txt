@@ -1,0 +1,11 @@
+Professor: Anastasia Copeland
+Professor Legacy ID: 2577335
+Professor ID: VGVhY2hlci0yNTc3MzM1
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

@@ -1,0 +1,271 @@
+Professor: Ping Ding
+Professor Legacy ID: 828873
+Professor ID: VGVhY2hlci04Mjg4NzM=
+Department (CSV): Mathematics
+Department (Fetched): Mathematics
+Avg Rating: 3
+Avg Difficulty: 2.4
+Num Ratings: 25
+Would Take Again Percent: 40
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MATH251
+Date: 2025-09-24 00:50:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+DING DING!
+
+--- Rating #2 ---
+Class: MATH150
+Date: 2025-09-19 05:56:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+THE BEST PROF EVER
+
+--- Rating #3 ---
+Class: MATH154
+Date: 2018-01-05 17:15:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Calc 1 isn't a difficult course, but Dr. Ding makes it too hard to understand. He goes through power points with so much detail in a couple of seconds, without giving the students time to process what was just said. Doesn't check if anyone is listening or gets it. He fell asleep during the final with someone's phone ringing for about 20 minutes.
+
+--- Rating #4 ---
+Class: MATH154
+Date: 2017-02-08 04:47:00 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+If u took calc 12, you planned smart. Nice prof, but very confusing! Mumbles a lot in lecture and he assumes you know a lot! When he goes over examples on the board, you don't know how he did it, because it shows a step you know how to do and a solution, missing the work to get there! Use the textbook as exams are from there, and youtube topics!
+
+--- Rating #5 ---
+Class: MATH157
+Date: 2017-01-12 05:59:24 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I found it difficult to understand him, he has a heavy accent. Lectures are boring and his slides are directly from the textbook publisher. He writes examples on a small white board in a big lecture hall. Examples are also from the textbook. Tests are extremely easy and there is no online homework like other math courses. Easy to self teach.
+
+--- Rating #6 ---
+Class: MATH154
+Date: 2017-01-08 00:57:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Has a thick accent, but after a while it gets easier to understand him. I taught myself most of the course material, but lectures were helpful when I needed to ask questions google couldn't answer . If I had trouble with HW I would ask him after class and he was helpful and straight to the point. Easy exams if you do the review material.
+
+--- Rating #7 ---
+Class: MATH157
+Date: 2016-12-21 02:36:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Ping Ding is an awful prof and has a very thick accent. Be prepared to teach yourself all of the material from the textbook as you will not learn much in the lectures. His midterms though were both fair and the final exam was quite straightforward as long as you did the review.
+
+--- Rating #8 ---
+Class: MATH157
+Date: 2016-12-12 15:53:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Be prepared to self teach your self the entire course. He has a thick accent which makrs it difficult to understand him. Midterms were very fair but the final exam was brutal.
+
+--- Rating #9 ---
+Class: MATH154
+Date: 2016-12-06 23:53:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+First off, the class may be challenging without already have taken Calc 12 but you must understand that you will have to teach yourself everything. Ping has no ability to explain questions, is VERY difficult to even understand, and in the whole semester he failed to show me anything I couldn't learn from the textbook in half the time and effort.
+
+--- Rating #10 ---
+Class: MATH154
+Date: 2016-10-03 02:37:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+just gotta say i love the guy
+
+--- Rating #11 ---
+Class: MATH150
+Date: 2015-12-19 01:08:27 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+-VERY boring and unclear due to his thick accent -midterm was fair, final was brutal -must teach yourself everything in order to pass -loncapa homework is mostly fair, ask ta in open lab for help -if you did well in grade 12 calc you'll be good to go -ta in open lab taught me everything i know
+
+--- Rating #12 ---
+Class: CALC150
+Date: 2015-11-03 21:14:00 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He's an easy marker and his midterms are easy but his english is so bad that it is easier to read through the book than listen to him during lecture
+
+--- Rating #13 ---
+Class: MATH150
+Date: 2015-11-03 00:06:29 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+The course itself is easy, and he is an easy marker but his English needs improvement, which sometimes I could hardly understand what he is saying.
+
+--- Rating #14 ---
+Class: MATH150
+Date: 2015-03-03 23:08:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures are from powerpoints, awesome for people who already knew material or cannot always come to class.   One of the easier MATH 150 teachers.
+
+--- Rating #15 ---
+Class: MATH251
+Date: 2014-12-15 15:50:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Ping Ding uses the textbook as a crutch to teach this class. His lectures will lull you to sleep as he reads from the textbook-provided power point slides. If you stay on top of the material on your own, you can get above a B in this class. Do his review questions for the midterms and final; exams have strikingly questions.
+
+--- Rating #16 ---
+Class: MATH157
+Date: 2013-11-17 19:49:41 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Terrible prof. Notes he gives are exactly the same as the textbook but illegible, and you can barely understand what he is saying through his thick accent. Only pro to this class is the exams were fair. Be prepared to self-teach yourself the entire class...
+
+--- Rating #17 ---
+Class: MATH100
+Date: 2013-07-08 02:43:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Ping Ding is a great prof for Maths... His exams are super duper easy !!! Go for it !! Easy A+
+
+--- Rating #18 ---
+Class: FANX99
+Date: 2013-06-21 01:34:56 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Ping Ding is a nice prof, but his accent makes it hard to understand what he is saying at times. Quizzes very easy. Midterms not bad. The annoying stuff was weekly online and hand in hwk.
+
+--- Rating #19 ---
+Class: MATH100
+Date: 2013-05-06 19:06:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I had trouble understanding him sometimes, but besides that it was not bad. His exams are very fair, and he does tell you everything you need to know before the exams. Understand the material and you will be fine!
+
+--- Rating #20 ---
+Class: MATH150
+Date: 2013-04-17 18:22:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+LOVE THE GUY. His accent is brilliant and he makes each class enjoyable by reading straight from the text book word for word. His exams are child's play, class average was 90%... everyone loved him.

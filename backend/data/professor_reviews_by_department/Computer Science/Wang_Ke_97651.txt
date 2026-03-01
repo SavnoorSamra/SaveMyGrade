@@ -1,0 +1,276 @@
+Professor: Ke Wang
+Professor Legacy ID: 97651
+Professor ID: VGVhY2hlci05NzY1MQ==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.4
+Avg Difficulty: 2.8
+Num Ratings: 56
+Would Take Again Percent: 58.8235
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT454
+Date: 2025-12-17 12:23:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He's the goat. Exams are very fair, and he allows a double sided cheat sheet. Course content isn't overwhelming, and final is not cumulative. Grading is 30% assignments (10% each), 30% midterm and 40% final. Assignments can be a bit tricky but they aren't bad. Study for the exams and you'll get a good grade
+
+--- Rating #2 ---
+Class: CMPT454
+Date: 2025-12-10 03:11:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Take this course with Ke Wang if you need a chill 400 lv for depth requirements. Content is pretty standardized (DB courses are pretty similar across unis) and the content is very algorithmic (i.e., if you practice enough you're golden). Lectures are a bit dry though but he's a caring and chill prof.
+
+--- Rating #3 ---
+Class: CMPT354
+Date: 2024-12-21 06:10:23 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very average prof. Not great but also not bad at teaching. Assignments were straightforward but hard to get full marks on. Exams were reasonable difficulty.
+
+--- Rating #4 ---
+Class: CMPT454
+Date: 2024-12-14 05:43:36 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The professor cares for the students but isn't great at teaching. Lectures are lengthy, doesn't have the best explanations, some content is left ambiguous at best, and examples are copied from the textbook. The content isn't hard but a lot of self-study is required with him. Weekly quizzes, plus a quiz right before a tricky midterm. Final was fair.
+
+--- Rating #5 ---
+Class: CMPT454
+Date: 2024-12-14 01:06:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This man is a G. Yea the lectures are 3 hours long and boring, but the quizzes are open book, you get to bring a cheatsheet into the midterm and final, he asks fair questions based only on the slides, so reading the textbook is unnecessary. There is a little bit of confusion in the first half when it comes down to I/O costs, but generous marking!!
+
+--- Rating #6 ---
+Class: CMPT454
+Date: 2024-12-14 00:51:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+First half of the course was more difficult, mostly due to the lectures not being the best. However the second half was a lot easier, felt like the lectures got better as well. Homework was ambiguous at times but not too horrible. No coding for the course, only theory. Quizzes were okay, but requires attendance. Final was easy.
+
+TLDR: unc is chill
+
+--- Rating #7 ---
+Class: CMPT454
+Date: 2024-11-27 04:43:37 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Ke can't explain things intuitively, his accent is incomprehensible at times, 3 hour lectures were excruciating mental hurdles. Ke forces attendence by quizzes at the end of every lecture - else no one would show up
+
+The material should be easy, if only Ke could help rather than adding confusion while wasting everyone's time. Don't take this crouse
+
+--- Rating #8 ---
+Class: CMPT454
+Date: 2024-04-23 01:23:00 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Fair course overall, may not be the best professor at teaching but he's caring and will help if you go to office hours.
+
+--- Rating #9 ---
+Class: CMPT454
+Date: 2024-04-22 22:08:33 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The first part of the course was taught by giving examples, but Ke never actually explained how to work through these examples and just said "this is easy, I'll let you figure it out". This effected the assignments as nobody knew exactly how to properly do the questions as we were never given a proper answer to the examples. Final is easy tho.
+
+--- Rating #10 ---
+Class: CMPT354
+Date: 2023-12-11 18:18:21 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+Terrible experience, all his lecture slides had errors , his quizzes also had errors. His lectures were incredibly dry and he had the audacity to never teach us how to get FDs out of a set of statement and then test us on it in the final. Changed the final questions 3 times during the final and then refused to give extra time. He makes 210k btw
+
+--- Rating #11 ---
+Class: CMPT354
+Date: 2023-12-03 00:54:04 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+It was TOO DRY! I think the teaching method is also outdated. I did not enjoy this class with him. He is caring and a very nice person. However, the way he teaches just makes the course so boring. Assignments are hard, and I believe he does not go over examples, he just teaches simple things and expects us to learn!
+
+--- Rating #12 ---
+Class: CMPT454
+Date: 2023-04-28 18:29:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor Ke Wang is the best professor for people who want clear requirements. You can easily get really good grades in his class by understanding the textbook. He isn't overbearing. He knows all the stuff in the textbook, which is enough to handle the class. If you're looking for a lot of stuff outside class then maybe not for you.
+
+--- Rating #13 ---
+Class: CMPT741
+Date: 2023-04-21 19:57:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+My only complaint is about the quiz because sometimes it's ambiguous. Professor did say he spent hours to find appropriate questions, so I think he still cares about our experience. I didn't have unpleasant experience myself. If you learn by reading, you have an easy time; If you rely on listening or doing project, maybe its harder but still OK.
+
+--- Rating #14 ---
+Class: CMPT741
+Date: 2023-04-21 18:27:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Many a times, you attend classes not just for grades but for experiences. Ke Wang just makes sure you get the WORST possible experience. Just talk to him for 5 mins, you'll start getting that experience. Nightmarish guy!! 
+I don't know how is still a instructor? I won't  even hire him to teach a 10 year old son.
+
+--- Rating #15 ---
+Class: CMPT741
+Date: 2023-04-21 02:08:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+While the teaching practice is not perfect, I think this course is not demanding or frustrating. As long as you understand the materials on the slides and did what is required, you can expect to get a fairly good grade. The assignments are not heavy and the materials are not too intellectually challenging. I had a good learning experience.
+
+--- Rating #16 ---
+Class: CMPT741
+Date: 2023-04-20 08:59:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I expected more learning material and a project. I hope that we had channels like piazza to ask questions and receive feedback. But I really can't complain too much. The assignments are graded timely. The workload is not too heavy. We learned a decent amount of knowledge. Overall it's good. There's curving, which is not meant to give you low marks.
+
+--- Rating #17 ---
+Class: CMPT741
+Date: 2023-04-18 19:24:04 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He would spend time in class to clarify the answers to quizzes and exams. While this is not the best practice (it 's like TA's job), I still feel that the professor want everyone to have a good learning experience without confusion. While there're minor complaints, I believe he's a good professor. No accent or logistic problem from my experience.
+
+--- Rating #18 ---
+Class: CMPT741
+Date: 2023-02-15 23:03:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Doesn't know how to teach. Very bad Communication skills. Won't take the students feedback. Avoid!!!
+
+--- Rating #19 ---
+Class: CMPT354
+Date: 2023-01-04 07:14:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is good at explaining concepts, and he is fair. His assignments are not that easy, but they help a lot with midterms and final exams. I will take more classes with him in the future.
+
+--- Rating #20 ---
+Class: CMPT354
+Date: 2022-12-20 23:26:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Caring for students and giving them a very comfortable way to take the final exam under SFU's ridiculous final exam rescheduling time and time again.

@@ -1,0 +1,24 @@
+Professor: Lawrence McAllister
+Professor Legacy ID: 2519421
+Professor ID: VGVhY2hlci0yNTE5NDIx
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 5
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 100
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: ALC099
+Date: 2020-01-01 00:30:29 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Lawrance is so good, he is funny and interesting. He always tries his best to encourage and help student to understand the lecture. He is not easy in grading the exam.

@@ -1,0 +1,290 @@
+Professor: Felix Lo
+Professor Legacy ID: 3039248
+Professor ID: VGVhY2hlci0zMDM5MjQ4
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.2
+Avg Difficulty: 2.5
+Num Ratings: 26
+Would Take Again Percent: 26.9231
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT105W
+Date: 2026-01-07 23:48:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Felix is definitely passionate about the course material but he just isn't a super engaging lecturer. We also got most of our marks after the course concluded, but I'm pretty sure this was just the TAs being slow. Attendance to all lectures is mandatory, but the midterms are multiple choice w/some long answer questions.
+
+--- Rating #2 ---
+Class: CMPT105W
+Date: 2026-01-02 22:47:43 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+This run of the course didn't go well. Half of our marks came out after classes were over. It's clear that Felix enjoys this content, but he struggles to keep classes engaged. I don't think it's a problem with this prof specifically, but don't expect to enjoy this course.
+
+--- Rating #3 ---
+Class: CMPT105W
+Date: 2025-12-22 05:17:25 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Boring, slept through the whole thing
+
+--- Rating #4 ---
+Class: CMPT105W
+Date: 2025-12-14 02:21:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His lectures are long and dull at times, and he takes attendance often during them. The tests aren't difficult if you memorize every little thing from the lectures since he sometimes asks questions like "when was this specific video game invented?" Each assignment is marked late, so it's hard to know what to improve on for the next one.
+
+--- Rating #5 ---
+Class: CMPT105W
+Date: 2025-12-10 06:47:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+You'll only see the grades from two or three assignments before the final results are released, meaning you'll never know your current level and can't work to improve. He just reads from the slides and calls attendance every day. Don't choose him!&#65281;
+
+--- Rating #6 ---
+Class: CMPT105W
+Date: 2025-12-10 06:45:38 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+You'll only see the grades from two or three assignments before the final results are released, meaning you'll never know your current level and can't work to improve. He just reads from the slides and takes attendance every day. Don't choose him!
+
+--- Rating #7 ---
+Class: CMPT105W
+Date: 2025-12-10 04:02:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+We received final grades before getting feedback or grades on over half of the semester's assignments or exams. There was very little transparency around marking timelines, and the course offered minimal opportunity to learn or improve because feedback came only after the semester had ended. If possible, I would avoid this course.
+
+--- Rating #8 ---
+Class: CMPT105W
+Date: 2025-11-29 02:59:43 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I honestly don't think he deserves a 1/5 
+- reads off slides / attendance is strict.
+- he hunts u down if you sneak out
+
+But honestly? He's actually a simple, approachable guy. 
+Though I wouldn't want to work for him in real life.
+
+The exams are annoying. The questions are super nitpicky. 
+e.g.Memorize how many bullet points go on a PPT slide. lol.
+
+--- Rating #9 ---
+Class: CMPT105W
+Date: 2025-11-28 04:33:48 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Mandatory attendance, but the class is torture because he only reads the slides.
+
+Grading is super slow. Five major assignments rely on earlier feedback, yet grades came out only after the last one. Worst professor and TA team ever.
+
+p.s. There's even a chapter on presentation taught by such a TERRIBLE presenter.
+
+--- Rating #10 ---
+Class: CMPT105W
+Date: 2025-11-22 05:33:15 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He mostly reads directly from the lecture slides. Have no idea what we were supposed to learned this course. Grading is incredibly slow. When I went to office hours to review my midterm, i wasnt even allowed to review my mcqs. He just read the comments written by TAs on my long answers.
+
+--- Rating #11 ---
+Class: CMPT105W
+Date: 2025-11-14 00:18:19 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Monotone lectures. Attendance is mandatory and part of your grade. 1/3 of lecture time is spent watching movie clips and answering questions based on the clips. Currently, at the time this review is being written, there are 2 weeks left until the end of the semester and only 5% of our grade has been returned.
+
+--- Rating #12 ---
+Class: CMPT105W
+Date: 2025-11-10 01:29:34 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures and criteria for papers are so vague, the TA's don't know how to mark papers and tests in a timely manner.
+
+--- Rating #13 ---
+Class: CMPT105W
+Date: 2025-09-30 22:01:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I personally thought the topics he brought to class were pretty interesting.
+
+ He makes an effort to engage with students through in-class polls, which are rewarded (snacks). He also makes every Friday a movie day, which offers a nice change of pace. 
+
+Lastly he is very caring, I did not have any issues with academic concession.
+
+--- Rating #14 ---
+Class: CMPT376
+Date: 2025-07-05 10:00:16 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+For people who just want to get it done, it's an okay / typical writing course. But the weird anti-communist propaganda was kind of unnecessary.
+
+--- Rating #15 ---
+Class: CMPT105W
+Date: 2025-05-01 03:20:45 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Most boring prof I've ever had because lectures were just full of yap. Attendance is for grades. Criteria for papers and small assignments are a bit unclear. Final exam is easy, as most people never paid attention in class and only needed a few days of slide reviewing. Grades get scaled at the end of the semester. Quick and helpful email replies.
+
+--- Rating #16 ---
+Class: CMPT105W
+Date: 2025-04-29 15:23:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+yap session smh
+
+--- Rating #17 ---
+Class: CMPT376
+Date: 2025-04-28 19:19:57 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Randomly timed participation check-in and assignment end of class. 4 assignments: requirements (functional/non-functional) document, 1500 word ethics essay, group project, and 3500 word research term paper. Honestly, I put in very low effort and scored 80's on most assignments. But I'm guessing the averages are high which is why I ended up with B.
+
+--- Rating #18 ---
+Class: CMPT105W
+Date: 2025-04-28 02:30:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The class is quite boring in the sense that it's just him going through slides and briefly explaining and then going to another slide about writing. You should show up to class as he does a participation activity at the end. The assignments are two papers and a PPT which are quite annoying. The final is basically 35 MCQ and then 2 long responses.
+
+--- Rating #19 ---
+Class: CMPT105W
+Date: 2025-04-27 06:26:56 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+assignments sometimes got returned by TAs a month (or more) after they were submitted and without any feedback 
+assignments are easy if you know how to write essays
+lectures are 3hr long, worth 10% of ur mark and are pretty slow, but felix spices them up with kahoots and polls
+course isn't "fun" but is easily survivable
+
+--- Rating #20 ---
+Class: CMPT376
+Date: 2025-04-26 21:50:23 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Most of the content discussed in lectures is interesting if you apply yourself and engage in a discussion with the professor/class. Parts of the lectures are definitely less engaging, but he attempts to make them better with Kahoot style quizzes. Paper are graded fairly and he listens to the students.

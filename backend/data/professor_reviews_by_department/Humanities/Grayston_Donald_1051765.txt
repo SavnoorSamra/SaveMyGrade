@@ -1,0 +1,11 @@
+Professor: Donald Grayston
+Professor Legacy ID: 1051765
+Professor ID: VGVhY2hlci0xMDUxNzY1
+Department (CSV): Humanities
+Department (Fetched): Humanities
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

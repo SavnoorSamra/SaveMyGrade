@@ -1,0 +1,50 @@
+Professor: Christine Pitt
+Professor Legacy ID: 2390411
+Professor ID: VGVhY2hlci0yMzkwNDEx
+Department (CSV): Marketing
+Department (Fetched): Marketing
+Avg Rating: 5
+Avg Difficulty: 2.3
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: BUS449
+Date: 2025-01-08 17:24:53 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Christine is one of the best professors I have had at SFU. She is very sweet and understanding as a person and very informative as a professor. I had the best time in her class as it was super engaging which made it a very positive environment. If you enjoy marketing, participating and overall a good class I would definitely take her!!
+
+--- Rating #2 ---
+Class: BUS449
+Date: 2024-12-08 07:46:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+It was a pleasure to have Christine as a professor this semester. She cares about your learning and is willing to support your understanding of the course in various ways. I looked forward to coming to our lectures in the morning. The class is super collaborative, so preparing beforehand with readings will help a lot. Would take her class again!
+
+--- Rating #3 ---
+Class: BUS449
+Date: 2019-01-09 00:50:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Christine was one of my favorite profs at SFU. Her lectures were insightful and she always asked engaging questions to further discussion. She's funny and caring to her students and makes it very easy to have an class discussion but she never pressures anyone to participate in class. There are 3 easy pop quizzes though so do the assigned readings.

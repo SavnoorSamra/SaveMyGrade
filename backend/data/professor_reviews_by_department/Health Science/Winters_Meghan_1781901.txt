@@ -1,0 +1,154 @@
+Professor: Meghan Winters
+Professor Legacy ID: 1781901
+Professor ID: VGVhY2hlci0xNzgxOTAx
+Department (CSV): Health Science
+Department (Fetched): Health Science
+Avg Rating: 3.3
+Avg Difficulty: 3.1
+Num Ratings: 11
+Would Take Again Percent: 100
+
+Ratings Count Returned: 11
+
+--- Rating #1 ---
+Class: HSCI472
+Date: 2023-04-14 04:46:33 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Went from absolute beginner to a proficient user of GIS in 12 weeks, and this helped me land a co-op purely because I was the only applicant who could use GIS! Meghan is incredibly understanding, very kind, and will accommodate as needed. She does have high expectations, but show up, work hard and you will do well. Highly recommend :)
+
+--- Rating #2 ---
+Class: HSCI472
+Date: 2017-10-18 15:10:59 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+love her. favorite prof of the yearp
+
+--- Rating #3 ---
+Class: HSCI472
+Date: 2015-06-11 16:45:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Dr. Winters is the most dedicated professor who truly wants her students to do well. She has high expectations but you get what you put in. Great in 330 and 472. Course work was the most relevant to real world work I have done in university. One of the top professors in FHS
+
+--- Rating #4 ---
+Class: HSCI330
+Date: 2015-03-16 16:57:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+Most people give Meghan a poor rating because they get shredded on her exams. If you're not specific, you won't get the marks. The course material is easy, anyone with basic English and math has the potential to get an A in this course. If you mess up on math calculations or don't describe the math in words on testsassignments, good bye grades!
+
+--- Rating #5 ---
+Class: HSCI330
+Date: 2014-04-26 17:40:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+lectures are really clear, and Dr Winters is really helpful when you need clarifications . Overall, I enjoyed this class
+
+--- Rating #6 ---
+Class: HSCI330
+Date: 2014-04-22 17:21:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+The class itself is not that difficult, but Meghan can be unclear sometimes.  When students ask questions she acts really condescending and arrogant and thats really frustrating! Theres a male prof that teaches this class too, take it with him! As she uses all his notes anyways..
+
+--- Rating #7 ---
+Class: HSCI330
+Date: 2014-04-07 23:41:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+I found meghan to be really rude and unfriendly. She tells the class that shes available for extra help, but shes actually a little scary. the class itself isnt too bad, as the notes used by another prof are very informative
+
+--- Rating #8 ---
+Class: HSCI330
+Date: 2014-03-17 00:47:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+not friendly at all.
+
+--- Rating #9 ---
+Class: HSCI330
+Date: 2013-12-30 19:22:43 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+Class itself was alright, but she is not a good teacher. She teaches the subject well, but she makes her students feel inferior. She is a very condescending person which is why I would not recommend her. If you are interested in Stats the subject is not too difficult, but she really makes you feel stupid for asking a question. UNCOOL!
+
+--- Rating #10 ---
+Class: HSCI330
+Date: 2013-11-03 00:36:04 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: Y
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+She knows what she's talking about but isn't very clear in explaining concepts. A lot of review in the textbook is needed outside class. Also, she was not very helpful in office hours. Although I do not have personal experience with this, I feel it might be difficult to understand her especially if you are ESL.
+
+--- Rating #11 ---
+Class: HSCI330
+Date: 2012-12-20 05:23:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+Overall, a relatively simple class. 1 midterm, 1 final, non-cumulative. However, there are 2 assignments and they are worth 20% each which is a bit much. She's a decent prof and will take the time to explain things. I recommend her class, she's interesting.

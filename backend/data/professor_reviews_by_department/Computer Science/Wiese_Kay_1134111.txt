@@ -1,0 +1,275 @@
+Professor: Kay Wiese
+Professor Legacy ID: 1134111
+Professor ID: VGVhY2hlci0xMTM0MTEx
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.2
+Avg Difficulty: 3.3
+Num Ratings: 62
+Would Take Again Percent: 86.0465
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT307
+Date: 2025-12-05 04:22:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Good Prof. Exam heavy course (90% of the grade) but he allows a cheat sheet, gives a very clear idea of what to expect, and what you should/shouldn't prepare on. The assignments used textbook questions but you can find it online without having to buy it. Overall, good course. Easier than I expected and it was all thanks to the prof.
+
+--- Rating #2 ---
+Class: CMPT307
+Date: 2025-12-01 21:33:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Kay C Wiese is the goat of cmpt307. Must take with him. Haven't even taken the final yet but he's so peak.
+
+--- Rating #3 ---
+Class: MACM101
+Date: 2025-04-24 04:06:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great professor, organized notes
+
+--- Rating #4 ---
+Class: MACM101
+Date: 2025-01-19 23:14:08 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His lecture style is him doing problems on paper which at first looks like dread but it will help you a lot and he gives you a very, very good and generous outline of what's directly on the exams + final exam. He cares about your learning, very good professor to take MACM with!
+
+--- Rating #5 ---
+Class: MACM101
+Date: 2025-01-03 19:50:51 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Lectures are pretty good and he gives you a pretty good idea of what will be on the exam. TAs aren't great but overall a solid prof
+
+--- Rating #6 ---
+Class: MACM101
+Date: 2025-01-01 11:23:42 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Not sure why there is so much excessive praise for Kay. Although he is clear with expectations both in terms of the lecture delivery and what he wants from students, the exams and the marking that he uses to assess student understanding of the course material are far from fair and reasonable.
+
+--- Rating #7 ---
+Class: MACM101
+Date: 2024-12-27 19:20:19 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Kay is a good professor, but falls short in a few areas. His writing can be hard to read at times, which can slow the pace of the lecture when you're trying to make sense of what he's writing down. Lectures follow the textbooks too closely, which de-values the lectures since you could skip and study solo. Thankfully, his exams are pretty fair.
+
+--- Rating #8 ---
+Class: MACM101
+Date: 2024-12-27 07:31:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+MACM 101 is a tough course for most people but Kay taught the material in a very digestible way. He's a generous grader and his exams are extremely reasonable - he even told us the exact questions that would be on the final. Do the work, don't fall behind, and you'll do just fine
+
+--- Rating #9 ---
+Class: MACM101
+Date: 2024-12-14 02:25:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+Wiese clearly cares about the success of his students. He is extremely reasonable in his assignment and test expectations and he is very organized and thorough with his lectures. Trust me when I say if you have to take MACM 101, take it with him.
+
+--- Rating #10 ---
+Class: MACM101
+Date: 2024-11-28 22:50:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This guy has been by far my favorite prof in my first term here by a longshot. His lectures are well structured, his notes are detailed with good examples and he's overall just a good dude. Final is worth 50% but he tells you what kind of questions to expect and prep for. If you need MACM please try to take it with him, even if its a 3 hour lecs.
+
+--- Rating #11 ---
+Class: CMPT307
+Date: 2024-10-22 08:24:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Clear and solid lectures, an ideal choice! Can heavily depend on tests but those have a fair difficulty and are fairly marked.
+
+--- Rating #12 ---
+Class: CMPT307
+Date: 2024-08-03 23:02:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Really nice professor and wants to see students do well. I really enjoyed the course with him and would take it again!
+
+--- Rating #13 ---
+Class: CMPT307
+Date: 2024-04-11 15:09:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Dr. Kay is one of the best prof at SFU. He is very organised and his lecture is always helping you to understand the logic not memorising. If you regularly attend the lecture and follow his advice, at least B- is there. I hope all the course could be taught by him.
+
+--- Rating #14 ---
+Class: CMPT307
+Date: 2023-12-14 08:32:28 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Amazing professor, clear explanation and is reachable after class even when he is busy and very approachable, the only professor I enjoyed having at sfu.
+
+For midterm and final he clearly outlined which parts of the course would come and explaining what to kind of questions to focus on making the study process very streamlined.
+
+Amazing guy
+
+--- Rating #15 ---
+Class: CMPT307
+Date: 2023-11-27 23:55:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I appreciate his kind demeanour as he is always looking to help students out to clear questions. However, he is functionally not a professor. He is extremely lazy and rips all of his course content out from the textbook line by line and its not very helpful to go to clas since hee cant explain better than the textbook. Avoid if you want to learn.
+
+--- Rating #16 ---
+Class: CMPT307
+Date: 2023-11-09 08:30:03 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's an amazing prof. He gives clear indication on what he expects from students and is very helpful too.
+
+--- Rating #17 ---
+Class: CMPT441
+Date: 2021-12-16 06:41:27 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+The course itself is pretty outdated (bioinfomatics in 2000s) and not very interesting, its basically cmpt 307 with a bio component. Kay spends too much time on details about genetic algorithm that you will never use again. Dont get your hopes up, but at least theres no surprises in exam and cheat sheet is allowed.
+
+--- Rating #18 ---
+Class: MACM101
+Date: 2021-06-29 20:57:37 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Not accessible or helpful outside of class, I felt that he cares more about his research.
+
+--- Rating #19 ---
+Class: MACM101
+Date: 2020-12-25 01:01:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Dr. Wiese is a professor that actually acknowledges the fact that we're in a pandemic and adapts. If you do the homework and pay attention in lecture, you should be fine for the quizzes/tests. Very fair assessments as well. Highly recommend this professor.
+
+--- Rating #20 ---
+Class: MACM101
+Date: 2020-12-19 19:35:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Kay is a wonderful professor that respects your time. He adapted well to the online environment and ran the class without many hitches. Concepts were explained clearly and examples were given on how the knowledge would be used in the real world, something I believe more professors should do in order to demonstrate the usefulness of the material.

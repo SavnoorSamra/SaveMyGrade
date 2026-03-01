@@ -1,0 +1,271 @@
+Professor: Jordan Scott
+Professor Legacy ID: 1571862
+Professor ID: VGVhY2hlci0xNTcxODYy
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 4.8
+Avg Difficulty: 2
+Num Ratings: 39
+Would Take Again Percent: 96.7742
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENG115
+Date: 2025-08-15 09:12:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+One of the best professors I had. Words can't even describe how cool this guy is. Patient and understanding, he values honesty and ESPECIALLY creativity. Classes are interactive and explanations are top tier. During your revision, he gives 1 to 1 advice which really helps a lot. Anybody who takes advantage of his kindness deserves an F tbh&#8230;
+
+--- Rating #2 ---
+Class: ENGL115
+Date: 2024-06-14 01:51:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+His lecture is funny and not hard at all. He is always kind and loves to listen to your ideas all the time. If you have any problems or questions, he always helps you in advance. One of my favorite prof in SFU.
+
+--- Rating #3 ---
+Class: ENG105
+Date: 2024-04-17 23:12:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He is a very kind and good-natured caring professor! He is awesome!
+
+--- Rating #4 ---
+Class: ENGL115
+Date: 2024-02-14 19:16:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Best professor ever! You will regreat it if you choose others.
+
+--- Rating #5 ---
+Class: ENGL115
+Date: 2024-02-08 09:22:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Perfect! Perfect! Perfect!
+
+--- Rating #6 ---
+Class: ENGL115
+Date: 2023-12-03 19:39:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Best professor ever!!!! Love it!!!
+
+--- Rating #7 ---
+Class: ENG115
+Date: 2023-01-12 22:05:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Best teacher that I have ever taken. One my favorite teacher. He is kind and patient. He has one workshop that literally give chance for students to correct the final exam paper. Moreover, He explained things clearly and simple to be understood
+
+--- Rating #8 ---
+Class: ALC099
+Date: 2022-08-30 21:20:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: False
+Online Class: True
+Comment:
+really really easy course. so easy that it kinda is a waste of time and money.
+
+--- Rating #9 ---
+Class: ALC099
+Date: 2022-07-20 02:54:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: True
+Comment:
+he is a beetch
+
+--- Rating #10 ---
+Class: ENGL115
+Date: 2021-08-15 19:01:26 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He's the sweetest prof I've had a class with on FIC, he is patient and gives chances if he sees your interest in doing good in his class. He's amazing.
+
+--- Rating #11 ---
+Class: ALC099
+Date: 2021-08-12 06:42:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+Just have your citaction correct. He extended deadline thrice for me. He is a gem.
+
+--- Rating #12 ---
+Class: ALC099
+Date: 2021-05-06 13:57:14 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+All I can say is that I am very glad to have such a conscientious and responsible teacher in my freshman year. He is very patient and knows what each student needs. He really gave me a lot of help and confidence in writing my paper.
+
+--- Rating #13 ---
+Class: ENGL115
+Date: 2021-03-07 09:58:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Jordan is very kind. You will not regret taking his class. He is also caring and understands students if we have some problems.
+
+--- Rating #14 ---
+Class: ENG115
+Date: 2020-12-22 08:03:41 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+He always try his best to help his students understand the materials. He is also super accessible outside class (flexible office hrs). He is kind, caring and inspiring. Best prof I've ever had. SFU seriously needs more profs like Jordan !!!!!
+
+--- Rating #15 ---
+Class: ENG115
+Date: 2020-08-29 16:31:52 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He is a great professor and was always available to his students for any doubts one may have during the course.
+
+--- Rating #16 ---
+Class: ENGL115
+Date: 2020-04-23 04:38:31 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He's definitely one of the best professors in my whole life. He's so caring and his advice on writing skills is priceless. Just follow his instructions and try your best to write, don't copy on the Internet, you'll be fine. Just take his course or you'll regret :D
+
+--- Rating #17 ---
+Class: ENGL115
+Date: 2019-08-02 00:22:13 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Thank you!
+
+--- Rating #18 ---
+Class: ENGL115
+Date: 2019-07-27 18:51:40 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Best teacher ever that I have met. His lecture fantastic and he is an inspiring teacher. The novel is really interesting. Work hard you will pass the course with a good grade.
+
+--- Rating #19 ---
+Class: ALC099
+Date: 2019-06-07 10:16:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+he teaches. (think about what I just wrote)
+
+--- Rating #20 ---
+Class: ALC099
+Date: 2019-04-27 06:02:57 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Just do what he says and he will let you pass the course.

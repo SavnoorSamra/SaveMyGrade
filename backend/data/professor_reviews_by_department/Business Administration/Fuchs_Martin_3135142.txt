@@ -1,0 +1,50 @@
+Professor: Martin Fuchs
+Professor Legacy ID: 3135142
+Professor ID: VGVhY2hlci0zMTM1MTQy
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 5
+Avg Difficulty: 3.7
+Num Ratings: 3
+Would Take Again Percent: 100
+
+Ratings Count Returned: 3
+
+--- Rating #1 ---
+Class: BUS275
+Date: 2026-02-24 23:20:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+this guy is a straight g. clear lecturer and a W mans. best prof at sfu on GOD
+
+--- Rating #2 ---
+Class: BUS275
+Date: 2026-01-18 18:09:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Has a very nice moustache
+
+--- Rating #3 ---
+Class: BUS275
+Date: 2026-01-09 05:47:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is a new Prof. Took his first class on Monday, pretty a good instructor so far at Beedie

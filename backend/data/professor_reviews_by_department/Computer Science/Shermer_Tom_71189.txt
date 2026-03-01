@@ -1,0 +1,271 @@
+Professor: Tom Shermer
+Professor Legacy ID: 71189
+Professor ID: VGVhY2hlci03MTE4OQ==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.9
+Avg Difficulty: 4.2
+Num Ratings: 38
+Would Take Again Percent: 45.4545
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: MACM101
+Date: 2023-12-25 02:15:56 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Be ready for the greatest sleep of your life during his lectures. It's like listening to a quantum mechanics documentary but you are a dance student. So boring and no engagement. I slept through most of my lectures in the first half of the semester, and didn't attend at all for the rest. Trev Tutor on youtube is your best friend. Class's curved. W
+
+--- Rating #2 ---
+Class: MACM101
+Date: 2022-12-19 07:24:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Okay but homework sometimes gets really hard.
+
+--- Rating #3 ---
+Class: CMPT225
+Date: 2021-12-06 11:57:59 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+read textbook + self study &gt; going to lecture. save your time transitting and spending 1 hour in lecture
+
+--- Rating #4 ---
+Class: CMPT225
+Date: 2021-12-01 21:41:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+This prof is very unorganized, there is miscommunication between the prof and the TA's, we didn't get our first assignment until a month and a half into the semester. Shermer just reads off the slides and barely shows any coding. Avoid this prof if you actually want to learn something in this course.
+
+--- Rating #5 ---
+Class: CMPT225
+Date: 2021-01-07 02:47:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Tom is a pretty understanding and good prof, as he understants the struggle of remote learning and mental health. However, the assignments for his class are very difficult (theres 6) and requires the ENTIRE week to work on if you dont have a strong understanding in C++. His midterm was terrible but he made the final fairly easier for students.
+
+--- Rating #6 ---
+Class: CMPT225
+Date: 2020-12-24 02:48:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Tom is very approachable for any questions over email/piazza and I appreciate that he has a sense of humour and understands that we have lives outside of school (reasonable deadlines + difficulty, etc.) Also, changing the grading criteria to favour assignments (60%) helped with the online format. The final (30%) was of a fair difficulty. Great guy!
+
+--- Rating #7 ---
+Class: CMPT307
+Date: 2020-12-16 19:24:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Not sure why he pre-recorded everything. If there's no incentive to be in class, then students will cram instead of watching when they should. I couldn't bring myself to watch them all because he talks so slow and boring. Makes exam questions out of 10-20 marks but gives either full marks or a zero. Although I got an A- I self-studied a lot.
+
+--- Rating #8 ---
+Class: CMPT225
+Date: 2020-12-16 02:09:49 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Extremely disinterested in online courses, practically reads verbatim off the slides. Gives no information about tests
+
+--- Rating #9 ---
+Class: CMPT225
+Date: 2020-12-14 03:53:14 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Lectures are extremely dull but are useful. Assignments are good in length and difficulty. However, he does try to cover a lot of materials. Exams contain no surprises. He really knows the subject matter, but I feel he doesn't really care too much whether students could understand his delivery. Overall not the best teacher, but far from the worst.
+
+--- Rating #10 ---
+Class: CMPT225
+Date: 2020-11-09 04:10:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I have never experienced a teacher this bad in my life. How do you teach computer science without ever demonstrating a single program? No source code or example programs, only bits of pseudo code on the slides. His lectures are so dull I can barely get through the videos. His teaching leaves me more confused than I was before this class.
+
+--- Rating #11 ---
+Class: CMPT379
+Date: 2020-08-31 02:49:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Covid sucks, but online lectures are worse. Dry content and reading off slides for the entire semester is brutal. Thank goodness for 3x speed(no joke) as Tom is a slow talker. Proj. Itr. were brutal for amount of time req. and minimal resources available. This class will be ur life for 4 whole months. Exams were decent, But are only 20% of grade :(
+
+--- Rating #12 ---
+Class: CMPT307
+Date: 2020-08-21 03:09:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+some assignments have online solutions, and people get around 38/40 average for these assignments. final is fair
+
+--- Rating #13 ---
+Class: CMPT307
+Date: 2020-08-10 08:24:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Worst prof. Do you really want to pay hella expansive tuition fee just to hear a dude reads off his terrible slides word by word with absolutely no extra explanation nor context then gives unreasonable hard assignments????? SFU don't increase the tuition fee when you are just gonna hire someone to just read off the slides.
+
+--- Rating #14 ---
+Class: CMPT307
+Date: 2020-08-06 04:42:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+He exhibits zero passion when teaching. If you ACTUALLY have a passion for learning DON'T take his class -.- his super boring lectures provide zero value to your understanding and you have to watch them at 2x speed cause he talks so s l o w l y ! ! ! Skip taking class with him, he is a waste of your parents money lol.
+
+--- Rating #15 ---
+Class: CMPT361
+Date: 2019-12-12 08:49:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He will teach you what you need to know the hard way. But you will learn A LOT
+
+--- Rating #16 ---
+Class: CMPT225
+Date: 2019-08-16 05:20:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I think Tom is very passionate about computer science as a subject, CMPT 225 just doesn't quite scratch the itch for him in terms of its content richness so he didn't seem very lively at lectures. He's happy to explain topics to you that you don't understand, and an overall good professor. I'm sure he's great for higher level courses.
+
+--- Rating #17 ---
+Class: CMPT225
+Date: 2019-08-15 01:18:46 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Decent Prof. Lectures are somewhat boring. Assignments and tests are fair. Nothing crazy.
+
+--- Rating #18 ---
+Class: CMPT225
+Date: 2019-07-23 10:37:53 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He was okay. Most of the coursework was manageable.
+
+--- Rating #19 ---
+Class: CMPT361
+Date: 2017-07-05 19:59:37 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Tom is a strong believer that the best way to learn how something works is by implementing it. In this course, we started with a setPixel() method, and ended it with an implementation of a 3D model renderer (subset of .obj files) and a graphics specification language for composing scenes. It was a lot of work, but was well worth it.
+
+--- Rating #20 ---
+Class: CMPT361
+Date: 2016-12-22 20:20:39 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+3 assignments, 2 week deadlines that required working 20 hours per day over both weekends. Somewhat disorganized lectures. Textbook makes no sense for the course. But, would 100% recommend. You'll learn a ton, and lectures are really entertaining. If you want to jump into coding a game, take with someone else though - very low-level concepts.

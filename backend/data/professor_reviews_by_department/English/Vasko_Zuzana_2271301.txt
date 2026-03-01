@@ -1,0 +1,24 @@
+Professor: Zuzana Vasko
+Professor Legacy ID: 2271301
+Professor ID: VGVhY2hlci0yMjcxMzAx
+Department (CSV): English
+Department (Fetched): English
+Avg Rating: 2
+Avg Difficulty: 4
+Num Ratings: 1
+Would Take Again Percent: 0
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: educ199
+Date: 2023-03-08 19:10:09 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+Took EDUC 199 during the summer semester of 2022. The class was super unorganized. You could not get a hold of your prof. The TA's mark harshly and unreasonably it's insane. Lots of reading and writing and it can be confusing. The TA and prof will not help you.

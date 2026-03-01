@@ -1,0 +1,115 @@
+Professor: Gabor Tardos
+Professor Legacy ID: 1276820
+Professor ID: VGVhY2hlci0xMjc2ODIw
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 4.4
+Avg Difficulty: 4
+Num Ratings: 8
+Would Take Again Percent: -1
+
+Ratings Count Returned: 8
+
+--- Rating #1 ---
+Class: CMPT407
+Date: 2011-12-09 01:12:10 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+The course itself was a little hard. But that's because of the course content itself. The prof made it much easier than it should be. Definitely a star prof in SFU.
+
+--- Rating #2 ---
+Class: CMPT710
+Date: 2011-05-23 14:06:28 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+By the end of that term, our course ended up to have only 4 people registered; and professor gave 4 different grades to us; it was like ranking the students. I don't know if there were such huge differences to reflect this harsh ranking.
+
+--- Rating #3 ---
+Class: CMPT307
+Date: 2011-05-15 15:05:50 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+It was an OK course
+
+--- Rating #4 ---
+Class: CMPT710
+Date: 2011-05-14 06:13:15 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+He is absolutely very knowledgeable and cares a lot about the students. On the other hand, the way he presents the lectures is kind of messy and not very decent.
+
+--- Rating #5 ---
+Class: CMPT307
+Date: 2010-12-21 16:19:09 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Very very great professor, very patient and helpful. The only thing that sucks is the TA whose name is Haitao Li, he only knows rarely about this course and shows no respect and gives you extremely grade without comments. But thanks to the professor, he re-evaluated my exam and corrected all mistakes TA made.
+
+--- Rating #6 ---
+Class: CMPT307
+Date: 2010-11-20 21:15:46 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+without doubt a star pro in SFU
+
+--- Rating #7 ---
+Class: CMPT407
+Date: 2010-07-23 17:47:22 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+It is a hard course. But it is really an interesting useful course. Just try it and work very hard. He is also a good marker.
+
+--- Rating #8 ---
+Class: CMPT307
+Date: 2010-01-06 13:03:24 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+No Comments

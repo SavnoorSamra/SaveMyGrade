@@ -1,0 +1,24 @@
+Professor: Patrice Keats
+Professor Legacy ID: 1258370
+Professor ID: VGVhY2hlci0xMjU4Mzcw
+Department (CSV): Counseling
+Department (Fetched): Counseling
+Avg Rating: 4.5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: EDUC423
+Date: 2012-01-17 17:11:06 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+One of the best professors I've had to date. Extremely well-versed in the field of counselling and has a wide-ranging skill set that is a great asset to any student's learning experience. Would full-heartedly recommend Dr. Keats to anyone in the counselling department.

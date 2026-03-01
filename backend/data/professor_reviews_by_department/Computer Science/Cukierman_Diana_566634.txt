@@ -1,0 +1,271 @@
+Professor: Diana Cukierman
+Professor Legacy ID: 566634
+Professor ID: VGVhY2hlci01NjY2MzQ=
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 3.4
+Avg Difficulty: 3.1
+Num Ratings: 246
+Would Take Again Percent: 54.3046
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT120
+Date: 2026-01-21 01:05:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I just came back a year later to make sure everyone knows this woman is still the bane of my existence. Literally avoid her with your whole life and soul if youre not an tech nerd and just need this class and nothing else. All the other tech nerds opinions are irrelevant.
+
+--- Rating #2 ---
+Class: CMPT150
+Date: 2026-01-13 03:33:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+The professor might be nice. However, Diana treats the course like some students are already decent with python skills. If you are new to python, do not take it with Diana if you want to save your grade.
+
+--- Rating #3 ---
+Class: CMPT120
+Date: 2025-12-30 09:21:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The professor might be nice. However, Diana treats the course like some students are already decent with python skills. If you are new to python, do not take it with Diana if you want to save your grade.
+
+--- Rating #4 ---
+Class: CMPT120
+Date: 2025-12-30 09:18:42 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor is rather very disorganized and grading is unclear.
+
+--- Rating #5 ---
+Class: CMPT120
+Date: 2025-12-30 09:16:45 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+It was an interesting course.
+
+--- Rating #6 ---
+Class: 120
+Date: 2025-12-30 09:14:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+I don't recommend students who have no experience with python. As Diana makes this course far more complicated than necessary. I would recommend people to take cmpt 120 with any other prof than Diana please.
+
+--- Rating #7 ---
+Class: CMPT120
+Date: 2025-12-25 02:27:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great prof! As a student, you can really tell she deeply cares about teaching/programming, and it was a really fun/interesting lecture. She posts the slides, and the textbook is free online, so it was easy to follow along when I didn't attend the lectures.
+
+--- Rating #8 ---
+Class: CMPT120
+Date: 2025-12-18 20:35:24 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+This class was an absolute mess. I can't believe how unorganized every aspect of it was. She is nice but she has no idea how to write exams that actually test knowledge. Slides are incredibly messy and don't get me started on what a dumpster fire the Canvas page was lol
+
+--- Rating #9 ---
+Class: CMPT120
+Date: 2025-12-08 04:45:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+CMPT 120 with Diana was terrible. The lectures were confusing, the assignments were a mess, and grading felt random. She was unhelpful and dismissive
+
+--- Rating #10 ---
+Class: CMPT120
+Date: 2025-10-16 09:23:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Not sure what everyone is complaining about. She's an awesome professor that really wants their students to succeed. She tries to answer everybody's questions to the best of her ability, and the lecture slides are not confusing as long as you're coming to class and paying attention. But I feel like there should be a little more time for the exams.
+
+--- Rating #11 ---
+Class: CMPT120
+Date: 2025-09-16 18:01:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+CMPT 120 with Diana was terrible. The lectures were confusing, the assignments were a mess, and grading felt random. She was unhelpful and dismissive. Worst class at SFU avoid at all costs.
+
+--- Rating #12 ---
+Class: CMPT120
+Date: 2025-09-16 17:59:53 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+CMPT 120 with Diana was the worst class I've ever taken. The lectures were a mess, the assignments made no sense, and the grading was completely random. She was unhelpful and dismissive whenever students asked for support. This course was a total waste of time and energy avoid it at all costs.
+
+--- Rating #13 ---
+Class: CMPT120
+Date: 2025-09-16 17:57:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+CMPT 120 with Diana was awful. The lectures were disorganized and confusing, and she gave little to no real help. Questions were met with vague or dismissive answers. Assignments were unclear, and grading felt random and unfair. This course caused unnecessary stress and taught very little. Avoid taking it with this instructor
+
+--- Rating #14 ---
+Class: CMPT120
+Date: 2025-09-16 17:54:58 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: False
+Online Class: False
+Comment:
+CMPT 120 with Diana was by far the most frustrating course I've ever taken at SFU. The lectures were incredibly disorganized and difficult to follow, with little to no clear explanations of key concepts. Instead of helping students understand Python fundamentals, the material felt rushed and confusing, leaving many students lost.
+
+--- Rating #15 ---
+Class: CMPT120
+Date: 2025-09-13 00:15:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She's really sweet. Very good engagement for in-class sessions. Her exams and assignments are a little bit difficult for the time given for it, but still doable.
+
+--- Rating #16 ---
+Class: 120
+Date: 2025-09-05 08:46:05 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The prof is nice but this is definitely not a course for beginner programmers.
+
+--- Rating #17 ---
+Class: CMPT120
+Date: 2025-09-04 21:26:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Prof Cukierman is really cool and seems to really care about the students. To be honest I really struggled in this class, I had a lot of things going on and i'm not sure if that factored, but I found the course hard. Despite that, Diana was understanding and actually tried helping coming up with solutions instead of just letting us tough it out.
+
+--- Rating #18 ---
+Class: CMPT120
+Date: 2025-08-29 21:58:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+She is the best prof ever! She cares about all the students and kindly offers help. Im so lucky to have met her.
+
+--- Rating #19 ---
+Class: CMPT120
+Date: 2025-08-29 07:19:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Diana is super nice and sweet, but her exams are very tough and challenging. I went to all her lectures but the lectures are not similar to the exams at all. She gives weekly assignments and sometimes makes the assignments due before the exam (stressful)! You might need to study way more than expected if you aren't very familiar with programming.
+
+--- Rating #20 ---
+Class: CMPT120
+Date: 2025-08-23 20:25:01 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Please do not take this course. It is definitely not meant for beginner students and your entire grade depends on the exams. So if you mess up the exams then it doesn't matter if you do good on the assignments and projects. I do not recommend taking cmpt 120 with this prof.

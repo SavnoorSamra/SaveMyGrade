@@ -1,0 +1,277 @@
+Professor: Herbert Tsang
+Professor Legacy ID: 1267702
+Professor ID: VGVhY2hlci0xMjY3NzAy
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 1.9
+Avg Difficulty: 3.8
+Num Ratings: 198
+Would Take Again Percent: 14.1732
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT276
+Date: 2025-01-21 23:38:04 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The project is alright and will be a good experience if you have a nice group. He talks a lot in class about his personal experiences, slides are very confusing and long. He reinforced the importance of reading the textbook but none of it helped. Exams were hard, not enough time to complete them so I made educated guesses. Marking was too specific
+
+--- Rating #2 ---
+Class: CMPT276
+Date: 2025-01-06 22:40:07 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Unironically Goated Prof. Just do good on the project and you are golden. Exams are BS tho and require u to read way too much content. Instead, just pray to god and make educated guesses on every MC and Short answer.
+
+--- Rating #3 ---
+Class: CMPT276
+Date: 2024-12-21 20:53:02 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+96 question final and only 75 minutes to do is most definitely not enough time. None of the exams have practice questions to do so you have to just memorize 25 chapters of textbook info. TA also has a very questionable marking scheme that i do not understand. Should definitely try taking it with a diff prof, exam was brutal for alot of us
+
+--- Rating #4 ---
+Class: CMPT276
+Date: 2024-12-18 10:42:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Worst prof Ive ever taken. Exams are extremely difficult with nothing to do with the lecture you learned, theres literally no way to prepare for his exams because they are so poorly made and confusing. Has no sympathy, and all he does is yap about useless stuff or himself throughout his lectures. Dry and dosnt care about students situation at all.
+
+--- Rating #5 ---
+Class: CMPT276
+Date: 2024-12-16 02:28:50 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+Not sure why there are bad comments about Dr Tsang.
+
+He is a brilliant professor. He lectures are very clear, and he is a good speaker. 
+
+He was super helpful with the project, and his overall knowledge of the field is very cool.
+
+--- Rating #6 ---
+Class: ENSC251
+Date: 2024-12-15 02:04:09 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He is not a good professor. He acts like he is a good professor, but in reality, he is very strict with grading and has many guidelines. His lectures are dry but not as bad as Craig. The final had 96 questions, and we only had 75 minutes to finish it. Avoid taking a class with him as his midterms/finals are based on luck.
+
+--- Rating #7 ---
+Class: ENSC251
+Date: 2024-12-08 07:58:39 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Participation on thursdays, really doesnt say anything worth noting in class and his slide decks dont really help. Weekly labs and monthly (ish) assignments are useful in learning and you just need to read the textbook for the midterm and final. No need to rmb much syntax for exams.
+
+--- Rating #8 ---
+Class: CMPT105W
+Date: 2024-10-05 07:41:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+PLEASE never take any course with this guy. He is the worst prof I have ever had in any course. Does not respond to emails. Does not care about students. Yes, the course is very dry, but he does absolutely anything to make it even worse. At the start of the course I really wanted to like this guy, but it just seems like he puts on a persona.
+
+--- Rating #9 ---
+Class: CMPT105W
+Date: 2024-09-24 00:57:42 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Boring lectures where you learn close to nothing. Everyone I know either does not attend lectures or just shows up to his lectures to do other work. 
+But he makes 10% of the grade "participation marks" where you HAVE to show up for lectures to do these in class assignments, ridiculous.
+If I am being generous, I would call them a terrible prof.
+
+--- Rating #10 ---
+Class: ENSC251
+Date: 2024-09-11 15:46:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Go back to your department. Lecture as bad as sfu snap
+
+--- Rating #11 ---
+Class: ENSC251
+Date: 2024-09-06 05:44:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+nice try diddy.
+
+--- Rating #12 ---
+Class: CMPT105W
+Date: 2024-09-04 23:50:17 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Herbert Tsang is okay-ish but CMPT 105W is just a bad course. He gives lectures, he assigns assignments, and the course just goes on. He gets an unfair amount of blame here, but he's not great either. He makes you find and meet 4 other classmates for some group work worth ~5% of the grade, and does in-class participation activities for marks.
+
+--- Rating #13 ---
+Class: CMPT105W
+Date: 2024-08-17 09:40:11 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Very little to learn from this course. He gave us a 185 mark final with only 80 minutes to complete the exam but his marking was fair. He gave feedback on the assignments which was quite helpful.
+
+--- Rating #14 ---
+Class: CMPT105W
+Date: 2024-07-29 18:17:30 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Overall an awful human being. Bragged about charging students $20 to use his staplers if they forgot to staple their work. Rarely answers emails. Some TAs mark like you're in an essay writing contest, and others are super chill. No consistency. Assignments unclear. CMPT 105W itself is a easy class, can't imagine having Tsang in Calculus or smt.
+
+--- Rating #15 ---
+Class: CMPT105W
+Date: 2024-07-29 18:09:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+this guy is worse than milan tofiloski, genuinely dont know how he has a rating above a 2
+
+--- Rating #16 ---
+Class: CMPT105W
+Date: 2024-06-10 21:50:28 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I don't understand what he wants for the assignments. His words are unclear. The more he talks, the more confusing everything becomes.
+
+--- Rating #17 ---
+Class: MSE402
+Date: 2024-05-05 08:07:11 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I don't get why late homework is seen as inflexible. Q3 was meant to cover everything, so reviewing Q1 and Q2 material makes sense. The in-class activities matched the lectures closely. You might not notice if you're focused on other homework =)
+
+--- Rating #18 ---
+Class: MSE402
+Date: 2024-04-19 06:41:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Nah this guy's weird af.
+
+--- Rating #19 ---
+Class: MSE402
+Date: 2024-04-14 21:20:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This is a prof that you should avoid at all costs. He expects that you read the majority of the textbook, but doesn't quiz on any of it. The assignments and quizzes are repetitive to the point of being useless. He lacks any sort of compassion for the students and demonstrates next to no flexibility in any category. He should be let go.
+
+--- Rating #20 ---
+Class: MSE402
+Date: 2024-03-11 20:58:34 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+My god i have not hated another professor as much as this guy. He teaches like we're elementary students, with ZERO flexiblity its his way or the highway. He also locks the exam questions each time you answer them. WHY in the world would anyone do this? Isnt going back to answer a question a normal part of an exam?? PLEASE PLEASE PLEASE AVOID!!!

@@ -1,0 +1,37 @@
+Professor: George Dengin
+Professor Legacy ID: 2298723
+Professor ID: VGVhY2hlci0yMjk4NzIz
+Department (CSV): Art
+Department (Fetched): Art
+Avg Rating: 3.5
+Avg Difficulty: 3.5
+Num Ratings: 2
+Would Take Again Percent: 100
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: ECON103
+Date: 2017-11-29 19:42:52 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+The lectures are boring but he is a fair marker
+
+--- Rating #2 ---
+Class: ECON201
+Date: 2017-11-11 21:26:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: False
+Online Class: True
+Comment:
+He's good

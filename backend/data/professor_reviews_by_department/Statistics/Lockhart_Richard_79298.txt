@@ -1,0 +1,274 @@
+Professor: Richard Lockhart
+Professor Legacy ID: 79298
+Professor ID: VGVhY2hlci03OTI5OA==
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 3.1
+Avg Difficulty: 3.7
+Num Ratings: 42
+Would Take Again Percent: 44.4444
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: STAT485
+Date: 2026-01-14 19:30:58 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Probably one of the more useful courses you will take in your time at SFU. That being said, it is tough and requires studying. Exams were hard but doable given 6 cheatsheets.
+
+--- Rating #2 ---
+Class: STAT485
+Date: 2025-12-20 23:44:31 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Richard is a very capable and genuinely caring professor. He is approachable, kind, and always willing to help, don't hesitate to reach out if you have any questions or concerns. BUT his lectures are not effective at all. Slides contain mistakes, very few written examples. Self study is the key to pass the course
+
+--- Rating #3 ---
+Class: STAT485
+Date: 2025-12-18 03:20:12 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+it was the simplest grading scheme for a 4th year stats course, 30 for assignments 30 for midterm 40 for final. the exams are definitely on the hard side but he gave 6 double sided cheatsheets for the final which was fair of him. the course is interesting and different from the usual data analysis stat courses. 
+Cool guy, will recommend.
+
+--- Rating #4 ---
+Class: STAT830
+Date: 2025-12-11 21:09:00 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Nice person.Though,he could have conducted a much better course than he actually did. I wish he prepared more before his lectures to have more structure in his teaching.When a prof doesn't have a solid structure in their lecture it becomes hard for students to follow. Assignments and exams are very fair. Gives very helpful feedback for assignments.
+
+--- Rating #5 ---
+Class: STAT485
+Date: 2025-12-10 13:49:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+This course itself is extremely hard and he teaches THE WORST. I'd rather go to his lectures if I am having trouble sleeping. The midterm was no where near to what was taught in class and I mean that. The class average was 48% which clearly shows people were not ready for the absurd questions he put. The assignments don't teach anything. STAY AWAY
+
+--- Rating #6 ---
+Class: STAT485
+Date: 2025-12-07 09:37:56 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Rambles so much, and his handwriting is so bad that I don't want to look at it. I read the textbook instead because I couldn't rely on his teaching style. Midterm average was below 50% which means somethins wrong in this class. Would never take a class with him.
+
+--- Rating #7 ---
+Class: STAT485
+Date: 2025-12-07 03:53:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The prof just rambles on in class. Doesnt know how to actually teach clearly. His midterm was beyond the notes and assignments that the clss average was 48% only. HE DOESNT TEST THE WAY HE TEACHES.
+
+--- Rating #8 ---
+Class: STAT485
+Date: 2025-10-17 15:52:11 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Assignments marked too generously so barely any feedback, lectures are disorganized and he rambles. Midterm difficulty was beyond assignments and practice midterm. Midterm was missing a graph and questions lacked clarity. You're better off taking the class another sem with a diff prof if you're able to
+
+--- Rating #9 ---
+Class: STAT270
+Date: 2025-04-20 21:10:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+His slides are way more helpful than the textbook, and he gives a lot of useful materials for exam prep
+
+--- Rating #10 ---
+Class: STAT270
+Date: 2025-03-27 04:43:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Richard gives the impression that he's a retiree who show's up to his lecture because he's bored and wants to yap about random things not too relevant to the course material. He does not explain any of the  the course concepts, he mentions them while yapping about random things.
+
+His slides are a random mass dump of unorganized topics.
+
+--- Rating #11 ---
+Class: STAT100
+Date: 2025-03-25 03:44:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I took this class for a breadth requirement and I WOULD NOT RECOMMEND. He seemed pretty nice but the lectures were so incredibly boring. It is all test based with two midterms and a final, all of which were difficult. He ended up curving significantly because of how poorly everyone performed.
+
+--- Rating #12 ---
+Class: STAT100
+Date: 2024-12-10 05:08:31 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+He does care about his students and wants them to excel but his lectures are very boring and exams basically make up the entire class
+
+--- Rating #13 ---
+Class: STAT100
+Date: 2024-11-06 22:57:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Worst professor I've had. Horrible lectures, unclear + error filled + old version slides + topics explained with irrelevant analogies. Rambles forever, skips details and outright sections, and god it just gets worse. Exams: missing and incorrect data, grammar mistakes, and LONG questions. I HAD to take this course, but if you don't, STAY AWAY.
+
+--- Rating #14 ---
+Class: STAT100
+Date: 2024-04-20 20:08:17 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+hes a good person and overall prof, but the course is only easy if you study really hard. he sometimes forget to release answers of homework questions before the exams. but he does explain what will roughly be on the exams a class before. this is definitely an examed based course.
+
+--- Rating #15 ---
+Class: STAT100
+Date: 2024-02-27 05:54:47 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+I got a A+ in this class and I still think he teach really bad and explain things like he doesnt even know what to do. Overcome it, if you wanna get a high grade in his class, suffer yourself.
+
+--- Rating #16 ---
+Class: STAT100
+Date: 2024-02-26 23:58:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Awful lectures, awful slides, very tough grader, bad at explaining things concisely without rambling and getting off topic, forgets to upload proper slides and often teaches on updated versions we don't yet have access to. All this and he's condescending if you ask certain questions. Honestly cannot understand why he has such a good rating here.
+
+--- Rating #17 ---
+Class: STAT100
+Date: 2023-04-21 23:06:44 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Richard was a pretty nice prof. He made some errors in assignments but corrects them and owns up to his mistakes. Lectures aren't too interesting, he just sits back and explains/talks and sometimes rambles but I found this to be quite nice and kind of amusing. If you read and take notes on the textbook then you will breeze through this class.
+
+--- Rating #18 ---
+Class: STAT100
+Date: 2023-01-17 20:02:57 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Constantly had spelling or grammatical errors in tests/assignments, and it takes longer to figure out what he is asking than to actually formulate a response. TAs in this class were very biased markers as well. He does have cheat sheets which is a plus. Not too hard of a course in general but he makes it so much more unbearable. Don't recommend it
+
+--- Rating #19 ---
+Class: STAT100
+Date: 2022-12-16 23:41:04 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Had him for my first semester and it was difficult to sit through his lecture due to straight boredom. Richard definitely is well versed and knows what he's talking about tho. If you're reading this because someone told you it was a GPA booster, it really isn't. Only take this course if you HAVE TO. Don't be like me and get scammed.
+
+--- Rating #20 ---
+Class: STAT100
+Date: 2022-11-14 23:31:13 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The lectures are really boring, tests and quizzes are pretty simple. Just use the textbook for most part and cheat sheets are always allowed. Easy class but really boring.

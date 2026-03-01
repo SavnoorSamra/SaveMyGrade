@@ -1,0 +1,271 @@
+Professor: Boxin Tang
+Professor Legacy ID: 431811
+Professor ID: VGVhY2hlci00MzE4MTE=
+Department (CSV): Statistics
+Department (Fetched): Statistics
+Avg Rating: 3.8
+Avg Difficulty: 2.6
+Num Ratings: 37
+Would Take Again Percent: 90
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: STAT350
+Date: 2025-04-04 02:51:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Had a great time in his class. Explained concepts clearly & his lecture notes were very useful
+
+--- Rating #2 ---
+Class: STAT270
+Date: 2020-02-02 22:06:03 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Boxin in pretty good. He gives you four really easy marks with the midterms, but study hard for the final.
+
+--- Rating #3 ---
+Class: STAT270
+Date: 2018-11-02 21:20:19 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+If you don't have any friends study with you, don't skip because he did not post his notes on canvas.
+
+--- Rating #4 ---
+Class: STAT270
+Date: 2018-10-26 01:25:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Sometimes the accent is hard to understand, but great prof though. Goes through problems in class. Also there was 4 midterms (which I think is a good thing because a screw up on one midterm doesn't tank your grade).
+
+--- Rating #5 ---
+Class: STAT270
+Date: 2018-08-18 03:38:36 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Do &amp; understand ALL the questions in textbook; theyre tougher than the midterms. Do his practice midterms, theyre similar to the actual. Final exam is tough; 1/3 of the questions were for the last 2 chapters of the book. Although you can self-learn from the text, attend lectures since he doesnt post notes, which have useful tips/tricks for exams
+
+--- Rating #6 ---
+Class: STAT270
+Date: 2018-06-17 23:00:45 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+this course scared me at first, but once you understand the concept, very easy
+
+--- Rating #7 ---
+Class: STAT270
+Date: 2017-12-17 02:49:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Excellent prof with great explanations and lots of in class examples. Would highly recommend sitting in the front few rows due to his soft speaking voice. He has as a bit of accent but not hard to understand at all. Midterms are very fair but the final was somewhat difficult.
+
+--- Rating #8 ---
+Class: STAT270
+Date: 2017-12-14 00:32:10 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Good lecturer although he can be hard to understand at times. Tests are pretty straightforward. Dry sense of humour is awesome.
+
+--- Rating #9 ---
+Class: STAT270
+Date: 2017-11-18 00:42:05 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: False
+Comment:
+Boxin is a very fair professor. He's sometimes a little unclear in lecture because he's ESL and soft spoken, but mostly does a good job. Wish the course was a bit more organized (no notes or practice questions).
+
+--- Rating #10 ---
+Class: STAT380
+Date: 2017-11-12 02:41:48 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Did a great job covering everything without any surprises on the tests and homework. It's also a great course to take in general. Would heavily recommend him.
+
+--- Rating #11 ---
+Class: STAT285
+Date: 2016-05-07 15:25:08 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Fantastic professor, super clear on most of the material, but he is difficult to understand at first (accent + softly spoken) - that's not a big deal though. Exams were incredibly straightforward, slightly easier than homework questions. The text is also solid to read if you're unclear. All I did was understand each homework question and got an A+
+
+--- Rating #12 ---
+Class: STAT285
+Date: 2016-03-23 01:31:20 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: True
+Online Class: False
+Comment:
+As a Chinese professor, his accent is not heavy which you can understand what he is talking about. He likes to skip steps on examples, but if you visit him during the office hour, or ask his TA, you should be okay, as this course is not that difficult as expected.
+
+--- Rating #13 ---
+Class: STAT350
+Date: 2014-12-09 05:22:52 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 1
+For Credit: True
+Online Class: False
+Comment:
+He's a really nice informative prof. One of my favorite profs in sfu.
+
+--- Rating #14 ---
+Class: STAT285
+Date: 2014-04-25 03:36:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: N
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+This man is amazing. His knowledge of statistics is vast and varied. Boxin's teaching style is very clear, but sometimes he likes to omit steps. Nonetheless, his talent is inspiring and his love for the subject has allowed him to so easily teach it. His exams might require some creativity, but are straightforward in many cases. Would recommend
+
+--- Rating #15 ---
+Class: STAT285
+Date: 2014-04-24 20:24:21 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+really a good prof. His voice is a lil bit low in lecture but if u ask him for hellp after class or in office hour, he will help you a lot by making those cufused stuff clear to you.
+
+--- Rating #16 ---
+Class: STAT350
+Date: 2011-09-06 17:15:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+If you listen and follow his notes, you should be able to do very well.  He is a very fair professor.  He doesn't speak very loud, but if you get his notes, you don't miss anything.  Show up for class, read over his notes, and he is one of the most fair teachers out there!! :):) And he has a dry humor occasionally.
+
+--- Rating #17 ---
+Class: STAT350
+Date: 2011-07-05 03:23:27 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 2
+For Credit: False
+Online Class: False
+Comment:
+He mumbles a lot which makes it hard to listen even when you sit at the front. His class can be very boring, but his notes are awesome! One drawback is he uses different notations from the text, which can be confusing. His exams are pretty straightforward, assignment types. He keeps his words on lowering midterm worth when u did better on final.
+
+--- Rating #18 ---
+Class: STAT330
+Date: 2010-12-21 19:02:42 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 4
+For Credit: False
+Online Class: False
+Comment:
+a good prof, and he;s always ready to help his students. exams are well related to the course notes.
+
+--- Rating #19 ---
+Class: STAT285
+Date: 2010-03-11 19:00:54 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+The easiest courses I have ever had
+
+--- Rating #20 ---
+Class: STAT285
+Date: 2010-01-04 16:41:35 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: 3
+For Credit: False
+Online Class: False
+Comment:
+Good prof in general.Easy course and crystal note. But you have to sit in the front of class or you cant hear him say a word!

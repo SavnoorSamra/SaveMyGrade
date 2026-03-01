@@ -1,0 +1,11 @@
+Professor: Suzanne Seblani
+Professor Legacy ID: 2846849
+Professor ID: VGVhY2hlci0yODQ2ODQ5
+Department (CSV): French
+Department (Fetched): French
+Avg Rating: 0
+Avg Difficulty: 0
+Num Ratings: 0
+Would Take Again Percent: -1
+
+Ratings Count Returned: 0

@@ -1,0 +1,63 @@
+Professor: Dongsheng Zhao
+Professor Legacy ID: 3156846
+Professor ID: VGVhY2hlci0zMTU2ODQ2
+Department (CSV): Engineering
+Department (Fetched): Engineering
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 4
+Would Take Again Percent: 100
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: ENSC
+Date: 2026-01-29 22:24:56 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+The reason I passed 477. Thanks professor DongSheng!
+
+--- Rating #2 ---
+Class: ENSC
+Date: 2026-01-14 06:14:23 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Professor DongSheng definitely makes you work for it. His work outside of class is truly inspirational and he really shows the extent of the human spirit. His extracurriculars are difficult and taxing on the body but the extra credit is always more than worth it.
+
+--- Rating #3 ---
+Class: ENSC
+Date: 2026-01-14 06:03:05 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: True
+Comment:
+10/10 Prof, would drink with him again
+
+--- Rating #4 ---
+Class: ENSC
+Date: 2026-01-13 07:44:01 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: True
+Comment:
+Great prof, clear lectures, and insanely consistent. Eats like it's a professional sport and treats gambling probability with unwavering confidence. Solid lectures, unforgettable presence. 10/10 would take again!

@@ -1,0 +1,170 @@
+Professor: Audrey Pearson
+Professor Legacy ID: 2452431
+Professor ID: VGVhY2hlci0yNDUyNDMx
+Department (CSV): Biology
+Department (Fetched): Biology
+Avg Rating: 4
+Avg Difficulty: 3.2
+Num Ratings: 12
+Would Take Again Percent: 66.6667
+
+Ratings Count Returned: 12
+
+--- Rating #1 ---
+Class: GEOG215
+Date: 2025-09-08 18:18:02 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+She has been one of my favorite instructors that I have ever taken. She is always very empathetic with her students, very inspirational, and genuinely wants them to excel in her class and in life overall. The only critique I would have for her is to make her lectures more engaging, but she is a fantastic teacher and person.
+
+--- Rating #2 ---
+Class: GEOG215
+Date: 2025-05-04 16:09:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great Prof who clearly wants you to do well. Class average was like A-, and I appreciate that she kept the grades as they were. Really kind too and would often post job suggestions, unfortunately I wasn't looking to go into that field.
+
+--- Rating #3 ---
+Class: GEOG215
+Date: 2024-06-19 20:15:20 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Very nice person, so passionate on her work. Sometimes love to share own stuff in announcement. 
+She has always asked proactively about potential questions or concerns during lab sections. 
+
+Be aware of labs, presentation, and of course exams.
+
+--- Rating #4 ---
+Class: BISC204
+Date: 2024-06-14 05:12:53 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Pearson's personality made the class great! She's SUPER knowledgable, loves her work, and delved deep into climate issues w/o repeating the same jargon we hear all the time. She was compassionate and caring. My critique are her exams. All written. She kinda trolled us for the final saying there would be lots of graphs, but not a graph in site
+
+--- Rating #5 ---
+Class: BISC204
+Date: 2024-05-18 13:57:43 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Lectures are a toss-up, sometimes easy to follow sometimes not. Dr. Pearson herself is great.
+
+--- Rating #6 ---
+Class: BISC204
+Date: 2024-05-02 00:53:16 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Audrey is an amazing prof and the lectures are also very clear however, the exams are very tough. The exams were very difficult and a lot of memorization is required in this course.
+
+--- Rating #7 ---
+Class: GEOG215
+Date: 2022-12-09 04:18:37 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Dr. Pearson is passionate about indigenous peoples and making the world a better place. She is a genuinely kind person. Her lectures were hard to follow at times, I often didn't know what to review from class. I found her grading was quite lenient, however the TAs were not. The class was not very organized either, no strict rubrics or syllabus.
+
+--- Rating #8 ---
+Class: GEOG215
+Date: 2021-05-19 03:48:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Really nice and cares about first nations a lot. I would take again
+
+--- Rating #9 ---
+Class: GEOG213
+Date: 2020-12-22 22:39:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+Dr. Pearson has been my absolute favourite prof of all time. She is so passionate. I will be the first to say her lects are a tad scattered but it's easy to condense the information and pick out the important concepts. Exams involve lots of writing, but are pretty general. She cares about her students, if you need anything, she's there to help.
+
+--- Rating #10 ---
+Class: GEOG215
+Date: 2020-12-08 23:39:44 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: True
+Comment:
+She's a nice person but a really bad public speaker, and rambles on about irrelevant topics during the lecture such as the Nazis and how her family fought in the war. The way she presented her lectures made it so that it was easier to understand when she wasn't speaking vs when she was.
+
+--- Rating #11 ---
+Class: BISC204
+Date: 2019-03-22 02:50:51 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Dr Pearson is one of the most compassionate and kind professors at SFU. She is so down to earth and always willing to help. You can tell she cares for students! If you take BISC 204, make sure to take it with her, you'll really enjoy the course!
+
+--- Rating #12 ---
+Class: BISC2014
+Date: 2019-02-22 00:24:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Even though she's never proffed before, audrey is doing awesome at this point. She really cares about her students well being as well as their learning. I wish other profs were as kind and inspiring as she is.

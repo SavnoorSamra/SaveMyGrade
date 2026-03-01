@@ -1,0 +1,271 @@
+Professor: Ramesh Krishnamurti
+Professor Legacy ID: 21747
+Professor ID: VGVhY2hlci0yMTc0Nw==
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.1
+Avg Difficulty: 3.4
+Num Ratings: 53
+Would Take Again Percent: 10.5263
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: CMPT225
+Date: 2019-12-29 18:30:50 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I got a C+, he is the reason I am not able to transfer into CMPT. that semester I took only CMPT 225, the quizzes were different from the assignments. I viewed my examed after it was marked and found several mistakes, got a 7% increase.
+
+--- Rating #2 ---
+Class: MACM101
+Date: 2019-05-14 18:42:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Ramesh's teachings are mediocre at best; Class moves slow and is boring. Taking MACM 101 with another prof will almost guarantee a better learning outcome/experience. Ramesh is also almost never accessible out side of class. Midterms takes a month to mark and another two months to see your exam. Overall, TERRIBLE prof.
+
+--- Rating #3 ---
+Class: MACM101
+Date: 2019-04-19 20:29:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+lecture slides are useless and ramesh can't teach at all. He just reads off the lecture slides with no emotion.
+
+--- Rating #4 ---
+Class: MACM101
+Date: 2019-04-18 00:27:39 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+His lecture materials( class slides ) are arranged in a unreadable way and also, there are several concept mistakes in his given slides. Really frustrating when trying to apply these wrong theorems. Besides this, he only reads his slides out loud during lecture, not caring if people is keeping up.
+
+--- Rating #5 ---
+Class: MACM101
+Date: 2019-04-09 06:56:21 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+the course isnt necessarily hard and ramesh isnt even necessarily a bad prof if you go to his office hours and ask for help... its just that his lectures in class are literally so bland and boring because he reads his notes out loud with little to no extra input... you can still do well in the class with self studying and trevtutor... lol
+
+--- Rating #6 ---
+Class: MACM101
+Date: 2019-01-26 00:15:18 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+During the lectures he usually reads through his slides with few explanation, frustrating.
+
+--- Rating #7 ---
+Class: CMPT225
+Date: 2019-01-10 09:13:48 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Seems like a nice guy but he can't teach. Just reads off the slides. Seems to have no idea how to use a computer. Assignments were basically free marks. Exams were okay. If you do better on the final than any / all of 3 the &quot;quizzes&quot;, your final exam mark replaces those.
+
+--- Rating #8 ---
+Class: CMPT225
+Date: 2018-12-16 05:24:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+His lecture is useless and seldom reply email. It is CMPT225 but 50% of the content I felt like CMPT125. It is better to just reading the book and study at home. His quizzes are very boring (one question testing induction proof) and lack of marking standard. The average of quiz is about 60%. Just go for another professor...
+
+--- Rating #9 ---
+Class: CMPT225
+Date: 2018-12-10 20:20:52 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I attended all his lectures and I'm still not sure what he's doing in any of those. It's like he's never used a computer before. He took the slides from someone else but didn't take the coloured version and then just read them. Assignments don't help you understand the course at all but very easy. Quizzes and Exams are extremely long.
+
+--- Rating #10 ---
+Class: CMPT225
+Date: 2018-12-10 14:44:42 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Worthless lectures. Read the slides and textbook. The assignments are a free 100%, and basically pads up the class average. I suppose the quizzes and final were fair enough. The content itself could be interesting, but the instructor is just not good at introducing and explaining any of these concepts.
+
+--- Rating #11 ---
+Class: CMPT225
+Date: 2018-09-28 14:06:12 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+very hard prof.
+
+--- Rating #12 ---
+Class: CMPT225
+Date: 2018-09-24 14:19:09 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+if you want to learn something, don't take this prof.
+
+--- Rating #13 ---
+Class: CMPT225
+Date: 2018-08-22 18:57:11 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Quizzes are simple. TAs were not hard markers. Answered a question completely wrong and still got 60% on it. Lectures and quiz questions sometimes do not make sense (Ramesh is not native English speaker). Lights are turned off during lectures. Final exam was difficult. Avoid if you want to learn, take if you want an easy A.
+
+--- Rating #14 ---
+Class: CMPT225
+Date: 2018-08-08 23:37:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+His quizzes and tests are too easy, not challenging.
+
+--- Rating #15 ---
+Class: CMPT225
+Date: 2018-06-29 16:06:01 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+lectures are slow. given HW which wont be marked from textbook, and saying the quiz will be different. does not give any sample quiz. youtube and the textbook have taught me more then this prof. additionally, he makes data structures boring.
+
+--- Rating #16 ---
+Class: CMPT165
+Date: 2018-01-05 11:55:16 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He was a nice guy, but he just can't teach. Spends class time just reading over lectures and didn't care if I fell behind. He should at least gave more practice problems in class.
+
+--- Rating #17 ---
+Class: MACM101
+Date: 2017-09-07 19:06:55 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+VERY boring lecturer but VERY fair exams. He is not a good presenter to say the least, but he is a genuinely nice guy if you actually seek for help outside of class. Just do all your homework and you'll be good.
+
+--- Rating #18 ---
+Class: CMPT405
+Date: 2017-08-04 16:02:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+I am a fourth year cmpt student. Still cannnot understand what he is talking about during the class. He explains the algorithm with very theoretical way, not even one specific number. If you are not good at this, avoid this professor. Very boring lecture, I think only 10 out of 50 people interested in what he is talking about.
+
+--- Rating #19 ---
+Class: CMPT815
+Date: 2017-06-10 03:28:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Homework was due at the end of the term.
+
+--- Rating #20 ---
+Class: MACM101
+Date: 2015-07-25 00:51:18 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 3
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: False
+Online Class: False
+Comment:
+He's very modest and considerate,  and generally a nice guy. Straightforward lectures, he encourages you to ask questions and seek for help if needed. Deserves more respect.

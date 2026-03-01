@@ -1,0 +1,24 @@
+Professor: Greg Felbman
+Professor Legacy ID: 2087679
+Professor ID: VGVhY2hlci0yMDg3Njc5
+Department (CSV): International Studies
+Department (Fetched): International Studies
+Avg Rating: 5
+Avg Difficulty: 3
+Num Ratings: 1
+Would Take Again Percent: -1
+
+Ratings Count Returned: 1
+
+--- Rating #1 ---
+Class: IS101
+Date: 2015-12-15 18:23:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 2
+For Credit: True
+Online Class: False
+Comment:
+Awesome Prof! Very inspiring. Take his classes! Clear, interesting lectures.

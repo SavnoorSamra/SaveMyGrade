@@ -1,0 +1,76 @@
+Professor: Graham Mackenzie
+Professor Legacy ID: 2401736
+Professor ID: VGVhY2hlci0yNDAxNzM2
+Department (CSV): Communication
+Department (Fetched): Communication
+Avg Rating: 4
+Avg Difficulty: 3
+Num Ratings: 5
+Would Take Again Percent: 60
+
+Ratings Count Returned: 5
+
+--- Rating #1 ---
+Class: CMNS347
+Date: 2019-12-18 17:27:51 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Enjoyed 201 with him and found his instruction very clear. This past term 347 was potentially my least favourite class yet. His lectures and the material was so dry and with no exams, it was difficult to stay engaged. Papers were based solely off readings/research, while lectures were kind of pointless. Pop quizzes were the only reason to attend.
+
+--- Rating #2 ---
+Class: CMNS201
+Date: 2019-08-22 06:02:42 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Hilarious prof, very interested in the topic and is available to help you out and make adjustments should you have a good reason. He goes off on tangents like others have mentioned but oftentimes, they do relate to the points he's trying to make.
+
+--- Rating #3 ---
+Class: CMNS201
+Date: 2019-07-17 08:50:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Probably one of the most entertaining and knowledgeable professor that I've had at SFU so far. Extremely charismatic and hilarious. He definitely does go on tangents (he admits it), but it's part of what makes his classes fun and different.
+
+--- Rating #4 ---
+Class: CMNS410
+Date: 2019-04-18 22:10:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Graham has been my favourite prof so far at SFU. I took Media and Ideology with him and he gave a real in depth course in ideology, it was great. He definitely knows what he is talking about and I learned a lot! He doesn't use lecture slides or anything but if you pay attention and take notes it isn't a big deal! Really accessible for help as well.
+
+--- Rating #5 ---
+Class: CMNS201
+Date: 2019-03-13 23:25:31 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+obsessed with Marx, and talks about it constantly when it does not apply. Talks about his own opinion and does not teach the course with an objective view at all. Also tends to talk a lot in general and tends to go over class time.

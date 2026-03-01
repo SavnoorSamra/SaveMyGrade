@@ -1,0 +1,234 @@
+Professor: Kwai Man Fung
+Professor Legacy ID: 2618651
+Professor ID: VGVhY2hlci0yNjE4NjUx
+Department (CSV): Business Administration
+Department (Fetched): Business Administration
+Avg Rating: 4.2
+Avg Difficulty: 3.4
+Num Ratings: 17
+Would Take Again Percent: 82.3529
+
+Ratings Count Returned: 17
+
+--- Rating #1 ---
+Class: BUS254
+Date: 2025-05-01 20:13:31 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+solving the additional homework practice questions, in class tutorial questions, slides would be your best help for this course. The exams are completely based on the above, tutorial participation + in class group quiz matter, so don't miss out on those. Overall easier than BUS 251 for sure.
+
+--- Rating #2 ---
+Class: BUS254
+Date: 2025-05-01 05:36:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: True
+Online Class: False
+Comment:
+I really recommend Teresa! Do the homework and score well on the midterm and you'll be alright!
+
+--- Rating #3 ---
+Class: BUS254
+Date: 2025-03-12 19:11:47 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+ofc the contents were tough tho, i would say her course was 10/10.
+exams were very straightforward, if you do homework and additional homework well, you'll be fine with the exams. 
+lectures were not mandatory, I also didn't go often, but tutorials were mandatory. they were inclass team quizzes and homework checking by TA.
+
+--- Rating #4 ---
+Class: BUS254
+Date: 2024-11-20 04:12:30 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is an excellent professor who ensures the material is easy to understand. Her approach simplifies learning and makes it easier to follow along. Attending her lectures is highly beneficial, as she explains all the concepts thoroughly and at a comfortable pace, significantly reducing the need for extensive self-study.
+
+--- Rating #5 ---
+Class: BUS330
+Date: 2024-10-04 09:36:04 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She is the best professor I have at SFU. She is always friendly and clearly communicates what is important and what will be tested. For those who complained, it seems they aren't putting in the extra effort to attend office hours or stay after class for help.
+
+--- Rating #6 ---
+Class: BUS254
+Date: 2024-06-24 00:42:56 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+She was just reading off the slides the whole time. She did try to give examples, but the fact that she spoke at 10 words per second made it less than ideal to follow. Basically she was just rapping tbh
+
+--- Rating #7 ---
+Class: BUS254
+Date: 2024-05-12 00:32:35 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Overall course structure is very straightforward. Midterm worth 25%, final worth 50%, and the remaining 25% spread across tutorial participation, tutorial assignments, and homework checks in tutorial. Course work is heavy on theory and calculations. If you read slides/textbook and do practice questions/homework you'll do good.
+
+--- Rating #8 ---
+Class: BUS254
+Date: 2024-04-30 02:19:31 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Coming to lectures was pointless as you could not understand anything in class and it was boring due to her monotone voice. You have to teach yourself and there is a lot of content to grasp. The final was worth 50 percent, making or breaking your grade. To do well study every week and watch yt videos as the slides and lectures did not help.
+
+--- Rating #9 ---
+Class: BUS330
+Date: 2021-12-21 23:53:20 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+A little too much reading off of the slides. I would recommend printing the slides and noting things she says that aren't already on the slides. Besides that, pretty average, but tax is a difficult topic, so maybe that means she's above average.
+
+--- Rating #10 ---
+Class: BUS330
+Date: 2021-09-04 23:35:58 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: 
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Teresa is a good professor. She explains the tax rules and concepts very clearly and states what will and will not be on the exams. During online instruction, she was very considerate to students and made lectures asynchronous while the scheduled class time was used as an (optional to attend) live review and Q&amp;A session. Very approachable.
+
+--- Rating #11 ---
+Class: BUS331
+Date: 2021-08-15 08:50:35 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+She is the most caring, considerate and friendly professor. Tax concepts already hard and you gotta work hard for it, it maybe long and dry, but she makes it a bit better on her way of delivering it. Extremely care about all of her students, she even offered talk to or found solution in case of any difficulties, best prof &lt;3
+
+--- Rating #12 ---
+Class: BUS330
+Date: 2021-05-27 22:19:49 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is very helpful. She's so nice and kind. She even holds extra office hours. Tax is a hard course but she explains it so well. The exam is similar to a homework question. T/F is hard. if you like me bad at remembering tax rules. If you can take BUS 321 and BUS 331 with her.
+
+--- Rating #13 ---
+Class: BUS330
+Date: 2021-04-28 05:05:11 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Teresa is a great prof who is really committed to her students and ensuring they are learning the material. Her main goal is making sure that you are learning in the course and she can supplement your learning. She is clear on what you need to do to succeed in the course, its just up to you to put in the work!
+
+--- Rating #14 ---
+Class: BUS321
+Date: 2021-04-28 04:55:18 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+Teresa is a great prof having taken 321 with her was one of my best experiences in an accounting course at Beedie. Make sure you do her practice questions and ask her for help and you'll be fine for her class.
+
+--- Rating #15 ---
+Class: BUS321
+Date: 2020-11-10 21:23:43 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 0
+For Credit: False
+Online Class: True
+Comment:
+Take any course with Teresa, and you'll enjoy it because she explains concepts in detail during her lectures and she is SO PATIENT with her explanations (she really cares about her students). Her quizzes, midterm and final exam are very fair. If you do the homework and truly understand the material, you will get an A.
+
+--- Rating #16 ---
+Class: BUS330
+Date: 2020-10-30 04:30:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+She is the most caring and flexible professor who always care for her students. She is the best prof I've ever had
+
+--- Rating #17 ---
+Class: BUS321
+Date: 2020-08-29 05:25:21 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: True
+Comment:
+Teresa's instructions were clear, and her grading was fair. The exams mirrored the homework for the most part. She was open and responsive to questions. BUS 321 content was quite dry, but Teresa made it easy to understand.

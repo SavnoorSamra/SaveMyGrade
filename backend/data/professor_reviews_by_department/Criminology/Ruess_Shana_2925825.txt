@@ -1,0 +1,63 @@
+Professor: Shana  Ruess
+Professor Legacy ID: 2925825
+Professor ID: VGVhY2hlci0yOTI1ODI1
+Department (CSV): Criminology
+Department (Fetched): Criminology
+Avg Rating: 3.3
+Avg Difficulty: 3.3
+Num Ratings: 4
+Would Take Again Percent: 50
+
+Ratings Count Returned: 4
+
+--- Rating #1 ---
+Class: CRIM311
+Date: 2025-04-25 03:40:59 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Course seems easy on the surface but papers were graded way too harshly given the amount of freedom we have when writing about the topics even when you follow everything on the criteria and rubric. Lectures were also rather dry.
+
+--- Rating #2 ---
+Class: CRIM311
+Date: 2025-03-23 21:11:20 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 1
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+She was clear on what she wanted. However, to get an A in her class you have to go above and beyond. She was very open to constructive criticism and encouraged it. Her lectures were alright - not the most boring or most interesting. Weekly quizzes but they barely affect your grades.
+
+--- Rating #3 ---
+Class: CRIM311
+Date: 2025-03-17 23:07:28 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Shana is lectures are nothing special and kinda dry. Get ready for read the textbook and every single chapter because she has weekly quizzes for all of them. The TA also marks the assignments extremely harshly and does not provide helpful feedback. They miscalculated everyone's midterm marks which was quite annoying and required major corrections.
+
+--- Rating #4 ---
+Class: CRIM311
+Date: 2023-09-04 21:25:27 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Course content was interesting but could have been delivered in a more engaging, exciting way. The prof was caring and available for help outside class. Participation required in tutorials but it was easy to get a perfect participation mark. The written assignments seem easy based on the instructions  but were marked tougher than expected.

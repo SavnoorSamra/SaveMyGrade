@@ -1,0 +1,219 @@
+Professor: Uwe Glaesser
+Professor Legacy ID: 562932
+Professor ID: VGVhY2hlci01NjI5MzI=
+Department (CSV): Computer Science
+Department (Fetched): Computer Science
+Avg Rating: 2.7
+Avg Difficulty: 2.8
+Num Ratings: 16
+Would Take Again Percent: 37.5
+
+Ratings Count Returned: 16
+
+--- Rating #1 ---
+Class: CMPT318
+Date: 2024-12-16 01:35:44 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Uwe is extremely helpful both in class and in office hours. He has a passion for cybersecurity and wants everyone in his class to succeed. Sometimes he will go on tangents in lecture, but overall he covers the course material well. His assignments are relevant to the course and explained well. Great professor and great person.
+
+--- Rating #2 ---
+Class: CMPT318
+Date: 2022-12-16 22:33:38 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Most of this course is based on group project, 30% Tests, Uwe is Knowledegble and will respond to questions really fast and I would recommend him to anyone intrested in field of cybersecurity and Machine learning.
+
+--- Rating #3 ---
+Class: CMPT318
+Date: 2022-12-15 02:57:12 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 1
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I don't think the school lets Uwe teach students how to hack in the traditional sense... which is fair. So, Uwe has to instead teach anomaly detection which doesn't sound as fun. And it isn't. The course was a bit disorganised, and I felt we crammed everything into the last month. Also, Uwe is also a slow talker and often digresses.
+
+--- Rating #4 ---
+Class: CMPT318
+Date: 2020-05-04 05:55:06 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Course is same as CMPT 310 (AI) but with more writing. Easy course with lots of group work. Class material has little connection to assignments. Only need to go to tutorials for solutions to assignments and exams. Assignments marked very slowly. Assignments use R. Tests are on slide memorization. Slow talker.
+
+--- Rating #5 ---
+Class: CMPT318
+Date: 2020-04-07 22:52:23 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Glaesser is very knowledgeable and has plenty of background information and experience when it comes to teaching Cybersecurity, but perhaps one of the laziest profs in the faculty!!! Everyone gets 5/5 on his attendance marking criteria and the fact that he demands so much for the project while returning no assignment or midterm grades is ridiculous
+
+--- Rating #6 ---
+Class: CMPT318
+Date: 2020-02-11 19:06:44 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+Cmpt318 should be called intro to stats and Markov models. Boring lecture
+
+--- Rating #7 ---
+Class: CMPT318
+Date: 2019-12-09 02:23:55 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+He is one of the worst professors I've had: the class material is disorganized and has little to no links with assignments; extremely dry and incoherent lectures; and test &amp; assignment feedback takes forever. The way he teaches the course makes it a pure-memorization course and you'll do well if you fully memorize his slides.
+
+--- Rating #8 ---
+Class: CMPT318
+Date: 2019-12-08 03:20:53 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: non mandatory
+Textbook Use: 0
+For Credit: True
+Online Class: False
+Comment:
+I had a decent experience with CMPT318: Cybersecurity class. Don't let the name fool you, the class is more about big data analysis and statistics than cybersecurity. The workload was very low, but if you have a bad group you will have to write 25 pages of report by yourself. The class material was disorganized, but Uwe clearly knows his stuff.
+
+--- Rating #9 ---
+Class: CMPT475
+Date: 2013-12-12 14:42:40 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 2
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Listen to what others say here. This class is as boring as it gets. Just memorize everything (yes everything,even the tutorials) and you'll do great. He talks so slow repeats the same boring things. This class has more to do with modelling then with Software engineering.
+
+--- Rating #10 ---
+Class: CMPT475
+Date: 2011-12-12 15:07:34 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Very nice professor! Extremely helpful when you go to his office during the office hour. He is very patient at explaining concepts that one doesn't understand. Exams and assignments are marked fair. By the way, all the assignments have to be done in groups. So it's better to take this class with someone you know!!
+
+--- Rating #11 ---
+Class: CMPT475
+Date: 2011-05-12 19:02:00 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 2
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+if you like Abstract State Machine , this is your man.I have no problem with it, but please change the course title to &quot;introduction to Abstract State Machine&quot;. I didn't learn much about &quot;software engineering&quot;.He's horrible at explaning very basic concepts. however he is a very nice guy and most likely want fail you on exams
+
+--- Rating #12 ---
+Class: CMPT375
+Date: 2010-04-24 13:43:37 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 4
+Difficulty Rating: 2
+Attendance Mandatory: 
+Textbook Use: 1
+For Credit: False
+Online Class: False
+Comment:
+Overall a very helpful and nice prof. Constantly encourage students to ask questions. Very informative lecture notes. For the exams, just study the lecture notes and you'll do well. One thing to keep in mind is that he can sometimes stay on one slide for too long.
+
+--- Rating #13 ---
+Class: CMPT475
+Date: 2005-12-17 14:51:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 1
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+is there a limit to how a person can be boring&#63; this man give you the answer.. NO! Its lecture are not informative at all, if you want to pass the exam just read very carefully required readings, slides, do homeworks and look carefully at ASM examples. Don't take this class..
+
+--- Rating #14 ---
+Class: CMPT475
+Date: 2005-12-09 20:25:52 +0000 UTC
+Helpful Rating: 2
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: Y
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Like theory&#63; A lot&#63; Then why are you taking a class in Software Engineering&#63; If you want to learn some ASM or AsmL this is the class for you. Too bad no person in industry has ever heard of it.
+
+--- Rating #15 ---
+Class: CMPT475
+Date: 2005-11-22 10:34:10 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+His teaching is difficult just because he does not deliver any ideas. We just cannot understand what this guy is talking about.
+
+--- Rating #16 ---
+Class: CMPT475745
+Date: 2005-04-11 18:11:38 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+No Comments

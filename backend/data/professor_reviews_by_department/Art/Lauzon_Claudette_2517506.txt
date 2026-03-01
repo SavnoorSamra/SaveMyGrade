@@ -1,0 +1,37 @@
+Professor: Claudette Lauzon
+Professor Legacy ID: 2517506
+Professor ID: VGVhY2hlci0yNTE3NTA2
+Department (CSV): Art
+Department (Fetched): Art
+Avg Rating: 1
+Avg Difficulty: 4.5
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: CA118
+Date: 2024-04-13 06:02:27 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Scope is way too broad, mid terms and exams' syllabus is too much, expects a student to memorize 87 paintings in total + every definition of each term mentioned in class. She talks like the Smart History video.
+
+--- Rating #2 ---
+Class: CA118
+Date: 2024-03-20 02:20:06 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 4
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Do not take a class with this instructor. She is tough on grading exams! I have to self-study on internet with the very little information she provided in class. She is always late for class for no reason.

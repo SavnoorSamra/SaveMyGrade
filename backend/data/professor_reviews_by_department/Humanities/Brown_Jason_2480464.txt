@@ -1,0 +1,37 @@
+Professor: Jason Brown
+Professor Legacy ID: 2480464
+Professor ID: VGVhY2hlci0yNDgwNDY0
+Department (CSV): Humanities
+Department (Fetched): Humanities
+Avg Rating: 2
+Avg Difficulty: 5
+Num Ratings: 2
+Would Take Again Percent: 0
+
+Ratings Count Returned: 2
+
+--- Rating #1 ---
+Class: REM320W
+Date: 2025-02-11 20:10:08 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: True
+Comment:
+dont take him for hum130.
+
+--- Rating #2 ---
+Class: REM320W
+Date: 2022-01-31 05:29:40 +0000 UTC
+Helpful Rating: 3
+Clarity Rating: 3
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 5
+For Credit: True
+Online Class: False
+Comment:
+He's a great person, but it is not business with his lecture. REM320W contains some philosophical ideas, and his lecture becomes so hard to understand when he speaks some specific term and gives a rare example. For example, prima facie, flipped this trope, participation syllogism and many indigenous examples. NOt cHOiCe For iNTeRnaTIoNAL STudEnt!

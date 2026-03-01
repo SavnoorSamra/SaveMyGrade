@@ -1,0 +1,273 @@
+Professor: Peter Smith
+Professor Legacy ID: 1591747
+Professor ID: VGVhY2hlci0xNTkxNzQ3
+Department (CSV): Physics
+Department (Fetched): Physics
+Avg Rating: 2
+Avg Difficulty: 4.1
+Num Ratings: 85
+Would Take Again Percent: 15.1515
+
+Ratings Count Returned: 20
+
+--- Rating #1 ---
+Class: ENF100
+Date: 2026-02-27 17:12:22 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+The course lacked structure and clear communication from start to finish. Concepts were not explained thoroughly, and feedback was minimal, making it difficult to understand how to improve. The stress came from confusion rather than the material itself. Overall, I cannot recommend this professor.
+
+--- Rating #2 ---
+Class: ENF100
+Date: 2026-02-27 17:05:26 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Despite putting in significant effort, the lack of organization and transparency made success feel unnecessarily difficult. Instructions were often unclear, and support was limited. This experience was disappointing and discouraging.
+
+--- Rating #3 ---
+Class: ENF100
+Date: 2026-02-27 08:04:29 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: None
+For Credit: False
+Online Class: False
+Comment:
+Many quizzes and doesn't really explain
+
+--- Rating #4 ---
+Class: ENF100
+Date: 2026-02-27 07:57:17 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 5
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Instructor assumes students already know concepts, offers minimal guidance, explanations are rushed. I struggled to understand foundational material because I didn't get step-by-step help which wasted a lot of time as I had to go back and teach it myself!
+
+--- Rating #5 ---
+Class: PHY100
+Date: 2026-02-26 07:32:32 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 2
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He's a nice guy, but a bad teacher. His teaching style really confused me and seemed to stretch unnecessary things super long. He didn't update deadlines on time, and gave multiple the same day. He never returned tests on time, and I was really stressed in the group project.
+
+--- Rating #6 ---
+Class: ENF100
+Date: 2026-02-26 06:44:13 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+LISTEN TO ME DONT TAKE ANYTHING WITH HIM!!!
+I honestly regret enrolling in this class, the problem isn't with the subject its with the professor, I have never worked this hard to teach myself material I paid to be taught, I would not take another course with this professor under any circumstance, By far the worst educational experience I've had.
+
+--- Rating #7 ---
+Class: ENF100
+Date: 2026-02-20 23:35:14 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He doesn't teach, like at all, there's no clear explanation on anything and you have to figure out everything yourself, which isn't great for someone who already struggles with mathematics. Try to avoid if you're not interested in sleepless nights.
+
+--- Rating #8 ---
+Class: ENF100
+Date: 2026-01-15 18:14:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: 
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+had to do everything myself
+
+--- Rating #9 ---
+Class: PHYS140
+Date: 2025-12-14 23:23:54 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+He cares about his student's learning as much as he cares about air resistance. 
+His ego is held together by Van der Waals force.
+
+--- Rating #10 ---
+Class: PHYS140141
+Date: 2025-11-10 01:22:16 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Participation matters in both 140/141 be sure to do the pre lectures, read the material, and ask questions after you have read/understand the concepts. Prof is not bad, at first it might be intimidating but he's there to help you. Midterms are based on problem solving / expertTA and the experiments
+
+--- Rating #11 ---
+Class: PHYS140141
+Date: 2025-09-08 08:58:59 +0000 UTC
+Helpful Rating: 4
+Clarity Rating: 4
+Difficulty Rating: 3
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+You'll do well if you do his problem solvings, experTA and samples. He helps in office hours.
+
+--- Rating #12 ---
+Class: PHYS140
+Date: 2025-08-29 18:41:16 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Yeah just avoid him
+
+--- Rating #13 ---
+Class: PHYS141
+Date: 2025-06-06 00:05:36 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Great guy and good father, awful teacher.
+
+--- Rating #14 ---
+Class: PHYS141
+Date: 2025-04-05 21:21:31 +0000 UTC
+Helpful Rating: 5
+Clarity Rating: 5
+Difficulty Rating: 4
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+hes a great prof and a great guy
+
+--- Rating #15 ---
+Class: PHYS140
+Date: 2025-04-04 00:14:41 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+If  ur an international student,do not take his course,and you should learn all the things by youself before tests,his class offer 0 help,and moody,that's the best word to describe peter.
+
+--- Rating #16 ---
+Class: PHY100
+Date: 2025-01-06 05:12:20 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: 3
+For Credit: True
+Online Class: False
+Comment:
+Just another narcissist
+
+--- Rating #17 ---
+Class: PHYS100
+Date: 2024-12-03 00:34:07 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+He gets very moody and very demanding. One of the worst courses/professor pairings I have ever had.
+
+--- Rating #18 ---
+Class: PHYS140141
+Date: 2024-07-05 04:33:17 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Yes he is funny but it wont make course any easy with him. Just do yourself favor and avoid him.
+
+--- Rating #19 ---
+Class: PHYS141
+Date: 2024-06-19 02:17:02 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+Wish he was more passionate in teaching, not half baked interest and attitude towards students in physics
+
+--- Rating #20 ---
+Class: PHYS140141
+Date: 2024-06-18 16:43:46 +0000 UTC
+Helpful Rating: 1
+Clarity Rating: 1
+Difficulty Rating: 5
+Attendance Mandatory: non mandatory
+Textbook Use: -1
+For Credit: True
+Online Class: False
+Comment:
+I'll make it 40 (1 star) reviews with this one. He is very moody and the best father in the world, which also makes him take his job as a joke.
