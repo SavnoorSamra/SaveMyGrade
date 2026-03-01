@@ -3,7 +3,7 @@ import './App.css';
 
 const initialForm = {
   university: 'Simon Fraser University',
-  query: 'Easy online class with no finals',
+  query: 'Easy class',
   department_preference: 'All Departments'
 };
 const ALL_DEPARTMENTS_LABEL = 'All Departments';
@@ -11,15 +11,15 @@ const ALL_DEPARTMENTS_LABEL = 'All Departments';
 const featureCards = [
   {
     title: 'Fast Filters',
-    description: 'Search by dept, GPA, and delivery mode. Find what you need in seconds.'
+    description: 'Filter by school, department, and optional preferences to find what you need fast.'
   },
   {
     title: 'Real Ratings',
     description: 'Aggregated from thousands of student feedback. Trust the community.'
   },
   {
-    title: 'Schedule-Friendly',
-    description: 'Find classes that fit your week. No more scheduling conflicts.'
+    title: 'Adaptive Recommendations',
+    description: 'The app adapts and can account for classes you have already taken.'
   },
   {
     title: 'Plan Ahead',
@@ -31,6 +31,12 @@ const clamp = (value, min = 0, max = 1) => Math.min(max, Math.max(min, value));
 const easeOut = (t) => 1 - (1 - t) ** 3;
 const easeIn = (t) => t ** 2;
 const lerp = (a, b, t) => a + (b - a) * t;
+const normalizeCourseCode = (value) => String(value ?? '').toUpperCase().replace(/[^A-Z0-9]/g, '');
+const formatOutOfFive = (value) => {
+  const num = Number(value);
+  if (!Number.isFinite(num)) return 'n/a';
+  return `${num}/5`;
+};
 
 function toTransform(x = 0, y = 0, scale = 1) {
   return `translate3d(${x}px, ${y}px, 0) scale(${scale})`;
@@ -62,7 +68,6 @@ function App() {
   const [departmentQuery, setDepartmentQuery] = useState('');
   const [departmentOpen, setDepartmentOpen] = useState(false);
   const [backendStatus, setBackendStatus] = useState({ loading: true, healthy: false, note: '' });
-  const [showAllResults, setShowAllResults] = useState(false);
   const [savedCourses, setSavedCourses] = useState(() => {
     try {
       const raw = localStorage.getItem('smg_saved_courses');
@@ -74,6 +79,23 @@ function App() {
   const [savedCourseMap, setSavedCourseMap] = useState(() => {
     try {
       const raw = localStorage.getItem('smg_saved_course_map');
+      const parsed = raw ? JSON.parse(raw) : {};
+      return parsed && typeof parsed === 'object' ? parsed : {};
+    } catch {
+      return {};
+    }
+  });
+  const [takenCourses, setTakenCourses] = useState(() => {
+    try {
+      const raw = localStorage.getItem('smg_taken_courses');
+      return new Set(raw ? JSON.parse(raw) : []);
+    } catch {
+      return new Set();
+    }
+  });
+  const [takenCourseMap, setTakenCourseMap] = useState(() => {
+    try {
+      const raw = localStorage.getItem('smg_taken_course_map');
       const parsed = raw ? JSON.parse(raw) : {};
       return parsed && typeof parsed === 'object' ? parsed : {};
     } catch {
@@ -93,22 +115,20 @@ function App() {
 
   const searchWrapRef = useRef(null);
   const searchHeadlineRef = useRef(null);
-  const searchPillRef = useRef(null);
   const searchCardRef = useRef(null);
   const searchIconLeftRef = useRef(null);
   const searchIconRightRef = useRef(null);
 
   const resultsWrapRef = useRef(null);
   const resultsHeadlineRef = useRef(null);
-  const resultsPillRef = useRef(null);
   const resultsShellRef = useRef(null);
   const resultsIconLeftRef = useRef(null);
   const resultsIconRightRef = useRef(null);
   const resultCardRefs = useRef([]);
   const departmentBoxRef = useRef(null);
 
-  const snapLockRef = useRef(false);
   const programmaticScrollRef = useRef(false);
+  const navTargetRef = useRef('');
 
   const selectedDepartment = form.department_preference || ALL_DEPARTMENTS_LABEL;
   const filteredDepartments = useMemo(() => {
@@ -125,18 +145,15 @@ function App() {
   }, [results.length]);
 
   useEffect(() => {
-    setShowAllResults(false);
-  }, [results]);
-
-  useEffect(() => {
     if (!results.length || !savedCourses.size) return;
     setSavedCourseMap((prev) => {
       const next = { ...prev };
       let changed = false;
       results.forEach((item, index) => {
         const courseCode = item.course_code ?? `Unknown-${index}`;
-        if (!savedCourses.has(courseCode) || next[courseCode]) return;
-        next[courseCode] = {
+        const normalized = normalizeCourseCode(courseCode);
+        if (!savedCourses.has(normalized) || next[normalized]) return;
+        next[normalized] = {
           course_code: courseCode,
           title: item?.title ?? 'No title available',
           department: item?.department ?? '',
@@ -150,6 +167,31 @@ function App() {
       return changed ? next : prev;
     });
   }, [results, savedCourses]);
+
+  useEffect(() => {
+    if (!results.length || !takenCourses.size) return;
+    setTakenCourseMap((prev) => {
+      const next = { ...prev };
+      let changed = false;
+      results.forEach((item, index) => {
+        const courseCode = item.course_code ?? `Unknown-${index}`;
+        const normalized = normalizeCourseCode(courseCode);
+        if (!takenCourses.has(normalized) || next[normalized]) return;
+        next[normalized] = {
+          course_code: courseCode,
+          title: item?.title ?? 'No title available',
+          department: item?.department ?? '',
+          difficulty: item?.difficulty ?? 'n/a',
+          professor: item?.professor ?? 'n/a',
+          prof_rating: item?.prof_rating ?? 'n/a',
+          reason: item?.reason ?? '',
+          review_count: item?.review_count ?? 0
+        };
+        changed = true;
+      });
+      return changed ? next : prev;
+    });
+  }, [results, takenCourses]);
 
   useEffect(() => {
     const media = window.matchMedia('(prefers-reduced-motion: reduce)');
@@ -247,6 +289,14 @@ function App() {
   }, [savedCourseMap]);
 
   useEffect(() => {
+    localStorage.setItem('smg_taken_courses', JSON.stringify(Array.from(takenCourses)));
+  }, [takenCourses]);
+
+  useEffect(() => {
+    localStorage.setItem('smg_taken_course_map', JSON.stringify(takenCourseMap));
+  }, [takenCourseMap]);
+
+  useEffect(() => {
     const onScroll = () => setIsScrolled(window.scrollY > 80);
     window.addEventListener('scroll', onScroll, { passive: true });
     return () => window.removeEventListener('scroll', onScroll);
@@ -282,8 +332,10 @@ function App() {
       });
 
       const searchP = sceneProgress(searchWrapRef.current);
-      const searchIn = easeOut(clamp(searchP / 0.3));
-      const searchOut = easeIn(clamp((searchP - 0.7) / 0.3));
+      const jumpedToSearch =
+        programmaticScrollRef.current && navTargetRef.current === 'search-scene';
+      const searchIn = jumpedToSearch ? 1 : easeOut(clamp(searchP / 0.3));
+      const searchOut = 0;
       applyStyle(searchCardRef.current, {
         x: lerp(0, 0.55 * vw, searchOut),
         y: lerp(0.9 * vh, 0, searchIn),
@@ -294,51 +346,35 @@ function App() {
         x: lerp(-0.6 * vw, 0, clamp((searchP - 0.06) / 0.24)) + lerp(0, -0.35 * vw, searchOut),
         opacity: lerp(0, 1, clamp((searchP - 0.06) / 0.24)) * lerp(1, 0.25, searchOut)
       });
-      applyStyle(searchPillRef.current, {
-        y: lerp(-0.4 * vh, 0, clamp((searchP - 0.1) / 0.2)),
-        opacity: lerp(0, 1, clamp((searchP - 0.1) / 0.2)) * lerp(1, 0.3, searchOut)
-      });
       applyStyle(searchIconLeftRef.current, {
-        y: lerp(0.4 * vh, 0, clamp((searchP - 0.14) / 0.16)) + lerp(0, 0.3 * vh, searchOut),
-        opacity: lerp(0, 1, clamp((searchP - 0.14) / 0.16)) * lerp(1, 0.2, searchOut)
+        y: lerp(22, 0, clamp((searchP - 0.12) / 0.18)),
+        opacity: lerp(0, 1, clamp((searchP - 0.12) / 0.18))
       });
       applyStyle(searchIconRightRef.current, {
-        y: lerp(0.4 * vh, 0, clamp((searchP - 0.18) / 0.12)) + lerp(0, 0.3 * vh, searchOut),
-        opacity: lerp(0, 1, clamp((searchP - 0.18) / 0.12)) * lerp(1, 0.2, searchOut)
+        y: lerp(22, 0, clamp((searchP - 0.16) / 0.14)),
+        opacity: lerp(0, 1, clamp((searchP - 0.16) / 0.14))
       });
 
       const resultsP = sceneProgress(resultsWrapRef.current);
-      const resultsIn = easeOut(clamp(resultsP / 0.3));
-      const resultsOut = easeIn(clamp((resultsP - 0.7) / 0.3));
+      const resultsIn = 1;
+      const resultsOut = 0;
       applyStyle(resultsShellRef.current, {
         y: lerp(vh, 0, resultsIn) + lerp(0, -0.6 * vh, resultsOut),
         scale: lerp(0.9, 1, resultsIn),
         opacity: lerp(0, 1, resultsIn) * lerp(1, 0.15, resultsOut)
       });
       applyStyle(resultsHeadlineRef.current, {
-        x: lerp(-0.6 * vw, 0, clamp((resultsP - 0.08) / 0.22)) + lerp(0, 0.35 * vw, resultsOut),
-        opacity: lerp(0, 1, clamp((resultsP - 0.08) / 0.22)) * lerp(1, 0.3, resultsOut)
-      });
-      applyStyle(resultsPillRef.current, {
-        y: lerp(-0.45 * vh, 0, clamp((resultsP - 0.1) / 0.2)),
-        opacity: lerp(0, 1, clamp((resultsP - 0.1) / 0.2)) * lerp(1, 0.3, resultsOut)
-      });
-      applyStyle(resultsIconLeftRef.current, {
-        y: lerp(0.45 * vh, 0, clamp((resultsP - 0.14) / 0.16)) + lerp(0, 0.35 * vh, resultsOut),
-        opacity: lerp(0, 1, clamp((resultsP - 0.14) / 0.16)) * lerp(1, 0.25, resultsOut)
-      });
-      applyStyle(resultsIconRightRef.current, {
-        y: lerp(0.45 * vh, 0, clamp((resultsP - 0.18) / 0.12)) + lerp(0, 0.35 * vh, resultsOut),
-        opacity: lerp(0, 1, clamp((resultsP - 0.18) / 0.12)) * lerp(1, 0.25, resultsOut)
+        x: 0,
+        opacity: 1
       });
 
-      const cardEntrance = clamp((resultsP - 0.16) / 0.2);
+      const cardEntrance = 1;
       resultCardRefs.current.forEach((card, index) => {
         const delay = index * 0.08;
         const local = easeOut(clamp((cardEntrance - delay) / (1 - delay)));
         applyStyle(card, {
           y: lerp(40, 0, local),
-          opacity: local * lerp(1, 0.6, resultsOut)
+          opacity: local
         });
       });
     };
@@ -379,53 +415,6 @@ function App() {
     return () => observer.disconnect();
   }, []);
 
-  useEffect(() => {
-    if (reduceMotion) return;
-
-    const points = () => {
-      const ids = ['hero-scene', 'search-scene', 'results-scene', 'features', 'footer'];
-      return ids
-        .map((id) => document.getElementById(id))
-        .filter(Boolean)
-        .map((el) => el.offsetTop);
-    };
-
-    let timer = 0;
-    const onScroll = () => {
-      if (snapLockRef.current || programmaticScrollRef.current) return;
-      window.clearTimeout(timer);
-      timer = window.setTimeout(() => {
-        const anchors = points();
-        if (!anchors.length) return;
-        const current = window.scrollY;
-        let nearest = anchors[0];
-        let best = Math.abs(current - nearest);
-
-        for (let i = 1; i < anchors.length; i += 1) {
-          const dist = Math.abs(current - anchors[i]);
-          if (dist < best) {
-            best = dist;
-            nearest = anchors[i];
-          }
-        }
-
-        if (best < window.innerHeight * 0.45) {
-          snapLockRef.current = true;
-          window.scrollTo({ top: nearest, behavior: 'smooth' });
-          window.setTimeout(() => {
-            snapLockRef.current = false;
-          }, 650);
-        }
-      }, 120);
-    };
-
-    window.addEventListener('scroll', onScroll, { passive: true });
-    return () => {
-      window.removeEventListener('scroll', onScroll);
-      window.clearTimeout(timer);
-    };
-  }, [reduceMotion]);
-
   const updateField = (event) => {
     const { name, value } = event.target;
     setForm((prev) => ({ ...prev, [name]: value }));
@@ -434,10 +423,39 @@ function App() {
   const scrollTo = (id) => {
     const target = document.getElementById(id);
     if (!target) return;
+    navTargetRef.current = id;
+    const topbarOffset = 80;
+    let destination = target.offsetTop - topbarOffset;
+    const isSceneWrap =
+      target.classList.contains('scene-wrap') ||
+      id === 'hero-scene' ||
+      id === 'search-scene';
+    if (isSceneWrap) {
+      const extra = Math.max(0, target.offsetHeight - window.innerHeight);
+      destination = target.offsetTop + extra * 0.34;
+    }
+    destination = Math.max(0, destination);
     programmaticScrollRef.current = true;
-    window.scrollTo({ top: target.offsetTop, behavior: 'smooth' });
+    window.scrollTo({ top: destination, behavior: 'smooth' });
+
+    // Ensure clicked scene content is visible immediately (no extra manual scroll needed).
+    if (id === 'search-scene') {
+      applyStyle(searchCardRef.current, { x: 0, y: 0, scale: 1, opacity: 1 });
+      applyStyle(searchHeadlineRef.current, { x: 0, opacity: 1 });
+      applyStyle(searchIconLeftRef.current, { y: 0, opacity: 1 });
+      applyStyle(searchIconRightRef.current, { y: 0, opacity: 1 });
+    }
+    if (id === 'results-scene') {
+      applyStyle(resultsShellRef.current, { y: 0, scale: 1, opacity: 1 });
+      applyStyle(resultsHeadlineRef.current, { x: 0, opacity: 1 });
+      resultCardRefs.current.forEach((card) => {
+        applyStyle(card, { y: 0, opacity: 1 });
+      });
+    }
+
     window.setTimeout(() => {
       programmaticScrollRef.current = false;
+      navTargetRef.current = '';
     }, 700);
   };
 
@@ -449,21 +467,22 @@ function App() {
   };
 
   const toggleSaved = (courseCode, item) => {
+    const normalized = normalizeCourseCode(courseCode);
     setSavedCourses((prev) => {
       const next = new Set(prev);
-      if (next.has(courseCode)) {
-        next.delete(courseCode);
+      if (next.has(normalized)) {
+        next.delete(normalized);
       } else {
-        next.add(courseCode);
+        next.add(normalized);
       }
       return next;
     });
     setSavedCourseMap((prev) => {
       const next = { ...prev };
-      if (next[courseCode]) {
-        delete next[courseCode];
+      if (next[normalized]) {
+        delete next[normalized];
       } else {
-        next[courseCode] = {
+        next[normalized] = {
           course_code: courseCode,
           title: item?.title ?? 'No title available',
           department: item?.department ?? '',
@@ -475,6 +494,43 @@ function App() {
       }
       return next;
     });
+  };
+
+  const toggleTaken = (courseCode, item) => {
+    const normalized = normalizeCourseCode(courseCode);
+    const wasTaken = takenCourses.has(normalized);
+    setTakenCourses((prev) => {
+      const next = new Set(prev);
+      if (next.has(normalized)) {
+        next.delete(normalized);
+      } else {
+        next.add(normalized);
+      }
+      return next;
+    });
+    setTakenCourseMap((prev) => {
+      const next = { ...prev };
+      if (next[normalized]) {
+        delete next[normalized];
+      } else {
+        next[normalized] = {
+          course_code: courseCode,
+          title: item?.title ?? 'No title available',
+          department: item?.department ?? '',
+          difficulty: item?.difficulty ?? 'n/a',
+          professor: item?.professor ?? 'n/a',
+          prof_rating: item?.prof_rating ?? 'n/a',
+          reason: item?.reason ?? '',
+          review_count: item?.review_count ?? 0
+        };
+      }
+      return next;
+    });
+    if (!wasTaken) {
+      setResults((prev) =>
+        prev.filter((entry) => normalizeCourseCode(entry?.course_code) !== normalized)
+      );
+    }
   };
 
   const handleSubmit = async (event) => {
@@ -493,7 +549,8 @@ function App() {
           department:
             form.department_preference === ALL_DEPARTMENTS_LABEL ? '' : form.department_preference,
           department_preference:
-            form.department_preference === ALL_DEPARTMENTS_LABEL ? '' : form.department_preference
+            form.department_preference === ALL_DEPARTMENTS_LABEL ? '' : form.department_preference,
+          exclude_taken_courses: Array.from(takenCourses)
         })
       });
 
@@ -524,10 +581,20 @@ function App() {
   };
 
   const resultCount = results.length;
-  const displayedResults = showAllResults ? results : results.slice(0, 5);
+  const displayedResults = results;
   const savedCards = useMemo(
-    () => Object.values(savedCourseMap).sort((a, b) => String(a.course_code).localeCompare(String(b.course_code))),
+    () =>
+      Object.values(savedCourseMap).sort((a, b) =>
+        String(a.course_code).localeCompare(String(b.course_code))
+      ),
     [savedCourseMap]
+  );
+  const takenCards = useMemo(
+    () =>
+      Object.values(takenCourseMap).sort((a, b) =>
+        String(a.course_code).localeCompare(String(b.course_code))
+      ),
+    [takenCourseMap]
   );
 
   const avgGpa = useMemo(() => {
@@ -547,11 +614,10 @@ function App() {
             SaveMyGrade
           </button>
           <div className="nav-links">
-            <button onClick={() => scrollTo('features')}>How it works</button>
             <button onClick={() => scrollTo('search-scene')}>Search</button>
-            <button onClick={() => scrollTo('results-scene')}>Results</button>
             <button onClick={() => scrollTo('saved')}>Saved</button>
-            <button onClick={() => scrollTo('footer')}>FAQ</button>
+            <button onClick={() => scrollTo('taken')}>Taken</button>
+            <button onClick={() => scrollTo('features')}>How It Works</button>
           </div>
         </div>
       </nav>
@@ -584,33 +650,22 @@ function App() {
         <div className="scene scene-search" id="search">
           <div className="scene-glow" />
           <div className="container section-content">
-            <div className="pill" ref={searchPillRef}>
-              A
-            </div>
             <h2 className="section-title" ref={searchHeadlineRef}>
               What are you looking for?
             </h2>
-            <div className="status-row">
-              <span className={`status-pill ${backendStatus.healthy ? 'ok' : 'warn'}`}>
-                {backendStatus.loading
-                  ? 'Checking backend...'
-                  : backendStatus.healthy
-                    ? 'Backend connected'
-                    : 'Backend offline'}
-              </span>
-              <span className="status-note">{backendStatus.note}</span>
-            </div>
-
             <form className="glass-card search-card" ref={searchCardRef} onSubmit={handleSubmit}>
               <div className="field-grid">
                 <label>
                   <span>University</span>
                   <input
+                    className="fixed-input"
                     name="university"
                     value={form.university}
                     onChange={updateField}
                     placeholder="e.g., State University"
                     required
+                    disabled
+                    aria-disabled="true"
                   />
                 </label>
 
@@ -671,7 +726,7 @@ function App() {
                 </label>
               </div>
 
-              <label>
+              <label className="request-field">
                 <span>Your Request</span>
                 <textarea
                   name="query"
@@ -683,7 +738,7 @@ function App() {
                 />
               </label>
 
-              <p className="helper">Example: &quot;Easy online class with no finals&quot;</p>
+              <p className="helper">Example: &quot;Easy class&quot;</p>
               {departmentsError ? <p className="helper helper-warning">{departmentsError}</p> : null}
 
               <div className="actions">
@@ -711,7 +766,8 @@ function App() {
             {apiMeta ? (
               <p className="api-meta">
                 Model: {apiMeta.model_used || 'n/a'} • Profiles: {apiMeta.class_profiles ?? 0} • Files:{' '}
-                {apiMeta.matched_professor_files ?? 0}
+                {apiMeta.matched_professor_files ?? 0} • Excluded Taken:{' '}
+                {apiMeta.excluded_taken_count ?? 0}
               </p>
             ) : null}
           </div>
@@ -722,9 +778,6 @@ function App() {
         <div className="scene scene-results" id="results">
           <div className="scene-glow" />
           <div className="container section-content">
-            <div className="pill" ref={resultsPillRef}>
-              B
-            </div>
             <div className="results-headline" ref={resultsHeadlineRef}>
               <h2 className="section-title">Here are your easy A&apos;s.</h2>
               <p className="results-sub">Sorted by average difficulty, ratings, and real student feedback.</p>
@@ -747,7 +800,9 @@ function App() {
                   <ul className="results-grid">
                   {displayedResults.map((item, index) => {
                     const courseCode = item.course_code ?? `Unknown-${index}`;
-                    const saved = savedCourses.has(courseCode);
+                    const normalized = normalizeCourseCode(courseCode);
+                    const saved = savedCourses.has(normalized);
+                    const taken = takenCourses.has(normalized);
                     return (
                       <li
                         className="result-card breathe"
@@ -758,37 +813,38 @@ function App() {
                       >
                         <div className="result-top">
                           <h3>{courseCode}</h3>
-                          <button
-                            className={`save-btn ${saved ? 'saved' : ''}`}
-                            onClick={() => toggleSaved(courseCode, item)}
-                            type="button"
-                          >
-                            {saved ? 'Saved' : 'Save'}
-                          </button>
+                          <div className="result-top-actions">
+                            <button
+                              className={`save-btn ${saved ? 'saved' : ''}`}
+                              onClick={() => toggleSaved(courseCode, item)}
+                              type="button"
+                            >
+                              {saved ? 'Saved' : 'Save'}
+                            </button>
+                            <button
+                              className={`save-btn taken ${taken ? 'saved' : ''}`}
+                              onClick={() => toggleTaken(courseCode, item)}
+                              type="button"
+                            >
+                              {taken ? 'Taken' : 'Mark Taken'}
+                            </button>
+                          </div>
                         </div>
                         <p className="title">{item.title ?? 'No title available'}</p>
                         <p className="meta">
-                          Avg Difficulty <strong>{item.difficulty ?? 'n/a'}</strong>
+                          Avg Difficulty <strong>{formatOutOfFive(item.difficulty)}</strong>
                         </p>
                         <p className="meta">
                           Prof. <strong>{item.professor ?? 'n/a'}</strong> {item.prof_rating ?? 'n/a'}/5
+                        </p>
+                        <p className="meta">
+                          Reviews <strong>{item.review_count ?? 'n/a'}</strong>
                         </p>
                         {item.reason ? <p className="quote">&quot;{item.reason}&quot;</p> : null}
                       </li>
                     );
                   })}
                 </ul>
-                {results.length > 5 ? (
-                  <div className="results-actions">
-                    <button
-                      type="button"
-                      className="btn-clear"
-                      onClick={() => setShowAllResults((prev) => !prev)}
-                    >
-                      {showAllResults ? 'Show Top 5' : `Show More (${results.length - 5} more)`}
-                    </button>
-                  </div>
-                ) : null}
                 </>
               )}
             </div>
@@ -849,7 +905,63 @@ function App() {
                     </div>
                     <p className="title">{item.title}</p>
                     <p className="meta">
-                      Avg Difficulty <strong>{item.difficulty}</strong>
+                      Avg Difficulty <strong>{formatOutOfFive(item.difficulty)}</strong>
+                    </p>
+                    <p className="meta">
+                      Prof. <strong>{item.professor}</strong> {item.prof_rating}/5
+                    </p>
+                    {item.reason ? <p className="quote">&quot;{item.reason}&quot;</p> : null}
+                  </li>
+                ))}
+              </ul>
+            </>
+          )}
+        </div>
+      </section>
+
+      <section className="flow-section taken-panel" id="taken">
+        <div className="container section-content reveal-on-scroll">
+          <div className="saved-header">
+            <h2 className="section-title">Taken Classes</h2>
+            <p className="saved-count">{takenCards.length} taken</p>
+          </div>
+          {takenCards.length === 0 ? (
+            <div className="glass-card saved-empty">
+              <p>Mark classes as taken in results to avoid recommending duplicates.</p>
+              <button className="btn-amber" onClick={() => scrollTo('results-scene')}>
+                Browse Results
+              </button>
+            </div>
+          ) : (
+            <>
+              <div className="saved-actions">
+                <button
+                  type="button"
+                  className="btn-clear"
+                  onClick={() => {
+                    setTakenCourses(new Set());
+                    setTakenCourseMap({});
+                  }}
+                >
+                  Clear Taken List
+                </button>
+              </div>
+              <ul className="saved-grid">
+                {takenCards.map((item) => (
+                  <li className="result-card" key={`taken-${item.course_code}`}>
+                    <div className="result-top">
+                      <h3>{item.course_code}</h3>
+                      <button
+                        className="save-btn saved"
+                        type="button"
+                        onClick={() => toggleTaken(item.course_code, item)}
+                      >
+                        Undo
+                      </button>
+                    </div>
+                    <p className="title">{item.title}</p>
+                    <p className="meta">
+                      Avg Difficulty <strong>{formatOutOfFive(item.difficulty)}</strong>
                     </p>
                     <p className="meta">
                       Prof. <strong>{item.professor}</strong> {item.prof_rating}/5
@@ -865,7 +977,7 @@ function App() {
 
       <section className="flow-section features" id="features">
         <div className="container section-content reveal-on-scroll">
-          <h2 className="section-title">built for students, by students</h2>
+          <h2 className="section-title">Built For Students, By Students</h2>
           <div className="features-grid">
             {featureCards.map((feature, index) => (
               <article
@@ -891,10 +1003,9 @@ function App() {
             <h3>SaveMyGrade</h3>
             <p>Find easy A&apos;s. Plan smarter.</p>
             <div className="footer-links">
-              <button onClick={() => scrollTo('hero-scene')}>How it works</button>
+              <button onClick={() => scrollTo('hero-scene')}>How It Works</button>
               <button onClick={() => scrollTo('search-scene')}>Search</button>
               <button onClick={() => scrollTo('results-scene')}>Results</button>
-              <button onClick={() => scrollTo('features')}>FAQ</button>
             </div>
             <small>© 2026 SaveMyGrade. All rights reserved.</small>
           </div>
