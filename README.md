@@ -33,6 +33,16 @@ npm run dev
 
 `http://localhost:5173`
 
+### Docker 
+
+Clone the repo
+
+```bash
+sudo docker build -t savemygrade .
+sudo docker run --rm -p 5050:5050 -p 3069:5173 -e GEMINI_API_KEY="INSERT GEMINI API KEY HERE" savemygrade
+navigate to localhost:3069
+```
+
 ## Environment Setup
 
 Create your local env file:
