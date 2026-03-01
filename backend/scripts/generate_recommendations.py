@@ -308,13 +308,19 @@ def score_candidate(profile: ClassProfile, query_tokens: set[str]) -> tuple[floa
     )
 
     query_bonus = sum(1 for token in query_tokens if token in search_blob)
-    final_score = ease_score + min(15, query_bonus * 2.5)
+    # Prefer recommendations backed by more student reports.
+    review_penalty = 0.0
+    if profile.ratings_count < 3:
+        review_penalty = (3 - profile.ratings_count) * 6.0
+
+    final_score = ease_score + min(15, query_bonus * 2.5) - review_penalty
 
     return final_score, {
         "ease_score": round(final_score, 2),
         "prof_rating": round(prof_rating, 2),
         "difficulty": round(class_difficulty, 2),
         "review_count": profile.ratings_count,
+        "low_review_penalty": round(review_penalty, 2),
         "avg_helpful": round(helpful, 2),
         "avg_clarity": round(clarity, 2),
         "sentiment": round(sentiment, 2),
@@ -425,6 +431,7 @@ def run_gemini_ranking(
     query: str,
     department: str,
     professor: str,
+    exclude_taken_codes: list[str],
     max_results: int,
 ) -> tuple[list[dict[str, Any]] | None, str | None]:
     api_key = (os.getenv("GOOGLE_API_KEY") or os.getenv("GEMINI_API_KEY") or "").strip()
@@ -442,6 +449,7 @@ def run_gemini_ranking(
         "query": query,
         "department": department,
         "professor": professor,
+        "exclude_taken_codes": exclude_taken_codes,
         "candidates": candidates[:25],
         "max_results": max_results,
     }
@@ -453,7 +461,9 @@ def run_gemini_ranking(
         "\"ease_score\":number,\"reason\":str}],\"summary\":str}. "
         "Do not invent fields. Prefer lower difficulty, higher professor ratings, and positive comments. "
         "IMPORTANT: Ignore review evidence for classes not in the official SFU 2025-2026 course catalog. "
-        "Course code matching is space-insensitive (e.g., CMPT120 == CMPT 120).\n\n"
+        "Course code matching is space-insensitive (e.g., CMPT120 == CMPT 120). "
+        "Strongly down-rank classes with fewer than 3 reviews unless there are no stronger alternatives. "
+        "Never include courses in exclude_taken_codes.\n\n"
         f"Input: {json.dumps(prompt_payload, ensure_ascii=True)}"
     )
 
@@ -525,6 +535,16 @@ def build_recommendations(payload: dict[str, Any]) -> dict[str, Any]:
     query = clean_text(str(payload.get("query", "")))
     department = clean_text(str(payload.get("department", "")))
     professor = clean_text(str(payload.get("professor", "")))
+    exclude_taken_raw = payload.get("exclude_taken_courses", [])
+    if isinstance(exclude_taken_raw, list):
+        exclude_taken_codes = [
+            normalize_course_code(str(code))
+            for code in exclude_taken_raw
+            if normalize_course_code(str(code))
+        ]
+    else:
+        exclude_taken_codes = []
+    exclude_taken_set = set(exclude_taken_codes)
 
     max_results_raw = payload.get("max_results", DEFAULT_MAX_RESULTS)
     try:
@@ -553,6 +573,13 @@ def build_recommendations(payload: dict[str, Any]) -> dict[str, Any]:
             },
         }
     profiles, catalog_filtered_out = filter_profiles_by_catalog(profiles, catalog_codes)
+    excluded_taken_count = 0
+    if exclude_taken_set:
+        before = len(profiles)
+        profiles = [
+            p for p in profiles if normalize_course_code(p.course_code) not in exclude_taken_set
+        ]
+        excluded_taken_count = before - len(profiles)
 
     if not profiles:
         return {
@@ -568,6 +595,7 @@ def build_recommendations(payload: dict[str, Any]) -> dict[str, Any]:
                 "catalog_csv_path": str(catalog_path) if catalog_path else None,
                 "catalog_loaded": bool(catalog_codes),
                 "catalog_filtered_out": catalog_filtered_out,
+                "excluded_taken_count": excluded_taken_count,
                 "note": "No matching data found for provided filters.",
             },
         }
@@ -597,6 +625,7 @@ def build_recommendations(payload: dict[str, Any]) -> dict[str, Any]:
         query=query,
         department=department,
         professor=professor,
+        exclude_taken_codes=sorted(exclude_taken_set),
         max_results=max_results,
     )
 
@@ -621,6 +650,7 @@ def build_recommendations(payload: dict[str, Any]) -> dict[str, Any]:
             "catalog_csv_path": str(catalog_path) if catalog_path else None,
             "catalog_loaded": bool(catalog_codes),
             "catalog_filtered_out": catalog_filtered_out,
+            "excluded_taken_count": excluded_taken_count,
         },
     }
 
