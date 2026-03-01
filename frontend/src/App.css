@@ -645,6 +645,47 @@ textarea {
   color: rgba(255, 255, 255, 0.9);
 }
 
+.risk-row {
+  margin: 0.5rem 0 0;
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  flex-wrap: wrap;
+}
+
+.risk-chip {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  padding: 0.18rem 0.56rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  border: 1px solid transparent;
+}
+
+.risk-chip.harder {
+  background: rgba(248, 113, 113, 0.2);
+  color: #fecaca;
+  border-color: rgba(248, 113, 113, 0.36);
+}
+
+.risk-chip.stable {
+  background: rgba(251, 191, 36, 0.2);
+  color: #fde68a;
+  border-color: rgba(251, 191, 36, 0.36);
+}
+
+.risk-chip.easier {
+  background: rgba(74, 222, 128, 0.2);
+  color: #bbf7d0;
+  border-color: rgba(74, 222, 128, 0.36);
+}
+
+.risk-detail {
+  font-size: 0.78rem;
+  color: rgba(255, 255, 255, 0.78);
+}
+
 .quote {
   color: rgba(255, 255, 255, 0.78);
   font-style: italic;

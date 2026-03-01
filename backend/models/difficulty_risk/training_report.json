@@ -1,0 +1,191 @@
+{
+  "dataset": {
+    "num_term_rows": 18542,
+    "num_samples_total": 1789,
+    "num_samples_train": 946,
+    "num_samples_test": 843,
+    "label_distribution_total": {
+      "harder": 618,
+      "easier": 598,
+      "stable": 573
+    },
+    "label_distribution_train": {
+      "harder": 333,
+      "easier": 324,
+      "stable": 289
+    },
+    "label_distribution_test": {
+      "harder": 285,
+      "stable": 284,
+      "easier": 274
+    },
+    "unique_courses_eligible": 246,
+    "catalog_filter_enabled": false,
+    "catalog_codes_count": 0
+  },
+  "metrics": {
+    "accuracy": 0.5219454329774614,
+    "balanced_accuracy": 0.522812939445698,
+    "classification_report": {
+      "easier": {
+        "precision": 0.5544217687074829,
+        "recall": 0.5948905109489051,
+        "f1-score": 0.573943661971831,
+        "support": 274.0
+      },
+      "stable": {
+        "precision": 0.404320987654321,
+        "recall": 0.4612676056338028,
+        "f1-score": 0.4309210526315789,
+        "support": 284.0
+      },
+      "harder": {
+        "precision": 0.6488888888888888,
+        "recall": 0.512280701754386,
+        "f1-score": 0.5725490196078431,
+        "support": 285.0
+      },
+      "accuracy": 0.5219454329774614,
+      "macro avg": {
+        "precision": 0.5358772150835643,
+        "recall": 0.522812939445698,
+        "f1-score": 0.5258045780704177,
+        "support": 843.0
+      },
+      "weighted avg": {
+        "precision": 0.5357912911660864,
+        "recall": 0.5219454329774614,
+        "f1-score": 0.5252889832928652,
+        "support": 843.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        163,
+        90,
+        21
+      ],
+      [
+        95,
+        131,
+        58
+      ],
+      [
+        36,
+        103,
+        146
+      ]
+    ],
+    "labels": [
+      "easier",
+      "stable",
+      "harder"
+    ]
+  },
+  "model_selection": {
+    "selected_model": "logreg_balanced_low_c",
+    "validation_metrics_selected_model": {
+      "accuracy": 0.5512048192771084,
+      "balanced_accuracy": 0.5523207573355066,
+      "classification_report": {
+        "easier": {
+          "precision": 0.578125,
+          "recall": 0.6851851851851852,
+          "f1-score": 0.6271186440677966,
+          "support": 108.0
+        },
+        "stable": {
+          "precision": 0.4326923076923077,
+          "recall": 0.40540540540540543,
+          "f1-score": 0.4186046511627907,
+          "support": 111.0
+        },
+        "harder": {
+          "precision": 0.64,
+          "recall": 0.5663716814159292,
+          "f1-score": 0.6009389671361502,
+          "support": 113.0
+        },
+        "accuracy": 0.5512048192771084,
+        "macro avg": {
+          "precision": 0.5502724358974359,
+          "recall": 0.5523207573355066,
+          "f1-score": 0.5488874207889125,
+          "support": 332.0
+        },
+        "weighted avg": {
+          "precision": 0.5505612835959223,
+          "recall": 0.5512048192771084,
+          "f1-score": 0.5484940756770385,
+          "support": 332.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          74,
+          25,
+          9
+        ],
+        [
+          39,
+          45,
+          27
+        ],
+        [
+          15,
+          34,
+          64
+        ]
+      ],
+      "labels": [
+        "easier",
+        "stable",
+        "harder"
+      ]
+    },
+    "leaderboard": [
+      {
+        "model_name": "logreg_balanced_low_c",
+        "balanced_accuracy": 0.5523207573355066,
+        "accuracy": 0.5512048192771084,
+        "stable_f1": 0.4186046511627907,
+        "selection_score": 0.5732509898936461
+      },
+      {
+        "model_name": "logreg_balanced",
+        "balanced_accuracy": 0.5462313345794172,
+        "accuracy": 0.5451807228915663,
+        "stable_f1": 0.411214953271028,
+        "selection_score": 0.5667920822429686
+      },
+      {
+        "model_name": "rf_balanced",
+        "balanced_accuracy": 0.5311550488541639,
+        "accuracy": 0.5301204819277109,
+        "stable_f1": 0.3125,
+        "selection_score": 0.5467800488541639
+      },
+      {
+        "model_name": "extra_trees_balanced",
+        "balanced_accuracy": 0.49808436755339414,
+        "accuracy": 0.49698795180722893,
+        "stable_f1": 0.25766871165644173,
+        "selection_score": 0.5109678031362163
+      }
+    ]
+  },
+  "config": {
+    "min_total_reviews": 30,
+    "min_terms": 4,
+    "min_reviews_per_term": 2,
+    "delta_threshold": 0.35,
+    "history_window": 3,
+    "test_fraction": 0.2
+  },
+  "paths": {
+    "data_root": "/Users/ks/Desktop/PROJECTS/SaveMyGrade/backend/data/professor_reviews_by_department",
+    "catalog_csv": "/Users/ks/Desktop/PROJECTS/SaveMyGrade/backend/data/sfu_courses_2025_2026.csv",
+    "model_out": "/Users/ks/Desktop/PROJECTS/SaveMyGrade/backend/models/difficulty_risk/model.pkl",
+    "forecast_out": "/Users/ks/Desktop/PROJECTS/SaveMyGrade/backend/models/difficulty_risk/latest_forecasts.csv"
+  }
+}

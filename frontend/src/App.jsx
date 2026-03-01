@@ -37,6 +37,53 @@ const formatOutOfFive = (value) => {
   if (!Number.isFinite(num)) return 'n/a';
   return `${num}/5`;
 };
+const formatPercent = (value) => {
+  const num = Number(value);
+  if (!Number.isFinite(num)) return null;
+  return `${Math.round(num * 100)}%`;
+};
+
+function getRiskUi(item) {
+  const label = String(item?.difficulty_risk_label ?? '').toLowerCase();
+  const confidence = formatPercent(item?.difficulty_risk_confidence);
+  if (label === 'harder') {
+    return {
+      className: 'risk-chip harder',
+      text: 'Risk: Harder',
+      detail: confidence ? `${confidence} confidence` : 'Forecasted trend'
+    };
+  }
+  if (label === 'stable') {
+    return {
+      className: 'risk-chip stable',
+      text: 'Risk: Stable',
+      detail: confidence ? `${confidence} confidence` : 'Forecasted trend'
+    };
+  }
+  if (label === 'easier') {
+    return {
+      className: 'risk-chip easier',
+      text: 'Risk: Easier',
+      detail: confidence ? `${confidence} confidence` : 'Forecasted trend'
+    };
+  }
+  return null;
+}
+
+function toStoredCourse(item, courseCode) {
+  return {
+    course_code: courseCode,
+    title: item?.title ?? 'No title available',
+    department: item?.department ?? '',
+    difficulty: item?.difficulty ?? 'n/a',
+    professor: item?.professor ?? 'n/a',
+    prof_rating: item?.prof_rating ?? 'n/a',
+    reason: item?.reason ?? '',
+    review_count: item?.review_count ?? 0,
+    difficulty_risk_label: item?.difficulty_risk_label ?? '',
+    difficulty_risk_confidence: item?.difficulty_risk_confidence ?? null
+  };
+}
 
 function toTransform(x = 0, y = 0, scale = 1) {
   return `translate3d(${x}px, ${y}px, 0) scale(${scale})`;
@@ -147,50 +194,33 @@ function App() {
   useEffect(() => {
     if (!results.length || !savedCourses.size) return;
     setSavedCourseMap((prev) => {
-      const next = { ...prev };
-      let changed = false;
-      results.forEach((item, index) => {
-        const courseCode = item.course_code ?? `Unknown-${index}`;
-        const normalized = normalizeCourseCode(courseCode);
-        if (!savedCourses.has(normalized) || next[normalized]) return;
-        next[normalized] = {
-          course_code: courseCode,
-          title: item?.title ?? 'No title available',
-          department: item?.department ?? '',
-          difficulty: item?.difficulty ?? 'n/a',
-          professor: item?.professor ?? 'n/a',
-          prof_rating: item?.prof_rating ?? 'n/a',
-          reason: item?.reason ?? ''
-        };
-        changed = true;
+        const next = { ...prev };
+        let changed = false;
+        results.forEach((item, index) => {
+          const courseCode = item.course_code ?? `Unknown-${index}`;
+          const normalized = normalizeCourseCode(courseCode);
+          if (!savedCourses.has(normalized) || next[normalized]) return;
+          next[normalized] = toStoredCourse(item, courseCode);
+          changed = true;
+        });
+        return changed ? next : prev;
       });
-      return changed ? next : prev;
-    });
   }, [results, savedCourses]);
 
   useEffect(() => {
     if (!results.length || !takenCourses.size) return;
     setTakenCourseMap((prev) => {
-      const next = { ...prev };
-      let changed = false;
-      results.forEach((item, index) => {
-        const courseCode = item.course_code ?? `Unknown-${index}`;
-        const normalized = normalizeCourseCode(courseCode);
-        if (!takenCourses.has(normalized) || next[normalized]) return;
-        next[normalized] = {
-          course_code: courseCode,
-          title: item?.title ?? 'No title available',
-          department: item?.department ?? '',
-          difficulty: item?.difficulty ?? 'n/a',
-          professor: item?.professor ?? 'n/a',
-          prof_rating: item?.prof_rating ?? 'n/a',
-          reason: item?.reason ?? '',
-          review_count: item?.review_count ?? 0
-        };
-        changed = true;
+        const next = { ...prev };
+        let changed = false;
+        results.forEach((item, index) => {
+          const courseCode = item.course_code ?? `Unknown-${index}`;
+          const normalized = normalizeCourseCode(courseCode);
+          if (!takenCourses.has(normalized) || next[normalized]) return;
+          next[normalized] = toStoredCourse(item, courseCode);
+          changed = true;
+        });
+        return changed ? next : prev;
       });
-      return changed ? next : prev;
-    });
   }, [results, takenCourses]);
 
   useEffect(() => {
@@ -482,15 +512,7 @@ function App() {
       if (next[normalized]) {
         delete next[normalized];
       } else {
-        next[normalized] = {
-          course_code: courseCode,
-          title: item?.title ?? 'No title available',
-          department: item?.department ?? '',
-          difficulty: item?.difficulty ?? 'n/a',
-          professor: item?.professor ?? 'n/a',
-          prof_rating: item?.prof_rating ?? 'n/a',
-          reason: item?.reason ?? ''
-        };
+        next[normalized] = toStoredCourse(item, courseCode);
       }
       return next;
     });
@@ -513,16 +535,7 @@ function App() {
       if (next[normalized]) {
         delete next[normalized];
       } else {
-        next[normalized] = {
-          course_code: courseCode,
-          title: item?.title ?? 'No title available',
-          department: item?.department ?? '',
-          difficulty: item?.difficulty ?? 'n/a',
-          professor: item?.professor ?? 'n/a',
-          prof_rating: item?.prof_rating ?? 'n/a',
-          reason: item?.reason ?? '',
-          review_count: item?.review_count ?? 0
-        };
+        next[normalized] = toStoredCourse(item, courseCode);
       }
       return next;
     });
@@ -803,6 +816,7 @@ function App() {
                     const normalized = normalizeCourseCode(courseCode);
                     const saved = savedCourses.has(normalized);
                     const taken = takenCourses.has(normalized);
+                    const riskUi = getRiskUi(item);
                     return (
                       <li
                         className="result-card breathe"
@@ -831,6 +845,12 @@ function App() {
                           </div>
                         </div>
                         <p className="title">{item.title ?? 'No title available'}</p>
+                        {riskUi ? (
+                          <div className="risk-row">
+                            <span className={riskUi.className}>{riskUi.text}</span>
+                            <span className="risk-detail">{riskUi.detail}</span>
+                          </div>
+                        ) : null}
                         <p className="meta">
                           Avg Difficulty <strong>{formatOutOfFive(item.difficulty)}</strong>
                         </p>
@@ -891,28 +911,37 @@ function App() {
                 </button>
               </div>
               <ul className="saved-grid">
-                {savedCards.map((item) => (
-                  <li className="result-card" key={`saved-${item.course_code}`}>
-                    <div className="result-top">
-                      <h3>{item.course_code}</h3>
-                      <button
-                        className="save-btn saved"
-                        type="button"
-                        onClick={() => toggleSaved(item.course_code, item)}
-                      >
-                        Remove
-                      </button>
-                    </div>
-                    <p className="title">{item.title}</p>
-                    <p className="meta">
-                      Avg Difficulty <strong>{formatOutOfFive(item.difficulty)}</strong>
-                    </p>
-                    <p className="meta">
-                      Prof. <strong>{item.professor}</strong> {item.prof_rating}/5
-                    </p>
-                    {item.reason ? <p className="quote">&quot;{item.reason}&quot;</p> : null}
-                  </li>
-                ))}
+                {savedCards.map((item) => {
+                  const riskUi = getRiskUi(item);
+                  return (
+                    <li className="result-card" key={`saved-${item.course_code}`}>
+                      <div className="result-top">
+                        <h3>{item.course_code}</h3>
+                        <button
+                          className="save-btn saved"
+                          type="button"
+                          onClick={() => toggleSaved(item.course_code, item)}
+                        >
+                          Remove
+                        </button>
+                      </div>
+                      <p className="title">{item.title}</p>
+                      {riskUi ? (
+                        <div className="risk-row">
+                          <span className={riskUi.className}>{riskUi.text}</span>
+                          <span className="risk-detail">{riskUi.detail}</span>
+                        </div>
+                      ) : null}
+                      <p className="meta">
+                        Avg Difficulty <strong>{formatOutOfFive(item.difficulty)}</strong>
+                      </p>
+                      <p className="meta">
+                        Prof. <strong>{item.professor}</strong> {item.prof_rating}/5
+                      </p>
+                      {item.reason ? <p className="quote">&quot;{item.reason}&quot;</p> : null}
+                    </li>
+                  );
+                })}
               </ul>
             </>
           )}
@@ -947,28 +976,37 @@ function App() {
                 </button>
               </div>
               <ul className="saved-grid">
-                {takenCards.map((item) => (
-                  <li className="result-card" key={`taken-${item.course_code}`}>
-                    <div className="result-top">
-                      <h3>{item.course_code}</h3>
-                      <button
-                        className="save-btn saved"
-                        type="button"
-                        onClick={() => toggleTaken(item.course_code, item)}
-                      >
-                        Undo
-                      </button>
-                    </div>
-                    <p className="title">{item.title}</p>
-                    <p className="meta">
-                      Avg Difficulty <strong>{formatOutOfFive(item.difficulty)}</strong>
-                    </p>
-                    <p className="meta">
-                      Prof. <strong>{item.professor}</strong> {item.prof_rating}/5
-                    </p>
-                    {item.reason ? <p className="quote">&quot;{item.reason}&quot;</p> : null}
-                  </li>
-                ))}
+                {takenCards.map((item) => {
+                  const riskUi = getRiskUi(item);
+                  return (
+                    <li className="result-card" key={`taken-${item.course_code}`}>
+                      <div className="result-top">
+                        <h3>{item.course_code}</h3>
+                        <button
+                          className="save-btn saved"
+                          type="button"
+                          onClick={() => toggleTaken(item.course_code, item)}
+                        >
+                          Undo
+                        </button>
+                      </div>
+                      <p className="title">{item.title}</p>
+                      {riskUi ? (
+                        <div className="risk-row">
+                          <span className={riskUi.className}>{riskUi.text}</span>
+                          <span className="risk-detail">{riskUi.detail}</span>
+                        </div>
+                      ) : null}
+                      <p className="meta">
+                        Avg Difficulty <strong>{formatOutOfFive(item.difficulty)}</strong>
+                      </p>
+                      <p className="meta">
+                        Prof. <strong>{item.professor}</strong> {item.prof_rating}/5
+                      </p>
+                      {item.reason ? <p className="quote">&quot;{item.reason}&quot;</p> : null}
+                    </li>
+                  );
+                })}
               </ul>
             </>
           )}

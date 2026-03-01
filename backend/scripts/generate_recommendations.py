@@ -31,6 +31,10 @@ CATALOG_PATH_CANDIDATES = [
     Path(__file__).resolve().parent.parent / "backend" / "data" / "sfu_courses_2025_2026.csv",
     Path(__file__).resolve().parent.parent / "data" / "sfu_courses_2025_2026.csv",
 ]
+FORECAST_PATH_CANDIDATES = [
+    Path(__file__).resolve().parent.parent / "models" / "difficulty_risk" / "latest_forecasts.csv",
+    Path(__file__).resolve().parent.parent / "backend" / "models" / "difficulty_risk" / "latest_forecasts.csv",
+]
 DEFAULT_MAX_RESULTS = 10
 
 EASY_TERMS = {
@@ -153,6 +157,102 @@ def resolve_catalog_csv_path() -> Path | None:
     for p in CATALOG_PATH_CANDIDATES:
         if p.exists():
             return p
+    return None
+
+
+def resolve_forecast_csv_path() -> Path | None:
+    env_path = (os.getenv("DIFFICULTY_RISK_FORECAST_CSV") or "").strip()
+    if env_path:
+        p = Path(env_path).expanduser().resolve()
+        if p.exists():
+            return p
+        return None
+
+    for p in FORECAST_PATH_CANDIDATES:
+        if p.exists():
+            return p
+    return None
+
+
+def load_difficulty_forecasts() -> tuple[
+    dict[tuple[str, str], dict[str, Any]],
+    dict[str, dict[str, Any]],
+    Path | None,
+]:
+    csv_path = resolve_forecast_csv_path()
+    if not csv_path:
+        return {}, {}, None
+
+    by_department_and_code: dict[tuple[str, str], dict[str, Any]] = {}
+    by_code: dict[str, dict[str, Any]] = {}
+
+    with csv_path.open(newline="", encoding="utf-8") as file:
+        reader = csv.DictReader(file)
+        for row in reader:
+            if not isinstance(row, dict):
+                continue
+
+            department = clean_text(str(row.get("department", "")))
+            code = normalize_course_code(str(row.get("course_code", "")))
+            if not code:
+                continue
+
+            risk_label = clean_text(str(row.get("risk_label", ""))).lower()
+            risk_confidence = to_float(row.get("risk_confidence"))
+            prob_harder = to_float(row.get("prob_harder"))
+            prob_stable = to_float(row.get("prob_stable"))
+            prob_easier = to_float(row.get("prob_easier"))
+            harder_minus_easier = to_float(row.get("harder_minus_easier"))
+            current_term = clean_text(str(row.get("current_term", "")))
+            current_avg_difficulty = to_float(row.get("current_avg_difficulty"))
+            current_reviews = int(to_float(row.get("current_reviews")) or 0)
+
+            forecast = {
+                "difficulty_risk_label": risk_label or None,
+                "difficulty_risk_confidence": round(risk_confidence, 4)
+                if risk_confidence is not None
+                else None,
+                "difficulty_risk_prob_harder": round(prob_harder, 4) if prob_harder is not None else None,
+                "difficulty_risk_prob_stable": round(prob_stable, 4) if prob_stable is not None else None,
+                "difficulty_risk_prob_easier": round(prob_easier, 4) if prob_easier is not None else None,
+                "difficulty_risk_margin": round(harder_minus_easier, 4)
+                if harder_minus_easier is not None
+                else None,
+                "difficulty_risk_current_term": current_term or None,
+                "difficulty_risk_current_avg_difficulty": round(current_avg_difficulty, 3)
+                if current_avg_difficulty is not None
+                else None,
+                "difficulty_risk_current_reviews": current_reviews,
+            }
+
+            dept_key = normalize_for_match(department)
+            key = (dept_key, code)
+            existing = by_department_and_code.get(key)
+            if (
+                not existing
+                or (forecast["difficulty_risk_confidence"] or 0.0)
+                > (existing.get("difficulty_risk_confidence") or 0.0)
+            ):
+                by_department_and_code[key] = forecast
+
+            existing_code = by_code.get(code)
+            if (
+                not existing_code
+                or (forecast["difficulty_risk_confidence"] or 0.0)
+                > (existing_code.get("difficulty_risk_confidence") or 0.0)
+            ):
+                by_code[code] = forecast
+
+    return by_department_and_code, by_code, csv_path
+
+
+def risk_note_from_label(label: str | None) -> str | None:
+    if label == "harder":
+        return "Risk: likely harder next term"
+    if label == "easier":
+        return "Trend: likely easier next term"
+    if label == "stable":
+        return "Trend: likely stable next term"
     return None
 
 
@@ -530,6 +630,24 @@ def merge_gemini_results(
     return merged
 
 
+def enrich_results_with_risk(
+    results: list[dict[str, Any]],
+    risk_by_dept_and_code: dict[tuple[str, str], dict[str, Any]],
+    risk_by_code: dict[str, dict[str, Any]],
+) -> list[dict[str, Any]]:
+    enriched: list[dict[str, Any]] = []
+    for item in results:
+        base = dict(item)
+        department = normalize_for_match(str(base.get("department", "")))
+        course_code = normalize_course_code(str(base.get("course_code", "")))
+        forecast = risk_by_dept_and_code.get((department, course_code)) or risk_by_code.get(course_code)
+        if forecast:
+            base.update(forecast)
+            base["difficulty_risk_note"] = risk_note_from_label(base.get("difficulty_risk_label"))
+        enriched.append(base)
+    return enriched
+
+
 def build_recommendations(payload: dict[str, Any]) -> dict[str, Any]:
     university = clean_text(str(payload.get("university", "Simon Fraser University")))
     query = clean_text(str(payload.get("query", "")))
@@ -555,6 +673,8 @@ def build_recommendations(payload: dict[str, Any]) -> dict[str, Any]:
     files = iter_professor_files(DATA_ROOT, department=department or None, professor=professor or None)
     profiles = build_profiles(files)
     catalog_codes, catalog_path = load_catalog_course_codes()
+    risk_by_dept_and_code, risk_by_code, risk_csv_path = load_difficulty_forecasts()
+
     if not catalog_codes:
         return {
             "university": university,
@@ -569,6 +689,9 @@ def build_recommendations(payload: dict[str, Any]) -> dict[str, Any]:
                 "catalog_csv_path": str(catalog_path) if catalog_path else None,
                 "catalog_loaded": False,
                 "catalog_filtered_out": 0,
+                "risk_forecast_loaded": bool(risk_by_code),
+                "risk_forecast_rows": len(risk_by_code),
+                "risk_forecast_csv_path": str(risk_csv_path) if risk_csv_path else None,
                 "note": "Catalog CSV not found/loaded. Refusing to return unverified course recommendations.",
             },
         }
@@ -596,6 +719,9 @@ def build_recommendations(payload: dict[str, Any]) -> dict[str, Any]:
                 "catalog_loaded": bool(catalog_codes),
                 "catalog_filtered_out": catalog_filtered_out,
                 "excluded_taken_count": excluded_taken_count,
+                "risk_forecast_loaded": bool(risk_by_code),
+                "risk_forecast_rows": len(risk_by_code),
+                "risk_forecast_csv_path": str(risk_csv_path) if risk_csv_path else None,
                 "note": "No matching data found for provided filters.",
             },
         }
@@ -636,6 +762,8 @@ def build_recommendations(payload: dict[str, Any]) -> dict[str, Any]:
         results = [dict(item, source="heuristic") for item in top_candidates[:max_results]]
         model_used = "heuristic"
 
+    results = enrich_results_with_risk(results, risk_by_dept_and_code, risk_by_code)
+
     return {
         "university": university,
         "query": query,
@@ -651,6 +779,9 @@ def build_recommendations(payload: dict[str, Any]) -> dict[str, Any]:
             "catalog_loaded": bool(catalog_codes),
             "catalog_filtered_out": catalog_filtered_out,
             "excluded_taken_count": excluded_taken_count,
+            "risk_forecast_loaded": bool(risk_by_code),
+            "risk_forecast_rows": len(risk_by_code),
+            "risk_forecast_csv_path": str(risk_csv_path) if risk_csv_path else None,
         },
     }
 
